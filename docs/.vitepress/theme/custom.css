@@ -1,7 +1,34 @@
 /* .vitepress/theme/custom.css */
 :root {
-  /* --vp-c-brand-1: #747bff;
-  --vp-c-brand-2: #747bff; */
+  --vp-c-brand-1: var(--vp-c-red-1);
+  --vp-c-brand-2: var(--vp-c-red-2);
+  --vp-c-brand-3: var(--vp-c-red-3);
+  /* --vp-c-brand-soft: var(--vp-c-red-soft); */
+  --vp-c-brand-solid: var(--vp-c-red-2);
+  --vp-c-brand-button: var(--vp-c-red-2);
+  --vp-c-brand-text: #fff;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(
+    90deg,
+    #b8272c 0%,
+    #e0575b 100%
+  );
+}
+
+.dark {
+  /* --vp-c-brand-1: var(--vp-c-red-1);
+  --vp-c-brand-2: var(--vp-c-red-2);
+  --vp-c-brand-3: var(--vp-c-red-3);
+  --vp-c-brand-soft: var(--vp-c-red-soft);
+  --vp-c-brand-solid: var(--vp-c-red-2);
+  --vp-c-brand-button: var(--vp-c-red-2);
+  --vp-c-brand-text: #fff;
+  --vp-home-hero-name-color: transparent; */
+  --vp-home-hero-name-background: linear-gradient(
+    90deg,
+    #f66f81 0%,
+    #b62a3c 100%
+  );
 }
 
 .vp-doc :is(img, video) {

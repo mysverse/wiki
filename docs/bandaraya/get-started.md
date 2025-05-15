@@ -1,56 +1,88 @@
 # Get Started with Bandaraya
 
-Welcome to **Bandaraya**! This guide will help you take your first steps in the city,
-from navigating the main menu to earning your first currency and exploring activities.
+Welcome to **Bandaraya**! Follow this guide to start your adventure—from navigating menus to earning your first Bandaraya Ringgit (BR).
+
+::: tip Welcome Aboard!
+Bandaraya is bustling with roles, activities, and adventures. Jump in and explore!
+:::
 
 ## Navigating the Main Menu
 
-![Image](https://blog-assets.mysver.se/images/2025/05/BDRY_Klasik.png)
+![Main Menu](/images/bandaraya/get-started/main-menu.jpg)
 
-After logging in, you'll see the **Main Menu**. Here you can:
+The **Main Menu** helps you select your gameplay options:
 
-- View your profile and stats
-- Access your inventory
-- Check your messages
-- Explore available jobs and activities
-
-Use the sidebar or top navigation to move between sections.
+- **Play:** Enter the city directly.
+- **Team:** Switch between available roles like Visitors, Malaysians, Police, Towing Services, Government, and more.
+- **Shop:** Purchase useful gamepasses like Taxi Driver, Firearms Licence, and more.
+- **About:** View credits and information about Bandaraya.
 
 ## Earning Your First Currency
 
-<video controls="controls" src="https://r2.mysver.se/websiteFeature.mp4" />
+![Pos Job](/images/bandaraya/get-started/pos.jpg)
 
-To start earning, head to the **Jobs** section from the main menu. Here’s how:
+To start earning BR, you need a job. Jobs are available based on your current team:
 
-1. Browse available jobs (e.g., Delivery, Taxi Driver, Cleaner).
-2. Select a job to view details and requirements.
-3. Click **Start Job** to begin.
-4. Complete the tasks to earn your first currency.
+- **Pos Nasional (Non-team job):** Go to the post office in-game to begin work. Progress through ranks to unlock new vehicles.
+- **Taxi Driver:** Join the Taxi team (requires Taxi Gamepass) via the Team menu to begin transporting other players.
+- **Agency Jobs:** Police, Military, Towing services, etc., require you to select the team via the main menu.
 
-> **Tip:** Some jobs may require specific items or skills. Check the requirements
-> before starting.
+Income amounts vary by team and are paid periodically based on your active job.
 
-## Renting a Car
+## Renting or Buying a Vehicle
 
-Getting around is easier with a vehicle. To rent a car:
+![Automobile](/images/bandaraya/get-started/automobile.png)
 
-1. Go to the **Vehicles** tab in the main menu.
-2. Choose **Rent a Car**.
-3. Select a car model and rental duration.
-4. Confirm your rental and pick up your car at the nearest garage.
+Vehicles are crucial for exploring Bandaraya:
 
-> **Note:** Rental fees are deducted from your balance.
+1. Locate a dealership on the minimap.
+2. Interact with the dealership to choose between renting (recommended for short visits) or buying.
 
-## Activities
+::: warning Rental Costs
+Rental fees are deducted immediately from your BR balance.
+:::
 
-Bandaraya offers a variety of activities:
+## Activities & Events
 
-- **Mini-games:** Try your luck or test your skills.
-- **Events:** Participate in city-wide events for special rewards.
-- **Socialize:** Meet other players in public spaces.
+Bandaraya offers dynamic experiences:
 
-Check the **Activities** section regularly for new events and challenges.
+- **Events:** Participate in developer-hosted events, roleplay scenarios, or spontaneous city activities.
+- **Social Spaces:** Interact with other players at various spots throughout the city.
+- **Quests:** Complete quests from NPCs (e.g., obtain the punch tool).
+- **Criminal Activities:** Engage in high-risk, high-reward tasks such as bank robberies and dealing with illegal vendors.
+
+## Using the Minimap
+
+![Minimap](/images/bandaraya/get-started/minimap.png)
+
+Use the minimap to easily navigate around Bandaraya. It displays:
+
+- Points of Interest
+- Job locations
+- Vehicle dealerships
+- Current player position
+
+## Using Your Phone
+
+![Phone](/images/bandaraya/get-started/phone.jpg)
+
+Access your in-game phone via the top bar to:
+
+- Call a taxi
+- Message other players
+- Request emergency services or towing
+- Manage vehicles
+- Transfer BR to other players
+- Access apps and city information
+
+## Gameplay Rules
+
+Players must adhere to game rules and roleplay guidelines at all times. Violations may result in server bans or temporary suspensions.
 
 ## Next Steps
 
-Explore the city, earn currency, and enjoy all that Bandaraya has to offer!
+Dive deeper into Bandaraya by joining teams, exploring quests, and engaging with community events. Enjoy your stay!
+
+::: tip Stay Updated!
+Regularly check the main menu's **Log** for recent updates and the **Shop** for exciting new gamepasses.
+:::

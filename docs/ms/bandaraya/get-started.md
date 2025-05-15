@@ -1,56 +1,88 @@
-# Get Started with Bandaraya BM
+# Mula dengan Bandaraya
 
-Welcome to **Bandaraya**! This guide will help you take your first steps in the city,
-from navigating the main menu to earning your first currency and exploring activities.
+Selamat datang ke **Bandaraya**! Ikuti panduan ini untuk memulakan pengembaraan anda—daripada menavigasi menu hingga memperoleh Bandaraya Ringgit (BR) pertama anda.
 
-## Navigating the Main Menu
+::: tip Selamat Datang!
+Bandaraya penuh dengan pelbagai peranan, aktiviti, dan pengembaraan. Sertai dan terokai!
+:::
 
-![Image](https://blog-assets.mysver.se/images/2025/05/BDRY_Klasik.png)
+## Navigasi Menu Utama
 
-After logging in, you'll see the **Main Menu**. Here you can:
+![Menu Utama](/images/bandaraya/get-started/main-menu.jpg)
 
-- View your profile and stats
-- Access your inventory
-- Check your messages
-- Explore available jobs and activities
+**Menu Utama** membantu anda memilih pilihan permainan:
 
-Use the sidebar or top navigation to move between sections.
+- **Main:** Masuk ke bandar secara langsung.
+- **Pasukan:** Tukar antara peranan seperti Pelawat, Warganegara Malaysia, Polis, Perkhidmatan Tunda, Kerajaan, dan lain-lain.
+- **Kedai:** Beli gamepass berguna seperti Pemandu Teksi, Lesen Senjata Api, dan banyak lagi.
+- **Tentang:** Lihat kredit dan maklumat mengenai Bandaraya.
 
-## Earning Your First Currency
+## Mendapatkan Mata Wang Pertama Anda
 
-<video controls="controls" src="https://r2.mysver.se/websiteFeature.mp4" />
+![Kerja Pos](/images/bandaraya/get-started/pos.jpg)
 
-To start earning, head to the **Jobs** section from the main menu. Here’s how:
+Untuk mula memperoleh BR, anda perlu bekerja. Kerja tersedia mengikut pasukan semasa anda:
 
-1. Browse available jobs (e.g., Delivery, Taxi Driver, Cleaner).
-2. Select a job to view details and requirements.
-3. Click **Start Job** to begin.
-4. Complete the tasks to earn your first currency.
+- **Pos Nasional (Kerja tanpa pasukan):** Pergi ke pejabat pos dalam permainan untuk mula bekerja. Naik pangkat untuk membuka kenderaan baru.
+- **Pemandu Teksi:** Sertai pasukan Teksi (memerlukan Gamepass Teksi) melalui menu Pasukan untuk mula membawa pemain lain.
+- **Kerja Agensi:** Polis, Tentera, Perkhidmatan Tunda, dan lain-lain memerlukan anda memilih pasukan melalui menu utama.
 
-> **Tip:** Some jobs may require specific items or skills. Check the requirements
-> before starting.
+Jumlah pendapatan berbeza mengikut pasukan dan dibayar secara berkala berdasarkan kerja aktif anda.
 
-## Renting a Car
+## Menyewa atau Membeli Kenderaan
 
-Getting around is easier with a vehicle. To rent a car:
+![Automobil](/images/bandaraya/get-started/automobile.png)
 
-1. Go to the **Vehicles** tab in the main menu.
-2. Choose **Rent a Car**.
-3. Select a car model and rental duration.
-4. Confirm your rental and pick up your car at the nearest garage.
+Kenderaan penting untuk meneroka Bandaraya:
 
-> **Note:** Rental fees are deducted from your balance.
+1. Cari pusat jualan kenderaan di peta mini.
+2. Berinteraksi dengan pusat jualan untuk memilih antara menyewa (disyorkan untuk lawatan singkat) atau membeli.
 
-## Activities
+::: warning Kos Sewa
+Yuran sewa akan ditolak serta-merta daripada baki BR anda.
+:::
 
-Bandaraya offers a variety of activities:
+## Aktiviti & Acara
 
-- **Mini-games:** Try your luck or test your skills.
-- **Events:** Participate in city-wide events for special rewards.
-- **Socialize:** Meet other players in public spaces.
+Bandaraya menawarkan pengalaman dinamik:
 
-Check the **Activities** section regularly for new events and challenges.
+- **Acara:** Sertai acara anjuran pembangun, senario roleplay, atau aktiviti bandar secara spontan.
+- **Ruang Sosial:** Berinteraksi dengan pemain lain di pelbagai lokasi dalam bandar.
+- **Misi:** Lengkapkan misi daripada NPC (contohnya, dapatkan alat tumbuk).
+- **Aktiviti Jenayah:** Lakukan tugas berisiko tinggi seperti rompakan bank dan berurusan dengan penjual haram.
 
-## Next Steps
+## Menggunakan Peta Mini
 
-Explore the city, earn currency, and enjoy all that Bandaraya has to offer!
+![Peta Mini](/images/bandaraya/get-started/minimap.png)
+
+Gunakan peta mini untuk menavigasi Bandaraya dengan mudah. Ia memaparkan:
+
+- Tempat Menarik
+- Lokasi kerja
+- Pusat jualan kenderaan
+- Kedudukan pemain semasa
+
+## Menggunakan Telefon Anda
+
+![Telefon](/images/bandaraya/get-started/phone.jpg)
+
+Akses telefon dalam permainan melalui bar atas untuk:
+
+- Panggil teksi
+- Hantar mesej kepada pemain lain
+- Minta perkhidmatan kecemasan atau tunda
+- Urus kenderaan
+- Pindahkan BR kepada pemain lain
+- Akses aplikasi dan maklumat bandar
+
+## Peraturan Permainan
+
+Pemain mesti mematuhi peraturan permainan dan garis panduan roleplay pada setiap masa. Pelanggaran boleh menyebabkan penggantungan sementara atau larangan pelayan.
+
+## Langkah Seterusnya
+
+Terokai Bandaraya dengan menyertai pasukan, melengkapkan misi, dan mengambil bahagian dalam acara komuniti. Selamat bermain!
+
+::: tip Sentiasa Dikemas Kini!
+Kerap semak **Log** di menu utama untuk kemas kini terkini dan **Kedai** untuk gamepass baru yang menarik.
+:::
