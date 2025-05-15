@@ -6,13 +6,17 @@ hero:
   name: "MYSverse Wiki"
   text: "Documenting MYSverse, one experience at a time"
   tagline: By Malaysians, for everyone
+  image:
+    light: /logo.svg
+    dark: /logo_dark.svg
+    alt: Feature image
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get started with Bandaraya
+      link: /bandaraya/get-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get started with Lebuhraya
+      link: /lebuhraya/get-started
 
 features:
   - title: Feature A

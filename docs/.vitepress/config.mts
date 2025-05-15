@@ -16,16 +16,26 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: "Utama", link: "/" },
-          { text: "Contoh", link: "/markdown-examples" },
+          { text: "MYSverse", link: "https://mysver.se" },
+          { text: "Blog", link: "https://blog.mysver.se" },
+          { text: "Sentral", link: "https://sentral.mysver.se" },
         ],
       },
     },
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    siteTitle: false,
+    logo: {
+      light: "/logo.svg",
+      dark: "/logo_dark.svg",
+      alt: "MYSwiki Logo",
+    },
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "MYSverse", link: "https://mysver.se" },
+      { text: "Blog", link: "https://blog.mysver.se" },
+      { text: "Sentral", link: "https://sentral.mysver.se" },
     ],
     sidebar: [
       {
@@ -37,15 +47,9 @@ export default defineConfig({
         items: [{ text: "Get started", link: "/lebuhraya/get-started" }],
       },
     ],
-
     socialLinks: [{ icon: "github", link: "https://github.com/mysverse" }],
-
-    siteTitle: false,
-
-    logo: {
-      light: "/MYSwiki_Light.svg",
-      dark: "/MYSwiki_Dark.svg",
-      alt: "MYSwiki Logo",
+    editLink: {
+      pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
     },
   },
 });
