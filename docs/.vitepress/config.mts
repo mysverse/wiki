@@ -49,7 +49,7 @@ export default defineConfig({
       lang: "ms",
       themeConfig: {
         nav: [
-          { text: "Utama", link: "/" },
+          { text: "Utama", link: "/ms" },
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "Blog", link: "https://blog.mysver.se" },
           { text: "Sentral", link: "https://sentral.mysver.se" },
@@ -77,7 +77,7 @@ export default defineConfig({
       lang: "zh",
       themeConfig: {
         nav: [
-          { text: "首页", link: "/" },
+          { text: "首页", link: "/zh" },
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "博客", link: "https://blog.mysver.se" },
           { text: "中心", link: "https://sentral.mysver.se" },
@@ -105,7 +105,7 @@ export default defineConfig({
       lang: "ta",
       themeConfig: {
         nav: [
-          { text: "முகப்பு", link: "/" },
+          { text: "முகப்பு", link: "/ta" },
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "வலைப்பதிவு", link: "https://blog.mysver.se" },
           { text: "Sentral", link: "https://sentral.mysver.se" },
