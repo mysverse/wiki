@@ -31,6 +31,6 @@
   );
 }
 
-.vp-doc :is(img, video) {
+.vp-doc :is(img, video, iframe) {
   border-radius: 12px;
 }

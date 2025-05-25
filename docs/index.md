@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: "Get Started with Bandaraya"
       link: /bandaraya/get-started
+    - theme: alt
+      text: "Get started with Lebuhraya"
+      link: /lebuhraya/get-started
 
 features:
   - title: Immersive Malaysian Experiences

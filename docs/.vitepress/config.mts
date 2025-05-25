@@ -38,7 +38,47 @@ export default defineConfig({
       },
     ],
   ],
-
+  themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
+    siteTitle: false,
+    logo: {
+      light: "/logo.svg",
+      dark: "/logo_dark.svg",
+      alt: "MYSwiki Logo",
+    },
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "MYSverse", link: "https://mysver.se" },
+      { text: "Blog", link: "https://blog.mysver.se" },
+      { text: "Sentral", link: "https://sentral.mysver.se" },
+    ],
+    sidebar: [
+      {
+        text: "🌆 Bandaraya",
+        items: [{ text: "Get started", link: "/bandaraya/get-started" }],
+      },
+      {
+        text: "🛣️ Lebuhraya",
+        items: [
+          { text: "Get started", link: "/lebuhraya/get-started" },
+          {
+            text: "Teams",
+            link: "/lebuhraya/teams",
+          },
+          {
+            text: "Features",
+            link: "/lebuhraya/features",
+          },
+          { text: "Settings", link: "/lebuhraya/settings" },
+          { text: "Shop", link: "/lebuhraya/shop" },
+        ],
+      },
+    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/mysverse" }],
+    editLink: {
+      pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
+    },
+  },
   locales: {
     root: {
       label: "English",
@@ -64,7 +104,6 @@ export default defineConfig({
             items: [{ text: "Mula", link: "/ms/lebuhraya/get-started" }],
           },
         ],
-
         editLink: {
           pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
           text: "Sunting halaman ini di GitHub",
@@ -127,35 +166,6 @@ export default defineConfig({
         },
         outlineTitle: "இந்தப் பக்கத்தில்",
       },
-    },
-  },
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    siteTitle: false,
-    logo: {
-      light: "/logo.svg",
-      dark: "/logo_dark.svg",
-      alt: "MYSwiki Logo",
-    },
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "MYSverse", link: "https://mysver.se" },
-      { text: "Blog", link: "https://blog.mysver.se" },
-      { text: "Sentral", link: "https://sentral.mysver.se" },
-    ],
-    sidebar: [
-      {
-        text: "🌆 Bandaraya",
-        items: [{ text: "Get started", link: "/bandaraya/get-started" }],
-      },
-      {
-        text: "🛣️ Lebuhraya",
-        items: [{ text: "Get started", link: "/lebuhraya/get-started" }],
-      },
-    ],
-    socialLinks: [{ icon: "github", link: "https://github.com/mysverse" }],
-    editLink: {
-      pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
     },
   },
 });
