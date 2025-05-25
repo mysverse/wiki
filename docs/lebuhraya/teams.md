@@ -19,7 +19,7 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
   - Placeables: PolisCone, PolisSign, PolisUmbrella
   - Tablet (v3.3.12): Look up vehicle info.
 - **Spawn Switching:** Bandar Seri Putra / Kampung Merbang (v3.3.9).
-- **Notable Vehicles:** Outlander HPV, Civic Escort, Lancer HPV Tartan, Inspira Escort, Civic Type R Escort, BMY R1200RT Polis Trafik motorcycle (re-added in v3.5.13). (See [Vehicles](./vehicles.md) for levels).
+- **Notable Vehicles:** Outlander HPV, Civic Escort, Lancer HPV Tartan, Inspira Escort, Civic Type R Escort, BMY R1200RT Polis Trafik motorcycle (re-added in v3.5.13).
 
 ### 🚨 KEMRonda (Highway Auxiliary Police)
 

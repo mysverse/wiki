@@ -41,8 +41,6 @@ These gamepasses grant access to a collection of exclusive vehicles, often requi
 | **Premium Car Pack 1**      | 300           | Access to 5 premium vehicles: CX-5 (base unlock), S90, Vellfire, XC90, A45 Hatchback (level up rewards). Also includes newer additions.  | `rbxassetid://6729844061`  |
 | **Supercar Pack 1**         | 500           | Access to 5 supercars: GT-R (base unlock), 911, 458 Italia, Hulakan, Chiron Pur Sport (level up rewards). Also includes newer additions. | `rbxassetid://8738123835`  |
 
-_For specific vehicles included in Premium and Supercar packs and their level requirements, please refer to the [Vehicles](./vehicles.md) section._
-
 ---
 
 ## 💰 In-Game Purchases (Developer Products)

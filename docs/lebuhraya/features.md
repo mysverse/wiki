@@ -132,4 +132,4 @@ Lebuhraya is more than just driving; it's packed with features that create an en
 - **Data Management:** DataStore2 module replaced with Roblox's migration tool (v3.5.9). Report data loss if any.
 - **Private Servers:** XP does not save in private servers (notification added v3.3.23).
 
-These features contribute to the dynamic and evolving world of Lebuhraya. Keep an eye on in-game announcements and the [Updates](./updates.md) section for the latest additions!
+These features contribute to the dynamic and evolving world of Lebuhraya. Keep an eye on in-game announcements for the latest additions!
