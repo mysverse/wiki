@@ -16,14 +16,12 @@ These settings can help improve performance, especially on less powerful devices
   - **Introduced:** v3.3.25
   - **Function:** Allows you to toggle shadow rendering for the entire game. Disabling shadows can significantly improve performance.
   - **Access:** Main Menu.
-  - ![Global Shadows Toggle](rbxassetid://17522280346)
 
 - ### 🌲 Tree Rendering Toggle
 
   - **Introduced:** v3.3.15
   - **Function:** Allows players to disable the rendering of trees. This can help reduce visual clutter and improve performance. Trees are also loaded in memory (not streamed) to potentially reduce crashes.
   - **Access:** Button on the top right corner of the Main Menu.
-  - ![Tree Rendering Toggle](rbxassetid://17081484329)
 
 - ### ✨ Lighting Technology
   - **Change:** In v3.4.21, lighting technology was changed from "Future" to "ShadowMap" to improve performance on low-end devices. This is likely a global setting managed by the developers.
@@ -35,7 +33,6 @@ These settings can help improve performance, especially on less powerful devices
   - **Introduced:** v3.3.26
   - **Function:** Enables a sprint toggle for touchscreen devices. Keyboard users can use Left Shift.
   - **Access:** Touch-friendly **⚙️ Settings Menu**.
-  - ![Sprint on Touchscreen](rbxassetid://17536395400)
 
 - ### 🗺️ Preferred Spawn Location
 
@@ -58,7 +55,6 @@ These settings can help improve performance, especially on less powerful devices
 ## UI & Interface
 
 - **New UI Font (v3.4.4):** The game adopted Roblox's "Builder Sans" font for text UI elements for increased clarity and readability.
-  ![New UI Font Example](rbxassetid://18141978933) (Image shows new font on a sign)
 - **Main Menu Access (v3.5.9):** Can now access the main menu through the topbar without needing to reset your character.
 - **Mobile Driving Interface (v3.0.6):** Streamlined by resizing some buttons and removing the settings button from the bottom left while driving for a less cluttered view.
 - **Gamepad Support (v3.3.27):** Ongoing improvements, including fixing main menu play buttons being unselectable with gamepads.
@@ -72,6 +68,5 @@ These settings can help improve performance, especially on less powerful devices
 
 - **Overhead Rank GUI (v3.0.3):** Displays player display names instead of usernames. Also shows player levels.
 - **Admin Chat Visibility (v3.3.4):** Adonis admins see full Roblox usernames instead of display names for easier moderation.
-  ![Admin Chat Visibility](rbxassetid://16856772130)
 
 These settings provide a degree of control over your Lebuhraya experience. As the game updates, new options may become available. Always check the main menu and on-screen UI elements for the latest settings.
