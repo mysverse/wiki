@@ -3,11 +3,6 @@ title: "Shop & Gamepasses in Lebuhraya"
 description: "Complete guide to Lebuhraya shop including gamepasses, career unlocks, progression boosts, and premium items available for purchase."
 ---
 
----
-title: "Shop & Gamepasses in Lebuhraya"
-description: "Complete guide to Lebuhraya's shop including gamepasses, items, career unlocks, vehicles, and progression boosts to enhance your gameplay experience."
----
-
 # Shop & Gamepasses in Lebuhraya
 
 The Lebuhraya shop offers various gamepasses and items to enhance your gameplay experience, unlock new careers, vehicles, or provide progression boosts. You can access the shop through the main menu.

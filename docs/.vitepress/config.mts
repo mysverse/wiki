@@ -6,18 +6,21 @@ export default defineConfig({
   titleTemplate: "MYSwiki",
   description: "Documenting MYSverse, one experience at a time",
   transformHead: ({ pageData }) => {
-    const head: HeadConfig[] = []
-    
+    const head: HeadConfig[] = [];
+
     // Use frontmatter title or fallback to site title
-    const title = pageData.frontmatter.title || pageData.title || "MYSverse Wiki"
-    const description = pageData.frontmatter.description || "Documenting MYSverse, one experience at a time"
-    
-    head.push(['meta', { property: 'og:title', content: title }])
-    head.push(['meta', { property: 'og:description', content: description }])
-    head.push(['meta', { name: 'twitter:title', content: title }])
-    head.push(['meta', { name: 'twitter:description', content: description }])
-    
-    return head
+    const title =
+      pageData.frontmatter.title || pageData.title || "MYSverse Wiki";
+    const description =
+      pageData.frontmatter.description ||
+      "Documenting MYSverse, one experience at a time";
+
+    head.push(["meta", { property: "og:title", content: title }]);
+    head.push(["meta", { property: "og:description", content: description }]);
+    head.push(["meta", { name: "twitter:title", content: title }]);
+    head.push(["meta", { name: "twitter:description", content: description }]);
+
+    return head;
   },
   head: [
     [
