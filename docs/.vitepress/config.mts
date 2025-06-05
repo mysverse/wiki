@@ -103,6 +103,10 @@ export default defineConfig({
             text: "🛣️ Lebuhraya",
             items: [{ text: "Mula", link: "/ms/lebuhraya/get-started" }],
           },
+          {
+            text: "❓ Soalan lazim",
+            items: [{ text: "Mengatasi larangan", link: "/ms/faq/ban" }],
+          },
         ],
         editLink: {
           pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
