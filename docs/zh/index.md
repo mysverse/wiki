@@ -1,4 +1,6 @@
 ---
+title: "MYSverse 维基 - 记录 MYSverse，每一次体验"
+description: "MYSverse 游戏服务器的完整指南，包括 Bandaraya、Lebuhraya 等。由马来西亚人制作，为所有人服务。"
 layout: home
 
 hero:

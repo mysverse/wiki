@@ -1,19 +1,25 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, HeadConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "MYSverse Wiki",
   titleTemplate: "MYSwiki",
   description: "Documenting MYSverse, one experience at a time",
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = []
+    
+    // Use frontmatter title or fallback to site title
+    const title = pageData.frontmatter.title || pageData.title || "MYSverse Wiki"
+    const description = pageData.frontmatter.description || "Documenting MYSverse, one experience at a time"
+    
+    head.push(['meta', { property: 'og:title', content: title }])
+    head.push(['meta', { property: 'og:description', content: description }])
+    head.push(['meta', { name: 'twitter:title', content: title }])
+    head.push(['meta', { name: 'twitter:description', content: description }])
+    
+    return head
+  },
   head: [
-    ["meta", { property: "og:title", content: "MYSverse Wiki" }],
-    [
-      "meta",
-      {
-        property: "og:description",
-        content: "Documenting MYSverse, one experience at a time",
-      },
-    ],
     [
       "meta",
       { property: "og:image", content: "https://mys.wiki/opengraph-image.png" },
@@ -22,14 +28,6 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:site_name", content: "MYSverse Wiki" }],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
-    ["meta", { name: "twitter:title", content: "MYSverse Wiki" }],
-    [
-      "meta",
-      {
-        name: "twitter:description",
-        content: "Documenting MYSverse, one experience at a time",
-      },
-    ],
     [
       "meta",
       {

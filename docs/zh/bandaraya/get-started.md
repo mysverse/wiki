@@ -1,3 +1,8 @@
+---
+title: "开始体验 Bandaraya"
+description: "在 Bandaraya 开始冒险的完整指南 - 导航菜单、赚取 Bandaraya Ringgit（BR），探索角色和活动。"
+---
+
 # 开始体验 Bandaraya
 
 欢迎来到 **Bandaraya**！请按照本指南开始您的冒险——从导航菜单到赚取您的第一枚 Bandaraya Ringgit（BR）。

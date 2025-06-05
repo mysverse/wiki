@@ -1,3 +1,8 @@
+---
+title: "Mengatasi larangan - Soalan Lazim"
+description: "Panduan lengkap untuk memahami dan menyelesaikan larangan dalam permainan MYSverse termasuk sekatan kumpulan, isu akaun, dan langkah penyelesaian masalah."
+---
+
 # Mengatasi larangan
 
 ## Apakah maksud mesej "Leave XYZ to join the experience"?

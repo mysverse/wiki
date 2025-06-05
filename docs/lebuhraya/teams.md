@@ -1,3 +1,8 @@
+---
+title: "Teams in Lebuhraya"
+description: "Complete guide to all teams in Lebuhraya including Law Enforcement, Emergency Services, Civilian teams, and their unique vehicles and tools."
+---
+
 # Teams in Lebuhraya
 
 Lebuhraya features a variety of teams, each offering unique gameplay experiences, vehicles, and tools. Teams can be accessed based on level, gamepasses, or Roblox group membership.

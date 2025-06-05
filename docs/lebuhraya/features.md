@@ -1,3 +1,8 @@
+---
+title: "Gameplay Features in Lebuhraya"
+description: "Explore all the gameplay features in Lebuhraya including fuel system, garage mechanics, emergency services, and roleplay elements."
+---
+
 # Gameplay Features in Lebuhraya
 
 Lebuhraya is more than just driving; it's packed with features that create an engaging roleplay and progression experience. Here are some of the key gameplay systems:

@@ -1,3 +1,8 @@
+---
+title: "Get Started with Bandaraya"
+description: "Complete guide to starting your adventure in Bandaraya - navigate menus, earn Bandaraya Ringgit (BR), and explore roles and activities."
+---
+
 # Get Started with Bandaraya
 
 Welcome to **Bandaraya**! Follow this guide to start your adventure—from navigating menus to earning your first Bandaraya Ringgit (BR).

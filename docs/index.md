@@ -1,4 +1,6 @@
 ---
+title: "MYSverse Wiki - Documenting MYSverse, one experience at a time"
+description: "Complete guide to MYSverse gaming servers including Bandaraya, Lebuhraya and more. By Malaysians, for everyone."
 layout: home
 
 hero:

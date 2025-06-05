@@ -1,3 +1,8 @@
+---
+title: "Settings & Customization in Lebuhraya"
+description: "Complete guide to Lebuhraya settings including graphics optimization, audio controls, UI customization, and gameplay preferences."
+---
+
 # Settings & Customization in Lebuhraya
 
 Lebuhraya offers several settings to customize your gameplay experience, optimize performance, and control your interactions.

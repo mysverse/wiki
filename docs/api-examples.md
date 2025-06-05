@@ -1,4 +1,6 @@
 ---
+title: "Runtime API Examples"
+description: "VitePress runtime API examples and demonstrations for building dynamic documentation sites."
 outline: deep
 ---
 

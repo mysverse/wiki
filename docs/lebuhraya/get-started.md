@@ -1,3 +1,8 @@
+---
+title: "Getting Started in Lebuhraya"
+description: "Your complete guide to starting in Lebuhraya - Malaysian-themed driving and roleplay experience with teams, settings, and features."
+---
+
 # Getting Started in Lebuhraya
 
 Welcome to Lebuhraya! This guide will help you take your first steps in this Malaysian-themed driving and roleplay experience.

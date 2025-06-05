@@ -1,3 +1,8 @@
+---
+title: "解除封禁指南 - 常见问题"
+description: "理解和解决 MYSverse 游戏中封禁问题的完整指南，包括群组限制、账户问题和故障排除步骤。"
+---
+
 # 解除封禁指南
 
 ## “Leave XYZ to join the experience”消息是什么意思？

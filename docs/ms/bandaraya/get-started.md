@@ -1,3 +1,8 @@
+---
+title: "Mula dengan Bandaraya"
+description: "Panduan lengkap untuk memulakan pengembaraan anda di Bandaraya - navigasi menu, peroleh Bandaraya Ringgit (BR), dan terokai peranan serta aktiviti."
+---
+
 # Mula dengan Bandaraya
 
 Selamat datang ke **Bandaraya**! Ikuti panduan ini untuk memulakan pengembaraan anda—daripada menavigasi menu hingga memperoleh Bandaraya Ringgit (BR) pertama anda.

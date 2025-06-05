@@ -1,4 +1,6 @@
 ---
+title: "MYSverse Wiki - Mendokumentasikan MYSverse, satu pengalaman pada satu masa"
+description: "Panduan lengkap untuk pelayan permainan MYSverse termasuk Bandaraya, Lebuhraya dan banyak lagi. Oleh rakyat Malaysia, untuk semua orang."
 layout: home
 
 hero:

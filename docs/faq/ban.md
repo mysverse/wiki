@@ -1,3 +1,8 @@
+---
+title: "Overcoming Bans - FAQ"
+description: "Complete guide to understanding and resolving bans in MYSverse games including group restrictions, account issues, and troubleshooting steps."
+---
+
 # Overcoming Bans
 
 ## What does the message "Leave XYZ to join the experience" mean?
