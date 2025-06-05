@@ -35,16 +35,18 @@ Kebanyakan pemain yang menghadapi masalah ini sebenarnya dikenakan **larangan ku
 **Penyelesaian yang betul: Tinggalkan kumpulan Roblox yang disenaraihitamkan**
 
 1. Pergi ke profil Roblox anda
-2. Klik pada tab "Groups"
+2. Klik pada tab "Communities"
 3. Cari kumpulan yang disebutkan dalam mesej larangan (menggantikan "XYZ")
-4. Klik "Leave Group" pada kumpulan tersebut
-5. Cuba masuk semula ke MYSverse selepas beberapa minit
+4. Klik "Leave Community" pada kumpulan tersebut
+5. Cuba masuk semula ke pengalaman MYSverse selepas beberapa minit
 
 ## Cara menyemak kumpulan yang disenaraihitamkan
 
+![MECS Sentral](/images/faq/ban/mecs_sentral.png)
+
 Anda boleh menyemak senarai kumpulan yang disenaraihitamkan melalui platform **Sentral** kami:
 
-**URL:** https://sentral.mysverse.com/dashboard/mecs
+**URL:** https://sentral.mysver.se/dashboard/mecs
 
 Sentral adalah hab rasmi dan aplikasi pendamping untuk MYSverse yang menyediakan statistik permainan, alat analitik, dan maklumat tentang kumpulan yang disenaraihitamkan.
 
@@ -109,4 +111,4 @@ Kumpulan biasanya disenaraihitamkan kerana:
 
 ### Di mana saya boleh mendapatkan bantuan lanjut?
 
-Jika anda memerlukan bantuan lanjut, sila hubungi komuniti kami melalui Discord atau lawati dokumentasi lengkap di website rasmi MYSverse.
+Jika anda memerlukan bantuan lanjut, sila hubungi moderator kami melalui [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) atau lawati dokumentasi lengkap di website rasmi MYSverse.
