@@ -51,6 +51,7 @@ export default defineConfig({
       { text: "MYSverse", link: "https://mysver.se" },
       { text: "Blog", link: "https://blog.mysver.se" },
       { text: "Sentral", link: "https://sentral.mysver.se" },
+      { text: "FAQ", link: "/faq/ban" },
     ],
     sidebar: [
       {
@@ -73,6 +74,10 @@ export default defineConfig({
           { text: "Shop", link: "/lebuhraya/shop" },
         ],
       },
+      {
+        text: "❓ FAQ",
+        items: [{ text: "Overcoming Bans", link: "/faq/ban" }],
+      },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/mysverse" }],
     editLink: {
@@ -93,6 +98,7 @@ export default defineConfig({
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "Blog", link: "https://blog.mysver.se" },
           { text: "Sentral", link: "https://sentral.mysver.se" },
+          { text: "Soalan lazim", link: "/ms/faq/ban" },
         ],
         sidebar: [
           {
@@ -124,6 +130,7 @@ export default defineConfig({
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "博客", link: "https://blog.mysver.se" },
           { text: "中心", link: "https://sentral.mysver.se" },
+          { text: "常见问题", link: "/zh/faq/ban" },
         ],
         sidebar: [
           {
@@ -133,6 +140,10 @@ export default defineConfig({
           {
             text: "🛣️ 高速公路",
             items: [{ text: "入门", link: "/zh/lebuhraya/get-started" }],
+          },
+          {
+            text: "❓ 常见问题",
+            items: [{ text: "解除封禁指南", link: "/zh/faq/ban" }],
           },
         ],
 
@@ -152,6 +163,7 @@ export default defineConfig({
           { text: "MYSverse", link: "https://mysver.se" },
           { text: "வலைப்பதிவு", link: "https://blog.mysver.se" },
           { text: "Sentral", link: "https://sentral.mysver.se" },
+          { text: "அடிக்கடி கேட்கப்படும் கேள்விகள்", link: "/ta/faq/ban" },
         ],
         sidebar: [
           {
@@ -161,6 +173,10 @@ export default defineConfig({
           {
             text: "🛣️ நெடுஞ்சாலை",
             items: [{ text: "தொடங்கு", link: "/ta/lebuhraya/get-started" }],
+          },
+          {
+            text: "❓ அடிக்கடி கேட்கப்படும் கேள்விகள்",
+            items: [{ text: "தடையைக் கடக்க", link: "/ta/faq/ban" }],
           },
         ],
 
