@@ -23,6 +23,7 @@ export default defineConfig({
     return head;
   },
   head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
     [
       "meta",
       { property: "og:image", content: "https://mys.wiki/opengraph-image.png" },
@@ -39,6 +40,8 @@ export default defineConfig({
       },
     ],
   ],
+  lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: false,
@@ -83,6 +86,9 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/mysverse" }],
     editLink: {
       pattern: "https://github.com/mysverse/wiki/edit/main/docs/:path",
+    },
+    search: {
+      provider: "local",
     },
   },
   locales: {

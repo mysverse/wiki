@@ -5,115 +5,121 @@ description: "Complete guide to understanding and resolving bans in MYSverse gam
 
 # Overcoming Bans
 
-## What does the message "Leave XYZ to join the experience" mean?
+## Understanding Ban Messages
+
+### "Leave XYZ to join the experience"
 
 ![Ban 1](/images/faq/ban/group_ban_example.png)
 
-When you receive the message **"Leave XYZ to join the experience"**, it means you have been banned from entering MYSverse. In this message, **"XYZ"** is the actual name of the Roblox group that is causing your ban.
+This message indicates that you are banned from entering MYSverse due to your membership in a specific Roblox group. "XYZ" represents the name of the group causing the ban.
 
-### Important Terms
+## Key Terms
 
-**Ban** - A restriction that prevents you from entering MYSverse
+- **Ban**: A restriction preventing access to MYSverse.
+- **Roblox Group**: A community within Roblox with a name, badge, and members.
+- **Blacklist**: A list of groups banned by MYSverse.
 
-**Roblox Group** - A community in Roblox that you can join, usually with a name, badge, and members
+## Types of Bans
 
-**Blacklist** - A list of groups that have been banned by MYSverse
+### Group Ban
 
-## Types of bans in MYSverse
+Occurs when you are a member of a blacklisted Roblox group. This is the most common type of ban.
 
-There are two types of bans you may encounter:
+### Individual Ban
 
-### 1. Group ban
+Your account is specifically banned, usually for rule violations. These bans have a set duration.
 
-You are a member of a Roblox group that has been blacklisted by MYSverse. This is the most common type of ban experienced by players.
+## Common Questions
 
-### 2. Individual ban
+### Why am I banned even though I did nothing?
 
-Your account has been specifically banned, usually for breaking the rules. This ban has a specific duration.
+Most bans are group bans, meaning you are part of a blacklisted Roblox group. Individual bans are less common.
 
-## Why am I banned even though I did nothing?
+## Resolving a Group Ban
 
-Most players facing this issue are actually under a **group ban**, not an individual ban. This means you are a member of a Roblox group that has been blacklisted by MYSverse for various reasons.
+### Steps to Leave a Blacklisted Group
 
-## How to resolve a group ban
+1. Open your Roblox profile.
+2. Navigate to the "Communities" tab.
+3. Locate the group mentioned in the ban message.
+4. Click "Leave Community" to exit the group.
+5. Wait a few minutes and try rejoining MYSverse.
 
-**Correct solution: Leave the blacklisted Roblox group**
-
-1. Go to your Roblox profile
-2. Click on the "Communities" tab
-3. Find the group mentioned in the ban message (replacing "XYZ")
-4. Click "Leave Community" on that group
-5. Try to rejoin the MYSverse experience after a few minutes
-
-## How to check blacklisted groups
+### Checking Blacklisted Groups
 
 ![MECS Sentral](/images/faq/ban/mecs_sentral.png)
 
-You can check the list of blacklisted groups through our **Sentral** platform:
+Use the **Sentral** platform to view blacklisted groups:
 
-**URL:** https://sentral.mysver.se/dashboard/mecs
+**URL:** [Sentral Dashboard](https://sentral.mysver.se/dashboard/mecs)
 
-Sentral is the official hub and companion app for MYSverse that provides game statistics, analytics tools, and information about blacklisted groups.
+Sentral provides game statistics, analytics tools, and information about blacklisted groups.
 
-## Solutions that WILL NOT work
+### Solutions That Won't Work
 
-Do not try the following methods as they will not solve the problem:
+Avoid these methods as they won't resolve the issue:
 
-- **Creating a new account** - The problem will persist if you are still in the same group
-- **Just waiting** - Group bans will not disappear automatically
-- **Changing your username** - This will not solve the group issue
-- **Logging out and back into Roblox** - The ban is based on group membership, not session
-- **Asking friends to "unban" you** - Just leave the problematic group
+- **Creating a new account**: The ban persists if you remain in the group.
+- **Just waiting**: Group bans don't expire automatically.
+- **Changing your username**: This doesn't affect group membership.
+- **Logging out and back in**: The ban is tied to group membership, not your session.
+- **Asking friends to "unban" you**: You must leave the problematic group.
 
-## Information about individual bans
+## Individual Bans
 
-If you are under an individual ban, the time displayed in the system is in **UTC time zone**.
+![Individual Ban](/images/faq/ban/individual_ban.png)
 
-**For players in Malaysia:** Add 8 hours to the displayed time to get Malaysia local time.
+### Time Zone Information
+
+Ban durations are displayed in **UTC**.
+
+- **For players in Malaysia**: Add 8 hours to the displayed time.
 
 Example:
 
-- If the system shows your ban will be lifted at 14:00 UTC
-- The actual time in Malaysia is 22:00 (10:00 PM)
+- Ban lift time: 14:00 UTC
+- Malaysia local time: 22:00 (10:00 PM)
 
-## Troubleshooting steps
+## Troubleshooting Steps
 
-### Step 1: Identify the type of ban
+### Step 1: Identify the Type of Ban
 
-If the message mentions a specific group name (replacing "XYZ"), it is a group ban. If not, it may be an individual ban.
+If the message mentions a group name, it's a group ban. Otherwise, it may be an individual ban.
 
-### Step 2: Check on the Sentral platform
+### Step 2: Check the Sentral Platform
 
-Visit the Sentral dashboard and check the list of blacklisted groups to confirm which group is problematic.
+Visit the Sentral dashboard to confirm which group is causing the issue.
 
-### Step 3: Leave the problematic group
+### Step 3: Leave the Problematic Group
 
-Go to the group's page on Roblox and click the "Leave Group" button. Make sure you have really left the group.
+Go to the group's page on Roblox and click "Leave Group." Ensure you have successfully left the group.
 
-### Step 4: Try to rejoin
+### Step 4: Try to Rejoin
 
-Wait a few minutes after leaving the group, then try to join MYSverse again.
+Wait a few minutes after leaving the group, then attempt to join MYSverse again.
 
 ## Frequently Asked Questions
 
 ### Can I rejoin the group after playing?
 
-Not recommended, as you will be banned again if the group is still blacklisted.
+Not recommended. You will be banned again if the group remains blacklisted.
 
 ### What if I still can't join after leaving the group?
 
-If you still have problems after leaving the blacklisted group, it may be an individual ban. Please contact the support team via Discord or our official platform.
+If issues persist, it may be an individual ban. Contact the support team via Discord or the official platform.
+
+After leaving the group, please wait a few minutes for Trello to update your status. This delay occurs because the system requires up to 60 seconds for HTTP processing. Once updated, you should be able to rejoin MYSverse.
 
 ### Why are certain groups blacklisted?
 
-Groups are usually blacklisted because:
+Groups are blacklisted for reasons such as:
 
-- Violating MYSverse community rules
-- Involved in unwanted activities such as spam or harassment
-- Related to bots or fake accounts
-- Violating Roblox terms of service
-- Promoting inappropriate content
+- Violating MYSverse community rules.
+- Engaging in spam or harassment.
+- Being associated with bots or fake accounts.
+- Violating Roblox terms of service.
+- Promoting inappropriate content.
 
 ### Where can I get further help?
 
-If you need further assistance, please contact our moderators via [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) or visit the full documentation on the official MYSverse website.
+For assistance, contact moderators via [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) or refer to the full documentation on the official MYSverse website.

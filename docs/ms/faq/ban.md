@@ -1,119 +1,147 @@
 ---
-title: "Mengatasi larangan - Soalan Lazim"
+title: "Mengatasi Larangan - Soalan Lazim"
 description: "Panduan lengkap untuk memahami dan menyelesaikan larangan dalam permainan MYSverse termasuk sekatan kumpulan, isu akaun, dan langkah penyelesaian masalah."
 ---
 
-# Mengatasi larangan
+# Mengatasi Larangan
 
-## Apakah maksud mesej "Leave XYZ to join the experience"?
+## Memahami Mesej Larangan
+
+### "Tinggalkan XYZ untuk menyertai pengalaman"
 
 ![Ban 1](/images/faq/ban/group_ban_example.png)
 
-Apabila anda menerima mesej **"Leave XYZ to join the experience"**, ini bermaksud bahawa anda telah dikenakan larangan daripada memasuki MYSverse. Dalam mesej ini, **"XYZ"** adalah nama sebenar kumpulan Roblox yang menyebabkan anda dilarang.
+Mesej ini menunjukkan bahawa anda dilarang daripada memasuki MYSverse
+kerana keahlian anda dalam kumpulan Roblox tertentu. "XYZ" mewakili nama
+kumpulan yang menyebabkan larangan tersebut.
 
-### Istilah penting
+## Istilah Penting
 
-**Larangan (Ban)** - Sekatan yang menghalang anda daripada memasuki MYSverse
+- **Larangan (Ban)**: Sekatan yang menghalang akses ke MYSverse.
+- **Kumpulan Roblox (Roblox Group)**: Komuniti dalam Roblox dengan nama,
+  lencana, dan ahli.
+- **Senarai Hitam (Blacklist)**: Senarai kumpulan yang dilarang oleh MYSverse.
 
-**Kumpulan Roblox (Roblox Group)** - Komuniti dalam Roblox yang boleh anda sertai, biasanya mempunyai nama, lencana, dan ahli
+## Jenis-Jenis Larangan
 
-**Senarai hitam (Blacklist)** - Senarai kumpulan yang telah dilarang oleh MYSverse
+### Larangan Kumpulan
 
-## Jenis larangan dalam MYSverse
+Berlaku apabila anda adalah ahli kumpulan Roblox yang disenaraihitamkan.
+Ini adalah jenis larangan yang paling biasa.
 
-Terdapat dua jenis larangan yang mungkin anda hadapi:
+### Larangan Individu
 
-### 1. Larangan kumpulan
+Akaun anda dilarang secara khusus, biasanya kerana pelanggaran peraturan.
+Larangan ini mempunyai tempoh yang ditetapkan.
 
-Anda adalah ahli dalam kumpulan Roblox yang telah disenaraihitamkan oleh MYSverse. Ini adalah jenis larangan yang paling biasa dialami oleh pemain.
+## Soalan Lazim (Umum)
 
-### 2. Larangan individu
+### Mengapa saya dilarang walaupun tidak melakukan apa-apa?
 
-Akaun anda secara khusus telah dilarang, biasanya kerana melanggar peraturan. Larangan ini mempunyai tempoh masa tertentu.
+Kebanyakan larangan adalah larangan kumpulan, bermakna anda adalah sebahagian
+daripada kumpulan Roblox yang disenaraihitamkan. Larangan individu kurang
+biasa.
 
-## Mengapa saya dilarang walaupun tidak melakukan apa-apa?
+## Menyelesaikan Larangan Kumpulan
 
-Kebanyakan pemain yang menghadapi masalah ini sebenarnya dikenakan **larangan kumpulan**, bukan larangan individu. Ini bermaksud anda adalah ahli dalam kumpulan Roblox yang telah disenaraihitamkan oleh MYSverse kerana pelbagai sebab.
+### Langkah-Langkah Meninggalkan Kumpulan yang Disenaraihitamkan
 
-## Cara menyelesaikan larangan kumpulan
+1. Buka profil Roblox anda.
+2. Navigasi ke tab "Communities".
+3. Cari kumpulan yang disebut dalam mesej larangan.
+4. Klik "Leave Community" untuk keluar daripada kumpulan tersebut.
+5. Tunggu beberapa minit dan cuba sertai semula MYSverse.
 
-**Penyelesaian yang betul: Tinggalkan kumpulan Roblox yang disenaraihitamkan**
-
-1. Pergi ke profil Roblox anda
-2. Klik pada tab "Communities"
-3. Cari kumpulan yang disebutkan dalam mesej larangan (menggantikan "XYZ")
-4. Klik "Leave Community" pada kumpulan tersebut
-5. Cuba masuk semula ke pengalaman MYSverse selepas beberapa minit
-
-## Cara menyemak kumpulan yang disenaraihitamkan
+### Menyemak Kumpulan yang Disenaraihitamkan
 
 ![MECS Sentral](/images/faq/ban/mecs_sentral.png)
 
-Anda boleh menyemak senarai kumpulan yang disenaraihitamkan melalui platform **Sentral** kami:
+Gunakan platform **Sentral** untuk melihat kumpulan yang disenaraihitamkan:
 
-**URL:** https://sentral.mysver.se/dashboard/mecs
+**URL:** [Dashboard Sentral](https://sentral.mysver.se/dashboard/mecs)
 
-Sentral adalah hab rasmi dan aplikasi pendamping untuk MYSverse yang menyediakan statistik permainan, alat analitik, dan maklumat tentang kumpulan yang disenaraihitamkan.
+Sentral menyediakan statistik permainan, alat analitik, dan maklumat tentang
+kumpulan yang disenaraihitamkan.
 
-## Penyelesaian yang TIDAK akan berkesan
+### Penyelesaian yang Tidak Akan Berkesan
 
-Jangan cuba kaedah-kaedah berikut kerana ia tidak akan menyelesaikan masalah:
+Elakkan kaedah ini kerana ia tidak akan menyelesaikan isu:
 
-- **Mencipta akaun baharu** - Masalah akan berterusan jika anda masih dalam kumpulan yang sama
-- **Menunggu sahaja** - Larangan kumpulan tidak akan hilang secara automatik
-- **Mengubah nama pengguna** - Ini tidak akan menyelesaikan masalah kumpulan
-- **Keluar dan masuk semula ke Roblox** - Larangan berdasarkan keahlian kumpulan, bukan sesi
-- **Meminta rakan untuk "unban"** - Hanya tinggalkan kumpulan yang bermasalah
+- **Mencipta akaun baharu**: Larangan akan berterusan jika anda masih dalam
+  kumpulan tersebut.
+- **Hanya menunggu**: Larangan kumpulan tidak akan hilang secara automatik.
+- **Mengubah nama pengguna**: Ini tidak menjejaskan keahlian kumpulan.
+- **Log keluar dan masuk semula**: Larangan terikat dengan keahlian kumpulan,
+  bukan sesi anda.
+- **Meminta rakan untuk "membuka sekatan" anda**: Anda mesti meninggalkan
+  kumpulan yang bermasalah.
 
-## Maklumat tentang larangan individu
+## Maklumat Larangan Individu
 
-Jika anda dikenakan larangan individu, masa yang dipaparkan dalam sistem adalah dalam **zon waktu UTC**.
+![Individual Ban](/images/faq/ban/individual_ban.png)
 
-**Untuk pemain di Malaysia:** Tambah 8 jam pada masa yang dipaparkan untuk mendapat waktu tempatan Malaysia.
+### Maklumat Zon Waktu
+
+Tempoh larangan dipaparkan dalam **UTC**.
+
+- **Untuk pemain di Malaysia**: Tambah 8 jam pada masa yang dipaparkan.
 
 Contoh:
 
-- Jika sistem menunjukkan anda akan dibuka larangan pada 14:00 UTC
-- Masa sebenar di Malaysia ialah 22:00 (10:00 malam)
+- Masa tamat larangan: 14:00 UTC
+- Waktu tempatan Malaysia: 22:00 (10:00 PM)
 
-## Langkah penyelesaian masalah
+## Langkah-Langkah Penyelesaian Masalah
 
-### Langkah 1: Kenal pasti jenis larangan
+### Langkah 1: Kenal Pasti Jenis Larangan
 
-Jika mesej menyebut nama kumpulan tertentu (menggantikan "XYZ"), ini adalah larangan kumpulan. Jika tidak, mungkin larangan individu.
+Jika mesej menyebut nama kumpulan, ia adalah larangan kumpulan. Jika tidak,
+ia mungkin larangan individu.
 
-### Langkah 2: Semak di platform Sentral
+### Langkah 2: Semak Platform Sentral
 
-Lawati dashboard Sentral dan periksa senarai kumpulan yang disenaraihitamkan untuk mengesahkan kumpulan mana yang bermasalah.
+Lawati dashboard Sentral untuk mengesahkan kumpulan mana yang menyebabkan isu
+tersebut.
 
-### Langkah 3: Tinggalkan kumpulan bermasalah
+### Langkah 3: Tinggalkan Kumpulan Bermasalah
 
-Pergi ke halaman kumpulan tersebut di Roblox dan klik butang "Leave Group". Pastikan anda benar-benar keluar daripada kumpulan.
+Pergi ke halaman kumpulan di Roblox dan klik "Leave Group." Pastikan anda
+telah berjaya meninggalkan kumpulan tersebut.
 
-### Langkah 4: Cuba masuk semula
+### Langkah 4: Cuba Sertai Semula
 
-Tunggu beberapa minit selepas meninggalkan kumpulan, kemudian cuba join semula ke MYSverse.
+Tunggu beberapa minit selepas meninggalkan kumpulan, kemudian cuba sertai
+MYSverse semula.
 
-## Soalan lazim
+## Soalan Lazim (Lanjutan)
 
-### Bolehkah saya bergabung semula dengan kumpulan selepas bermain?
+### Bolehkah saya menyertai semula kumpulan selepas bermain?
 
-Tidak disyorkan, kerana anda akan dilarang semula jika kumpulan tersebut masih dalam senarai hitam.
+Tidak digalakkan. Anda akan dilarang semula jika kumpulan tersebut masih
+disenaraihitamkan.
 
-### Bagaimana jika saya masih tidak boleh masuk selepas meninggalkan kumpulan?
+### Bagaimana jika saya masih tidak dapat menyertai selepas meninggalkan kumpulan?
 
-Jika anda masih menghadapi masalah selepas meninggalkan kumpulan yang disenaraihitamkan, ini mungkin larangan individu. Sila hubungi pasukan sokongan melalui Discord atau platform rasmi kami.
+Jika isu berterusan, ia mungkin larangan individu. Hubungi pasukan sokongan
+melalui Discord atau platform rasmi.
+
+Selepas meninggalkan kumpulan, sila tunggu beberapa minit untuk Trello
+mengemas kini status anda. Kelewatan ini berlaku kerana sistem memerlukan
+sehingga 60 saat untuk pemprosesan HTTP. Setelah dikemas kini, anda
+sepatutnya boleh menyertai semula MYSverse.
 
 ### Mengapa kumpulan tertentu disenaraihitamkan?
 
-Kumpulan biasanya disenaraihitamkan kerana:
+Kumpulan disenaraihitamkan atas sebab-sebab seperti:
 
-- Melanggar peraturan komuniti MYSverse
-- Terlibat dalam aktiviti yang tidak diingini seperti spam atau gangguan
-- Berkaitan dengan bot atau akaun palsu
-- Melanggar terma perkhidmatan Roblox
-- Mempromosikan kandungan yang tidak sesuai
+- Melanggar peraturan komuniti MYSverse.
+- Terlibat dalam spam atau gangguan.
+- Berkaitan dengan bot atau akaun palsu.
+- Melanggar syarat perkhidmatan Roblox.
+- Mempromosikan kandungan yang tidak sesuai.
 
 ### Di mana saya boleh mendapatkan bantuan lanjut?
 
-Jika anda memerlukan bantuan lanjut, sila hubungi moderator kami melalui [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) atau lawati dokumentasi lengkap di website rasmi MYSverse.
+Untuk bantuan, hubungi moderator melalui
+[Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) atau rujuk
+dokumentasi penuh di laman web rasmi MYSverse.
