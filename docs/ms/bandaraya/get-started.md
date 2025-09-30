@@ -17,10 +17,10 @@ Bandaraya penuh dengan pelbagai peranan, aktiviti, dan pengembaraan. Sertai dan 
 
 **Menu Utama** membantu anda memilih pilihan permainan:
 
-- **Main:** Masuk ke bandar secara langsung.
-- **Pasukan:** Tukar antara peranan seperti Pelawat, Warganegara Malaysia, Polis, Perkhidmatan Tunda, Kerajaan, dan lain-lain.
-- **Kedai:** Beli gamepass berguna seperti Pemandu Teksi, Lesen Senjata Api, dan banyak lagi.
-- **Tentang:** Lihat kredit dan maklumat mengenai Bandaraya.
+- **Play (Main):** Terus masuk ke dalam bandar.
+- **Team (Pasukan):** Tukar pelbagai peranan seperti Pelawat, Warganegara Malaysia, Polis, Perkhidmatan Tunda, Kerajaan, dan lain-lain.
+- **Shop (Kedai):** Beli *gamepass* berguna seperti Pemandu Teksi, Lesen Senjata Api, dan banyak lagi.
+- **About (Tentang):** Lihat kredit dan maklumat mengenai Bandaraya.
 
 ## Mendapatkan Mata Wang Pertama Anda
 
@@ -38,22 +38,22 @@ Jumlah pendapatan berbeza mengikut pasukan dan dibayar secara berkala berdasarka
 
 ![Automobil](/images/bandaraya/get-started/automobile.png)
 
-Kenderaan penting untuk meneroka Bandaraya:
+Kenderaan penting untuk menerokai Bandaraya:
 
 1. Cari pusat jualan kenderaan di peta mini.
 2. Berinteraksi dengan pusat jualan untuk memilih antara menyewa (disyorkan untuk lawatan singkat) atau membeli.
 
 ::: warning Kos Sewa
-Yuran sewa akan ditolak serta-merta daripada baki BR anda.
+Bayaran sewa akan ditolak serta-merta daripada baki BR anda.
 :::
 
 ## Aktiviti & Acara
 
 Bandaraya menawarkan pengalaman dinamik:
 
-- **Acara:** Sertai acara anjuran pembangun, senario roleplay, atau aktiviti bandar secara spontan.
+- **Acara:** Sertai acara anjuran pemaju, senario roleplay, atau aktiviti bandar secara spontan.
 - **Ruang Sosial:** Berinteraksi dengan pemain lain di pelbagai lokasi dalam bandar.
-- **Misi:** Lengkapkan misi daripada NPC (contohnya, dapatkan alat tumbuk).
+- **Misi:** Lengkapkan misi daripada NPC (contohnya, dapatkan alat penumbuk).
 - **Aktiviti Jenayah:** Lakukan tugas berisiko tinggi seperti rompakan bank dan berurusan dengan penjual haram.
 
 ## Menggunakan Peta Mini
@@ -71,18 +71,18 @@ Gunakan peta mini untuk menavigasi Bandaraya dengan mudah. Ia memaparkan:
 
 ![Telefon](/images/bandaraya/get-started/phone.jpg)
 
-Akses telefon dalam permainan melalui bar atas untuk:
+Akses telefon dalam permainan melalui bar yang berada di atas untuk:
 
-- Panggil teksi
+- Memanggil teksi
 - Hantar mesej kepada pemain lain
 - Minta perkhidmatan kecemasan atau tunda
 - Urus kenderaan
 - Pindahkan BR kepada pemain lain
-- Akses aplikasi dan maklumat bandar
+- Mengakses aplikasi dan maklumat bandar
 
 ## Peraturan Permainan
 
-Pemain mesti mematuhi peraturan permainan dan garis panduan roleplay pada setiap masa. Pelanggaran boleh menyebabkan penggantungan sementara atau larangan pelayan.
+Pemain mesti mematuhi peraturan permainan dan garis panduan *roleplay* pada setiap masa. Pelanggaran boleh menyebabkan penggantungan sementara atau larangan pelayan.
 
 ## Langkah Seterusnya
 
