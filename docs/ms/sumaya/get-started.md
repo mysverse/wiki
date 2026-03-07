@@ -5,6 +5,8 @@ description: "Panduan lengkap untuk memulakan pengembaraan anda di Sumaya - duni
 
 # Mula dengan Sumaya
 
+![Sumaya](/images/sumaya/sumaya_feature.webp)
+
 Selamat datang ke **Sumaya**! Panduan ini akan membantu anda memulakan langkah pertama dalam pengalaman dunia terbuka bertema Malaysia ini di mana anda boleh meneroka bandar yang meriah, bekerja pelbagai kerjaya, menjana Sumaya Ringgit, dan membina kehidupan anda sendiri.
 
 ::: tip Selamat Datang!

@@ -5,6 +5,8 @@ description: "Your complete guide to starting in Sumaya - a Malaysian-themed ope
 
 # Getting Started in Sumaya
 
+![Sumaya](/images/sumaya/sumaya_feature.webp)
+
 Welcome to **Sumaya**! This guide will help you take your first steps in this Malaysian-themed open world experience where you can explore a vibrant city, work different careers, earn Sumaya Ringgit, and build your own life.
 
 ::: tip Selamat Datang!
