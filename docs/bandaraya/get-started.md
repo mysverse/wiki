@@ -86,7 +86,12 @@ Players must adhere to game rules and roleplay guidelines at all times. Violatio
 
 ## Next Steps
 
-Dive deeper into Bandaraya by joining teams, exploring quests, and engaging with community events. Enjoy your stay!
+Dive deeper into Bandaraya with these guides:
+
+- **[Teams](/bandaraya/teams)** — Learn about all available teams, from law enforcement to military and transport.
+- **[Features](/bandaraya/features)** — Explore vehicles, combat, the metro system, fire fighting, and more.
+- **[Locations](/bandaraya/locations)** — Discover landmarks, buildings, streets, and key facilities.
+- **[Shops & Economy](/bandaraya/shops)** — Understand how to earn and spend BR, find shops, and use banking.
 
 ::: tip Stay Updated!
 Regularly check the main menu's **Log** for recent updates and the **Shop** for exciting new gamepasses.

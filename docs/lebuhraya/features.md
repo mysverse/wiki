@@ -62,6 +62,8 @@ Lebuhraya is more than just driving; it's packed with features that create an en
 
 ## 📖 School System (SMK MYS II)
 
+<iframe src="https://drive.google.com/file/d/1DT9HRYlIiE41ghdgqlo7duRMyCD-a1Qi/preview" width="100%" height="480" allow="autoplay" style="border: none; border-radius: 12px;"></iframe>
+
 - **Location:** SMK Lebuhraya in Bandar Seri Putra (near Putra Mahkota spawn, Masjid BSP).
 - **Mechanics (v3.2.0 - initial release, details may have evolved):**
   - Learn facts about History, Geography, Science, Mathematics (Malaysian secondary school syllabus).
@@ -129,6 +131,76 @@ Lebuhraya is more than just driving; it's packed with features that create an en
 - **Location:** Kampung Merbang (v3.0.0).
 - **Mechanics:** Build houses on plots. Fixed building issues (v3.1.4). Fixed Kampung Merbang house plots (v3.4.1).
 - **Furniture:** Kampung-inspired furniture (v3.0.1). Improved furniture placement collision logic (v3.4.11).
+
+## 🪓 Lumberjack System
+
+- **Location:** H Plantation Jersik area.
+- **How It Works:**
+  1. Join the **Lumberjack** team (free at Level 150).
+  2. Equip your **Axe** from your tools.
+  3. Approach a tree and swing to chop it down.
+  4. Collect the lumber.
+  5. Sell your lumber at the **lumber shop** for XP rewards.
+- Trees respawn after being cut, allowing continuous harvesting.
+
+## 🚚 Trucking & Logistics System
+
+- **Team:** Logistics (free at Level 75).
+- **How It Works:**
+  1. Spawn a truck from the **Truck Spawner**.
+  2. Attach trailers at designated **hook points**.
+  3. Follow waypoints to deliver freight between locations.
+  4. Complete deliveries for XP rewards.
+- **Tools:** Logistics Guide for tracking deliveries.
+
+## 🗑️ Waste Disposal System
+
+- **Team:** Waste Disposal (free at Level 25).
+- **How It Works:**
+  1. Spawn a waste disposal truck from the **Waste Spawner**.
+  2. Drive to rubbish bins around Lebuhraya to collect waste.
+  3. Bring collected waste to the **incinerator** for disposal.
+  4. Earn XP for completed runs.
+- **Tools:** Waste Disposal Guide for tracking collection points.
+
+## 🏥 Medical System (KKN Medic)
+
+- **Team:** Kesihatan (free at Level 200).
+- **Hospital Zone:** KKN Medic Hospital in Bandar Seri Putra.
+- **Tools:** Splint, First Aid Kit, Bandage, Kesihatan Booklet.
+- **Gameplay:**
+  - Toggle on/off duty via the Duty Toggle Button.
+  - Respond to injured players and provide medical assistance.
+  - Use the Action Menu to perform medical procedures.
+
+## 🤕 Injury System
+
+- **Mechanics:**
+  - Players can sustain injuries from vehicle crashes and other incidents.
+  - Injury notifications appear on screen when hurt.
+  - Kesihatan team members can respond to treat injured players.
+  - The crash service generates crash incidents that can cause injuries.
+
+## 🏪 KeluargaMart (Convenience Store)
+
+- **Location:** Various locations across Lebuhraya.
+- **Features:**
+  - Browse and purchase items from the store inventory.
+  - Items include food, drinks, and other consumables.
+  - Interact via the KeluargaMart UI when near a store.
+
+## 🎫 Token System
+
+- **Mechanics:**
+  - Tokens are special items that provide temporary boosts or effects.
+  - Active tokens are displayed in the **Active Tokens HUD** on screen.
+  - Tokens can be earned through challenges, events, or purchased from the shop.
+
+## 🚦 Traffic System
+
+- **Traffic Lights:** Automated traffic light controllers manage intersections with configurable green, yellow, and red phases.
+- **Red Light Detection:** Running a red light while driving triggers a **Red Light Violation** offence (1 point) and a 60-second Passive Lock. A 10-second cooldown prevents repeat penalties.
+- **Speed Traps:** Automated speed detection zones that catch speeding vehicles.
 
 ## Miscellaneous Systems
 

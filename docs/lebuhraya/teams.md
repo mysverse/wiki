@@ -33,6 +33,7 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
 - **Team Color:** Neon orange
 - **Tools (v3.3.0):**
   - Powertorch
+  - Advanced Tool Kit
   - Placeables: SCone (Standard Cone), PBSign (Polis Bantuan Sign)
   - Tablet (v3.3.12): Look up vehicle info.
 - **Spawn Switching:** Putra Mahkota / Jersik (v3.3.9).
@@ -40,6 +41,20 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
   - Tow Trucks (Beta, v3.4.4): Unlocked at Lvl 150 & 200. Increased horsepower (v3.4.5). Winch system for vehicles with no drivers.
   - Tayoti Hilux Variants (PB Cab, PB, PB Traffic) (v3.0.14).
   - Cone giver fixes for vehicles (v3.3.23).
+
+### 🕵️ Undercover Police
+
+- **Description:** Undercover law enforcement department of the police.
+- **Unlock:** Purchase the **Undercover Police gamepass**.
+- **Team Color:** Storm blue
+- **Tools:**
+  - Taser X26P
+  - Radar Gun
+  - Whistle
+  - Torchlight
+  - Placeables: PolisCone, PolisSign, PolisUmbrella
+- **Notable Vehicles:** Unmarked vehicles including Bezza, Saga, and X70.
+- **Equipment:** Police Lanyard, Soft Vests.
 
 ### ⚖️ APJ (Road Transport Agency)
 
@@ -49,7 +64,6 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
 - **Tools:**
   - Torchlight
   - Placeables: SCone
-- **Note:** This team is part of the Law Enforcement structure mentioned in v3.5.12.
 
 ## Emergency Services
 
@@ -74,7 +88,7 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
 - **Description:** Save lives as medical personnel of MYSverse's National Health Ministry.
 - **Unlock:** Free at **Level 200**.
 - **Team Color:** Crimson
-- **Tools:** (Not specified in provided data, likely medical equipment in future).
+- **Tools:** Splint, First Aid Kit, Bandage, Kesihatan Booklet.
 - **Vehicles (v3.5.6):**
   - Handai City RRV (Rapid Response Vehicle) - Unlocked at Level 200 (new career base unlock).
   - Tayoti Hilux RRV - Unlocked at Level 450.
@@ -126,6 +140,30 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
 - **Team Color:** Forest green
 - **Note:** Players are no longer automatically assigned to this team (v3.4.11).
 
+### 🗑️ Waste Disposal
+
+- **Description:** Help keep the region of Lebuhraya clean!
+- **Unlock:** Free at **Level 25**. Also unlockable through Season 1 pass.
+- **Team Color:** Sand green
+- **Tools:** Waste Disposal Guide.
+- **Gameplay:** Collect rubbish from bins using waste disposal trucks and incinerate at designated locations.
+
+### 🚚 Logistics
+
+- **Description:** Deliver goods with your lorry to the region of Lebuhraya!
+- **Unlock:** Free at **Level 75**. Also unlockable through Season 1 pass.
+- **Team Color:** Cashmere
+- **Tools:** Logistics Guide.
+- **Gameplay:** Hook up trailers, haul freight between delivery points, and earn XP upon completion.
+
+### 🪓 Lumberjack
+
+- **Description:** Be part of Lebuhraya's lumber industry!
+- **Unlock:** Free at **Level 150**. Also unlockable through Season 1 pass.
+- **Team Color:** Reddish brown
+- **Tools:** Axe.
+- **Gameplay:** Chop down trees with your axe, collect lumber, and sell it at the lumber shop for XP.
+
 ## General Teams
 
 ### 🇲🇾 Malaysians
@@ -142,12 +180,6 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
 - **Team Color:** Bright green
 - **Spawn:** Default spawn location Putra Mahkota (consistent, v3.5.8). Can be changed via main menu (v3.0.11).
 
-### 🕵️ MYSverse Sim Team
-
-- **Description:** A team to facilitate in-game events.
-- **Unlock:** Hidden unless unlocked (likely for event participation or specific roles).
-- **Note:** Added in v3.5.14.
-
 ## Team-Related Mechanics
 
 - **Team Spawners:** Only accessible if you are on the corresponding team (v3.4.14).
@@ -158,4 +190,18 @@ These teams focus on maintaining order, responding to incidents, and enforcing t
   - Adonis Admins/Mods get max level status (reverts if permissions deactivated).
 - **Team-Specific Ranks (v3.0.3):** Police ranks for KEMRonda/Polis Trafik, business roles for Bus Drivers.
 
-This list should give you a good overview of the teams available in Lebuhraya and what they entail!
+## Career Progression (Job Tiers)
+
+Each career branch has its own **tier-based progression system** separate from your overall player level. You earn career XP by performing tasks specific to your team, and advancing tiers unlocks new ranks.
+
+- **Max Tier:** 20 per career branch.
+- **XP Curve:** Starts at 500 XP for Tier 1, increasing by a factor of 1.15x per tier.
+- **Agencies:** Careers are organized into agencies:
+  - **Polis:** KEMRonda, Polis Trafik, Undercover Police
+  - **Kecemasan (Emergency):** Bomba, Kesihatan
+  - **Pengangkutan (Transport):** Bus Driver, Taxi Driver, Logistics
+  - **Perkhidmatan (Services):** Food Delivery, Post Office, Waste Disposal
+  - **Sumber (Resources):** Power Nasional, Lumberjack
+  - **Penguatkuasaan (Enforcement):** APJ
+
+Each rank within a branch has a minimum level requirement and a tier threshold. Progressing through tiers also awards in-game currency.

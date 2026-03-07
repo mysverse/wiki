@@ -67,8 +67,11 @@ Some teams are free, some require you to join a specific Roblox group ("Malaysia
 2. **Choose a Free Career:**
    - **Bus Driver:** No level requirement. Earn +1000 XP per completed route. Has a visible waypoint system.
    - **Food Delivery:** Unlocks at Level 10.
+   - **Waste Disposal:** Unlocks at Level 25. Keep Lebuhraya clean by collecting rubbish.
    - **Post Office:** Unlocks at Level 50. Deliver mail for +100 XP per parcel.
+   - **Logistics:** Unlocks at Level 75. Deliver goods with your lorry.
    - **Power Nasional:** Unlocks at Level 100. Repair streetlights for +25 XP per job.
+   - **Lumberjack:** Unlocks at Level 150. Chop trees and sell lumber.
 3. **Check Daily/Weekly Challenges:** Access these via the in-game menu for XP and other rewards (Beta, v3.3.24).
 4. **Visit SMK MYS II (School):** Participate in quizzes for XP (History/Sejarah questions refreshed in v3.5.6).
 

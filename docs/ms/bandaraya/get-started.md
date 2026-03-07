@@ -86,7 +86,12 @@ Pemain mesti mematuhi peraturan permainan dan garis panduan roleplay pada setiap
 
 ## Langkah Seterusnya
 
-Terokai Bandaraya dengan menyertai pasukan, melengkapkan misi, dan mengambil bahagian dalam acara komuniti. Selamat bermain!
+Terokai Bandaraya dengan lebih mendalam melalui panduan ini:
+
+- **[Pasukan](/ms/bandaraya/teams)** — Ketahui tentang semua pasukan yang tersedia, dari penguatkuasaan undang-undang hingga tentera dan pengangkutan.
+- **[Ciri-ciri](/ms/bandaraya/features)** — Terokai kenderaan, pertempuran, sistem metro, pemadaman api, dan banyak lagi.
+- **[Lokasi](/ms/bandaraya/locations)** — Temui mercu tanda, bangunan, jalan, dan kemudahan utama.
+- **[Kedai & Ekonomi](/ms/bandaraya/shops)** — Fahami cara mendapatkan dan membelanjakan BR, cari kedai, dan gunakan perbankan.
 
 ::: tip Sentiasa Dikemas Kini!
 Kerap semak **Log** di menu utama untuk kemas kini terkini dan **Kedai** untuk gamepass baru yang menarik.

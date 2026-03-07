@@ -27,12 +27,13 @@ Gamepasses provide permanent perks or access to specific content. Prices are in 
 
 These gamepasses unlock specific teams/careers and their associated vehicles and tools.
 
-| Gamepass Name    | Price (Robux) | Description                                                                                                         | Icon Asset ID | Team Unlocked |
-| ---------------- | ------------- | ------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
-| **Taxi Driver**  | 100           | Access to Taxi Driver team and YH Taxi Depot. Free if you own the Bandaraya Taxi Driver gamepass.                   |               | Taxi Driver   |
-| **KEMRonda**     | 150           | Access to KEMRonda highway patrol unit. Includes safety cones and Hilux variants (1 base, 3 level up).              |               | KEMRonda      |
-| **Polis Trafik** | 200           | Access to Polis Trafik. Unlocks Outlander HPV and 4 more vehicles (HPVs, motorcycles) via leveling.                 |               | Polis Trafik  |
-| **Bomba**        | 200           | Access to Bomba (Fire and Rescue). Starts with Triton (Utility), Atego LFRT; more via leveling. Gameplay mechanics. |               | Bomba         |
+| Gamepass Name          | Price (Robux) | Description                                                                                                         | Team Unlocked    |
+| ---------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Taxi Driver**        | 100           | Access to Taxi Driver team and YH Taxi Depot. Free if you own the Bandaraya Taxi Driver gamepass.                   | Taxi Driver      |
+| **KEMRonda**           | 150           | Access to KEMRonda highway patrol unit. Includes safety cones, Advanced Tool Kit, and Hilux variants.               | KEMRonda         |
+| **Undercover Police**  | 200           | Access to Undercover Police. Includes unmarked vehicles (Bezza, Saga, X70), Police Lanyard, and Soft Vests.         | Undercover Police|
+| **Bomba**              | 200           | Access to Bomba (Fire and Rescue). Starts with Triton (Utility), Atego LFRT; more via leveling.                     | Bomba            |
+| **Polis Trafik**       | 250           | Access to Polis Trafik. Unlocks Outlander HPV and more vehicles (HPVs, motorcycles) via leveling.                   | Polis Trafik     |
 
 ---
 
@@ -40,11 +41,11 @@ These gamepasses unlock specific teams/careers and their associated vehicles and
 
 These gamepasses grant access to a collection of exclusive vehicles, often requiring further in-game leveling to unlock all vehicles within the pack.
 
-| Gamepass Name               | Price (Robux) | Description                                                                                                                              | Icon Asset ID |
-| --------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| **Electric Vehicle Pack 1** | 250           | Access to 5 EV vehicles: MYD Atto III (base unlock), Ionic V, Rolvo XC40, Besla Y, CITO Ami (level up rewards).                          |               |
-| **Premium Car Pack 1**      | 300           | Access to 5 premium vehicles: CX-5 (base unlock), S90, Vellfire, XC90, A45 Hatchback (level up rewards). Also includes newer additions.  |               |
-| **Supercar Pack 1**         | 500           | Access to 5 supercars: GT-R (base unlock), 911, 458 Italia, Hulakan, Chiron Pur Sport (level up rewards). Also includes newer additions. |               |
+| Gamepass Name              | Price (Robux) | Description                                                                                                                              |
+| -------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Electric Vehicle Pack**  | 250           | Access to EV vehicles: MYD Atto III (base unlock), Ionic V, Rolvo XC40, Besla Y, CITO Ami (level up rewards).                            |
+| **Premium Car Pack**       | 300           | Access to premium vehicles: CX-5 (base unlock), S90, Vellfire, XC90, A45 Hatchback (level up rewards).                                   |
+| **Supercar Pack**          | 500           | Access to supercars: GT-R (base unlock), 911, 458 Italia, Hulakan, Chiron Pur Sport (level up rewards).                                   |
 
 ---
 
