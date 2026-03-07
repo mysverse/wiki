@@ -85,7 +85,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "🏘️ Sumaya",
+        text: "🌅 Sumaya",
         items: [
           { text: "Get started", link: "/sumaya/get-started" },
           { text: "Teams", link: "/sumaya/teams" },
@@ -143,7 +143,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "🏘️ Sumaya",
+            text: "🌅 Sumaya",
             items: [
               { text: "Mula", link: "/ms/sumaya/get-started" },
               { text: "Pasukan", link: "/ms/sumaya/teams" },
@@ -195,7 +195,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "🏘️ Sumaya",
+            text: "🌅 Sumaya",
             items: [
               { text: "入门", link: "/zh/sumaya/get-started" },
               { text: "队伍", link: "/zh/sumaya/teams" },
@@ -248,7 +248,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "🏘️ Sumaya",
+            text: "🌅 Sumaya",
             items: [
               { text: "தொடங்கு", link: "/ta/sumaya/get-started" },
               { text: "அணிகள்", link: "/ta/sumaya/teams" },
