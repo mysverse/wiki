@@ -21,6 +21,10 @@ Pick **POLIS** on the main menu. Your starting kit is 5 tools:
 
 A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
 
+## Placeable traffic/crime scene items (reserved / not distributed)
+
+The game has **5 placeable tools** defined (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — each with a working placement handler and `PlaceableItemsLeft` counter. However, **they are not currently given to POLIS players** by any team loadout, NPC, shop, or unlock. The models and scripts exist but the distribution path isn't wired up in the live build, so you won't find these in your inventory in normal play. Treat as reserved for a future update.
+
 Head to the police station for vehicles, or patrol the streets and watch for wanted suspects on your MDT (Mobile Data Terminal) app.
 
 ## The wanted system
@@ -72,6 +76,15 @@ The basic flow:
 2. Approach them. If they're in passive mode or speeding, they may not realize you're there.
 3. Use your **handcuffs** tool within interact range.
 4. If successful, they're arrested - sent to jail for a star-based duration.
+
+### The detain phase
+
+Before final arrest, suspects enter a **detained** state. Once detained:
+- They follow you at a **4-stud offset**, clamped to within **20 studs maximum** (they can't wander off).
+- A **60-second detain timeout** kicks in — if you don't complete the arrest within 60 s, the detain releases automatically.
+- While detained, they can still try to **surrender** at a prompt to cut their own jail time in half.
+
+Detain is useful when you want to walk a suspect to a specific location (police station, surrender prompt) before booking them.
 
 ### Arrest rewards
 
@@ -216,7 +229,7 @@ If you have your Polis vehicle's **siren active**, you can't be cited for speedi
 - **Don't miss milestone bonuses.** Every 5 arrests = +200 Ringgit. Plan your shift to hit 5, 10, 15.
 - **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
 - **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
-- **Don't become wanted yourself.** Committing a crime as POLIS auto-demotes you off the team. If you want to steal a car for fun, leave the team first.
+- **Don't become wanted yourself.** Committing a crime as POLIS was intended to auto-demote you off the team, but that listener isn't wired in the current build - you stay on POLIS. Don't rely on the game to swap you back to civilian; leave the team first if you want to play criminal. (Practically: POLIS is barred from passive mode anyway, so committing crimes on-duty is extremely risky.)
 - **Help Bomba for cheap XP.** POLIS who stand near an active fire (within 512 studs) get **10 XP per fire block** extinguished, without needing to do anything. Worth hanging around.
 
 ## What next?

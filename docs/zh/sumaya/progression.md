@@ -1,92 +1,104 @@
 ---
-title: Progression
-description: 'XP, levels, ranks, and the fastest paths to climb in Sumaya.'
+title: 进度
+description: Sumaya 的 XP、等级、职级系统，以及最快晋升路径。
 lang: zh
-translated_from_hash: b8e8d504
+translated_from_hash: a92b3ad8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 进度
 
-# Progression
+Sumaya 拥有**两层 XP 系统**：你所做的每个动作都会获得**玩家 XP**（用于你的全局等级）和**领域 XP**（用于你正在从事的特定职业或服务）。本页解释了这一切是如何运作的——什么时候升级、职级如何配合、哪些策略最有效。
 
-Sumaya has a **two-tier XP system**: every action you take earns **player XP** (towards your global level) and **sector XP** (towards the specific career or service you're doing). This page explains how it all works - what levels up when, how ranks fit in, and what strategies work best.
+## 两个层级
 
-## The two tiers
+### 玩家等级
 
-### Player level
+- 全局账号等级，在你所做的所有事情中共享。
+- 范围为 **1 到 300**。
+- 每个领域动作都会在你的领域 XP 之外，同步增加你的玩家 XP。
+- 更高的玩家等级会解锁一些车辆（主要是 Polis）和任务链里程碑。
+- 从 1 升到 300 大约需要 **450 万总 XP**——这是一场漫长的刷练，大多数玩家会远在 300 之前就停下来。
 
-- Global account level, shared across everything you do.
-- Ranges from **1 to 300**.
-- Every sector action adds to your player XP in parallel with your sector XP.
-- Higher player level unlocks a few vehicles (mostly Polis) and quest chain milestones.
-- To level from 1 to 300 requires around **4.5 million total XP** - it's a long grind, most players will settle long before 300.
+### 领域等级
 
-### Sector level
+- 每个职业的等级，每个你从事的领域各自独立。
+- 范围取决于领域：
+  - **Bomba、Kesihatan、Polis、Fishing、Service**：1 到 100。
+  - **Agriculture（棕油）**：1 到 25。
+- 你的领域等级决定你在该领域的**职级**（头衔）。
+- 更高的领域等级会解锁团队专属车辆（例如 Bomba 领域 65 级的 Sanica Tanker）。
 
-- Per-career level, independent for each sector you work in.
-- Ranges depend on sector:
-  - **Bomba, Kesihatan, Polis, Fishing, Service**: 1 to 100.
-  - **Agriculture (palm oil)**: 1 to 25.
-- Your sector level drives your **rank** (title) within that sector.
-- Higher sector level unlocks team-specific vehicles (e.g. Sanica Tanker at Bomba sector 65).
+### 它们如何一同升级
 
-### How they level together
+几乎每个游戏内动作都同时给予**玩家 XP 和领域 XP**，每一方获得相同的数额。例如，扑灭一个火块会获得 5 玩家 XP 和 5 Bomba 领域 XP。
 
-Almost every in-game action gives **both** player XP and sector XP, with the same amount to each. For example, extinguishing a fire block gives 5 player XP AND 5 Bomba sector XP.
+所以当你刷练时，你的全局账号和特定领域都会同步上升。
 
-So as you grind, both your global account and the specific sector rise in parallel.
+## 每个动作的 XP（快速参考）
 
-## XP per action (quick reference)
+以下是不同动作给予多少 XP。除非另有说明，否则玩家 XP 和领域 XP 均给予。
 
-Here's how much XP different actions give. Both player XP and sector XP, unless noted.
+### 平民职业
 
-### Civilian careers
-
-| Action | XP (scales with level) |
+| 动作 | XP（随等级递增） |
 |--------|------------------------|
-| Rod fishing (per sold fish, 5 species) | 15 XP to player only — does NOT advance fishing sector |
-| Trawl fishing (per pulled fish) | 2 XP to both player and fishing sector |
-| Complete a mamak / fast food order | ~5 XP at level 1, grows with 1.1x multiplier |
-| Palm harvest | ~5 XP at level 1, grows with sector level |
-| Palm oil end-of-shift bonus (player XP only) | 50 XP |
+| 钓竿捕鱼（每卖出一条鱼，5 个鱼种） | 15 XP 仅给玩家 — 不会推进 fishing 领域 |
+| 拖网捕鱼（每拉起一条鱼） | 2 XP 同时给玩家和 fishing 领域 |
+| 完成一份 mamak / 快餐订单 | 1 级时约 5 XP，以 1.1 倍倍率增长 |
+| 棕榈采收 | 1 级时约 5 XP，随领域等级增长 |
+| 棕油班次结束奖励（仅玩家 XP） | 50 XP |
 
-### Emergency services
+### 紧急服务
 
-| Action | XP |
+| 动作 | XP |
 |--------|-----|
-| Bomba: extinguish 1 fire block | 5 XP |
-| Bomba: other EMS nearby | 10 XP (to non-Bomba helpers) |
-| Kesihatan: first aid diagnosis | 15 XP |
-| Kesihatan: bandage heal | 30 XP |
-| Kesihatan: splint heal | 40 XP |
-| Kesihatan: X-Ray / MRI diagnosis | 20 XP |
-| Polis: arrest 1-star suspect | 50 XP |
-| Polis: arrest 2-star suspect | 100 XP |
-| Polis: arrest 3-star suspect | 175 XP |
-| Polis: arrest 4-star suspect | 275 XP |
-| Polis: arrest 5-star suspect | 400 XP |
-| Polis: nearby officer | 50% of arresting officer's reward |
-| Polis: radar capture | 30 XP |
+| Bomba：扑灭 1 个火块 | 5 XP |
+| Bomba：附近其他 EMS | 10 XP（给非 Bomba 的协助者） |
+| Kesihatan：急救诊断 | 15 XP |
+| Kesihatan：绷带治疗 | 30 XP |
+| Kesihatan：夹板治疗 | 40 XP |
+| Kesihatan：X 光 / MRI 诊断 | 20 XP |
+| Polis：逮捕 1 星嫌犯 | 50 XP |
+| Polis：逮捕 2 星嫌犯 | 100 XP |
+| Polis：逮捕 3 星嫌犯 | 175 XP |
+| Polis：逮捕 4 星嫌犯 | 275 XP |
+| Polis：逮捕 5 星嫌犯 | 400 XP |
+| Polis：附近的警员 | 逮捕警员奖励的 50% |
+| Polis：雷达捕获 | 30 XP |
 
-### Quests
+### 任务
 
-The 12-quest discovery chain pays **3,750 XP** across the per-quest rewards, **plus a 2,000 XP one-time finale bonus** on the last quest. Fully completed = **5,750 XP**. SR payout similarly: 2,900 normal + 1,500 finale = 4,400 Ringgit. See [Quests](/sumaya/quests).
+12 个任务的探索链在每个任务奖励中共支付 **3,750 XP**，**加上最后一个任务一次性的 2,000 XP 终章奖励**。全部完成 = **5,750 XP**。SR 支付类似：2,900 普通 + 1,500 终章 = 4,400 Ringgit。参见[任务](/sumaya/quests)。
 
-## The Kesihatan +15% XP boost
+## Kesihatan +15% XP 加成
 
-When Kesihatan players **activate the injury system**, every player on the server gets a **+15% multiplier on player XP** for the duration. The boost applies to all sources - crime, jobs, fires, anything that gives player XP.
+当 Kesihatan 玩家**启动伤势系统**时，server 上的每个玩家在该期间都会获得**玩家 XP +15% 倍率加成**。该加成适用于所有来源——犯罪、工作、火灾，任何给予玩家 XP 的事物。
 
-Sector XP is **not** boosted - only player XP. So the boost helps your global account grind, not your specific career.
+领域 XP **不会**被加成——只有玩家 XP。所以该加成有助于你的全局账号刷练，而不是你的特定职业。
 
-This is a strong incentive to have medical players active on your server. Long grinding sessions are way more efficient when it's on.
+这是让服务器上有医疗玩家活跃的强烈动机。长时间刷练时有它开启会高效得多。
 
-## Ranks
+## 职业装备与套件
 
-Each public-service sector has **ranks** - titles that auto-update based on your sector level. They're cosmetic; they don't gate gameplay (only your level does).
+每个紧急服务团队（POLIS、BOMBA、Kesihatan）都有一个 **Careers** 应用流程，你可以在其中装备已解锁的装束与套件物品。这些物品受该团队**领域等级**的限制：
 
-### Bomba ranks (13 total)
+- **Outfits** 更换你角色的制服外观（例如 Nurse scrubs、Specialist firesuit、Ambulance Operator vest）。
+- **Kit items** 附加装备（腰带、头盔、面具、雨衣）。
 
-| Level | Rank |
+锁定的物品在 Careers 应用中显示 "Locked (Lv. X)"，直到你的领域等级达到门槛。示例门槛：
+
+- **POLIS**：Duty Belt + Beret 在 L1，Reflective Vest 在 L10，Reflective Coat 在 L20。
+- **BOMBA**：Respirator + SCBA 在 L15，EMRS 在 L20，各种套件在 L30-40，Senior Firesuit 在 L50，Command Helmet 在 L60，Calendar outfit 在 L67。
+- **Kesihatan**：Nurse + Medical Mask 在 L1，Ambulance Operator + Medikal Cap 在 L15，N95 在 L20，Medikal Reflective Vest 在 L25，Scrubs + Face Shield 在 L30。
+
+## 职级
+
+每个公共服务领域都有**职级**——根据你的领域等级自动更新的头衔。它们是装饰性的；它们不会限制游戏玩法（只有你的等级才会）。
+
+### Bomba 职级（共 13 个）
+
+| 等级 | 职级 |
 |-------|------|
 | 1 | Fire Officer (PB) |
 | 6 | Senior Fire Officer (PBK) |
@@ -102,9 +114,9 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 | 65 | Deputy Fire Commissioner (TPjB) |
 | 76 | Fire Commissioner (PjB) |
 
-### Kesihatan ranks (13 total)
+### Kesihatan 职级（共 13 个）
 
-| Level | Rank |
+| 等级 | 职级 |
 |-------|------|
 | 1 | Medical Trainee |
 | 6 | House Officer |
@@ -120,9 +132,9 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-### Polis ranks (16 total)
+### Polis 职级（共 16 个）
 
-| Level | Rank |
+| 等级 | 职级 |
 |-------|------|
 | 1 | Police Constable |
 | 6 | Lance Corporal (L/Cpl) |
@@ -141,95 +153,95 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 | 77 | Deputy Commissioner of Police (DCP) |
 | 89 | Commissioner of Police (CP) |
 
-For all three public services, the rank cap is below the level cap. You keep earning XP past the final rank, but your title won't change.
+对于这三个公共服务，职级上限低于等级上限。超过最终职级后你仍能继续获得 XP，但你的头衔不会改变。
 
-## Level-gated content
+## 等级限定内容
 
-Some things unlock as you hit specific levels or sector levels. Most of these are vehicles.
+有些东西会在你达到特定等级或领域等级时解锁。其中大多数是车辆。
 
-### Player level gates
+### 玩家等级门槛
 
-| Level | Unlock |
+| 等级 | 解锁 |
 |-------|--------|
-| 1 | Game start - civilian jobs, default vehicles, Tier 1 Trawler |
-| 2 | Completes `q_levelup` quest (rewards 300 XP, 200 SR) |
-| 5 | Completes `q_rising_star` quest (500 XP, 400 SR) |
-| 10 | Completes `q_veteran` quest (800 XP, 700 SR) |
-| 15 | Protan Waja MPV Polis (6,500 Ringgit) - Polis only |
+| 1 | 游戏开始 - 平民工作、默认车辆、Tier 1 Trawler |
+| 2 | 完成 `q_levelup` 任务（奖励 300 XP、200 SR） |
+| 5 | 完成 `q_rising_star` 任务（500 XP、400 SR） |
+| 10 | 完成 `q_veteran` 任务（800 XP、700 SR） |
+| 15 | Protan Waja MPV Polis（6,500 Ringgit）- 仅限 Polis |
 
-### Sector level gates (Bomba)
+### 领域等级门槛（Bomba）
 
-| Sector level | Unlock |
+| 领域等级 | 解锁 |
 |--------------|--------|
-| 1 | Merze Atego LFRT (free) |
-| 20 | Sanica 94D LFRT (9,000 Ringgit) |
-| 40 | Tayoti Hiace Bomba (12,000 Ringgit), Sanica P310 FRT (13,000 Ringgit) |
-| 65 | Sanica P360 Tanker (20,000 Ringgit) |
+| 1 | Merze Atego LFRT（免费） |
+| 20 | Sanica 94D LFRT（9,000 Ringgit） |
+| 40 | Tayoti Hiace Bomba（12,000 Ringgit）、Sanica P310 FRT（13,000 Ringgit） |
+| 65 | Sanica P360 Tanker（20,000 Ringgit） |
 
-### Sector level gates (Polis)
+### 领域等级门槛（Polis）
 
-| Sector level | Unlock |
+| 领域等级 | 解锁 |
 |--------------|--------|
-| 1 | Protan Wira MPV Polis (free) |
-| 35 | Handai City MPV Polis (12,000 Ringgit) |
-| 55 | Handai Civic MPV Polis (15,000 Ringgit) |
+| 1 | Protan Wira MPV Polis（免费） |
+| 35 | Handai City MPV Polis（12,000 Ringgit） |
+| 55 | Handai Civic MPV Polis（15,000 Ringgit） |
 
-### Sector level gates (Kesihatan)
+### 领域等级门槛（Kesihatan）
 
-| Sector level | Unlock |
+| 领域等级 | 解锁 |
 |--------------|--------|
-| 1 | Tayoti Hiace KKN Ambulance (free) |
-| 20 | Tayoti Hilux KKN Ambulance (8,000 Ringgit) |
-| 45 | Handai City KKN Ambulance (12,000 Ringgit) |
+| 1 | Tayoti Hiace KKN Ambulance（免费） |
+| 20 | Tayoti Hilux KKN Ambulance（8,000 Ringgit） |
+| 45 | Handai City KKN Ambulance（12,000 Ringgit） |
 
-### Civilian sector gates
+### 平民领域门槛
 
-| Event | Condition |
+| 事件 | 条件 |
 |-------|-----------|
-| Unlock Service Sector (Mamak / Fast Food) | Reach level 50 in Fishing or Agro |
-| Access Tier 2 / Tier 3 Trawlers | Own enough Ringgit to buy them |
+| 解锁 Service 领域（Mamak / Fast Food） | 在 Fishing 或 Agro 达到 50 级 |
+| 使用 Tier 2 / Tier 3 Trawlers | 拥有足够 Ringgit 来购买 |
 
-## Leveling strategy
+## 升级策略
 
-Want to level fast? Here are rough tactics:
+想要快速升级？以下是一些大致战术：
 
-### Early game (player level 1-10)
+### 游戏前期（玩家等级 1-10）
 
-- Do the quest chain. It's front-loaded with levels 2, 5, and 10 milestones, paying 300+500+800 = 1,600 XP in chunks.
-- Pick a civilian sector to clock in to while you complete other quest steps.
-- Don't worry about sector levels yet - focus on player XP.
+- 完成任务链。它在 2、5、10 级里程碑上重点前置，分批支付 300+500+800 = 1,600 XP。
+- 在完成其他任务步骤的同时，选择一个平民领域打卡上班。
+- 暂时不用担心领域等级——专注于玩家 XP。
 
-### Mid game (player level 10-50)
+### 游戏中期（玩家等级 10-50）
 
-- Pick an emergency service if you haven't. Kesihatan's +15% boost helps everyone.
-- Bomba is great for group grinds (bigger fires, more players = faster milestone bonuses).
-- Polis during off-peak is slow - you need criminals online.
+- 如果还没有，选择一项紧急服务。Kesihatan 的 +15% 加成对大家都有帮助。
+- Bomba 非常适合团队刷练（更大的火灾、更多玩家 = 更快的里程碑奖励）。
+- 非高峰时段的 Polis 比较慢——你需要有罪犯在线。
 
-### Late game (player level 50+)
+### 游戏后期（玩家等级 50+）
 
-- Palm oil shifts for end-of-shift 50 XP bonus.
-- 5-star arrests if you can land them (400 XP each).
-- Bomba fire bonuses every 15 blocks = 150 SR.
+- 棕油班次以获得 50 XP 的班次结束奖励。
+- 如果你能完成 5 星逮捕（每次 400 XP）。
+- Bomba 每 15 个火块的火灾奖励 = 150 SR。
 
-### Multi-sector strategy
+### 多领域策略
 
-- Everything you earn in a sector levels your player account in parallel.
-- Maxing Agro (25 levels) is the shortest ladder - good for a "first max" achievement.
-- Fishing is the most passive - level it while you do other things.
+- 你在某个领域中赚到的一切都会同步提升你的玩家账号等级。
+- 刷满 Agro（25 级）是最短的阶梯——非常适合作为"首次刷满"的成就。
+- Fishing 最被动——在你做其他事情的时候顺便升级它。
 
-## Excess XP carry-over
+## 多余 XP 转结
 
-If you have enough XP to level up multiple times in a single action (e.g. a big 400 XP arrest at low level), the excess carries over properly - you'll advance through multiple levels in one go without losing XP.
+如果你在单个动作中获得了足以多次升级的 XP（例如在低等级时进行一次 400 XP 的大逮捕），多余部分会正确转结——你会一次推进多个等级，而不会损失 XP。
 
-## Tips
+## 小贴士
 
-- **Track the +15% boost.** Long session + Kesihatan active = way more efficient.
-- **Don't forget player XP is separate from sector XP.** If you switch careers, both still grow.
-- **Ranks are flex, not gameplay.** Don't feel pressured to max a rank you don't enjoy.
-- **Level gates are fewer than they seem.** Most content is available from level 1. The big gates are for high-tier team vehicles.
+- **追踪 +15% 加成。** 长时间会话 + Kesihatan 活跃 = 效率高得多。
+- **别忘了玩家 XP 与领域 XP 是分开的。** 如果你切换职业，两者仍会同步增长。
+- **职级是炫耀，不是玩法。** 不要为了刷满你不喜欢的职级而感到压力。
+- **等级门槛比看起来少。** 大多数内容从 1 级起就可用。主要门槛是高阶团队车辆。
 
-## What next?
+## 接下来？
 
-- [Economy](/sumaya/economy) for how Ringgit works in parallel.
-- [Quests](/sumaya/quests) for the 12-quest chain and milestones.
-- [Career overview](/sumaya/jobs) or [Emergency services overview](/sumaya/emergency-services) for sector-specific grind tips.
+- [经济](/sumaya/economy) 了解 Ringgit 如何并行运作。
+- [任务](/sumaya/quests) 了解 12 任务链与里程碑。
+- [职业概览](/sumaya/jobs) 或 [紧急服务概览](/sumaya/emergency-services) 获取领域专属的刷练建议。

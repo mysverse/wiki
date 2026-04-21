@@ -1,8 +1,6 @@
 ---
-title: Getting Started
-description: >-
-  Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit
-  (BR), pick a team, and explore Kuala Lumpur.
+title: 开始体验 Bandaraya
+description: 在 Bandaraya 开始你的冒险 — 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。
 lang: zh
 translated_from_hash: efebfc95
 translated_on: '2026-04-21'

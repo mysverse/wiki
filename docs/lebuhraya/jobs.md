@@ -50,9 +50,11 @@ Jobs are grouped by the **agency** that organises them.
 **How to start**: Join the Logistics team. Head to a freight contract point (marked ProximityPrompts around the map) and take on a delivery.
 
 **What you do**:
-1. A freight truck spawns for you.
-2. Drive the loaded truck to the delivery destination.
-3. Earn XP and BR on successful delivery.
+1. Find a freight contractor (ProximityPrompt). Accept a contract and a freight truck / trailer is assigned to you.
+2. Hitch the trailer to the hook point and drive the loaded truck to the delivery destination.
+3. Unhitch and complete the delivery.
+
+**Rewards**: **0.09 XP per metre** (~stud) travelled during the delivery. A 5,000-stud haul pays ~450 XP — Trucking is the XP workhorse of the long-distance jobs.
 
 **Vehicle**: Heavy-freight trucks — Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
 
@@ -100,9 +102,15 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **How to start**: Join the Waste Disposal team. Read the **Waste Disposal Guide** tool in your inventory.
 
-**What you do**: Collect rubbish from bins placed around the map, load it onto your truck, and deliver to one of the **Stesen Insinerasi** (incineration stations — one in Bandar Seri Putra, one in Jersik).
+**What you do**:
+1. Drive your rubbish truck to a trash bin. There are **114 bins** scattered across the map.
+2. Interact with the bin's "trashProx" prompt to trigger the lifting animation. Trash accumulates on your truck.
+3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations — Bandar Seri Putra and Jersik).
+4. Deposit at the incinerator's zone to cash out. You'll see a "Pay" notification with your earnings.
 
-**Vehicle**: Rubbish truck (team-issue).
+**Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
+
+**Vehicle**: Rubbish truck (team-issue, spawnable via MyPod).
 
 ---
 
@@ -310,9 +318,17 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 
 ### Checkout
 
-**How to start**: Work a cashier station at one of the shops.
+**How to start**: Walk into a cashier station at a food shop or the KeluargaMart.
 
-**What you do**: Serve NPC customers — select the food items they want, take payment, issue change. Good for social roleplay and small XP gains.
+**What you do**:
+1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** — so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
+2. The customer requests 1–4 food items from the available menu.
+3. You have **15–20 seconds** to select the right items and complete the order.
+4. Serve them before the timer expires or they leave angry (no reward).
+
+**Rewards**: Random **3–8 XP per customer served**, computed at the end of your shift. Not the highest rate per minute, but a social, low-pressure way to play and see familiar faces.
+
+**Heads up**: The reward is XP only — the BR reward branch isn't implemented yet.
 
 ---
 

@@ -1,62 +1,61 @@
 ---
-title: Palm Oil (Agriculture)
-description: Palm oil and agriculture work in Sumaya.
+title: 棕油业（农业）
+description: Sumaya 的棕油业与农业工作介绍。
 lang: zh
 translated_from_hash: '12381531'
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 棕油业（农业）
 
-# Palm Oil (Agriculture)
+棕油收割是 Sumaya 的农业领域。你从棕榈树上砍下果串,收集到桶里,在轮班结束时领取报酬。它从第一天就可用——没有先决条件,没有等级限制,只需走上前开始。
 
-Palm oil harvesting is Sumaya's agricultural sector. You cut fruit bunches from palm trees, collect them in a bucket, and get paid at the end of your shift. It's available from day one - no prerequisite, no level gate, just walk up and start.
+## 入门
 
-## Getting started
+1. 打开你的手机并点按 **Careers** 应用。
+2. 选择 **Agricultural Sector**。
+3. 前往棕榈种植园(Careers 应用会为你指路)。
+4. 按下 **clock in** 提示。
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Agricultural Sector**.
-3. Head to a palm plantation (the Careers app will point you there).
-4. Press the **clock in** prompt.
+一旦你开始轮班,一把砍棕工具和一个收集桶就会出现在你的背包中。
 
-Once you're on shift, a palm-cutting tool and a collection bucket spawn in your backpack.
+## 收割如何运作
 
-## How harvesting works
+1. 走近一棵棕榈树。
+2. 对成熟的果串使用砍切工具(那些标有收割提示的)。
+3. 果实掉落;用你的桶捡起来。
+4. 继续进行,直到你的轮班结束或你已清理了可用的树木。
 
-1. Walk up to a palm tree.
-2. Use the cutting tool on ripe fruit bunches (the ones marked with the harvest prompt).
-3. The fruit drops; pick it up with your bucket.
-4. Keep going until your shift ends or you've cleared the available trees.
+每次收割都会加入你轮班的累计总额。每次收割的具体报酬取决于领域等级。
 
-Each harvest adds to your shift's running total. The exact per-harvest payout depends on sector level.
+## 轮班结束
 
-## End of shift
+这是棕油的关键:**你不是每次收割就得到报酬。你是在 clock out 时得到报酬。**
 
-This is the key thing about palm oil: **you don't get paid per harvest. You get paid when you clock out.**
+当你结束轮班时:
 
-When you end your shift:
+- 你的累计收入将直接存入你的**银行账户**(不是钱包)。
+- 你会在每次收割 XP 之上获得**固定 50 XP 奖励**。
+- 你会收到 **Palm Oil Plantation** 薪水通知。
 
-- Your accumulated earnings are deposited directly into your **bank account** (not your wallet).
-- You get a **flat 50 XP bonus** on top of per-harvest XP.
-- You receive a **Palm Oil Plantation** paycheck notification.
+因为一切都在轮班结束时存入银行,如果你死亡或意外地过早结束轮班,你仍然保留已赚取的部分。只需重新 clock in 即可。
 
-Because everything is banked at end-of-shift, if you die or accidentally end the shift early, you keep what you earned. Just clock back in.
+## 升级
 
-## Leveling up
+农业领域的最高等级为**25 级**——低于钓鱼(100)或服务业(100)。如果你是完美主义者,这使它成为最短的封顶阶梯。
 
-The agricultural sector maxes out at **level 25** - lower than fishing (100) or service (100). That makes it the shortest ladder to top out, if you're a completionist.
+每次收割的 XP 随你的领域等级而扩展(与服务业类似)。早期等级较慢;后期等级每次砍切报酬更多。
 
-Per-harvest XP scales with your sector level (like the service sector). Early levels are slow; later levels pay more per cut.
+## 小贴士
 
-## Tips
+- **桶会装满。**留意你的桶容量——一旦装满,你可能需要卸载才能继续。(根据地图设置,卸载在收集点进行。)
+- **轮班结束很重要。**在登出前务必 clock out——如果你在轮班中途断线,你的待发收入可能会丢失。
+- **棕油是最快封顶的。**如果你喜欢完成事情,25 级比 100 级少很多磨练。
+- **50 XP 轮班结束奖励仅为玩家 XP。**它进入你的全球账户,而不是农业领域。在规划轮班时请考虑这一点。
+- **与 Kesihatan XP 加成叠加。**如果 Kesihatan 的受伤系统启用,50 XP 轮班结束奖励将变为 57.5 XP (+15%)。
 
-- **Bucket fills up.** Keep an eye on your bucket capacity - once full, you may need to unload before continuing. (Depending on map setup, unloading happens at a collection point.)
-- **End-of-shift is important.** Always clock out before logging off - if you disconnect mid-shift, your pending earnings might be lost.
-- **Palm is the fastest to max.** If you like completing things, 25 levels vs 100 is much less of a grind.
-- **The 50 XP end-shift bonus is player-XP only.** It goes to your global account, not the agricultural sector. Factor that in when planning shifts.
-- **Stack with the Kesihatan XP boost.** If Kesihatan's injury system is active, the 50 XP end-shift bonus becomes 57.5 XP (+15%).
+## 接下来呢?
 
-## What next?
-
-- [Fishing](/sumaya/jobs-fishing) for a no-stress alternative.
-- [Service sector](/sumaya/jobs-service) once you hit level 50 here or in fishing.
-- [Progression](/sumaya/progression) to understand how XP compounds across sectors.
+- [钓鱼](/sumaya/jobs-fishing)作为无压力的替代选择。
+- [服务业领域](/sumaya/jobs-service)在你在此处或钓鱼中达到 50 级后。
+- [进阶](/sumaya/progression)了解 XP 如何跨领域累积。

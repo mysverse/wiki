@@ -123,12 +123,13 @@ This removes the RTAA escape hatch entirely.
 
 Police can issue **summons** — on-the-spot fines for traffic or minor offences.
 
-- The officer uses the **Saman** tool.
-- You receive a summons notification.
-- The fine amount and reason appear in your **SummonsView** GUI.
-- You can browse received summons (with pagination for history).
+- The officer uses the **Saman** tool (requires PDRM any rank, or Polis Bantuan rank 2+).
+- The fine is **deducted immediately** from your BR balance (max fine per summons: **1,000 BR**).
+- You receive a popup toast notification.
+- The fine amount, reason, and reference number appear in your **SummonsView** GUI — browse your full history with pagination.
+- Officers are rate-limited to one summons every **10 seconds**.
 
-Pay up. Unpaid summons stay on your record.
+You can't dispute or refuse — it's already paid. If you think a summons was unjust, appeal via the community server (moderator review).
 
 ---
 

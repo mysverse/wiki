@@ -1,121 +1,131 @@
 ---
-title: World and Map
-description: >-
-  Bandar Seri Putra, Jersik, Kampung Merbang, and 29 key locations across
-  Lebuhraya.
+title: 世界与地图
+description: Bandar Seri Putra、Jersik、Kampung Merbang 以及 Lebuhraya 的 29 个关键地点。
 lang: zh
-translated_from_hash: f459b4c8
+translated_from_hash: df211658
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 世界与地图
 
-# World and Map
+Lebuhraya 设定在一段马来西亚高速公路上,由收费站和休息站连接着三个主要地区。本页将标示出所有地点的位置。
 
-Lebuhraya is set on a stretch of Malaysian highway with three main regions connected by toll plazas and rest stops. This page maps out where everything is.
-
-## The regions
+## 地区
 
 ### Bandar Seri Putra
 
-The largest settlement — your main hub for jobs, services, and commerce. If you're new, you'll spend most of your first hours here.
+最大的聚落 —— 你进行工作、服务和商业活动的主要枢纽。如果你是新手,你的最初几个小时大部分都会在这里度过。
 
-**Key buildings**:
-- **Balai Polis Bandar Seri Putra** — Police station
-- **Balai Bomba Bandar Seri Putra** — Fire station
-- **Klinik Kesihatan Bandar Seri Putra** — Health clinic / hospital
-- **Depoh Bas Bandar Seri Putra** — Bus depot (start of Bus Driver routes)
-- **Radtrol Petrol Station Bandar Seri Putra** — Refuelling
-- **Stesen Insinerasi Bandar Seri Putra** — Waste disposal drop-off
-- **Gravstone Workshop Bandar Seri Putra** — Vehicle repairs
-- **Pangsapuri Seri Putra** — Apartment complex / housing plots
-- **Masjid Bandar Seri Putra** — Mosque
-- **KTN Bandar Seri Putra** — KTN branch
-- **Dus Doffee Bandar Seri Putra** — Coffee shop
+**主要建筑**:
+- **Balai Polis Bandar Seri Putra** —— 警察局
+- **Balai Bomba Bandar Seri Putra** —— 消防局
+- **Klinik Kesihatan Bandar Seri Putra** —— 健康诊所/医院
+- **Depoh Bas Bandar Seri Putra** —— 巴士车厂(Bus Driver 路线起点)
+- **Radtrol Petrol Station Bandar Seri Putra** —— 加油
+- **Stesen Insinerasi Bandar Seri Putra** —— 垃圾处置投放点
+- **Gravstone Workshop Bandar Seri Putra** —— 车辆维修
+- **Pangsapuri Seri Putra** —— 公寓楼/住宅地段
+- **Masjid Bandar Seri Putra** —— 清真寺
+- **KTN Bandar Seri Putra** —— KTN 分行
+- **Dus Doffee Bandar Seri Putra** —— 咖啡店
 
 ### Jersik
 
-A secondary town with industrial zones and the racetrack.
+一个有工业区和赛车道的次级城镇。
 
-**Key buildings**:
-- **Balai Bomba Jersik** — Fire station
-- **Pos Nasional Jersik** — Post office (start of Post Office job)
-- **Plaza Tol Jersik** — Toll plaza
-- **Jersik Race Track** — The home track for racing
-- **Stesen Insinerasi Jersik** — Waste disposal drop-off
-- **H Plantation Jersik** — Agricultural estate (lumberjack / forestry)
-- **Kompleks Petroliam dan Gas Radtrol** — Large refuelling complex
+**主要建筑**:
+- **Balai Bomba Jersik** —— 消防局
+- **Pos Nasional Jersik** —— 邮政局(Post Office 工作起点)
+- **Plaza Tol Jersik** —— 收费站
+- **Jersik Race Track** —— 赛车的主场赛道
+- **Stesen Insinerasi Jersik** —— 垃圾处置投放点
+- **H Plantation Jersik** —— 农业庄园(伐木工/林业)
+- **Kompleks Petroliam dan Gas Radtrol** —— 大型加油综合设施
 
-*Jersik doesn't have its own police station — the nearest Balai Polis is in Kampung Merbang.*
+*Jersik 没有自己的警察局 —— 最近的 Balai Polis 在 Kampung Merbang。*
 
 ### Kampung Merbang
 
-A quieter rural village.
+一个较为宁静的乡村。
 
-**Key buildings**:
-- **Balai Polis Kampung Merbang** — Police station
-- **Masjid Kampung Merbang** — Mosque
-- Highway rest stops nearby (see below)
+**主要建筑**:
+- **Balai Polis Kampung Merbang** —— 警察局
+- **Masjid Kampung Merbang** —— 清真寺
+- 附近的高速公路休息站(见下文)
 
 ### Taman Mahkota / Putra Mahkota
 
-A plaza / neighbourhood zone.
+一个广场/邻里区。
 
-**Key buildings**:
-- **Plaza Tol Putra Mahkota** — Second major toll plaza
-- **Taman Mahkota** — Housing / residential zone
+**主要建筑**:
+- **Plaza Tol Putra Mahkota** —— 第二个主要收费站
+- **Taman Mahkota** —— 住房/住宅区
 
-## Highway landmarks
+## 高速公路地标
 
-The highway connects all three regions. Notable stops:
+高速公路连接着所有三个地区。值得注意的站点:
 
-- **PETROMAS Petrol Station Northbound** — Fuel stop heading north
-- **PETROMAS Petrol Station Southbound** — Fuel stop heading south
-- **RnR Sungai Merbang Northbound** — Rest & Relax stop with food
-- **RnR Sungai Merbang Southbound** — Rest & Relax stop with food
-- **Plaza Tol Jersik** — Toll collection
-- **Plaza Tol Putra Mahkota** — Toll collection
+- **PETROMAS Petrol Station Northbound** —— 北上方向的加油站
+- **PETROMAS Petrol Station Southbound** —— 南下方向的加油站
+- **RnR Sungai Merbang Northbound** —— 提供餐食的 Rest & Relax 休息站
+- **RnR Sungai Merbang Southbound** —— 提供餐食的 Rest & Relax 休息站
+- **Plaza Tol Jersik** —— 收费
+- **Plaza Tol Putra Mahkota** —— 收费
 
-## Other points of interest
+## 其他兴趣点
 
-- **SMK MYS II** — Secondary school
-- **Fishing Port** — Malaysians-team fishing location
-- **Haunted House** — An easter egg / roleplay spot; explore at your own risk
+- **SMK MYS II** —— 中学
+- **Fishing Port** —— Malaysians 队伍的钓鱼地点
+- **Haunted House** —— 一个彩蛋/角色扮演地点;探索请自负风险
 
-## Where to go when you need…
+## 当你需要……时去哪里
 
-| What you need | Where to go |
+| 你需要什么 | 去哪里 |
 |---|---|
-| Fuel (Petrol) | PETROMAS NB or SB, or Radtrol |
-| Fuel (Diesel) | Kompleks Petroliam dan Gas Radtrol, PETROMAS stations |
-| Fuel (Electric) | Radtrol in Bandar Seri Putra (electric chargers) |
-| Food & snacks | Any of the 12 shops — see [Shops](/lebuhraya/shops) |
-| A jerrycan | Jerrycan Shop |
-| Police help | Any Balai Polis (Bandar Seri Putra, Kampung Merbang) |
-| Fire / rescue | Any Balai Bomba (Bandar Seri Putra, Jersik) |
-| Medical | Klinik Kesihatan Bandar Seri Putra |
-| Vehicle repairs | Gravstone Workshop |
-| Post your mail | Pos Nasional Jersik |
-| Start a bus route | Depoh Bas Bandar Seri Putra |
-| Race | Jersik Race Track |
-| Fish | Fishing Port |
-| Pray | Masjid Kampung Merbang or Masjid Bandar Seri Putra |
-| Hang out | RnR rest stops or Dus Doffee |
+| 燃料(汽油) | PETROMAS NB 或 SB,或 Radtrol |
+| 燃料(柴油) | Kompleks Petroliam dan Gas Radtrol、PETROMAS 加油站 |
+| 燃料(电动) | Bandar Seri Putra 的 Radtrol(电动充电桩) |
+| 食物与零食 | 12 间商店中任选一间 —— 见[商店](/lebuhraya/shops) |
+| 油桶 | Jerrycan Shop |
+| 警察协助 | 任何 Balai Polis(Bandar Seri Putra、Kampung Merbang) |
+| 消防/救援 | 任何 Balai Bomba(Bandar Seri Putra、Jersik) |
+| 医疗 | Klinik Kesihatan Bandar Seri Putra |
+| 车辆维修 | 地图周围 10 个维修区中任选一个 |
+| 车辆喷漆/车身工作 | Gravstone Workshop(需要 Workshop gamepass) |
+| 寄送邮件 | Pos Nasional Jersik |
+| 开始巴士路线 | Depoh Bas Bandar Seri Putra |
+| 赛车 | Jersik Race Track |
+| 钓鱼 | Fishing Port |
+| 祈祷 | Masjid Kampung Merbang 或 Masjid Bandar Seri Putra |
+| 闲聚 | RnR 休息站或 Dus Doffee |
 
-## Speed traps and tolls
+## 天气与时间
 
-Selected highway stretches have **speed traps** that measure your vehicle's speed as you pass through.
+Lebuhraya 拥有实时的昼夜循环以及随机降雨。
 
-- **Above 110 studs/s**: a HUD readout flashes your recorded speed. Your personal best is saved to the **Speed Trap** leaderstat — try to beat it!
-- **Above 200 studs/s without emergency lights (ELS)**: you're logged for a **Speeding** offence, which can trigger enforcement from Polis Trafik. Emergency team vehicles on active ELS are exempt.
+**时间循环**:游戏内时间以**每现实秒推进 1 分钟**的速度前进,因此游戏内一整天耗时 24 分钟现实时间。街灯和广告牌灯会在**下午 6:00**自动开启并保持开启至**早上 6:40**。请在那段时间内开着大灯驾驶以提高能见度 —— 并尊重氛围;部分道路在夜晚会明显更暗。
 
-**Toll plazas** — Plaza Tol Jersik and Plaza Tol Putra Mahkota — currently accept payment through a CnG scan with a 12-stud proximity prompt. Tolls in this version of the game are **free to pass** (the scan opens the gate but doesn't deduct BR). Your first toll-pass is credited to the *Bayar Tol* discovery challenge (+25 XP one-time reward). Vehicles with an RFID tag on the driver seat can pass automatically without scanning.
+**雨**:阵雨会随机出现。平均而言,雨每**30–60 分钟**开始一次,持续**5–10 分钟**。下雨时你会听到雨声并看到屏幕雨效。道路不会变滑,但能见度会下降。管理员可在活动期间使用聊天指令 `!rainon` / `!rainoff` 切换雨的开关。
 
-## Navigation
+## 红绿灯与路口
 
-Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to any POI. A glowing beam will guide you there. You can also use **Fast Travel** (from the FastTravel menu) to teleport to select locations — but note that fast-travelling pauses your XP-from-distance accumulation for 5 minutes to prevent XP farming.
+路口的红绿灯在多个信号组之间协调(例如 Bandar Seri Putra 的 `BSP_Main` 路口有两个交替阶段)。独立的红绿灯独立循环 绿 → 黄 → 红。在红灯前停车由反作弊系统强制执行 —— 关于 **Red Light** 罪名的详情请见下方的*超速陷阱与收费站*。
 
-## Next steps
+## 超速陷阱与收费站
 
-- [Shops](/lebuhraya/shops) — What each shop sells
-- [Jobs](/lebuhraya/jobs) — Which buildings belong to which job
-- [Housing](/lebuhraya/housing) — Claim a plot at Pangsapuri Seri Putra
+部分高速公路路段设有**超速陷阱**,当你经过时会测量你车辆的速度。
+
+- **超过 110 stud/s**:HUD 读数会闪现你记录的速度。你的个人最佳记录会保存到 **Speed Trap** leaderstat —— 试着打破自己的记录吧!
+- **超过 200 stud/s 而未开启紧急灯(ELS)**:你将被记录一项 **Speeding** 罪名,这可能会触发 Polis Trafik 的执法行动。开着 ELS 的紧急队伍车辆豁免。
+
+**收费站** —— Plaza Tol Jersik 和 Plaza Tol Putra Mahkota —— 目前透过 CnG 扫描接受付款,带有 12 stud 的接近提示。本游戏版本中的过路费**免费通过**(扫描会打开闸门但不会扣除 BR)。你的首次过路通行会计入 *Bayar Tol* 探索挑战(+25 XP 一次性奖励)。在驾驶座上贴有 RFID 标签的车辆可不必扫描自动通过。
+
+## 导航
+
+使用 **GPS** 系统(可从顶栏/手机访问)向任何 POI 设置航路点。一道发光的光束将引导你前往。你也可以使用 **Fast Travel**(从 FastTravel 菜单)传送到指定地点 —— 但请注意,使用 fast-travelling 会暂停你的 XP-从距离累积 5 分钟,以防止 XP farming。
+
+## 接下来
+
+- [商店](/lebuhraya/shops) —— 每间商店卖什么
+- [工作](/lebuhraya/jobs) —— 哪些建筑属于哪个工作
+- [住房](/lebuhraya/housing) —— 在 Pangsapuri Seri Putra 申请一个地段

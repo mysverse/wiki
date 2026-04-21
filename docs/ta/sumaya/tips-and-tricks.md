@@ -1,192 +1,193 @@
 ---
-title: Tips and Tricks
-description: 'Hidden interactions, mobile quirks, and expert tips for Sumaya.'
+title: குறிப்புகள் & தந்திரங்கள்
+description: >-
+  Sumaya-விற்கான மறைக்கப்பட்ட இடைவினைகள், கைபேசி குறிப்புகள், மற்றும் நிபுணர்
+  உதவிக்குறிப்புகள்.
 lang: ta
 translated_from_hash: 2c82a6a8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# குறிப்புகள் & தந்திரங்கள்
 
-# Tips and Tricks
+உங்கள் நேரத்தை மிச்சப்படுத்தும் அல்லது உங்களை புத்திசாலியாக காட்டும் வெளிப்படையாக தெரியாத விஷயங்கள். இங்குள்ள அனைத்தும் இயந்திரவியல் ரீதியாக உண்மையானவை - கதைகள் அல்ல.
 
-Non-obvious stuff that'll save you time or make you look smart. Everything here is mechanically real - no folklore.
+## Minimap தந்திரங்கள்
 
-## Minimap tricks
+### தனிப்பயன் வழிப்புள்ளிகளை இட நீண்ட நேரம் அழுத்தவும்
 
-### Long-press to drop custom waypoints
+**முழுத் திரை minimap-ஐ** திறக்கவும் (minimap-ஐ கிளிக் செய்யவும், அல்லது விரிவாக்கு பொத்தானை தட்டவும்). பின்னர் வரைபடத்தில் எங்கு வேண்டுமானாலும் **நீண்ட நேரம் அழுத்தி** (சுமார் அரை வினாடி) தனிப்பயன் வழிப்புள்ளியை இடவும். நீங்கள் இதை செய்யலாம்:
 
-Open the **full-screen minimap** (click the minimap, or tap the expand button). Then **long-press** (about half a second) anywhere on the map to drop a custom waypoint. You can:
+- அதை **மறுபெயரிடவும்**.
+- **அதன் நிறத்தை மாற்றவும்**.
+- அதை **நீக்கவும்**.
 
-- **Rename** it.
-- **Change its color**.
-- **Delete** it.
+வழிப்புள்ளிகள் **அமர்வுகளுக்கு இடையே நீடிக்கும்**, எனவே உங்களுக்கு பிடித்த மீன்பிடி இடத்தை ஒரு முறை குறிக்கவும், அது என்றென்றும் அங்கே இருக்கும்.
 
-Waypoints **persist across sessions**, so mark your favorite fishing spot once and it's there forever.
+### அனைத்து வழிப்புள்ளிகளையும் பொருத்த F
 
-### F to fit all waypoints
+முழுத் திரை வரைபடத்தில், **F**-ஐ அழுத்தி, **உங்கள் அனைத்து வழிப்புள்ளிகளையும்** ஒரே நேரத்தில் பார்வையில் பொருத்த வெளியே zoom செய்யவும். பல நிறுத்த பயணத்தை திட்டமிட சிறந்தது.
 
-In the full-screen map, press **F** to zoom out to fit **all your waypoints** in view at once. Great for planning a multi-stop trip.
+### வழிகாட்டுதல் கதிர் அருகிலுள்ள வழிப்புள்ளியைப் பின்தொடர்கிறது
 
-### Guidance beam follows the nearest waypoint
+உங்கள் கதாபாத்திரத்திலிருந்து வரும் வண்ண கதிர் என்பது விளையாட்டு இப்போது **மிக முக்கியமான வழிப்புள்ளியை** சுட்டிக்காட்டும் வழி - ஒரு quest படி, செயலில் உள்ள தீ, 999 அழைப்பு. நீங்கள் அதை தற்காலிகமாக மேலெழுத விரும்பினால், அதிக முன்னுரிமையுடன் தனிப்பயன் வழிப்புள்ளியை அமைக்கவும் (அல்லது அதை புறக்கணிக்கவும்).
 
-The colored beam from your character is the game's way of pointing at the **most important waypoint** right now - a quest step, an active fire, a 999 call. If you want to override it temporarily, set a custom waypoint with higher priority (or just ignore it).
+## கைபேசி தந்திரங்கள்
 
-## Phone tricks
+### நீங்கள் passive-ஆக தொடங்குகிறீர்கள், குற்ற கருவிகள் உங்களை வெளியே கொண்டு வரும்
 
-### You start passive, and crime tools drop you out
+புதிய விளையாட்டாளர்கள் **default-ஆக passive-ஆக** தோன்றுகிறார்கள் — நீங்கள் வேண்டுமென்றே அதை அணைக்கும் வரை (அல்லது Slim Jim / Pickpocket Knife எடுக்கும் வரை, இது உங்களை passive-இலிருந்து தானாகவே வெளியேற்றும்) நீங்கள் தாக்கப்பட மாட்டீர்கள். அதை அணைத்தால் நீங்கள் மீண்டும் மாற்றும் வரை அணைந்தே இருக்கும்.
 
-New players spawn **passive by default** — you're invulnerable until you deliberately turn it off (or pick up a Slim Jim / Pickpocket Knife, which auto-drops you out of passive). Flipping it off stays off until you toggle back.
+**நீங்கள் passive-ஐ மீண்டும் இயக்க முடியாது:**
+- நீங்கள் ஒரு குற்ற கருவியை வைத்திருந்தால் (முதலில் அதை போடுங்கள்).
+- நீங்கள் தற்போது விரும்பப்படுபவராக இருந்தால் (5 நிமிட சிதைவுக்காக காத்திருக்கவும்).
+- நீங்கள் ஒரு POLIS அதிகாரி (காவலர்கள் ஒருபோதும் passive அல்ல — இது ஒரு குழு பண்பு).
+- சமீபத்திய மோதல்/அதிவேக/குற்றத்திற்குப் பிறகு நீங்கள் ஒரு **passive lock**-இல் இருந்தால் (கால அளவு star level-உடன் அளவிடப்படுகிறது — [குற்றம் மற்றும் சட்டம்](/sumaya/crime-and-law) பார்க்கவும்).
 
-**You can't re-enable passive if:**
-- You're holding a crime tool (drop it first).
-- You're currently wanted (wait for the 5-minute decay).
-- You're a POLIS officer (cops are never passive — it's a team property).
-- You're within a **passive lock** after a recent crash/speeding/crime (duration scales with star level — see [Crime and Law](/sumaya/crime-and-law)).
+### நிறுத்தி வைத்தவற்றின் வழியாக செல்ல collision toggle
 
-### Collision toggle to phase through parking
+ஒரு விளையாட்டாளரின் நிறுத்தப்பட்ட காருக்கு பின்னால் சிக்கிக் கொண்டீர்களா? உங்கள் கைபேசியில் **Collision** app-ஐ திறந்து collision-களை முடக்கவும். உங்கள் வாகனம் இப்போது மற்றவற்றின் வழியாக செல்கிறது. ஓட்டி வெளியே வாருங்கள், collision-களை மீண்டும் இயக்கவும்.
 
-Stuck behind a player's parked car? Open the **Collision** app on your phone and disable collisions. Your vehicle now phases through others. Drive out, re-enable collisions.
+### Camera app விளையாட்டிற்குள் பிடிக்கிறது
 
-### Camera app captures in-game
+உங்கள் கைபேசியில் உள்ள **Camera** app உலகத்திற்குள் screenshot-களை எடுக்கிறது. இதற்கு நல்லது:
 
-The **Camera** app on your phone takes in-world screenshots. Good for:
+- உங்கள் வீட்டை காட்சிப்படுத்துதல்.
+- roleplay தருணங்களை பிடித்தல்.
+- நினைவுகளுக்காக ஒரு 5-star கைது பதிவு செய்தல்.
 
-- Showcasing your house.
-- Capturing roleplay moments.
-- Recording a 5-star arrest for the memories.
+### பணி அட்டையை நிராகரிக்கவும்
 
-### Dismiss the task card
+பணி அட்டை (இடது-மேல்) கைபேசி driving control-களை மறைக்கக்கூடும். அதை குறைந்தபட்ச அளவிற்கு சுருக்க அட்டையில் உள்ள **chevron (^)** icon-ஐ தட்டவும். மீண்டும் விரிவாக்க மீண்டும் தட்டவும். எந்த வழியிலும் quest முன்னேற்றம் தொடர்கிறது.
 
-The task card (top-left) can cover mobile driving controls. Tap the **chevron (^)** icon on the card to collapse it to a minimum size. Tap again to re-expand. Quest progress continues either way.
+## ஓட்டுதல் தந்திரங்கள்
 
-## Driving tricks
+### Siren-கள் = ticket-கள் இல்லை
 
-### Sirens = no tickets
+நீங்கள் **Polis, Bomba, அல்லது Kesihatan வாகனத்தில் siren செயலிலும்** இருந்தால், அதிவேகம் மற்றும் மோதல் குற்றங்களிலிருந்து தானாகவே விலக்கு அளிக்கப்படுகிறீர்கள். நீங்கள் பதிலளிக்கும்போது siren-ஐ இயக்கவும். நீங்கள் நிறுத்தும்போது அதை அணைக்கவும், மற்றவர்கள் நீங்கள் இன்னும் ஒரு அழைப்பில் இருப்பதாக நினைக்காமல் இருக்க.
 
-If you're in a **Polis, Bomba, or Kesihatan vehicle with the siren active**, you're automatically exempt from speeding and crash offences. Flip the siren on when you're responding. Flip it off when you park, so others don't think you're still on a call.
+### இலவச பொது காரகள்
 
-### Free civilian cars
+பெரும்பாலான பொது கார்கள் இலவசமாக தோன்றுகின்றன (வாடகை இல்லை, வாங்கும் விலை இல்லை). அதே spawner-இல் அதே கார் இலவசமாக இருக்கும்போது Protan Wira வாடகைக்கு எடுக்க Ringgit-ஐ வீணாக்க வேண்டாம். கட்டணம் செலுத்தும் முன் "free" column-ஐ சரிபார்க்கவும்.
 
-Most civilian cars spawn free (no rent, no buy price). Don't waste Ringgit renting a Protan Wira when the same car is free at the same spawner. Check the "free" column before paying.
+### Trawler-கள் shift-இல் இலவசம்
 
-### Trawlers are free on shift
+நீங்கள் Fishing Sector-இல் clock in செய்திருக்கும் வரை Tier 1 Trawler இலவசமாக தோன்றுகிறது. பெரிய Tier 2 (25k) மற்றும் Tier 3 (37k) trawler-களுக்கு மட்டுமே நீங்கள் செலுத்துகிறீர்கள்.
 
-The Tier 1 Trawler spawns for free as long as you're clocked in to the Fishing Sector. You only pay for the bigger Tier 2 (25k) and Tier 3 (37k) trawlers.
+## பண தந்திரங்கள்
 
-## Money tricks
+### உங்கள் பெரிய பணத்தை வங்கியில் போடுங்கள்
 
-### Bank your big money
+உங்கள் **wallet** சுரண்டப்படலாம் (ஒரு முறையில் 80-300 SR திருடப்பட்டது). **வங்கி** முடியாது. கடைகளுக்காக உங்கள் wallet-இல் சுமார் 500 SR வைத்திருங்கள், மீதியை பாதுகாப்பாக வைத்திருங்கள்.
 
-Your **wallet** can be pickpocketed (80-300 SR stolen at a time). The **bank** can't. Keep maybe 500 SR in your wallet for shops, stash the rest.
+### முக்கிய மைல்கல் போனஸ் நேரம்
 
-### Milestone bonus timing
+14 தீ அணைத்தல், 9 சிகிச்சைகள் வழங்கியது, அல்லது 4 கைதுகள் செய்தது என்ற நிலையில் உங்கள் அமர்வை முடிக்காதீர்கள். ஒரு செயல் கூடுதலாக உங்களுக்கு மைல்கல் போனஸை கொடுக்கிறது:
 
-Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrests made. One more action gets you the milestone bonus:
+- Bomba: **15 blocks-இல் +150 SR.**
+- Kesihatan: **10 சிகிச்சைகளில் +150 SR.**
+- Polis: **5 கைதுகளில் +200 SR.**
 
-- Bomba: **+150 SR at 15 blocks.**
-- Kesihatan: **+150 SR at 10 treatments.**
-- Polis: **+200 SR at 5 arrests.**
+### Passive XP-க்கு Bomba-விற்கு உதவுங்கள்
 
-### Help Bomba for passive XP
+நீங்கள் POLIS அல்லது Kesihatan என்றால், Bomba தீயணைப்பு வீரர்கள் block-களை அணைக்கும்போது செயலில் உள்ள தீயின் **512 studs** தூரத்தில் நிற்கும்போது, நீங்கள் எதுவும் செய்யாமல் **ஒரு block-க்கு 10 player XP** சம்பாதிக்கிறீர்கள். குற்றவாளிகள் அல்லது நோயாளிகளுக்காக காத்திருக்கும்போது grinding-க்கு நல்லது.
 
-If you're POLIS or Kesihatan and stand within **512 studs** of an active fire while Bomba firefighters extinguish blocks, you earn **10 player XP per block** without doing anything. Good for grinding while waiting for criminals or patients.
+### 5-star கைதுகள் camping-க்கு மதிப்புடையவை
 
-### 5-star arrests are worth camping
+ஒரு 5-star கைது = கைது அதிகாரிக்கு 400 XP + 1,200 Ringgit, மற்றும் அருகிலுள்ள எந்த அதிகாரிக்கும் 200 XP / 600 Ringgit. யாராவது Hornbill-களை கடத்தி விளையாட்டாளர்களை சுரண்டினால், அவர்கள் விரைவாக star-களை சேகரிப்பார்கள். தயாராக இருங்கள்.
 
-A single 5-star arrest = 400 XP + 1,200 Ringgit to the arresting officer, and 200 XP / 600 Ringgit to any nearby officer. If someone's trafficking Hornbills and pickpocketing players, they'll rack up stars fast. Be ready.
+## Quest தந்திரங்கள்
 
-## Quest tricks
+### Quest-கள் பின்னணியில் தூண்டப்படுகின்றன
 
-### Quests trigger in the background
+நீங்கள் quest-களில் கவனம் செலுத்த வேண்டியதில்லை. நீங்கள் சாதாரணமாக விளையாடும்போது அவை தானாகவே முடிக்கின்றன. வெகுமதிகளை கோர அவ்வப்போது **Quest app**-ஐ திறப்பதை உறுதிப்படுத்தவும்.
 
-You don't need to focus on quests. They auto-complete as you play normally. Just make sure to open the **Quest app** occasionally to claim rewards.
+### Lore quest-களுக்கான வரிசைப்படுத்தப்பட்ட படிகள்
 
-### Ordered steps for lore quests
+கடைசி இரண்டு quest-கள் ("A Day in Sumaya", "The Ringgit Grind") **கடுமையான படி வரிசை** கொண்டுள்ளன. உங்கள் கைபேசியை சரிபார்ப்பதற்கு முன் ஒரு வாகனத்தை spawn செய்தால், vehicle-step கணக்கில் எடுக்கப்படாது. படி பட்டியலை வரிசையில் படித்து, ஒரு நேரத்தில் ஒன்றாக செய்யுங்கள்.
 
-The last two quests ("A Day in Sumaya", "The Ringgit Grind") have **strict step order**. If you spawn a vehicle before checking your phone, the vehicle-step won't count. Read the step list in order and do them one at a time.
+### Service sector-க்கு level 50 தேவை
 
-### Service sector requires level 50
+"Jack of All Trades" quest மூன்று பொது sector-களையும் சுவைக்க உங்களை கேட்கிறது. Service (Mamak/Fast Food) unlock செய்ய **மற்றொரு sector-இல் level 50** தேவை. இந்த quest-இல் உங்களால் முன்னேற முடியவில்லை என்றால், அதுதான் காரணம் - முதலில் மீன்பிடித்தல் அல்லது பனை எண்ணெய் level 50-க்கு grind செய்ய செல்லுங்கள்.
 
-The "Jack of All Trades" quest asks you to sample all three civilian sectors. Service (Mamak/Fast Food) requires **level 50 in another sector** to unlock. If you can't progress on this quest, that's why - go grind fishing or palm oil to level 50 first.
+## Kesihatan தந்திரங்கள்
 
-## Kesihatan tricks
+### +15% XP boost அனைவருக்கும் பயனளிக்கிறது
 
-### +15% XP boost benefits everyone
+Kesihatan காயம் அமைப்பை செயல்படுத்தும்போது, அது செயலில் இருக்கும் வரை server-இல் உள்ள **அனைத்து விளையாட்டாளர்களும்** +15% player-level XP பெறுகிறார்கள். Boost sector XP-ஐ பாதிக்காது. Boost செயலில் இருப்பதை நீங்கள் பார்த்தால், grind செய்ய அது சிறந்த நேரம்.
 
-When Kesihatan activates the injury system, **all players** on the server get +15% player-level XP for as long as it's active. The boost doesn't affect sector XP. If you see the boost active, it's a great time to grind.
+### TBI சிகிச்சை bed-இல் இருந்தவுடன் கவனிக்க வேண்டியதில்லை
 
-### TBI treatment is hands-off once bedded
+Traumatic Brain Injury சிகிச்சைக்கு நோயாளி 30 வினாடிகள் மருத்துவ படுக்கையில் படுக்க வேண்டும். அந்த timer இயங்கும்போது, **நீங்கள் மற்ற நோயாளிகளுக்கு சிகிச்சை அளிக்கலாம்**. வெறுமனே பார்த்துக் கொண்டே நிற்க வேண்டாம்.
 
-Traumatic Brain Injury treatment requires the patient to lie on a medical bed for 30 seconds. While that timer runs, **you can treat other patients**. Don't just stand watching.
+## வீட்டுவசதி தந்திரங்கள்
 
-## Housing tricks
+### விற்பனையில் 70% திரும்பப்பெறுதல்
 
-### 70% refund on sale
+நீங்கள் செலுத்தியதில் **70%-க்கு** உங்கள் வீட்டை விற்கலாம். எனவே Tier 3 Modern Terrace (1,200 SR) "முயற்சிக்கும் செலவு" 360 SR - விளையாட்டு வைத்திருக்கும் 30%. மலிவானது அல்ல, ஆனால் பேரழிவும் அல்ல.
 
-You can sell your house for **70% of what you paid**. So the effective "cost of trying" a Tier 3 Modern Terrace (1,200 SR) is 360 SR - the 30% the game keeps. Not cheap, but not ruinous.
+### ஒரு நேரத்தில் ஒரு plot
 
-### One plot at a time
+அமைப்பு **விளையாட்டாளருக்கு 1 plot** என்ற வரம்பை கடைப்பிடிக்கிறது. குவிக்க முயற்சிக்காதீர்கள்.
 
-The system enforces a **1 plot per player** limit. Don't try to hoard.
+### Furniture தானாகவே சேமிக்கிறது
 
-### Furniture saves automatically
+Furniture-ஐ வைத்து விலகி செல்லுங்கள். அது சேமிக்கப்பட்டது. உறுதிப்படுத்தல் தேவையில்லை.
 
-Place furniture, walk away. It's saved. No confirmation needed.
+## குற்ற தந்திரங்கள்
 
-## Crime tricks
+### சரணடைதல் சிறை நேரத்தை பாதியாக குறைக்கிறது
 
-### Surrender cuts jail time in half
+காவலர்களிடமிருந்து ஓடுவதற்கு பதிலாக, ஒரு **சரணடைதல் prompt**-ஐ (பொதுவாக காவல் நிலையங்களுக்கு அருகில்) கண்டுபிடித்து உங்களை ஒப்படையுங்கள். உங்கள் சிறை நேரம் தோராயமாக பாதியாக குறைக்கப்படுகிறது:
 
-Instead of running from cops, find a **surrender prompt** (usually near police stations) and turn yourself in. Your jail time is roughly halved:
+- 5-star கைது: 5 நிமிடங்கள் சிறையில்.
+- 5-star சரணடைதல்: 150 வினாடிகள் சிறையில்.
 
-- 5-star arrest: 5 minutes in jail.
-- 5-star surrender: 150 seconds in jail.
+விடுதலைக்குப் பிறகு நீங்கள் ஒரு passive lock-ஐ பெறுகிறீர்கள், ஆனால் அது இன்னும் வெகுவாக குறைவாக உள்ளது.
 
-You do get a passive lock after release, but it's still way shorter.
+### விரும்பப்படும்போது log out செய்ய வேண்டாம்
 
-### Don't log out while wanted
+நீங்கள் குற்றத்தின் நடுவில் வெளியேறினால், **LTAA** (Leave To Avoid Arrest) அமைப்பு நீங்கள் திரும்பி வரும்போது நீண்ட சிறையுடன் உங்களை தாக்குகிறது:
 
-If you leave mid-offence, the **LTAA** (Leave To Avoid Arrest) system hits you with longer jail on return:
+- சாதாரண 5-star சிறை: 5 நிமிடம்.
+- LTAA 5-star சிறை: 6 நிமிடம்.
 
-- Normal 5-star jail: 5 min.
-- LTAA 5-star jail: 6 min.
+விடுவது உதவாது. அனுபவிக்கவும் அல்லது சரணடையவும்.
 
-Quitting doesn't help. Serve or surrender.
+### நீங்கள் மறைந்தால் சிதைவு
 
-### Decay if you hide
+நீங்கள் **5 நிமிடங்களுக்கு** புதிய குற்றங்கள் எதுவும் செய்யவில்லை என்றால், உங்கள் விரும்பப்படும் நிலை முழுமையாக அழிக்கப்படுகிறது. Hornbill run-ஐ செய்யுங்கள், 2,000 SR-ஐ வங்கியில் போடுங்கள், பின்னர் ஒடுங்கி இருங்கள் - உங்கள் கடைசி குற்றத்தின் காட்சிக்கு வேகமாக திரும்பாதீர்கள்.
 
-If you commit no new offences for **5 minutes**, your wanted status fully clears. Commit the Hornbill run, bank the 2,000 SR, then lay low - don't speed back to the scene of your last crime.
+## கைபேசி குறிப்புகள்
 
-## Mobile tips
+### HUD உறுப்புகளை சுருக்கவும்
 
-### Collapse HUD elements
+பணி அட்டை மற்றும் கைபேசி இரண்டும் திரை இடத்தை சாப்பிடுகின்றன. நீங்கள் தீவிரமாக பயன்படுத்தாதவற்றை சுருக்கவும். ஒவ்வொரு pixel-ம் முக்கியமான ஒரு துரத்தல் காட்சியில் குறிப்பாக உதவியாக இருக்கும்.
 
-Task card and phone both eat screen space. Collapse what you're not actively using. Especially helpful during a chase sequence where every pixel matters.
+### Sprint செய்ய இரட்டை தட்டவும்
 
-### Double-tap to sprint
+பெரும்பாலான கைபேசி அமைப்புகளில், sprint-ஐ toggle செய்ய joystick-ஐ இரட்டை தட்டவும். sprint பொத்தானை அழுத்திப் பிடிப்பதை விட மிகவும் ergonomic.
 
-On most mobile setups, double-tap the joystick to toggle sprint. Much more ergonomic than holding a sprint button.
+### கைபேசி camera zoom செய்ய முடியாது
 
-### Phone camera isn't zoomable
+விளையாட்டிற்குள் camera app ஒரு நிலையான framing-இல் screenshot-களை எடுக்கிறது. நீங்கள் திரைப்பட shots-ஐ விரும்பினால், இலவசமாக அலையும் camera view-க்கு **Cinematic** app-ஐ பயன்படுத்தவும், பின்னர் வெளிப்புறமாக screenshot எடுக்கவும்.
 
-The in-game camera app takes screenshots at a fixed framing. If you want cinematic shots, use the **Cinematic** app for a free-roaming camera view, then screenshot externally.
+## Roleplay தந்திரங்கள்
 
-## Roleplay tricks
+### உரையாடல்களுக்கான Passive mode
 
-### Passive mode for conversations
+நீங்கள் ஒரு roleplay உரையாடலை நடத்த முயற்சிக்கிறீர்கள் என்றால், passive mode-ஐ இயக்கவும். உங்களை யாரும் அடிக்கவோ, carjack செய்யவோ, அல்லது சண்டையில் இழுக்கவோ முடியாது. நீங்கள் முடித்தவுடன் அதை அணைக்கவும்.
 
-If you're trying to have a roleplay conversation, flip passive mode on. No one can hit you, carjack you, or drag you into combat. Flip back off when you're done.
+### Immersion-க்கான 999 அழைப்புகள்
 
-### 999 calls for immersion
+எந்த ஒரு பொதுமகனும் 999-ஐ அழைத்து அவசரநிலையை விவரிக்கும் **தனிப்பயன் செய்தியை type செய்யலாம்**. அவசரகால குழுக்கள் உங்கள் அழைப்பை உங்கள் இருப்பிடத்துடன் MDT-இல் பார்க்கின்றன. Roleplay சூழ்நிலைகளை அமைப்பதற்கு சிறந்தது (கொள்ளையை புகாரளிக்கவும், தீயை அழைக்கவும், மருத்துவ evacuation-ஐ கோரவும்).
 
-Any civilian can dial 999 and **type a custom message** describing the emergency. Emergency teams see your call in the MDT with your location. Great for setting up roleplay scenarios (report a robbery, call a fire, request medical evac).
+### சூழ்நிலைக்கான விளக்குகள் மற்றும் கதவுகள்
 
-### Lights and doors for ambience
+உங்கள் வீட்டில் toggle செய்யக்கூடிய விளக்குகள் மற்றும் கதவுகள் உள்ளன. மாலை screenshot-க்கு விளக்குகளை அணைத்து வைக்கவும். நீங்கள் "பணி இல்லாத" வீட்டில் இருக்கும்போது கதவுகளை பூட்டவும். விளையாட்டிற்குள் கொண்டாட்டங்களுக்காக அவற்றை திறக்கவும்.
 
-Your house has togglable lights and doors. Leave lights off for a dusk screenshot. Lock doors when you're home "off duty". Unlock them for in-game parties.
+## அடுத்து என்ன?
 
-## What next?
-
-- [Phone and UI](/sumaya/phone) for more detail on every phone app.
-- [Crime and Law](/sumaya/crime-and-law) for the surrender, decay, and passive lock details.
-- [Progression](/sumaya/progression) for the XP math behind the Kesihatan boost.
+- ஒவ்வொரு கைபேசி app-இன் விவரங்களுக்கு [கைபேசி மற்றும் UI](/sumaya/phone).
+- சரணடைதல், சிதைவு மற்றும் passive lock விவரங்களுக்கு [குற்றம் மற்றும் சட்டம்](/sumaya/crime-and-law).
+- Kesihatan boost பின்னணியில் உள்ள XP கணிதத்திற்கு [முன்னேற்றம்](/sumaya/progression).

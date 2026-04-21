@@ -1,121 +1,120 @@
 ---
-title: Housing
-description: 'Plots, templates, tiers, furniture, and selling homes in Sumaya.'
+title: Perumahan
+description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
 translated_from_hash: bb105180
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Perumahan
 
-# Housing
+Sumaya membolehkan anda menuntut sebidang tanah, membeli rumah, menghiasnya dengan perabot, dan menguncinya daripada penceroboh. Perumahan adalah pembelian yang kekal - sebaik sahaja anda membeli, rumah tersebut menjadi milik anda merentasi sesi.
 
-Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, and lock it up against intruders. Housing is a persistent purchase - once you buy in, your house is yours across sessions.
+## Mencari plot
 
-## Finding a plot
+Kawasan kejiranan Sumaya (jalan-jalan Kampung seperti Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) dibahagikan kepada **plot**. Plot yang belum dituntut akan muncul sebagai rumah placeholder - gambaran visual kecil yang memberitahu anda bahawa plot itu tersedia.
 
-Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show up as placeholder houses - small visual stand-ins that tell you the plot is available.
+Untuk menuntut satu:
 
-To claim one:
+1. Buka aplikasi **Residence** pada telefon anda.
+2. Layari senarai plot yang tersedia.
+3. Pilih satu dan tuntutnya.
 
-1. Open the **Residence** app on your phone.
-2. Browse the list of available plots.
-3. Pick one and claim it.
+**Menuntut plot adalah percuma.** Anda hanya perlu tidak mempunyai plot yang sedang dituntut (setiap pemain terhad kepada **satu plot pada satu masa**).
 
-**Claiming a plot is free.** You just need to have no plot currently claimed (each player is limited to **one plot at a time**).
+Ketersediaan plot adalah pertama datang, pertama dilayan. Jika seseorang lain menuntut plot, ia dikunci untuk mereka sehingga mereka menjualnya atau meninggalkannya.
 
-Plot availability is first-come, first-served. If someone else claims a plot, it's locked to them until they sell or abandon.
+## Memilih rumah
 
-## Picking a house
+Setelah anda memiliki plot, pilih templat rumah. Setiap templat mempunyai tahap dan harga.
 
-Once you have a plot, pick a house template. Each template has a tier and a price.
+### Templat rumah
 
-### House templates
-
-| Template | Tier | Price |
+| Templat | Tahap | Harga |
 |----------|------|-------|
 | Small Bornean | Tier 1 | 200 Ringgit |
 | Compact Bornean | Tier 2 | 700 Ringgit |
 | Spacious Bornean | Tier 2 | 500 Ringgit |
 | Modern Terrace | Tier 3 | 1,200 Ringgit |
 
-**Bornean** houses are the traditional Malaysian kampung-style homes - wooden, stilts, tropical roofing. **Modern Terrace** is the contemporary urban equivalent - multi-story, glass, clean lines.
+Rumah **Bornean** adalah rumah tradisional bergaya kampung Malaysia - kayu, bertiang, beratap tropika. **Modern Terrace** adalah setara bandar kontemporari - berbilang tingkat, kaca, garisan yang kemas.
 
-Tier 1 is the cheapest starter option. Tier 3 is premium. Pick based on how much you want to spend and what aesthetic you like.
+Tier 1 adalah pilihan permulaan yang paling murah. Tier 3 adalah premium. Pilih berdasarkan berapa banyak yang anda mahu belanjakan dan estetika yang anda suka.
 
-The house template you pick determines what your plot looks like from the outside. You can switch to a different template later by selling and repurchasing (you'll get 70% back - see [Selling](#selling) below).
+Templat rumah yang anda pilih menentukan rupa plot anda dari luar. Anda boleh bertukar kepada templat yang berbeza kemudian dengan menjual dan membeli semula (anda akan dapat 70% kembali - lihat [Menjual](#selling) di bawah).
 
-## Furniture
+## Perabot
 
-Once you own a house, you can decorate the inside with furniture. Furniture is organized into **three tiers** matching the house tiers, though you can mix and match what you place inside.
+Setelah anda memiliki rumah, anda boleh menghias bahagian dalam dengan perabot. Perabot disusun kepada **tiga tahap** yang sepadan dengan tahap rumah, walaupun anda boleh mencampur dan memadankan apa yang anda letakkan di dalamnya.
 
-Furniture items include:
+Item perabot termasuk:
 
-- Sofas, chairs, tables
-- Beds, wardrobes
-- TV, appliances
-- Decor (lamps, plants, art)
+- Sofa, kerusi, meja
+- Katil, almari pakaian
+- TV, peralatan
+- Hiasan (lampu, tumbuhan, seni)
 
-Prices vary by item; each individual piece has a price tag you'll see when browsing. Buy what you want, then place it via the Placement Mode (below).
+Harga berbeza mengikut item; setiap kepingan individu mempunyai tanda harga yang anda akan lihat semasa melayari. Beli apa yang anda mahu, kemudian letakkannya melalui Mod Penempatan (di bawah).
 
-## Placement mode
+## Mod penempatan
 
-To decorate:
+Untuk menghias:
 
-1. Open the **Residence** app.
-2. Enter **Placement Mode** for your house.
-3. Pick a furniture item from your inventory.
-4. Move it around with your cursor / finger. Items snap to a **1-stud grid** for neat alignment.
-5. Rotate to fit.
-6. Confirm to place.
-7. To remove an item, select it and delete - it goes back to your inventory.
+1. Buka aplikasi **Residence**.
+2. Masuk **Mod Penempatan** untuk rumah anda.
+3. Pilih item perabot daripada inventori anda.
+4. Gerakkannya dengan kursor / jari anda. Item tersebut akan terpasang pada **grid 1-stud** untuk penjajaran yang kemas.
+5. Putar untuk muat.
+6. Sahkan untuk letakkan.
+7. Untuk membuang item, pilihnya dan padamkan - ia akan kembali ke inventori anda.
 
-Furniture placement saves automatically. When you rejoin next session, everything is where you left it.
+Penempatan perabot disimpan secara automatik. Apabila anda menyertai semula pada sesi berikutnya, semuanya berada di tempat anda tinggalkan.
 
-## Doors and locks
+## Pintu dan kunci
 
-Your house has doors at entry points. From the Residence app (or directly at the door), you can:
+Rumah anda mempunyai pintu di titik masuk. Daripada aplikasi Residence (atau terus di pintu), anda boleh:
 
-- **Lock / unlock** the door.
-- Set door permissions (who can enter when locked).
+- **Kunci / buka kunci** pintu.
+- Tetapkan kebenaran pintu (siapa yang boleh masuk apabila dikunci).
 
-Door state **persists** - if you lock up before you log out, it's still locked when you come back.
+Keadaan pintu **kekal** - jika anda mengunci sebelum log keluar, ia masih dikunci apabila anda kembali.
 
-The door prompt range is 8 studs, so you'll need to be right up close to use it.
+Jarak gesaan pintu adalah 8 stud, jadi anda perlu berada sangat dekat untuk menggunakannya.
 
-## Lights
+## Lampu
 
-You can toggle **lights on and off** in your house from the Residence app. Useful for ambiance, for nighttime fiddling, or just to save yourself from the disco when you're decorating.
+Anda boleh **menghidupkan dan mematikan lampu** di rumah anda daripada aplikasi Residence. Berguna untuk suasana, untuk bermain-main pada waktu malam, atau sekadar untuk menyelamatkan diri daripada disko semasa anda menghias.
 
-## Selling
+## Menjual
 
-Tired of your house? Sell it back and keep **70% of what you paid**. The game keeps 30% as a "transaction cost".
+Bosan dengan rumah anda? Jual semula dan simpan **70% daripada apa yang anda bayar**. Permainan menyimpan 30% sebagai "kos transaksi".
 
-1. Open the Residence app.
-2. Select your plot / house.
-3. Choose **Sell**.
-4. The house is refunded to your account, the plot is freed up for re-claiming, and your furniture inventory stays intact.
+1. Buka aplikasi Residence.
+2. Pilih plot / rumah anda.
+3. Pilih **Jual**.
+4. Rumah tersebut dikembalikan ke akaun anda, plot dibebaskan untuk dituntut semula, dan inventori perabot anda kekal utuh.
 
-After selling, your plot is back in the pool - anyone (including you) can claim it again.
+Selepas menjual, plot anda kembali ke kumpulan - sesiapa sahaja (termasuk anda) boleh menuntutnya semula.
 
-## Privacy and intrusion
+## Privasi dan pencerobohan
 
-Your house is your space. A few things to know:
+Rumah anda adalah ruang anda. Beberapa perkara untuk diketahui:
 
-- Other players can walk up to your door but **can't enter** if you've locked it.
-- Your house interior is private - other players can't see inside via the minimap or walk through walls.
-- Even with the door unlocked, only you can interact with your furniture (place, remove, rearrange).
+- Pemain lain boleh berjalan ke pintu anda tetapi **tidak boleh masuk** jika anda telah menguncinya.
+- Bahagian dalam rumah anda adalah peribadi - pemain lain tidak boleh melihat ke dalam melalui minimap atau berjalan menembusi dinding.
+- Walaupun dengan pintu tidak berkunci, hanya anda yang boleh berinteraksi dengan perabot anda (letak, buang, susun semula).
 
-## Tips
+## Petua
 
-- **Start small.** Go with a 200 Ringgit Small Bornean for your first house. You'll know by the time you're ready to upgrade.
-- **The 70% refund is a safety net.** Changing your mind costs 30%. Not cheap, but not bankruptcy either.
-- **Lights on vs off for screenshots.** The lighting makes a big difference. Try both for phone Camera screenshots of your space.
-- **Lock up on logout.** Habit worth getting into. Unlocked doors invite roleplay disruption.
-- **One plot per player is the rule.** Don't try to claim two - the system prevents it anyway.
-- **Furniture placement is save-instant.** You don't lose your layout if you crash mid-placement.
+- **Mulakan dengan kecil.** Pergi dengan Small Bornean 200 Ringgit untuk rumah pertama anda. Anda akan tahu apabila anda sudah bersedia untuk menaik taraf.
+- **Bayaran balik 70% adalah jaring keselamatan.** Menukar fikiran anda berharga 30%. Tidak murah, tetapi juga tidak muflis.
+- **Lampu hidup berbanding mati untuk tangkapan skrin.** Pencahayaan membuat perbezaan besar. Cuba kedua-duanya untuk tangkapan skrin Kamera telefon ruang anda.
+- **Kunci semasa log keluar.** Tabiat yang berbaloi dibiasakan. Pintu yang tidak berkunci mengundang gangguan roleplay.
+- **Satu plot per pemain adalah peraturan.** Jangan cuba menuntut dua - sistem menghalangnya.
+- **Penempatan perabot disimpan serta-merta.** Anda tidak akan kehilangan susun atur anda jika anda terputus di tengah-tengah penempatan.
 
-## What next?
+## Apa seterusnya?
 
-- [Economy](/sumaya/economy) for where to get the Ringgit to afford a house.
-- [Phone and UI](/sumaya/phone) for the Residence app.
-- [Tips and Tricks](/sumaya/tips-and-tricks) for decorating ideas.
+- [Ekonomi](/sumaya/economy) untuk tempat mendapatkan Ringgit untuk membeli rumah.
+- [Telefon dan UI](/sumaya/phone) untuk aplikasi Residence.
+- [Petua dan Helah](/sumaya/tips-and-tricks) untuk idea hiasan.

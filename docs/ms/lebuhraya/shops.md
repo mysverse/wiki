@@ -1,111 +1,110 @@
 ---
-title: Shops
-description: 'Food, snack, and utility shops across Lebuhraya.'
+title: Kedai
+description: 'Kedai makanan, snek, dan utiliti di seluruh Lebuhraya.'
 lang: ms
 translated_from_hash: 5e14cc5a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kedai
 
-# Shops
+Lebuhraya mempunyai **12 buah kedai** yang bertaburan di seluruh peta. Kebanyakannya menjual barangan makanan yang boleh anda beli sebagai tool (makan untuk kesan permainan kecil atau guna untuk roleplay). Beberapa buah pula menjual peralatan khusus seperti jerrycan dan tech tools. Halaman ini menyenaraikan apa yang dijual oleh setiap kedai dan menunjukkan di mana anda boleh menemuinya.
 
-Lebuhraya has **12 shops** scattered across the map. Most sell food items you can buy as tools (eat them for a small gameplay effect or use them for roleplay). A couple sell specialised gear like jerrycans and tech tools. This page lists what each shop sells and points you to where you'll find them.
+> **Kedai pada masa ini adalah percuma.** Penetapan harga barangan dilumpuhkan buat sementara waktu — berjalan ke kedai dan memilih sesuatu barang akan memberikannya kepada anda tanpa memotong BR. Ini mungkin berubah dalam kemas kini akan datang. Jerrycan Shop menguatkuasakan **had 2 jerrycan setiap pemain** dan **had 1 toolkit setiap pemain**; kedai-kedai lain umumnya tidak mengehadkan pembelian.
 
-> **Shops are currently free.** Item pricing is temporarily disabled — walking up to a shop and selecting an item gives it to you without deducting BR. This may change in a future update. The Jerrycan Shop enforces a **2-per-player jerrycan limit** and a **1-per-player toolkit limit**; other shops generally do not cap purchases.
-
-## Food shops
+## Kedai makanan
 
 ### Kedai Nasi Campur Long Kee
 
-Traditional Malaysian mixed-rice stall. Classic lunchtime stop.
+Gerai nasi campur tradisional Malaysia. Tempat singgah klasik waktu makan tengah hari.
 
 ### Clash's Indonesian Cuisine
 
-Indonesian dishes.
+Hidangan Indonesia.
 
-**Sells**: Bakso (meatball soup), Nasi Rendang (beef rendang rice), Sate Ayam (chicken satay).
+**Menjual**: Bakso (sup bebola daging), Nasi Rendang (nasi rendang daging lembu), Sate Ayam.
 
 ### Masakan Pantai Timur
 
-East-coast Malaysian cooking. Expect items from Kelantan and Terengganu traditions.
+Masakan Malaysia dari pantai timur. Jangkakan barangan dari tradisi Kelantan dan Terengganu.
 
 ### Selera Kak Rinasmol
 
-Home-style cooking by "Kak Rinasmol" — another local-flavor lunch option.
+Masakan ala rumah oleh "Kak Rinasmol" — satu lagi pilihan makan tengah hari berperisa tempatan.
 
 ### Pingu Pepper Lunch
 
-Pepper-lunch-style hotplate dishes. Fun, no-fuss comfort food.
+Hidangan hotplate ala pepper lunch. Makanan selesa yang menyeronokkan dan tanpa kerenah.
 
 ### Inspector Y's Fries
 
-Fast-food fries and sides.
+Kentang goreng dan sajian sampingan ala makanan segera.
 
 ### Encik Yang's Epic Snack
 
-Snacks — sweet and savoury, good for grabbing on the go.
+Snek — manis dan masin, sesuai untuk dicapai semasa dalam perjalanan.
 
 ### Max Beef
 
-Beef-focused menu.
+Menu yang berfokus kepada daging lembu.
 
 ### Beetro Smoothies
 
-Smoothies and drinks.
+Smoothie dan minuman.
 
-## Convenience
+## Kedai serbaneka
 
 ### Kedai Runcit Modern Makcik Yash
 
-A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice cream.
+Sebuah kedai runcit Malaysia yang klasik. Capai segelas minuman, sebatang coklat, atau aiskrim.
 
-**Sells** (sample menu):
+**Menjual** (menu contoh):
 
-- **Drinks**: 100Plus, Pepsi, Kickapoo
-- **Snacks & chocolate**: Apollo Chocolate, Chipsmore, Crunch, Pocky, Mickey Mouse (biscuits)
-- **Ice cream**: Asteroid, Solero, IcyGrape
-- **Savoury**: Potato (chips), Pandan (cake)
+- **Minuman**: 100Plus, Pepsi, Kickapoo
+- **Snek & coklat**: Apollo Chocolate, Chipsmore, Crunch, Pocky, Mickey Mouse (biskut)
+- **Aiskrim**: Asteroid, Solero, IcyGrape
+- **Masin**: Potato (kerepek), Pandan (kek)
 
-## Specialised shops
+## Kedai khusus
 
 ### Abang' Frik Tech Tools
 
-A small tech vendor.
+Sebuah penjual tech yang kecil.
 
-**Sells**: Lantern, Recon Drone.
+**Menjual**: Lantern, Recon Drone.
 
 ### Jerrycan Shop
 
-The go-to for keeping your car fuelled when you can't reach a station.
+Tempat tumpuan untuk memastikan kereta anda berisi minyak apabila anda tidak dapat sampai ke stesen.
 
-**Sells**:
+**Menjual**:
 
-- **Jerrycan** (limit 2 per player) — 10 L capacity
-- **Toolkit** (limit 1 per player)
+- **Jerrycan** (had 2 setiap pemain) — kapasiti 10 L
+- **Toolkit** (had 1 setiap pemain)
 
 ## KeluargaMart
 
-A full-size supermarket experience. You can walk the aisles, pick items off shelves, and check out at the cashier. A good roleplay location for the Checkout job (Malaysians community team).
+Pengalaman pasar raya bersaiz penuh. Anda boleh berjalan di lorong-lorong, mengambil barangan dari rak, dan membayar di kaunter juruwang. Lokasi roleplay yang baik untuk pekerjaan Checkout (pasukan komuniti Malaysians).
 
-## Food Delivery interactions
+## Interaksi Food Delivery
 
-Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
+Kebanyakan kedai makanan di atas berperanan dwi sebagai lokasi pengambilan untuk pekerjaan **Food Delivery**. Apabila anda bertugas sebagai penunggang Food Delivery, waypoint anda akan menghantar anda ke salah satu kedai ini untuk mengambil pesanan, kemudian keluar kepada pelanggan.
 
-See [Jobs](/lebuhraya/jobs) for the delivery flow.
+Lihat [Pekerjaan](/lebuhraya/jobs) untuk aliran penghantaran.
 
-## Buying mechanics
+## Mekanik pembelian
 
-- Walk up to the shop NPC or counter.
-- A ProximityPrompt appears — interact to open the shop menu.
-- Select the item; BR is deducted from your balance.
-- The item appears in your inventory as a tool. Equip it to use / eat / display it.
+- Berjalan ke arah NPC kedai atau kaunter.
+- Sebuah ProximityPrompt akan muncul — berinteraksi untuk membuka menu kedai.
+- Pilih barang itu; BR akan ditolak daripada baki anda.
+- Barang itu akan muncul dalam inventori anda sebagai tool. Lengkapkannya untuk diguna / dimakan / dipamerkan.
 
-## Where to find them
+## Di mana untuk mencarinya
 
-Shops are spread across Bandar Seri Putra and Jersik. The map waypoint system (in the MyPod menu or topbar) will route you to any shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
+Kedai-kedai ini tersebar di Bandar Seri Putra dan Jersik. Sistem waypoint peta (dalam menu MyPod atau topbar) akan menghalakan anda ke mana-mana kedai yang anda pilih. Lihat [Dunia dan Peta](/lebuhraya/map) untuk susun atur serantau.
 
-## Next steps
+## Langkah seterusnya
 
-- [World and Map](/lebuhraya/map) — Where each shop is physically located
-- [Jobs → Food Delivery](/lebuhraya/jobs#food-delivery) — Earning XP from these shops
-- [Housing](/lebuhraya/housing) — Furniture, which you'll need to actually use your kitchen items
+- [Dunia dan Peta](/lebuhraya/map) — Di mana setiap kedai terletak secara fizikal
+- [Pekerjaan → Food Delivery](/lebuhraya/jobs#food-delivery) — Memperoleh XP dari kedai-kedai ini
+- [Perumahan](/lebuhraya/housing) — Perabot, yang anda perlukan untuk benar-benar menggunakan barangan dapur anda

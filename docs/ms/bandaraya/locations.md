@@ -1,15 +1,14 @@
 ---
-title: Map & Locations
+title: Peta & Lokasi
 description: >-
-  Landmarks, buildings, streets, stations, hospitals, and shops across
+  Mercu tanda, bangunan, jalan, stesen, hospital, dan kedai di seluruh
   Bandaraya.
 lang: ms
 translated_from_hash: f228f901
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Lokasi & Mercu Tanda di Bandaraya
+# Peta & Lokasi
 
 Bandaraya ialah rekaan terperinci pusat Kuala Lumpur, menampilkan mercu tanda dunia sebenar yang ikonik, bangunan kerajaan, hotel, dan kemudahan. Panduan ini merangkumi lokasi utama yang boleh anda terokai.
 

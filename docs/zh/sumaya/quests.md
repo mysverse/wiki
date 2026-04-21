@@ -1,173 +1,172 @@
 ---
-title: Quests
-description: The 12-step discovery quest chain in Sumaya.
+title: 任务
+description: Sumaya 的 12 步探索任务链。
 lang: zh
 translated_from_hash: 24fc88b2
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 任务
 
-# Quests
+Sumaya 有一条 **12 个任务组成的探索任务链**,在你游玩的过程中引导你熟悉游戏的核心机制,同时沿途发放 XP 和 Ringgit。每位新玩家都会自动启动这条任务链——无需任何操作。
 
-Sumaya has a **12-quest discovery chain** that walks you through the game's core mechanics while paying out XP and Ringgit as you go. Every new player is automatically started on it - no action needed.
+本页列出每个任务、你需要做什么,以及你会获得什么。
 
-This page lists every quest, what you need to do, and what you get.
+## 任务如何运作
 
-## How quests work
+- 任务链在你首次加入时 **自动开始**。
+- 每个任务有一个或多个步骤。完成步骤、领取奖励,下一个任务便会自动解锁。
+- 你当前的任务步骤会显示在 **任务卡片**(屏幕左上角)。
+- 任务标记会出现在 **小地图** 上,并以一道 **红色引导光束** 指向相关地点。
+- 你可以在手机上的 **Quest** 应用中查看进度。
 
-- The chain **starts automatically** on your first join.
-- Each quest has one or more steps. Complete the steps, get the reward, and the next quest auto-unlocks.
-- Your active quest step is shown in the **task card** (top-left of your screen).
-- Quest markers appear on the **minimap** and as a **red guidance beam** pointing you to the relevant location.
-- You can view your progress in the **Quest** app on your phone.
+大多数任务都是 **单步骤** 的——做完事情,领取奖励。其中两个(最后的“剧情”任务)有 **顺序步骤**,必须按顺序完成。
 
-Most quests are **one-step** - do the thing, get the reward. Two of them (the final "lore" quests) have **ordered steps** that must be done in sequence.
+## 探索任务链
 
-## The discovery chain
-
-All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, and to your global player XP.
+12 个任务依序排列。Ringgit 奖励会发放到你的 **银行账户**,XP 则计入你的全局玩家 XP。
 
 ### 1. Welcome to Sumaya!
 
-- **Goal:** Spend 10 seconds in the world.
-- **Reward:** 100 XP, 50 Ringgit.
+- **目标:** 在世界中停留 10 秒。
+- **奖励:** 100 XP,50 Ringgit。
 
-A warmup quest - you get this one just by existing for 10 seconds after you spawn.
+一个热身任务——你只要在 spawn 之后存在 10 秒就能获得。
 
 ### 2. Check Your Phone
 
-- **Goal:** Open your phone at least once.
-- **Reward:** 100 XP, 50 Ringgit.
+- **目标:** 至少打开一次你的手机。
+- **奖励:** 100 XP,50 Ringgit。
 
-Teaches you where the phone is. Tap the icon.
+教你手机的位置。点击图标即可。
 
 ### 3. On the Road
 
-- **Goal:** Spawn any vehicle.
-- **Waypoint:** nearest vehicle spawner.
-- **Reward:** 150 XP, 100 Ringgit.
+- **目标:** Spawn 任意车辆。
+- **路径点:** 最近的车辆 spawner。
+- **奖励:** 150 XP,100 Ringgit。
 
-Introduces the vehicle spawner system. Most civilian cars are free to spawn.
+介绍车辆 spawner 系统。大多数民用车辆都可以免费 spawn。
 
 ### 4. Your First Purchase
 
-- **Goal:** Buy any item from a shop.
-- **Waypoint:** nearest shop.
-- **Reward:** 150 XP, 100 Ringgit.
+- **目标:** 从任何商店购买任何物品。
+- **路径点:** 最近的商店。
+- **奖励:** 150 XP,100 Ringgit。
 
-Teaches shopping. Any cheap item works - food, a tool, anything.
+教你购物。任何便宜的物品都可以——食物、工具、任何东西。
 
 ### 5. Pick a Career
 
-- **Goal:** Start any civilian job (Fishing, Service, or Agro).
-- **Waypoint:** nearest career station.
-- **Reward:** 200 XP, 150 Ringgit.
+- **目标:** 开始任何民用工作(Fishing、Service 或 Agro)。
+- **路径点:** 最近的职业站。
+- **奖励:** 200 XP,150 Ringgit。
 
-Gets you into the career system. Clock in at any civilian career station.
+让你进入职业系统。在任何民用职业站 clock in。
 
 ### 6. Leveling Up
 
-- **Goal:** Reach player level 2.
-- **Reward:** 300 XP, 200 Ringgit.
+- **目标:** 达到玩家等级 2。
+- **奖励:** 300 XP,200 Ringgit。
 
-You'll hit level 2 just by completing the earlier quests or doing a short career shift.
+只要完成前面的任务或做一段简短的职业班次,你就能达到等级 2。
 
 ### 7. Retail Therapy
 
-- **Goal:** Buy 3 items from any shops.
-- **Waypoint:** any shop.
-- **Reward:** 250 XP, 200 Ringgit.
+- **目标:** 从任何商店购买 3 件物品。
+- **路径点:** 任何商店。
+- **奖励:** 250 XP,200 Ringgit。
 
-You can buy from the same shop or different ones. 3 total purchases required.
+你可以在同一家店或不同的店购买。总共需要 3 次购买。
 
 ### 8. Jack of All Trades
 
-- **Goal:** Work all 3 civilian sectors (Fishing, Service, Agro) at least once.
-- **Reward:** 400 XP, 300 Ringgit.
+- **目标:** 在所有 3 个民用领域(Fishing、Service、Agro)中至少各工作一次。
+- **奖励:** 400 XP,300 Ringgit。
 
-Each start counts once. Clock in at fishing, then service (if you've unlocked it at level 50 - otherwise skip this step via palm oil), then palm oil. Note: the service sector unlocks at level 50 in another sector, so you may need to grind a bit first.
+每次启动只计一次。先在 fishing clock in,然后是 service(如果你已在等级 50 解锁——否则通过 palm oil 跳过此步骤),然后是 palm oil。注意:service 领域需要在其他领域达到等级 50 才能解锁,所以你可能需要先 grind 一段时间。
 
 ### 9. Rising Star
 
-- **Goal:** Reach player level 5.
-- **Reward:** 500 XP, 400 Ringgit.
+- **目标:** 达到玩家等级 5。
+- **奖励:** 500 XP,400 Ringgit。
 
-A level milestone. Do any grind - fishing, palm oil, or emergency service - until you hit 5.
+一个等级里程碑。进行任何 grind——fishing、palm oil 或紧急服务——直到你达到 5。
 
 ### 10. Old Hand
 
-- **Goal:** Reach player level 10.
-- **Reward:** 800 XP, 700 Ringgit.
+- **目标:** 达到玩家等级 10。
+- **奖励:** 800 XP,700 Ringgit。
 
-Another level milestone. Bigger payout.
+另一个等级里程碑。奖励更丰厚。
 
 ### 11. A Day in Sumaya
 
-- **Goal:** Live a typical day (ordered steps):
-  1. Check phone for morning news.
-  2. Commute to work (spawn a vehicle).
-  3. Clock in for a shift (start any civilian job).
-  4. Treat yourself (buy an item from a shop).
-- **Reward:** 300 XP, 250 Ringgit.
+- **目标:** 过一个典型的一天(顺序步骤):
+  1. 查看手机获取早间新闻。
+  2. 通勤上班(spawn 一辆车)。
+  3. Clock in 开始班次(开始任何民用工作)。
+  4. 犒劳一下自己(从商店买一件物品)。
+- **奖励:** 300 XP,250 Ringgit。
 
-The steps must be done **in that order**. You can't spawn a vehicle before checking your phone, etc.
+步骤必须 **按该顺序** 完成。你不能在查看手机之前 spawn 车辆,等等。
 
 ### 12. The Ringgit Grind (FINAL)
 
-- **Goal:** Hustle your way up (ordered steps):
-  1. Clock in to any civilian job.
-  2. Reach player level 3 (after clocking in).
-  3. Spend Ringgit at a shop.
-  4. Spawn / afford a vehicle (after all the above).
-- **Reward:** 500 XP, 400 Ringgit, **PLUS a one-time finale bonus of 2,000 XP and 1,500 Ringgit**.
+- **目标:** 一步步奋斗向上(顺序步骤):
+  1. 在任何民用工作 clock in。
+  2. 达到玩家等级 3(在 clock in 之后)。
+  3. 在商店消费 Ringgit。
+  4. Spawn / 负担得起一辆车(在上述全部之后)。
+- **奖励:** 500 XP,400 Ringgit,**外加一次性终章奖励 2,000 XP 和 1,500 Ringgit**。
 
-The finale. Must be done in order. By the time you finish this, you'll have sampled almost everything the game offers. The finale bonus only pays out for this quest.
+终章。必须按顺序完成。当你完成时,你几乎已经体验了游戏提供的一切。终章奖励只对此任务发放。
 
-## Total rewards
+## 总奖励
 
-If you complete the entire chain:
+如果你完成整条任务链:
 
-- **5,750 XP** in player-level experience (3,750 from individual quests + 2,000 finale bonus).
-- **4,400 Ringgit** to your bank account (2,900 from individual quests + 1,500 finale bonus).
+- **5,750 XP** 的玩家等级经验(3,750 来自各个任务 + 2,000 终章奖励)。
+- **4,400 Ringgit** 存入你的银行账户(2,900 来自各个任务 + 1,500 终章奖励)。
 
-That's enough XP to push past player level 10, and enough Ringgit to buy a Tier 3 house, a mid-range trawler, or most civilian vehicles outright.
+这些 XP 足以将你推过玩家等级 10,而这些 Ringgit 也足以直接购买一栋 Tier 3 房屋、一艘中档拖网渔船,或大多数民用车辆。
 
-## Viewing quest progress
+## 查看任务进度
 
-Open the **Quest** app on your phone:
+打开手机上的 **Quest** 应用:
 
-- **Active quest** - the one you're currently working on.
-- **Step list** - with checkboxes for completed steps.
-- **Locked quests** - greyed out until earlier ones are done.
-- **Completed quests** - with a badge.
+- **活动任务** - 你当前正在进行的任务。
+- **步骤列表** - 已完成步骤带有勾选框。
+- **锁定任务** - 在更早的任务完成之前显示为灰色。
+- **已完成任务** - 附有徽章。
 
-## Quest waypoints
+## 任务路径点
 
-The game automatically sets minimap waypoints for quest steps that need a specific location:
+对于需要特定地点的任务步骤,游戏会自动在小地图上设置路径点:
 
-- "Spawn a vehicle" - points to the nearest vehicle spawner.
-- "Buy something" - points to the nearest shop.
-- "Clock in" - points to the nearest career station.
-- "Start fishing specifically" - points to a fishing dock.
+- “Spawn a vehicle” - 指向最近的车辆 spawner。
+- “Buy something” - 指向最近的商店。
+- “Clock in” - 指向最近的职业站。
+- “Start fishing specifically” - 指向一处钓鱼码头。
 
-The waypoint auto-clears when you complete the step.
+当你完成该步骤时,路径点会自动清除。
 
-## Dismissing the task card
+## 关闭任务卡片
 
-If the task card in the top-left is blocking your view (especially on mobile while driving), tap the **chevron (^)** button to collapse it. Your quest progress continues in the background.
+如果左上角的任务卡片挡住你的视线(尤其是在手机上开车时),点击 **chevron (^)** 按钮将其收起。你的任务进度会在后台继续。
 
-The task card auto-returns when you open a new quest or complete a step.
+当你打开新任务或完成一个步骤时,任务卡片会自动返回。
 
-## Tips
+## 小贴士
 
-- **Do quests in order for max efficiency.** They cascade - a step for Quest 3 might also count for Quest 11's first step.
-- **The ordered lore quests need patience.** If you mess up the order (e.g. you spawn a vehicle before opening your phone for Quest 11), that step won't count. Just do it in the right order.
-- **Reach level 50 in a civilian sector to unlock Service for the "Jack of All Trades" quest.** Otherwise it may remain incomplete.
-- **Quest Ringgit goes to the bank, not your wallet.** Makes sense - you've earned it, it's savings.
-- **You can complete quests passively while doing other activities.** Don't focus-grind them; just play, and they'll tick off naturally.
+- **按顺序完成任务以获得最大效率。** 它们会层层叠加——Quest 3 的一个步骤可能也会被记为 Quest 11 的第一步。
+- **顺序剧情任务需要耐心。** 如果你搞乱顺序(例如在 Quest 11 中打开手机之前 spawn 了车辆),那一步将不计入。只需按正确顺序进行即可。
+- **在某个民用领域达到等级 50,以为 “Jack of All Trades” 任务解锁 Service。** 否则它可能会保持未完成状态。
+- **任务 Ringgit 进入银行,而不是你的钱包。** 这很合理——是你赚来的,算作储蓄。
+- **你可以在进行其他活动时被动完成任务。** 不要刻意 grind;尽管游玩,它们自然会完成。
 
-## What next?
+## 接下来呢?
 
-- [Getting Started](/sumaya/get-started) for the rest of the onboarding.
-- [Phone and UI](/sumaya/phone) for the Quest app interface.
-- [Progression](/sumaya/progression) for how the XP converts to levels.
+- [Getting Started](/sumaya/get-started) 了解其余的入门流程。
+- [Phone and UI](/sumaya/phone) 了解 Quest 应用界面。
+- [Progression](/sumaya/progression) 了解 XP 如何转换为等级。

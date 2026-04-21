@@ -1,124 +1,123 @@
 ---
-title: Kesihatan (Medical)
-description: 'Playing Kesihatan (medical) in Sumaya — ambulances, treatment, and revival.'
+title: 医护
+description: 在 Sumaya 扮演 Kesihatan — 救护车、治疗与复苏。
 lang: zh
 translated_from_hash: 72c697a3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 医护
 
-# Kesihatan (Medical)
+**Kesihatan**（"keh-see-ha-tan"）是 Sumaya 的医疗服务。医生、护士、护理人员。如果你从主菜单选择 Kesihatan,你一 spawn 就是一名正在值班的医护人员。
 
-**Kesihatan** ("keh-see-ha-tan") is Sumaya's medical service. Doctors, nurses, paramedics. If you pick Kesihatan from the main menu, you're a medical worker on duty as soon as you spawn.
+Kesihatan 也很特别,因为**你的工作能够提升整个 server**。请继续阅读。
 
-Kesihatan is also special because **your job boosts the entire server**. Keep reading.
+## 开始上手
 
-## Getting started
+在主菜单选择 **Kesihatan**。你的医疗工具会出现在你的背包里:急救箱、绷带、夹板,以及更多随等级解锁的工具。
 
-Pick **Kesihatan** on the main menu. Your medical kit spawns in your backpack: first aid kit, bandage, splint, and more unlocked by level.
+前往医院以获取更多工具和设备,或响应 999 电话和现场事件。
 
-Head to the hospital for more tools and equipment, or respond to 999 calls and field incidents.
+## 受伤系统
 
-## The injury system
+Kesihatan 的核心玩法是治疗**伤势** - 玩家或 NPC 所受的伤害,无法仅靠 respawn 就痊愈。
 
-Kesihatan's core gameplay is treating **injuries** - damage sustained by players or NPCs that can't be healed by simply respawning.
+### 受伤系统启用时
 
-### When the injury system is active
+可以启用全 server **受伤系统**。启用时:
 
-A server-wide **injury system** can be toggled on. When it's on:
+- 玩家和 NPC 会受到真正的伤势,而不是瞬间死亡。
+- 伤势需要医疗治疗才能痊愈。
+- **server 上每位玩家都会获得 +15% 玩家等级 XP**(sector XP 不受影响)。
 
-- Players and NPCs can suffer proper injuries instead of insta-dying.
-- Injuries require medical treatment to heal.
-- **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
+这个 XP 加成非常重要。它适用于每份工作、每次逮捕、每次收成 - 所以当 Kesihatan 启用时,整个 server 都受益。这是让医护玩家在线的最大单一原因。
 
-That XP boost is a big deal. It applies to every job, every arrest, every harvest - so when Kesihatan is active, the whole server benefits. This is the single biggest reason to have medical players on.
+### 伤势类型
 
-### Injury types
-
-| Injury | What it is | Treatment |
+| 伤势 | 是什么 | 治疗 |
 |--------|------------|-----------|
-| Minor cuts / bruises | Scrapes, small wounds | Bandage |
-| Broken arm | Slows down hand animations, affects certain tools | Splint |
-| Broken leg | Reduces walk speed to 30% | Splint |
-| Traumatic Brain Injury (TBI) | Severe; requires bed rest | Medical bed + time |
+| 轻微割伤 / 擦伤 | 擦伤、小伤口 | 绷带 |
+| 手臂骨折 | 减缓手部动画,影响某些工具 | 夹板 |
+| 腿部骨折 | 将行走速度降至 30% | 夹板 |
+| 创伤性脑损伤 (TBI) | 严重;需要卧床休养 | 医疗床 + 时间 |
 
-### Diagnosis
+### 诊断
 
-You can't heal someone until you know what's wrong.
+在你不知道出了什么问题之前,你无法治疗任何人。
 
-1. Equip the **First Aid Kit**.
-2. Stand within **10 studs** of the patient.
-3. Use the kit. The diagnosis takes about **2 seconds**.
-4. The patient's injury is displayed.
+1. 装备 **急救箱**。
+2. 站在距离病人 **10 studs** 以内。
+3. 使用急救箱。诊断大约需要 **2 秒**。
+4. 病人的伤势会显示出来。
 
-**Reward:** 15 XP per diagnosis.
+**奖励:**每次诊断 15 XP。
 
-### Bandage (minor wounds)
+### 绷带(轻伤)
 
-1. Equip the **Bandage** tool.
-2. Stand within 10 studs of the patient.
-3. Use the tool. Takes about 3 seconds.
-4. Wound healed. The bandage lasts 5 minutes on the character, then fades.
+1. 装备 **绷带** 工具。
+2. 站在距离病人 10 studs 以内。
+3. 使用工具。大约需要 3 秒。
+4. 伤口痊愈。绷带在角色身上持续 5 分钟,然后消失。
 
-**Reward:** 30 XP + 100 Ringgit.
+**奖励:**30 XP + 100 Ringgit。
 
-### Splint (broken bones)
+### 夹板(骨折)
 
-1. Equip the **Splint**.
-2. Stand within 10 studs.
-3. Apply. Takes about 5 seconds.
-4. Walk speed returns to normal.
+1. 装备 **夹板**。
+2. 站在 10 studs 以内。
+3. 施用。大约需要 5 秒。
+4. 行走速度恢复正常。
 
-**Reward:** 40 XP + 200 Ringgit.
+**奖励:**40 XP + 200 Ringgit。
 
-### Imaging (X-Ray and MRI)
+### 影像检查(X-Ray 与 MRI)
 
-For diagnosis confirmation on serious injuries, use the imaging machines at the hospital:
+对于严重伤势的诊断确认,请使用医院里的影像检查机器:
 
-- **X-Ray machine:** confirms broken bones.
-- **MRI machine:** confirms TBI.
+- **X-Ray 机:**确认骨折。
+- **MRI 机:**确认 TBI。
 
-Either diagnosis pays **20 XP**.
+任一诊断支付 **20 XP**。
 
-### TBI and medical beds
+### TBI 与医疗床
 
-TBI is the most serious injury. Treatment requires the patient to **lie on a medical bed** for about **30 seconds** of bed rest, which gradually heals them.
+TBI 是最严重的伤势。治疗需要病人 **躺在医疗床上** 约 **30 秒** 的卧床休养,会逐渐治愈他们。
 
-The hospital has multiple medical beds, plus an X-Ray machine, an MRI machine, and a stretcher for transporting patients.
+医院里有多张医疗床,外加一台 X-Ray 机、一台 MRI 机,以及一副用于运送病人的担架。
 
-## Rewards summary
+## 奖励总结
 
-| Action | XP | Ringgit |
+| 动作 | XP | Ringgit |
 |--------|-----|---------|
-| First aid diagnosis | 15 | 0 |
-| Bandage heal | 30 | 100 |
-| Splint heal | 40 | 200 |
-| X-Ray diagnosis | 20 | 0 |
-| MRI diagnosis | 20 | 0 |
+| 急救诊断 | 15 | 0 |
+| 绷带治疗 | 30 | 100 |
+| 夹板治疗 | 40 | 200 |
+| X-Ray 诊断 | 20 | 0 |
+| MRI 诊断 | 20 | 0 |
 
-Plus:
+此外:
 
-- **+150 Ringgit bonus every 10 treatments.**
+- **每 10 次治疗额外奖励 +150 Ringgit。**
 
-## Vehicles
+## 车辆
 
-Kesihatan ambulances unlock as your sector level rises.
+Kesihatan 救护车会随你的 sector 等级提升而解锁。
 
-| Vehicle | Sector level required | Price |
+| 车辆 | 所需 sector 等级 | 价格 |
 |---------|----------------------|-------|
-| Tayoti Hiace KKN Ambulance | 1 | Free |
+| Tayoti Hiace KKN Ambulance | 1 | 免费 |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 
-KKN stands for Kementerian Kesihatan Nasional (National Ministry of Health). Each ambulance has a siren and rear cargo space (for the stretcher).
+KKN 代表 Kementerian Kesihatan Nasional(国家卫生部)。每辆救护车都配有警笛和后部货舱(供担架使用)。
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+请参阅 [车辆](/sumaya/vehicles) 了解如何 spawn 它们。
 
-## Ranks
+## 军衔
 
-Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Your title updates automatically as your sector level rises.
+Kesihatan 有 13 个军衔,大致基于马来西亚真实的医疗职位。你的头衔会随 sector 等级提升自动更新。
 
-| Level | Rank |
+| 等级 | 军衔 |
 |-------|------|
 | 1 | Medical Trainee |
 | 6 | House Officer |
@@ -134,20 +133,20 @@ Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Yo
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-From level 81 onward, you're the top. No further rank changes as you push to the level 100 cap.
+从 81 级开始,你就是顶层。在你冲到 100 级上限时,不再有军衔变更。
 
-## Tips
+## 小贴士
 
-- **Activate the injury system for the server.** The +15% XP boost affects everyone, including you. The whole server benefits and will keep coming back for treatment.
-- **Camp the hospital early.** Most injuries come in via ambulance or the 999 app. Staying close to the hospital means faster turnover and more XP.
-- **Broken legs are the easy payday.** They can't walk well, they're easy to spot, and the splint pays 200 Ringgit.
-- **TBI is slow but high-value.** While the 30-second bed rest is running, you can diagnose and treat other patients. Don't just stand and watch.
-- **Mass casualty events.** If there's a big crash or incident, multiple casualties means multiple fast payouts. Bring stretchers.
-- **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers.
+- **为 server 启用受伤系统。** +15% XP 加成会影响所有人,包括你自己。整个 server 都会受益,并且会不断回来接受治疗。
+- **初期就蹲守医院。** 大多数伤势是通过救护车或 999 应用送来的。靠近医院意味着更快的周转率和更多的 XP。
+- **腿部骨折是轻松的赚钱机会。** 他们走路困难、容易发现,而夹板支付 200 Ringgit。
+- **TBI 虽慢但价值高。** 在 30 秒卧床休养进行时,你可以诊断并治疗其他病人。不要只是站着看。
+- **大规模伤亡事件。** 如果发生重大车祸或事故,多人受伤意味着多笔快速付款。带上担架。
+- **与 Bomba 合作。** 消防员会被烧伤;在你扑灭火灾后,预期会有绷带顾客上门。
 
-## What next?
+## 下一步呢?
 
-- [Polis](/sumaya/polis) for the law enforcement side.
-- [Bomba](/sumaya/bomba) for the firefighter counterpart.
-- [Vehicles](/sumaya/vehicles) for the ambulance list.
-- [Progression](/sumaya/progression) for how XP compounds.
+- [Polis](/sumaya/polis) 了解执法方面。
+- [Bomba](/sumaya/bomba) 了解消防员对应内容。
+- [车辆](/sumaya/vehicles) 查看救护车清单。
+- [进阶](/sumaya/progression) 了解 XP 如何累积。

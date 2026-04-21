@@ -1,98 +1,97 @@
 ---
-title: Emergency Services Overview
-description: 'POLIS, BOMBA, and Kesihatan — the emergency services of Sumaya.'
+title: 紧急服务概览
+description: POLIS、BOMBA 与 Kesihatan — Sumaya 的紧急服务介绍。
 lang: zh
-translated_from_hash: 29b8189f
+translated_from_hash: 42b80c66
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 紧急服务概览
 
-# Emergency Services Overview
+Sumaya 有三个紧急服务队伍:
 
-Sumaya has three emergency-service teams:
+- [Bomba](/sumaya/bomba) - 消防队
+- [Kesihatan](/sumaya/kesihatan) - 医疗 / 护理人员
+- [Polis](/sumaya/polis) - 警察
 
-- [Bomba](/sumaya/bomba) - fire brigade
-- [Kesihatan](/sumaya/kesihatan) - medical / paramedic
-- [Polis](/sumaya/polis) - police
+选择其中一个队伍,你一 spawn 就会**执勤**。不像平民职业(需要通过电话打卡),紧急服务就是你的身份,而不是你当下在做的事。
 
-Picking one of these teams puts you **on duty** as soon as you spawn. Unlike civilian careers (which you clock into via the phone), emergency service is just what you are, not what you're doing.
+## 紧急服务和平民工作有什么不同?
 
-## What makes emergency services different from civilian jobs?
-
-| | Civilian careers | Emergency services |
+| | 平民职业 | 紧急服务 |
 |---|------------------|---------------------|
-| How to join | Careers app on phone | Main menu team pick |
-| Max sector level | 25 (agro) or 100 (fishing / service) | 100 |
-| XP per action | Scales with level | Flat per action |
-| Tools | Given on shift start | Given on spawn |
-| Clock in required? | Yes | No, always on duty |
-| Level-gated vehicles? | Only trawlers | Yes, several gated at sector levels 15, 20, 35, 40, 45, 55, 65 |
+| 加入方式 | 电话上的 Careers 应用 | 主菜单选队 |
+| 最高 sector 等级 | 25(农业)或 100(渔业 / 服务业) | 100 |
+| 每次行动的 XP | 随等级调整 | 每次固定 |
+| 工具 | 轮班开始时发放 | Spawn 时发放 |
+| 需要打卡吗? | 需要 | 不需要,随时执勤 |
+| 有等级限制的车辆? | 只有拖网船 | 有,多款车辆限制在 sector 等级 15、20、35、40、45、55、65 |
 
-Emergency services also have the most detailed rank systems - 13 ranks for Bomba and Kesihatan, 16 for Polis, with proper Malaysian titles.
+紧急服务还拥有最详细的阶级系统 —— Bomba 和 Kesihatan 各有 13 个阶级,Polis 有 16 个,全部采用正式的马来西亚头衔。
 
-## Which one should I try first?
+## 我应该先试哪一个?
 
-Quick guide:
+快速指南:
 
-- **You like action and pursuit:** [Polis](/sumaya/polis). Chasing suspects, running speed traps, writing arrests. Most dynamic when the server has criminals.
-- **You like teamwork and big moments:** [Bomba](/sumaya/bomba). Fires are group events. Multiple firefighters on one incident is the fastest way to level up.
-- **You like helping individuals:** [Kesihatan](/sumaya/kesihatan). Every patient is one-on-one: diagnose, treat, move on. Also gives the **+15% player-XP** boost to the whole server while your injury system is active.
+- **你喜欢动作和追逐:** [Polis](/sumaya/polis)。追嫌犯、设测速陷阱、执行逮捕。server 有罪犯时最有活力。
+- **你喜欢团队合作和大场面:** [Bomba](/sumaya/bomba)。火灾是团体事件。多名消防员在同一事件现场是升级最快的方式。
+- **你喜欢帮助个人:** [Kesihatan](/sumaya/kesihatan)。每位病人都是一对一处理:诊断、治疗、继续下一个。当你的受伤系统启动时,也会为整个 server 提供 **+15% player-XP** 加成。
 
-## Common ground
+## 共通点
 
-All three emergency services share a few mechanics:
+三个紧急服务有几项共同的机制:
 
-### Rank and level
+### 阶级和等级
 
-Your **sector level** tracks your progress in a specific service. You rank up at milestone levels (e.g. level 6, 11, 16, 21... for Bomba). Ranks are **titles only** - they don't lock gameplay. Only your **level** gates things like vehicles.
+你的 **sector 等级**追踪你在特定服务中的进度。你在里程碑等级升阶(例如 Bomba 是等级 6、11、16、21……)。阶级只是**头衔** —— 不会锁定 gameplay。只有你的**等级**才会限制车辆等项目。
 
-Max sector level is **100** for all three. Ranks stop progressing before that (e.g. Polis rank caps at level 89), so the final stretch is just flex.
+三者的最高 sector 等级都是 **100**。阶级会在那之前停止晋升(例如 Polis 阶级在等级 89 封顶),所以最后一段路纯粹是炫耀。
 
-### Ringgit rewards go to your wallet
+### Ringgit 奖励直接进入钱包
 
-Unlike civilian careers (which pay into your bank account), emergency service rewards are paid to your **wallet** directly, with the exception of crime-based payouts. That means you can spend them immediately without going to an ATM.
+不像平民职业(支付到银行账户),紧急服务的奖励直接支付到你的**钱包**,犯罪相关收入除外。这意味着你可以马上使用,不必去 ATM。
 
-### Bonuses every N actions
+### 每 N 次行动的奖金
 
-Each service has a **milestone bonus**:
+每项服务都有**里程碑奖金**:
 
-- Bomba: **150 Ringgit** bonus every **15** fire blocks.
-- Kesihatan: **150 Ringgit** bonus every **10** treatments.
-- Polis: **200 Ringgit** bonus every **5** arrests.
+- Bomba: 每 **15** 个火焰方块奖励 **150 Ringgit**。
+- Kesihatan: 每 **10** 次治疗奖励 **150 Ringgit**。
+- Polis: 每 **5** 次逮捕奖励 **200 Ringgit**。
 
-The bonuses stack on top of your per-action rewards.
+这些奖金会叠加在你每次行动的奖励之上。
 
-### Demotion on wanted status
+### 通缉时的降级
 
-If a Bomba, Kesihatan, or Polis player **commits a crime** and crosses into 1-star wanted, they're **automatically demoted** off the team. You'll be kicked back to civilian. If you want to play a criminal, leave the emergency team first.
+游戏设定会在紧急服务玩家(BOMBA、Kesihatan、POLIS)进入 1 星通缉时自动降级,但根据目前的验证,该事件的监听器并未连接 —— 你即使犯罪后仍会**留在你的紧急队伍**。降级 bindable 触发时没有处理程序。不要依赖游戏把你换回平民;在做任何违法行为之前,请手动切换队伍。
 
-## Kesihatan's global XP boost
+## Kesihatan 的全局 XP 加成
 
-This is unique: when Kesihatan players activate the injury system, **every player on the server gets +15% player-level XP** (sector XP is unaffected). This is a big deal if you're grinding - watch for the boost indicator before a long session.
+这是独特的:当 Kesihatan 玩家启动受伤系统时,**server 上每位玩家都会获得 +15% player-level XP**(sector XP 不受影响)。如果你在刷经验,这非常有用 —— 长时间游戏前请留意加成指示。
 
-## Emergency vehicles
+## 紧急车辆
 
-Each service has its own vehicles, unlocked as your sector level rises. See [Vehicles](/sumaya/vehicles) for the full catalog, or the individual service pages for the team-specific list.
+每项服务都有自己的车辆,随着你的 sector 等级提升而解锁。完整目录请参见[车辆](/sumaya/vehicles),或查看各服务页面的队伍专属列表。
 
-Emergency vehicles have **sirens and lights** (ELS). Flipping the siren on while you're driving an emergency vehicle gives you temporary exemption from traffic offences - you can't be cited for speeding or crashes while your siren is active.
+紧急车辆配备**警笛和灯**(ELS)。驾驶紧急车辆时打开警笛,可获得交通违规的暂时豁免 —— 警笛启动期间,你不会因超速或事故被开罚单。
 
-## 999 emergency calls
+## 999 紧急电话
 
-Civilians can dial **999** from their phone to request emergency services. Calls show up on the **MDT (Mobile Data Terminal)** app, which is visible to all on-duty emergency-service players. You can:
+平民可以拨打手机上的 **999** 来请求紧急服务。通话会显示在 **MDT(Mobile Data Terminal)** 应用上,所有执勤中的紧急服务玩家都能看到。你可以:
 
-- See the caller's location on your minimap.
-- Read any custom notes they included.
-- Set a waypoint to navigate there.
-- Mark a call as responded / closed.
+- 在小地图上查看来电者位置。
+- 阅读他们附上的任何自定义备注。
+- 设置航点导航过去。
+- 将通话标记为已回应 / 已关闭。
 
-This is the main way civilians summon you. The MDT is in the phone's app list - it appears only for players on emergency-service teams. See [Phone and UI](/sumaya/phone).
+这是平民召唤你的主要方式。MDT 位于手机的 app 列表中 —— 它只会显示给紧急服务队伍的玩家。参见[手机与 UI](/sumaya/phone)。
 
-## What next?
+## 接下来呢?
 
-Pick a service to read about:
+选一项服务来了解:
 
-- [Bomba (fire brigade)](/sumaya/bomba)
-- [Kesihatan (medical)](/sumaya/kesihatan)
-- [Polis (police)](/sumaya/polis)
+- [Bomba(消防队)](/sumaya/bomba)
+- [Kesihatan(医疗)](/sumaya/kesihatan)
+- [Polis(警察)](/sumaya/polis)
 
-Or jump to [Crime and Law](/sumaya/crime-and-law) if you want to know what the Polis are up against.
+或跳转到[犯罪与法律](/sumaya/crime-and-law),了解 Polis 所面对的是什么。

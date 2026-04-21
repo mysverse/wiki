@@ -1,13 +1,12 @@
 ---
-title: Teams and Careers
-description: All 18 teams in Lebuhraya and the 20-tier rank system.
+title: Pasukan & Kerjaya
+description: Kesemua 18 pasukan di Lebuhraya dan sistem pangkat 20 peringkat.
 lang: ms
 translated_from_hash: f4279193
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Pasukan di Lebuhraya
+# Pasukan & Kerjaya
 
 Lebuhraya menawarkan pelbagai pasukan, setiap satu memberikan pengalaman permainan, kenderaan, dan alat yang unik. Pasukan boleh diakses berdasarkan tahap, gamepass, atau keahlian kumpulan Roblox.
 

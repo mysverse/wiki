@@ -1,75 +1,74 @@
 ---
-title: Service Sector (Mamak and Fast Food)
-description: Mamak and fast-food service careers in Sumaya.
+title: Sektor Perkhidmatan (Mamak & Makanan Segera)
+description: Kerjaya mamak dan makanan segera di Sumaya.
 lang: ms
 translated_from_hash: 72d00afe
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Sektor Perkhidmatan (Mamak & Makanan Segera)
 
-# Service Sector (Mamak and Fast Food)
+Sektor perkhidmatan merangkumi dua kerjaya makanan Sumaya yang berhadapan dengan pelanggan: **Mamak** (kedai makan Muslim India Malaysia yang klasik) dan **Makanan Segera** (restoran perkhidmatan pantas bergaya burger). Kedua-duanya adalah kerja pantas yang mengambil pesanan, dan kedua-duanya berkongsi XP sektor serta tangga pangkat yang sama.
 
-The service sector covers Sumaya's two customer-facing food jobs: **Mamak** (the classic Malaysian Indian-Muslim eatery) and **Fast Food** (a burger-style quick-service restaurant). Both are fast-paced, order-taking jobs, and both share the same sector XP and rank ladder.
+## Syarat membuka kunci
 
-## Unlock requirement
+Sektor perkhidmatan dibuka kunci **setelah anda mencapai tahap 50 dalam sektor awam yang lain** (memancing atau minyak sawit). Ia adalah pilihan kerjaya "pertengahan permainan". Anda masih boleh melawat gerai sebagai pelanggan sebelum itu - cuma anda tidak boleh bekerja di sana.
 
-The service sector is unlocked **once you reach level 50 in another civilian sector** (fishing or palm oil). It's the "mid-game" career option. You can still visit the stalls as a customer before then - you just can't work there.
+## Memulakan
 
-## Getting started
+1. Capai tahap sektor 50 dalam [memancing](/sumaya/jobs-fishing) atau [minyak sawit](/sumaya/jobs-palm-oil).
+2. Buka aplikasi **Careers** pada telefon anda.
+3. Pilih **Service Sector**.
+4. Berjalan ke gerai mamak atau kaunter makanan segera (aplikasi Careers akan menunjuk arah kepada anda).
+5. Tekan gesaan **clock in**.
 
-1. Reach sector level 50 in [fishing](/sumaya/jobs-fishing) or [palm oil](/sumaya/jobs-palm-oil).
-2. Open the **Careers** app on your phone.
-3. Pick **Service Sector**.
-4. Walk up to a Mamak stall or Fast Food counter (the Careers app will point you there).
-5. Press the **clock in** prompt.
+## Cara pesanan berfungsi
 
-## How orders work
+Setelah anda bertugas:
 
-Once you're on shift:
+- Pelanggan (NPC) akan datang dan membuat pesanan.
+- HUD akan menunjukkan apa yang mereka mahu.
+- Pergi ke kawasan penyediaan (peti sejuk beku, kaunter, mesin minuman, dan sebagainya) untuk menyiapkan item tersebut.
+- Bawa pesanan yang siap kembali kepada pelanggan.
 
-- Customers (NPCs) walk up and place an order.
-- The HUD shows you what they want.
-- Go to the prep area (freezer, counter, drinks machine, etc.) to assemble the item.
-- Bring the finished order back to the customer.
+Rentaknya stabil - pelanggan datang secara kerap, dan setiap pesanan yang selesai membayar XP dan Ringgit.
 
-The pace is steady - customers arrive regularly, and each completed order pays XP and Ringgit.
+## Bayaran
 
-## Payout
+Pembayaran masuk ke **akaun bank** anda (bukan dompet) di bawah "Mamak Sdn. Bhd." atau slip gaji Makanan Segera yang setara apabila anda clock out atau selesai melayani pelanggan.
 
-Payments go into your **bank account** (not wallet) under "Mamak Sdn. Bhd." or the equivalent Fast Food paycheck when you clock out or complete customers.
-
-| Venue | Per customer | Bonus (every 10 customers) | Wrong-order penalty |
-|-------|--------------|----------------------------|---------------------|
+| Lokasi | Setiap pelanggan | Bonus (setiap 10 pelanggan) | Penalti pesanan salah |
+|--------|------------------|-----------------------------|-----------------------|
 | Mamak | 30 Ringgit | +180 Ringgit | -25 Ringgit |
-| Fast Food | 25 Ringgit | +150 Ringgit | -20 Ringgit |
+| Makanan Segera | 25 Ringgit | +150 Ringgit | -20 Ringgit |
 
-Mamak pays slightly better per customer, but both venues are roughly equivalent over a shift since customer flow tends to be similar. If your final total ever goes below zero (too many penalties), it's floored at 0 - you won't actually owe the game money.
+Mamak membayar sedikit lebih baik setiap pelanggan, tetapi kedua-dua lokasi adalah lebih kurang sama sepanjang syif kerana aliran pelanggan cenderung serupa. Jika jumlah akhir anda jatuh di bawah sifar (terlalu banyak penalti), ia dihadkan pada 0 - anda tidak akan berhutang wang kepada permainan.
 
-Action XP scales with your **sector level** (base ~5 XP per task at level 1, growing via a 1.1x per-level multiplier - so late-game service workers earn several times more XP per customer than starters).
+XP tindakan berskala dengan **tahap sektor** anda (asas ~5 XP setiap tugas pada tahap 1, berkembang melalui pendarab 1.1x setiap tahap - jadi pekerja perkhidmatan hujung permainan memperoleh beberapa kali ganda XP setiap pelanggan berbanding pemula).
 
-Tips:
+Petua:
 
-- **Fast Food vs Mamak**: mechanically similar - pick whichever is closer or has better decor to your taste, or Mamak for slightly better pay per customer.
-- **Read orders carefully.** Wrong-order penalties subtract from your paycheck - repeat failures can wipe out the per-customer pay.
-- **Bonus at every 10 served**: aim for multiples of 10 before clocking out.
+- **Makanan Segera berbanding Mamak**: serupa dari segi mekanik - pilih yang mana lebih hampir atau mempunyai hiasan mengikut citarasa anda, atau Mamak untuk bayaran setiap pelanggan yang sedikit lebih baik.
+- **Baca pesanan dengan teliti.** Penalti pesanan salah akan menolak gaji anda - kegagalan berulang boleh menghapuskan bayaran setiap pelanggan.
+- **Bonus pada setiap 10 yang dilayan**: sasarkan gandaan 10 sebelum clock out.
 
-## Leveling up
+## Menaikkan tahap
 
-The service sector goes up to **level 100**, same as the other civilian sectors. The per-level XP multiplier means later levels progress more per task than early levels.
+Sektor perkhidmatan naik sehingga **tahap 100**, sama seperti sektor awam yang lain. Pendarab XP setiap tahap bermakna tahap yang lebih lewat maju lebih banyak setiap tugas berbanding tahap awal.
 
-## Clocking out
+## Clock out
 
-Open the Careers app and stop your shift. Earnings accumulate as you go, so you don't lose progress by clocking out mid-shift - you've already been paid.
+Buka aplikasi Careers dan hentikan syif anda. Pendapatan terkumpul sambil anda bekerja, jadi anda tidak kehilangan kemajuan dengan clock out di tengah-tengah syif - anda sudah pun dibayar.
 
-## Tips
+## Petua
 
-- **Multiple players can work the same venue.** If a friend is also a service worker, you both earn independently for the orders you handle.
-- **Don't leave a customer waiting too long.** If an NPC waits past a certain threshold, they might walk off - no payout.
-- **Watch the prep area.** Some ingredients regenerate slowly; if the freezer is empty, the next order might stall briefly.
-- **Learn the venue layout.** The difference between a fast shift and a slow one is whether you know where every item lives.
+- **Beberapa pemain boleh bekerja di lokasi yang sama.** Jika seorang rakan juga pekerja perkhidmatan, kedua-dua anda memperoleh secara berasingan untuk pesanan yang anda kendalikan.
+- **Jangan biarkan pelanggan menunggu terlalu lama.** Jika seorang NPC menunggu melebihi ambang tertentu, mereka mungkin berlalu pergi - tiada bayaran.
+- **Perhatikan kawasan penyediaan.** Sesetengah bahan-bahan muncul semula dengan perlahan; jika peti sejuk beku kosong, pesanan seterusnya mungkin terhenti sebentar.
+- **Pelajari susun atur lokasi.** Perbezaan antara syif yang pantas dan yang perlahan ialah sama ada anda tahu di mana setiap item berada.
 
-## What next?
+## Apa seterusnya?
 
-- [Fishing](/sumaya/jobs-fishing) if you want a calmer alternative.
-- [Palm oil](/sumaya/jobs-palm-oil) for higher-single-action payouts.
-- [Progression](/sumaya/progression) for how sector level affects your rewards.
+- [Memancing](/sumaya/jobs-fishing) jika anda mahukan alternatif yang lebih tenang.
+- [Minyak sawit](/sumaya/jobs-palm-oil) untuk bayaran tindakan tunggal yang lebih tinggi.
+- [Kemajuan](/sumaya/progression) untuk cara tahap sektor mempengaruhi ganjaran anda.

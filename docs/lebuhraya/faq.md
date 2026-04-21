@@ -64,6 +64,12 @@ You have three options:
 2. **Despawn and respawn** your vehicle from the MyPod menu. You'll lose your position but get a full tank.
 3. **Ask a KEMRonda player** for a tow — they can take you to the nearest station.
 
+### Where do I repair my car?
+
+There are **10 repair zones** placed around the map. Drive your vehicle into one and a prompt will appear — confirm, stay parked, and health regenerates roughly 10% per 5 seconds until fully repaired. You can't repair if the zone is already being used by another player.
+
+**Gravstone Workshop** in Bandar Seri Putra is a **customisation shop** (paint, body), not a repair shop — don't go there expecting a fix.
+
 ### How does the 999 Emergency system work?
 
 Any player can call 999 from their Phone (topbar → 999 app). Emergency responders on duty (Bomba, Polis Trafik, Undercover Police, Kesihatan) see the incident on their **Pager** tool and can accept it.
@@ -74,9 +80,22 @@ Any player can call 999 from their Phone (topbar → 999 app). Emergency respond
 
 See [Social Features → 999 Emergency](/lebuhraya/social-features#999-emergency-system) for the full flow.
 
+### What's the Injury System and why does it matter?
+
+When a **Kesihatan (medic) player joins the server**, the injury system **automatically activates for everyone** — including you. This gives you a **+15% XP multiplier** for free on every XP award, stacking with Premium, convoy, token, and other boosts. When the last medic leaves, it turns off again.
+
+The trade-off: with injury system on, heavy crashes can inflict injuries on you that need medical treatment. Those injuries become the 999 incidents medics respond to — which is the whole loop working as designed.
+
+**Tip**: if you see a medic in the server lobby, you're getting free extra XP. Drive careful and you'll rarely need treatment.
+
 ### What is Passive mode?
 
-Passive mode is a player attribute you can toggle to prevent tool-based interactions — weapons, tasers, bandages. Turn it on if you don't want to be pulled into combat or emergency roleplay. Turn it off if you do.
+Passive mode is a toggle that prevents tool-based interactions — weapons, tasers, bandages, and similar gear — in **both directions**:
+
+- You can't use tools on other players.
+- Other players can't use tools on you.
+
+Turn it on from the Main Menu if you don't want to be pulled into combat or emergency roleplay. Turn it off when you're ready to participate. Note: standard driving and job actions aren't affected — passive only blocks weapons and medical tools.
 
 ### Can I own a house?
 

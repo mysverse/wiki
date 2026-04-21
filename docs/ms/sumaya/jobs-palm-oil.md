@@ -1,62 +1,61 @@
 ---
-title: Palm Oil (Agriculture)
-description: Palm oil and agriculture work in Sumaya.
+title: Kelapa Sawit (Pertanian)
+description: Kerja kelapa sawit dan pertanian di Sumaya.
 lang: ms
 translated_from_hash: '12381531'
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kelapa Sawit (Pertanian)
 
-# Palm Oil (Agriculture)
+Penuaian kelapa sawit ialah sektor pertanian Sumaya. Anda memotong tandan buah daripada pokok sawit, mengumpulnya di dalam baldi, dan dibayar pada akhir syif. Ia tersedia dari hari pertama - tiada prasyarat, tiada had tahap, cukup hampiri dan mulakan.
 
-Palm oil harvesting is Sumaya's agricultural sector. You cut fruit bunches from palm trees, collect them in a bucket, and get paid at the end of your shift. It's available from day one - no prerequisite, no level gate, just walk up and start.
+## Bermula
 
-## Getting started
+1. Buka telefon anda dan ketik aplikasi **Careers**.
+2. Pilih **Agricultural Sector**.
+3. Menuju ke ladang sawit (aplikasi Careers akan menunjukkan arahnya).
+4. Tekan gesaan **clock in**.
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Agricultural Sector**.
-3. Head to a palm plantation (the Careers app will point you there).
-4. Press the **clock in** prompt.
+Sebaik sahaja anda bertugas, alat pemotong sawit dan baldi pengumpulan akan muncul dalam beg galas anda.
 
-Once you're on shift, a palm-cutting tool and a collection bucket spawn in your backpack.
+## Cara penuaian berfungsi
 
-## How harvesting works
+1. Hampiri sebatang pokok sawit.
+2. Gunakan alat pemotong pada tandan buah yang matang (yang ditandakan dengan gesaan penuaian).
+3. Buah akan jatuh; kutip dengan baldi anda.
+4. Teruskan sehingga syif anda berakhir atau anda telah menghabiskan pokok yang tersedia.
 
-1. Walk up to a palm tree.
-2. Use the cutting tool on ripe fruit bunches (the ones marked with the harvest prompt).
-3. The fruit drops; pick it up with your bucket.
-4. Keep going until your shift ends or you've cleared the available trees.
+Setiap penuaian menambah jumlah kumulatif syif anda. Bayaran tepat setiap penuaian bergantung kepada tahap sektor.
 
-Each harvest adds to your shift's running total. The exact per-harvest payout depends on sector level.
+## Akhir syif
 
-## End of shift
+Inilah perkara utama tentang kelapa sawit: **anda tidak dibayar setiap penuaian. Anda dibayar apabila anda clock out.**
 
-This is the key thing about palm oil: **you don't get paid per harvest. You get paid when you clock out.**
+Apabila anda mengakhiri syif:
 
-When you end your shift:
+- Pendapatan terkumpul anda akan dimasukkan terus ke dalam **akaun bank** anda (bukan dompet anda).
+- Anda mendapat **bonus rata 50 XP** di atas XP setiap penuaian.
+- Anda akan menerima notifikasi slip gaji **Palm Oil Plantation**.
 
-- Your accumulated earnings are deposited directly into your **bank account** (not your wallet).
-- You get a **flat 50 XP bonus** on top of per-harvest XP.
-- You receive a **Palm Oil Plantation** paycheck notification.
+Kerana semuanya dimasukkan ke bank pada akhir syif, jika anda mati atau tersilap mengakhiri syif lebih awal, anda masih menyimpan apa yang anda telah peroleh. Cuma clock in semula.
 
-Because everything is banked at end-of-shift, if you die or accidentally end the shift early, you keep what you earned. Just clock back in.
+## Menaikkan tahap
 
-## Leveling up
+Sektor pertanian mencapai maksimum pada **tahap 25** - lebih rendah daripada memancing (100) atau perkhidmatan (100). Itu menjadikannya tangga paling pendek untuk dihabiskan, jika anda seorang completionist.
 
-The agricultural sector maxes out at **level 25** - lower than fishing (100) or service (100). That makes it the shortest ladder to top out, if you're a completionist.
+XP setiap penuaian berskala dengan tahap sektor anda (seperti sektor perkhidmatan). Tahap awal lambat; tahap kemudian membayar lebih banyak setiap potongan.
 
-Per-harvest XP scales with your sector level (like the service sector). Early levels are slow; later levels pay more per cut.
+## Petua
 
-## Tips
+- **Baldi akan penuh.** Perhatikan kapasiti baldi anda - sebaik sahaja penuh, anda mungkin perlu membongkar sebelum meneruskan. (Bergantung pada persediaan peta, pembongkaran berlaku di titik pengumpulan.)
+- **Akhir syif adalah penting.** Sentiasa clock out sebelum log keluar - jika anda terputus sambungan di tengah syif, pendapatan tertunggak anda mungkin hilang.
+- **Sawit adalah paling cepat untuk maksimum.** Jika anda suka melengkapkan sesuatu, 25 tahap berbanding 100 adalah kurang menjemukan.
+- **Bonus akhir syif 50 XP adalah XP-pemain sahaja.** Ia masuk ke akaun global anda, bukan sektor pertanian. Pertimbangkan itu apabila merancang syif.
+- **Gabungkan dengan penggalak XP Kesihatan.** Jika sistem kecederaan Kesihatan aktif, bonus akhir syif 50 XP menjadi 57.5 XP (+15%).
 
-- **Bucket fills up.** Keep an eye on your bucket capacity - once full, you may need to unload before continuing. (Depending on map setup, unloading happens at a collection point.)
-- **End-of-shift is important.** Always clock out before logging off - if you disconnect mid-shift, your pending earnings might be lost.
-- **Palm is the fastest to max.** If you like completing things, 25 levels vs 100 is much less of a grind.
-- **The 50 XP end-shift bonus is player-XP only.** It goes to your global account, not the agricultural sector. Factor that in when planning shifts.
-- **Stack with the Kesihatan XP boost.** If Kesihatan's injury system is active, the 50 XP end-shift bonus becomes 57.5 XP (+15%).
+## Apa seterusnya?
 
-## What next?
-
-- [Fishing](/sumaya/jobs-fishing) for a no-stress alternative.
-- [Service sector](/sumaya/jobs-service) once you hit level 50 here or in fishing.
-- [Progression](/sumaya/progression) to understand how XP compounds across sectors.
+- [Memancing](/sumaya/jobs-fishing) untuk alternatif tanpa tekanan.
+- [Sektor perkhidmatan](/sumaya/jobs-service) sebaik sahaja anda mencapai tahap 50 di sini atau di memancing.
+- [Perkembangan](/sumaya/progression) untuk memahami bagaimana XP terkumpul merentasi sektor.

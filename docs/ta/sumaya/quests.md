@@ -1,173 +1,172 @@
 ---
-title: Quests
-description: The 12-step discovery quest chain in Sumaya.
+title: பணிகள்
+description: Sumaya-வில் 12-படி கண்டுபிடிப்பு பணித் தொடர்.
 lang: ta
 translated_from_hash: 24fc88b2
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பணிகள்
 
-# Quests
+Sumaya-வில் **12-பணிகள் கொண்ட கண்டுபிடிப்பு தொடர்** உள்ளது, இது நீங்கள் விளையாடும்போது XP மற்றும் Ringgit-ஐ வழங்கும் அதே வேளையில் விளையாட்டின் முக்கிய இயக்கமுறைகள் வழியாக உங்களை அழைத்துச் செல்கிறது. ஒவ்வொரு புதிய விளையாட்டாளரும் அதில் தானாகவே தொடங்கப்படுகிறார் - எந்த செயலும் தேவையில்லை.
 
-Sumaya has a **12-quest discovery chain** that walks you through the game's core mechanics while paying out XP and Ringgit as you go. Every new player is automatically started on it - no action needed.
+இந்தப் பக்கம் ஒவ்வொரு பணியையும், நீங்கள் என்ன செய்ய வேண்டும் என்பதையும், நீங்கள் என்ன பெறுவீர்கள் என்பதையும் பட்டியலிடுகிறது.
 
-This page lists every quest, what you need to do, and what you get.
+## பணிகள் எவ்வாறு செயல்படுகின்றன
 
-## How quests work
+- இந்தத் தொடர் உங்கள் முதல் சேரலின் போது **தானாகவே தொடங்கும்**.
+- ஒவ்வொரு பணியிலும் ஒன்று அல்லது அதற்கு மேற்பட்ட படிகள் உள்ளன. படிகளை முடித்து, வெகுமதியைப் பெற்றவுடன், அடுத்த பணி தானாகவே திறக்கப்படும்.
+- உங்கள் செயலில் உள்ள பணி படி **பணி அட்டையில்** (உங்கள் திரையின் மேல்-இடது பகுதி) காட்டப்படுகிறது.
+- பணி குறிப்பான்கள் **சிறு-வரைபடத்திலும்**, தொடர்புடைய இடத்தை நோக்கி சுட்டிக்காட்டும் **சிவப்பு வழிகாட்டி கதிராகவும்** தோன்றும்.
+- உங்கள் தொலைபேசியில் உள்ள **Quest** ஆப்பில் உங்கள் முன்னேற்றத்தைக் காணலாம்.
 
-- The chain **starts automatically** on your first join.
-- Each quest has one or more steps. Complete the steps, get the reward, and the next quest auto-unlocks.
-- Your active quest step is shown in the **task card** (top-left of your screen).
-- Quest markers appear on the **minimap** and as a **red guidance beam** pointing you to the relevant location.
-- You can view your progress in the **Quest** app on your phone.
+பெரும்பாலான பணிகள் **ஒரே படி** கொண்டவை - அந்த செயலைச் செய்து, வெகுமதியைப் பெறுங்கள். அவற்றில் இரண்டு (இறுதி "lore" பணிகள்) வரிசையாகச் செய்ய வேண்டிய **ஒழுங்குபடுத்தப்பட்ட படிகளைக்** கொண்டுள்ளன.
 
-Most quests are **one-step** - do the thing, get the reward. Two of them (the final "lore" quests) have **ordered steps** that must be done in sequence.
+## கண்டுபிடிப்புத் தொடர்
 
-## The discovery chain
-
-All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, and to your global player XP.
+அனைத்து 12 பணிகளும் வரிசையாக. வெகுமதிகள் Ringgit-க்காக உங்கள் **வங்கிக் கணக்கிற்கும்**, உங்கள் உலகளாவிய விளையாட்டாளர் XP-க்கும் செலுத்தப்படுகின்றன.
 
 ### 1. Welcome to Sumaya!
 
-- **Goal:** Spend 10 seconds in the world.
-- **Reward:** 100 XP, 50 Ringgit.
+- **இலக்கு:** உலகில் 10 வினாடிகள் செலவிடுங்கள்.
+- **வெகுமதி:** 100 XP, 50 Ringgit.
 
-A warmup quest - you get this one just by existing for 10 seconds after you spawn.
+ஒரு வார்ம்-அப் பணி - நீங்கள் spawn ஆனபின் 10 வினாடிகள் இருப்பதன் மூலமாகவே இதைப் பெறுகிறீர்கள்.
 
 ### 2. Check Your Phone
 
-- **Goal:** Open your phone at least once.
-- **Reward:** 100 XP, 50 Ringgit.
+- **இலக்கு:** உங்கள் தொலைபேசியை குறைந்தது ஒரு முறை திறக்கவும்.
+- **வெகுமதி:** 100 XP, 50 Ringgit.
 
-Teaches you where the phone is. Tap the icon.
+தொலைபேசி எங்கே உள்ளது என்பதை உங்களுக்குக் கற்பிக்கிறது. ஐகானைத் தட்டுங்கள்.
 
 ### 3. On the Road
 
-- **Goal:** Spawn any vehicle.
-- **Waypoint:** nearest vehicle spawner.
-- **Reward:** 150 XP, 100 Ringgit.
+- **இலக்கு:** எந்த வாகனத்தையும் spawn செய்யுங்கள்.
+- **வழிப்புள்ளி:** அருகில் உள்ள வாகன spawner.
+- **வெகுமதி:** 150 XP, 100 Ringgit.
 
-Introduces the vehicle spawner system. Most civilian cars are free to spawn.
+வாகன spawner அமைப்பை அறிமுகப்படுத்துகிறது. பெரும்பாலான குடிமை கார்கள் இலவசமாக spawn செய்யப்படலாம்.
 
 ### 4. Your First Purchase
 
-- **Goal:** Buy any item from a shop.
-- **Waypoint:** nearest shop.
-- **Reward:** 150 XP, 100 Ringgit.
+- **இலக்கு:** கடையில் இருந்து எந்தப் பொருளையும் வாங்கவும்.
+- **வழிப்புள்ளி:** அருகில் உள்ள கடை.
+- **வெகுமதி:** 150 XP, 100 Ringgit.
 
-Teaches shopping. Any cheap item works - food, a tool, anything.
+ஷாப்பிங் கற்பிக்கிறது. எந்த மலிவான பொருளும் வேலை செய்யும் - உணவு, கருவி, எதுவும்.
 
 ### 5. Pick a Career
 
-- **Goal:** Start any civilian job (Fishing, Service, or Agro).
-- **Waypoint:** nearest career station.
-- **Reward:** 200 XP, 150 Ringgit.
+- **இலக்கு:** எந்தக் குடிமைப் பணியையும் (Fishing, Service, அல்லது Agro) தொடங்குங்கள்.
+- **வழிப்புள்ளி:** அருகில் உள்ள தொழில் நிலையம்.
+- **வெகுமதி:** 200 XP, 150 Ringgit.
 
-Gets you into the career system. Clock in at any civilian career station.
+உங்களை தொழில் அமைப்பில் நுழைக்கிறது. எந்த குடிமை தொழில் நிலையத்திலும் clock in செய்யுங்கள்.
 
 ### 6. Leveling Up
 
-- **Goal:** Reach player level 2.
-- **Reward:** 300 XP, 200 Ringgit.
+- **இலக்கு:** விளையாட்டாளர் நிலை 2-ஐ எட்டவும்.
+- **வெகுமதி:** 300 XP, 200 Ringgit.
 
-You'll hit level 2 just by completing the earlier quests or doing a short career shift.
+முந்தைய பணிகளை முடிப்பதன் மூலமாகவோ அல்லது ஒரு குறுகிய தொழில் ஷிப்ட் செய்வதன் மூலமாகவோ நீங்கள் நிலை 2-ஐ அடைவீர்கள்.
 
 ### 7. Retail Therapy
 
-- **Goal:** Buy 3 items from any shops.
-- **Waypoint:** any shop.
-- **Reward:** 250 XP, 200 Ringgit.
+- **இலக்கு:** எந்தக் கடைகளிலிருந்தும் 3 பொருட்களை வாங்கவும்.
+- **வழிப்புள்ளி:** எந்தக் கடை.
+- **வெகுமதி:** 250 XP, 200 Ringgit.
 
-You can buy from the same shop or different ones. 3 total purchases required.
+நீங்கள் ஒரே கடை அல்லது வெவ்வேறு கடைகளிலிருந்து வாங்கலாம். மொத்தம் 3 கொள்முதல்கள் தேவை.
 
 ### 8. Jack of All Trades
 
-- **Goal:** Work all 3 civilian sectors (Fishing, Service, Agro) at least once.
-- **Reward:** 400 XP, 300 Ringgit.
+- **இலக்கு:** அனைத்து 3 குடிமைத் துறைகளிலும் (Fishing, Service, Agro) குறைந்தது ஒரு முறை வேலை செய்யுங்கள்.
+- **வெகுமதி:** 400 XP, 300 Ringgit.
 
-Each start counts once. Clock in at fishing, then service (if you've unlocked it at level 50 - otherwise skip this step via palm oil), then palm oil. Note: the service sector unlocks at level 50 in another sector, so you may need to grind a bit first.
+ஒவ்வொரு தொடக்கமும் ஒரு முறை கணக்கிடப்படுகிறது. fishing-ல் clock in செய்து, பிறகு service (நிலை 50-ல் நீங்கள் அதை திறந்திருந்தால் - இல்லையெனில் palm oil மூலம் இந்த படியைத் தவிர்க்கவும்), பிறகு palm oil. குறிப்பு: service துறை மற்றொரு துறையில் நிலை 50-ல் திறக்கப்படுகிறது, எனவே நீங்கள் முதலில் கொஞ்சம் grind செய்ய வேண்டியிருக்கலாம்.
 
 ### 9. Rising Star
 
-- **Goal:** Reach player level 5.
-- **Reward:** 500 XP, 400 Ringgit.
+- **இலக்கு:** விளையாட்டாளர் நிலை 5-ஐ எட்டவும்.
+- **வெகுமதி:** 500 XP, 400 Ringgit.
 
-A level milestone. Do any grind - fishing, palm oil, or emergency service - until you hit 5.
+ஒரு நிலை மைல்கல். நீங்கள் 5-ஐ எட்டும் வரை எந்த grind-ஐயும் செய்யுங்கள் - fishing, palm oil அல்லது அவசர சேவை.
 
 ### 10. Old Hand
 
-- **Goal:** Reach player level 10.
-- **Reward:** 800 XP, 700 Ringgit.
+- **இலக்கு:** விளையாட்டாளர் நிலை 10-ஐ எட்டவும்.
+- **வெகுமதி:** 800 XP, 700 Ringgit.
 
-Another level milestone. Bigger payout.
+மற்றொரு நிலை மைல்கல். பெரிய வெகுமதி.
 
 ### 11. A Day in Sumaya
 
-- **Goal:** Live a typical day (ordered steps):
-  1. Check phone for morning news.
-  2. Commute to work (spawn a vehicle).
-  3. Clock in for a shift (start any civilian job).
-  4. Treat yourself (buy an item from a shop).
-- **Reward:** 300 XP, 250 Ringgit.
+- **இலக்கு:** ஒரு வழக்கமான நாளை வாழுங்கள் (ஒழுங்குபடுத்தப்பட்ட படிகள்):
+  1. காலை செய்திகளுக்காக தொலைபேசியைச் சரிபார்க்கவும்.
+  2. வேலைக்குச் செல்லுங்கள் (வாகனத்தை spawn செய்யுங்கள்).
+  3. ஷிப்டுக்காக clock in செய்யுங்கள் (எந்தக் குடிமைப் பணியையும் தொடங்குங்கள்).
+  4. உங்களுக்கே ஒரு பரிசு (கடையில் இருந்து ஒரு பொருளை வாங்கவும்).
+- **வெகுமதி:** 300 XP, 250 Ringgit.
 
-The steps must be done **in that order**. You can't spawn a vehicle before checking your phone, etc.
+படிகள் **அந்த வரிசையில்** செய்யப்பட வேண்டும். தொலைபேசியைச் சரிபார்ப்பதற்கு முன் நீங்கள் வாகனத்தை spawn செய்ய முடியாது, போன்றவை.
 
 ### 12. The Ringgit Grind (FINAL)
 
-- **Goal:** Hustle your way up (ordered steps):
-  1. Clock in to any civilian job.
-  2. Reach player level 3 (after clocking in).
-  3. Spend Ringgit at a shop.
-  4. Spawn / afford a vehicle (after all the above).
-- **Reward:** 500 XP, 400 Ringgit, **PLUS a one-time finale bonus of 2,000 XP and 1,500 Ringgit**.
+- **இலக்கு:** உங்கள் வழியை உயர்த்துங்கள் (ஒழுங்குபடுத்தப்பட்ட படிகள்):
+  1. எந்தக் குடிமைப் பணியிலும் clock in செய்யுங்கள்.
+  2. விளையாட்டாளர் நிலை 3-ஐ எட்டவும் (clock in செய்தபிறகு).
+  3. கடையில் Ringgit-ஐ செலவிடுங்கள்.
+  4. வாகனத்தை spawn செய்யுங்கள் / வாங்கக்கூடியதாக இருங்கள் (மேற்கண்ட அனைத்திற்கும் பிறகு).
+- **வெகுமதி:** 500 XP, 400 Ringgit, **மற்றும் ஒரு-முறை இறுதி போனஸ் 2,000 XP மற்றும் 1,500 Ringgit**.
 
-The finale. Must be done in order. By the time you finish this, you'll have sampled almost everything the game offers. The finale bonus only pays out for this quest.
+இறுதி. வரிசையாக செய்யப்பட வேண்டும். நீங்கள் இதை முடிக்கும் நேரத்தில், விளையாட்டு வழங்கும் கிட்டத்தட்ட எல்லாவற்றையும் நீங்கள் சுவைத்திருப்பீர்கள். இறுதி போனஸ் இந்த பணிக்கு மட்டுமே செலுத்தப்படுகிறது.
 
-## Total rewards
+## மொத்த வெகுமதிகள்
 
-If you complete the entire chain:
+நீங்கள் முழு தொடரையும் முடித்தால்:
 
-- **5,750 XP** in player-level experience (3,750 from individual quests + 2,000 finale bonus).
-- **4,400 Ringgit** to your bank account (2,900 from individual quests + 1,500 finale bonus).
+- **5,750 XP** விளையாட்டாளர்-நிலை அனுபவம் (தனிப்பட்ட பணிகளிலிருந்து 3,750 + 2,000 இறுதி போனஸ்).
+- **4,400 Ringgit** உங்கள் வங்கிக் கணக்கிற்கு (தனிப்பட்ட பணிகளிலிருந்து 2,900 + 1,500 இறுதி போனஸ்).
 
-That's enough XP to push past player level 10, and enough Ringgit to buy a Tier 3 house, a mid-range trawler, or most civilian vehicles outright.
+அது விளையாட்டாளர் நிலை 10-ஐ கடக்க போதுமான XP, மேலும் ஒரு Tier 3 வீடு, ஒரு நடுத்தர-வரம்பு trawler, அல்லது பெரும்பாலான குடிமை வாகனங்களை நேரடியாக வாங்கப் போதுமான Ringgit.
 
-## Viewing quest progress
+## பணி முன்னேற்றத்தைப் பார்ப்பது
 
-Open the **Quest** app on your phone:
+உங்கள் தொலைபேசியில் **Quest** ஆப்பைத் திறக்கவும்:
 
-- **Active quest** - the one you're currently working on.
-- **Step list** - with checkboxes for completed steps.
-- **Locked quests** - greyed out until earlier ones are done.
-- **Completed quests** - with a badge.
+- **செயலில் உள்ள பணி** - நீங்கள் தற்போது பணியாற்றிக் கொண்டிருப்பது.
+- **படி பட்டியல்** - முடிக்கப்பட்ட படிகளுக்கு செக்பாக்ஸ்களுடன்.
+- **பூட்டப்பட்ட பணிகள்** - முந்தையவை முடியும் வரை சாம்பல் நிறத்தில் காட்டப்படும்.
+- **முடிக்கப்பட்ட பணிகள்** - ஒரு பேட்ஜுடன்.
 
-## Quest waypoints
+## பணி வழிப்புள்ளிகள்
 
-The game automatically sets minimap waypoints for quest steps that need a specific location:
+ஒரு குறிப்பிட்ட இடம் தேவைப்படும் பணி படிகளுக்கு விளையாட்டு தானாகவே சிறு-வரைபட வழிப்புள்ளிகளை அமைக்கிறது:
 
-- "Spawn a vehicle" - points to the nearest vehicle spawner.
-- "Buy something" - points to the nearest shop.
-- "Clock in" - points to the nearest career station.
-- "Start fishing specifically" - points to a fishing dock.
+- "Spawn a vehicle" - அருகில் உள்ள வாகன spawner-ஐ சுட்டிக்காட்டுகிறது.
+- "Buy something" - அருகில் உள்ள கடையைச் சுட்டிக்காட்டுகிறது.
+- "Clock in" - அருகில் உள்ள தொழில் நிலையத்தைச் சுட்டிக்காட்டுகிறது.
+- "Start fishing specifically" - ஒரு மீன்பிடி டாக்கைச் சுட்டிக்காட்டுகிறது.
 
-The waypoint auto-clears when you complete the step.
+நீங்கள் படியை முடிக்கும்போது வழிப்புள்ளி தானாகவே அழிக்கப்படும்.
 
-## Dismissing the task card
+## பணி அட்டையை மூடுதல்
 
-If the task card in the top-left is blocking your view (especially on mobile while driving), tap the **chevron (^)** button to collapse it. Your quest progress continues in the background.
+மேல்-இடதில் உள்ள பணி அட்டை உங்கள் பார்வையைத் தடுத்தால் (குறிப்பாக மொபைலில் ஓட்டும்போது), அதைச் சுருக்க **chevron (^)** பொத்தானைத் தட்டுங்கள். உங்கள் பணி முன்னேற்றம் பின்னணியில் தொடரும்.
 
-The task card auto-returns when you open a new quest or complete a step.
+நீங்கள் புதிய பணியைத் திறக்கும்போது அல்லது ஒரு படியை முடிக்கும்போது பணி அட்டை தானாகவே திரும்பும்.
 
-## Tips
+## குறிப்புகள்
 
-- **Do quests in order for max efficiency.** They cascade - a step for Quest 3 might also count for Quest 11's first step.
-- **The ordered lore quests need patience.** If you mess up the order (e.g. you spawn a vehicle before opening your phone for Quest 11), that step won't count. Just do it in the right order.
-- **Reach level 50 in a civilian sector to unlock Service for the "Jack of All Trades" quest.** Otherwise it may remain incomplete.
-- **Quest Ringgit goes to the bank, not your wallet.** Makes sense - you've earned it, it's savings.
-- **You can complete quests passively while doing other activities.** Don't focus-grind them; just play, and they'll tick off naturally.
+- **அதிகபட்ச செயல்திறனுக்காக பணிகளை வரிசையில் செய்யுங்கள்.** அவை தொடர்கின்றன - Quest 3-க்கான ஒரு படி Quest 11-ன் முதல் படிக்கும் கணக்கிடப்படலாம்.
+- **ஒழுங்குபடுத்தப்பட்ட lore பணிகளுக்கு பொறுமை தேவை.** வரிசையை நீங்கள் குழப்பிவிட்டால் (எ.கா. Quest 11-க்காக தொலைபேசியைத் திறப்பதற்கு முன் வாகனத்தை spawn செய்தால்), அந்தப் படி கணக்கிடப்படாது. சரியான வரிசையில் மட்டும் செய்யுங்கள்.
+- **"Jack of All Trades" பணிக்காக Service-ஐ திறக்க குடிமைத் துறையில் நிலை 50-ஐ எட்டுங்கள்.** இல்லையெனில் அது முடிக்கப்படாமலேயே இருக்கலாம்.
+- **பணி Ringgit வங்கிக்குச் செல்கிறது, உங்கள் பணப்பையில் அல்ல.** அர்த்தமுள்ளது - நீங்கள் அதை சம்பாதித்துள்ளீர்கள், அது சேமிப்பு.
+- **மற்ற செயல்பாடுகளைச் செய்யும்போது நீங்கள் பணிகளை செயலற்ற முறையில் முடிக்கலாம்.** அவற்றை கவனமாக grind செய்ய வேண்டாம்; வெறுமனே விளையாடுங்கள், அவை இயற்கையாகவே நிறைவேறும்.
 
-## What next?
+## அடுத்தது என்ன?
 
-- [Getting Started](/sumaya/get-started) for the rest of the onboarding.
-- [Phone and UI](/sumaya/phone) for the Quest app interface.
-- [Progression](/sumaya/progression) for how the XP converts to levels.
+- [Getting Started](/sumaya/get-started) மற்ற ஆன்போர்டிங்கிற்காக.
+- [Phone and UI](/sumaya/phone) Quest ஆப் இடைமுகத்திற்காக.
+- [Progression](/sumaya/progression) XP எவ்வாறு நிலைகளாக மாற்றப்படுகிறது என்பதற்காக.

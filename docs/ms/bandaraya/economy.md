@@ -1,104 +1,103 @@
 ---
-title: Economy
+title: Ekonomi
 description: >-
-  How the Bandaraya Ringgit (BR) economy works — earning, banking, transferring
-  BR, and developer products.
+  Bagaimana ekonomi Bandar Ringgit (BR) berfungsi — memperoleh, perbankan,
+  memindahkan BR, dan produk pembangun.
 lang: ms
 translated_from_hash: ae4fab89
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Ekonomi
 
-# Economy
-
-Bandaraya runs on **BR (Bandar Ringgit)**. You earn it working, spend it on shops, services, and vehicles. Robux can also buy BR via developer products, or unlock permanent perks via gamepasses.
+Bandaraya beroperasi dengan **BR (Bandar Ringgit)**. Anda memperolehinya dengan bekerja, dan membelanjakannya di kedai, perkhidmatan, dan kenderaan. Robux juga boleh membeli BR melalui produk pembangun, atau membuka kunci kelebihan kekal melalui gamepass.
 
 ## TL;DR
 
-- The main currency is **BR** — your "cash" wallet.
-- A second wallet, the **CAG card**, is stored-value only for **buses, MRT, and tolls**. See [Getting Around](/bandaraya/getting-around). You can't cash out from CAG.
-- Earn BR via jobs (POS, Taxi, Tow, Bus), police/emergency response, or by buying BR with Robux.
-- Spend BR at shops, the dealership, TapNGo gates, clamp removals, and summons.
+- Mata wang utama ialah **BR** — dompet "tunai" anda.
+- Dompet kedua, **kad CAG**, hanya bernilai simpanan untuk **bas, MRT, dan tol**. Lihat [Pergerakan](/bandaraya/getting-around). Anda tidak boleh mengeluarkan wang tunai dari CAG.
+- Peroleh BR melalui pekerjaan (POS, Teksi, Tunda, Bas), tindak balas polis/kecemasan, atau dengan membeli BR menggunakan Robux.
+- Belanjakan BR di kedai, dealership, pintu TapNGo, pembukaan klem, dan saman.
 
 ---
 
-## Your two wallets
+## Dua dompet anda
 
-| Wallet | For | How to top up |
+| Dompet | Untuk | Cara tambah nilai |
 | --- | --- | --- |
-| **BR cash** | Shops, dealership, fuel, tolls, summons, clamps — everything. | Jobs, BR developer products (Robux), transfers. |
-| **CAG card** | Buses (5 BR flat), MRT/Monorail (discounted), TapNGo (20% off). | Top-ups at CAG kiosks, 20 / 50 / 100 / 200 / 500 BR at a time. Max 2000 BR. |
+| **Tunai BR** | Kedai, dealership, minyak, tol, saman, klem — semuanya. | Pekerjaan, produk pembangun BR (Robux), pemindahan. |
+| **Kad CAG** | Bas (5 BR rata), MRT/Monorel (diskaun), TapNGo (diskaun 20%). | Tambah nilai di kiosk CAG, 20 / 50 / 100 / 200 / 500 BR setiap kali. Maksimum 2000 BR. |
 
-One-way rule: **you can't convert CAG back to cash.** Top up what you'll use.
+Peraturan sehala: **anda tidak boleh menukar CAG kembali menjadi tunai.** Tambah nilai mengikut keperluan anda.
 
 ---
 
-## Earning BR
+## Memperoleh BR
 
-| Source | Team / requirement | Earnings |
+| Sumber | Pasukan / keperluan | Pendapatan |
 | --- | --- | --- |
-| **Postal Service (POS)** | Any | **70 BR** at Level 1, **260 BR** at Level 20 (max). See [Jobs](/bandaraya/jobs#postal-service-pos). |
-| **Taxi Driver** | Taxi Services team **or** Taxi Driver gamepass (150 R$) | Per completed trip. See [Jobs](/bandaraya/jobs#taxi-driver). |
-| **Towing Services** | Towing Services team | Clamp fees, tow jobs. See [Jobs](/bandaraya/jobs#towing). |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services | Per route. Drivers ride free. |
-| **Developer products** | Any | Robux → BR. See table below. |
-| **Gift from another player** | Any | Via in-game **MyPay** phone app. See [Phone](/bandaraya/phone#mypay--send-br-to-another-player). |
+| **Perkhidmatan Pos (POS)** | Mana-mana | **70 BR** pada Tahap 1, **260 BR** pada Tahap 20 (maksimum). Lihat [Pekerjaan](/bandaraya/jobs#postal-service-pos). |
+| **Pemandu Teksi** | Pasukan Taxi Services **atau** gamepass Taxi Driver (150 R$) | Setiap perjalanan yang selesai. Lihat [Pekerjaan](/bandaraya/jobs#taxi-driver). |
+| **Perkhidmatan Tunda** | Pasukan Towing Services | Yuran klem, kerja tunda. Lihat [Pekerjaan](/bandaraya/jobs#towing). |
+| **Pemanduan bas** | MyTransit / FirstGroup / Fermuda / Bus Services | Setiap laluan. Pemandu menaiki secara percuma. |
+| **Produk pembangun** | Mana-mana | Robux → BR. Lihat jadual di bawah. |
+| **Hadiah daripada pemain lain** | Mana-mana | Melalui aplikasi telefon **MyPay** dalam permainan. Lihat [Telefon](/bandaraya/phone#mypay--send-br-to-another-player). |
 
-HCC gamepass provides an **income boost** on top of the above.
+Gamepass HCC memberikan **rangsangan pendapatan** di atas pendapatan di atas.
 
-For non-job earnings — police, BOMBA, KKM, SJAM, MAF — the point is roleplay, not BR farming. Those teams don't pay a direct salary; they get operational tools and vehicles.
+Untuk pendapatan bukan pekerjaan — polis, BOMBA, KKM, SJAM, MAF — tujuannya ialah roleplay, bukan meraih BR. Pasukan-pasukan itu tidak membayar gaji secara langsung; mereka mendapat alat operasi dan kenderaan.
 
 ---
 
-## Spending BR
+## Membelanjakan BR
 
-### Shops (NPC shops around KL)
+### Kedai (kedai NPC di sekitar KL)
 
-| Shop | What they sell | Cooldown |
+| Kedai | Apa yang dijual | Tempoh sejuk |
 | --- | --- | --- |
-| **Ammulaysia** | Firearms | 5-minute cooldown between purchases. Requires **Firearms Licence** gamepass (1,250 R$). |
-| **Illegal Dealer (Hacker)** | Black market items | 5-minute cooldown, and also 5 min after you reset/rejoin. |
-| **Vastrix** | Clothing, accessories | — |
-| **Convenience Store** | General items | — |
-| **Tehlife** | Ice cream, milk | — |
-| **Lickers** | Drinks | — |
-| **Costume** | Outfits | — |
-| **Toolkit** | Tools | — |
-| **Art** | Art items | — |
-| **Bartender** | Drinks | — |
-| **Kilo's Kebabs** | Food | — |
-| **KeluargaMart** | General items | — |
-| **Signs** | Signs | — |
+| **Ammulaysia** | Senjata api | Tempoh sejuk 5 minit antara pembelian. Memerlukan gamepass **Firearms Licence** (1,250 R$). |
+| **Illegal Dealer (Hacker)** | Barang pasaran gelap | Tempoh sejuk 5 minit, dan juga 5 minit selepas anda reset/masuk semula. |
+| **Vastrix** | Pakaian, aksesori | — |
+| **Convenience Store** | Barang umum | — |
+| **Tehlife** | Aiskrim, susu | — |
+| **Lickers** | Minuman | — |
+| **Costume** | Pakaian | — |
+| **Toolkit** | Alat | — |
+| **Art** | Barang seni | — |
+| **Bartender** | Minuman | — |
+| **Kilo's Kebabs** | Makanan | — |
+| **KeluargaMart** | Barang umum | — |
+| **Signs** | Papan tanda | — |
 
-Walk up to the shop, the UI opens, pick an item, confirm.
+Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 
 ### Dealership
 
-The **Classic Car Dealer** sells civilian cars: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, and more. Prices vary per model. See [Vehicles](/bandaraya/vehicles#dealership).
+**Classic Car Dealer** menjual kereta awam: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, dan banyak lagi. Harga berbeza mengikut model. Lihat [Kenderaan](/bandaraya/vehicles#dealership).
 
-- **Buy** — permanent. Saved to your account and auto-saves every 30 seconds.
-- **Rent** — temporary use.
-- **Paint** — colour customization, glossy or matte.
+- **Beli** — kekal. Disimpan ke akaun anda dan auto-simpan setiap 30 saat.
+- **Sewa** — kegunaan sementara.
+- **Cat** — penyesuaian warna, berkilat atau matte.
 
-### Transport & services
+### Pengangkutan & perkhidmatan
 
-| Service | Cost |
+| Perkhidmatan | Kos |
 | --- | --- |
-| **TapNGo highway gate** | 15 BR cash / 12 BR with CAG card (20% off). |
-| **Bus boarding** | 5 BR cash-equivalent (always charged to CAG if you have one; free with monthly pass). |
-| **MRT / Monorail fast travel** | Varies by route. CAG card gets 30% off, 50% with monthly pass. |
-| **Clamp removal** | **500 BR**. Happens after a tow operator clamps your vehicle. |
-| **Summons (Saman)** | Variable — a police officer issues an on-screen summons with a BR fine. |
+| **Pintu lebuh raya TapNGo** | 15 BR tunai / 12 BR dengan kad CAG (diskaun 20%). |
+| **Naik bas** | Bersamaan 5 BR tunai (sentiasa dicaj ke CAG jika anda ada satu; percuma dengan pas bulanan). |
+| **Perjalanan pantas MRT / Monorel** | Berbeza mengikut laluan. Kad CAG mendapat diskaun 30%, 50% dengan pas bulanan. |
+| **Pembukaan klem** | **500 BR**. Berlaku selepas operator tunda mengklem kenderaan anda. |
+| **Saman** | Berubah-ubah — pegawai polis mengeluarkan saman di skrin dengan denda BR. |
 
-See [Getting Around](/bandaraya/getting-around) for transit pricing.
+Lihat [Pergerakan](/bandaraya/getting-around) untuk harga transit.
 
 ---
 
-## Developer products (buy BR with Robux)
+## Produk pembangun (beli BR dengan Robux)
 
-Open via the Robux shop / in-game purchase prompts.
+Buka melalui kedai Robux / gesaan pembelian dalam permainan.
 
-| Product | Robux | BR |
+| Produk | Robux | BR |
 | --- | --- | --- |
 | BR 5,000 | R$ 50 | 5,000 |
 | BR 10,000 | R$ 100 | 10,000 |
@@ -106,38 +105,38 @@ Open via the Robux shop / in-game purchase prompts.
 | BR 40,000 | R$ 400 | 40,000 |
 | BR 80,000 | R$ 800 | 80,000 |
 
-These are consumable. Buy them when you want to skip the grind for a specific big purchase (a car, a CAG monthly pass, ammunition).
+Ini adalah produk guna habis. Belilah apabila anda mahu melangkau kerja kasar untuk pembelian besar tertentu (kereta, pas bulanan CAG, peluru).
 
 ---
 
-## Gamepasses (one-time unlocks)
+## Gamepass (buka kunci satu kali)
 
-See the dedicated [Gamepasses](/bandaraya/gamepasses) page for the full breakdown. Quick list:
+Lihat halaman khusus [Gamepasses](/bandaraya/gamepasses) untuk pemecahan penuh. Senarai ringkas:
 
-| Gamepass | Robux | What you get |
+| Gamepass | Robux | Apa yang anda dapat |
 | --- | --- | --- |
-| **Car Radio** | 100 | Play music in your vehicle. |
-| **Firearms Licence** | 1,250 | Buy at Ammulaysia. |
-| **High Class Citizen** | 3,000 | Income boost, luxury cars, HCC team. |
-| **Taxi Driver** | 150 | Drive taxis, join Taxi Services team. |
+| **Car Radio** | 100 | Mainkan muzik dalam kenderaan anda. |
+| **Firearms Licence** | 1,250 | Beli di Ammulaysia. |
+| **High Class Citizen** | 3,000 | Rangsangan pendapatan, kereta mewah, pasukan HCC. |
+| **Taxi Driver** | 150 | Pandu teksi, sertai pasukan Taxi Services. |
 
-Gamepasses stay with you across sessions.
+Gamepass kekal bersama anda merentasi sesi.
 
 ---
 
-## Tips & gotchas
+## Petua & perkara penting
 
-- **Don't stockpile CAG.** The money is stuck there. Put cash in, ride.
-- **Got summoned? Pay it.** Unpaid fines still sit in the summons viewer. And no, you can't judicial-review your way out.
-- **Bought a car? It auto-saves.** Colour, plate, and ownership persist across sessions.
-- **HCC is a big BR multiplier** if you do any jobs at all — worth the Robux if you're a long-term player.
-- **POS levels up slowly but reliably.** Level 20 is the cap (260 BR per delivery). Good long-term grind.
-- **Gun-store cooldown resets on rejoin.** You can't dodge the 5-minute timer by leaving.
+- **Jangan simpan CAG berlebihan.** Wang terperangkap di situ. Masukkan tunai, naik kenderaan.
+- **Dapat saman? Bayar.** Denda yang tidak dibayar masih tinggal di pemapar saman. Dan tidak, anda tidak boleh membuat semakan kehakiman untuk keluar.
+- **Beli kereta? Ia auto-simpan.** Warna, plat, dan pemilikan kekal merentasi sesi.
+- **HCC ialah pengganda BR yang besar** jika anda melakukan sebarang pekerjaan — berbaloi dengan Robux jika anda pemain jangka panjang.
+- **POS naik tahap perlahan tetapi boleh dipercayai.** Tahap 20 ialah had (260 BR setiap penghantaran). Kerja kasar jangka panjang yang baik.
+- **Tempoh sejuk kedai senjata set semula apabila masuk semula.** Anda tidak boleh mengelak pemasa 5 minit dengan keluar.
 
-## See also
+## Lihat juga
 
-- [Jobs](/bandaraya/jobs) — earning BR
-- [Gamepasses](/bandaraya/gamepasses) — HCC, Firearms Licence, etc.
-- [Vehicles](/bandaraya/vehicles) — dealership + fuel
-- [Getting Around](/bandaraya/getting-around) — CAG card, transit fares
-- [Arrest & Law](/bandaraya/arrest-and-law) — summons
+- [Pekerjaan](/bandaraya/jobs) — memperoleh BR
+- [Gamepass](/bandaraya/gamepasses) — HCC, Firearms Licence, dll.
+- [Kenderaan](/bandaraya/vehicles) — dealership + minyak
+- [Pergerakan](/bandaraya/getting-around) — kad CAG, tambang transit
+- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) — saman

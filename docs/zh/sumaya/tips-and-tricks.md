@@ -1,192 +1,191 @@
 ---
-title: Tips and Tricks
-description: 'Hidden interactions, mobile quirks, and expert tips for Sumaya.'
+title: 小贴士
+description: Sumaya 的隐藏互动、移动端小窍门与高手建议。
 lang: zh
 translated_from_hash: 2c82a6a8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 小贴士
 
-# Tips and Tricks
+一些不太明显的东西,能帮你省时间或让你看起来很内行。这里的所有内容在游戏机制上都是真实的 - 没有民间传说。
 
-Non-obvious stuff that'll save you time or make you look smart. Everything here is mechanically real - no folklore.
+## 小地图技巧
 
-## Minimap tricks
+### 长按以放置自定义路径点
 
-### Long-press to drop custom waypoints
+打开**全屏小地图**(点击小地图,或点击展开按钮)。然后在地图上任意位置**长按**(大约半秒钟)即可放置自定义路径点。你可以:
 
-Open the **full-screen minimap** (click the minimap, or tap the expand button). Then **long-press** (about half a second) anywhere on the map to drop a custom waypoint. You can:
+- **重命名**它。
+- **更改其颜色**。
+- **删除**它。
 
-- **Rename** it.
-- **Change its color**.
-- **Delete** it.
+路径点**跨会话保留**,所以把你最喜欢的钓鱼点标记一次,它就永远在那里。
 
-Waypoints **persist across sessions**, so mark your favorite fishing spot once and it's there forever.
+### F 键适配所有路径点
 
-### F to fit all waypoints
+在全屏地图中,按 **F** 键缩小视图,让**所有路径点**一次性适配在视野中。非常适合规划多点行程。
 
-In the full-screen map, press **F** to zoom out to fit **all your waypoints** in view at once. Great for planning a multi-stop trip.
+### 引导光束跟随最近的路径点
 
-### Guidance beam follows the nearest waypoint
+从你角色发出的彩色光束是游戏指向当前**最重要路径点**的方式 - 任务步骤、活跃的火灾、999 通话。如果你想暂时覆盖它,设置一个优先级更高的自定义路径点(或者直接忽略它)。
 
-The colored beam from your character is the game's way of pointing at the **most important waypoint** right now - a quest step, an active fire, a 999 call. If you want to override it temporarily, set a custom waypoint with higher priority (or just ignore it).
+## 手机技巧
 
-## Phone tricks
+### 你以 passive 状态开始,犯罪工具会让你退出
 
-### You start passive, and crime tools drop you out
+新玩家默认以 **passive 状态**出生 — 你是无敌的,直到你故意关闭它(或拿起 Slim Jim / Pickpocket Knife,它会自动让你退出 passive)。关掉后就保持关闭,直到你再次切换。
 
-New players spawn **passive by default** — you're invulnerable until you deliberately turn it off (or pick up a Slim Jim / Pickpocket Knife, which auto-drops you out of passive). Flipping it off stays off until you toggle back.
+**你无法重新启用 passive 如果:**
+- 你正拿着犯罪工具(先丢下它)。
+- 你当前被通缉(等 5 分钟衰减)。
+- 你是 POLIS 警察(警察永远不是 passive — 这是团队属性)。
+- 你处于最近碰撞/超速/犯罪后的 **passive 锁定**中(时长随星级变化 — 参见[犯罪与法律](/sumaya/crime-and-law))。
 
-**You can't re-enable passive if:**
-- You're holding a crime tool (drop it first).
-- You're currently wanted (wait for the 5-minute decay).
-- You're a POLIS officer (cops are never passive — it's a team property).
-- You're within a **passive lock** after a recent crash/speeding/crime (duration scales with star level — see [Crime and Law](/sumaya/crime-and-law)).
+### 碰撞切换以穿过停车
 
-### Collision toggle to phase through parking
+被玩家停放的车堵在后面?打开手机上的 **Collision** 应用并禁用碰撞。你的车辆现在可以穿过其他车辆。开出去,重新启用碰撞。
 
-Stuck behind a player's parked car? Open the **Collision** app on your phone and disable collisions. Your vehicle now phases through others. Drive out, re-enable collisions.
+### 相机应用在游戏内捕捉
 
-### Camera app captures in-game
+手机上的 **Camera** 应用拍摄游戏世界中的截图。适合:
 
-The **Camera** app on your phone takes in-world screenshots. Good for:
+- 展示你的房子。
+- 捕捉角色扮演时刻。
+- 记录 5 星逮捕作为回忆。
 
-- Showcasing your house.
-- Capturing roleplay moments.
-- Recording a 5-star arrest for the memories.
+### 关闭任务卡
 
-### Dismiss the task card
+任务卡(左上角)可能会遮挡移动驾驶控制。点击卡上的 **chevron (^)** 图标将其折叠到最小尺寸。再次点击以重新展开。任务进度无论哪种方式都会继续。
 
-The task card (top-left) can cover mobile driving controls. Tap the **chevron (^)** icon on the card to collapse it to a minimum size. Tap again to re-expand. Quest progress continues either way.
+## 驾驶技巧
 
-## Driving tricks
+### 警报 = 不罚单
 
-### Sirens = no tickets
+如果你在**开启警报的 Polis、Bomba 或 Kesihatan 车辆**中,你自动免除超速和碰撞罪行。响应时打开警报。停车时关闭它,这样其他人就不会以为你还在出勤。
 
-If you're in a **Polis, Bomba, or Kesihatan vehicle with the siren active**, you're automatically exempt from speeding and crash offences. Flip the siren on when you're responding. Flip it off when you park, so others don't think you're still on a call.
+### 免费民用车
 
-### Free civilian cars
+大多数民用车免费出现(无租金,无购买价)。别浪费 Ringgit 去租 Protan Wira,同一辆车在同一出生点是免费的。付款前检查"free"栏。
 
-Most civilian cars spawn free (no rent, no buy price). Don't waste Ringgit renting a Protan Wira when the same car is free at the same spawner. Check the "free" column before paying.
+### 当班时拖网船免费
 
-### Trawlers are free on shift
+只要你在 Fishing Sector 打卡上班,Tier 1 拖网船免费出现。你只需为更大的 Tier 2(25k)和 Tier 3(37k)拖网船付钱。
 
-The Tier 1 Trawler spawns for free as long as you're clocked in to the Fishing Sector. You only pay for the bigger Tier 2 (25k) and Tier 3 (37k) trawlers.
+## 金钱技巧
 
-## Money tricks
+### 把大钱存银行
 
-### Bank your big money
+你的**钱包**可能被扒(每次偷 80-300 SR)。**银行**不能。钱包里放大约 500 SR 用于购物,其余存起来。
 
-Your **wallet** can be pickpocketed (80-300 SR stolen at a time). The **bank** can't. Keep maybe 500 SR in your wallet for shops, stash the rest.
+### 里程碑奖金时机
 
-### Milestone bonus timing
+不要在扑灭 14 场火、完成 9 次治疗或 4 次逮捕时结束你的会话。再一个动作就能获得里程碑奖金:
 
-Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrests made. One more action gets you the milestone bonus:
+- Bomba:**15 个街区 +150 SR。**
+- Kesihatan:**10 次治疗 +150 SR。**
+- Polis:**5 次逮捕 +200 SR。**
 
-- Bomba: **+150 SR at 15 blocks.**
-- Kesihatan: **+150 SR at 10 treatments.**
-- Polis: **+200 SR at 5 arrests.**
+### 帮 Bomba 获得被动 XP
 
-### Help Bomba for passive XP
+如果你是 POLIS 或 Kesihatan,并站在活跃火灾的 **512 studs** 内,当 Bomba 消防员扑灭街区时,你什么都不做也能获得**每街区 10 玩家 XP**。非常适合在等待罪犯或病人时刷分。
 
-If you're POLIS or Kesihatan and stand within **512 studs** of an active fire while Bomba firefighters extinguish blocks, you earn **10 player XP per block** without doing anything. Good for grinding while waiting for criminals or patients.
+### 5 星逮捕值得蹲守
 
-### 5-star arrests are worth camping
+一次 5 星逮捕 = 400 XP + 1,200 Ringgit 给执行逮捕的警官,200 XP / 600 Ringgit 给附近任何警官。如果有人在贩运 Hornbill 并扒窃玩家,他们会很快积累星级。做好准备。
 
-A single 5-star arrest = 400 XP + 1,200 Ringgit to the arresting officer, and 200 XP / 600 Ringgit to any nearby officer. If someone's trafficking Hornbills and pickpocketing players, they'll rack up stars fast. Be ready.
+## 任务技巧
 
-## Quest tricks
+### 任务在后台触发
 
-### Quests trigger in the background
+你不需要专注于任务。它们会在你正常游玩时自动完成。只需偶尔打开 **Quest** 应用以领取奖励。
 
-You don't need to focus on quests. They auto-complete as you play normally. Just make sure to open the **Quest app** occasionally to claim rewards.
+### 背景故事任务的有序步骤
 
-### Ordered steps for lore quests
+最后两个任务("A Day in Sumaya"、"The Ringgit Grind")有**严格的步骤顺序**。如果你在查看手机前就召唤车辆,车辆步骤不会被计算。按顺序阅读步骤列表,一个一个做。
 
-The last two quests ("A Day in Sumaya", "The Ringgit Grind") have **strict step order**. If you spawn a vehicle before checking your phone, the vehicle-step won't count. Read the step list in order and do them one at a time.
+### 服务行业需要 50 级
 
-### Service sector requires level 50
+"Jack of All Trades" 任务要求你体验所有三个民用行业。Service(Mamak/快餐)需要**另一个行业达到 50 级**才能解锁。如果你无法在这个任务上推进,这就是原因 - 先去刷钓鱼或棕榈油到 50 级。
 
-The "Jack of All Trades" quest asks you to sample all three civilian sectors. Service (Mamak/Fast Food) requires **level 50 in another sector** to unlock. If you can't progress on this quest, that's why - go grind fishing or palm oil to level 50 first.
+## Kesihatan 技巧
 
-## Kesihatan tricks
+### +15% XP 提升惠及所有人
 
-### +15% XP boost benefits everyone
+当 Kesihatan 启动伤害系统时,只要它激活,server 上的**所有玩家**都获得 +15% 玩家等级 XP。该提升不影响行业 XP。如果你看到提升处于激活状态,那是刷分的好时机。
 
-When Kesihatan activates the injury system, **all players** on the server get +15% player-level XP for as long as it's active. The boost doesn't affect sector XP. If you see the boost active, it's a great time to grind.
+### TBI 治疗一旦上床就不用管
 
-### TBI treatment is hands-off once bedded
+创伤性脑损伤治疗需要病人躺在医疗床上 30 秒。当计时器运行时,**你可以治疗其他病人**。别只是站着看。
 
-Traumatic Brain Injury treatment requires the patient to lie on a medical bed for 30 seconds. While that timer runs, **you can treat other patients**. Don't just stand watching.
+## 住房技巧
 
-## Housing tricks
+### 出售退还 70%
 
-### 70% refund on sale
+你可以以**支付价格的 70%**出售你的房子。所以 Tier 3 Modern Terrace(1,200 SR)的实际"试用成本"是 360 SR - 游戏保留 30%。不便宜,但也不致破产。
 
-You can sell your house for **70% of what you paid**. So the effective "cost of trying" a Tier 3 Modern Terrace (1,200 SR) is 360 SR - the 30% the game keeps. Not cheap, but not ruinous.
+### 一次一块地
 
-### One plot at a time
+系统强制执行**每个玩家 1 块地**的限制。别想囤积。
 
-The system enforces a **1 plot per player** limit. Don't try to hoard.
+### 家具自动保存
 
-### Furniture saves automatically
+放置家具,走开。它被保存了。无需确认。
 
-Place furniture, walk away. It's saved. No confirmation needed.
+## 犯罪技巧
 
-## Crime tricks
+### 投降将牢房时间减半
 
-### Surrender cuts jail time in half
+与其逃离警察,找一个**投降提示**(通常在警察局附近)并自首。你的牢房时间大约减半:
 
-Instead of running from cops, find a **surrender prompt** (usually near police stations) and turn yourself in. Your jail time is roughly halved:
+- 5 星逮捕:5 分钟坐牢。
+- 5 星投降:150 秒坐牢。
 
-- 5-star arrest: 5 minutes in jail.
-- 5-star surrender: 150 seconds in jail.
+释放后你确实会有 passive 锁定,但仍然短得多。
 
-You do get a passive lock after release, but it's still way shorter.
+### 被通缉时不要登出
 
-### Don't log out while wanted
+如果你在犯罪中途离开,**LTAA**(Leave To Avoid Arrest)系统会在你回来时给你更长的牢房时间:
 
-If you leave mid-offence, the **LTAA** (Leave To Avoid Arrest) system hits you with longer jail on return:
+- 正常 5 星牢房:5 分钟。
+- LTAA 5 星牢房:6 分钟。
 
-- Normal 5-star jail: 5 min.
-- LTAA 5-star jail: 6 min.
+退出没用。服刑或投降。
 
-Quitting doesn't help. Serve or surrender.
+### 如果你躲起来就会衰减
 
-### Decay if you hide
+如果你 **5 分钟**内没有犯下新罪行,你的通缉状态将完全清除。完成 Hornbill 跑动,把 2,000 SR 存入银行,然后低调行事 - 不要飞速回到你上次犯罪的现场。
 
-If you commit no new offences for **5 minutes**, your wanted status fully clears. Commit the Hornbill run, bank the 2,000 SR, then lay low - don't speed back to the scene of your last crime.
+## 移动端提示
 
-## Mobile tips
+### 折叠 HUD 元素
 
-### Collapse HUD elements
+任务卡和手机都占用屏幕空间。折叠你没在积极使用的东西。在每个像素都很重要的追逐场景中特别有帮助。
 
-Task card and phone both eat screen space. Collapse what you're not actively using. Especially helpful during a chase sequence where every pixel matters.
+### 双击以冲刺
 
-### Double-tap to sprint
+在大多数移动端设置中,双击摇杆以切换冲刺。比按住冲刺按钮更符合人体工程学。
 
-On most mobile setups, double-tap the joystick to toggle sprint. Much more ergonomic than holding a sprint button.
+### 手机相机不能缩放
 
-### Phone camera isn't zoomable
+游戏内相机应用以固定取景拍摄截图。如果你想要电影般的镜头,使用 **Cinematic** 应用获取自由漫游相机视图,然后在外部截图。
 
-The in-game camera app takes screenshots at a fixed framing. If you want cinematic shots, use the **Cinematic** app for a free-roaming camera view, then screenshot externally.
+## 角色扮演技巧
 
-## Roleplay tricks
+### 对话用 passive 模式
 
-### Passive mode for conversations
+如果你想进行角色扮演对话,开启 passive 模式。没人能打你、抢你车或把你拖入战斗。完成后再关回去。
 
-If you're trying to have a roleplay conversation, flip passive mode on. No one can hit you, carjack you, or drag you into combat. Flip back off when you're done.
+### 999 通话提升沉浸感
 
-### 999 calls for immersion
+任何平民都可以拨打 999 并**输入自定义消息**描述紧急情况。紧急团队在 MDT 中看到你的通话及其位置。非常适合设置角色扮演场景(报告抢劫、呼叫火灾、请求医疗撤离)。
 
-Any civilian can dial 999 and **type a custom message** describing the emergency. Emergency teams see your call in the MDT with your location. Great for setting up roleplay scenarios (report a robbery, call a fire, request medical evac).
+### 灯光和门营造氛围
 
-### Lights and doors for ambience
+你的房子有可切换的灯光和门。关灯拍黄昏截图。"下班"在家时锁门。游戏内派对时解锁。
 
-Your house has togglable lights and doors. Leave lights off for a dusk screenshot. Lock doors when you're home "off duty". Unlock them for in-game parties.
+## 下一步做什么?
 
-## What next?
-
-- [Phone and UI](/sumaya/phone) for more detail on every phone app.
-- [Crime and Law](/sumaya/crime-and-law) for the surrender, decay, and passive lock details.
-- [Progression](/sumaya/progression) for the XP math behind the Kesihatan boost.
+- [手机与 UI](/sumaya/phone) 了解每个手机应用的更多详情。
+- [犯罪与法律](/sumaya/crime-and-law) 了解投降、衰减和 passive 锁定详情。
+- [进阶](/sumaya/progression) 了解 Kesihatan 提升背后的 XP 数学。

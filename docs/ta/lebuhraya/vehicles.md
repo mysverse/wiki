@@ -1,133 +1,152 @@
 ---
-title: Vehicles
+title: வாகனங்கள்
 description: >-
-  All 127 vehicle models in Lebuhraya — spawning, fuel, crashing, and
-  customization.
+  Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் — உருவாக்கம், எரிபொருள்,
+  விபத்து, மற்றும் தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: f3c95fcd
+translated_from_hash: 56b064fb
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வாகனங்கள்
 
-# Vehicles
+Lebuhraya **127 வாகன மாதிரிகளுடன்** வருகிறது — சிறிய கார்கள், SUVகள், மோட்டார் சைக்கிள்கள், லாரிகள், பேருந்துகள், மற்றும் அவசர / சேவை வகைகளின் நீண்ட பட்டியல். இந்தப் பக்கம் அவற்றை எவ்வாறு உருவாக்குவது, எரிபொருள் நிரப்பி வைப்பது, விபத்து ஏற்படும்போது என்ன செய்வது, மற்றும் கேரேஜில் உள்ளவற்றின் ஒரு மாதிரியை விளக்குகிறது.
 
-Lebuhraya ships with **127 vehicle models** — compact cars, SUVs, motorcycles, trucks, buses, and a long list of emergency / service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
+## வாகனத்தை உருவாக்குதல்
 
-## Spawning a vehicle
+**MyPod** மெனுவைத் (வாகன ஸ்பானர்) திறக்கவும்.
 
-Open the **MyPod** menu (vehicle spawner).
+- **டெஸ்க்டாப்**: மேல்பட்டியில் உள்ள MyPod சின்னத்தைக் கிளிக் செய்க
+- **மொபைல்**: மேல் தொகுப்பில் உள்ள சின்னத்தைத் தட்டவும்
 
-- **Desktop**: click the MyPod icon on the topbar
-- **Mobile**: tap the icon in the top cluster
+பட்டியலை உலாவி, ஒரு வாகனத்தைத் தேர்ந்தெடுத்து **Spawn** என்பதைக் கிளிக் செய்யவும். வாகனம் உங்கள் முன் தோன்றும், ஏற்கனவே உங்கள் பெயரில் பதிவு செய்யப்பட்டிருக்கும். ஓட்ட, அருகே சென்று **F** (விசைப்பலகை), **X** (கேம்பேட்), அழுத்தவும், அல்லது **Drive** (மொபைல்) என்பதைத் தட்டவும்.
 
-Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears in front of you, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
+### உரிமை
 
-### Ownership
+- நீங்கள் ஒரு வாகனத்தை உருவாக்கும்போது, நீங்கள் அதன் உரிமையாளராக மாறுகிறீர்கள். உங்கள் பெயர் ஓட்டுநர் இருக்கையில் இருக்கும்.
+- நீங்கள் திறக்காத வரை மற்ற வீரர்கள் **உங்கள் ஓட்டுநர் இருக்கையில் நுழைய முடியாது**.
+- பயணிகள் எப்போதும் பயணிகள் இருக்கையில் நுழையலாம்.
+- நீங்கள் server-ஐ விட்டு வெளியேறும்போது, உங்கள் வாகனம் மறைந்துவிடும்.
+- MyPod மெனுவில் இருந்து உங்கள் சொந்த வாகனத்தை அழிக்கலாம்.
 
-- When you spawn a vehicle, you become its owner. Your name is on the driver seat.
-- Other players **cannot enter your driver seat** unless you unlock it.
-- Passengers can always enter passenger seats.
-- When you leave the server, your vehicle disappears.
-- You can despawn your own vehicle from the MyPod menu.
+## நிலை 1-இல் என்னை என்ன ஓட்டலாம்?
 
-## What can I drive at Level 1?
+ஆரம்பத்திலிருந்தே **27 வாகனங்களுக்கு** உங்களுக்கு அணுகல் உள்ளது — உங்களுக்குப் பிடித்த ஒன்றைக் கண்டுபிடிக்க போதுமானது. மலிவான வாகனம் **Handai EX5** மோட்டார் சைக்கிள் BR 1050-க்கு. Premium / சூப்பர்கார் தொடக்க வாகனங்களில் NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), மற்றும் McLari 750 (BR 3,000) ஆகியவை அடங்கும் — உண்மையில் இருப்பதை விட மலிவானவை, ஆனால் பெரும்பாலானவை "Special" வகை (மேம்படுத்த முடியாதவை). மிகவும் பொதுவான நிலை 1 சிவில் கார்கள் BR 1,800–6,000 சுற்றியில் இருக்கின்றன.
 
-You have access to **27 vehicles** from the start — enough to find something you like. The cheapest is the **Handai EX5** motorcycle at BR 1050. Premium / supercar starters include the NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), and McLari 750 (BR 3,000) — cheaper than they would be in reality, but most are "Special" category (not upgradeable). The more common Level 1 civilian cars sit around BR 1,800–6,000.
+## விலை மற்றும் திறக்கல்கள்
 
-## Pricing and unlocks
+வாகன விலைகள் நிலையுடன் தளர்வாக அளவிடப்படுகின்றன. தோராய வழிகாட்டி:
 
-Vehicle prices scale loosely with level. Rough guide:
-
-| Level | Typical price range |
+| நிலை | வழக்கமான விலை வரம்பு |
 |---|---|
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
-| L125–150+ | BR 17,000 – 25,000 (Prem/Supercar territory) |
+| L125–150+ | BR 17,000 – 25,000 (Prem/சூப்பர்கார் வரம்பு) |
 
-Some team-only vehicles don't have a public price — they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
+சில அணி-மட்டுமே வாகனங்களுக்கு பொது விலை இல்லை — சரியான தொழில் கிளையில் நீங்கள் தரவரிசையில் ஏறும்போது அவை திறக்கப்படும். **உருவாக்கக்கூடிய 117 வாகனங்களில் சுமார் 55** தொழில்-பூட்டப்பட்டவை (சரியான அணியில் சரியான கட்டத்தில் இருக்க வேண்டும்).
 
-About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner — these are the standard civilian choices from Myvi to Mustang.
+வாகன ஸ்பானரில் உள்ள **Dealership** காட்சியின் மூலம் சுமார் **28 வாகனங்கள்** விற்கப்படுகின்றன — இவை Myvi முதல் Mustang வரையிலான நிலையான சிவில் தேர்வுகள்.
 
-## Vehicle categories
+## வாகன வகைகள்
 
-Most of the fleet is loosely parodied from real Malaysian and global brands. If you know a real car, there's probably a stand-in here.
+பெரும்பாலான கப்பற்படை உண்மையான மலேசியா மற்றும் உலகளாவிய பிராண்டுகளிலிருந்து தளர்வாகப் பகடி செய்யப்பட்டுள்ளது. ஒரு உண்மையான கார் உங்களுக்குத் தெரிந்தால், இங்கே ஒரு பதிலாள் இருக்கக்கூடும்.
 
-| Category | Examples |
+| வகை | உதாரணங்கள் |
 |---|---|
-| Compact cars | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
-| Sedans / saloons | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
-| SUVs | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
-| Performance / sports | NSN GT-R, NSN R34 Skyline, Tayoti Supra Mk.5, Masubi Lancer Evo X, Felari 458 Italia, Lampugini Hulakan, Bagaini Chiron |
-| Motorcycles | Handai EX5, Handai CBR1000RR, Kasaki 1400GTR, BMY R1200RT, Vespi |
-| Buses / MPVs | Tayoti Hiace variants, Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
-| Trucks / cargo | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
-| Taxis | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
-| Emergency — Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
-| Emergency — Medical | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
-| Police | Handai Civic Polis/HPV Polis variants, Masubi Lancer HPV Polis, NSN etc. Polis Escort, Kasaki Ninja Polis, BMY M5 CS Polis variants |
-| Tow / workshop | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
-| Electric | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
+| சிறிய கார்கள் | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
+| Sedan / saloon | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
+| SUV | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
+| செயல்திறன் / விளையாட்டு | NSN GT-R, NSN R34 Skyline, Tayoti Supra Mk.5, Masubi Lancer Evo X, Felari 458 Italia, Lampugini Hulakan, Bagaini Chiron |
+| மோட்டார் சைக்கிள்கள் | Handai EX5, Handai CBR1000RR, Kasaki 1400GTR, BMY R1200RT, Vespi |
+| பேருந்துகள் / MPV | Tayoti Hiace வகைகள், Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
+| லாரிகள் / சரக்கு | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
+| டாக்சிகள் | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
+| அவசர — Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
+| அவசர — மருத்துவம் | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
+| காவல்துறை | Handai Civic Polis/HPV Polis வகைகள், Masubi Lancer HPV Polis, NSN போன்ற Polis Escort, Kasaki Ninja Polis, BMY M5 CS Polis வகைகள் |
+| இழுவை / பட்டறை | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
+| மின்சாரம் | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
 
-Most team-specific vehicles (Bomba, KKN, Police) are unlocked through your career progression or team gamepass.
+பெரும்பாலான அணி-குறிப்பிட்ட வாகனங்கள் (Bomba, KKN, காவல்துறை) உங்கள் தொழில் முன்னேற்றம் அல்லது அணி gamepass மூலம் திறக்கப்படுகின்றன.
 
-## Fuel
+## எரிபொருள்
 
-Every vehicle runs on one of three fuel types.
+ஒவ்வொரு வாகனமும் மூன்று எரிபொருள் வகைகளில் ஒன்றில் இயங்குகிறது.
 
-| Fuel | Price per litre |
+| எரிபொருள் | லிட்டருக்கு விலை |
 |---|---|
 | **Electric** | 1 BR |
 | **Petrol** | 2 BR |
 | **Diesel** | 3 BR |
 
-The default tank is **40 litres**. A JerryCan carries 10 litres.
+இயல்புநிலை டேங்க் **40 லிட்டர்**. ஒரு JerryCan 10 லிட்டர் கொண்டுள்ளது.
 
-### Refuelling
+### எரிபொருள் நிரப்புதல்
 
-Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses — if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans — pick the right fuel type before approaching the pump.
+ஒரு பம்பின் அருகே நிறுத்தினால், திரையில் "Pump" அல்லது "Charge" என்ற தூண்டுதல் தோன்றும். உங்கள் வாகனம் பயன்படுத்தும் எரிபொருள் வகைக்கு மட்டுமே தூண்டுதல் தோன்றும் — பெட்ரோல் காரில் டீசல் பம்பின் அருகே சென்றால், விளையாட்டு உங்களுக்கு "this is the wrong type of pump, find a Petrol Pump" என்று கூறுகிறது. JerryCan-களுக்கும் இதேபோல் பொருந்தும் — பம்பை நெருங்குவதற்கு முன் சரியான எரிபொருள் வகையைத் தேர்ந்தெடுக்கவும்.
 
-### Where to refuel
+### எங்கே எரிபொருள் நிரப்புவது
 
-- **PETROMAS Petrol Station** — Northbound and Southbound stations on the highway
-- **Radtrol Petrol Station** — In Bandar Seri Putra
-- **Kompleks Petroliam dan Gas Radtrol** — Large refuelling complex near Jersik
+- **PETROMAS Petrol Station** — நெடுஞ்சாலையில் வடக்கு நோக்கி மற்றும் தெற்கு நோக்கி நிலையங்கள்
+- **Radtrol Petrol Station** — Bandar Seri Putra-வில்
+- **Kompleks Petroliam dan Gas Radtrol** — Jersik அருகே பெரிய எரிபொருள் நிரப்பும் வளாகம்
 
-### Running out
+### காலியாகுதல்
 
-If your tank hits zero, the engine cuts out. Options:
+உங்கள் டேங்க் பூஜ்ஜியமாக மாறினால், எஞ்சின் நிறுத்தப்படும். விருப்பங்கள்:
 
-1. Buy a JerryCan at the **Jerrycan Shop**, fill it at a station, and refuel manually.
-2. Despawn the vehicle and spawn a fresh one from MyPod.
-3. Ask a KEMRonda player for a tow.
+1. **Jerrycan Shop**-இல் JerryCan-ஐ வாங்கி, ஒரு நிலையத்தில் நிரப்பி, கைமுறையாக எரிபொருள் நிரப்பவும்.
+2. வாகனத்தை அழித்து, MyPod-இலிருந்து புதியதை உருவாக்கவும்.
+3. KEMRonda வீரரிடம் இழுக்கும்படி கேட்கவும்.
 
-## Crashing and repairs
+## விபத்து மற்றும் பழுதுபார்த்தல்
 
-Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
+வாகனங்கள் மோதல்களால் சேதம் அடைகின்றன. கடுமையாக சேதமடைந்த ஒரு கார் புகைய ஆரம்பிக்கும், செயல்திறனை இழக்கும் அல்லது முற்றிலும் நின்றுவிடும்.
 
-### Your options
+### உங்கள் விருப்பங்கள்
 
-- **Get repaired at a workshop**. **Gravstone Workshop** in Bandar Seri Putra is the go-to.
-- **Call a tow**. KEMRonda and workshop-licensed players can tow your vehicle.
-- **Despawn and respawn**. You'll lose the damaged vehicle, but you can spawn a fresh one.
+- **பழுதுபார்க்கும் மண்டலத்திற்குள் ஓட்டிச் செல்லவும்**. வரைபடம் முழுவதும் சிதறியுள்ள **10 பழுதுபார்க்கும் மண்டலங்கள்** உள்ளன — பச்சை பழுதுபார்க்கும் காட்டியைத் தேடுங்கள். மண்டலத்திற்குள் நிறுத்தினால் உங்கள் வாகனம் படிப்படியாக மீட்கப்படும் (5 வினாடிகளுக்கு சுமார் 10% உடல்நலம்). நீங்கள் நுழையும்போது திரையில் உறுதிப்படுத்தல் தூண்டுதல் தோன்றும்.
+- **ஒரு இழுவை அழைக்கவும்**. இழுவை லாரியுடன் கூடிய KEMRonda வீரர்கள் உங்களை ஒரு பட்டறைக்கு இழுத்துச் செல்லலாம்.
+- **அழித்து மீண்டும் உருவாக்கவும்**. MyPod மெனுவிலிருந்து நீங்கள் சேதமடைந்த வாகனத்தை அழித்து புதியதை உருவாக்கலாம். நீங்கள் அவசரத்தில் இருந்தால் இது வேகமான விருப்பம்.
 
-If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens — that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
+நீங்கள் புதிதாக இருந்தால் மற்றும் விபத்துக்கள் பயமுறுத்துவதாக உணர்ந்தால், அது முதன்முதலில் நடக்கும்போது நீங்கள் ஒரு **Crash Tutorial**-ஐக் காண்பீர்கள் — அதுதான் உங்கள் விளையாட்டில் உள்ள அறிமுகம். கவனமாக ஓட்டுங்கள், கைப் பிரேக்கைப் (**Space**) பயன்படுத்துங்கள், மற்றும் மலேசிய நெடுஞ்சாலை வேகங்களை எச்சரிக்கையுடன் எடுத்துக் கொள்ளுங்கள்.
 
-## Customisation
+## Gravstone Workshop-இல் தனிப்பயனாக்கம்
 
-Vehicle customisation depends on the specific model. Common options include:
+Bandar Seri Putra-வில் உள்ள **Gravstone Workshop** என்பது விளையாட்டின் வண்ணம் & காட்சி தனிப்பயனாக்கல் கடை — பழுதுபார்க்கும் மையம் **அல்ல**. உங்கள் வாகனத்தை பட்டறையின் உட்புற மண்டலத்திற்கு ஓட்டிச் சென்றால், வண்ணம் மற்றும் உடல் விருப்பங்களுடன் ஒரு பட்டறை GUI தோன்றும்.
 
-- Paint colour
-- Number plates
-- Body accessories
+- **அணுகலுக்கு Workshop gamepass தேவை.** உங்களிடம் இல்லையென்றால், ஒரு வண்ண விருப்பத்தைத் திறக்கும்போது விளையாட்டு உங்களை வாங்கச் சொல்லும்.
+- நீங்கள் மீண்டும் வண்ணம் பூசக்கூடிய **வண்ண மண்டலங்கள்** உடல், ஜன்னல்கள், டயர்கள், மற்றும் ரிம்ஸ் ஆகியவற்றை உள்ளடக்கியது — ஒவ்வொன்றும் தனித்தனி வண்ணத்தை எடுக்கும்.
+- **வண்ண தேர்வாளர்**: hue, saturation, மற்றும் value-ஐ இழுக்கவும்; நீங்கள் சரிசெய்யும்போது கார் நிகழ்நேரத்தில் புதுப்பிக்கப்படும். பயன்படுத்த Confirm என்பதைக் கிளிக் செய்க; நிராகரிக்க Cancel.
 
-Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
+இங்கே சேமிக்கப்பட்ட வண்ணங்கள் அமர்வின் காலம் முழுவதும் உங்கள் தற்போது உருவாக்கப்பட்ட வாகனத்தில் பயன்படுத்தப்படுகின்றன. திறக்கக்கூடிய வண்ணங்கள் (chrome, gradient, matte — *Passes and Boosts*-ஐப் பார்க்கவும்) ஒரு தனி மெனுவின் மூலம் பயன்படுத்தப்படுகின்றன.
 
-## Advanced vehicle controls
+## தனிப்பயனாக்கம்
 
-Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
+வாகன தனிப்பயனாக்கம் குறிப்பிட்ட மாதிரியைப் பொறுத்தது. பொதுவான விருப்பங்களில் அடங்கும்:
 
-| Vehicle | Team | Panel |
+- வண்ண நிறம்
+- எண் தகடுகள்
+- உடல் துணை உபகரணங்கள்
+
+விளையாட்டில் வாகனத்தின் மெனுவைக் கலந்தாலோசிக்கவும் (சில கார்களில் தனிப்பயனாக்கப் பேனல் உள்ளது, மற்றவற்றில் இல்லை). அணி-வழங்கப்பட்ட வாகனங்கள் (காவல்துறை, Bomba) பொதுவாக அணி பூச்சில் பூட்டப்பட்டிருக்கும்.
+
+## அவசர விளக்குகள் (ELS)
+
+அனைத்து அவசர-அணி வாகனங்களும் (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) விளையாட்டின் ELS-ஐ (Emergency Lighting System) பயன்படுத்தும் ஒரு லைட்பாரைக் கொண்டுள்ளன. ELS-ஐ மாற்றுதல்:
+
+- **மூன்று மினுமினுப்பு வடிவங்களில்** ஒன்றை இயக்குகிறது — வேகமாக மாற்றுதல், மெதுவாக மாற்றுதல், மற்றும் வேகமான சிக்கலானது.
+- ஒவ்வொருவரும் உங்கள் விளக்குகளைக் காண, server-இல் உள்ள அனைத்து வீரர்களுக்கும் நகலெடுக்கப்படுகிறது.
+- மறைமுகமான வேக-பொறி **நோய் எதிர்ப்பு சக்தியை** வழங்குகிறது — ELS செயலில் இருக்கும்போது நீங்கள் 200 stud/s-ஐத் தாண்டினால், உங்களுக்கு வேகமாக ஓட்டுதல் குற்றம் கிடைக்காது (அவசர பதில் நடைபெற்று வருகிறது). இதைத் தவறாகப் பயன்படுத்த வேண்டாம்; ஏமாற்று-எதிர்ப்பு இன்னும் கண்காணித்துக் கொண்டிருக்கிறது.
+
+ஒரு சம்பவத்திற்குப் பதிலளிக்கும்போது மட்டுமே ELS-ஐப் பயன்படுத்தவும். விளக்குகளை எரிய விட்டு வலம் வருவது சமூக ஒழுக்கத்திற்கு எதிரானது.
+
+## மேம்பட்ட வாகன கட்டுப்பாடுகள்
+
+ஆறு சிறப்பு வாகனங்களுக்கு **இழுவை/winch பேனல்** உள்ளது — கேபினுக்குள் உள்ள கட்டுப்பாட்டுப் பேனலுடன் நீங்கள் தொடர்பு கொள்ளும்போது தோன்றும் மொபைல்-நட்பு landscape HUD:
+
+| வாகனம் | அணி | பேனல் |
 |---|---|---|
 | iZu Tow Truck KEMRonda | KEMRonda | Tow Boom Controls |
 | iZu Tow Bed KEMRonda | KEMRonda | Flatbed Controls |
@@ -136,24 +155,24 @@ Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landsc
 | Sanica P310 FRT Bomba | Bomba | Ladder Winch Controls |
 | Sanica 94D LFRT Bomba | Bomba | Ladder Winch Controls |
 
-**Keyboard shortcuts** (once the panel is open):
+**விசைப்பலகை குறுக்குவழிகள்** (பேனல் திறந்தவுடன்):
 
-| Key | Action |
+| விசை | செயல் |
 |---|---|
-| **1** | Toggle Attach mode for Winch 1 (click a vehicle/part to target it) |
-| **2** | Toggle Attach mode for Winch 2 (flatbeds/wreckers with a second winch) |
-| **X** | Cancel attach mode |
-| **Z** | Weld (fuses the attached vehicle to yours) |
-| **V** | Release / unweld |
-| **[** | Lower bed / ramp |
-| **]** | Raise bed / ramp |
+| **1** | Winch 1-க்கான Attach முறையை மாற்றவும் (இலக்கு செய்ய ஒரு வாகனம்/பகுதியைக் கிளிக் செய்யவும்) |
+| **2** | Winch 2-க்கான Attach முறையை மாற்றவும் (இரண்டாவது winch-உடன் கூடிய flatbed/wrecker) |
+| **X** | attach முறையை ரத்து செய்க |
+| **Z** | Weld (இணைக்கப்பட்ட வாகனத்தை உங்கள் வாகனத்துடன் இணைக்கிறது) |
+| **V** | விடுவிக்க / unweld |
+| **[** | படுக்கை / ramp-ஐ கீழே இறக்கவும் |
+| **]** | படுக்கை / ramp-ஐ உயர்த்தவும் |
 
-**Access rules**: You can always use a panel if (a) you own the vehicle, (b) you're on the matching team (KEMRonda / Bomba / Kesihatan), or (c) you're an admin. Otherwise a rate-limited "Access Denied" banner appears.
+**அணுகல் விதிகள்**: (a) நீங்கள் வாகனத்தைச் சொந்தமாக்கினால், (b) நீங்கள் பொருந்தும் அணியில் (KEMRonda / Bomba / Kesihatan) இருந்தால், அல்லது (c) நீங்கள் ஒரு அட்மின் என்றால் நீங்கள் எப்போதும் ஒரு பேனலைப் பயன்படுத்தலாம். இல்லையெனில், விகித-வரம்புக்குட்பட்ட "Access Denied" பேனர் தோன்றும்.
 
-The controls are shared across all six vehicles, so once you learn one you've learnt them all.
+கட்டுப்பாடுகள் ஆறு வாகனங்களுக்கும் பகிரப்படுகின்றன, எனவே நீங்கள் ஒன்றைக் கற்றுக்கொண்டவுடன் அனைத்தையும் கற்றுக்கொண்டுவிட்டீர்கள்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Economy and XP](/lebuhraya/economy) — Fuel prices in context
-- [World and Map](/lebuhraya/map) — Where to find every station
-- [Teams and Careers](/lebuhraya/teams) — Vehicles unlocked by team tier
+- [பொருளாதாரம் மற்றும் XP](/lebuhraya/economy) — சூழலில் எரிபொருள் விலைகள்
+- [உலகம் மற்றும் வரைபடம்](/lebuhraya/map) — ஒவ்வொரு நிலையத்தையும் எங்கே கண்டுபிடிப்பது
+- [அணிகள் மற்றும் தொழில்கள்](/lebuhraya/teams) — அணி கட்டத்தால் திறக்கப்பட்ட வாகனங்கள்

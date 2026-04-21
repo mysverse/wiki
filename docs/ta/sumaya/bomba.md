@@ -1,87 +1,88 @@
 ---
-title: Bomba (Fire Brigade)
-description: 'Playing BOMBA (fire brigade) in Sumaya — tenders, hydrants, and fires.'
+title: தீயணைப்பு
+description: >-
+  Sumaya-வில் BOMBA விளையாடுதல் — தீயணைப்பு வாகனங்கள், ஹைட்ரண்டுகள், மற்றும் தீ
+  சம்பவங்கள்.
 lang: ta
 translated_from_hash: c822a3e4
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# தீயணைப்பு
 
-# Bomba (Fire Brigade)
+**பொம்பா (BOMBA)** என்பது மலேசிய தீயணைப்புப் படை. முதன்மை மெனுவில் இருந்து BOMBA-வை நீங்கள் தேர்ந்தெடுத்தால், ஒரு தீயணைப்பு வீரராக நீங்கள் கடமையில் இருக்கிறீர்கள்.
 
-**Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
+## தொடங்குதல்
 
-## Getting started
+முதன்மை மெனுவில் **BOMBA** என்பதைத் தேர்ந்தெடுக்கவும். உங்கள் முதுகுப்பையில் ஒரு **தீயணைப்பான் (Fire Extinguisher)** மற்றும் திரையில் BombaGui-உடன் நீங்கள் தோன்றுவீர்கள் — க்ளாக்-இன் தேவையில்லை. **தீயணைப்பு குழாய்** என்பது தொடக்க கருவி அல்ல: சம்பவ இடத்திற்கு வந்தவுடன், தீயணைப்பு வாகனங்கள் அல்லது ஹைட்ரண்டுகளில் உள்ள குழாய் இணைப்புகளில் இருந்து அதைப் பிடித்துக் கொள்கிறீர்கள்.
 
-Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen — no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
+வாகனங்களுக்காக தீயணைப்பு நிலையத்திற்குச் செல்லுங்கள், அல்லது உங்கள் மினிமேப்பில் தீ எச்சரிக்கை வரும் வரை காத்திருங்கள்.
 
-Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
+## தீ எவ்வாறு செயல்படுகிறது
 
-## How fires work
+சர்வரில் குறைந்தது ஒரு BOMBA வீரர் செயலில் இருக்கும்போது, Sumaya-வில் தீ தோராயமாக **ஒவ்வொரு 6 நிமிடத்திற்கும்** ஒரு முறை தோன்றும். தீ தொடங்கும்போது:
 
-Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
+- ஒரு பெரிய எச்சரிக்கை உங்கள் மினிமேப்பிலும் உங்கள் பணி அட்டையிலும் தோன்றும்.
+- தீ பல தனிப்பட்ட **தீ பிளாக்குகளால்** ஆனது, அவை ஒவ்வொன்றும் அணைக்கப்பட வேண்டும்.
+- சிவப்பு வழிகாட்டுதல் கதிர் உங்களைச் சம்பவ இடத்திற்கு வழிகாட்டுகிறது.
 
-- A large alert appears on your minimap and in your task card.
-- The fire is made of many individual **fire blocks**, each of which needs to be put out.
-- The red guidance beam points you to the incident.
+சர்வரில் ஒரே நேரத்தில் ஒரு செயலில் உள்ள தீ மட்டுமே. ஒரு தீ அணைக்கப்பட்டவுடன் (அல்லது நேரம் முடிந்தவுடன்), புதிய தீ தோன்றலாம்.
 
-Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
+## தீயை அணைத்தல்
 
-## Putting out fires
+### குழாய்
 
-### The hose
+1. உங்கள் தீயணைப்பு குழாயை அணியவும்.
+2. ஒரு நீர் ஆதாரத்தைக் கண்டுபிடிக்கவும் - ஒன்று **ஹைட்ரண்ட்** (நகரத்தைச் சுற்றி சில இடங்களில் வைக்கப்பட்டுள்ளன — சிவப்பு/மஞ்சள் தூண் மாதிரிகளைத் தேடுங்கள்) அல்லது ஒரு **டாங்கர் டிரக்**.
+3. குழாயின் முனையை நீர் ஆதார ப்ராம்ப்டுடன் இணைக்கவும்.
+4. தீ பிளாக்குகளை இலக்கு வைத்து தெளிக்கவும்.
 
-1. Equip your fire hose.
-2. Find a water source - either a **hydrant** (a few placed around town — look for the red/yellow pillar models) or a **tanker truck**.
-3. Connect the hose end to the water source prompt.
-4. Aim at fire blocks and spray.
+ஒவ்வொரு தீ பிளாக்கும் முழுமையாக அணைய குழாயிலிருந்து தோராயமாக **10 அடிகள்** தேவை. குழாய் **256 stud** வரை எட்டுகிறது - பெரும்பாலான சம்பவங்களுக்கு இது போதுமானது, மேலும் பாதுகாப்பான தூரத்தில் நிற்க உதவுகிறது.
 
-Each fire block needs about **10 hits** from the hose before it's fully out. The hose reaches up to **256 studs** - that's plenty for most incidents, and lets you stand at a safe distance.
+### ஹைட்ரண்டுகள் (Hydrants)
 
-### Hydrants
+ஹைட்ரண்டுகள் வரைபடத்தைச் சுற்றி `Workspace.HydrantConnections`-ல் நிலையாக உள்ளன. தற்போதைய வரைபடத்தில் ஒரு சில ஹைட்ரண்ட் மாதிரிகள் உள்ளன — முழு நகரத்தையும் கவர் செய்ய போதுமானதல்ல, எனவே அவற்றைச் சுற்றி வழிகளைத் திட்டமிடுங்கள். ஒவ்வொரு ஹைட்ரண்டும் இரண்டு குழாய் இணைப்புகளை ஆதரிக்கிறது, எனவே இரண்டு தீயணைப்பு வீரர்கள் ஒன்றைப் பகிர்ந்து கொள்ளலாம்.
 
-Hydrants are fixed around the map inside `Workspace.HydrantConnections`. The current map has a handful of hydrant models — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
+### டாங்கர்கள் (sector level 65)
 
-### Tankers (sector level 65)
+நீங்கள் sector level 65-ஐ அடைந்தவுடன், நீங்கள் **Sanica P360 Tanker** டிரக்கை spawn செய்யலாம். டாங்கர்கள் சாலையுடன் இணைக்கப்பட்ட எங்கும் தீயை அணைக்க உங்களை அனுமதிக்கின்றன, அருகில் ஹைட்ரண்ட் இல்லாவிட்டாலும் கூட - கிராமப்புற சம்பவங்களுக்கு மிகவும் பயனுள்ளதாக இருக்கும்.
 
-Once you reach sector level 65, you can spawn the **Sanica P360 Tanker** truck. Tankers let you fight fires anywhere connected to a road, even without a hydrant nearby - very useful for rural incidents.
+## வெகுமதிகள்
 
-## Rewards
+நீங்கள் அணைக்கும் ஒவ்வொரு தீ பிளாக்கும் கொடுக்கிறது:
 
-Every fire block you extinguish pays:
+- **5 XP** (வீரர் மற்றும் sector இரண்டிற்கும்)
+- **15 Ringgit** (பணப்பை)
 
-- **5 XP** (both player and sector)
-- **15 Ringgit** (wallet)
+மேலும் மைல்கல் போனஸ்கள்:
 
-Plus milestone bonuses:
+- நீங்கள் அணைக்கும் ஒவ்வொரு **15 பிளாக்குகளுக்கும்** **+150 Ringgit** போனஸ்.
 
-- **+150 Ringgit** bonus every **15 blocks** you extinguish.
+ஒரு தீயில் உதவும் **மற்ற EMS** (போலிஸ் அல்லது கெசிஹாதான்) **ஒரு பிளாக்குக்கு 10 XP** பெறுகிறார்கள் ஆனால் Ringgit வெகுமதி இல்லை. அவர்கள் வந்ததற்காக வெகுமதி பெறுகிறார்கள், ஆனால் தீயணைப்பின் முக்கிய வருமானம் உங்களுடையது.
 
-**Other EMS** (Polis or Kesihatan) who help out on a fire get **10 XP per block** but no Ringgit reward. They're rewarded for showing up, but the firefighting bread-and-butter is yours.
+தீ பிளாக் அணைக்கப்படும்போது நீங்கள் அதிலிருந்து **512 stud** தூரத்தில் இருக்கும்போது மட்டுமே வெகுமதிகள் கணக்கிடப்படுகின்றன - எனவே சம்பவத்துடன் ஒட்டிக்கொள்ளுங்கள், அலைய வேண்டாம்.
 
-Rewards only count when you're within **512 studs** of the fire block when it's extinguished - so stick with the incident, don't wander off.
+## வாகனங்கள்
 
-## Vehicles
+உங்கள் sector level உயரும்போது Bomba வாகனங்கள் அன்லாக் ஆகின்றன.
 
-Bomba vehicles unlock as your sector level rises.
-
-| Vehicle | Sector level required | Price |
+| வாகனம் | தேவையான sector level | விலை |
 |---------|----------------------|-------|
-| Merze Atego LFRT | 1 | Free |
+| Merze Atego LFRT | 1 | இலவசம் |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
 | Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
-Each truck has different capacity and handling. The Atego is the nimble starter; the Tanker is the heavy utility. LFRT stands for "Light Fire Rescue Tender", FRT for "Fire Rescue Tender".
+ஒவ்வொரு டிரக்கிற்கும் வெவ்வேறு கொள்ளளவு மற்றும் கையாளுதல் உள்ளது. Atego என்பது சுறுசுறுப்பான தொடக்க வாகனம்; Tanker என்பது கனரக பயன்பாட்டு வாகனம். LFRT என்பது "Light Fire Rescue Tender", FRT என்பது "Fire Rescue Tender" என்பதைக் குறிக்கிறது.
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+அவற்றை எவ்வாறு spawn செய்வது என்பதற்கு [Vehicles](/sumaya/vehicles) பார்க்கவும்.
 
-## Ranks
+## தரங்கள்
 
-Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia). Your title updates automatically as your sector level rises.
+Bomba-வில் 13 தரங்கள் உள்ளன, இவை உண்மையான மலேசிய தீயணைப்பு மற்றும் மீட்பு துறையை (Jabatan Bomba dan Penyelamat Malaysia) அடிப்படையாகக் கொண்டவை. உங்கள் sector level உயரும்போது உங்கள் பட்டம் தானாகவே புதுப்பிக்கப்படும்.
 
-| Level | Rank |
+| Level | தரம் |
 |-------|------|
 | 1 | Fire Officer (PB) |
 | 6 | Senior Fire Officer (PBK) |
@@ -97,20 +98,20 @@ Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Ja
 | 65 | Deputy Fire Commissioner (TPjB) |
 | 76 | Fire Commissioner (PjB) |
 
-The rank bracket abbreviations follow the real-world Bomba insignia scheme. From level 76 onward you're the top - no more rank changes even as you push toward the level 100 cap.
+தர அடைப்புக்குறி சுருக்கங்கள் உண்மையான Bomba சின்ன திட்டத்தைப் பின்பற்றுகின்றன. Level 76 முதல் நீங்கள் உச்சத்தில் இருக்கிறீர்கள் - level 100 உச்சவரம்பை நோக்கி நீங்கள் தள்ளும்போது கூட இனி தர மாற்றங்கள் இல்லை.
 
-## Tips
+## குறிப்புகள்
 
-- **Work as a team.** Two firefighters on a fire means blocks get cleared faster, meaning milestone bonuses come around faster, meaning more Ringgit per minute.
-- **Position matters.** Find a spot where multiple blocks are in hose range and don't keep switching. Steady, not frantic.
-- **Stay within 512 studs.** If you wander away from the fire to refill or drive, you stop counting for rewards on the blocks extinguished while you're out of range.
-- **Sirens = offence-exempt.** Got stuck behind a speeding ticket? Flip your ELS siren while driving a Bomba vehicle to avoid being cited.
-- **Save for the Tanker.** Until you hit level 65, you'll rely on hydrants. The Tanker is a game-changer because you bring the water with you.
-- **Watch your health.** Standing too close to fire damages you over time. If you see your health dropping, step back and hose from further.
+- **குழுவாக வேலை செய்யுங்கள்.** ஒரு தீயில் இரண்டு தீயணைப்பு வீரர்கள் என்றால் பிளாக்குகள் வேகமாக அழிக்கப்படுகின்றன, அதாவது மைல்கல் போனஸ்கள் வேகமாக வருகின்றன, அதாவது நிமிடத்திற்கு அதிக Ringgit கிடைக்கும்.
+- **நிலைப்பாடு முக்கியம்.** பல பிளாக்குகள் குழாய் வரம்பில் இருக்கும் ஒரு இடத்தைக் கண்டுபிடியுங்கள், மேலும் தொடர்ந்து இடம் மாற்றாதீர்கள். நிலையான, பரபரப்பான அல்ல.
+- **512 stud-க்குள் இருங்கள்.** மீண்டும் நிரப்ப அல்லது ஓட்ட தீயை விட்டு நீங்கள் அலைந்தால், நீங்கள் வரம்பிற்கு வெளியே இருக்கும்போது அணைக்கப்பட்ட பிளாக்குகளுக்கான வெகுமதிகளுக்கு நீங்கள் கணக்கிடப்படுவதை நிறுத்துகிறீர்கள்.
+- **சைரன் = குற்றம் விலக்கு.** வேகமாக ஓட்டி ஒரு டிக்கெட் பெற்றுக் கொண்டிருக்கிறீர்களா? Bomba வாகனத்தை ஓட்டும்போது உங்கள் ELS சைரனை இயக்கி டிக்கெட் பெறுவதைத் தவிர்க்கவும்.
+- **Tanker-க்காக சேமியுங்கள்.** நீங்கள் level 65-ஐ அடையும் வரை, நீங்கள் ஹைட்ரண்டுகளை நம்பியிருப்பீர்கள். Tanker ஒரு கேம்-சேஞ்சர் ஏனென்றால் நீங்கள் தண்ணீரை உங்களுடன் கொண்டு வருகிறீர்கள்.
+- **உங்கள் ஆரோக்கியத்தைக் கவனியுங்கள்.** தீக்கு மிக அருகில் நிற்பது காலப்போக்கில் உங்களைச் சேதப்படுத்தும். உங்கள் ஆரோக்கியம் குறைவதை நீங்கள் பார்த்தால், பின்வாங்கி தூரத்திலிருந்து தெளிக்கவும்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Kesihatan](/sumaya/kesihatan) if you're curious about the medical side.
-- [Polis](/sumaya/polis) for law enforcement.
-- [Vehicles](/sumaya/vehicles) for the full Bomba vehicle list.
-- [Progression](/sumaya/progression) for how XP works across services.
+- [Kesihatan](/sumaya/kesihatan) மருத்துவ பக்கத்தைப் பற்றி அறிய ஆர்வமாக இருந்தால்.
+- [Polis](/sumaya/polis) சட்ட அமலாக்கத்திற்கு.
+- [Vehicles](/sumaya/vehicles) முழு Bomba வாகன பட்டியலுக்கு.
+- [Progression](/sumaya/progression) சேவைகள் முழுவதும் XP எவ்வாறு செயல்படுகிறது என்பதற்கு.

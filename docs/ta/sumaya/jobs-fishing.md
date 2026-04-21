@@ -1,32 +1,31 @@
 ---
-title: Fishing
-description: 'Fishing in Sumaya — spots, fish types, prices, and progression.'
+title: மீன்பிடி
+description: 'Sumaya-வில் மீன்பிடி — இடங்கள், மீன் வகைகள், விலைகள், மற்றும் முன்னேற்றம்.'
 lang: ta
 translated_from_hash: 3f6d4e33
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# மீன்பிடி
 
-# Fishing
+மீன்பிடி என்பது Sumaya-வின் மூன்று குடிமை தொழில்களில் ஒன்று. நீங்கள் இரண்டு வழிகளில் மீன் பிடிக்கலாம்: கடற்கரையில் **கோலுடன்** (விரைவான, சாதாரண) அல்லது கடலில் **டிராலர் படகுடன்** (பெரிய அளவிலான, துறை-நிலை உழைப்பு). இரண்டு முறைகளும் வேறுவேறாக பணம் தருகின்றன மற்றும் வேறுவேறான விஷயங்களை நிலை உயர்த்துகின்றன.
 
-Fishing is one of Sumaya's three civilian careers. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
+## தொடங்குதல்
 
-## Getting started
+1. உங்கள் தொலைபேசியை திறந்து **Careers** செயலியை தட்டவும்.
+2. **Fishing Sector** என்பதை தேர்ந்தெடுக்கவும்.
+3. மீன்பிடி இடத்திற்கு செல்லவும் - Careers செயலி மற்றும் வழிகாட்டி ஒளிக்கற்றை உங்களை அருகில் உள்ள கப்பல்துறை அல்லது கடற்கரைக்கு சுட்டிக்காட்டும்.
+4. **clock in** குறிப்பை அழுத்தவும்.
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Fishing Sector**.
-3. Head to a fishing spot - the Careers app and the guidance beam will point you to the nearest dock or pier.
-4. Press the **clock in** prompt.
+நீங்கள் வேலையில் இருக்கும்போது, உங்கள் பையில் ஒரு மீன்பிடி கோல் கிடைக்கும், மற்றும் மீன்பிடி HUD தோன்றும்.
 
-Once you're on shift, you'll get a fishing rod in your backpack and the fishing HUD appears.
+## கோல் மீன்பிடி (சாதாரண)
 
-## Rod fishing (casual)
+கோலை பொருத்தவும், **80 studs** உள்ளே உள்ள நீரை குறிவைக்கவும், மற்றும் வீசவும். ஒவ்வொரு வீச்சிற்கும் சுமார் **3-இல் 1 வாய்ப்பு** மீன் பிடிக்க உள்ளது. நீங்கள் கொக்கியில் சிக்கியதை இழுக்கவும்.
 
-Equip the rod, aim at water within **80 studs**, and cast. There's roughly a **1-in-3 chance** of a catch per cast. Reel in what you hook.
+Sumaya-வில் நீங்கள் கோலுடன் பிடிக்கக்கூடிய **5 இனங்கள்** மீன் உள்ளன:
 
-Sumaya has **5 species** of fish you can catch with the rod:
-
-| Fish | XP | Ringgit |
+| மீன் | XP | Ringgit |
 |------|-----|---------|
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
@@ -34,76 +33,76 @@ Sumaya has **5 species** of fish you can catch with the rod:
 | Pelian | 15 | 8 |
 | Tapah | 15 | 8 |
 
-XP and Ringgit payouts are applied when you **sell** the fish at the dock.
+XP மற்றும் Ringgit பணம் கப்பல்துறையில் மீனை **விற்கும்போது** வழங்கப்படும்.
 
-**Important:** rod fishing XP only levels your **player account** (global XP), not your fishing sector level. If you want to climb the fishing sector ladder and unlock better trawlers, you need to trawl.
+**முக்கியம்:** கோல் மீன்பிடி XP உங்கள் **வீரர் கணக்கை** மட்டுமே (உலகளாவிய XP) நிலை உயர்த்துகிறது, உங்கள் மீன்பிடி துறை நிலையை அல்ல. நீங்கள் மீன்பிடி துறை ஏணியில் ஏற விரும்பி, சிறந்த டிராலர்களை திறக்க விரும்பினால், நீங்கள் டிராலிங் செய்ய வேண்டும்.
 
-## Trawl fishing (sector grind)
+## டிராலிங் மீன்பிடி (துறை உழைப்பு)
 
-The big earner is **trawl fishing** with a boat. You spawn a trawler from a water-side vehicle spawner, drive out, and pull fish in bulk.
+பெரிய வருவாய் படகுடன் செய்யும் **டிராலிங் மீன்பிடி**. நீங்கள் நீர் பக்க வாகன ஸ்பானரில் இருந்து ஒரு டிராலரை உருவாக்கி, வெளியே ஓட்டி, மீனை பெரிய அளவில் இழுக்கிறீர்கள்.
 
-### Per-fish rewards
+### ஒரு மீனுக்கான வெகுமதிகள்
 
-Trawling is flat-rate:
+டிராலிங் சம விகிதம்:
 
-- **2 XP** per fish (both player and fishing sector)
-- **0.5 Ringgit** per fish
+- ஒரு மீனுக்கு **2 XP** (வீரர் மற்றும் மீன்பிடி துறை இரண்டும்)
+- ஒரு மீனுக்கு **0.5 Ringgit**
 
-The numbers look small, but trawlers hold a lot of fish, and sector XP lets you afford bigger boats.
+எண்கள் சிறியதாக தோன்றும், ஆனால் டிராலர்கள் நிறைய மீன்களை கொண்டு செல்ல முடியும், மற்றும் துறை XP உங்களுக்கு பெரிய படகுகளை வாங்க வசதி அளிக்கிறது.
 
-### Trawler boats
+### டிராலர் படகுகள்
 
-| Tier | Price | How to get |
+| Tier | விலை | எப்படி பெறுவது |
 |------|-------|------------|
-| Tier 1 Trawler | Free while you're on a fishing shift | Spawn at any fishing-boat spawner |
-| Tier 2 Trawler | 25,000 Ringgit to buy | Earn and save up |
-| Tier 3 Trawler | 37,000 Ringgit to buy | For serious fishing enthusiasts |
+| Tier 1 Trawler | மீன்பிடி பணியில் இருக்கும்போது இலவசம் | எந்த மீன்பிடி-படகு ஸ்பானரிலும் உருவாக்கவும் |
+| Tier 2 Trawler | வாங்க 25,000 Ringgit | சம்பாதித்து சேமிக்கவும் |
+| Tier 3 Trawler | வாங்க 37,000 Ringgit | தீவிர மீன்பிடி ஆர்வலர்களுக்கு |
 
-Each tier up gives you more capacity. The Tier 1 trawler is free every shift, so you can start trawl fishing immediately - you only pay for the nicer boats.
+ஒவ்வொரு tier உயர்வும் உங்களுக்கு அதிக கொள்ளளவை அளிக்கிறது. Tier 1 டிராலர் ஒவ்வொரு பணியிலும் இலவசம், அதனால் நீங்கள் உடனடியாக டிராலிங் மீன்பிடியை தொடங்கலாம் - நீங்கள் சிறந்த படகுகளுக்கு மட்டுமே பணம் செலுத்துகிறீர்கள்.
 
-Trawlers can run out of fuel on long trips. Keep an eye on the fuel gauge on your HelmGui (fuel is tracked per-shift for the captain, not per-vehicle purchase). Trawlers start with the fuel stored against your last shift's remaining balance (or the default if first shift).
+டிராலர்கள் நீண்ட பயணங்களில் எரிபொருள் தீர்ந்து போகலாம். உங்கள் HelmGui-ல் உள்ள எரிபொருள் அளவீட்டை கண்காணிக்கவும் (எரிபொருள் கேப்டனுக்கு ஒரு-பணி அடிப்படையில் கண்காணிக்கப்படுகிறது, ஒரு-வாகன வாங்குதல் அடிப்படையில் அல்ல). டிராலர்கள் உங்கள் கடைசி பணியின் மீதமிருக்கும் மீதியுடன் சேமிக்கப்பட்ட எரிபொருளுடன் தொடங்கும் (அல்லது முதல் பணி என்றால் இயல்புநிலை).
 
-**Refueling:** Buy a **Gas Can** from the Boat Gas Can shop - Red (+25 fuel, 75 SR), Green (+50 fuel, 100 SR), or Black (+75 fuel, 125 SR). Equip it and use the trawler's interact prompt. Note: fuel caps at 100, and **refill only works when your current fuel is below 75** - you can't top off a mostly-full tank.
+**மீண்டும் எரிபொருள் நிரப்புதல்:** Boat Gas Can கடையில் இருந்து ஒரு **Gas Can** வாங்கவும் - சிவப்பு (+25 எரிபொருள், 75 SR), பச்சை (+50 எரிபொருள், 100 SR), அல்லது கருப்பு (+75 எரிபொருள், 125 SR). அதை பொருத்தி டிராலரின் தொடர்பு குறிப்பை பயன்படுத்தவும். குறிப்பு: எரிபொருள் 100-ல் வரம்பிடப்படுகிறது, மற்றும் **உங்கள் தற்போதைய எரிபொருள் 75-ற்கு கீழே இருக்கும்போது மட்டுமே மீண்டும் நிரப்புதல் வேலை செய்கிறது** - நீங்கள் கிட்டத்தட்ட நிரம்பிய தொட்டியை நிரப்ப முடியாது.
 
-### How to trawl fish
+### டிராலிங் மீன்பிடி எப்படி செய்வது
 
-1. Clock in to the fishing sector.
-2. Walk up to a fishing boat spawner at a dock.
-3. Spawn a trawler.
-4. Drive the boat out to open water.
-5. Use the trawl to pull in fish.
-6. Come back to the dock to sell and/or unload.
+1. மீன்பிடி துறைக்கு clock in செய்யவும்.
+2. கப்பல்துறையில் ஒரு மீன்பிடி படகு ஸ்பானர் அருகே நடந்து செல்லவும்.
+3. ஒரு டிராலரை உருவாக்கவும்.
+4. படகை திறந்த கடலுக்கு ஓட்டவும்.
+5. மீனை இழுக்க டிராலை பயன்படுத்தவும்.
+6. விற்க மற்றும்/அல்லது இறக்க கப்பல்துறைக்கு திரும்பவும்.
 
-## Clocking out and selling
+## Clock out செய்தல் மற்றும் விற்றல்
 
-When you clock out, your total trawl earnings are paid to you as a single paycheck. You'll see a **Nelayan Sdn. Bhd.** ("Fisherman Co.") pay slip when the shift ends.
+நீங்கள் clock out செய்யும்போது, உங்கள் மொத்த டிராலிங் வருவாய் ஒற்றை சம்பள காசோலையாக உங்களுக்கு வழங்கப்படும். பணி முடிவடையும் போது நீங்கள் ஒரு **Nelayan Sdn. Bhd.** ("Fisherman Co.") சம்பள சீட்டை பார்ப்பீர்கள்.
 
-Rod-fished fish are sold individually at a shop prompt instead of waiting for end-of-shift.
+கோலால் பிடிக்கப்பட்ட மீன்கள் பணியின் முடிவை காத்திராமல் கடை குறிப்பில் ஒவ்வொன்றாக விற்கப்படுகின்றன.
 
-## Leveling up
+## நிலை உயர்த்துதல்
 
-The fishing sector goes up to **level 100**. Only **trawl fishing** earns sector XP - rod fishing pays player XP only.
+மீன்பிடி துறை **நிலை 100** வரை செல்கிறது. **டிராலிங் மீன்பிடி** மட்டுமே துறை XP சம்பாதிக்கிறது - கோல் மீன்பிடி வீரர் XP-யை மட்டுமே தருகிறது.
 
-Higher sector level doesn't directly increase your per-fish rewards. What it does:
+அதிக துறை நிலை உங்கள் ஒரு-மீன் வெகுமதிகளை நேரடியாக அதிகரிக்கவில்லை. அது செய்வது:
 
-- Better rank titles (nothing mechanical, just prestige).
-- Unlocks the `Token_Keli` token at **level 50**, which is the threshold for unlocking the **Service sector** (Mamak / Fast Food).
+- சிறந்த பதவி பட்டங்கள் (எந்த இயந்திரவியலும் இல்லை, வெறும் கௌரவம்).
+- **நிலை 50**-ல் `Token_Keli` டோக்கனை திறக்கிறது, இது **சேவை துறையை** (Mamak / Fast Food) திறக்கும் வரம்பாகும்.
 
-## Unlocking the service sector
+## சேவை துறையை திறத்தல்
 
-Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unlock the ability to work in the **service sector** (Mamak / Fast Food). See [Service sector](/sumaya/jobs-service).
+மீன்பிடி துறையில் (அல்லது விவசாயம் / பனை எண்ணெய்) **நிலை 50**-ஐ அடைந்தால், நீங்கள் **சேவை துறையில்** (Mamak / Fast Food) வேலை செய்யும் திறனை திறக்கிறீர்கள். [சேவை துறையை](/sumaya/jobs-service) பார்க்கவும்.
 
-## Tips
+## குறிப்புகள்
 
-- **Rod for fast player XP, trawl for sector grind.** If you want to level the fishing sector, trawl - rod fishing doesn't touch it.
-- **Stack with the Kesihatan +15% boost.** It applies to player XP on both rod and trawl.
-- **Fish-and-chat.** Trawling is almost a background activity - you can chat, AFK slightly, drive back to a dock between runs.
-- **Watch the fuel on boats.** Don't go far out if your gauge is low - you'll coast back empty.
-- **Dock respawn.** If you die while fishing, your shift ends. Just re-clock in.
-- **Multiplier cap is 5.** Rod rewards can be multiplied up to 5x by in-world bonuses; beyond that the server caps it.
+- **கோல் விரைவான வீரர் XP-க்கு, டிராலிங் துறை உழைப்புக்கு.** நீங்கள் மீன்பிடி துறையை நிலை உயர்த்த விரும்பினால், டிராலிங் செய்யுங்கள் - கோல் மீன்பிடி அதை தொடாது.
+- **Kesihatan +15% பூஸ்டுடன் சேர்க்கவும்.** இது கோல் மற்றும் டிராலிங் இரண்டிலும் வீரர் XP-க்கு பொருந்தும்.
+- **மீன்பிடி-மற்றும்-அரட்டை.** டிராலிங் கிட்டத்தட்ட ஒரு பின்னணி செயல்பாடு - நீங்கள் அரட்டை அடிக்கலாம், சற்று AFK ஆகலாம், பயணங்களுக்கு இடையில் ஒரு கப்பல்துறைக்கு ஓட்டிவரலாம்.
+- **படகுகளில் எரிபொருளை கண்காணிக்கவும்.** உங்கள் அளவீட்டு குறைவாக இருந்தால் வெகு தூரம் செல்லாதீர்கள் - நீங்கள் காலியாக மீண்டும் மிதந்து வருவீர்கள்.
+- **கப்பல்துறை மறுபிறவி.** நீங்கள் மீன்பிடிக்கும்போது இறந்தால், உங்கள் பணி முடிகிறது. மீண்டும் clock in செய்யுங்கள்.
+- **பெருக்கி வரம்பு 5.** கோல் வெகுமதிகள் உலகில் உள்ள போனஸ்களால் 5x வரை பெருக்கப்படலாம்; அதற்கு அப்பால் server-ஆல் வரம்பிடப்படுகிறது.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Service sector](/sumaya/jobs-service) once you're fishing sector level 50.
-- [Palm oil](/sumaya/jobs-palm-oil) if you want higher payouts.
-- [Vehicles](/sumaya/vehicles) for the trawler spawner details.
+- [சேவை துறை](/sumaya/jobs-service) நீங்கள் மீன்பிடி துறை நிலை 50-ஐ அடைந்தவுடன்.
+- [பனை எண்ணெய்](/sumaya/jobs-palm-oil) நீங்கள் அதிக பணம் விரும்பினால்.
+- [வாகனங்கள்](/sumaya/vehicles) டிராலர் ஸ்பானர் விவரங்களுக்கு.

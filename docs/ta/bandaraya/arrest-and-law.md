@@ -1,189 +1,189 @@
 ---
-title: Arrest & Law
+title: கைது & சட்டம்
 description: >-
-  How arrests work in Bandaraya — LTAA, RTAA, summons, jail time, and suspect
-  rights.
+  Bandaraya-வில் கைதுகள் எப்படி நடைபெறுகின்றன — LTAA, RTAA, அழைப்பாணைகள், சிறை
+  நேரம், மற்றும் சந்தேகநபர் உரிமைகள்.
 lang: ta
-translated_from_hash: 112b29c5
+translated_from_hash: 61b784e3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# கைது & சட்டம்
 
-# Arrest & Law
-
-How arrests work in Bandaraya — from both the officer's and the suspect's perspective.
+Bandaraya-வில் கைதுகள் எப்படி நடைபெறுகின்றன — அதிகாரியின் மற்றும் சந்தேகநபரின் இரு கண்ணோட்டங்களில் இருந்து.
 
 ## TL;DR
 
-- **Who can arrest**: PDRM (any rank), KPTD (any rank), Polis Bantuan (rank 2+). Yang di-Pertuan Persekutuan also has arrest tools.
-- **Arrest flow**: detain → drag → cuff → arrest. Suspect goes to Arrested team, 3-minute release timer.
-- **LTAA** (leave to avoid arrest): disconnect while detained → auto-arrested for 3 minutes on return.
-- **RTAA** (reset to avoid arrest): reset button disabled at 75 HP or below.
-- **Summons** (Saman): on-the-spot fines from officers.
-- **Appeals**: via Malaysia community server moderators.
+- **யார் கைது செய்யலாம்**: PDRM (எந்த ரேங்கும்), KPTD (எந்த ரேங்கும்), Polis Bantuan (ரேங்க் 2+). Yang di-Pertuan Persekutuan-க்கும் கைது டூல்கள் உண்டு.
+- **கைது செயல்முறை**: detain → drag → cuff → arrest. சந்தேகநபர் Arrested டீமுக்கு மாறுகிறார், 3-நிமிட விடுதலை டைமர்.
+- **LTAA** (leave to avoid arrest): detain செய்யப்பட்ட போது disconnect → திரும்பி வந்ததும் 3 நிமிடங்களுக்கு auto-arrest.
+- **RTAA** (reset to avoid arrest): HP 75 அல்லது அதற்கு கீழே இருக்கும் போது reset பட்டன் முடக்கப்படும்.
+- **அழைப்பாணை** (Saman): அதிகாரிகளால் உடனடியாக விதிக்கப்படும் அபராதங்கள்.
+- **மேல்முறையீடுகள்**: Malaysia community server moderator-கள் மூலமாக.
 
 ---
 
-## Who can arrest
+## யார் கைது செய்யலாம்
 
-Not everyone can put you in cuffs. Arrest powers are limited to:
+எல்லோரும் உங்களை விலங்கிட முடியாது. கைது அதிகாரங்கள் இவர்களுக்கு மட்டுமே உண்டு:
 
-| Team | Group | Rank | Notes |
+| டீம் | Group | ரேங்க் | குறிப்புகள் |
 | --- | --- | --- | --- |
-| **PDRM** | 1182710 | Any | Standard police |
-| **KPTD (Military Police)** | 2817141 | Any | Any-rank — enforces across MAF and civilians |
-| **Polis Bantuan** | 6563708 | 2+ | Technically any-scope, but typically roleplayed as transit-scoped |
+| **PDRM** | 1182710 | எதுவும் | நிலையான காவல் துறை |
+| **KPTD (ராணுவ காவல்)** | 2817141 | எதுவும் | எந்த ரேங்கும் — MAF மற்றும் பொதுமக்கள் இருவரிடமும் நடவடிக்கை எடுக்கிறார்கள் |
+| **Polis Bantuan** | 6563708 | 2+ | தொழில்நுட்ப ரீதியாக எந்த வரம்பும், ஆனால் பொதுவாக transit-வரம்பு என roleplay செய்யப்படுகிறது |
 
-**Yang di-Pertuan Persekutuan** (MYSverse rank 220+) carries an `Arrest` tool in their loadout for ceremonial roleplay, but the game's arrest code doesn't recognise them as having arrest powers — they can't actually process an arrest. For real arrests, involve PDRM or KPTD.
+**Yang di-Pertuan Persekutuan** (MYSverse ரேங்க் 220+) சடங்கு roleplay-க்காக தங்கள் loadout-இல் `Arrest` டூலைக் கொண்டுள்ளார்கள், ஆனால் கேமின் arrest code அவர்களுக்கு கைது அதிகாரம் இருப்பதாக அங்கீகரிக்கவில்லை — அவர்களால் உண்மையில் கைதைச் செயல்படுத்த முடியாது. உண்மையான கைதுகளுக்கு, PDRM அல்லது KPTD-யை ஈடுபடுத்துங்கள்.
 
-RELA, BOMBA, KKM, MAF rank-and-file, SJAM, civilians: **no arrest powers**. They can witness, call in, or search with consent, but not arrest.
+RELA, BOMBA, KKM, MAF சாதாரண அங்கத்தினர்கள், SJAM, பொதுமக்கள்: **கைது அதிகாரம் இல்லை**. அவர்கள் சாட்சியாக இருக்கலாம், தகவல் தெரிவிக்கலாம், அல்லது அனுமதியுடன் தேடலாம், ஆனால் கைது செய்ய முடியாது.
 
 ---
 
-## The arrest flow (officer perspective)
+## கைது செயல்முறை (அதிகாரி கண்ணோட்டம்)
 
 ### 1. Detain
 
-- Approach the suspect.
-- Use the **Detain** action (via cuffEvents).
-- The suspect is held in a detained state — their character plays a surrender animation, movement is restricted.
+- சந்தேகநபரை அணுகுங்கள்.
+- **Detain** செயலைப் பயன்படுத்துங்கள் (cuffEvents வழியாக).
+- சந்தேகநபர் detain நிலையில் வைக்கப்படுகிறார் — அவர்களது character சரணடையும் அனிமேஷனை இயக்குகிறது, நகர்வு கட்டுப்படுத்தப்படுகிறது.
 
-### 2. Drag (optional)
+### 2. Drag (விருப்பத்தேர்வு)
 
-- You can drag a detained suspect to your vehicle or a holding area.
-- Useful when arresting multiple people — keep them in a group.
+- Detain செய்யப்பட்ட சந்தேகநபரை உங்கள் வாகனம் அல்லது தடுப்பு பகுதிக்கு drag செய்யலாம்.
+- பலரைக் கைது செய்யும் போது பயனுள்ளது — அவர்களை ஒரே குழுவில் வைத்திருங்கள்.
 
-### 3. Ground (optional, multiple offenders)
+### 3. Ground (விருப்பத்தேர்வு, பல குற்றவாளிகள்)
 
-- Lay a detained player down on the ground.
-- Stack several like this when dealing with multiple suspects at once.
+- Detain செய்யப்பட்ட பிளேயரை தரையில் கிடத்துங்கள்.
+- ஒரே நேரத்தில் பல சந்தேகநபர்களை கையாளும் போது இவ்வாறு பலரை அடுக்கலாம்.
 
 ### 4. Cuff
 
-- Use the **Cuff** tool on the detained suspect.
-- Handcuff animation plays.
-- Suspect is now cuffed — can't draw tools, can't run.
+- Detain செய்யப்பட்ட சந்தேகநபர் மீது **Cuff** டூலைப் பயன்படுத்துங்கள்.
+- விலங்கு அனிமேஷன் இயங்கும்.
+- சந்தேகநபர் இப்போது cuff செய்யப்பட்டுள்ளார் — டூல்களை எடுக்க முடியாது, ஓட முடியாது.
 
 ### 5. Arrest
 
-- Use the Arrest action (via cuffEvents or radial menu).
-- Suspect's team changes to **Arrested**.
-- A **3-minute release timer** starts.
-- **Arrest record** is created with:
-  - Officer ID
-  - Time of arrest
-  - Location (X, Y, Z)
-  - A **reference number** like `KL-{UserId}-{Index}`
-  - Arrest description
-  - OCG flag (if suspect was on OCG team)
+- Arrest செயலைப் பயன்படுத்துங்கள் (cuffEvents அல்லது radial menu வழியாக).
+- சந்தேகநபரின் டீம் **Arrested**-ஆக மாறுகிறது.
+- **3-நிமிட விடுதலை டைமர்** தொடங்குகிறது.
+- **Arrest record** இதனுடன் உருவாக்கப்படுகிறது:
+  - அதிகாரி ID
+  - கைது நேரம்
+  - இடம் (X, Y, Z)
+  - `KL-{UserId}-{Index}` போன்ற **குறிப்பு எண்**
+  - கைது விளக்கம்
+  - OCG flag (சந்தேகநபர் OCG டீமில் இருந்தால்)
 
-Discord webhook fires to log the arrest.
+கைதைப் பதிவு செய்ய Discord webhook இயங்கும்.
 
-### Distance-based arrest
+### தூரம் சார்ந்த கைது
 
-Officers can use `ArrestPlayerByDistance` — arrest someone within a range without cuffing them physically. Used for situations where the suspect is already downed or compliant at range.
+அதிகாரிகள் `ArrestPlayerByDistance`-ஐப் பயன்படுத்தலாம் — ஒரு வரம்புக்குள் உள்ள ஒருவரை உடல் ரீதியாக cuff செய்யாமல் கைது செய்யலாம். சந்தேகநபர் ஏற்கனவே downed-ஆக இருக்கும் அல்லது தூரத்தில் compliant-ஆக இருக்கும் சூழ்நிலைகளில் பயன்படுத்தப்படுகிறது.
 
 ---
 
-## What it's like to be arrested (suspect perspective)
+## கைது செய்யப்படுவது எப்படி இருக்கும் (சந்தேகநபர் கண்ணோட்டம்)
 
-- Your team changes to **Arrested** (Bright violet).
-- A **BlindedLayer** covers your screen (you're blindfolded).
-- An **ArrestedGUI** shows:
-  - The arresting officer's info
-  - The 3-minute countdown to release
-  - Your reference number
-- Movement restricted; tools disabled.
+- உங்கள் டீம் **Arrested**-ஆக (Bright violet) மாறுகிறது.
+- **BlindedLayer** உங்கள் திரையை மறைக்கிறது (நீங்கள் கண்கட்டப்பட்டுள்ளீர்கள்).
+- **ArrestedGUI** காட்டுகிறது:
+  - கைது செய்யும் அதிகாரியின் தகவல்
+  - விடுதலைக்கான 3-நிமிட countdown
+  - உங்கள் குறிப்பு எண்
+- நகர்வு கட்டுப்படுத்தப்பட்டுள்ளது; டூல்கள் முடக்கப்பட்டுள்ளன.
 
-After 3 minutes, the game releases you automatically and you can pick a team again.
+3 நிமிடங்களுக்குப் பிறகு, கேம் உங்களை தானாக விடுவிக்கும், நீங்கள் மீண்டும் ஒரு டீமைத் தேர்ந்தெடுக்கலாம்.
 
 ---
 
 ## LTAA — Leave To Avoid Arrest
 
-**Disconnecting while detained** is called LTAA, and it's enforced:
+**Detain செய்யப்பட்ட போது disconnect செய்வது** LTAA எனப்படுகிறது, இது கண்டிப்பாக நடைமுறைப்படுத்தப்படுகிறது:
 
-- The game detects that you left while detained or downed.
-- Your arrest is **auto-applied** — 3-minute timer starts.
-- The arrest record is saved to the game's database.
-- When you rejoin — even minutes later, even in a different session — you come back in jail with the remaining time.
+- நீங்கள் detain அல்லது downed நிலையில் வெளியேறியதை கேம் கண்டறிகிறது.
+- உங்கள் கைது **தானாகவே பயன்படுத்தப்படுகிறது** — 3-நிமிட டைமர் தொடங்குகிறது.
+- Arrest record கேமின் தரவுத்தளத்தில் சேமிக்கப்படுகிறது.
+- நீங்கள் மீண்டும் சேரும் போது — சில நிமிடங்கள் கழித்தாலும், வேறு session-இல் இருந்தாலும் — மீதமுள்ள நேரத்துடன் சிறையில் திரும்பி வருவீர்கள்.
 
-Don't rage-quit during an arrest. It'll follow you.
+கைதின் போது rage-quit செய்யாதீர்கள். அது உங்களைப் பின்தொடரும்.
 
-**Also applies if injured and leaving.** If someone took you down and you quit, the LTAA tracker catches it.
+**காயப்பட்டு வெளியேறினாலும் பொருந்தும்.** யாராவது உங்களை வீழ்த்தி நீங்கள் வெளியேறினால், LTAA tracker அதைப் பிடித்துவிடும்.
 
 ---
 
 ## RTAA — Reset To Avoid Arrest
 
-**Resetting your character** to escape a detain / arrest was a known exploit. Now:
+Detain / arrest-இலிருந்து தப்பிக்க **உங்கள் character-ஐ reset செய்வது** ஒரு அறியப்பட்ட exploit-ஆக இருந்தது. இப்போது:
 
-- The **reset button is automatically disabled** when your HP is at 75 or below.
-- You physically can't reset until you regen or get healed.
+- உங்கள் HP 75 அல்லது அதற்கு கீழே இருக்கும் போது **reset பட்டன் தானாகவே முடக்கப்படும்**.
+- நீங்கள் regen ஆகும் வரை அல்லது குணப்படுத்தப்படும் வரை உடல் ரீதியாக reset செய்ய முடியாது.
 
-This removes the RTAA escape hatch entirely.
-
----
-
-## Summons (Saman)
-
-Police can issue **summons** — on-the-spot fines for traffic or minor offences.
-
-- The officer uses the **Saman** tool.
-- You receive a summons notification.
-- The fine amount and reason appear in your **SummonsView** GUI.
-- You can browse received summons (with pagination for history).
-
-Pay up. Unpaid summons stay on your record.
+இது RTAA தப்பிக்கும் வழியை முற்றிலும் நீக்குகிறது.
 
 ---
 
-## Searches
+## அழைப்பாணை (Saman)
 
-Officers can request to search you with the **Search** tool:
+Traffic அல்லது சிறு குற்றங்களுக்கு காவல்துறை உடனடியாக அபராதம் — **அழைப்பாணை** விதிக்கலாம்.
 
-- You get a **consent popup** (Searchee GUI) with Yes / No buttons.
-- If you consent, the officer sees your backpack / pockets.
-- If you decline, the officer can't see inside (unless they had probable cause — roleplay rules).
+- அதிகாரி **Saman** டூலைப் பயன்படுத்துகிறார் (PDRM எந்த ரேங்கும், அல்லது Polis Bantuan ரேங்க் 2+ தேவை).
+- உங்கள் BR balance-இலிருந்து அபராதம் **உடனடியாகக் கழிக்கப்படும்** (ஒரு அழைப்பாணைக்கான அதிகபட்ச அபராதம்: **1,000 BR**).
+- நீங்கள் ஒரு popup toast notification-ஐப் பெறுவீர்கள்.
+- அபராதத் தொகை, காரணம், மற்றும் குறிப்பு எண் உங்கள் **SummonsView** GUI-இல் தோன்றும் — pagination-உடன் உங்கள் முழு வரலாற்றை உலாவலாம்.
+- அதிகாரிகள் ஒவ்வொரு **10 வினாடிகளுக்கும்** ஒரு அழைப்பாணை என rate-limit செய்யப்பட்டுள்ளனர்.
 
----
-
-## Fingerprinting
-
-**FingerPrint Scanner** tool — identifies you. Shows up in the officer's UI.
-
-## Getting out of trouble
-
-- **Wait out the 3 minutes.**
-- **Appeal** via the Malaysia community server — moderators handle disputes and bans.
-- **Stay in character** — pleading with an officer, offering bribes (in roleplay), or just accepting the arrest are all valid.
-
-## What NOT to do
-
-Per [Rules](/bandaraya/rules), the following will get you banned beyond the arrest:
-
-- **LTAA** (leave to avoid arrest) — general violation
-- **RTAA** (reset to avoid arrest) — general violation, though the reset button is now anti-RTAA
-- **Glitching through walls / escaping restricted areas** — general violation
-- **Glitching or abusing tools whilst detained or arrested** — general violation
-- **Going rogue as a public service team** — severe violation
+நீங்கள் மறுக்கவோ அல்லது வாதிடவோ முடியாது — அது ஏற்கனவே செலுத்தப்பட்டுவிட்டது. ஒரு அழைப்பாணை நியாயமற்றது என நீங்கள் நினைத்தால், community server வழியாக மேல்முறையீடு செய்யுங்கள் (moderator மதிப்பீடு).
 
 ---
 
-## Tips & gotchas
+## தேடுதல்கள்
 
-- **Cooperate.** You will be released in 3 minutes. Fighting an arrest roleplay-wise will make it worse.
-- **Don't LTAA.** The timer persists across sessions. You're not escaping anything.
-- **Officers, log your actions.** Arrest records are tracked; keep descriptions short and factual (they go into the record permanently).
-- **OCG members get flagged** — arrest records carry an `IsOCG` flag. Officers see this in MDT.
-- **Use MDT** — the police tablet app lets you BG-check a suspect, check BOLOs, and issue BOLOs of your own. See [Tablet](/bandaraya/tablet).
-- **Appeals exist** — if you think you were wrongly arrested, pursue it in the community server. The game's moderation team handles it.
+அதிகாரிகள் **Search** டூலுடன் உங்களைத் தேட அனுமதி கேட்கலாம்:
 
-## See also
+- நீங்கள் ஆம் / இல்லை பட்டன்களுடன் **consent popup** (Searchee GUI)-ஐப் பெறுவீர்கள்.
+- நீங்கள் சம்மதித்தால், அதிகாரி உங்கள் backpack / பாக்கெட்டுகளைப் பார்ப்பார்.
+- நீங்கள் மறுத்தால், அதிகாரியால் உள்ளே பார்க்க முடியாது (அவர்களிடம் probable cause இருந்தால் தவிர — roleplay விதிகள்).
 
-- [Emergency Services](/bandaraya/emergency-services) — PDRM tools and flow
-- [Tablet](/bandaraya/tablet) — MDT app for officers
-- [Rules](/bandaraya/rules) — full rule text, LTAA/RTAA consequences
-- [Combat & Health](/bandaraya/combat-and-health) — reset-disabled at low HP
-- [Teams](/bandaraya/teams) — which teams get arrest powers
-- [Glossary](/bandaraya/glossary) — LTAA, RTAA, MDT, BOLO
+---
+
+## கைரேகை பதிவு
+
+**FingerPrint Scanner** டூல் — உங்களை அடையாளம் காட்டுகிறது. அதிகாரியின் UI-இல் தோன்றும்.
+
+## சிக்கலில் இருந்து வெளியேறுதல்
+
+- **3 நிமிடங்களை பொறுத்திருங்கள்.**
+- Malaysia community server வழியாக **மேல்முறையீடு செய்யுங்கள்** — moderator-கள் தகராறுகள் மற்றும் ban-களைக் கையாளுகிறார்கள்.
+- **Character-இல் இருங்கள்** — அதிகாரியிடம் கெஞ்சுவது, லஞ்சம் தருவது (roleplay-இல்), அல்லது கைதை ஏற்றுக்கொள்வது ஆகிய அனைத்தும் சரியானவை.
+
+## என்ன செய்யக் கூடாது
+
+[விதிகள்](/bandaraya/rules) படி, கைதுக்கு அப்பால் பின்வருபவை உங்களை ban செய்யும்:
+
+- **LTAA** (leave to avoid arrest) — பொது மீறல்
+- **RTAA** (reset to avoid arrest) — பொது மீறல், reset பட்டன் இப்போது anti-RTAA என்றாலும்
+- **சுவர்கள் வழியாக glitching / கட்டுப்படுத்தப்பட்ட பகுதிகளிலிருந்து தப்பித்தல்** — பொது மீறல்
+- **Detain அல்லது arrest செய்யப்பட்ட போது glitching அல்லது டூல்களை தவறாகப் பயன்படுத்துதல்** — பொது மீறல்
+- **பொது சேவை டீமாக rogue ஆக மாறுதல்** — கடுமையான மீறல்
+
+---
+
+## Tips & பிரச்சினைகள்
+
+- **ஒத்துழையுங்கள்.** 3 நிமிடங்களில் நீங்கள் விடுவிக்கப்படுவீர்கள். Roleplay ரீதியாக கைதுக்கு எதிராகப் போராடுவது மோசமாக்கும்.
+- **LTAA செய்யாதீர்கள்.** டைமர் session-களுக்கிடையில் தொடர்கிறது. நீங்கள் எதிலிருந்தும் தப்பிக்கவில்லை.
+- **அதிகாரிகளே, உங்கள் செயல்களைப் பதிவு செய்யுங்கள்.** Arrest record-கள் கண்காணிக்கப்படுகின்றன; விளக்கங்களை சுருக்கமாகவும் உண்மையாகவும் வைத்திருங்கள் (அவை நிரந்தரமாக record-இல் செல்கின்றன).
+- **OCG உறுப்பினர்கள் flag செய்யப்படுகிறார்கள்** — arrest record-கள் `IsOCG` flag-ஐக் கொண்டிருக்கின்றன. அதிகாரிகள் இதை MDT-இல் பார்க்கிறார்கள்.
+- **MDT-ஐப் பயன்படுத்துங்கள்** — காவல் tablet app ஒரு சந்தேகநபரை BG-check செய்ய, BOLO-களைச் சரிபார்க்க, மற்றும் உங்கள் சொந்த BOLO-களை வெளியிட உங்களை அனுமதிக்கிறது. [Tablet](/bandaraya/tablet) பார்க்கவும்.
+- **மேல்முறையீடுகள் உள்ளன** — நீங்கள் தவறாகக் கைது செய்யப்பட்டதாக நினைத்தால், community server-இல் தொடரவும். கேமின் moderation டீம் அதைக் கையாளுகிறது.
+
+## மேலும் பார்க்கவும்
+
+- [அவசர சேவைகள்](/bandaraya/emergency-services) — PDRM டூல்கள் மற்றும் செயல்முறை
+- [Tablet](/bandaraya/tablet) — அதிகாரிகளுக்கான MDT app
+- [விதிகள்](/bandaraya/rules) — முழு விதித் தொகுப்பு, LTAA/RTAA விளைவுகள்
+- [போர் & உடல்நலம்](/bandaraya/combat-and-health) — குறைந்த HP-இல் reset முடக்கப்பட்டது
+- [டீம்கள்](/bandaraya/teams) — எந்த டீம்களுக்கு கைது அதிகாரம் உள்ளது
+- [சொற்றொகுப்பு](/bandaraya/glossary) — LTAA, RTAA, MDT, BOLO

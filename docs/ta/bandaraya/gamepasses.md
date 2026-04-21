@@ -1,72 +1,71 @@
 ---
-title: Gamepasses
+title: கேம்பாஸ்கள்
 description: >-
-  Every Bandaraya gamepass explained — Taxi Driver, Firearms Licence, HCC, Car
-  Radio, and more.
+  Bandaraya-வின் ஒவ்வொரு கேம்பாஸ் விளக்கம் — Taxi Driver, Firearms Licence, HCC,
+  Car Radio, மற்றும் பல.
 lang: ta
 translated_from_hash: 6f4cfc8f
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# கேம்பாஸ்கள்
 
-# Gamepasses
+கேம்பாஸ்கள் என்பவை உங்கள் கணக்கில் ஒரு அம்சத்தையோ, அணியையோ, அல்லது சலுகையையோ நிரந்தரமாக திறக்கும் ஒரு முறை Robux கொள்முதல்கள். நான்கு உள்ளன.
 
-Gamepasses are one-time Robux purchases that unlock a feature, team, or perk forever on your account. Four exist.
+## சுருக்கம்
 
-## TL;DR
-
-- **Taxi Driver (150 R$)** — cheap, good if you want to do the taxi job.
-- **Car Radio (100 R$)** — cheapest, pure vibes.
-- **Firearms Licence (1,250 R$)** — unlocks the gun shop. Only if you want to shoot.
-- **High Class Citizen (3,000 R$)** — priciest, best if you play a lot (income boost + luxury cars).
+- **Taxi Driver (150 R$)** — மலிவானது, டாக்சி வேலை செய்ய விரும்பினால் நல்லது.
+- **Car Radio (100 R$)** — மிக மலிவானது, சூழல் உணர்வுக்காக மட்டுமே.
+- **Firearms Licence (1,250 R$)** — துப்பாக்கிக் கடையைத் திறக்கிறது. நீங்கள் சுட விரும்பினால் மட்டும்.
+- **High Class Citizen (3,000 R$)** — மிக விலை உயர்ந்தது, நீங்கள் அதிகமாக விளையாடினால் சிறந்தது (வருமான அதிகரிப்பு + ஆடம்பர கார்கள்).
 
 ---
 
-## Full list
+## முழு பட்டியல்
 
-| Gamepass | Robux | What it does |
+| கேம்பாஸ் | Robux | அது என்ன செய்கிறது |
 | --- | --- | --- |
-| **Car Radio** | R$ 100 | Play music through your vehicle's radio while driving. Separate from team radio (which is free + uses TextChatService with voice STT/TTS). |
-| **Firearms Licence** | R$ 1,250 | Unlocks **Ammulaysia** (the licensed gun dealer). Civilian firearms are otherwise inaccessible. |
-| **High Class Citizen (HCC)** | R$ 3,000 | Increased BR income, access to luxury cars (BMW i7, Volvo XC90, Mercedes C300), HCC team membership. |
-| **Taxi Driver** | R$ 150 | Drive taxis and earn per trip without needing a Taxi Services group. Lets you join the Taxi Services team. |
+| **Car Radio** | R$ 100 | வாகனம் ஓட்டும்போது உங்கள் வாகனத்தின் ரேடியோ மூலம் இசையை இயக்குங்கள். அணி ரேடியோவிலிருந்து தனியானது (அது இலவசம் + குரல் STT/TTS உடன் TextChatService-ஐப் பயன்படுத்துகிறது). |
+| **Firearms Licence** | R$ 1,250 | **Ammulaysia**-வை (உரிமம் பெற்ற துப்பாக்கி விற்பனையாளர்) திறக்கிறது. இல்லையெனில் குடிமக்கள் துப்பாக்கிகளை அணுக முடியாது. |
+| **High Class Citizen (HCC)** | R$ 3,000 | அதிக BR வருமானம், ஆடம்பர கார்களுக்கான அணுகல் (BMW i7, Volvo XC90, Mercedes C300), HCC அணி உறுப்பினர் அந்தஸ்து. |
+| **Taxi Driver** | R$ 150 | Taxi Services குரூப் தேவையில்லாமல் டாக்சிகளை ஓட்டி ஒவ்வொரு பயணத்திற்கும் வருமானம் பெறுங்கள். Taxi Services அணியில் சேர உங்களை அனுமதிக்கிறது. |
 
 ---
 
-## Which to buy first
+## எதை முதலில் வாங்க வேண்டும்
 
-### "I want to chill and drive"
-**Car Radio.** 100 R$ gets you music everywhere. Cheapest and most universally useful.
+### "நான் நிதானமாக ஓட்ட விரும்புகிறேன்"
+**Car Radio.** 100 R$ கொடுத்தால் எல்லா இடத்திலும் இசை கிடைக்கும். மிக மலிவானது மற்றும் அனைத்திற்கும் மிகவும் பயனுள்ளது.
 
-### "I want to earn money"
-**Taxi Driver** (150 R$) — instant job access, low friction. Pair with Car Radio for maximum vibe.
+### "நான் பணம் சம்பாதிக்க விரும்புகிறேன்"
+**Taxi Driver** (150 R$) — உடனடி வேலை அணுகல், குறைந்த சிரமம். அதிகபட்ச சூழல் உணர்வுக்கு Car Radio-வுடன் இணைத்துக் கொள்ளுங்கள்.
 
-### "I want to roleplay with guns"
-**Firearms Licence** (1,250 R$). The only civilian way to a weapon — **unless** you're on a team that gets them issued (PDRM, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Be aware shops have a **5-minute cooldown** between purchases.
+### "நான் துப்பாக்கிகளுடன் ரோல்பிளே செய்ய விரும்புகிறேன்"
+**Firearms Licence** (1,250 R$). ஒரு ஆயுதத்திற்கான ஒரே குடிமக்கள் வழி — **அணிக்கு ஆயுதங்கள் வழங்கப்படும் ஒரு அணியில் இல்லாவிட்டால்** (PDRM, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). கடைகளில் ஒவ்வொரு கொள்முதலுக்கும் இடையில் **5 நிமிட குளிர்கால நேரம்** இருப்பதை கவனத்தில் கொள்ளுங்கள்.
 
-### "I want to min-max"
-**High Class Citizen** (3,000 R$). Income boost that pays for itself if you play regularly. Comes with luxury vehicles and exclusive team access. If you only play casually, skip — the Robux is better spent on BR developer products.
+### "நான் min-max செய்ய விரும்புகிறேன்"
+**High Class Citizen** (3,000 R$). நீங்கள் வழக்கமாக விளையாடினால் தன்னைத்தானே ஈடுசெய்யும் வருமான அதிகரிப்பு. ஆடம்பர வாகனங்கள் மற்றும் பிரத்யேக அணி அணுகலுடன் வருகிறது. நீங்கள் சாதாரணமாக மட்டுமே விளையாடினால், தவிர்த்துவிடுங்கள் — Robux-ஐ BR developer products-க்கு செலவிடுவது சிறந்தது.
 
-### "I want to play a lot"
-HCC first, then Taxi Driver for extra side income, then Car Radio for vibes. Firearms Licence only if combat roleplay is your thing.
+### "நான் நிறைய விளையாட விரும்புகிறேன்"
+முதலில் HCC, பின்னர் கூடுதல் துணை வருமானத்திற்காக Taxi Driver, பின்னர் சூழல் உணர்வுக்கு Car Radio. போர் ரோல்பிளே உங்கள் விருப்பமாக இருந்தால் மட்டும் Firearms Licence.
 
-## Gamepasses vs. developer products
+## கேம்பாஸ்கள் vs. developer products
 
-- **Gamepasses** are one-time, permanent unlocks.
-- **Developer products** (see [Economy](/bandaraya/economy#developer-products-buy-br-with-robux)) are consumable BR top-ups.
+- **கேம்பாஸ்கள்** என்பவை ஒரு முறை, நிரந்தர திறப்புகள்.
+- **Developer products** ([பொருளாதாரம்](/bandaraya/economy#developer-products-buy-br-with-robux) ஐப் பார்க்கவும்) என்பவை உபயோகிக்கக்கூடிய BR டாப்-அப்கள்.
 
-If you want a specific expensive car once, a BR developer product is cheaper. If you want a perk that pays off across every session, buy a gamepass.
+நீங்கள் ஒரு குறிப்பிட்ட விலை உயர்ந்த காரை ஒரு முறை மட்டும் விரும்பினால், BR developer product மலிவானது. ஒவ்வொரு அமர்விலும் பலன் தரும் ஒரு சலுகையை நீங்கள் விரும்பினால், கேம்பாஸ் வாங்குங்கள்.
 
-## Tips & gotchas
+## குறிப்புகள் & கவனத்தில் கொள்ள வேண்டியவை
 
-- **Gamepasses can't be refunded** once purchased. Robux back takes >3 days from Roblox anyway.
-- **Check your account first.** You already own a gamepass? Don't pay twice.
-- **Team access is automatic.** The moment you own the Taxi Driver gamepass, the Taxi Services team appears in your team menu.
-- **HCC stacks with jobs.** If you do POS or Taxi with HCC, your per-delivery / per-trip earnings go up.
+- **கேம்பாஸ்களை வாங்கிய பின் திருப்பி செலுத்த முடியாது**. Roblox-இலிருந்து Robux திரும்பப் பெற எப்படியும் 3 நாட்களுக்கு மேல் ஆகும்.
+- **முதலில் உங்கள் கணக்கைச் சரிபார்க்கவும்.** நீங்கள் ஏற்கனவே ஒரு கேம்பாஸ் வைத்திருக்கிறீர்களா? இரண்டு முறை செலுத்த வேண்டாம்.
+- **அணி அணுகல் தானியங்கி.** நீங்கள் Taxi Driver கேம்பாஸை வைத்திருக்கும் தருணம், Taxi Services அணி உங்கள் அணி மெனுவில் தோன்றும்.
+- **HCC வேலைகளுடன் சேர்ந்து செயல்படுகிறது.** நீங்கள் HCC-உடன் POS அல்லது Taxi செய்தால், ஒவ்வொரு டெலிவரி / ஒவ்வொரு பயணத்திற்கான உங்கள் வருமானம் அதிகரிக்கும்.
 
-## See also
+## இதையும் பார்க்கவும்
 
-- [Economy](/bandaraya/economy) — full BR economy
-- [Teams](/bandaraya/teams#special-teams) — HCC and Taxi Services team details
-- [Jobs](/bandaraya/jobs) — POS, Taxi, Tow
-- [Combat & Health](/bandaraya/combat-and-health) — weapons
+- [பொருளாதாரம்](/bandaraya/economy) — முழு BR பொருளாதாரம்
+- [அணிகள்](/bandaraya/teams#special-teams) — HCC மற்றும் Taxi Services அணி விவரங்கள்
+- [வேலைகள்](/bandaraya/jobs) — POS, Taxi, Tow
+- [போர் & சுகாதாரம்](/bandaraya/combat-and-health) — ஆயுதங்கள்

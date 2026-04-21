@@ -32,8 +32,10 @@ const SOURCE_ROOTS = {
 };
 const OUTPUT_ROOT = 'C:/Users/yan3321/rblx/wiki/docs';
 
-const [, , game, flag] = process.argv;
-const dryRun = flag === '--dry-run';
+const [, , game, ...flags] = process.argv;
+const dryRun = flags.includes('--dry-run');
+const onlyFlag = flags.find(f => f.startsWith('--only='));
+const onlySlugs = onlyFlag ? new Set(onlyFlag.slice(7).split(',')) : null;
 
 if (!game || !MAPS[game]) {
   console.error(`Usage: node scripts/migrate-source.mjs <bandaraya|lebuhraya|sumaya> [--dry-run]`);
@@ -113,6 +115,7 @@ let wrote = 0, skipped = 0;
 
 for (const [route, sources] of Object.entries(grouped)) {
   const slug = route.split('/').pop();
+  if (onlySlugs && !onlySlugs.has(slug)) continue;
   const outPath = join(OUTPUT_ROOT, game, `${slug}.md`);
 
   const pieces = [];

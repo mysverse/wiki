@@ -1,37 +1,33 @@
 ---
-title: "MYSverse 维基 — 一次记录一项 MYSverse 体验"
-description: "涵盖 Bandaraya、Lebuhraya 等 MYSverse 游戏服务器的完整指南。由马来西亚人打造，为所有人服务。"
+title: MYSverse 维基 — 一次记录一项 MYSverse 体验
+description: 涵盖 Bandaraya、Lebuhraya 等 MYSverse 游戏服务器的完整指南。由马来西亚人打造，为所有人服务。
 lang: zh
-translated_from_hash: "3c718ab7"
-translated_on: "2026-04-22"
+translated_from_hash: 3c718ab7
+translated_on: '2026-04-22'
 needs_review: true
 layout: home
-
 hero:
-  name: "MYSverse 维基"
-  text: "一次记录一项 MYSverse 体验"
-  tagline: "由马来西亚人打造，为所有人服务"
+  name: MYSverse 维基
+  text: 一次记录一项 MYSverse 体验
+  tagline: 由马来西亚人打造，为所有人服务
   image:
     light: /logo.svg
     dark: /logo_dark.svg
     alt: MYSverse 维基标志
   actions:
     - theme: brand
-      text: "开始 Bandaraya 之旅"
+      text: 开始 Bandaraya 之旅
       link: /zh/bandaraya/get-started
     - theme: alt
-      text: "开始 Lebuhraya 之旅"
+      text: 开始 Lebuhraya 之旅
       link: /zh/lebuhraya/get-started
-
 features:
   - title: 沉浸式马来西亚体验
-    details: "走进真实再现马来西亚多元文化与社群魅力的虚拟世界。"
-
+    details: 走进真实再现马来西亚多元文化与社群魅力的虚拟世界。
   - title: 活跃的角色扮演社群
-    details: "参与以马来西亚日常生活为灵感、由 MYSverse 政府机构和服务主办的互动角色扮演场景。"
-
+    details: 参与以马来西亚日常生活为灵感、由 MYSverse 政府机构和服务主办的互动角色扮演场景。
   - title: 社群驱动开发
-    details: "与我们携手塑造体验、分享反馈，共同发展 MYSverse。"
+    details: 与我们携手塑造体验、分享反馈，共同发展 MYSverse。
 ---
 
 ## 什么是 MYSverse？

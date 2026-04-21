@@ -1,13 +1,12 @@
 ---
-title: Teams
-description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+title: 队伍
+description: Sumaya 的五支队伍 — Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。
 lang: zh
 translated_from_hash: 00882afa
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Sumaya 中的队伍
+# 队伍
 
 Sumaya 有五个队伍，每个队伍都有独特的角色、工具和职责。你可以随时通过主菜单的**队伍**标签切换队伍。
 

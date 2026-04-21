@@ -101,11 +101,21 @@ Vehicles take damage from collisions. A heavily-damaged car will start to smoke,
 
 ### Your options
 
-- **Get repaired at a workshop**. **Gravstone Workshop** in Bandar Seri Putra is the go-to.
-- **Call a tow**. KEMRonda and workshop-licensed players can tow your vehicle.
-- **Despawn and respawn**. You'll lose the damaged vehicle, but you can spawn a fresh one.
+- **Drive into a repair zone**. There are **10 repair zones** scattered around the map — look for the green repair indicator. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
+- **Call a tow**. KEMRonda players with a tow truck can haul you to a workshop.
+- **Despawn and respawn**. From the MyPod menu you can despawn the broken vehicle and spawn a fresh one. Fastest option if you're in a hurry.
 
 If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens — that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
+
+## Customisation at Gravstone Workshop
+
+**Gravstone Workshop** in Bandar Seri Putra is the game's paint & visual customisation shop — **not** a repair centre. Drive your vehicle into the workshop's interior zone and a workshop GUI appears with paint and body options.
+
+- **Access requires the Workshop gamepass.** If you don't own it, the game prompts you to purchase when you open a paint option.
+- **Paint zones** you can recolour include the body, windows, tyres, and rims — each picks up a separate colour.
+- **Colour picker**: drag the hue, saturation, and value; the car updates in real-time as you adjust. Click Confirm to apply; Cancel to discard.
+
+Paints saved here are applied to your currently-spawned vehicle for the duration of the session. Unlockable paints (chrome, gradient, matte — see *Passes and Boosts*) are applied through a separate menu.
 
 ## Customisation
 
@@ -116,6 +126,16 @@ Vehicle customisation depends on the specific model. Common options include:
 - Body accessories
 
 Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
+
+## Emergency lights (ELS)
+
+All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) carry a lightbar that uses the game's ELS (Emergency Lighting System). Toggling ELS:
+
+- Plays one of **three flash patterns** — fast alternating, slow alternating, and rapid complex.
+- Is replicated to all players in the server so everyone sees your lights.
+- Grants an implicit speed-trap **immunity** — if you're over 200 studs/s with ELS active, you don't get a Speeding offence (emergency response in progress). Don't abuse this; the anti-cheat still watches.
+
+Use ELS only when responding to an incident. Cruising with lights on is a community etiquette no-no.
 
 ## Advanced vehicle controls
 

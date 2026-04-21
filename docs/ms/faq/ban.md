@@ -1,15 +1,14 @@
 ---
-title: Overcoming Bans - FAQ
+title: Mengatasi Larangan — Soalan Lazim
 description: >-
-  Complete guide to understanding and resolving bans in MYSverse games including
-  group restrictions, account issues, and troubleshooting steps.
+  Apa yang perlu dibuat jika akaun Roblox anda dilarang — rayuan, bukti, dan
+  akaun baharu.
 lang: ms
 translated_from_hash: 1290ed71
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Mengatasi Larangan
+# Mengatasi Larangan — Soalan Lazim
 
 ## Memahami Mesej Larangan
 

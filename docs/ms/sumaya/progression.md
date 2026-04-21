@@ -1,235 +1,247 @@
 ---
-title: Progression
-description: 'XP, levels, ranks, and the fastest paths to climb in Sumaya.'
+title: Kemajuan
+description: 'XP, tahap, pangkat, dan jalan terpantas untuk naik di Sumaya.'
 lang: ms
-translated_from_hash: b8e8d504
+translated_from_hash: a92b3ad8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kemajuan
 
-# Progression
+Sumaya mempunyai **sistem XP dua tingkat**: setiap tindakan yang anda lakukan mendapat **XP pemain** (menuju tahap global anda) dan **XP sektor** (menuju kerjaya atau perkhidmatan khusus yang anda lakukan). Halaman ini menerangkan cara ia berfungsi - apa yang naik tahap pada bila, bagaimana pangkat terlibat, dan strategi apa yang paling berkesan.
 
-Sumaya has a **two-tier XP system**: every action you take earns **player XP** (towards your global level) and **sector XP** (towards the specific career or service you're doing). This page explains how it all works - what levels up when, how ranks fit in, and what strategies work best.
+## Dua tingkat
 
-## The two tiers
+### Tahap pemain
 
-### Player level
+- Tahap akaun global, dikongsi merentasi segala yang anda lakukan.
+- Julat dari **1 hingga 300**.
+- Setiap tindakan sektor menambah XP pemain anda secara selari dengan XP sektor anda.
+- Tahap pemain yang lebih tinggi membuka beberapa kenderaan (kebanyakannya Polis) dan pencapaian rantaian kuest.
+- Untuk naik dari tahap 1 ke 300 memerlukan kira-kira **4.5 juta jumlah XP** - ia adalah grind yang panjang, kebanyakan pemain akan menetap jauh sebelum 300.
 
-- Global account level, shared across everything you do.
-- Ranges from **1 to 300**.
-- Every sector action adds to your player XP in parallel with your sector XP.
-- Higher player level unlocks a few vehicles (mostly Polis) and quest chain milestones.
-- To level from 1 to 300 requires around **4.5 million total XP** - it's a long grind, most players will settle long before 300.
+### Tahap sektor
 
-### Sector level
+- Tahap setiap kerjaya, bebas untuk setiap sektor yang anda kerjakan.
+- Julat bergantung pada sektor:
+  - **Bomba, Kesihatan, Polis, Fishing, Service**: 1 hingga 100.
+  - **Agriculture (minyak sawit)**: 1 hingga 25.
+- Tahap sektor anda menentukan **pangkat** (gelaran) anda dalam sektor tersebut.
+- Tahap sektor yang lebih tinggi membuka kenderaan khusus pasukan (contohnya Sanica Tanker pada sektor Bomba 65).
 
-- Per-career level, independent for each sector you work in.
-- Ranges depend on sector:
-  - **Bomba, Kesihatan, Polis, Fishing, Service**: 1 to 100.
-  - **Agriculture (palm oil)**: 1 to 25.
-- Your sector level drives your **rank** (title) within that sector.
-- Higher sector level unlocks team-specific vehicles (e.g. Sanica Tanker at Bomba sector 65).
+### Bagaimana mereka naik bersama
 
-### How they level together
+Hampir setiap tindakan dalam permainan memberikan **kedua-dua** XP pemain dan XP sektor, dengan jumlah yang sama untuk setiap satu. Contohnya, memadam satu blok api memberikan 5 XP pemain DAN 5 XP sektor Bomba.
 
-Almost every in-game action gives **both** player XP and sector XP, with the same amount to each. For example, extinguishing a fire block gives 5 player XP AND 5 Bomba sector XP.
+Jadi semasa anda grind, kedua-dua akaun global dan sektor khusus anda naik secara selari.
 
-So as you grind, both your global account and the specific sector rise in parallel.
+## XP setiap tindakan (rujukan pantas)
 
-## XP per action (quick reference)
+Berikut adalah jumlah XP yang diberikan oleh tindakan berbeza. Kedua-dua XP pemain dan XP sektor, melainkan dinyatakan.
 
-Here's how much XP different actions give. Both player XP and sector XP, unless noted.
+### Kerjaya awam
 
-### Civilian careers
-
-| Action | XP (scales with level) |
+| Tindakan | XP (meningkat mengikut tahap) |
 |--------|------------------------|
-| Rod fishing (per sold fish, 5 species) | 15 XP to player only — does NOT advance fishing sector |
-| Trawl fishing (per pulled fish) | 2 XP to both player and fishing sector |
-| Complete a mamak / fast food order | ~5 XP at level 1, grows with 1.1x multiplier |
-| Palm harvest | ~5 XP at level 1, grows with sector level |
-| Palm oil end-of-shift bonus (player XP only) | 50 XP |
+| Memancing dengan joran (setiap ikan dijual, 5 spesies) | 15 XP kepada pemain sahaja — TIDAK memajukan sektor fishing |
+| Memancing pukat (setiap ikan ditarik) | 2 XP kepada kedua-dua pemain dan sektor fishing |
+| Lengkapkan pesanan mamak / fast food | ~5 XP pada tahap 1, bertumbuh dengan pendarab 1.1x |
+| Tuai sawit | ~5 XP pada tahap 1, bertumbuh dengan tahap sektor |
+| Bonus hujung syif minyak sawit (XP pemain sahaja) | 50 XP |
 
-### Emergency services
+### Perkhidmatan kecemasan
 
-| Action | XP |
+| Tindakan | XP |
 |--------|-----|
-| Bomba: extinguish 1 fire block | 5 XP |
-| Bomba: other EMS nearby | 10 XP (to non-Bomba helpers) |
-| Kesihatan: first aid diagnosis | 15 XP |
-| Kesihatan: bandage heal | 30 XP |
-| Kesihatan: splint heal | 40 XP |
-| Kesihatan: X-Ray / MRI diagnosis | 20 XP |
-| Polis: arrest 1-star suspect | 50 XP |
-| Polis: arrest 2-star suspect | 100 XP |
-| Polis: arrest 3-star suspect | 175 XP |
-| Polis: arrest 4-star suspect | 275 XP |
-| Polis: arrest 5-star suspect | 400 XP |
-| Polis: nearby officer | 50% of arresting officer's reward |
-| Polis: radar capture | 30 XP |
+| Bomba: padam 1 blok api | 5 XP |
+| Bomba: EMS lain berdekatan | 10 XP (kepada pembantu bukan Bomba) |
+| Kesihatan: diagnosis pertolongan cemas | 15 XP |
+| Kesihatan: rawat dengan pembalut | 30 XP |
+| Kesihatan: rawat dengan anduh | 40 XP |
+| Kesihatan: diagnosis X-Ray / MRI | 20 XP |
+| Polis: tangkap suspek 1-bintang | 50 XP |
+| Polis: tangkap suspek 2-bintang | 100 XP |
+| Polis: tangkap suspek 3-bintang | 175 XP |
+| Polis: tangkap suspek 4-bintang | 275 XP |
+| Polis: tangkap suspek 5-bintang | 400 XP |
+| Polis: pegawai berdekatan | 50% daripada ganjaran pegawai yang menangkap |
+| Polis: tangkapan radar | 30 XP |
 
-### Quests
+### Kuest
 
-The 12-quest discovery chain pays **3,750 XP** across the per-quest rewards, **plus a 2,000 XP one-time finale bonus** on the last quest. Fully completed = **5,750 XP**. SR payout similarly: 2,900 normal + 1,500 finale = 4,400 Ringgit. See [Quests](/sumaya/quests).
+Rantaian penemuan 12-kuest membayar **3,750 XP** merentasi ganjaran setiap kuest, **ditambah bonus penutup sekali sahaja 2,000 XP** pada kuest terakhir. Siap sepenuhnya = **5,750 XP**. Bayaran SR juga serupa: 2,900 biasa + 1,500 penutup = 4,400 Ringgit. Lihat [Kuest](/sumaya/quests).
 
-## The Kesihatan +15% XP boost
+## Peningkatan XP +15% Kesihatan
 
-When Kesihatan players **activate the injury system**, every player on the server gets a **+15% multiplier on player XP** for the duration. The boost applies to all sources - crime, jobs, fires, anything that gives player XP.
+Apabila pemain Kesihatan **mengaktifkan sistem kecederaan**, setiap pemain di server mendapat **pendarab +15% pada XP pemain** untuk tempoh tersebut. Peningkatan ini terpakai untuk semua sumber - jenayah, pekerjaan, kebakaran, apa sahaja yang memberi XP pemain.
 
-Sector XP is **not** boosted - only player XP. So the boost helps your global account grind, not your specific career.
+XP sektor **tidak** ditingkatkan - hanya XP pemain. Jadi peningkatan ini membantu grind akaun global anda, bukan kerjaya khusus anda.
 
-This is a strong incentive to have medical players active on your server. Long grinding sessions are way more efficient when it's on.
+Ini adalah insentif yang kuat untuk mempunyai pemain perubatan aktif di server anda. Sesi grind yang panjang jauh lebih cekap apabila ia aktif.
 
-## Ranks
+## Pakaian dan kit kerjaya
 
-Each public-service sector has **ranks** - titles that auto-update based on your sector level. They're cosmetic; they don't gate gameplay (only your level does).
+Setiap pasukan perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan) mempunyai aliran aplikasi **Careers** di mana anda memakai pakaian dan item kit yang telah dibuka. Item-item ini dihadkan oleh **tahap sektor** anda untuk pasukan tersebut:
 
-### Bomba ranks (13 total)
+- **Outfits** menukar rupa seragam watak anda (contohnya Nurse scrubs, Specialist firesuit, Ambulance Operator vest).
+- **Kit items** melampirkan peralatan (tali pinggang, topi keledar, topeng, baju hujan).
 
-| Level | Rank |
+Item yang terkunci menunjukkan "Locked (Lv. X)" dalam aplikasi Careers sehingga tahap sektor anda mencapai ambang. Contoh had:
+
+- **POLIS**: Duty Belt + Beret pada L1, Reflective Vest pada L10, Reflective Coat pada L20.
+- **BOMBA**: Respirator + SCBA pada L15, EMRS pada L20, pelbagai kit pada L30-40, Senior Firesuit pada L50, Command Helmet pada L60, outfit Calendar pada L67.
+- **Kesihatan**: Nurse + Medical Mask pada L1, Ambulance Operator + Medikal Cap pada L15, N95 pada L20, Medikal Reflective Vest pada L25, Scrubs + Face Shield pada L30.
+
+## Pangkat
+
+Setiap sektor perkhidmatan awam mempunyai **pangkat** - gelaran yang dikemas kini secara automatik berdasarkan tahap sektor anda. Mereka adalah kosmetik; mereka tidak mengehadkan gameplay (hanya tahap anda yang mengehadkan).
+
+### Pangkat Bomba (13 keseluruhan)
+
+| Tahap | Pangkat |
 |-------|------|
-| 1 | Fire Officer (PB) |
-| 6 | Senior Fire Officer (PBK) |
-| 11 | Leading Fire Officer (PBT) |
-| 16 | Assistant Fire Superintendent (PPgB) |
-| 21 | Senior Assistant Fire Superintendent (PKPgB) |
-| 26 | Deputy Fire Superintendent (TPgB) |
-| 31 | Assistant Fire Superintendent (Station Level) |
-| 36 | Fire Superintendent (PgB) |
-| 41 | Senior Fire Superintendent (PgKB) |
-| 49 | Assistant Fire Commissioner (PPjB) |
-| 57 | Senior Assistant Fire Commissioner (PKPjB) |
-| 65 | Deputy Fire Commissioner (TPjB) |
-| 76 | Fire Commissioner (PjB) |
+| 1 | Pegawai Bomba (PB) |
+| 6 | Pegawai Bomba Kanan (PBK) |
+| 11 | Pegawai Bomba Tinggi (PBT) |
+| 16 | Penolong Penguasa Bomba (PPgB) |
+| 21 | Penolong Kanan Penguasa Bomba (PKPgB) |
+| 26 | Timbalan Penguasa Bomba (TPgB) |
+| 31 | Penolong Penguasa Bomba (Tahap Stesen) |
+| 36 | Penguasa Bomba (PgB) |
+| 41 | Penguasa Kanan Bomba (PgKB) |
+| 49 | Penolong Pesuruhjaya Bomba (PPjB) |
+| 57 | Penolong Kanan Pesuruhjaya Bomba (PKPjB) |
+| 65 | Timbalan Pesuruhjaya Bomba (TPjB) |
+| 76 | Pesuruhjaya Bomba (PjB) |
 
-### Kesihatan ranks (13 total)
+### Pangkat Kesihatan (13 keseluruhan)
 
-| Level | Rank |
+| Tahap | Pangkat |
 |-------|------|
-| 1 | Medical Trainee |
-| 6 | House Officer |
-| 11 | Nurse |
-| 16 | Medical Officer |
-| 21 | Assistant Medical Officer |
-| 26 | Senior Assistant Medical Officer |
-| 31 | Deputy Chief Assistant Medical Officer |
-| 36 | Chief Assistant Medical Officer |
-| 41 | Deputy Director of Health |
-| 49 | Director of Health |
-| 57 | Senior Director of Health |
-| 66 | Deputy Director General of Health |
-| 81 | Director General of Health |
+| 1 | Pelatih Perubatan |
+| 6 | Pegawai Rumah |
+| 11 | Jururawat |
+| 16 | Pegawai Perubatan |
+| 21 | Penolong Pegawai Perubatan |
+| 26 | Penolong Kanan Pegawai Perubatan |
+| 31 | Timbalan Ketua Penolong Pegawai Perubatan |
+| 36 | Ketua Penolong Pegawai Perubatan |
+| 41 | Timbalan Pengarah Kesihatan |
+| 49 | Pengarah Kesihatan |
+| 57 | Pengarah Kanan Kesihatan |
+| 66 | Timbalan Ketua Pengarah Kesihatan |
+| 81 | Ketua Pengarah Kesihatan |
 
-### Polis ranks (16 total)
+### Pangkat Polis (16 keseluruhan)
 
-| Level | Rank |
+| Tahap | Pangkat |
 |-------|------|
-| 1 | Police Constable |
-| 6 | Lance Corporal (L/Cpl) |
-| 11 | Corporal (Cpl) |
-| 16 | Sergeant (Sgt) |
-| 21 | Sergeant Major (SM) |
-| 26 | Sub-Inspector (SI) |
-| 31 | Probationary Inspector (P/Insp) |
-| 36 | Inspector (Insp) |
-| 41 | Chief Inspector (C/Insp) |
-| 46 | Assistant Superintendent of Police (ASP) |
-| 51 | Deputy Superintendent of Police (DSP) |
-| 56 | Superintendent of Police (SUPT) |
-| 61 | Assistant Commissioner of Police (ACP) |
-| 69 | Senior Assistant Commissioner of Police (SAC) |
-| 77 | Deputy Commissioner of Police (DCP) |
-| 89 | Commissioner of Police (CP) |
+| 1 | Konstabel Polis |
+| 6 | Lans Koperal (L/Kpl) |
+| 11 | Koperal (Kpl) |
+| 16 | Sarjan (Sjn) |
+| 21 | Sarjan Mejar (SM) |
+| 26 | Sub-Inspektor (SI) |
+| 31 | Inspektor Percubaan (P/Insp) |
+| 36 | Inspektor (Insp) |
+| 41 | Ketua Inspektor (C/Insp) |
+| 46 | Penolong Penguasa Polis (ASP) |
+| 51 | Timbalan Penguasa Polis (DSP) |
+| 56 | Penguasa Polis (SUPT) |
+| 61 | Penolong Pesuruhjaya Polis (ACP) |
+| 69 | Penolong Kanan Pesuruhjaya Polis (SAC) |
+| 77 | Timbalan Pesuruhjaya Polis (DCP) |
+| 89 | Pesuruhjaya Polis (CP) |
 
-For all three public services, the rank cap is below the level cap. You keep earning XP past the final rank, but your title won't change.
+Untuk ketiga-tiga perkhidmatan awam, had pangkat adalah di bawah had tahap. Anda terus memperoleh XP melepasi pangkat terakhir, tetapi gelaran anda tidak akan berubah.
 
-## Level-gated content
+## Kandungan berdasarkan tahap
 
-Some things unlock as you hit specific levels or sector levels. Most of these are vehicles.
+Sesetengah perkara dibuka apabila anda mencapai tahap atau tahap sektor tertentu. Kebanyakan ini adalah kenderaan.
 
-### Player level gates
+### Had tahap pemain
 
-| Level | Unlock |
+| Tahap | Buka |
 |-------|--------|
-| 1 | Game start - civilian jobs, default vehicles, Tier 1 Trawler |
-| 2 | Completes `q_levelup` quest (rewards 300 XP, 200 SR) |
-| 5 | Completes `q_rising_star` quest (500 XP, 400 SR) |
-| 10 | Completes `q_veteran` quest (800 XP, 700 SR) |
-| 15 | Protan Waja MPV Polis (6,500 Ringgit) - Polis only |
+| 1 | Mula permainan - pekerjaan awam, kenderaan lalai, Tier 1 Trawler |
+| 2 | Melengkapkan kuest `q_levelup` (ganjaran 300 XP, 200 SR) |
+| 5 | Melengkapkan kuest `q_rising_star` (500 XP, 400 SR) |
+| 10 | Melengkapkan kuest `q_veteran` (800 XP, 700 SR) |
+| 15 | Protan Waja MPV Polis (6,500 Ringgit) - Polis sahaja |
 
-### Sector level gates (Bomba)
+### Had tahap sektor (Bomba)
 
-| Sector level | Unlock |
+| Tahap sektor | Buka |
 |--------------|--------|
-| 1 | Merze Atego LFRT (free) |
+| 1 | Merze Atego LFRT (percuma) |
 | 20 | Sanica 94D LFRT (9,000 Ringgit) |
 | 40 | Tayoti Hiace Bomba (12,000 Ringgit), Sanica P310 FRT (13,000 Ringgit) |
 | 65 | Sanica P360 Tanker (20,000 Ringgit) |
 
-### Sector level gates (Polis)
+### Had tahap sektor (Polis)
 
-| Sector level | Unlock |
+| Tahap sektor | Buka |
 |--------------|--------|
-| 1 | Protan Wira MPV Polis (free) |
+| 1 | Protan Wira MPV Polis (percuma) |
 | 35 | Handai City MPV Polis (12,000 Ringgit) |
 | 55 | Handai Civic MPV Polis (15,000 Ringgit) |
 
-### Sector level gates (Kesihatan)
+### Had tahap sektor (Kesihatan)
 
-| Sector level | Unlock |
+| Tahap sektor | Buka |
 |--------------|--------|
-| 1 | Tayoti Hiace KKN Ambulance (free) |
+| 1 | Tayoti Hiace KKN Ambulance (percuma) |
 | 20 | Tayoti Hilux KKN Ambulance (8,000 Ringgit) |
 | 45 | Handai City KKN Ambulance (12,000 Ringgit) |
 
-### Civilian sector gates
+### Had sektor awam
 
-| Event | Condition |
+| Acara | Syarat |
 |-------|-----------|
-| Unlock Service Sector (Mamak / Fast Food) | Reach level 50 in Fishing or Agro |
-| Access Tier 2 / Tier 3 Trawlers | Own enough Ringgit to buy them |
+| Buka Sektor Service (Mamak / Fast Food) | Capai tahap 50 dalam Fishing atau Agro |
+| Akses Tier 2 / Tier 3 Trawlers | Miliki Ringgit yang cukup untuk membelinya |
 
-## Leveling strategy
+## Strategi naik tahap
 
-Want to level fast? Here are rough tactics:
+Mahu naik tahap cepat? Berikut adalah taktik kasar:
 
-### Early game (player level 1-10)
+### Awal permainan (tahap pemain 1-10)
 
-- Do the quest chain. It's front-loaded with levels 2, 5, and 10 milestones, paying 300+500+800 = 1,600 XP in chunks.
-- Pick a civilian sector to clock in to while you complete other quest steps.
-- Don't worry about sector levels yet - focus on player XP.
+- Buat rantaian kuest. Ia disarat awal dengan pencapaian tahap 2, 5, dan 10, membayar 300+500+800 = 1,600 XP dalam bahagian.
+- Pilih sektor awam untuk clock in semasa anda melengkapkan langkah kuest lain.
+- Jangan risau tentang tahap sektor lagi - fokus pada XP pemain.
 
-### Mid game (player level 10-50)
+### Pertengahan permainan (tahap pemain 10-50)
 
-- Pick an emergency service if you haven't. Kesihatan's +15% boost helps everyone.
-- Bomba is great for group grinds (bigger fires, more players = faster milestone bonuses).
-- Polis during off-peak is slow - you need criminals online.
+- Pilih perkhidmatan kecemasan jika belum. Peningkatan +15% Kesihatan membantu semua orang.
+- Bomba hebat untuk grind berkumpulan (kebakaran lebih besar, lebih ramai pemain = bonus pencapaian lebih pantas).
+- Polis semasa luar puncak adalah perlahan - anda perlukan penjenayah dalam talian.
 
-### Late game (player level 50+)
+### Akhir permainan (tahap pemain 50+)
 
-- Palm oil shifts for end-of-shift 50 XP bonus.
-- 5-star arrests if you can land them (400 XP each).
-- Bomba fire bonuses every 15 blocks = 150 SR.
+- Syif minyak sawit untuk bonus 50 XP hujung syif.
+- Tangkapan 5-bintang jika anda boleh mendapatkannya (400 XP setiap satu).
+- Bonus kebakaran Bomba setiap 15 blok = 150 SR.
 
-### Multi-sector strategy
+### Strategi pelbagai sektor
 
-- Everything you earn in a sector levels your player account in parallel.
-- Maxing Agro (25 levels) is the shortest ladder - good for a "first max" achievement.
-- Fishing is the most passive - level it while you do other things.
+- Segala yang anda peroleh dalam sektor menaikkan akaun pemain anda secara selari.
+- Memaksimumkan Agro (25 tahap) adalah tangga terpendek - bagus untuk pencapaian "first max".
+- Fishing adalah yang paling pasif - naikkan tahap sambil anda melakukan perkara lain.
 
-## Excess XP carry-over
+## Limpahan XP berlebihan
 
-If you have enough XP to level up multiple times in a single action (e.g. a big 400 XP arrest at low level), the excess carries over properly - you'll advance through multiple levels in one go without losing XP.
+Jika anda mempunyai XP yang cukup untuk naik tahap beberapa kali dalam satu tindakan (contohnya tangkapan besar 400 XP pada tahap rendah), lebihan melimpah dengan betul - anda akan maju melalui beberapa tahap sekaligus tanpa kehilangan XP.
 
 ## Tips
 
-- **Track the +15% boost.** Long session + Kesihatan active = way more efficient.
-- **Don't forget player XP is separate from sector XP.** If you switch careers, both still grow.
-- **Ranks are flex, not gameplay.** Don't feel pressured to max a rank you don't enjoy.
-- **Level gates are fewer than they seem.** Most content is available from level 1. The big gates are for high-tier team vehicles.
+- **Jejak peningkatan +15%.** Sesi panjang + Kesihatan aktif = jauh lebih cekap.
+- **Jangan lupa XP pemain berasingan daripada XP sektor.** Jika anda tukar kerjaya, kedua-duanya masih tumbuh.
+- **Pangkat adalah flex, bukan gameplay.** Jangan rasa tertekan untuk memaksimumkan pangkat yang anda tidak gemar.
+- **Had tahap lebih sedikit daripada yang dilihat.** Kebanyakan kandungan tersedia dari tahap 1. Had besar adalah untuk kenderaan pasukan tahap tinggi.
 
-## What next?
+## Apa seterusnya?
 
-- [Economy](/sumaya/economy) for how Ringgit works in parallel.
-- [Quests](/sumaya/quests) for the 12-quest chain and milestones.
-- [Career overview](/sumaya/jobs) or [Emergency services overview](/sumaya/emergency-services) for sector-specific grind tips.
+- [Ekonomi](/sumaya/economy) untuk cara Ringgit berfungsi secara selari.
+- [Kuest](/sumaya/quests) untuk rantaian 12-kuest dan pencapaian.
+- [Tinjauan kerjaya](/sumaya/jobs) atau [Tinjauan perkhidmatan kecemasan](/sumaya/emergency-services) untuk tip grind khusus sektor.

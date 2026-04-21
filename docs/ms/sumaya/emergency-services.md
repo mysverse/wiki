@@ -1,98 +1,97 @@
 ---
-title: Emergency Services Overview
-description: 'POLIS, BOMBA, and Kesihatan — the emergency services of Sumaya.'
+title: Gambaran Perkhidmatan Kecemasan
+description: 'POLIS, BOMBA, dan Kesihatan — perkhidmatan kecemasan di Sumaya.'
 lang: ms
-translated_from_hash: 29b8189f
+translated_from_hash: 42b80c66
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Gambaran Perkhidmatan Kecemasan
 
-# Emergency Services Overview
+Sumaya mempunyai tiga pasukan perkhidmatan kecemasan:
 
-Sumaya has three emergency-service teams:
+- [Bomba](/sumaya/bomba) - briged kebakaran
+- [Kesihatan](/sumaya/kesihatan) - perubatan / paramedik
+- [Polis](/sumaya/polis) - polis
 
-- [Bomba](/sumaya/bomba) - fire brigade
-- [Kesihatan](/sumaya/kesihatan) - medical / paramedic
-- [Polis](/sumaya/polis) - police
+Memilih salah satu pasukan ini meletakkan anda **bertugas** sebaik sahaja anda spawn. Tidak seperti kerjaya awam (yang anda clock in melalui telefon), perkhidmatan kecemasan adalah apa anda, bukan apa yang anda sedang buat.
 
-Picking one of these teams puts you **on duty** as soon as you spawn. Unlike civilian careers (which you clock into via the phone), emergency service is just what you are, not what you're doing.
+## Apa yang membezakan perkhidmatan kecemasan daripada kerjaya awam?
 
-## What makes emergency services different from civilian jobs?
-
-| | Civilian careers | Emergency services |
+| | Kerjaya awam | Perkhidmatan kecemasan |
 |---|------------------|---------------------|
-| How to join | Careers app on phone | Main menu team pick |
-| Max sector level | 25 (agro) or 100 (fishing / service) | 100 |
-| XP per action | Scales with level | Flat per action |
-| Tools | Given on shift start | Given on spawn |
-| Clock in required? | Yes | No, always on duty |
-| Level-gated vehicles? | Only trawlers | Yes, several gated at sector levels 15, 20, 35, 40, 45, 55, 65 |
+| Cara menyertai | App Careers di telefon | Pilihan pasukan di menu utama |
+| Tahap sektor maksimum | 25 (agro) atau 100 (perikanan / perkhidmatan) | 100 |
+| XP setiap tindakan | Berskala dengan tahap | Tetap setiap tindakan |
+| Peralatan | Diberi pada permulaan syif | Diberi semasa spawn |
+| Perlu clock in? | Ya | Tidak, sentiasa bertugas |
+| Kenderaan berasaskan tahap? | Hanya kapal tunda | Ya, beberapa dihadkan pada tahap sektor 15, 20, 35, 40, 45, 55, 65 |
 
-Emergency services also have the most detailed rank systems - 13 ranks for Bomba and Kesihatan, 16 for Polis, with proper Malaysian titles.
+Perkhidmatan kecemasan juga mempunyai sistem pangkat yang paling terperinci - 13 pangkat untuk Bomba dan Kesihatan, 16 untuk Polis, dengan gelaran Malaysia yang rasmi.
 
-## Which one should I try first?
+## Yang mana satu patut saya cuba dahulu?
 
-Quick guide:
+Panduan ringkas:
 
-- **You like action and pursuit:** [Polis](/sumaya/polis). Chasing suspects, running speed traps, writing arrests. Most dynamic when the server has criminals.
-- **You like teamwork and big moments:** [Bomba](/sumaya/bomba). Fires are group events. Multiple firefighters on one incident is the fastest way to level up.
-- **You like helping individuals:** [Kesihatan](/sumaya/kesihatan). Every patient is one-on-one: diagnose, treat, move on. Also gives the **+15% player-XP** boost to the whole server while your injury system is active.
+- **Anda suka aksi dan kejaran:** [Polis](/sumaya/polis). Mengejar suspek, menjalankan perangkap laju, membuat tangkapan. Paling dinamik apabila server ada penjenayah.
+- **Anda suka kerja berpasukan dan saat-saat besar:** [Bomba](/sumaya/bomba). Kebakaran ialah acara berkumpulan. Beberapa ahli bomba pada satu insiden ialah cara paling pantas untuk naik tahap.
+- **Anda suka membantu individu:** [Kesihatan](/sumaya/kesihatan). Setiap pesakit ditangani satu lawan satu: diagnos, rawat, teruskan. Juga memberi peningkatan **+15% player-XP** kepada seluruh server semasa sistem kecederaan anda aktif.
 
-## Common ground
+## Persamaan
 
-All three emergency services share a few mechanics:
+Ketiga-tiga perkhidmatan kecemasan berkongsi beberapa mekanik:
 
-### Rank and level
+### Pangkat dan tahap
 
-Your **sector level** tracks your progress in a specific service. You rank up at milestone levels (e.g. level 6, 11, 16, 21... for Bomba). Ranks are **titles only** - they don't lock gameplay. Only your **level** gates things like vehicles.
+**Tahap sektor** anda menjejaki kemajuan anda dalam perkhidmatan tertentu. Anda naik pangkat pada tahap penting (cth. tahap 6, 11, 16, 21... untuk Bomba). Pangkat ialah **gelaran sahaja** - ia tidak mengunci gameplay. Hanya **tahap** anda yang mengehadkan perkara seperti kenderaan.
 
-Max sector level is **100** for all three. Ranks stop progressing before that (e.g. Polis rank caps at level 89), so the final stretch is just flex.
+Tahap sektor maksimum ialah **100** untuk ketiga-tiganya. Pangkat berhenti menaik sebelum itu (cth. pangkat Polis berhenti pada tahap 89), jadi peringkat akhir hanyalah untuk bermegah.
 
-### Ringgit rewards go to your wallet
+### Ganjaran Ringgit masuk ke dompet anda
 
-Unlike civilian careers (which pay into your bank account), emergency service rewards are paid to your **wallet** directly, with the exception of crime-based payouts. That means you can spend them immediately without going to an ATM.
+Tidak seperti kerjaya awam (yang dibayar ke akaun bank anda), ganjaran perkhidmatan kecemasan dibayar terus ke **dompet** anda, kecuali bayaran berasaskan jenayah. Ini bermakna anda boleh membelanjakannya dengan segera tanpa perlu ke ATM.
 
-### Bonuses every N actions
+### Bonus setiap N tindakan
 
-Each service has a **milestone bonus**:
+Setiap perkhidmatan mempunyai **bonus pencapaian**:
 
-- Bomba: **150 Ringgit** bonus every **15** fire blocks.
-- Kesihatan: **150 Ringgit** bonus every **10** treatments.
-- Polis: **200 Ringgit** bonus every **5** arrests.
+- Bomba: bonus **150 Ringgit** setiap **15** blok kebakaran.
+- Kesihatan: bonus **150 Ringgit** setiap **10** rawatan.
+- Polis: bonus **200 Ringgit** setiap **5** tangkapan.
 
-The bonuses stack on top of your per-action rewards.
+Bonus ini ditambah di atas ganjaran setiap tindakan anda.
 
-### Demotion on wanted status
+### Penurunan pangkat apabila dikehendaki
 
-If a Bomba, Kesihatan, or Polis player **commits a crime** and crosses into 1-star wanted, they're **automatically demoted** off the team. You'll be kicked back to civilian. If you want to play a criminal, leave the emergency team first.
+Permainan diset untuk menurunkan pangkat pemain perkhidmatan kecemasan (BOMBA, Kesihatan, POLIS) secara automatik apabila mereka memasuki status dikehendaki 1-bintang, tetapi setakat pengesahan semasa pendengar acara itu tidak disambungkan - anda akan **kekal dalam pasukan kecemasan** anda walaupun selepas melakukan jenayah. Bindable penurunan pangkat menyala tanpa pengendali. Jangan bergantung pada permainan untuk menukar anda kembali menjadi awam; tukar pasukan secara manual sebelum melakukan apa-apa yang menyalahi undang-undang.
 
-## Kesihatan's global XP boost
+## Peningkatan XP global Kesihatan
 
-This is unique: when Kesihatan players activate the injury system, **every player on the server gets +15% player-level XP** (sector XP is unaffected). This is a big deal if you're grinding - watch for the boost indicator before a long session.
+Ini unik: apabila pemain Kesihatan mengaktifkan sistem kecederaan, **setiap pemain dalam server mendapat +15% player-level XP** (XP sektor tidak terjejas). Ini penting jika anda sedang grind - perhatikan penunjuk peningkatan sebelum sesi yang panjang.
 
-## Emergency vehicles
+## Kenderaan kecemasan
 
-Each service has its own vehicles, unlocked as your sector level rises. See [Vehicles](/sumaya/vehicles) for the full catalog, or the individual service pages for the team-specific list.
+Setiap perkhidmatan mempunyai kenderaannya sendiri, dibuka apabila tahap sektor anda meningkat. Lihat [Kenderaan](/sumaya/vehicles) untuk katalog penuh, atau halaman perkhidmatan individu untuk senarai khusus pasukan.
 
-Emergency vehicles have **sirens and lights** (ELS). Flipping the siren on while you're driving an emergency vehicle gives you temporary exemption from traffic offences - you can't be cited for speeding or crashes while your siren is active.
+Kenderaan kecemasan mempunyai **siren dan lampu** (ELS). Menghidupkan siren semasa anda memandu kenderaan kecemasan memberi anda pengecualian sementara daripada kesalahan trafik - anda tidak boleh disaman kerana memandu laju atau kemalangan semasa siren anda aktif.
 
-## 999 emergency calls
+## Panggilan kecemasan 999
 
-Civilians can dial **999** from their phone to request emergency services. Calls show up on the **MDT (Mobile Data Terminal)** app, which is visible to all on-duty emergency-service players. You can:
+Orang awam boleh mendail **999** dari telefon mereka untuk meminta perkhidmatan kecemasan. Panggilan akan muncul pada aplikasi **MDT (Mobile Data Terminal)**, yang boleh dilihat oleh semua pemain perkhidmatan kecemasan yang sedang bertugas. Anda boleh:
 
-- See the caller's location on your minimap.
-- Read any custom notes they included.
-- Set a waypoint to navigate there.
-- Mark a call as responded / closed.
+- Lihat lokasi pemanggil pada minimap anda.
+- Baca sebarang nota tersuai yang disertakan.
+- Tetapkan waypoint untuk menavigasi ke sana.
+- Tandakan panggilan sebagai dijawab / ditutup.
 
-This is the main way civilians summon you. The MDT is in the phone's app list - it appears only for players on emergency-service teams. See [Phone and UI](/sumaya/phone).
+Inilah cara utama orang awam memanggil anda. MDT berada dalam senarai app telefon - ia muncul hanya untuk pemain dalam pasukan perkhidmatan kecemasan. Lihat [Telefon dan UI](/sumaya/phone).
 
-## What next?
+## Apa seterusnya?
 
-Pick a service to read about:
+Pilih perkhidmatan untuk dibaca:
 
-- [Bomba (fire brigade)](/sumaya/bomba)
-- [Kesihatan (medical)](/sumaya/kesihatan)
-- [Polis (police)](/sumaya/polis)
+- [Bomba (briged kebakaran)](/sumaya/bomba)
+- [Kesihatan (perubatan)](/sumaya/kesihatan)
+- [Polis](/sumaya/polis)
 
-Or jump to [Crime and Law](/sumaya/crime-and-law) if you want to know what the Polis are up against.
+Atau lompat ke [Jenayah dan Undang-undang](/sumaya/crime-and-law) jika anda ingin tahu apa yang Polis hadapi.

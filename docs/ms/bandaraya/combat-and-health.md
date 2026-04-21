@@ -1,246 +1,245 @@
 ---
-title: Combat & Health
-description: 'Weapons, armor, injuries, and the medical system in Bandaraya.'
+title: Pertempuran & Kesihatan
+description: 'Senjata, perisai, kecederaan, dan sistem perubatan di Bandaraya.'
 lang: ms
 translated_from_hash: b70f1d8e
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Pertempuran & Kesihatan
 
-# Combat & Health
-
-Bandaraya uses **ACS (Advanced Combat System)** for weapons and a detailed health system (internal name: **Saude**, Portuguese for "health"). This page explains what happens when bullets fly and when blood runs — from both sides.
+Bandaraya menggunakan **ACS (Advanced Combat System)** untuk senjata dan sistem kesihatan yang terperinci (nama dalaman: **Saude**, bahasa Portugis untuk "kesihatan"). Halaman ini menerangkan apa yang berlaku apabila peluru berterbangan dan apabila darah mengalir — dari kedua-dua belah pihak.
 
 ## TL;DR
 
-- Most civilians can't carry guns. You need the **Firearms Licence gamepass** (1,250 R$), or you need to be on a team that issues them (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
-- Bullets pass through transparent / non-colliding / **Glass / Ignorable** parts. They stop at **Armor / EShield** parts. Some vehicles are bulletproof.
-- When injured: you lose **blood** (Sangue) and gain **pain** (Dor). Bleed, splint, bandage. Medics (KKM / SJAM) can stabilise you.
-- **Reset button disables at or below 75 HP** — you can't suicide out of a sticky situation.
-- **Bleedout timer is 5 minutes when KKM or SJAM are online.** Passive HP regen is also disabled while medics are on-shift. If no medic saves you in time, you respawn.
+- Kebanyakan orang awam tidak boleh membawa senjata api. Anda perlukan **gamepass Firearms Licence** (1,250 R$), atau anda perlu berada dalam pasukan yang mengeluarkannya (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
+- Peluru menembusi bahagian yang lutsinar / tidak berlanggar / **Glass / Ignorable**. Ia berhenti pada bahagian **Armor / EShield**. Sesetengah kenderaan kalis peluru.
+- Apabila cedera: anda kehilangan **darah** (Sangue) dan dapat **kesakitan** (Dor). Berdarah, bidai, balut. Paramedik (KKM / SJAM) boleh menstabilkan anda.
+- **Butang reset dilumpuhkan pada 75 HP atau lebih rendah** — anda tidak boleh bunuh diri untuk lepaskan diri daripada situasi susah.
+- **Pemasa bleedout ialah 5 minit apabila KKM atau SJAM berada dalam talian.** Regenerasi HP pasif juga dilumpuhkan semasa paramedik bertugas. Jika tiada paramedik menyelamatkan anda tepat pada masanya, anda akan respawn.
 
 ---
 
-## Weapons
+## Senjata
 
-### How to get a weapon
+### Cara mendapatkan senjata
 
-| Source | Requirement |
+| Sumber | Keperluan |
 | --- | --- |
-| **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass (1,250 R$). Legal, above-board. 5-minute cooldown between purchases. |
-| **Illegal Dealer (Hacker)** | Black-market. 5-minute cooldown (also resets if you reset/rejoin). |
-| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (various), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
-| **Armoury** | Team-gated armouries at IPD Dang Wangi and other bases. |
+| **Ammulaysia (Gun Dealer)** | Gamepass Firearms Licence (1,250 R$). Sah, tidak menyalahi undang-undang. Cooldown 5 minit antara pembelian. |
+| **Illegal Dealer (Hacker)** | Pasaran gelap. Cooldown 5 minit (juga reset jika anda reset/rejoin). |
+| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (pelbagai), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
+| **Armoury** | Armoury berpagar pasukan di IPD Dang Wangi dan pangkalan lain. |
 
-Civilians can't walk around with rifles. The Firearms Licence unlocks Ammulaysia for sidearms; teams get duty weapons.
+Orang awam tidak boleh berjalan-jalan dengan rifle. Firearms Licence membuka Ammulaysia untuk senjata sampingan; pasukan mendapat senjata bertugas.
 
-### Shooting (ACS basics)
+### Menembak (asas ACS)
 
-- **Left-click** to fire.
-- **R** to reload.
-- **B** (or tool-specific) to holster.
-- Recoil, spread, and rate-of-fire vary by weapon.
-- Running fire is less accurate than aimed shots.
+- **Klik kiri** untuk tembak.
+- **R** untuk muat semula.
+- **B** (atau khusus tool) untuk sarungkan.
+- Recoil, serakan, dan kadar tembakan berbeza mengikut senjata.
+- Tembakan sambil berlari kurang tepat berbanding tembakan yang dibidik.
 
-ACS has been battle-tested — normal DPS is up to ~1500 with legit weapons, peak ~3000. The anti-cheat has been tuned to allow real combat without kicking legit players.
+ACS telah diuji dalam pertempuran — DPS biasa adalah sehingga ~1500 dengan senjata sah, puncak ~3000. Anti-cheat telah ditala untuk membolehkan pertempuran sebenar tanpa kick pemain sah.
 
-### Bullet penetration
+### Penembusan peluru
 
-Bullets passing through parts depend on what the part is:
+Peluru yang menembusi bahagian bergantung pada jenis bahagian tersebut:
 
-- **Passes through** any part that is:
+- **Menembusi** sebarang bahagian yang:
   - **Transparent**
   - **Non-colliding**
-  - Named **Glass** or **Ignorable**
-- **Stops at** any part named:
-  - **Armor** — always blocks bullets
-  - **EShield** — energy shield, blocks bullets
+  - Dinamakan **Glass** atau **Ignorable**
+- **Berhenti pada** sebarang bahagian yang dinamakan:
+  - **Armor** — sentiasa menghalang peluru
+  - **EShield** — perisai tenaga, menghalang peluru
 
-This matters for cover: a chest-high wall might not stop a round if it's transparent; a wooden fence will stop one if it's collidable.
+Ini penting untuk perlindungan: dinding setinggi dada mungkin tidak menghentikan peluru jika ia lutsinar; pagar kayu akan menghentikannya jika ia boleh berlanggar.
 
-### Bulletproof vehicles
+### Kenderaan kalis peluru
 
-Some vehicles have `Armor` parts placed around the cabin — they're **fully bulletproof** inside.
+Sesetengah kenderaan mempunyai bahagian `Armor` yang diletakkan di sekeliling kabin — ia **kalis peluru sepenuhnya** di dalam.
 
-- **AV4** (PDRM) — 29 armour parts around the cabin
+- **AV4** (PDRM) — 29 bahagian perisai di sekeliling kabin
 - **V150** (PDRM)
-- **UTK Hilux variants** — bulletproof cabin
+- **Variasi UTK Hilux** — kabin kalis peluru
 
-Regular civilian cars are **not** bulletproof. A Proton Persona will not stop a round.
+Kereta awam biasa **tidak** kalis peluru. Proton Persona tidak akan menghentikan peluru.
 
 ---
 
-## Armour you wear
+## Perisai yang anda pakai
 
-Body armour is modelled via `Protecao` (Portuguese for "protection"):
+Perisai badan dimodelkan melalui `Protecao` (bahasa Portugis untuk "perlindungan"):
 
-| Item | What it does |
+| Item | Fungsi |
 | --- | --- |
-| **Vest** | Torso protection. Durability + damage reduction per hit. |
-| **Helmet** | Head protection. Without a helmet, headshots are lethal immediately. |
-| **Blast protection** | Reduces explosion damage (both vest and helmet have blast stats). |
+| **Vest** | Perlindungan torso. Ketahanan + pengurangan kerosakan setiap hit. |
+| **Helmet** | Perlindungan kepala. Tanpa helmet, headshot adalah maut serta-merta. |
+| **Blast protection** | Mengurangkan kerosakan letupan (kedua-dua vest dan helmet mempunyai stat blast). |
 
-**Tip:** motorcycles used to insta-kill you without a helmet. That's been removed, but helmets are still worth wearing for headshot protection.
+**Tip:** motosikal dulu bunuh anda serta-merta tanpa helmet. Itu telah dibuang, tetapi helmet masih berbaloi dipakai untuk perlindungan headshot.
 
-Armour wears down with hits; get it replaced at an armoury or staging area.
+Perisai haus dengan hit; dapatkan gantian di armoury atau kawasan staging.
 
 ---
 
-## Taking damage
+## Menerima kerosakan
 
-Bandaraya models health as three dimensions, not just HP:
+Bandaraya memodelkan kesihatan sebagai tiga dimensi, bukan hanya HP:
 
-| Stat | What it is | When it matters |
+| Stat | Apakah ia | Bila ia penting |
 | --- | --- | --- |
-| **Sangue** (Blood) | Blood level, 0–100 | Drops as you bleed. At 0 you flatline. |
-| **Dor** (Pain) | Pain level | High pain blurs your screen and slows you. |
-| **HP** (Humanoid) | Standard Roblox health | Dropping to 0 kills you outright. |
+| **Sangue** (Darah) | Tahap darah, 0–100 | Menurun apabila anda berdarah. Pada 0, jantung anda berhenti. |
+| **Dor** (Kesakitan) | Tahap kesakitan | Kesakitan tinggi mengaburkan skrin anda dan memperlahankan anda. |
+| **HP** (Humanoid) | Kesihatan Roblox standard | Menurun ke 0 membunuh anda terus. |
 
-Plus stamina, oxygen, and a host of stances (running, surrendered, cuffed, bleeding, downed, etc.).
+Tambah stamina, oksigen, dan pelbagai posisi (berlari, menyerah, digari, berdarah, tumbang, dll.).
 
-### States you can enter
+### Keadaan yang anda boleh masuki
 
-| State | What it means | How you got there |
+| Keadaan | Maksudnya | Bagaimana anda sampai ke sana |
 | --- | --- | --- |
-| **Ferido** (Injured) | Below full health | Any damage |
-| **Sangrando** (Bleeding) | Actively losing blood | Gunshot, major trauma |
-| **Caido** (Downed) | Incapacitated, not dead | Serious damage; can be revived |
-| **Balloonbleed / bbleeding** | Critical bleeding | Compound wounds |
-| **Dead** | RIP | Caido too long, or HP 0 |
+| **Ferido** (Cedera) | Di bawah kesihatan penuh | Sebarang kerosakan |
+| **Sangrando** (Berdarah) | Aktif kehilangan darah | Tembakan, trauma besar |
+| **Caido** (Tumbang) | Lumpuh, tidak mati | Kerosakan serius; boleh dihidupkan semula |
+| **Balloonbleed / bbleeding** | Pendarahan kritikal | Luka majmuk |
+| **Dead** | RIP | Caido terlalu lama, atau HP 0 |
 
-### Visual effects when hurt
+### Kesan visual apabila cedera
 
-| Effect | When it kicks in |
+| Kesan | Bila ia berlaku |
 | --- | --- |
-| Blur | Pain / injury |
-| Colour correction desaturation | Blood loss |
-| Vignette (corners darken) | Low health |
-| Dirty overlay | Injury / combat damage |
+| Blur | Kesakitan / kecederaan |
+| Desaturasi pembetulan warna | Kehilangan darah |
+| Vignette (sudut menjadi gelap) | Kesihatan rendah |
+| Lapisan kotor | Kecederaan / kerosakan pertempuran |
 
 ---
 
-## Medical kit items
+## Item kit perubatan
 
-Located in your kit if you have the right team/tool access. Full list:
+Terletak dalam kit anda jika anda mempunyai akses pasukan/tool yang betul. Senarai penuh:
 
-### Pain & stimulants
+### Kesakitan & perangsang
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **Morfina** | Morphine — pain relief |
-| **Epinefrina** | Epinephrine — stimulant, helps revive |
-| **Aspirina** | Aspirin — mild pain relief |
-| **Energetico** | Energy drink — stamina |
+| **Morfina** | Morfin — pelega kesakitan |
+| **Epinefrina** | Epinefrin — perangsang, membantu menghidupkan semula |
+| **Aspirina** | Aspirin — pelega kesakitan ringan |
+| **Energetico** | Minuman tenaga — stamina |
 
-### Blood & IV
+### Darah & IV
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **SacoDeSangue** | Blood bag — restores blood volume |
-| **Catheter** | IV catheter |
+| **SacoDeSangue** | Beg darah — memulihkan isipadu darah |
+| **Catheter** | Kateter IV |
 
-### Wound care
+### Rawatan luka
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **Bandagem** | Bandage — dresses wounds, slows bleeding |
-| **Tourniquet** | Full tourniquet — stops bleeding in a limb |
-| **Splint** | Stabilises fractures |
-| **Prolene / Nylon** | Suture materials |
+| **Bandagem** | Pembalut — membalut luka, memperlahankan pendarahan |
+| **Tourniquet** | Tourniquet penuh — menghentikan pendarahan pada anggota |
+| **Splint** | Menstabilkan patah tulang |
+| **Prolene / Nylon** | Bahan jahitan |
 
-### Airway (advanced, KKM)
+### Saluran udara (lanjutan, KKM)
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **ETube** | Endotracheal tube |
-| **NPA** | Nasopharyngeal airway |
+| **ETube** | Tiub endotrakeal |
+| **NPA** | Saluran udara nasofaring |
 | **BVM** | Bag valve mask |
-| **NRB** | Non-rebreather mask |
-| **O2** | Oxygen supply |
-| **Suction** | Clear airway |
+| **NRB** | Topeng non-rebreather |
+| **O2** | Bekalan oksigen |
+| **Suction** | Membersihkan saluran udara |
 
-### Surgical (advanced, KKM)
+### Pembedahan (lanjutan, KKM)
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **Scalpel** | Cut |
-| **Clamp** | Surgical clamp |
-| **Anesthetic** | Anaesthesia |
-| **Skit** | Surgical kit |
+| **Scalpel** | Memotong |
+| **Clamp** | Pengapit pembedahan |
+| **Anesthetic** | Ubat bius |
+| **Skit** | Kit pembedahan |
 
-### Other
+### Lain-lain
 
-| Item | Purpose |
+| Item | Tujuan |
 | --- | --- |
-| **Defib** | Defibrillator — restart flatlined heart |
+| **Defib** | Defibrilator — menghidupkan semula jantung yang terhenti |
 
 ---
 
-## Getting healed
+## Mendapat rawatan
 
-### Self-heal (civilians)
+### Rawatan sendiri (orang awam)
 
-- **Passive regen:** 1% of max HP per second (applied in 3-second ticks of 3% each) when not actively being healed (`TraumaKitHealing` pauses it) and not bleeding.
-- **Bandage yourself** — slows bleed, adds some HP.
-- **Drink / food** — minor boost.
+- **Regenerasi pasif:** 1% HP maksimum sesaat (digunakan dalam tick 3 saat sebanyak 3% setiap satu) apabila tidak sedang dirawat secara aktif (`TraumaKitHealing` menjedakannya) dan tidak berdarah.
+- **Balut diri sendiri** — memperlahankan pendarahan, menambah sedikit HP.
+- **Minuman / makanan** — peningkatan kecil.
 
-### Medic-heal (KKM / SJAM)
+### Rawatan paramedik (KKM / SJAM)
 
-A medic can:
+Seorang paramedik boleh:
 
-1. **Stop the bleed** with a tourniquet or bandage.
-2. **Restore blood** with a blood bag.
-3. **Relieve pain** with morphine.
-4. **Defib** if your heart stopped.
-5. **Perform surgery** (KKM only) — scalpel, anaesthetic, suture.
+1. **Menghentikan pendarahan** dengan tourniquet atau pembalut.
+2. **Memulihkan darah** dengan beg darah.
+3. **Melegakan kesakitan** dengan morfin.
+4. **Defib** jika jantung anda terhenti.
+5. **Melakukan pembedahan** (KKM sahaja) — scalpel, ubat bius, jahitan.
 
-Sit tight and don't run away.
+Duduk diam dan jangan lari.
 
-### Bleedout timer
+### Pemasa bleedout
 
-- **KKM or SJAM online** (teams: Institutional white / Forest green): 5-minute bleedout window once downed. Passive regen is disabled — medics have to save you.
-- **No medics online:** you can respawn whenever (the game doesn't hold you hostage if there's no medic).
+- **KKM atau SJAM dalam talian** (pasukan: Institutional white / Forest green): Tetingkap bleedout 5 minit setelah tumbang. Regenerasi pasif dilumpuhkan — paramedik yang perlu menyelamatkan anda.
+- **Tiada paramedik dalam talian:** anda boleh respawn bila-bila masa (permainan tidak menahan anda sebagai tebusan jika tiada paramedik).
 
-### Reset button
+### Butang reset
 
-The reset button is **disabled at 75 HP or below** — this is to stop **RTAA** (resetting to avoid arrest). If you're injured, fight through it or wait for a medic.
+Butang reset **dilumpuhkan pada 75 HP atau lebih rendah** — ini untuk menghentikan **RTAA** (reset untuk elak penahanan). Jika anda cedera, lawan terus atau tunggu paramedik.
 
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
-
----
-
-## Hardpoint — capture / raid gamemode
-
-**Hardpoint** is a capture-point gamemode reserved almost entirely for **OCG vs OCG** group events. It's not an everyday feature — it runs when an OCG leader triggers a raid.
-
-How it works (verified):
-
-- An OCG leader (rank 150+ in the main OCG group) types **`:startraid <Defenders> <Hostiles>`** in chat, picking two of: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
-- The **Point** (a capture trigger in `Workspace.HardPoints`) activates — becomes visible, trigger goes solid.
-- Players in the designated defender / hostile groups touch the trigger to capture for their team. Dead players can't capture (`DeathCap = false`).
-- **Timer:** 300 seconds on the active point. Teams accumulate score while they hold it.
-- **Win threshold:** 1250 points, or an OCG admin types **`:cancelraid`**.
-- **HardpointUI** shows two progress bars (Home / Away) + announcement frame + score + timer.
-
-If you're not OCG, you can watch but not score. PDRM / KPTD / BOMBA / KKM don't participate.
+Lihat [Penahanan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
 
 ---
 
-## Tips & gotchas
+## Hardpoint — mod permainan rampasan / serbuan
 
-- **Cover is not obvious.** Transparent parts don't stop bullets. Crouch behind something solid and named.
-- **Helmets save heads.** If you're going into a firefight, wear one.
-- **KKM or SJAM online means 5-minute bleedouts.** If no medic team is online, you can respawn faster.
-- **Reset is anti-RTAA at or below 75 HP.** Don't try.
-- **Your pain stat persists until healed.** Blur and slowdown stick around.
-- **Don't shoot first as a public service team.** It's a severe violation.
-- **Gun shop cooldowns.** 5 minutes between purchases at Ammulaysia and Illegal Dealer. The cooldown also resets on rejoin to stop abuse.
+**Hardpoint** ialah mod permainan titik rampasan yang dikhaskan hampir keseluruhannya untuk acara kumpulan **OCG vs OCG**. Ia bukan ciri harian — ia berjalan apabila seorang ketua OCG mencetuskan serbuan.
 
-## See also
+Cara ia berfungsi (disahkan):
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — detainment, arrest mechanics, LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM roles
-- [Economy](/bandaraya/economy) — Ammulaysia and Illegal Dealer shops
-- [Gamepasses](/bandaraya/gamepasses) — Firearms Licence
-- [Vehicles](/bandaraya/vehicles) — bulletproof vehicle list
-- [Rules](/bandaraya/rules) — combat etiquette and severe violations
+- Seorang ketua OCG (rank 150+ dalam kumpulan OCG utama) menaip **`:startraid <Defenders> <Hostiles>`** dalam chat, memilih dua daripada: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
+- **Point** (pencetus rampasan dalam `Workspace.HardPoints`) diaktifkan — menjadi kelihatan, pencetus menjadi solid.
+- Pemain dalam kumpulan pembela / musuh yang ditetapkan menyentuh pencetus untuk merampas untuk pasukan mereka. Pemain mati tidak boleh merampas (`DeathCap = false`).
+- **Pemasa:** 300 saat pada titik aktif. Pasukan mengumpul skor semasa mereka memegangnya.
+- **Ambang kemenangan:** 1250 mata, atau admin OCG menaip **`:cancelraid`**.
+- **HardpointUI** menunjukkan dua bar kemajuan (Home / Away) + bingkai pengumuman + skor + pemasa.
+
+Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. PDRM / KPTD / BOMBA / KKM tidak mengambil bahagian.
+
+---
+
+## Tip & perangkap
+
+- **Perlindungan tidak semestinya jelas.** Bahagian lutsinar tidak menghentikan peluru. Mencangkung di belakang sesuatu yang padu dan dinamakan.
+- **Helmet selamatkan kepala.** Jika anda akan masuk baku tembak, pakai satu.
+- **KKM atau SJAM dalam talian bermaksud bleedout 5 minit.** Jika tiada pasukan paramedik dalam talian, anda boleh respawn lebih cepat.
+- **Reset adalah anti-RTAA pada 75 HP atau lebih rendah.** Jangan cuba.
+- **Stat kesakitan anda kekal sehingga dirawat.** Blur dan perlahan akan kekal.
+- **Jangan tembak dulu sebagai pasukan perkhidmatan awam.** Itu pelanggaran teruk.
+- **Cooldown kedai senjata.** 5 minit antara pembelian di Ammulaysia dan Illegal Dealer. Cooldown juga reset semasa rejoin untuk menghentikan penyalahgunaan.
+
+## Lihat juga
+
+- [Penahanan & Undang-Undang](/bandaraya/arrest-and-law) — penahanan, mekanik penangkapan, LTAA / RTAA
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan KKM + SJAM
+- [Ekonomi](/bandaraya/economy) — kedai Ammulaysia dan Illegal Dealer
+- [Gamepass](/bandaraya/gamepasses) — Firearms Licence
+- [Kenderaan](/bandaraya/vehicles) — senarai kenderaan kalis peluru
+- [Peraturan](/bandaraya/rules) — etika pertempuran dan pelanggaran teruk

@@ -1,178 +1,181 @@
 ---
-title: Passes and Boosts
-description: 'Gamepasses, XP boosts, and Premium benefits in Lebuhraya.'
+title: பாஸ்கள் & பூஸ்டுகள்
+description: 'Lebuhraya-வில் கேம்பாஸ்கள், XP பூஸ்டுகள், மற்றும் Premium நன்மைகள்.'
 lang: ta
-translated_from_hash: be41fe5b
+translated_from_hash: ce49308a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பாஸ்கள் & பூஸ்டுகள்
 
-# Passes and Boosts
+இந்தப் பக்கம் உங்கள் Lebuhraya முன்னேற்றத்தை விரைவுபடுத்தக்கூடிய வழிகளைத் தொகுத்து வழங்குகிறது — gamepass, Roblox Premium, Season Pass, மற்றும் சிறப்பு நிகழ்வுகள்.
 
-This page rounds up the ways you can accelerate your Lebuhraya progress — gamepasses, Roblox Premium, Season Passes, and special events.
+## குழு gamepass-கள்
 
-## Team gamepasses
+ஐந்து குழுக்கள் gamepass-களின் பின்னால் பூட்டப்பட்டுள்ளன. பாஸை வாங்குவது உங்களுக்கு Main Menu-வில் இருந்து அந்தக் குழுவிற்கு நிரந்தர அணுகலை வழங்குகிறது.
 
-Five teams are locked behind gamepasses. Buying the pass gives you permanent access to that team from the Main Menu.
-
-| Team | What it gives you |
+| குழு | அது உங்களுக்கு என்ன வழங்குகிறது |
 |---|---|
-| **Taxi Driver** | Join the Taxi Driver team, earn fares by driving NPC passengers. Taxi vehicle variants unlock via career tiers. |
-| **Bandaraya** | Bundle pass — includes Taxi Driver access and more. |
-| **KEMRonda** | Highway auxiliary police access. Tow trucks, roadside assistance tools. |
-| **Bomba** | Fire and rescue access. Fire trucks, hoses, spreaders, chainsaws. |
-| **Polis Trafik** | Traffic police access. Tasers, radar guns, police vehicles. |
-| **Undercover Police** | Unmarked law-enforcement access. Same toolkit as Polis Trafik. |
+| **Taxi Driver** | Taxi Driver குழுவில் சேரவும், NPC பயணிகளை ஓட்டுவதன் மூலம் கட்டணம் சம்பாதிக்கவும். வாகனத் தொழில் நிலைகள் மூலம் டாக்சி வாகன மாறுபாடுகள் திறக்கப்படுகின்றன. |
+| **Bandaraya** | தொகுப்பு பாஸ் — Taxi Driver அணுகல் மற்றும் மேலும் பல அடங்கும். |
+| **KEMRonda** | நெடுஞ்சாலை துணை காவல்துறை அணுகல். டோ டிரக்குகள், சாலையோர உதவிக் கருவிகள். |
+| **Bomba** | தீ மற்றும் மீட்பு அணுகல். தீயணைப்பு வாகனங்கள், ஹோஸ்கள், ஸ்ப்ரெட்டர்கள், சங்கிலி ரம்பங்கள். |
+| **Polis Trafik** | போக்குவரத்து காவல்துறை அணுகல். டேசர்கள், ரேடார் துப்பாக்கிகள், காவல் வாகனங்கள். |
+| **Undercover Police** | அடையாளமற்ற சட்ட அமலாக்க அணுகல். Polis Trafik-ஐப் போன்ற அதே கருவிகள். |
 
-These gamepasses are one-time purchases in Robux. Look for them in the experience's Store tab or from NPCs at the relevant agency buildings.
+இந்த gamepass-கள் Robux-இல் ஒரு முறை வாங்குதலாகும். அனுபவத்தின் Store தாவலில் அல்லது தொடர்புடைய ஏஜென்சி கட்டடங்களில் உள்ள NPC-களிடமிருந்து அவற்றைப் பாருங்கள்.
 
 ## XP Boost gamepass
 
-A permanent **+50% XP** on everything you do. Stacks with all other XP multipliers — Premium, convoy, tokens, Double XP weekends.
+நீங்கள் செய்யும் அனைத்திற்கும் நிரந்தர **+50% XP**. மற்ற அனைத்து XP பெருக்கிகளுடனும் அடுக்க முடியும் — Premium, கான்வாய், டோக்கன்கள், Double XP வார இறுதிகள்.
 
-For players who plan on playing Lebuhraya long-term, this is one of the best-value gamepasses.
+Lebuhraya-ஐ நீண்ட காலம் விளையாட திட்டமிடும் வீரர்களுக்கு, இது சிறந்த மதிப்புள்ள gamepass-களில் ஒன்றாகும்.
 
-## Other gamepass perks
+## Workshop gamepass
 
-Smaller gamepasses and dev products may exist for:
+Bandar Seri Putra-வில் உள்ள **Gravstone Workshop**-இல் வண்ணம் மற்றும் பாடி கஸ்டமைசேஷன் மெனுவைத் திறக்கிறது. அதனுடன், உங்கள் வாகனத்தின் பாடி, ஜன்னல்கள், டயர்கள், மற்றும் ரிம்களை நேரலை வண்ணத் தேர்வாளர் மூலம் மீண்டும் வண்ணமிடலாம். அது இல்லாமல், எதையும் மாற்ற அனுமதிக்கும் முன் workshop உங்களை வாங்கும்படி தூண்டுகிறது.
 
-- Special vehicles or vehicle categories
-- Cosmetic items
-- VIP server amenities
-- Workshop or facility access
+## பிற gamepass சலுகைகள்
 
-Check the in-game Store for the current list.
+சிறிய gamepass-கள் மற்றும் dev products இவற்றுக்காக இருக்கலாம்:
+
+- சிறப்பு வாகனங்கள் அல்லது வாகன வகைகள்
+- அலங்கார பொருட்கள்
+- VIP server வசதிகள்
+- Workshop அல்லது வசதி அணுகல்
+
+தற்போதைய பட்டியலுக்கு விளையாட்டுக்குள் உள்ள Store-ஐ சரிபார்க்கவும்.
 
 ## Roblox Premium
 
-Roblox Premium subscribers get a permanent **+25% XP** in Lebuhraya, automatically — no activation needed. This stacks with every other boost. If you already subscribe to Roblox Premium, you're effectively always at ×1.25.
+Roblox Premium சந்தாதாரர்கள் Lebuhraya-வில் தானாகவே நிரந்தர **+25% XP** பெறுகிறார்கள் — செயல்படுத்தல் தேவையில்லை. இது ஒவ்வொரு பூஸ்டுடனும் அடுக்கப்படுகிறது. நீங்கள் ஏற்கனவே Roblox Premium-க்கு சந்தா செலுத்தினால், நீங்கள் திறம்பட எப்போதும் ×1.25-இல் இருக்கிறீர்கள்.
 
 ## Season Pass
 
-Lebuhraya runs **Season Passes** — time-limited progression tracks with tiered rewards.
+Lebuhraya **Season Pass**-களை இயக்குகிறது — அடுக்கு வெகுமதிகளுடன் கால-வரம்புள்ள முன்னேற்றப் பாதைகள்.
 
-### How Season Passes work
+### Season Pass எப்படி வேலை செய்கிறது
 
-- Each season lasts a set period (typically 5-6 weeks).
-- You earn **Season XP** by completing missions — short objective challenges linked to existing gameplay activities.
-- Every tier you clear grants a **reward** — typically a cosmetic item, token, or (historically) a shortcut to unlocking a team.
-- A **Premium Track** (purchased with a gamepass) unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
+- ஒவ்வொரு சீசனும் ஒரு குறிப்பிட்ட காலம் நீடிக்கும் (பொதுவாக 5-6 வாரங்கள்).
+- மிஷன்களை முடிப்பதன் மூலம் நீங்கள் **Season XP** சம்பாதிக்கிறீர்கள் — ஏற்கனவே உள்ள விளையாட்டு செயல்பாடுகளுடன் இணைக்கப்பட்ட குறுகிய நோக்க சவால்கள்.
+- நீங்கள் கடக்கும் ஒவ்வொரு நிலையும் ஒரு **வெகுமதியை** வழங்குகிறது — பொதுவாக ஒரு அலங்கார பொருள், டோக்கன், அல்லது (வரலாற்று ரீதியாக) ஒரு குழுவைத் திறக்க ஒரு குறுக்கு வழி.
+- **Premium Track** (gamepass-உடன் வாங்கப்பட்டது) ஒவ்வொரு நிலைக்கும் ஒரு இணை வெகுமதிப் பாதையைத் திறக்கிறது. இலவச வீரர்கள் இலவச வெகுமதிகளைப் பெறுகிறார்கள்; Premium வைத்திருப்பவர்கள் இலவச மற்றும் premium வெகுமதிகள் இரண்டையும் பெறுகிறார்கள்.
 
-### Current season: Season 2 "Lebuhraya"
+### தற்போதைய சீசன்: Season 2 "Lebuhraya"
 
-Running **March 20 – April 30, 2026** (UTC+8). 13 tiers. Rewards focus on XP drops, 2× XP and Season Pass Boost tokens, badges (like "Season 2 Pioneer"), and unlockable paints (e.g. "Copper Kampung").
+**மார்ச் 20 – ஏப்ரல் 30, 2026** (UTC+8) வரை இயங்குகிறது. 13 நிலைகள். வெகுமதிகள் XP drops, 2× XP மற்றும் Season Pass Boost டோக்கன்கள், பேட்ஜ்கள் ("Season 2 Pioneer" போன்றவை), மற்றும் திறக்கக்கூடிய பெயிண்ட்கள் (எ.கா. "Copper Kampung")-இல் கவனம் செலுத்துகின்றன.
 
-### Season 1 legacy unlocks
+### Season 1 மரபுத் திறப்புகள்
 
-The previous Season 1 pass unlocked three teams early for players who completed it:
+முந்தைய Season 1 பாஸ் அதை முடித்த வீரர்களுக்கு மூன்று குழுக்களை முன்கூட்டியே திறந்தது:
 
-- **Waste Disposal** (normally Level 25 — some in-game UI still says Level 50)
-- **Logistics** (normally Level 75)
-- **Lumberjack** (normally Level 150)
+- **Waste Disposal** (சாதாரணமாக Level 25 — சில விளையாட்டுக்குள் UI இன்னும் Level 50 எனக் கூறுகிறது)
+- **Logistics** (சாதாரணமாக Level 75)
+- **Lumberjack** (சாதாரணமாக Level 150)
 
-Players who earned these unlocks during Season 1 keep access permanently. Season 2 rewards are different — check the in-game Season menu for the current tier list.
+Season 1 இன் போது இந்தத் திறப்புகளைப் பெற்ற வீரர்கள் நிரந்தரமாக அணுகலைத் தக்க வைத்துக்கொள்கிறார்கள். Season 2 வெகுமதிகள் வேறுபட்டவை — தற்போதைய நிலை பட்டியலுக்கு விளையாட்டுக்குள் உள்ள Season மெனுவைச் சரிபார்க்கவும்.
 
-## Tokens
+## டோக்கன்கள்
 
-Tokens are consumable boost items stored in your inventory, activated manually. See [Social Features → Tokens and Boosts](/lebuhraya/social-features#tokens-and-boosts) for the full list.
+டோக்கன்கள் என்பது உங்கள் சரக்குப்பட்டியலில் சேமிக்கப்பட்ட பயன்படுத்தக்கூடிய பூஸ்ட் பொருட்கள், கைமுறையாக செயல்படுத்தப்படுகின்றன. முழு பட்டியலுக்கு [சமூக அம்சங்கள் → டோக்கன்கள் மற்றும் பூஸ்டுகள்](/lebuhraya/social-features#tokens-and-boosts) ஐப் பார்க்கவும்.
 
-Most notable:
+மிக குறிப்பிடத்தக்கவை:
 
-- **2× XP Boost** token — +100% XP for a set duration
-- **Team Access Pass** — temporary access to a gamepass-locked team
-- **2× Season Pass Boost** — doubles Season Pass XP gains
+- **2× XP Boost** டோக்கன் — ஒரு குறிப்பிட்ட காலத்திற்கு +100% XP
+- **Team Access Pass** — gamepass-பூட்டப்பட்ட குழுவிற்கு தற்காலிக அணுகல்
+- **2× Season Pass Boost** — Season Pass XP ஆதாயங்களை இரட்டிப்பாக்குகிறது
 
-## Double XP Weekends
+## Double XP வார இறுதிகள்
 
-Periodically, the game runs **Double XP Weekend** events. Every player's base XP multiplier becomes ×2 for the duration. This is on top of everything else.
+அவ்வப்போது, விளையாட்டு **Double XP Weekend** நிகழ்வுகளை நடத்துகிறது. ஒவ்வொரு வீரரின் அடிப்படை XP பெருக்கி அந்தக் காலத்திற்கு ×2 ஆகிறது. இது மற்ற அனைத்திற்கும் மேலதிகமாக உள்ளது.
 
-Watch MYSverse's community channels for announcements (the Rafahia App, Discord, or in-game banner notifications).
+அறிவிப்புகளுக்கு MYSverse-இன் சமூக சேனல்களைக் கவனியுங்கள் (Rafahia App, Discord, அல்லது விளையாட்டுக்குள் பேனர் அறிவிப்புகள்).
 
-## The math of stacking
+## அடுக்குதலின் கணிதம்
 
-Here's a maxed-out XP scenario:
+அதிகபட்ச XP காட்சி இதோ:
 
-- Base: ×1
-- Double XP Weekend: ×2 (this replaces the base multiplier)
+- அடிப்படை: ×1
+- Double XP Weekend: ×2 (இது அடிப்படை பெருக்கியை மாற்றுகிறது)
 - XP Boost gamepass: +0.5
 - Roblox Premium: +0.25
-- Token XP Boost: +1.0
-- Full convoy of friends on the same team: +0.5
-- **Total multiplier: around ×4.25**
+- டோக்கன் XP Boost: +1.0
+- அதே குழுவில் நண்பர்களின் முழு கான்வாய்: +0.5
+- **மொத்த பெருக்கி: சுமார் ×4.25**
 
-That's a level 50 in what would ordinarily take to hit level 12. Use these during serious grind sessions.
+இது பொதுவாக நிலை 12-ஐ அடைய எடுக்கும் நேரத்தில் ஒரு நிலை 50 ஆகும். தீவிரமான கிராண்ட் அமர்வுகளின் போது இவற்றைப் பயன்படுத்துங்கள்.
 
-## Challenges and achievements
+## சவால்கள் மற்றும் சாதனைகள்
 
-The **Challenges** system (accessible from the Main Menu → Challenges) rewards you for playing the game's day-to-day activities. Three categories exist:
+**Challenges** அமைப்பு (Main Menu → Challenges-இல் இருந்து அணுகலாம்) விளையாட்டின் தினசரி செயல்பாடுகளை விளையாடுவதற்கு உங்களுக்கு வெகுமதி அளிக்கிறது. மூன்று வகைகள் உள்ளன:
 
-### Daily challenges (reset every 24 h)
+### தினசரி சவால்கள் (ஒவ்வொரு 24 மணி நேரத்திற்கும் மீட்டமை)
 
-- **Traveller** — drive a distance target
-- **Fishing** — catch a number of fish
-- **Konvoi Harian** — spend time in convoy
+- **Traveller** — ஒரு தூர இலக்கை ஓட்டுங்கள்
+- **Fishing** — ஒரு குறிப்பிட்ட எண்ணிக்கை மீன்களைப் பிடியுங்கள்
+- **Konvoi Harian** — கான்வாயில் நேரத்தைச் செலவிடுங்கள்
 
-### Weekly challenges (reset every 7 days)
+### வாரந்தோறும் சவால்கள் (ஒவ்வொரு 7 நாட்களுக்கும் மீட்டமை)
 
-- **Traveller** — longer distance target
-- **Fishing** — weekly fish quota
-- **Konvoi Mingguan** — weekly convoy time
-- **Quiz** + **Quiz Advanced** — answer quiz questions
-- **Laptime** + **Laptime Advanced** — post race times under a threshold
+- **Traveller** — நீண்ட தூர இலக்கு
+- **Fishing** — வாரந்தோறும் மீன் ஒதுக்கீடு
+- **Konvoi Mingguan** — வாரந்தோறும் கான்வாய் நேரம்
+- **Quiz** + **Quiz Advanced** — வினாடி வினா கேள்விகளுக்கு பதிலளிக்கவும்
+- **Laptime** + **Laptime Advanced** — ஒரு வரம்புக்கு கீழே போட்டி நேரங்களைப் பதிவு செய்யுங்கள்
 
-### Discovery / achievements (one-time, permanent)
+### கண்டுபிடிப்பு / சாதனைகள் (ஒரு முறை, நிரந்தரமானது)
 
-34 one-time goals across fundamentals and milestones. Highlights:
+அடிப்படைகள் மற்றும் மைல்கற்களில் 34 ஒரு முறை இலக்குகள். முக்கிய அம்சங்கள்:
 
-- **First Drive** — your first seat-in-vehicle moment
-- **Jalan Jalan** — roam the map
-- **Anak Murid** — visit the school
-- **Cari Kerja** — try your first job
-- **Bayar Tol** — pass through a toll
-- **Penghantar Makanan** — complete food deliveries
-- **Penebang Kayu** — chop wood
-- **Pemandu Teksi** — complete taxi missions
-- **Pemandu Lagenda** — the driving-distance endgame
+- **First Drive** — உங்கள் முதல் வாகனத்தில் அமரும் தருணம்
+- **Jalan Jalan** — வரைபடத்தில் சுற்றித் திரியுங்கள்
+- **Anak Murid** — பள்ளியைப் பாருங்கள்
+- **Cari Kerja** — உங்கள் முதல் வேலையை முயற்சிக்கவும்
+- **Bayar Tol** — ஒரு டோலின் வழியாகச் செல்லுங்கள்
+- **Penghantar Makanan** — உணவு டெலிவரிகளை முடிக்கவும்
+- **Penebang Kayu** — மரத்தை வெட்டுங்கள்
+- **Pemandu Teksi** — டாக்சி மிஷன்களை முடிக்கவும்
+- **Pemandu Lagenda** — ஓட்டுதல்-தூரத்தின் இறுதிக்கட்டம்
 
-Plus 16 achievement badges (prefixed `ach_`): road-legend tier milestones, marathon driver, master angler, speed demon, pembalap (racer), convoy king, jack-of-all-trades, warga sejati (true citizen), and more.
+மேலும் 16 சாதனை பேட்ஜ்கள் (`ach_` முன்னொட்டு): road-legend அடுக்கு மைல்கற்கள், மாரத்தான் ஓட்டுநர், master angler, speed demon, pembalap (பந்தய ஓட்டுநர்), கான்வாய் ராஜா, jack-of-all-trades, warga sejati (உண்மையான குடிமகன்), மற்றும் பல.
 
-## Unlockable rewards
+## திறக்கக்கூடிய வெகுமதிகள்
 
-Beyond your level and career ranks, a separate catalogue of **42 unlockables** tracks cosmetic progression. Earned through season passes, events, codes, and achievements. Three types:
+உங்கள் நிலை மற்றும் தொழில் தரவரிசைகளுக்கு அப்பால், **42 unlockable**-களின் தனி பட்டியல் அலங்கார முன்னேற்றத்தைக் கண்காணிக்கிறது. season pass-கள், நிகழ்வுகள், கோடுகள், மற்றும் சாதனைகள் மூலம் சம்பாதிக்கப்படுகிறது. மூன்று வகைகள்:
 
-- **12 vehicle paints** — colour, gradient, and texture variants (e.g. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Apply from the vehicle customisation menu when owning a paint-compatible car.
-- **17 titles** — cosmetic overhead tags (e.g. "Highway King"). Pick one to show above your character.
-- **13 collectable badges** — decorative badges (e.g. "Pemandu Season 2 Dedicated") shown on your profile.
+- **12 வாகன பெயிண்ட்கள்** — வண்ணம், சாய்வு, மற்றும் அமைப்பு மாறுபாடுகள் (எ.கா. Chrome Silver, Matte Black, Neon Green, Copper Kampung). பெயிண்ட்-இணக்கமான கார் வைத்திருக்கும் போது வாகன கஸ்டமைசேஷன் மெனுவில் இருந்து பயன்படுத்தவும்.
+- **17 பட்டங்கள்** — அலங்கார மேல்முகத் தலையாட்டிகள் (எ.கா. "Highway King"). உங்கள் கதாபாத்திரத்திற்கு மேலே காட்ட ஒன்றைத் தேர்ந்தெடுக்கவும்.
+- **13 சேகரிக்கக்கூடிய பேட்ஜ்கள்** — உங்கள் சுயவிவரத்தில் காட்டப்படும் அலங்கார பேட்ஜ்கள் (எ.கா. "Pemandu Season 2 Dedicated").
 
-Active unlocks are saved per-player — you keep everything you earn across sessions.
+செயலில் உள்ள திறப்புகள் ஒவ்வொரு வீரருக்கும் சேமிக்கப்படுகின்றன — அமர்வுகள் முழுவதும் நீங்கள் சம்பாதித்த அனைத்தையும் வைத்துக் கொள்கிறீர்கள்.
 
-## Roblox badges for driving distance
+## ஓட்டுதல் தூரத்திற்கான Roblox பேட்ஜ்கள்
 
-Four real Roblox badges auto-award when you pass mileage milestones:
+நீங்கள் தூர மைல்கற்களைக் கடக்கும்போது நான்கு உண்மையான Roblox பேட்ஜ்கள் தானாகவே வழங்கப்படுகின்றன:
 
-| Distance driven | Badge |
+| ஓட்டப்பட்ட தூரம் | பேட்ஜ் |
 |---|---|
-| 50,000 studs | 50k Badge |
-| 100,000 studs | 100k Badge |
-| 500,000 studs | 500k Badge |
-| 1,000,000 studs | 1m Badge |
+| 50,000 stud | 50k Badge |
+| 100,000 stud | 100k Badge |
+| 500,000 stud | 500k Badge |
+| 1,000,000 stud | 1m Badge |
 
-Badges are awarded server-authoritatively as your distance counter increments — you don't need to claim them.
+உங்கள் தூர கவுண்டர் அதிகரிக்கும் போது பேட்ஜ்கள் server-அதிகாரத்துடன் வழங்கப்படுகின்றன — நீங்கள் அவற்றை க்ளெய்ம் செய்ய தேவையில்லை.
 
-Race-win milestones (1, 10, 50, 100 wins; 10, 50 finishes; 10, 100 trials) are also tracked internally; Roblox badge IDs for these may be added in future updates.
+பந்தய-வெற்றி மைல்கற்கள் (1, 10, 50, 100 வெற்றிகள்; 10, 50 முடிவுகள்; 10, 100 சோதனைகள்) உள்நாட்டிலும் கண்காணிக்கப்படுகின்றன; இவற்றுக்கான Roblox பேட்ஜ் ID-கள் எதிர்கால புதுப்பிப்புகளில் சேர்க்கப்படலாம்.
 
-## What to buy first?
+## முதலில் என்ன வாங்க வேண்டும்?
 
-If you've played for a few days and want to invest:
+நீங்கள் சில நாட்களாக விளையாடி முதலீடு செய்ய விரும்பினால்:
 
-1. **XP Boost gamepass** — the best per-dollar XP acceleration. Permanent.
-2. **A team gamepass you enjoy** — Bomba and Polis Trafik are the most popular because the 999 system is a lot of fun.
-3. **Season Pass** (Premium Track) — only worth it if you actively play during the season and want the specific rewards or early job unlocks.
+1. **XP Boost gamepass** — ஒரு டாலருக்கு சிறந்த XP முடுக்கம். நிரந்தரமானது.
+2. **நீங்கள் ரசிக்கும் ஒரு குழு gamepass** — Bomba மற்றும் Polis Trafik மிகவும் பிரபலமானவை, ஏனெனில் 999 அமைப்பு மிகவும் வேடிக்கையாக இருக்கிறது.
+3. **Season Pass** (Premium Track) — நீங்கள் சீசன் முழுவதும் தீவிரமாக விளையாடி குறிப்பிட்ட வெகுமதிகள் அல்லது ஆரம்ப வேலை திறப்புகளை விரும்பினால் மட்டுமே மதிப்புடையது.
 
-If you're subscribed to Roblox Premium for other games, that's already working for you here — no extra spend needed.
+நீங்கள் மற்ற விளையாட்டுகளுக்காக Roblox Premium-க்கு சந்தா செலுத்தினால், அது ஏற்கனவே இங்கு உங்களுக்கு வேலை செய்கிறது — கூடுதல் செலவு தேவையில்லை.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Economy and XP](/lebuhraya/economy) — See the full multiplier stack in context
-- [Teams and Careers](/lebuhraya/teams) — Which teams need which gamepass
-- [FAQ](/lebuhraya/faq) — Common questions about gamepasses
+- [பொருளாதாரம் மற்றும் XP](/lebuhraya/economy) — சூழலில் முழு பெருக்கி அடுக்கைப் பார்க்கவும்
+- [குழுக்கள் மற்றும் தொழில்கள்](/lebuhraya/teams) — எந்த குழுக்களுக்கு எந்த gamepass தேவை
+- [அடிக்கடி கேட்கப்படும் கேள்விகள்](/lebuhraya/faq) — gamepass பற்றிய பொதுவான கேள்விகள்

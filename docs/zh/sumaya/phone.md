@@ -1,232 +1,231 @@
 ---
-title: Phone and UI
-description: 'The 12 phone apps, HUD, and minimap in Sumaya.'
+title: 手机与界面
+description: Sumaya 的 12 款手机应用、HUD 以及小地图介绍。
 lang: zh
-translated_from_hash: 08a382c1
+translated_from_hash: d6244b1b
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 手机与界面
 
-# Phone and UI
+你的手机是 Sumaya 中几乎所有操作的中心:工作、任务、紧急呼叫、设置等等。本页涵盖每一款应用,以及游戏内其余的 HUD(小地图、任务卡、聊天)。
 
-Your phone is your hub for almost everything in Sumaya: jobs, quests, emergency calls, settings, and more. This page covers every app, plus the rest of the in-game HUD (minimap, task card, chat).
+## 打开手机
 
-## Opening the phone
+点击屏幕上的手机图标。手机会向上滑出并显示应用网格。你可以在走路和驾驶时保持它开着。
 
-Tap the phone icon on your screen. The phone slides up and shows a grid of apps. You can have it open while walking and driving.
+要关闭它,点击手机外的任何位置或使用关闭按钮。
 
-To close it, tap outside the phone or use the close button.
+## 手机应用
 
-## Phone apps
-
-Sumaya has **12 player-facing apps** plus a phone-home launcher (called `PhoneUI` internally).
+Sumaya 拥有 **12 款面向玩家的应用**,外加一个主屏启动器(内部称为 `PhoneUI`)。
 
 ### Settings
 
-Customize your phone's look:
+自定义你的手机外观:
 
-- **Phone color** - the device chassis.
-- **Casing color** - inside trim.
-- **Wallpaper** - gradient (customizable colors), solid, or custom image.
+- **Phone color** - 设备机身。
+- **Casing color** - 内部边框。
+- **Wallpaper** - 渐变(可自定义颜色)、纯色,或自定义图片。
 
 ### Camera
 
-An in-game camera app. Take photos of whatever's on screen. Good for house showcases, scenic moments, or capturing that 5-star arrest.
+游戏内相机应用。拍下屏幕上的任何画面。非常适合房屋展示、风景时刻,或捕捉那个五星级逮捕。
 
 ### Profile
 
-See your player profile:
+查看你的玩家资料:
 
-- Current player level and progress.
-- Your sector levels and ranks (one per sector you've worked).
-- Achievements / stats.
+- 当前玩家等级与进度。
+- 你的部门等级与军衔(每个你工作过的部门一个)。
+- 成就 / 统计。
 
 ### Residence
 
-Your housing app:
+你的房屋应用:
 
-- Browse and claim plots.
-- Buy a house template.
-- Enter placement mode for furniture.
-- Lock / unlock doors.
-- Toggle lights.
-- Sell your house.
+- 浏览并认领地块。
+- 购买房屋模板。
+- 进入家具放置模式。
+- 锁 / 解锁门。
+- 切换灯光。
+- 出售你的房子。
 
-See [Housing](/sumaya/housing).
+参见[房屋](/sumaya/housing)。
 
 ### Careers
 
-Civilian career hub:
+平民职业中心:
 
-- See available civilian sectors (Fishing, Service, Agro).
-- Check your sector levels and ranks.
-- See which sector you're currently on shift with.
-- Start or end a job (though you still need to be at the career station to clock in).
+- 查看可用的平民部门(Fishing、Service、Agro)。
+- 查看你的部门等级与军衔。
+- 查看你当前在哪个部门值班。
+- 开始或结束工作(但你仍需前往职业站才能打卡)。
 
-See [Careers overview](/sumaya/jobs).
+参见[职业概述](/sumaya/jobs)。
 
 ### Passive
 
-Toggle **Passive Mode**:
+切换 **Passive Mode**:
 
-- **On**: you're invulnerable; you can't damage or be damaged by other players. You also can't commit crimes.
-- **Off**: regular PvP / offence rules apply.
+- **On**:你处于无敌状态;你不能伤害其他玩家,也不会被其伤害。你也不能犯罪。
+- **Off**:正常的 PvP / 违法规则适用。
 
-Useful for roleplay scenes, or if you just want to drive around without getting randomly attacked.
+适合角色扮演场景,或者你只是想驾车兜风而不被随意攻击。
 
-**Important details:**
+**重要细节:**
 
-- **You start in passive mode** every time you join the game. It's the default state, not something you need to opt into.
-- **Law enforcement (POLIS) never passes passive**. Cops are permanently non-passive and can't use this toggle.
-- **Equipping a crime tool drops you out of passive automatically**. Pick up a Slim Jim or Pickpocket Knife and you can't be passive until you drop it.
-- **Wanted players can't re-enable passive**. Once your wanted stars decay, it re-enables on its own.
-- **After certain offences (speeding, crashes, crime)** the passive toggle is locked for a duration (the "passive lock"). See [Crime and Law](/sumaya/crime-and-law) for the per-star lock durations.
+- **每次加入游戏时你都以被动模式开始**。这是默认状态,无需手动启用。
+- **执法人员(POLIS)永远不会进入被动**。警察永远处于非被动状态,无法使用此切换。
+- **装备犯罪工具会自动让你退出被动模式**。拿起 Slim Jim 或 Pickpocket Knife 后,你在放下之前都无法被动。
+- **被通缉的玩家无法重新启用被动**。一旦通缉星级衰减,它会自动重新启用。
+- **在某些违法行为后(超速、碰撞、犯罪)**,被动切换会被锁定一段时间("passive lock")。参见[犯罪与法律](/sumaya/crime-and-law)了解每颗星的锁定时长。
 
 ### Collision
 
-Toggle vehicle collisions:
+切换车辆碰撞:
 
-- **Enabled**: normal vehicle-vs-vehicle physics.
-- **Disabled**: your vehicle phases through other vehicles.
+- **Enabled**:正常的车对车物理效果。
+- **Disabled**:你的车辆穿过其他车辆。
 
-Useful for parking in tight spots or escaping a crash pile-up. See [Vehicles](/sumaya/vehicles).
+适合在狭窄位置停车或从车祸堆中脱身。参见[车辆](/sumaya/vehicles)。
 
 ### Cinematic
 
-A free-roam camera mode. Move your viewpoint around independently of your character for dramatic angles or film-style shots. Great for recording, not much use for gameplay.
+自由漫游相机模式。独立于角色移动视角以获得戏剧性角度或电影风格镜头。非常适合录制,对游戏玩法用处不大。
 
 ### Quest
 
-View your current quest chain progress:
+查看你当前任务链的进度:
 
-- See the active quest and its steps.
-- Read quest descriptions.
-- Track how much progress you've made.
-- Dismiss the task card or re-show it.
+- 查看活跃任务及其步骤。
+- 阅读任务描述。
+- 跟踪你已完成的进度。
+- 关闭任务卡或重新显示。
 
-The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
+欢迎任务链在首次加入时自动开始,并贯穿 12 个任务。参见[任务](/sumaya/quests)。
 
 ### Emergency999
 
-Any civilian can dial 999 from this app. It:
+任何平民都可以从此应用拨打 999。它会:
 
-- Opens a dispatch screen where you pick which service(s) you need, the reason, and (optionally) a custom note up to 140 characters.
-- Notifies all on-duty POLIS, BOMBA, or Kesihatan players via their MDT.
-- Attaches your location automatically (resolved to the nearest landmark name).
-- Has a **10-second cooldown** per caller before you can submit another call - don't spam.
+- 打开调度屏幕,你可以选择所需的服务、原因,以及(可选)最多 140 字符的自定义备注。
+- 通过其 MDT 通知所有当值的 POLIS、BOMBA 或 Kesihatan 玩家。
+- 自动附上你的位置 - 解析为**8 个命名地标**中最近的一个:Town Centre、Kampung North、Kampung South、Pasaram、Mamak Row、Police Station、Fire Station、Hospital。
+- 每位呼叫者在提交下一个呼叫之前有 **10 秒冷却时间** - 不要刷屏。
 
-Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so roleplay scenarios that end up un-responded don't clutter the MDT forever.
+如果调度员在 **30 分钟**内未处理,呼叫会自动关闭,这样未被响应的角色扮演情境就不会永远堆积在 MDT 中。
 
-Use this for roleplay scenarios (call for a fire, report a crime, need medical).
+用于角色扮演情境(呼叫火警、报告犯罪、需要医疗)。
 
 ### MDT (Mobile Data Terminal)
 
-Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT is your dispatch console:
+仅在**紧急服务队伍**(POLIS、BOMBA、Kesihatan)中可见。MDT 是你的调度控制台:
 
-- **Calls tab** - active 999 calls. See who's calling, where, and why. Set a waypoint or mark a call as responded.
-- **Wanted tab** (POLIS only) - list of currently-wanted suspects with star levels and offence counts. Tap to set a waypoint.
-- **Plate checker** (POLIS only) - look up a license plate to see the registered owner and whether the vehicle is stolen.
+- **Calls tab** - 活跃的 999 呼叫。查看谁在呼叫、在哪里以及原因。设置航点或将呼叫标记为已响应。
+- **Wanted tab**(仅 POLIS) - 当前被通缉嫌犯的列表,附有星级和违法次数。点击设置航点。
+- **Plate checker**(仅 POLIS) - 查询车牌以查看注册车主以及车辆是否被盗。
 
-See [Polis](/sumaya/polis) for more on the MDT.
+有关 MDT 的更多信息,参见[Polis](/sumaya/polis)。
 
 ### DevTools
 
-Developer-only debugging app. You won't see it as a regular player. Ignore.
+仅供开发者使用的调试应用。作为普通玩家你不会看到它。忽略。
 
-### PhoneUI (home launcher)
+### PhoneUI(主屏启动器)
 
-The main phone home screen with the app grid. Not a separate app you launch.
+带有应用网格的主要手机主屏。不是你要单独启动的应用。
 
-## The minimap
+## 小地图
 
-In the top-right corner, you'll see a minimap showing the area around you.
+在右上角,你会看到一个显示你周围区域的小地图。
 
-### What the minimap shows
+### 小地图显示的内容
 
-- **Your position** (the arrow at the center).
-- **Roads and buildings** around you.
-- **Points of interest** (POIs): hospital, police station, fire station, vehicle spawners, shops, career stations.
-- **Waypoints** you've placed or that have been set by the game (quest markers, MDT calls).
-- **Other players** and NPCs may appear as dots depending on context.
+- **你的位置**(中央的箭头)。
+- 你周围的**道路与建筑**。
+- **兴趣点**(POI):医院、警察局、消防局、车辆生成点、商店、职业站。
+- 你放置的或游戏设置的**航点**(任务标记、MDT 呼叫)。
+- **其他玩家**和 NPC 可能根据情境显示为点。
 
-### Expanding the minimap
+### 展开小地图
 
-Click the minimap (or press the expand button) to open the **full-screen map**. You can:
+点击小地图(或按下展开按钮)以打开**全屏地图**。你可以:
 
-- Zoom in and out.
-- Pan around to see other parts of Sumaya.
-- Hit **F** to **fit all your waypoints** into view at once.
+- 放大和缩小。
+- 平移以查看 Sumaya 的其他部分。
+- 按 **F** 键一次性**将所有航点装入**视图。
 
-### Custom waypoints
+### 自定义航点
 
-In the full-screen map:
+在全屏地图中:
 
-- **Long-press** (about 0.5 seconds) on a location to drop a custom waypoint.
-- **Right-click** an existing waypoint for a context menu (rename, change color, delete).
-- Your waypoints **persist across sessions**.
+- 在某个位置**长按**(约 0.5 秒)以放下自定义航点。
+- **右键点击**现有航点以获取上下文菜单(重命名、更改颜色、删除)。
+- 你的航点**跨会话保留**。
 
-Custom waypoints are great for marking your favorite fishing spot, your friend's house, or where you parked your trawler.
+自定义航点非常适合标记你最喜爱的钓鱼点、朋友的家,或你停放 trawler 的地方。
 
-### The guidance beam
+### 引导光束
 
-You'll often see a **colored beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colors are consistent:
+你经常会看到从你的角色到目标的**彩色光束** - 这就是引导光束,是小地图正在跟踪的任何航点的 3D 视觉版本。颜色是一致的:
 
-- Red (bright): quest markers, important objectives.
-- Other colors: custom waypoints in their chosen color.
+- 红色(明亮):任务标记、重要目标。
+- 其他颜色:以所选颜色的自定义航点。
 
-## The task card
+## 任务卡
 
-In the top-left corner, you'll often see a **task card** - a small panel that describes your current objective. It might show:
+在左上角,你经常会看到**任务卡** - 一个描述你当前目标的小面板。它可能显示:
 
-- Your active quest step ("Spawn a vehicle").
-- An active fire you're responding to ("Fire at Jalan Triden").
-- A patient you're treating.
-- A carjacking drop-off zone.
+- 你的活跃任务步骤("Spawn a vehicle")。
+- 你正在响应的活跃火警("Fire at Jalan Triden")。
+- 你正在治疗的病人。
+- 劫车交付区。
 
-### Collapsing the task card
+### 折叠任务卡
 
-On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
+尤其在移动设备上,任务卡可能与驾驶控件重叠。点击卡片上的 **chevron (^) 按钮**将其折叠,仅显示最小图标。再次点击以重新展开。
 
-## Chat
+## 聊天
 
-Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a message and hit Enter to send.
+按 **/**(斜杠)将焦点放在屏幕底部的聊天栏上。输入消息并按 Enter 发送。
 
-Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
+Sumaya 使用 Roblox 的 `TextChatService`,因此标准的 `/whisper <player>` 和公共聊天都能正常工作。
 
-### Public Services channel
+### Public Services 频道
 
-If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
+如果你在紧急服务队伍中(POLIS、BOMBA 或 Kesihatan),你可以访问一个额外的 **Public Services** 频道。在那里发送的消息仅对其他紧急服务玩家可见 - 一个跨三个服务的私密协调频道。平民队伍无法查看或向其发送消息。
 
-Your access auto-updates when you switch teams.
+当你切换队伍时,你的访问权限会自动更新。
 
-## Banner notifications
+## 横幅通知
 
-You'll see slide-in banner notifications for:
+你会看到以下内容的滑入式横幅通知:
 
-- Job payouts.
-- Quest step completions.
-- New offence detected (for POLIS on duty).
-- Wanted level gained or cleared.
-- System messages.
+- 工作酬劳。
+- 任务步骤完成。
+- 检测到新违法行为(针对值班的 POLIS)。
+- 获得或清除通缉等级。
+- 系统消息。
 
-Banners auto-dismiss after a few seconds.
+横幅会在几秒后自动消失。
 
-## Wallet / bank display
+## 钱包 / 银行显示
 
-Your current Ringgit balance is shown in a small HUD near the top of the screen. Open the full wallet details via the phone or the ATM. See [Economy](/sumaya/economy).
+你当前的 Ringgit 余额显示在屏幕顶部附近的小型 HUD 中。通过手机或 ATM 打开完整的钱包详情。参见[经济](/sumaya/economy)。
 
-## Tips
+## 小贴士
 
-- **Open the phone as soon as you spawn.** Most of what you need is there.
-- **Expanded minimap for planning.** Before a long trip, pop the full map, see the route, drop a waypoint at your destination.
-- **Passive mode for roleplay.** Going out for a chill screenshot session? Toggle passive so no one interrupts with carjacks or fights.
-- **999 for calls, MDT for responses.** One is for civilians, the other is for responders.
-- **Long-press to make waypoints.** This is the single biggest quality-of-life feature - use it to mark places you keep returning to.
-- **Collapse the task card when driving mobile.** The extra screen real-estate matters on small screens.
-- **Profile app for flex.** Your ranks show here. Screenshot-worthy once you hit high-tier ranks.
+- **一出生就打开手机。** 你需要的大部分内容都在那里。
+- **展开小地图以作规划。** 在长途旅行之前,打开完整地图,查看路线,在目的地放下航点。
+- **角色扮演用被动模式。** 出去来一段轻松的截图环节?切换被动,这样就没人会用劫车或打斗来打扰你。
+- **999 用于呼叫,MDT 用于响应。** 一个给平民用,另一个给响应者用。
+- **长按以创建航点。** 这是单一最大的便利功能 - 用它来标记你经常回访的地方。
+- **在移动设备上驾驶时折叠任务卡。** 额外的屏幕空间在小屏幕上很重要。
+- **Profile 应用可以秀一下。** 你的军衔在这里显示。一旦你达到高等级军衔,就值得截屏。
 
-## What next?
+## 下一步是什么?
 
-- [Quests](/sumaya/quests) for the discovery chain you'll see in the Quest app.
-- [Polis](/sumaya/polis) for MDT details.
-- [Tips and tricks](/sumaya/tips-and-tricks) for more hidden UI features.
+- [任务](/sumaya/quests)介绍你将在 Quest 应用中看到的发现链。
+- [Polis](/sumaya/polis)介绍 MDT 细节。
+- [小贴士与技巧](/sumaya/tips-and-tricks)介绍更多隐藏的 UI 功能。

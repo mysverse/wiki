@@ -1,116 +1,117 @@
 ---
-title: Bomba (Fire Brigade)
-description: 'Playing BOMBA (fire brigade) in Sumaya — tenders, hydrants, and fires.'
+title: Bomba
+description: >-
+  Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden
+  kebakaran.
 lang: ms
 translated_from_hash: c822a3e4
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Bomba
 
-# Bomba (Fire Brigade)
+**Bomba** ialah pasukan bomba Malaysia. Jika anda memilih BOMBA dari menu utama, anda bertugas sebagai ahli bomba.
 
-**Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
+## Permulaan
 
-## Getting started
+Pilih **BOMBA** pada menu utama. Anda muncul dengan **Alat Pemadam Api** dalam beg galas dan BombaGui di skrin — tidak perlu daftar masuk. **Hos bomba** itu sendiri bukan alat permulaan: anda mengambilnya dari salur keluar hos pada jentera bomba atau hidran apabila anda tiba di lokasi insiden.
 
-Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen — no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
+Pergi ke balai bomba untuk mendapatkan kenderaan, atau tunggu amaran kebakaran muncul pada peta mini anda.
 
-Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
+## Bagaimana kebakaran berfungsi
 
-## How fires work
+Kebakaran muncul di Sumaya kira-kira **setiap 6 minit** selagi sekurang-kurangnya seorang pemain BOMBA aktif di server. Apabila kebakaran bermula:
 
-Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
+- Amaran besar muncul pada peta mini dan kad tugas anda.
+- Kebakaran terdiri daripada banyak **blok api** individu, dan setiap satu perlu dipadamkan.
+- Pancaran panduan merah menunjukkan arah ke lokasi insiden.
 
-- A large alert appears on your minimap and in your task card.
-- The fire is made of many individual **fire blocks**, each of which needs to be put out.
-- The red guidance beam points you to the incident.
+Hanya satu kebakaran aktif pada satu masa di server. Setelah api dipadamkan (atau tamat masa), kebakaran baharu boleh muncul.
 
-Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
+## Memadam kebakaran
 
-## Putting out fires
+### Hos
 
-### The hose
+1. Sandang hos bomba anda.
+2. Cari sumber air - sama ada **hidran** (beberapa diletakkan di sekitar bandar — cari model tiang merah/kuning) atau **lori tangki**.
+3. Sambungkan hujung hos kepada gesaan sumber air.
+4. Halakan ke arah blok api dan semburkan.
 
-1. Equip your fire hose.
-2. Find a water source - either a **hydrant** (a few placed around town — look for the red/yellow pillar models) or a **tanker truck**.
-3. Connect the hose end to the water source prompt.
-4. Aim at fire blocks and spray.
+Setiap blok api memerlukan kira-kira **10 hentaman** dari hos sebelum padam sepenuhnya. Hos mencapai sehingga **256 stud** - lebih daripada cukup untuk kebanyakan insiden, dan membolehkan anda berdiri pada jarak yang selamat.
 
-Each fire block needs about **10 hits** from the hose before it's fully out. The hose reaches up to **256 studs** - that's plenty for most incidents, and lets you stand at a safe distance.
+### Hidran
 
-### Hydrants
+Hidran tetap di sekitar peta dalam `Workspace.HydrantConnections`. Peta semasa mempunyai segelintir model hidran — tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekelilingnya. Setiap hidran menyokong dua salur keluar hos, jadi dua ahli bomba boleh berkongsi satu.
 
-Hydrants are fixed around the map inside `Workspace.HydrantConnections`. The current map has a handful of hydrant models — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
+### Lori tangki (sektor tahap 65)
 
-### Tankers (sector level 65)
+Setelah anda mencapai sektor tahap 65, anda boleh memunculkan lori **Sanica P360 Tanker**. Lori tangki membolehkan anda memadam kebakaran di mana sahaja yang bersambung dengan jalan, walaupun tanpa hidran berdekatan - sangat berguna untuk insiden di luar bandar.
 
-Once you reach sector level 65, you can spawn the **Sanica P360 Tanker** truck. Tankers let you fight fires anywhere connected to a road, even without a hydrant nearby - very useful for rural incidents.
+## Ganjaran
 
-## Rewards
+Setiap blok api yang anda padamkan memberi:
 
-Every fire block you extinguish pays:
+- **5 XP** (kedua-dua pemain dan sektor)
+- **15 Ringgit** (dompet)
 
-- **5 XP** (both player and sector)
-- **15 Ringgit** (wallet)
+Tambahan bonus pencapaian:
 
-Plus milestone bonuses:
+- Bonus **+150 Ringgit** untuk setiap **15 blok** yang anda padamkan.
 
-- **+150 Ringgit** bonus every **15 blocks** you extinguish.
+**EMS lain** (Polis atau Kesihatan) yang membantu pada kebakaran mendapat **10 XP setiap blok** tetapi tiada ganjaran Ringgit. Mereka diberi ganjaran kerana hadir, tetapi rezeki utama pemadaman api adalah milik anda.
 
-**Other EMS** (Polis or Kesihatan) who help out on a fire get **10 XP per block** but no Ringgit reward. They're rewarded for showing up, but the firefighting bread-and-butter is yours.
+Ganjaran hanya dikira apabila anda berada dalam **512 stud** dari blok api ketika ia dipadamkan - jadi terus berada di lokasi insiden, jangan melencong jauh.
 
-Rewards only count when you're within **512 studs** of the fire block when it's extinguished - so stick with the incident, don't wander off.
+## Kenderaan
 
-## Vehicles
+Kenderaan Bomba dibuka apabila tahap sektor anda meningkat.
 
-Bomba vehicles unlock as your sector level rises.
-
-| Vehicle | Sector level required | Price |
+| Kenderaan | Tahap sektor diperlukan | Harga |
 |---------|----------------------|-------|
-| Merze Atego LFRT | 1 | Free |
+| Merze Atego LFRT | 1 | Percuma |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
 | Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
-Each truck has different capacity and handling. The Atego is the nimble starter; the Tanker is the heavy utility. LFRT stands for "Light Fire Rescue Tender", FRT for "Fire Rescue Tender".
+Setiap lori mempunyai kapasiti dan pengendalian yang berbeza. Atego ialah permulaan yang lincah; Tanker pula utiliti berat. LFRT bermaksud "Light Fire Rescue Tender", FRT bermaksud "Fire Rescue Tender".
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+Lihat [Vehicles](/sumaya/vehicles) untuk cara memunculkannya.
 
-## Ranks
+## Pangkat
 
-Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia). Your title updates automatically as your sector level rises.
+Bomba mempunyai 13 pangkat, berdasarkan Jabatan Bomba dan Penyelamat Malaysia sebenar. Gelaran anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
-| Level | Rank |
+| Tahap | Pangkat |
 |-------|------|
-| 1 | Fire Officer (PB) |
-| 6 | Senior Fire Officer (PBK) |
-| 11 | Leading Fire Officer (PBT) |
-| 16 | Assistant Fire Superintendent (PPgB) |
-| 21 | Senior Assistant Fire Superintendent (PKPgB) |
-| 26 | Deputy Fire Superintendent (TPgB) |
-| 31 | Assistant Fire Superintendent (Station Level) |
-| 36 | Fire Superintendent (PgB) |
-| 41 | Senior Fire Superintendent (PgKB) |
-| 49 | Assistant Fire Commissioner (PPjB) |
-| 57 | Senior Assistant Fire Commissioner (PKPjB) |
-| 65 | Deputy Fire Commissioner (TPjB) |
-| 76 | Fire Commissioner (PjB) |
+| 1 | Pegawai Bomba (PB) |
+| 6 | Pegawai Bomba Kanan (PBK) |
+| 11 | Pegawai Bomba Tertinggi (PBT) |
+| 16 | Penolong Penguasa Bomba (PPgB) |
+| 21 | Penolong Kanan Penguasa Bomba (PKPgB) |
+| 26 | Timbalan Penguasa Bomba (TPgB) |
+| 31 | Penolong Penguasa Bomba (Tahap Balai) |
+| 36 | Penguasa Bomba (PgB) |
+| 41 | Penguasa Kanan Bomba (PgKB) |
+| 49 | Penolong Pesuruhjaya Bomba (PPjB) |
+| 57 | Penolong Kanan Pesuruhjaya Bomba (PKPjB) |
+| 65 | Timbalan Pesuruhjaya Bomba (TPjB) |
+| 76 | Pesuruhjaya Bomba (PjB) |
 
-The rank bracket abbreviations follow the real-world Bomba insignia scheme. From level 76 onward you're the top - no more rank changes even as you push toward the level 100 cap.
+Singkatan kurungan pangkat mengikut skema lambang Bomba sebenar. Dari tahap 76 ke atas, anda yang teratas - tiada lagi perubahan pangkat walaupun anda menuju ke had tahap 100.
 
-## Tips
+## Petua
 
-- **Work as a team.** Two firefighters on a fire means blocks get cleared faster, meaning milestone bonuses come around faster, meaning more Ringgit per minute.
-- **Position matters.** Find a spot where multiple blocks are in hose range and don't keep switching. Steady, not frantic.
-- **Stay within 512 studs.** If you wander away from the fire to refill or drive, you stop counting for rewards on the blocks extinguished while you're out of range.
-- **Sirens = offence-exempt.** Got stuck behind a speeding ticket? Flip your ELS siren while driving a Bomba vehicle to avoid being cited.
-- **Save for the Tanker.** Until you hit level 65, you'll rely on hydrants. The Tanker is a game-changer because you bring the water with you.
-- **Watch your health.** Standing too close to fire damages you over time. If you see your health dropping, step back and hose from further.
+- **Bekerjasama sebagai pasukan.** Dua ahli bomba pada satu kebakaran bermakna blok dipadamkan lebih cepat, bermakna bonus pencapaian datang lebih cepat, bermakna lebih banyak Ringgit setiap minit.
+- **Kedudukan penting.** Cari tempat di mana beberapa blok berada dalam julat hos dan jangan asyik bertukar. Mantap, bukan kelam-kabut.
+- **Kekal dalam 512 stud.** Jika anda melencong jauh dari kebakaran untuk mengisi semula atau memandu, anda berhenti dikira untuk ganjaran pada blok yang dipadamkan semasa anda di luar julat.
+- **Siren = bebas saman.** Tersangkut belakang saman laju? Hidupkan siren ELS anda semasa memandu kenderaan Bomba untuk mengelakkan disaman.
+- **Simpan untuk Tanker.** Sehingga anda mencapai tahap 65, anda akan bergantung pada hidran. Tanker pengubah permainan kerana anda membawa air bersama.
+- **Jaga kesihatan anda.** Berdiri terlalu dekat dengan api mencederakan anda dari masa ke masa. Jika anda nampak kesihatan menurun, undur dan semburkan dari lebih jauh.
 
-## What next?
+## Apa seterusnya?
 
-- [Kesihatan](/sumaya/kesihatan) if you're curious about the medical side.
-- [Polis](/sumaya/polis) for law enforcement.
-- [Vehicles](/sumaya/vehicles) for the full Bomba vehicle list.
-- [Progression](/sumaya/progression) for how XP works across services.
+- [Kesihatan](/sumaya/kesihatan) jika anda ingin tahu tentang aspek perubatan.
+- [Polis](/sumaya/polis) untuk penguatkuasaan undang-undang.
+- [Vehicles](/sumaya/vehicles) untuk senarai penuh kenderaan Bomba.
+- [Progression](/sumaya/progression) untuk cara XP berfungsi merentas perkhidmatan.

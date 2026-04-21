@@ -1,35 +1,34 @@
 ---
-title: Housing
-description: 'Plots, templates, tiers, furniture, and selling homes in Sumaya.'
+title: 房屋
+description: Sumaya 的地块、户型模板、等级、家具以及出售房屋说明。
 lang: zh
 translated_from_hash: bb105180
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 房屋
 
-# Housing
+Sumaya 让你可以申领一块地、买一栋房子、用家具装饰它,并上锁以防止入侵者。房屋是一种持久性购买——一旦你买下,房子就跨越所有游戏会话属于你。
 
-Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, and lock it up against intruders. Housing is a persistent purchase - once you buy in, your house is yours across sessions.
+## 寻找地块
 
-## Finding a plot
+Sumaya 的社区(Kampung 街道,如 Lorong Pais、Jalan Triden、Jalan Bawang、Lorong Kicai)被划分为**地块**。未被申领的地块会显示为占位房屋——小型视觉替代物,告诉你该地块可用。
 
-Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show up as placeholder houses - small visual stand-ins that tell you the plot is available.
+申领步骤:
 
-To claim one:
+1. 在你的手机上打开 **Residence** 应用程序。
+2. 浏览可用地块列表。
+3. 挑选一个并申领它。
 
-1. Open the **Residence** app on your phone.
-2. Browse the list of available plots.
-3. Pick one and claim it.
+**申领地块是免费的。** 你只需当前没有申领任何地块(每位玩家**同时仅限一块地**)。
 
-**Claiming a plot is free.** You just need to have no plot currently claimed (each player is limited to **one plot at a time**).
+地块可用性采取先到先得原则。如果其他人申领了一块地,该地块将锁定给他们,直到他们出售或放弃为止。
 
-Plot availability is first-come, first-served. If someone else claims a plot, it's locked to them until they sell or abandon.
+## 挑选房屋
 
-## Picking a house
+有了地块后,挑选一个房屋模板。每个模板都有一个等级和一个价格。
 
-Once you have a plot, pick a house template. Each template has a tier and a price.
-
-### House templates
+### 房屋模板
 
 | Template | Tier | Price |
 |----------|------|-------|
@@ -38,84 +37,84 @@ Once you have a plot, pick a house template. Each template has a tier and a pric
 | Spacious Bornean | Tier 2 | 500 Ringgit |
 | Modern Terrace | Tier 3 | 1,200 Ringgit |
 
-**Bornean** houses are the traditional Malaysian kampung-style homes - wooden, stilts, tropical roofing. **Modern Terrace** is the contemporary urban equivalent - multi-story, glass, clean lines.
+**Bornean** 房屋是传统的马来西亚甘榜风格住宅——木质、高脚、热带屋顶。**Modern Terrace** 是当代都市的对等形式——多层、玻璃、简洁线条。
 
-Tier 1 is the cheapest starter option. Tier 3 is premium. Pick based on how much you want to spend and what aesthetic you like.
+Tier 1 是最便宜的入门选择。Tier 3 是高级选择。根据你想花多少钱以及喜欢什么美学风格来挑选。
 
-The house template you pick determines what your plot looks like from the outside. You can switch to a different template later by selling and repurchasing (you'll get 70% back - see [Selling](#selling) below).
+你挑选的房屋模板决定了你的地块从外部看起来的样子。你之后可以通过出售和重新购买来切换到不同的模板(你会得到 70% 退款——请见下方的[出售](#selling))。
 
-## Furniture
+## 家具
 
-Once you own a house, you can decorate the inside with furniture. Furniture is organized into **three tiers** matching the house tiers, though you can mix and match what you place inside.
+拥有房屋后,你可以用家具装饰内部。家具分为**三个等级**,与房屋等级对应,不过你可以混搭摆放在里面的东西。
 
-Furniture items include:
+家具物品包括:
 
-- Sofas, chairs, tables
-- Beds, wardrobes
-- TV, appliances
-- Decor (lamps, plants, art)
+- 沙发、椅子、桌子
+- 床、衣柜
+- 电视、家电
+- 装饰品(灯具、植物、艺术品)
 
-Prices vary by item; each individual piece has a price tag you'll see when browsing. Buy what you want, then place it via the Placement Mode (below).
+价格因物品而异;浏览时你会看到每一件单品都有价格标签。购买你想要的,然后通过摆放模式(下文)将其放置。
 
-## Placement mode
+## 摆放模式
 
-To decorate:
+装饰步骤:
 
-1. Open the **Residence** app.
-2. Enter **Placement Mode** for your house.
-3. Pick a furniture item from your inventory.
-4. Move it around with your cursor / finger. Items snap to a **1-stud grid** for neat alignment.
-5. Rotate to fit.
-6. Confirm to place.
-7. To remove an item, select it and delete - it goes back to your inventory.
+1. 打开 **Residence** 应用程序。
+2. 为你的房屋进入**摆放模式**。
+3. 从你的库存中挑选一件家具。
+4. 用你的光标/手指移动它。物品会吸附到 **1-stud 网格**上,以保持整齐对齐。
+5. 旋转以适配。
+6. 确认放置。
+7. 要移除物品,选中并删除——它会回到你的库存。
 
-Furniture placement saves automatically. When you rejoin next session, everything is where you left it.
+家具摆放会自动保存。当你下次重新加入时,一切都在你离开时的位置。
 
-## Doors and locks
+## 门和锁
 
-Your house has doors at entry points. From the Residence app (or directly at the door), you can:
+你的房屋在入口处有门。通过 Residence 应用程序(或直接在门前),你可以:
 
-- **Lock / unlock** the door.
-- Set door permissions (who can enter when locked).
+- **上锁/解锁**门。
+- 设置门的权限(上锁时谁可以进入)。
 
-Door state **persists** - if you lock up before you log out, it's still locked when you come back.
+门的状态**会持久保存**——如果你在登出前上锁,回来时它仍然是锁住的。
 
-The door prompt range is 8 studs, so you'll need to be right up close to use it.
+门的交互提示范围是 8 stud,所以你需要非常靠近才能使用它。
 
-## Lights
+## 灯光
 
-You can toggle **lights on and off** in your house from the Residence app. Useful for ambiance, for nighttime fiddling, or just to save yourself from the disco when you're decorating.
+你可以通过 Residence 应用程序**开关**房屋内的**灯光**。对营造氛围、夜晚摆弄或在装饰时避免迪斯科闪光效果都很有用。
 
-## Selling
+## 出售
 
-Tired of your house? Sell it back and keep **70% of what you paid**. The game keeps 30% as a "transaction cost".
+厌倦了你的房子?把它卖回去,可以保留**你所付金额的 70%**。游戏会扣留 30% 作为"交易成本"。
 
-1. Open the Residence app.
-2. Select your plot / house.
-3. Choose **Sell**.
-4. The house is refunded to your account, the plot is freed up for re-claiming, and your furniture inventory stays intact.
+1. 打开 Residence 应用程序。
+2. 选择你的地块/房屋。
+3. 选择**出售**。
+4. 房屋退款到你的账户,地块被释放供重新申领,而你的家具库存保持完整。
 
-After selling, your plot is back in the pool - anyone (including you) can claim it again.
+出售后,你的地块回到可申领池中——任何人(包括你)都可以再次申领它。
 
-## Privacy and intrusion
+## 隐私和入侵
 
-Your house is your space. A few things to know:
+你的房屋是你的空间。需要了解几点:
 
-- Other players can walk up to your door but **can't enter** if you've locked it.
-- Your house interior is private - other players can't see inside via the minimap or walk through walls.
-- Even with the door unlocked, only you can interact with your furniture (place, remove, rearrange).
+- 其他玩家可以走到你的门前,但如果你上了锁,他们**无法进入**。
+- 你的房屋内部是私密的——其他玩家无法通过小地图看到内部,也无法穿墙。
+- 即使门没锁,也只有你能与你的家具交互(摆放、移除、重新排列)。
 
-## Tips
+## 小贴士
 
-- **Start small.** Go with a 200 Ringgit Small Bornean for your first house. You'll know by the time you're ready to upgrade.
-- **The 70% refund is a safety net.** Changing your mind costs 30%. Not cheap, but not bankruptcy either.
-- **Lights on vs off for screenshots.** The lighting makes a big difference. Try both for phone Camera screenshots of your space.
-- **Lock up on logout.** Habit worth getting into. Unlocked doors invite roleplay disruption.
-- **One plot per player is the rule.** Don't try to claim two - the system prevents it anyway.
-- **Furniture placement is save-instant.** You don't lose your layout if you crash mid-placement.
+- **从小开始。** 第一栋房子就选 200 Ringgit 的 Small Bornean 吧。等你准备好升级时,自然会知道。
+- **70% 退款是一张安全网。** 改变主意要花 30%。不便宜,但也不会让你破产。
+- **开灯与关灯的截图对比。** 光照会带来很大差异。用手机 Camera 拍你的空间时,两种都试试。
+- **登出时上锁。** 值得养成的习惯。未上锁的门会招致角色扮演的干扰。
+- **每位玩家一块地是规则。** 别想申领两块——系统本来就会阻止。
+- **家具摆放是即时保存的。** 如果你在摆放中途崩溃,布局不会丢失。
 
-## What next?
+## 接下来做什么?
 
-- [Economy](/sumaya/economy) for where to get the Ringgit to afford a house.
-- [Phone and UI](/sumaya/phone) for the Residence app.
-- [Tips and Tricks](/sumaya/tips-and-tricks) for decorating ideas.
+- [经济](/sumaya/economy) 了解在哪里赚取购房所需的 Ringgit。
+- [手机和 UI](/sumaya/phone) 了解 Residence 应用程序。
+- [技巧与窍门](/sumaya/tips-and-tricks) 获取装饰灵感。

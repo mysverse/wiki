@@ -1,88 +1,89 @@
 ---
-title: Controls
-description: 'Every control in Lebuhraya — keyboard, gamepad, mobile, and VR inputs.'
+title: Kawalan
+description: >-
+  Setiap kawalan di Lebuhraya — papan kekunci, pad permainan, mudah alih, dan
+  input VR.
 lang: ms
 translated_from_hash: cdee6400
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kawalan
 
-# Controls
+Lebuhraya menyokong papan kekunci, pad permainan, sentuhan (telefon/tablet), dan VR. Permainan akan mengesan platform anda secara automatik dan memaparkan gesaan yang betul dalam permainan — jika sesuatu kawalan ditunjukkan pada skrin, gunakan yang itu. Rujukan di bawah ialah rupa ikatan kekunci yang biasa.
 
-Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game — if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
+## Masuk dan keluar kenderaan
 
-## Entering and exiting vehicles
+Berdiri dalam lingkungan kira-kira **6 stud** dari tempat duduk pemandu atau penumpang.
 
-Stand within about **6 studs** of a driver or passenger seat.
-
-| Platform | Button |
+| Platform | Butang |
 |---|---|
-| Keyboard | **F** |
-| Gamepad | **X** (controller face button) |
-| Touch | Tap the **Drive** / **Sit** button on screen |
+| Papan kekunci | **F** |
+| Pad permainan | **X** (butang muka pengawal) |
+| Sentuhan | Ketik butang **Drive** / **Sit** pada skrin |
 | VR | **Right trigger (R2)** |
 
-The same input exits the seat.
+Input yang sama juga digunakan untuk keluar dari tempat duduk.
 
-### Seat permissions
+### Kebenaran tempat duduk
 
-Driver seats are usually locked to the vehicle's owner. If you try to sit in someone else's car, you'll be blocked unless they've unlocked it for you.
+Tempat duduk pemandu biasanya dikunci kepada pemilik kenderaan. Jika anda cuba duduk di dalam kereta orang lain, anda akan disekat kecuali mereka telah membuka kunci untuk anda.
 
-## Driving
+## Memandu
 
-Driving uses the A-Chassis system. Defaults:
+Pemanduan menggunakan sistem A-Chassis. Lalai:
 
-| Action | Keyboard | Gamepad |
+| Tindakan | Papan kekunci | Pad permainan |
 |---|---|---|
-| Accelerate | **W** | Right trigger (RT) |
-| Brake / Reverse | **S** | Left trigger (LT) |
-| Steer left | **A** | Left stick |
-| Steer right | **D** | Left stick |
-| Handbrake | **Space** | A / RB |
-| Toggle indicators / lights | **E**, **Q**, **I**, **J**, **H** (varies) | See in-game prompts |
-| Horn | **H** (on most vehicles) | Right stick click |
+| Memecut | **W** | Right trigger (RT) |
+| Brek / Undur | **S** | Left trigger (LT) |
+| Stereng kiri | **A** | Left stick |
+| Stereng kanan | **D** | Left stick |
+| Brek tangan | **Space** | A / RB |
+| Togol isyarat / lampu | **E**, **Q**, **I**, **J**, **H** (berbeza-beza) | Lihat gesaan dalam permainan |
+| Hon | **H** (pada kebanyakan kenderaan) | Right stick click |
 
-> Vehicle lighting controls vary between the older and newer chassis systems in the game. Always follow the on-screen prompts for the specific vehicle you're in.
+> Kawalan lampu kenderaan berbeza antara sistem chassis lama dan baru dalam permainan. Sentiasa ikut gesaan pada skrin untuk kenderaan tertentu yang anda naiki.
 
-## Walking around
+## Berjalan-jalan
 
-Standard Roblox controls.
+Kawalan Roblox standard.
 
-| Action | Keyboard | Gamepad | Mobile |
+| Tindakan | Papan kekunci | Pad permainan | Mudah alih |
 |---|---|---|---|
-| Move | **W / A / S / D** | Left stick | On-screen d-pad |
-| Jump | **Space** | A | Jump button |
-| Sprint | (shift-to-run enabled in-game) | Left stick click | Sprint toggle |
-| Camera | Mouse | Right stick | Swipe |
+| Bergerak | **W / A / S / D** | Left stick | Pad arah pada skrin |
+| Melompat | **Space** | A | Butang lompat |
+| Berlari | (shift-to-run diaktifkan dalam permainan) | Left stick click | Togol lari |
+| Kamera | Tetikus | Right stick | Leret |
 
-## Interface
+## Antara muka
 
-| Action | Keyboard | Mobile |
+| Tindakan | Papan kekunci | Mudah alih |
 |---|---|---|
-| Chat | **/** (forward slash) | Tap chat icon |
-| Main menu | Topbar icon | Topbar icon |
-| Phone | Topbar icon | Topbar icon |
-| Tablet | Topbar icon (if available) | Topbar icon |
-| Settings | Cogwheel in Main Menu | Cogwheel in Main Menu |
-| Close any popup | **Esc** or **Backspace** | Tap close |
+| Sembang | **/** (garis miring) | Ketik ikon sembang |
+| Menu utama | Ikon bar atas | Ikon bar atas |
+| Telefon | Ikon bar atas | Ikon bar atas |
+| Tablet | Ikon bar atas (jika ada) | Ikon bar atas |
+| Tetapan | Roda gear dalam Menu Utama | Roda gear dalam Menu Utama |
+| Tutup sebarang popup | **Esc** atau **Backspace** | Ketik tutup |
 
-## Tools (jobs equipment)
+## Alat (peralatan kerja)
 
-When you hold a tool — axe, radar gun, taser, pager, fire hose — the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.
+Apabila anda memegang alat — kapak, pistol radar, taser, alat kelui, hos bomba — kawalannya khusus untuk alat tersebut. Gunakan gesaan pada skrin atau semak halaman kerja untuk pasukan yang menggunakannya.
 
-## Mobile tips
+## Petua mudah alih
 
-- The game respects mobile layout; driving on a phone works but is easier on a tablet.
-- Most ProximityPrompts (enter doors, talk to NPCs, start jobs) show a round button on screen. Tap it.
-- The steering wheel is available on the left of the HUD while driving.
+- Permainan menghormati susun atur mudah alih; memandu di telefon boleh berfungsi tetapi lebih mudah di tablet.
+- Kebanyakan ProximityPrompts (masuk pintu, bercakap dengan NPC, mula kerja) memaparkan butang bulat pada skrin. Ketik butang itu.
+- Stereng tersedia di sebelah kiri HUD semasa memandu.
 
-## Accessibility
+## Kebolehcapaian
 
-- Roblox's system-wide settings apply — colourblind filters, UI scaling, text-to-speech.
-- Passive mode can be toggled to prevent tool and weapon interactions (your `Passive` player attribute). Useful if you don't want to be pulled into combat or emergency roleplay.
+- Tetapan sistem Roblox terpakai — penapis buta warna, skala UI, teks-ke-ucapan.
+- Mod pasif boleh ditogol untuk menghalang interaksi alat dan senjata (atribut pemain `Passive` anda). Berguna jika anda tidak mahu ditarik ke dalam pertempuran atau main peranan kecemasan.
 
-## Next steps
+## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) — How driving turns into levels
-- [Vehicles](/lebuhraya/vehicles) — Spawn menu, ownership, fuel
-- [Jobs](/lebuhraya/jobs) — Which tools belong to which teams
+- [Ekonomi dan XP](/lebuhraya/economy) — Bagaimana pemanduan bertukar menjadi tahap
+- [Kenderaan](/lebuhraya/vehicles) — Menu spawn, pemilikan, bahan api
+- [Kerja](/lebuhraya/jobs) — Alat yang mana kepunyaan pasukan mana

@@ -1,124 +1,125 @@
 ---
-title: Kesihatan (Medical)
-description: 'Playing Kesihatan (medical) in Sumaya — ambulances, treatment, and revival.'
+title: Kesihatan
+description: >-
+  Bermain sebagai Kesihatan di Sumaya — ambulans, rawatan, dan menghidupkan
+  semula.
 lang: ms
 translated_from_hash: 72c697a3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kesihatan
 
-# Kesihatan (Medical)
+**Kesihatan** ("keh-see-ha-tan") ialah perkhidmatan perubatan Sumaya. Doktor, jururawat, paramedik. Jika anda memilih Kesihatan dari menu utama, anda menjadi pekerja perubatan yang bertugas sebaik sahaja anda spawn.
 
-**Kesihatan** ("keh-see-ha-tan") is Sumaya's medical service. Doctors, nurses, paramedics. If you pick Kesihatan from the main menu, you're a medical worker on duty as soon as you spawn.
+Kesihatan juga istimewa kerana **kerja anda memberi dorongan kepada seluruh server**. Teruskan membaca.
 
-Kesihatan is also special because **your job boosts the entire server**. Keep reading.
+## Cara bermula
 
-## Getting started
+Pilih **Kesihatan** pada menu utama. Kit perubatan anda akan muncul dalam backpack: kit pertolongan cemas, pembalut, splint, dan lebih banyak lagi yang dibuka mengikut tahap.
 
-Pick **Kesihatan** on the main menu. Your medical kit spawns in your backpack: first aid kit, bandage, splint, and more unlocked by level.
+Pergi ke hospital untuk mendapatkan lebih banyak alatan dan peralatan, atau sambut panggilan 999 dan insiden di lapangan.
 
-Head to the hospital for more tools and equipment, or respond to 999 calls and field incidents.
+## Sistem kecederaan
 
-## The injury system
+Gameplay utama Kesihatan ialah merawat **kecederaan** - kerosakan yang dialami oleh pemain atau NPC yang tidak boleh disembuhkan hanya dengan respawn.
 
-Kesihatan's core gameplay is treating **injuries** - damage sustained by players or NPCs that can't be healed by simply respawning.
+### Apabila sistem kecederaan aktif
 
-### When the injury system is active
+**Sistem kecederaan** seluruh server boleh diaktifkan. Apabila ia aktif:
 
-A server-wide **injury system** can be toggled on. When it's on:
+- Pemain dan NPC boleh mengalami kecederaan sebenar dan bukannya mati serta-merta.
+- Kecederaan memerlukan rawatan perubatan untuk sembuh.
+- **Setiap pemain di server akan mendapat +15% XP tahap pemain** (XP sektor tidak terjejas).
 
-- Players and NPCs can suffer proper injuries instead of insta-dying.
-- Injuries require medical treatment to heal.
-- **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
+Rangsangan XP itu sangat penting. Ia digunakan untuk setiap kerja, setiap tangkapan, setiap tuaian - jadi apabila Kesihatan aktif, seluruh server mendapat manfaat. Ini adalah sebab tunggal paling besar untuk mempunyai pemain perubatan bertugas.
 
-That XP boost is a big deal. It applies to every job, every arrest, every harvest - so when Kesihatan is active, the whole server benefits. This is the single biggest reason to have medical players on.
+### Jenis kecederaan
 
-### Injury types
-
-| Injury | What it is | Treatment |
+| Kecederaan | Maksudnya | Rawatan |
 |--------|------------|-----------|
-| Minor cuts / bruises | Scrapes, small wounds | Bandage |
-| Broken arm | Slows down hand animations, affects certain tools | Splint |
-| Broken leg | Reduces walk speed to 30% | Splint |
-| Traumatic Brain Injury (TBI) | Severe; requires bed rest | Medical bed + time |
+| Luka kecil / lebam | Calar, luka kecil | Pembalut |
+| Tangan patah | Memperlahankan animasi tangan, menjejaskan alat tertentu | Splint |
+| Kaki patah | Mengurangkan kelajuan berjalan kepada 30% | Splint |
+| Kecederaan Otak Trauma (TBI) | Teruk; memerlukan rehat katil | Katil perubatan + masa |
 
 ### Diagnosis
 
-You can't heal someone until you know what's wrong.
+Anda tidak boleh merawat seseorang sehingga anda tahu apa yang tidak kena.
 
-1. Equip the **First Aid Kit**.
-2. Stand within **10 studs** of the patient.
-3. Use the kit. The diagnosis takes about **2 seconds**.
-4. The patient's injury is displayed.
+1. Lengkapkan **Kit Pertolongan Cemas**.
+2. Berdiri dalam lingkungan **10 stud** dari pesakit.
+3. Gunakan kit tersebut. Diagnosis mengambil masa kira-kira **2 saat**.
+4. Kecederaan pesakit dipaparkan.
 
-**Reward:** 15 XP per diagnosis.
+**Ganjaran:** 15 XP setiap diagnosis.
 
-### Bandage (minor wounds)
+### Pembalut (luka kecil)
 
-1. Equip the **Bandage** tool.
-2. Stand within 10 studs of the patient.
-3. Use the tool. Takes about 3 seconds.
-4. Wound healed. The bandage lasts 5 minutes on the character, then fades.
+1. Lengkapkan alat **Pembalut**.
+2. Berdiri dalam lingkungan 10 stud dari pesakit.
+3. Gunakan alat tersebut. Mengambil masa kira-kira 3 saat.
+4. Luka sembuh. Pembalut bertahan 5 minit pada watak, kemudian pudar.
 
-**Reward:** 30 XP + 100 Ringgit.
+**Ganjaran:** 30 XP + 100 Ringgit.
 
-### Splint (broken bones)
+### Splint (tulang patah)
 
-1. Equip the **Splint**.
-2. Stand within 10 studs.
-3. Apply. Takes about 5 seconds.
-4. Walk speed returns to normal.
+1. Lengkapkan **Splint**.
+2. Berdiri dalam lingkungan 10 stud.
+3. Kenakan. Mengambil masa kira-kira 5 saat.
+4. Kelajuan berjalan kembali normal.
 
-**Reward:** 40 XP + 200 Ringgit.
+**Ganjaran:** 40 XP + 200 Ringgit.
 
-### Imaging (X-Ray and MRI)
+### Pengimejan (X-Ray dan MRI)
 
-For diagnosis confirmation on serious injuries, use the imaging machines at the hospital:
+Untuk pengesahan diagnosis pada kecederaan serius, gunakan mesin pengimejan di hospital:
 
-- **X-Ray machine:** confirms broken bones.
-- **MRI machine:** confirms TBI.
+- **Mesin X-Ray:** mengesahkan tulang patah.
+- **Mesin MRI:** mengesahkan TBI.
 
-Either diagnosis pays **20 XP**.
+Mana-mana diagnosis membayar **20 XP**.
 
-### TBI and medical beds
+### TBI dan katil perubatan
 
-TBI is the most serious injury. Treatment requires the patient to **lie on a medical bed** for about **30 seconds** of bed rest, which gradually heals them.
+TBI ialah kecederaan yang paling serius. Rawatan memerlukan pesakit **berbaring di atas katil perubatan** selama kira-kira **30 saat** rehat katil, yang secara beransur-ansur menyembuhkannya.
 
-The hospital has multiple medical beds, plus an X-Ray machine, an MRI machine, and a stretcher for transporting patients.
+Hospital mempunyai beberapa katil perubatan, serta mesin X-Ray, mesin MRI, dan pengusung untuk memindahkan pesakit.
 
-## Rewards summary
+## Ringkasan ganjaran
 
-| Action | XP | Ringgit |
+| Tindakan | XP | Ringgit |
 |--------|-----|---------|
-| First aid diagnosis | 15 | 0 |
-| Bandage heal | 30 | 100 |
-| Splint heal | 40 | 200 |
-| X-Ray diagnosis | 20 | 0 |
-| MRI diagnosis | 20 | 0 |
+| Diagnosis pertolongan cemas | 15 | 0 |
+| Rawatan pembalut | 30 | 100 |
+| Rawatan splint | 40 | 200 |
+| Diagnosis X-Ray | 20 | 0 |
+| Diagnosis MRI | 20 | 0 |
 
-Plus:
+Tambahan:
 
-- **+150 Ringgit bonus every 10 treatments.**
+- **+150 Ringgit bonus setiap 10 rawatan.**
 
-## Vehicles
+## Kenderaan
 
-Kesihatan ambulances unlock as your sector level rises.
+Ambulans Kesihatan dibuka apabila tahap sektor anda meningkat.
 
-| Vehicle | Sector level required | Price |
+| Kenderaan | Tahap sektor diperlukan | Harga |
 |---------|----------------------|-------|
-| Tayoti Hiace KKN Ambulance | 1 | Free |
+| Tayoti Hiace KKN Ambulance | 1 | Percuma |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 
-KKN stands for Kementerian Kesihatan Nasional (National Ministry of Health). Each ambulance has a siren and rear cargo space (for the stretcher).
+KKN bermaksud Kementerian Kesihatan Nasional. Setiap ambulans mempunyai siren dan ruang kargo belakang (untuk pengusung).
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+Lihat [Kenderaan](/sumaya/vehicles) untuk cara spawn kenderaan tersebut.
 
-## Ranks
+## Pangkat
 
-Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Your title updates automatically as your sector level rises.
+Kesihatan mempunyai 13 pangkat, secara longgar berdasarkan jawatan penjagaan kesihatan Malaysia sebenar. Gelaran anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
-| Level | Rank |
+| Tahap | Pangkat |
 |-------|------|
 | 1 | Medical Trainee |
 | 6 | House Officer |
@@ -134,20 +135,20 @@ Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Yo
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-From level 81 onward, you're the top. No further rank changes as you push to the level 100 cap.
+Dari tahap 81 dan seterusnya, anda berada di puncak. Tiada perubahan pangkat lagi sehingga anda mencapai had tahap 100.
 
 ## Tips
 
-- **Activate the injury system for the server.** The +15% XP boost affects everyone, including you. The whole server benefits and will keep coming back for treatment.
-- **Camp the hospital early.** Most injuries come in via ambulance or the 999 app. Staying close to the hospital means faster turnover and more XP.
-- **Broken legs are the easy payday.** They can't walk well, they're easy to spot, and the splint pays 200 Ringgit.
-- **TBI is slow but high-value.** While the 30-second bed rest is running, you can diagnose and treat other patients. Don't just stand and watch.
-- **Mass casualty events.** If there's a big crash or incident, multiple casualties means multiple fast payouts. Bring stretchers.
-- **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers.
+- **Aktifkan sistem kecederaan untuk server.** Rangsangan +15% XP memberi kesan kepada semua orang, termasuk anda. Seluruh server mendapat manfaat dan akan terus kembali untuk mendapatkan rawatan.
+- **Tunggu berhampiran hospital pada awalnya.** Kebanyakan kecederaan datang melalui ambulans atau aplikasi 999. Berada dekat dengan hospital bermakna pusingan lebih cepat dan lebih banyak XP.
+- **Kaki patah ialah pendapatan mudah.** Mereka tidak boleh berjalan dengan baik, mudah dikenal pasti, dan splint membayar 200 Ringgit.
+- **TBI perlahan tetapi bernilai tinggi.** Semasa rehat katil 30 saat sedang berjalan, anda boleh mendiagnosis dan merawat pesakit lain. Jangan hanya berdiri dan menonton.
+- **Peristiwa banyak kemalangan.** Jika terdapat kemalangan atau insiden besar, beberapa mangsa bermakna beberapa pembayaran pantas. Bawa pengusung.
+- **Bekerjasama dengan Bomba.** Ahli bomba terbakar; selepas anda memadamkan api, jangkakan pelanggan pembalut.
 
-## What next?
+## Apa seterusnya?
 
-- [Polis](/sumaya/polis) for the law enforcement side.
-- [Bomba](/sumaya/bomba) for the firefighter counterpart.
-- [Vehicles](/sumaya/vehicles) for the ambulance list.
-- [Progression](/sumaya/progression) for how XP compounds.
+- [Polis](/sumaya/polis) untuk sisi penguatkuasa undang-undang.
+- [Bomba](/sumaya/bomba) untuk rakan ahli bomba.
+- [Kenderaan](/sumaya/vehicles) untuk senarai ambulans.
+- [Kemajuan](/sumaya/progression) untuk cara XP bertambah.

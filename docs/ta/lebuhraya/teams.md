@@ -1,13 +1,12 @@
 ---
-title: Teams and Careers
-description: All 18 teams in Lebuhraya and the 20-tier rank system.
+title: அணிகள் & தொழில்கள்
+description: Lebuhraya-வில் உள்ள 18 அணிகள் மற்றும் 20-அடுக்கு தரவரிசை அமைப்பு.
 lang: ta
 translated_from_hash: f4279193
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Lebuhraya இல் குழுக்கள்
+# அணிகள் & தொழில்கள்
 
 Lebuhraya பல்வேறு குழுக்களைக் கொண்டுள்ளது, ஒவ்வொன்றும் தனித்துவமான விளையாட்டு அனுபவங்கள், வாகனங்கள் மற்றும் கருவிகளை வழங்குகிறது. நிலை, gamepass அல்லது Roblox குழு உறுப்பினர் நிலையின் அடிப்படையில் குழுக்களை அணுகலாம்.
 

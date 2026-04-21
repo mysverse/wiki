@@ -1,232 +1,231 @@
 ---
-title: Phone and UI
-description: 'The 12 phone apps, HUD, and minimap in Sumaya.'
+title: தொலைபேசி & UI
+description: 'Sumaya-வில் 12 தொலைபேசி செயலிகள், HUD, மற்றும் சிறு வரைபடம்.'
 lang: ta
-translated_from_hash: 08a382c1
+translated_from_hash: d6244b1b
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# தொலைபேசி & UI
 
-# Phone and UI
+உங்கள் தொலைபேசி Sumaya-வில் ஏறக்குறைய எல்லாவற்றிற்கும் மையமாகும்: வேலைகள், பணிகள், அவசரகால அழைப்புகள், அமைப்புகள் மற்றும் பலவற்றுக்கு. இந்தப் பக்கம் ஒவ்வொரு செயலியையும், கூடவே விளையாட்டுக்குள்ளான மீதி HUD-ஐயும் (சிறு வரைபடம், பணி அட்டை, அரட்டை) விளக்குகிறது.
 
-Your phone is your hub for almost everything in Sumaya: jobs, quests, emergency calls, settings, and more. This page covers every app, plus the rest of the in-game HUD (minimap, task card, chat).
+## தொலைபேசியைத் திறத்தல்
 
-## Opening the phone
+உங்கள் திரையில் உள்ள தொலைபேசி ஐகானைத் தட்டவும். தொலைபேசி மேலே உயர்ந்து செயலிகளின் கட்டத்தைக் காட்டும். நடக்கும்போதும் வாகனம் ஓட்டும்போதும் அதை திறந்த நிலையில் வைத்திருக்கலாம்.
 
-Tap the phone icon on your screen. The phone slides up and shows a grid of apps. You can have it open while walking and driving.
+அதை மூட, தொலைபேசிக்கு வெளியே தட்டவும் அல்லது மூடு பொத்தானைப் பயன்படுத்தவும்.
 
-To close it, tap outside the phone or use the close button.
+## தொலைபேசி செயலிகள்
 
-## Phone apps
-
-Sumaya has **12 player-facing apps** plus a phone-home launcher (called `PhoneUI` internally).
+Sumaya-வில் **12 வீரர்களுக்கான செயலிகள்** மற்றும் ஒரு முகப்புத் திரை தொடக்கி உள்ளன (உட்புறமாக `PhoneUI` என அழைக்கப்படுகிறது).
 
 ### Settings
 
-Customize your phone's look:
+உங்கள் தொலைபேசியின் தோற்றத்தை தனிப்பயனாக்கவும்:
 
-- **Phone color** - the device chassis.
-- **Casing color** - inside trim.
-- **Wallpaper** - gradient (customizable colors), solid, or custom image.
+- **Phone color** - சாதனத்தின் சட்டகம்.
+- **Casing color** - உள்ளிணைப்பு விளிம்பு.
+- **Wallpaper** - சாய்வு (தனிப்பயனாக்கக்கூடிய வண்ணங்கள்), திடமான, அல்லது தனிப்பயன் படம்.
 
 ### Camera
 
-An in-game camera app. Take photos of whatever's on screen. Good for house showcases, scenic moments, or capturing that 5-star arrest.
+விளையாட்டுக்குள்ளான கேமரா செயலி. திரையில் உள்ள எதையும் புகைப்படம் எடுக்கலாம். வீட்டு ஷோகேஸ்கள், அழகிய தருணங்கள், அல்லது அந்த 5 நட்சத்திர கைது தருணத்தைப் பிடிக்க சிறந்தது.
 
 ### Profile
 
-See your player profile:
+உங்கள் வீரர் சுயவிவரத்தைப் பார்க்கவும்:
 
-- Current player level and progress.
-- Your sector levels and ranks (one per sector you've worked).
-- Achievements / stats.
+- தற்போதைய வீரர் நிலை மற்றும் முன்னேற்றம்.
+- உங்கள் துறை நிலைகள் மற்றும் தரவரிசைகள் (நீங்கள் வேலை செய்த ஒவ்வொரு துறைக்கும் ஒன்று).
+- சாதனைகள் / புள்ளிவிவரங்கள்.
 
 ### Residence
 
-Your housing app:
+உங்கள் வீட்டுவசதி செயலி:
 
-- Browse and claim plots.
-- Buy a house template.
-- Enter placement mode for furniture.
-- Lock / unlock doors.
-- Toggle lights.
-- Sell your house.
+- பிளாட்களை உலாவிக் கோரவும்.
+- வீட்டு வார்ப்புருவை வாங்கவும்.
+- மரச்சாமான்களுக்கான வைப்பு முறைக்குள் நுழையவும்.
+- கதவுகளைப் பூட்டவும் / திறக்கவும்.
+- விளக்குகளை மாற்றவும்.
+- உங்கள் வீட்டை விற்கவும்.
 
-See [Housing](/sumaya/housing).
+[Housing](/sumaya/housing)-ஐப் பார்க்கவும்.
 
 ### Careers
 
-Civilian career hub:
+பொதுமக்கள் தொழில் மையம்:
 
-- See available civilian sectors (Fishing, Service, Agro).
-- Check your sector levels and ranks.
-- See which sector you're currently on shift with.
-- Start or end a job (though you still need to be at the career station to clock in).
+- கிடைக்கக்கூடிய பொதுமக்கள் துறைகளைப் பார்க்கவும் (Fishing, Service, Agro).
+- உங்கள் துறை நிலைகள் மற்றும் தரவரிசைகளைச் சரிபார்க்கவும்.
+- நீங்கள் தற்போது எந்தத் துறையில் பணியில் உள்ளீர்கள் என்பதைப் பார்க்கவும்.
+- வேலையைத் தொடங்கவும் அல்லது முடிக்கவும் (ஆனால் உள்நுழைய உங்கள் தொழில் நிலையத்தில் இருக்க வேண்டும்).
 
-See [Careers overview](/sumaya/jobs).
+[Careers overview](/sumaya/jobs)-ஐப் பார்க்கவும்.
 
 ### Passive
 
-Toggle **Passive Mode**:
+**Passive Mode**-ஐ மாற்றவும்:
 
-- **On**: you're invulnerable; you can't damage or be damaged by other players. You also can't commit crimes.
-- **Off**: regular PvP / offence rules apply.
+- **On**: நீங்கள் தாக்கப்பட முடியாதவர்; மற்ற வீரர்களை காயப்படுத்தவோ காயப்பட முடியாது. குற்றங்களும் செய்ய முடியாது.
+- **Off**: வழக்கமான PvP / குற்ற விதிகள் பொருந்தும்.
 
-Useful for roleplay scenes, or if you just want to drive around without getting randomly attacked.
+ரோல்ப்ளே காட்சிகளுக்கு, அல்லது எந்தத் தாக்குதலுமின்றி சும்மா வாகனம் ஓட்ட விரும்பினால் பயனுள்ளது.
 
-**Important details:**
+**முக்கிய விவரங்கள்:**
 
-- **You start in passive mode** every time you join the game. It's the default state, not something you need to opt into.
-- **Law enforcement (POLIS) never passes passive**. Cops are permanently non-passive and can't use this toggle.
-- **Equipping a crime tool drops you out of passive automatically**. Pick up a Slim Jim or Pickpocket Knife and you can't be passive until you drop it.
-- **Wanted players can't re-enable passive**. Once your wanted stars decay, it re-enables on its own.
-- **After certain offences (speeding, crashes, crime)** the passive toggle is locked for a duration (the "passive lock"). See [Crime and Law](/sumaya/crime-and-law) for the per-star lock durations.
+- **நீங்கள் விளையாட்டில் சேரும் ஒவ்வொரு முறையும் passive மோடில் தொடங்குகிறீர்கள்**. இது இயல்புநிலை, நீங்கள் தேர்வு செய்ய வேண்டியதில்லை.
+- **சட்ட அமலாக்கம் (POLIS) ஒருபோதும் passive-க்கு செல்லாது**. காவலர்கள் நிரந்தரமாக passive-அல்லாதவர்கள், இந்த மாற்றத்தைப் பயன்படுத்த முடியாது.
+- **குற்றக் கருவியை அணிந்தால் நீங்கள் தானாகவே passive-ஐ விட்டு வெளியேறுவீர்கள்**. Slim Jim அல்லது Pickpocket Knife-ஐ எடுத்தால், அதைக் கீழே போடும் வரை நீங்கள் passive ஆக இருக்க முடியாது.
+- **தேடப்படும் வீரர்கள் passive-ஐ மீண்டும் இயக்க முடியாது**. உங்கள் wanted நட்சத்திரங்கள் அழிந்த பிறகு, அது தானாக மீண்டும் இயக்கப்படும்.
+- **சில குற்றங்களுக்குப் பிறகு (அதிவேகம், விபத்துகள், குற்றம்)** passive மாற்றம் ஒரு காலத்திற்கு பூட்டப்படும் ("passive lock"). ஒவ்வொரு நட்சத்திரத்திற்கான பூட்டு காலத்திற்கு [Crime and Law](/sumaya/crime-and-law)-ஐப் பார்க்கவும்.
 
 ### Collision
 
-Toggle vehicle collisions:
+வாகன மோதல்களை மாற்றவும்:
 
-- **Enabled**: normal vehicle-vs-vehicle physics.
-- **Disabled**: your vehicle phases through other vehicles.
+- **Enabled**: சாதாரண வாகனத்திற்கு-எதிரான-வாகன இயற்பியல்.
+- **Disabled**: உங்கள் வாகனம் மற்ற வாகனங்களைக் கடந்து செல்லும்.
 
-Useful for parking in tight spots or escaping a crash pile-up. See [Vehicles](/sumaya/vehicles).
+இறுக்கமான இடங்களில் நிறுத்துவதற்கு அல்லது விபத்து கூட்டத்திலிருந்து தப்பிப்பதற்கு பயனுள்ளது. [Vehicles](/sumaya/vehicles)-ஐப் பார்க்கவும்.
 
 ### Cinematic
 
-A free-roam camera mode. Move your viewpoint around independently of your character for dramatic angles or film-style shots. Great for recording, not much use for gameplay.
+ஒரு சுதந்திரமாக நகரும் கேமரா மோடு. வியத்தகு கோணங்களுக்கு அல்லது திரைப்பட பாணி ஷாட்களுக்கு உங்கள் பார்வையை உங்கள் கதாபாத்திரத்திலிருந்து சுயாதீனமாக நகர்த்தவும். பதிவு செய்வதற்கு சிறந்தது, விளையாட்டு முறைக்கு அதிகம் பயன்படாது.
 
 ### Quest
 
-View your current quest chain progress:
+உங்கள் தற்போதைய பணிச் சங்கிலியின் முன்னேற்றத்தைப் பார்க்கவும்:
 
-- See the active quest and its steps.
-- Read quest descriptions.
-- Track how much progress you've made.
-- Dismiss the task card or re-show it.
+- செயலில் உள்ள பணியையும் அதன் படிநிலைகளையும் பார்க்கவும்.
+- பணி விளக்கங்களைப் படிக்கவும்.
+- நீங்கள் எவ்வளவு முன்னேற்றம் அடைந்துள்ளீர்கள் என்பதைக் கண்காணிக்கவும்.
+- பணி அட்டையை நீக்கவும் அல்லது மீண்டும் காட்டவும்.
 
-The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
+வரவேற்பு பணிச் சங்கிலி முதல் சேரும் போது தானாக தொடங்கி 12 பணிகளில் இயங்கும். [Quests](/sumaya/quests)-ஐப் பார்க்கவும்.
 
 ### Emergency999
 
-Any civilian can dial 999 from this app. It:
+எந்த பொதுமக்களும் இந்த செயலியிலிருந்து 999-ஐ டயல் செய்யலாம். அது:
 
-- Opens a dispatch screen where you pick which service(s) you need, the reason, and (optionally) a custom note up to 140 characters.
-- Notifies all on-duty POLIS, BOMBA, or Kesihatan players via their MDT.
-- Attaches your location automatically (resolved to the nearest landmark name).
-- Has a **10-second cooldown** per caller before you can submit another call - don't spam.
+- ஒரு அனுப்புதல் திரையைத் திறக்கிறது, அங்கு நீங்கள் தேவையான சேவை(கள்), காரணம், மற்றும் (விருப்பத்துடன்) 140 எழுத்துக்கள் வரை தனிப்பயன் குறிப்பைத் தேர்ந்தெடுப்பீர்கள்.
+- பணியில் உள்ள அனைத்து POLIS, BOMBA, அல்லது Kesihatan வீரர்களுக்கும் அவர்களின் MDT மூலம் அறிவிக்கிறது.
+- உங்கள் இருப்பிடத்தை தானாகவே இணைக்கிறது - **8 பெயரிடப்பட்ட அடையாளச் சின்னங்களில்** மிக நெருக்கமானதற்குத் தீர்க்கப்படுகிறது: Town Centre, Kampung North, Kampung South, Pasaram, Mamak Row, Police Station, Fire Station, Hospital.
+- ஒவ்வொரு அழைப்பாளருக்கும் மற்றொரு அழைப்பை சமர்ப்பிப்பதற்கு முன் **10-வினாடி cooldown** உள்ளது - ஸ்பாம் செய்ய வேண்டாம்.
 
-Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so roleplay scenarios that end up un-responded don't clutter the MDT forever.
+**30 நிமிடங்களுக்குப்** பிறகு ஒரு dispatcher அவற்றைக் கையாளவில்லை என்றால் அழைப்புகள் தானாக மூடப்படும், இதனால் பதிலளிக்கப்படாத ரோல்ப்ளே காட்சிகள் MDT-யை நிரந்தரமாக நிரப்பாது.
 
-Use this for roleplay scenarios (call for a fire, report a crime, need medical).
+ரோல்ப்ளே காட்சிகளுக்கு இதைப் பயன்படுத்தவும் (தீ விபத்திற்கு அழைக்கவும், குற்றத்தைப் புகாரளிக்கவும், மருத்துவம் தேவை).
 
 ### MDT (Mobile Data Terminal)
 
-Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT is your dispatch console:
+**அவசர-சேவை அணிகளில்** மட்டுமே காட்டப்படும் (POLIS, BOMBA, Kesihatan). MDT என்பது உங்கள் அனுப்புதல் கன்சோல்:
 
-- **Calls tab** - active 999 calls. See who's calling, where, and why. Set a waypoint or mark a call as responded.
-- **Wanted tab** (POLIS only) - list of currently-wanted suspects with star levels and offence counts. Tap to set a waypoint.
-- **Plate checker** (POLIS only) - look up a license plate to see the registered owner and whether the vehicle is stolen.
+- **Calls tab** - செயலில் உள்ள 999 அழைப்புகள். யார் அழைக்கிறார்கள், எங்கே மற்றும் ஏன் என்பதைப் பார்க்கவும். waypoint-ஐ அமைக்கவும் அல்லது அழைப்பை பதிலளிக்கப்பட்டதாகக் குறிக்கவும்.
+- **Wanted tab** (POLIS மட்டும்) - தற்போது தேடப்படும் சந்தேகத்திற்குரியவர்களின் பட்டியல், நட்சத்திர மட்டங்கள் மற்றும் குற்ற எண்ணிக்கைகளுடன். waypoint அமைக்க தட்டவும்.
+- **Plate checker** (POLIS மட்டும்) - ஒரு உரிமம் பலகையைத் தேடி, பதிவு செய்யப்பட்ட உரிமையாளரைப் பார்க்கவும் மற்றும் வாகனம் திருடப்பட்டதா என்பதைப் பார்க்கவும்.
 
-See [Polis](/sumaya/polis) for more on the MDT.
+MDT பற்றி மேலும் அறிய [Polis](/sumaya/polis)-ஐப் பார்க்கவும்.
 
 ### DevTools
 
-Developer-only debugging app. You won't see it as a regular player. Ignore.
+டெவலப்பர்-மட்டுமே பிழைத்திருத்த செயலி. ஒரு சாதாரண வீரராக நீங்கள் அதைப் பார்க்க மாட்டீர்கள். புறக்கணிக்கவும்.
 
-### PhoneUI (home launcher)
+### PhoneUI (முகப்பு தொடக்கி)
 
-The main phone home screen with the app grid. Not a separate app you launch.
+செயலிக் கட்டத்துடனான முக்கிய தொலைபேசி முகப்புத் திரை. நீங்கள் துவக்கும் தனி செயலி அல்ல.
 
-## The minimap
+## சிறு வரைபடம்
 
-In the top-right corner, you'll see a minimap showing the area around you.
+மேல்-வலது மூலையில், உங்களைச் சுற்றியுள்ள பகுதியைக் காட்டும் சிறு வரைபடத்தைக் காண்பீர்கள்.
 
-### What the minimap shows
+### சிறு வரைபடம் காட்டுவது
 
-- **Your position** (the arrow at the center).
-- **Roads and buildings** around you.
-- **Points of interest** (POIs): hospital, police station, fire station, vehicle spawners, shops, career stations.
-- **Waypoints** you've placed or that have been set by the game (quest markers, MDT calls).
-- **Other players** and NPCs may appear as dots depending on context.
+- **உங்கள் நிலை** (மையத்தில் உள்ள அம்பு).
+- உங்களைச் சுற்றியுள்ள **சாலைகள் மற்றும் கட்டிடங்கள்**.
+- **ஆர்வமுள்ள இடங்கள்** (POI): மருத்துவமனை, காவல் நிலையம், தீயணைப்பு நிலையம், vehicle spawner-கள், கடைகள், தொழில் நிலையங்கள்.
+- நீங்கள் வைத்த அல்லது விளையாட்டு அமைத்துள்ள **waypoint-கள்** (பணி குறிப்பான்கள், MDT அழைப்புகள்).
+- **மற்ற வீரர்கள்** மற்றும் NPC-கள் சூழலைப் பொறுத்து புள்ளிகளாகத் தோன்றலாம்.
 
-### Expanding the minimap
+### சிறு வரைபடத்தை விரிவாக்குதல்
 
-Click the minimap (or press the expand button) to open the **full-screen map**. You can:
+**முழுத் திரை வரைபடத்தைத்** திறக்க சிறு வரைபடத்தைக் கிளிக் செய்யவும் (அல்லது விரிவாக்கு பொத்தானை அழுத்தவும்). நீங்கள் செய்யலாம்:
 
-- Zoom in and out.
-- Pan around to see other parts of Sumaya.
-- Hit **F** to **fit all your waypoints** into view at once.
+- உள்ளே மற்றும் வெளியே பெரிதாக்கவும்.
+- Sumaya-வின் மற்ற பகுதிகளைப் பார்க்க பான் செய்யவும்.
+- உங்கள் அனைத்து waypoint-களையும் ஒரே நேரத்தில் பார்வைக்குள் **பொருத்த F**-ஐ அழுத்தவும்.
 
-### Custom waypoints
+### தனிப்பயன் waypoint-கள்
 
-In the full-screen map:
+முழுத் திரை வரைபடத்தில்:
 
-- **Long-press** (about 0.5 seconds) on a location to drop a custom waypoint.
-- **Right-click** an existing waypoint for a context menu (rename, change color, delete).
-- Your waypoints **persist across sessions**.
+- ஒரு தனிப்பயன் waypoint-ஐ இடுவதற்கு ஒரு இடத்தில் **நீண்ட அழுத்தவும்** (சுமார் 0.5 வினாடிகள்).
+- இருக்கும் waypoint-ஐ சூழல் மெனுவுக்கு **வலது-கிளிக்** செய்யவும் (மறுபெயரிடு, வண்ணத்தை மாற்று, நீக்கு).
+- உங்கள் waypoint-கள் **அமர்வுகளுக்கு இடையில் நிலைத்திருக்கும்**.
 
-Custom waypoints are great for marking your favorite fishing spot, your friend's house, or where you parked your trawler.
+உங்களுக்கு பிடித்த மீன்பிடி இடம், உங்கள் நண்பரின் வீடு, அல்லது உங்கள் trawler-ஐ நிறுத்திய இடத்தைக் குறிக்க தனிப்பயன் waypoint-கள் சிறந்தவை.
 
-### The guidance beam
+### வழிகாட்டி கதிர்
 
-You'll often see a **colored beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colors are consistent:
+உங்கள் கதாபாத்திரத்திலிருந்து ஒரு இலக்குக்கு ஒரு **வண்ணக் கதிரை** நீங்கள் அடிக்கடி பார்ப்பீர்கள் - இதுவே வழிகாட்டி கதிர், சிறு வரைபடம் தற்போது கண்காணிக்கும் எந்த waypoint-இன் 3D காட்சி பதிப்பு. வண்ணங்கள் சீராக இருக்கும்:
 
-- Red (bright): quest markers, important objectives.
-- Other colors: custom waypoints in their chosen color.
+- சிவப்பு (பிரகாசமான): பணி குறிப்பான்கள், முக்கியமான இலக்குகள்.
+- மற்ற வண்ணங்கள்: தேர்ந்தெடுக்கப்பட்ட வண்ணத்தில் தனிப்பயன் waypoint-கள்.
 
-## The task card
+## பணி அட்டை
 
-In the top-left corner, you'll often see a **task card** - a small panel that describes your current objective. It might show:
+மேல்-இடது மூலையில், உங்கள் தற்போதைய இலக்கை விவரிக்கும் சிறு குழுவான **பணி அட்டையை** நீங்கள் அடிக்கடி பார்ப்பீர்கள். அது காட்டக்கூடும்:
 
-- Your active quest step ("Spawn a vehicle").
-- An active fire you're responding to ("Fire at Jalan Triden").
-- A patient you're treating.
-- A carjacking drop-off zone.
+- உங்கள் செயலில் உள்ள பணி படி ("Spawn a vehicle").
+- நீங்கள் பதிலளிக்கும் செயலில் உள்ள தீ ("Fire at Jalan Triden").
+- நீங்கள் சிகிச்சை செய்யும் நோயாளி.
+- ஒரு carjacking வீழ்த்தும் மண்டலம்.
 
-### Collapsing the task card
+### பணி அட்டையைச் சுருக்குதல்
 
-On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
+குறிப்பாக மொபைலில், பணி அட்டை ஓட்டுதல் கட்டுப்பாடுகளுடன் மேல்பொருந்தலாம். அட்டையின் **chevron (^) பொத்தானை** தட்டி அதை சுருக்கவும், ஒரு குறைந்தபட்ச ஐகானை மட்டும் காட்டவும். மீண்டும் விரிவாக்க மீண்டும் தட்டவும்.
 
-## Chat
+## அரட்டை
 
-Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a message and hit Enter to send.
+திரையின் கீழே உள்ள அரட்டைப் பட்டியை கவனத்தில் கொள்ள **/** (slash)-ஐ அழுத்தவும். ஒரு செய்தியை உள்ளிட்டு அனுப்ப Enter-ஐ அழுத்தவும்.
 
-Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
+Sumaya Roblox-இன் `TextChatService`-ஐப் பயன்படுத்துகிறது, எனவே வழக்கமான `/whisper <player>` மற்றும் பொது அரட்டை அனைத்தும் வேலை செய்யும்.
 
-### Public Services channel
+### Public Services சேனல்
 
-If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
+நீங்கள் ஒரு அவசர-சேவை அணியில் (POLIS, BOMBA, அல்லது Kesihatan) இருந்தால், கூடுதல் **Public Services** சேனலுக்கு அணுகல் கிடைக்கும். அங்கு அனுப்பப்பட்ட செய்திகள் மற்ற அவசர-சேவை வீரர்களுக்கு மட்டுமே தெரியும் - மூன்று சேவைகளிலும் ஒரு தனியார் ஒருங்கிணைப்பு சேனல். பொதுமக்கள் அணிகளால் அதை பார்க்கவோ அனுப்பவோ முடியாது.
 
-Your access auto-updates when you switch teams.
+நீங்கள் அணிகளை மாற்றும்போது உங்கள் அணுகல் தானாகவே புதுப்பிக்கப்படும்.
 
-## Banner notifications
+## பதாகை அறிவிப்புகள்
 
-You'll see slide-in banner notifications for:
+பின்வருவனவற்றிற்காக ஸ்லைட்-இன் பதாகை அறிவிப்புகளை நீங்கள் பார்ப்பீர்கள்:
 
-- Job payouts.
-- Quest step completions.
-- New offence detected (for POLIS on duty).
-- Wanted level gained or cleared.
-- System messages.
+- வேலை ஊதியங்கள்.
+- பணி படி நிறைவுகள்.
+- புதிய குற்றம் கண்டறியப்பட்டது (பணியிலுள்ள POLIS-க்கு).
+- Wanted நிலை பெறப்பட்டது அல்லது அழிக்கப்பட்டது.
+- கணினி செய்திகள்.
 
-Banners auto-dismiss after a few seconds.
+பதாகைகள் சில வினாடிகளில் தானாகவே நீக்கப்படும்.
 
-## Wallet / bank display
+## பணப்பை / வங்கி காட்சி
 
-Your current Ringgit balance is shown in a small HUD near the top of the screen. Open the full wallet details via the phone or the ATM. See [Economy](/sumaya/economy).
+உங்கள் தற்போதைய Ringgit இருப்பு திரையின் மேல் பகுதிக்கு அருகில் ஒரு சிறிய HUD-ல் காட்டப்படும். தொலைபேசி அல்லது ATM வழியாக முழு பணப்பை விவரங்களைத் திறக்கவும். [Economy](/sumaya/economy)-ஐப் பார்க்கவும்.
 
-## Tips
+## குறிப்புகள்
 
-- **Open the phone as soon as you spawn.** Most of what you need is there.
-- **Expanded minimap for planning.** Before a long trip, pop the full map, see the route, drop a waypoint at your destination.
-- **Passive mode for roleplay.** Going out for a chill screenshot session? Toggle passive so no one interrupts with carjacks or fights.
-- **999 for calls, MDT for responses.** One is for civilians, the other is for responders.
-- **Long-press to make waypoints.** This is the single biggest quality-of-life feature - use it to mark places you keep returning to.
-- **Collapse the task card when driving mobile.** The extra screen real-estate matters on small screens.
-- **Profile app for flex.** Your ranks show here. Screenshot-worthy once you hit high-tier ranks.
+- **நீங்கள் spawn செய்தவுடன் தொலைபேசியைத் திறக்கவும்.** உங்களுக்குத் தேவையான பெரும்பாலானவை அங்கே உள்ளன.
+- **திட்டமிடுவதற்கு விரிவாக்கப்பட்ட சிறு வரைபடம்.** ஒரு நீண்ட பயணத்திற்கு முன், முழு வரைபடத்தைத் திறந்து, பாதையைப் பார்த்து, உங்கள் இலக்கில் ஒரு waypoint-ஐ இடவும்.
+- **ரோல்ப்ளே-க்கு passive மோடு.** ஒரு இலகுவான ஸ்கிரீன்ஷாட் அமர்வுக்கு வெளியே செல்கிறீர்களா? யாரும் carjack-கள் அல்லது சண்டைகள் மூலம் இடையூறு செய்யாதபடி passive-ஐ மாற்றவும்.
+- **அழைப்புகளுக்கு 999, பதில்களுக்கு MDT.** ஒன்று பொதுமக்களுக்கு, மற்றொன்று பதிலளிப்பவர்களுக்கு.
+- **waypoint-களை உருவாக்க நீண்ட அழுத்தவும்.** இது ஒரே பெரிய வாழ்க்கைத் தர அம்சம் - நீங்கள் தொடர்ந்து திரும்பிச் செல்லும் இடங்களைக் குறிக்க இதைப் பயன்படுத்தவும்.
+- **மொபைலில் ஓட்டும்போது பணி அட்டையைச் சுருக்கவும்.** சிறிய திரைகளில் கூடுதல் திரை இடம் முக்கியம்.
+- **Flex செய்ய Profile செயலி.** உங்கள் தரவரிசைகள் இங்கே காட்டப்படும். உயர்-அடுக்கு தரவரிசைகளை அடைந்தவுடன் ஸ்கிரீன்ஷாட்டுக்குத் தகுதியானது.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Quests](/sumaya/quests) for the discovery chain you'll see in the Quest app.
-- [Polis](/sumaya/polis) for MDT details.
-- [Tips and tricks](/sumaya/tips-and-tricks) for more hidden UI features.
+- Quest செயலியில் நீங்கள் பார்க்கும் கண்டுபிடிப்புச் சங்கிலிக்கு [Quests](/sumaya/quests).
+- MDT விவரங்களுக்கு [Polis](/sumaya/polis).
+- மேலும் மறைந்த UI அம்சங்களுக்கு [Tips and tricks](/sumaya/tips-and-tricks).

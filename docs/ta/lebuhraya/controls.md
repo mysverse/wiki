@@ -1,88 +1,89 @@
 ---
-title: Controls
-description: 'Every control in Lebuhraya — keyboard, gamepad, mobile, and VR inputs.'
+title: கட்டுப்பாடுகள்
+description: >-
+  Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு — விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR
+  உள்ளீடுகள்.
 lang: ta
 translated_from_hash: cdee6400
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# கட்டுப்பாடுகள்
 
-# Controls
+Lebuhraya விசைப்பலகை, கேம்பேட், தொடுதல் (கைபேசி/டேப்லெட்), மற்றும் VR ஆகியவற்றை ஆதரிக்கிறது. விளையாட்டு உங்கள் தளத்தைத் தானாகவே கண்டறிந்து விளையாட்டிற்குள் சரியான குறிப்புகளைக் காட்டுகிறது — திரையில் ஒரு கட்டுப்பாடு காட்டப்பட்டால், அதையே பயன்படுத்துங்கள். கீழே உள்ள குறிப்பு பொதுவான பிணைப்புகள் எப்படி இருக்கும் என்பதைக் காட்டுகிறது.
 
-Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game — if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
+## வாகனங்களில் ஏறுதல் மற்றும் இறங்குதல்
 
-## Entering and exiting vehicles
+ஓட்டுநர் அல்லது பயணிகள் இருக்கையிலிருந்து சுமார் **6 stud**-க்குள் நில்லுங்கள்.
 
-Stand within about **6 studs** of a driver or passenger seat.
-
-| Platform | Button |
+| தளம் | பட்டன் |
 |---|---|
-| Keyboard | **F** |
-| Gamepad | **X** (controller face button) |
-| Touch | Tap the **Drive** / **Sit** button on screen |
+| விசைப்பலகை | **F** |
+| கேம்பேட் | **X** (கன்ட்ரோலர் முக பட்டன்) |
+| தொடுதல் | திரையில் உள்ள **Drive** / **Sit** பட்டனைத் தட்டுங்கள் |
 | VR | **Right trigger (R2)** |
 
-The same input exits the seat.
+அதே உள்ளீடு இருக்கையிலிருந்து வெளியேறவும் பயன்படுகிறது.
 
-### Seat permissions
+### இருக்கை அனுமதிகள்
 
-Driver seats are usually locked to the vehicle's owner. If you try to sit in someone else's car, you'll be blocked unless they've unlocked it for you.
+ஓட்டுநர் இருக்கைகள் பொதுவாக வாகனத்தின் உரிமையாளருக்கு மட்டும் பூட்டப்பட்டிருக்கும். நீங்கள் மற்றொருவரின் காரில் உட்கார முயற்சித்தால், அவர்கள் உங்களுக்காக அதைத் திறக்காத வரை நீங்கள் தடுக்கப்படுவீர்கள்.
 
-## Driving
+## ஓட்டுதல்
 
-Driving uses the A-Chassis system. Defaults:
+ஓட்டுதல் A-Chassis அமைப்பைப் பயன்படுத்துகிறது. இயல்புநிலைகள்:
 
-| Action | Keyboard | Gamepad |
+| செயல் | விசைப்பலகை | கேம்பேட் |
 |---|---|---|
-| Accelerate | **W** | Right trigger (RT) |
-| Brake / Reverse | **S** | Left trigger (LT) |
-| Steer left | **A** | Left stick |
-| Steer right | **D** | Left stick |
-| Handbrake | **Space** | A / RB |
-| Toggle indicators / lights | **E**, **Q**, **I**, **J**, **H** (varies) | See in-game prompts |
-| Horn | **H** (on most vehicles) | Right stick click |
+| வேகப்படுத்து | **W** | Right trigger (RT) |
+| பிரேக் / பின்னோக்கி | **S** | Left trigger (LT) |
+| இடதுபுறம் திருப்பு | **A** | Left stick |
+| வலதுபுறம் திருப்பு | **D** | Left stick |
+| கைப்பிரேக் | **Space** | A / RB |
+| இன்டிகேட்டர்கள் / விளக்குகள் மாற்று | **E**, **Q**, **I**, **J**, **H** (மாறுபடும்) | விளையாட்டுக்குள் உள்ள குறிப்புகளைப் பார்க்கவும் |
+| ஹார்ன் | **H** (பெரும்பாலான வாகனங்களில்) | Right stick click |
 
-> Vehicle lighting controls vary between the older and newer chassis systems in the game. Always follow the on-screen prompts for the specific vehicle you're in.
+> விளையாட்டில் உள்ள பழைய மற்றும் புதிய chassis அமைப்புகளுக்கு இடையே வாகன விளக்கு கட்டுப்பாடுகள் வேறுபடுகின்றன. நீங்கள் ஏறியிருக்கும் குறிப்பிட்ட வாகனத்திற்கான திரையில் உள்ள குறிப்புகளை எப்போதும் பின்பற்றுங்கள்.
 
-## Walking around
+## நடந்து செல்லுதல்
 
-Standard Roblox controls.
+நிலையான Roblox கட்டுப்பாடுகள்.
 
-| Action | Keyboard | Gamepad | Mobile |
+| செயல் | விசைப்பலகை | கேம்பேட் | கைபேசி |
 |---|---|---|---|
-| Move | **W / A / S / D** | Left stick | On-screen d-pad |
-| Jump | **Space** | A | Jump button |
-| Sprint | (shift-to-run enabled in-game) | Left stick click | Sprint toggle |
-| Camera | Mouse | Right stick | Swipe |
+| நகர்த்து | **W / A / S / D** | Left stick | திரையில் உள்ள D-pad |
+| குதி | **Space** | A | குதி பட்டன் |
+| ஓடு | (விளையாட்டில் shift-to-run இயக்கப்பட்டது) | Left stick click | ஓட்ட மாற்று |
+| கேமரா | மவுஸ் | Right stick | ஸ்வைப் |
 
-## Interface
+## இடைமுகம்
 
-| Action | Keyboard | Mobile |
+| செயல் | விசைப்பலகை | கைபேசி |
 |---|---|---|
-| Chat | **/** (forward slash) | Tap chat icon |
-| Main menu | Topbar icon | Topbar icon |
-| Phone | Topbar icon | Topbar icon |
-| Tablet | Topbar icon (if available) | Topbar icon |
-| Settings | Cogwheel in Main Menu | Cogwheel in Main Menu |
-| Close any popup | **Esc** or **Backspace** | Tap close |
+| அரட்டை | **/** (முன்னோக்கிய சாய்வு) | அரட்டை ஐகானைத் தட்டுங்கள் |
+| முதன்மை மெனு | மேல் பட்டை ஐகான் | மேல் பட்டை ஐகான் |
+| போன் | மேல் பட்டை ஐகான் | மேல் பட்டை ஐகான் |
+| டேப்லெட் | மேல் பட்டை ஐகான் (கிடைத்தால்) | மேல் பட்டை ஐகான் |
+| அமைப்புகள் | முதன்மை மெனுவில் உள்ள பல் சக்கரம் | முதன்மை மெனுவில் உள்ள பல் சக்கரம் |
+| எந்தவொரு பாப்அப்பையும் மூடு | **Esc** அல்லது **Backspace** | மூடு தட்டுங்கள் |
 
-## Tools (jobs equipment)
+## கருவிகள் (வேலை உபகரணங்கள்)
 
-When you hold a tool — axe, radar gun, taser, pager, fire hose — the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.
+நீங்கள் ஒரு கருவியை வைத்திருக்கும்போது — கோடாரி, ரேடார் துப்பாக்கி, டேசர், பேஜர், தீயணைப்பு குழாய் — கட்டுப்பாடுகள் அந்தக் கருவிக்குச் சிறப்பானவை. திரையில் உள்ள குறிப்புகளைப் பயன்படுத்துங்கள் அல்லது அதைப் பயன்படுத்தும் அணிக்கான வேலை பக்கத்தைப் பார்க்கவும்.
 
-## Mobile tips
+## கைபேசி குறிப்புகள்
 
-- The game respects mobile layout; driving on a phone works but is easier on a tablet.
-- Most ProximityPrompts (enter doors, talk to NPCs, start jobs) show a round button on screen. Tap it.
-- The steering wheel is available on the left of the HUD while driving.
+- விளையாட்டு கைபேசி அமைப்பை மதிக்கிறது; போனில் ஓட்டுவது வேலை செய்கிறது ஆனால் டேப்லெட்டில் எளிதானது.
+- பெரும்பாலான ProximityPrompts (கதவுகளுக்குள் நுழை, NPC-களுடன் பேசு, வேலைகளைத் தொடங்கு) திரையில் ஒரு வட்ட பட்டனைக் காட்டுகின்றன. அதைத் தட்டுங்கள்.
+- ஓட்டும்போது HUD-இன் இடதுபுறத்தில் ஸ்டியரிங் வீல் கிடைக்கிறது.
 
-## Accessibility
+## அணுகல்தன்மை
 
-- Roblox's system-wide settings apply — colourblind filters, UI scaling, text-to-speech.
-- Passive mode can be toggled to prevent tool and weapon interactions (your `Passive` player attribute). Useful if you don't want to be pulled into combat or emergency roleplay.
+- Roblox-இன் முழு அமைப்பு நிலை அமைப்புகள் பொருந்தும் — நிற-குருட்டு வடிகட்டிகள், UI அளவிடுதல், உரைக்கு-பேச்சு.
+- கருவி மற்றும் ஆயுத தொடர்புகளைத் தடுக்க பேசிவ் பயன்முறையை மாற்றலாம் (உங்கள் `Passive` பிளேயர் பண்பு). நீங்கள் போரில் அல்லது அவசரகால ரோல்-பிளே-க்கு இழுக்கப்படுவதை விரும்பாவிட்டால் இது பயனுள்ளதாக இருக்கும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Economy and XP](/lebuhraya/economy) — How driving turns into levels
-- [Vehicles](/lebuhraya/vehicles) — Spawn menu, ownership, fuel
-- [Jobs](/lebuhraya/jobs) — Which tools belong to which teams
+- [பொருளாதாரம் மற்றும் XP](/lebuhraya/economy) — ஓட்டுதல் எப்படி நிலைகளாக மாறுகிறது
+- [வாகனங்கள்](/lebuhraya/vehicles) — ஸ்பான் மெனு, உரிமை, எரிபொருள்
+- [வேலைகள்](/lebuhraya/jobs) — எந்தெந்த கருவிகள் எந்தெந்த அணிகளுக்கு சொந்தமானவை

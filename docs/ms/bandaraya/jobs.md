@@ -1,46 +1,45 @@
 ---
-title: Jobs
+title: Kerjaya
 description: >-
-  Every job in Bandaraya — postal service, taxi driving, towing, bus driving,
-  and agency jobs — with pay rates and ranks.
+  Setiap kerja di Bandaraya — perkhidmatan pos, pemandu teksi, tunda, pemandu
+  bas, dan kerja agensi — dengan kadar gaji dan pangkat.
 lang: ms
 translated_from_hash: 33dd3a97
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kerjaya
 
-# Jobs
+Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan PDRM / BOMBA / KKM tiada di halaman ini — mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
 
-The quickest ways to earn BR in Bandaraya. All of these are civilian-accessible (with gamepass or group where noted). Police / BOMBA / KKM roles aren't on this page — they earn prestige, not salary. See [Emergency Services](/bandaraya/emergency-services) for those.
+## Ringkasan
 
-## TL;DR
-
-| Job | Access | Pace | Good for |
+| Kerja | Akses | Kadar | Sesuai untuk |
 | --- | --- | --- | --- |
-| **Postal Service (POS)** | Visitors / Malaysians / HCC / Developers only | Steady | New players who want reliable BR |
-| **Taxi Driver** | Taxi Services team OR Taxi Driver gamepass (150 R$) | Per trip (varies) | Players who like customer service roleplay |
-| **Towing** | Towing Services team | Per clamp / tow (500 BR clamp fee) | Players with a towing group |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services groups | Per route | Players who like set piece driving |
+| **Postal Service (POS)** | Visitors / Malaysians / HCC / Developers sahaja | Stabil | Pemain baru yang mahukan BR yang boleh diharap |
+| **Taxi Driver** | Pasukan Taxi Services ATAU gamepass Taxi Driver (150 R$) | Setiap perjalanan (berbeza-beza) | Pemain yang suka roleplay perkhidmatan pelanggan |
+| **Towing** | Pasukan Towing Services | Setiap kepit / tunda (yuran kepit 500 BR) | Pemain yang ada kumpulan tunda |
+| **Memandu bas** | Kumpulan MyTransit / FirstGroup / Fermuda / Bus Services | Setiap laluan | Pemain yang suka memandu mengikut laluan tetap |
 
 ---
 
 ## Postal Service (POS)
 
-The go-to first job. No gamepass needed — but you have to be on a **civilian-ish team**: **Visitors**, **Malaysians**, **High Class Citizen**, or **Developers**. PDRM / BOMBA / KKM / etc. cannot clock in for POS (the game stops you at the start-work step).
+Kerja pertama yang paling popular. Tiada gamepass diperlukan — tetapi anda perlu berada dalam **pasukan separa-awam**: **Visitors**, **Malaysians**, **High Class Citizen**, atau **Developers**. PDRM / BOMBA / KKM / dan lain-lain tidak boleh mula bekerja sebagai POS (permainan akan menghalang anda pada langkah mula-kerja).
 
-### The flow
+### Aliran kerja
 
-1. **Start work** at a POS terminal (look for the POS signage — see [Map](/bandaraya/locations)).
-2. **Collect packages** from a nearby **Postbox**. You carry them.
-3. **Process** collected packages at the **Station**.
-4. **Deliver** them to **Mailboxes** around the city.
-5. Each delivery pays BR and gives XP.
+1. **Mula kerja** di terminal POS (cari papan tanda POS — lihat [Peta](/bandaraya/locations)).
+2. **Kutip bungkusan** dari **Postbox** berdekatan. Anda akan membawanya.
+3. **Proses** bungkusan yang dikutip di **Station**.
+4. **Hantar** bungkusan ke **Mailboxes** di sekitar bandar.
+5. Setiap penghantaran membayar BR dan memberi XP.
 
-### Level & salary
+### Tahap & gaji
 
-Level up as you deliver, and your per-delivery pay goes up.
+Naik tahap sambil menghantar, dan gaji setiap penghantaran anda akan meningkat.
 
-| Level | XP to next | Salary per delivery |
+| Tahap | XP ke tahap seterusnya | Gaji setiap penghantaran |
 | --- | --- | --- |
 | 1 | 100 | 70 BR |
 | 2 | 200 | 80 BR |
@@ -48,74 +47,74 @@ Level up as you deliver, and your per-delivery pay goes up.
 | 5 | 500 | 110 BR |
 | 10 | 1,000 | 160 BR |
 | 15 | 1,500 | 210 BR |
-| **20 (max)** | 2,000 | **260 BR** |
+| **20 (maks)** | 2,000 | **260 BR** |
 
-Formula: salary is `60 + (Level × 10)` BR.
+Formula: gaji ialah `60 + (Tahap × 10)` BR.
 
-You max out at Level 20 for 260 BR/delivery. That's the top end.
+Anda akan mencapai had maksimum pada Tahap 20 dengan 260 BR/penghantaran. Itulah had tertinggi.
 
-Each delivery awards **25 XP**, so:
-- Level 1 → 2 takes **4 deliveries** (100 XP)
-- Level 10 → 11 takes **40 deliveries**
-- Level 19 → 20 takes **76 deliveries**
+Setiap penghantaran memberi **25 XP**, jadi:
+- Tahap 1 → 2 memerlukan **4 penghantaran** (100 XP)
+- Tahap 10 → 11 memerlukan **40 penghantaran**
+- Tahap 19 → 20 memerlukan **76 penghantaran**
 
-Total grind from scratch to cap: roughly 760 deliveries over ~19 level-ups.
+Jumlah usaha dari kosong hingga had maksimum: kira-kira 760 penghantaran dalam ~19 kenaikan tahap.
 
-### Vehicles
+### Kenderaan
 
-POS has 10 dedicated vehicles: **Toyota Hiace Pos Laju** (8 variants), **Toyota Hilux Pos Laju**, and an **EX5** motorcycle for the scrappy couriers.
+POS mempunyai 10 kenderaan khas: **Toyota Hiace Pos Laju** (8 varian), **Toyota Hilux Pos Laju**, dan motosikal **EX5** untuk kurier yang cergas.
 
-### Tips
+### Petua
 
-- Keep moving — delivery locations are spread out.
-- Motorcycles move faster through traffic; vans carry more at once.
-- **Don't go rogue as POS.** Abusing a job team to commit crime is a banable offence.
+- Sentiasa bergerak — lokasi penghantaran tersebar luas.
+- Motosikal bergerak lebih laju dalam kesesakan; van boleh membawa lebih banyak sekali gus.
+- **Jangan menyeleweng sebagai POS.** Menyalahgunakan pasukan kerja untuk melakukan jenayah adalah kesalahan yang boleh menyebabkan ban.
 
 ---
 
 ## Taxi Driver
 
-Respond to passenger bookings, drive them where they want to go, collect the fare.
+Layan tempahan penumpang, pandu mereka ke destinasi, dan kutip tambang.
 
-### Access
+### Akses
 
-- **Taxi Driver gamepass** (150 R$) — cheapest way in.
-- **OR** join a **Taxi Services** group (SSM-registered).
+- **Gamepass Taxi Driver** (150 R$) — cara paling murah.
+- **ATAU** sertai kumpulan **Taxi Services** (berdaftar SSM).
 
-Gamepass holders can also switch to Taxi Services team from the menu.
+Pemegang gamepass juga boleh bertukar ke pasukan Taxi Services melalui menu.
 
-### The flow
+### Aliran kerja
 
-1. **Sign in** as a driver at a taxi company (Fetch, Flaxim, Tompang, Fermuda, or independent Taxi Services).
-2. Your status goes to **Available**.
-3. When a passenger books a ride, your UI shows the booking with destination + description.
-4. **Accept** the booking (or dismiss).
-5. Pick up the passenger.
-6. **Start** the trip when they're in the car.
-7. Drive them to the destination.
-8. **End** the trip — you earn BR (`distance_in_studs × company_rate`, minimum 30 studs), your customer count ticks up.
+1. **Daftar masuk** sebagai pemandu di syarikat teksi (Fetch, Flaxim, Tompang, Fermuda, atau Taxi Services bebas).
+2. Status anda akan bertukar kepada **Available**.
+3. Apabila penumpang menempah perjalanan, UI anda akan menunjukkan tempahan dengan destinasi + penerangan.
+4. **Terima** tempahan (atau tolak).
+5. Jemput penumpang.
+6. **Mulakan** perjalanan apabila mereka sudah di dalam kereta.
+7. Pandu mereka ke destinasi.
+8. **Tamatkan** perjalanan — anda memperoleh BR (`jarak_dalam_stud × kadar_syarikat`, minimum 30 stud), bilangan pelanggan anda akan meningkat.
 
-Sign out when you're done for the shift.
+Daftar keluar apabila syif anda tamat.
 
-### How the fare is calculated
+### Cara tambang dikira
 
-Per-stud rate depends on the company:
+Kadar setiap stud bergantung kepada syarikat:
 
-| Company | Rate (BR/stud) |
+| Syarikat | Kadar (BR/stud) |
 | --- | --- |
-| Yi Heng Taxi Services (the generic "Taxi Services" team) | 0.05 |
+| Yi Heng Taxi Services (pasukan "Taxi Services" generik) | 0.05 |
 | Fetch | 0.05 |
 | Fermuda | 0.04 |
 | Tompang | 0.03 |
 | Flaxim | 0.03 |
 
-A 1 000-stud trip = 50 BR (Yi Heng / Fetch), 40 BR (Fermuda), 30 BR (Tompang / Flaxim). Short trips under 30 studs don't pay out.
+Perjalanan 1 000-stud = 50 BR (Yi Heng / Fetch), 40 BR (Fermuda), 30 BR (Tompang / Flaxim). Perjalanan pendek di bawah 30 stud tidak dibayar.
 
-### Taxi vehicles
+### Kenderaan teksi
 
-You can rent/drive these from taxi spawners:
+Anda boleh sewa/pandu kenderaan ini dari spawner teksi:
 
-| Vehicle | Price (BR) |
+| Kenderaan | Harga (BR) |
 | --- | --- |
 | Proton Saga | 400 |
 | Proton Saga 2022 | 600 |
@@ -123,97 +122,97 @@ You can rent/drive these from taxi spawners:
 | Proton Preve | 850 |
 | Proton Persona | 1,000 |
 
-### Tips
+### Petua
 
-- **Drive safely.** If your passenger dies in your taxi, the roleplay isn't great.
-- **Check the destination before you start.** Some bookings are spam — you can dismiss them.
-- **Your money and customer count persist** across sessions. You're building a career.
+- **Pandu dengan selamat.** Jika penumpang anda mati dalam teksi, roleplay tidak akan elok.
+- **Semak destinasi sebelum anda mulakan.** Sesetengah tempahan ialah spam — anda boleh tolak.
+- **Wang dan bilangan pelanggan anda kekal** merentas sesi. Anda sedang membina kerjaya.
 
 ---
 
 ## Towing
 
-You're on the side of order — clamp illegally parked cars, and charge their owners 500 BR to remove it.
+Anda berada di pihak undang-undang — kepit kereta yang diparkir secara haram, dan caj pemiliknya 500 BR untuk buka.
 
-### Access
+### Akses
 
-Join a **Towing Services** group (the tow operator groups). The Towing Services team becomes available.
+Sertai kumpulan **Towing Services** (kumpulan pengendali tunda). Pasukan Towing Services akan tersedia.
 
-### Tools you get
+### Alat yang anda dapat
 
-| Tool | What it does |
+| Alat | Fungsinya |
 | --- | --- |
-| **Traffic Wand** | Direct traffic. |
-| **Clamp Remover** | Remove clamps (for when a motorist pays). |
-| **Tow Toolkit** | Full tow chain. |
-| **Tow Placeables** | Put up cones, signs, blockages at your scene. |
+| **Traffic Wand** | Mengarah lalu lintas. |
+| **Clamp Remover** | Buka kepitan (apabila pemandu membayar). |
+| **Tow Toolkit** | Rantai tunda penuh. |
+| **Tow Placeables** | Letak kon, papan tanda, sekatan di lokasi anda. |
 
-### The flow
+### Aliran kerja
 
-1. Spot an illegally parked or abandoned civilian car.
-2. Approach it and use the **Clamp** tool.
-3. The clamp attaches. A 15-minute countdown starts.
-4. The owner sees a pay-prompt: **500 BR to remove**.
-5. When they pay, the clamp is removed automatically.
-6. You earn the fee.
+1. Kesan kereta awam yang diparkir secara haram atau ditinggalkan.
+2. Dekati kereta dan guna alat **Clamp**.
+3. Kepitan akan dilekatkan. Masa kira detik 15 minit bermula.
+4. Pemilik akan lihat arahan bayar: **500 BR untuk buka**.
+5. Apabila mereka bayar, kepitan akan dibuka secara automatik.
+6. Anda memperoleh yuran tersebut.
 
-### Tow truck vehicles
+### Kenderaan trak tunda
 
-3 tow vehicles: **Isuzu Tow Truck**, **Isuzu Tow Truck Bed**, **Toyota Hilux Tow**.
+3 kenderaan tunda: **Isuzu Tow Truck**, **Isuzu Tow Truck Bed**, **Toyota Hilux Tow**.
 
-### Tips
+### Petua
 
-- **Clamping is a big move.** Only do it where it's actually justified (blocking a driveway, blocking a zebra crossing, badly parked on a no-parking line). Griefing civilians via arbitrary clamping is a banable offence.
-- Actions are logged on Discord via webhook — staff can see who clamped whom.
-- Removing a clamp remotely (from the tow tablet) is also an option.
+- **Mengepit adalah tindakan besar.** Hanya lakukan jika benar-benar wajar (menghalang jalan masuk, menghalang lintasan pejalan kaki, diparkir buruk pada garisan dilarang meletak). Mengganggu orang awam dengan kepitan sesuka hati adalah kesalahan yang boleh menyebabkan ban.
+- Tindakan direkodkan di Discord melalui webhook — kakitangan boleh lihat siapa yang mengepit siapa.
+- Membuka kepitan dari jauh (melalui tablet tunda) juga merupakan pilihan.
 
 ---
 
-## Bus driving
+## Memandu bas
 
-Bus drivers carry passengers, earn per route, and aren't charged fare themselves.
+Pemandu bas membawa penumpang, memperoleh bayaran setiap laluan, dan tidak dikenakan tambang sendiri.
 
-### Access
+### Akses
 
-Join one of: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermuda**, or a **Bus Services** operator group. Each has its own rank requirements.
+Sertai salah satu: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermuda**, atau kumpulan pengendali **Bus Services**. Setiap satu mempunyai syarat pangkat tersendiri.
 
-### The flow
+### Aliran kerja
 
-1. Spawn a bus at your operator's depot.
-2. Drive the routes around KL.
-3. Passengers board by sitting in passenger seats — their fare is handled automatically (5 BR from CAG or cash).
-4. Drop them off wherever you reach next.
+1. Spawn bas di depot pengendali anda.
+2. Pandu laluan di sekitar KL.
+3. Penumpang naik dengan duduk di tempat duduk penumpang — tambang mereka diuruskan secara automatik (5 BR dari CAG atau tunai).
+4. Turunkan mereka di mana sahaja anda sampai seterusnya.
 
-### Bus models available
+### Model bas yang tersedia
 
-- **MyTransit**: 10 models (TKL_B5LH, TKL_MINIBUS, TKL_CITIE, TKL_K230UB, TKL_URBANO, MYTR_URBANO, TKL_TEMPORARY, TKL_Harimau Evo, TKL_NL323F, TKL_E500).
+- **MyTransit**: 10 model (TKL_B5LH, TKL_MINIBUS, TKL_CITIE, TKL_K230UB, TKL_URBANO, MYTR_URBANO, TKL_TEMPORARY, TKL_Harimau Evo, TKL_NL323F, TKL_E500).
 - **FirstGroup**: 4 (FG_K230UB, FG_NL323F, Vitaru Urban Mini, FG_MAN Double).
-- **Fermuda**: several buses plus crossover cars.
-- **Bus Services / SPAD**: various SPAD-registered fleets.
+- **Fermuda**: beberapa bas serta kereta crossover.
+- **Bus Services / SPAD**: pelbagai armada berdaftar SPAD.
 
-### Tips
+### Petua
 
-- **Drivers ride free.** If you're in the driver seat, no fare is charged.
-- **Commuters use CAG cards** — they may or may not have one. If not, the fare is debt; that's between them and the kiosk, not you.
-- **Don't skip stops to get lunch.** Roleplay integrity counts.
+- **Pemandu tidak dikenakan tambang.** Jika anda di tempat duduk pemandu, tiada tambang dikenakan.
+- **Pengguna menggunakan kad CAG** — mereka mungkin ada atau tidak. Jika tiada, tambang menjadi hutang; itu urusan mereka dengan kiosk, bukan anda.
+- **Jangan langkau perhentian untuk makan tengah hari.** Integriti roleplay penting.
 
 ---
 
-## Job comparison
+## Perbandingan kerja
 
-| Job | Barrier to entry | BR per hour (rough) | Roleplay depth |
+| Kerja | Halangan masuk | BR sejam (anggaran) | Kedalaman roleplay |
 | --- | --- | --- | --- |
-| **POS** | None | Moderate, steady | Low — delivery loop |
-| **Taxi** | 150 R$ or group | Variable, high with volume | High — passengers + traffic |
-| **Tow** | Group | High per action, but sparse | Medium |
-| **Bus** | Group | Route-dependent | High — fixed routes, traffic |
+| **POS** | Tiada | Sederhana, stabil | Rendah — gelung penghantaran |
+| **Taxi** | 150 R$ atau kumpulan | Berubah-ubah, tinggi dengan volum | Tinggi — penumpang + lalu lintas |
+| **Tow** | Kumpulan | Tinggi setiap tindakan, tetapi jarang | Sederhana |
+| **Bus** | Kumpulan | Bergantung pada laluan | Tinggi — laluan tetap, lalu lintas |
 
-With **HCC gamepass** your per-action BR goes up across all of these.
+Dengan **gamepass HCC** BR setiap tindakan anda akan meningkat dalam kesemua ini.
 
-## See also
+## Lihat juga
 
-- [Economy](/bandaraya/economy) — full earning/spending reference
+- [Ekonomi](/bandaraya/economy) — rujukan penuh memperoleh/membelanjakan
 - [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC
-- [Teams](/bandaraya/teams) — transport team access
-- [Vehicles](/bandaraya/vehicles) — spawning, fuel, dealership
-- [Tablet](/bandaraya/tablet) — MyTow and Vehicle Management apps
+- [Pasukan](/bandaraya/teams) — akses pasukan pengangkutan
+- [Kenderaan](/bandaraya/vehicles) — spawn, bahan api, diler
+- [Tablet](/bandaraya/tablet) — aplikasi MyTow dan Vehicle Management

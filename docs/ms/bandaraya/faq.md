@@ -1,222 +1,224 @@
 ---
-title: FAQ — Frequently Asked Questions
-description: Common new-player questions in Bandaraya.
+title: Soalan Lazim
+description: Soalan biasa pemain baharu di Bandaraya.
 lang: ms
-translated_from_hash: 8950eabb
+translated_from_hash: 363b6477
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Soalan Lazim
 
-# FAQ — Frequently Asked Questions
-
-Questions new players ask, answered fast. For deeper info on any topic, follow the links.
-
----
-
-## Getting started
-
-### How do I earn BR fast?
-
-Start with **Postal Service (POS)** — no requirements, ~70 BR per delivery at Level 1 scaling to 260 BR at Level 20. Alternate routes:
-
-- **Taxi Driver** (gamepass 150 R$) — faster BR per minute if bookings are active.
-- **Bus driving** (group-based) — steady if you like route work.
-- **Towing** (group-based) — 500 BR per clamp if you find illegally parked cars.
-
-With the **HCC gamepass**, all job income goes up.
-
-See [Jobs](/bandaraya/jobs).
-
-### How do I become a police officer?
-
-Join **PDRM group 1182710 or 3048630** on Roblox. Any rank qualifies you for the PDRM team. Most groups have trial/training flows — attend those to progress in rank.
-
-See [Teams](/bandaraya/teams#emergency-services).
-
-### What's CAG and do I need it?
-
-**CAG** (Click And Go) is Bandaraya's stored-value transit card — the in-game Touch n Go. Buy it at a kiosk for 100 BR, top up as needed. You need it if you:
-
-- Ride buses (automatic 5 BR fare)
-- Use MRT / Monorail fast travel (30% / 50% off with pass)
-- Drive through TapNGo highway gates (20% off)
-
-If you're not a regular transit user, skip it. If you are, the **monthly pass (500 BR)** pays for itself fast.
-
-See [Getting Around](/bandaraya/getting-around).
-
-### Why does the reset button not work?
-
-It's **disabled at 75 HP or below** to prevent RTAA (Reset To Avoid Arrest). If you're injured, you can't reset your way out. Wait for a medic, fight through, or let the arrest play out.
-
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+Soalan yang ditanya pemain baharu, dijawab dengan pantas. Untuk maklumat lebih mendalam bagi mana-mana topik, ikuti pautan yang disediakan.
 
 ---
 
-## Money & shops
+## Permulaan
 
-### How do I buy a car?
+### Bagaimana saya boleh memperoleh BR dengan cepat?
 
-Go to **Classic Car Dealer**. Browse, pick a model, pick a colour, buy (permanent) or rent (temporary). Permanent purchases auto-save every 30 seconds and carry across sessions.
+Mulakan dengan **Postal Service (POS)** — tanpa syarat, ~70 BR setiap penghantaran pada Tahap 1 meningkat kepada 260 BR pada Tahap 20. Laluan alternatif:
 
-See [Vehicles](/bandaraya/vehicles#dealership).
+- **Taxi Driver** (gamepass 150 R$) — BR lebih pantas seminit jika tempahan aktif.
+- **Pemanduan bas** (berasaskan kumpulan) — stabil jika anda gemar kerja laluan.
+- **Tunda kenderaan** (berasaskan kumpulan) — 500 BR setiap klem jika anda menjumpai kereta yang diletak secara haram.
 
-### How do I get a gun?
+Dengan **gamepass HCC**, semua pendapatan kerja meningkat.
 
-You need one of:
+Lihat [Pekerjaan](/bandaraya/jobs).
 
-- **Firearms Licence gamepass** (1,250 R$) → unlocks Ammulaysia.
-- A team that issues weapons (PDRM, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF armoury access).
-- **Illegal Dealer (Hacker)** for black-market items (5-minute cooldown).
+### Bagaimana saya boleh menjadi pegawai polis?
 
-Note: Ammulaysia has a 5-minute cooldown between purchases too.
+Sertai **kumpulan PDRM 1182710 atau 3048630** di Roblox. Apa-apa pangkat melayakkan anda untuk pasukan PDRM. Kebanyakan kumpulan mempunyai aliran percubaan/latihan — hadiri itu untuk menaikkan pangkat.
 
-See [Combat & Health](/bandaraya/combat-and-health#weapons) and [Gamepasses](/bandaraya/gamepasses).
+Lihat [Pasukan](/bandaraya/teams#emergency-services).
 
-### Where do I get fuel?
+### Apa itu CAG dan adakah saya memerlukannya?
+
+**CAG** (Click And Go) ialah kad transit nilai tersimpan Bandaraya — Touch n Go dalam permainan. Beli di kiosk dengan harga 100 BR, tambah nilai mengikut keperluan. Anda memerlukannya jika anda:
+
+- Menaiki bas (tambang automatik 5 BR)
+- Menggunakan perjalanan pantas MRT / Monorel (potongan 30% / 50% dengan pas)
+- Memandu melalui pintu lebuhraya TapNGo (potongan 20%)
+
+Jika anda bukan pengguna transit tetap, langkaukan sahaja. Jika ya, **pas bulanan (500 BR)** akan membayar kembali dirinya dengan cepat.
+
+Lihat [Perjalanan](/bandaraya/getting-around).
+
+### Mengapa butang reset tidak berfungsi?
+
+Ia **dilumpuhkan pada 75 HP atau ke bawah** untuk mencegah RTAA (Reset To Avoid Arrest). Jika anda cedera, anda tidak boleh reset untuk keluar. Tunggu medik, lawan untuk hidup, atau biarkan penangkapan berlaku.
+
+Lihat [Penangkapan & Undang-undang](/bandaraya/arrest-and-law#rtaa).
+
+---
+
+## Wang & kedai
+
+### Bagaimana saya boleh membeli kereta?
+
+Pergi ke **Classic Car Dealer**. Layari, pilih model, pilih warna, beli (kekal) atau sewa (sementara). Pembelian kekal auto-simpan setiap 30 saat dan dibawa merentas sesi.
+
+Lihat [Kenderaan](/bandaraya/vehicles#dealership).
+
+### Bagaimana saya boleh mendapatkan senjata?
+
+Anda memerlukan salah satu daripada:
+
+- **Gamepass Firearms Licence** (1,250 R$) → membuka Ammulaysia.
+- Pasukan yang mengeluarkan senjata (PDRM, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, akses bilik senjata MAF).
+- **Illegal Dealer (Hacker)** untuk barangan pasaran gelap (cooldown 5 minit).
+
+Nota: Ammulaysia juga mempunyai cooldown 5 minit antara pembelian.
+
+Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health#weapons) dan [Gamepass](/bandaraya/gamepasses).
+
+### Di mana saya boleh mendapatkan bahan api?
 
 - **Petrol / Diesel**: Radtrol Gas Station @ Jalan Pinang.
-- **Electric**: 2 charging stations at Community Retail.
+- **Elektrik**: 2 stesen pengecasan di Community Retail.
 
-Drive onto the pump, exit the vehicle, interact with the pump, pay BR.
+Pandu ke pam, keluar kenderaan, berinteraksi dengan pam, bayar dengan BR.
 
-See [Vehicles](/bandaraya/vehicles#fuel).
+Lihat [Kenderaan](/bandaraya/vehicles#fuel).
 
-### I bought a car but it's gone. Where is it?
+### Saya membeli kereta tetapi ia hilang. Di manakah ia?
 
-Bought cars auto-save to your account every 30 seconds. Respawn at Classic Car Dealer and re-spawn your vehicle from the owned-vehicles menu. Your colour customization persists.
-
----
-
-## Arrests & rules
-
-### How do I get out of jail?
-
-Wait the **3-minute release timer**. After that, you can pick a team again.
-
-If you think you were wrongly arrested, appeal via the Malaysia community server (see [Rules](/bandaraya/rules#appeals)).
-
-### I left while detained and now I'm auto-arrested. Why?
-
-That's **LTAA (Leave To Avoid Arrest)** enforcement. The 3-minute timer persists across sessions — you can't escape arrest by rage-quitting.
-
-See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
-
-### Can I rob the bank?
-
-Yes — **Hazbank** is a robbery target in-game. But note:
-
-- PDRM will respond.
-- You're a civilian committing a crime — expect arrest.
-- OCG (Organised Crime Group) does this in organised events.
-- Going rogue as a public-services team member if you're on one = severe violation.
-
-### What's a BOLO?
-
-**Be On the LookOut.** A police alert that flags a suspect so all on-duty officers are notified (sound, badge, toast). See [Tablet](/bandaraya/tablet) for how PDRM issue BOLOs via MDT.
-
-### Can I drive a fire truck as a civilian?
-
-**No.** BOMBA vehicles spawn from BOMBA-team-gated spawners. Same for PDRM, MAF, KKM, SJAM, etc.
-
-If you're on BOMBA, you can drive the full fleet. See [Emergency Services](/bandaraya/emergency-services#bomba-jabatan-bomba-dan-penyelamat).
+Kereta yang dibeli auto-simpan ke akaun anda setiap 30 saat. Respawn di Classic Car Dealer dan spawn semula kenderaan anda dari menu kenderaan yang dimiliki. Penyesuaian warna anda kekal.
 
 ---
 
-## Teams
+## Penangkapan & peraturan
 
-### What's the difference between MyTransit and Bus Services?
+### Bagaimana saya boleh keluar dari penjara?
 
-Both run buses, but different groups:
+Tunggu **pemasa pembebasan 3 minit**. Selepas itu, anda boleh memilih pasukan semula.
 
-- **MyTransit** (groups 5032738, 10394166) — the main in-game bus operator.
-- **Bus Services** (groups 12143635, 32663011, 11122768, 33328642) — SPAD-registered private bus operators.
+Jika anda rasa anda ditangkap secara salah, rayu melalui server komuniti Malaysia (lihat [Peraturan](/bandaraya/rules#appeals)).
 
-They roleplay as different companies. Vehicle fleets are different. See [Teams](/bandaraya/teams#transport) and [Jobs](/bandaraya/jobs#bus-driving).
+### Saya keluar semasa ditahan dan sekarang saya ditangkap secara automatik. Mengapa?
 
-### I'm on Visitors but I want to join PDRM. How?
+Itulah penguatkuasaan **LTAA (Leave To Avoid Arrest)**. Pemasa 3 minit kekal merentas sesi — anda tidak boleh melarikan diri daripada penangkapan dengan keluar permainan secara marah.
 
-Join the PDRM Roblox group (1182710 or 3048630), get accepted (may require application/training), then open the team menu in-game and pick PDRM. You'll need to switch teams and respawn.
+Lihat [Penangkapan & Undang-undang](/bandaraya/arrest-and-law#ltaa).
 
-See [Teams](/bandaraya/teams).
+### Bolehkah saya merompak bank?
 
-### A team disappeared from the team menu. Is this a bug?
+Ya — **Hazbank** ialah sasaran rompakan dalam permainan. Tetapi perhatikan:
 
-No. Teams with no players are **automatically removed** from the list to keep the menu tidy. They reappear the moment someone joins. The only exceptions are Visitors, Malaysians, and Arrested (always persistent).
+- **Server memerlukan sekurang-kurangnya 10 pemain** dalam talian untuk memulakan rompakan.
+- Anda perlu menyahkod peti besi (mini-interaksi berasaskan masa di peranti Decoder).
+- Sebaik sahaja masuk, anda berdiri di titik pengumpul wang rawak — watak anda ditambat semasa kiraan detik berjalan (jadi anda tidak boleh sekadar ambil dan lari).
+- PDRM boleh **mengunci peti besi secara manual** semasa rompakan — pengadang jatuh dan anda terperangkap.
+- Amaran dilancarkan kepada semua PDRM / responden aktif apabila rompakan bermula.
+- Jangkakan penangkapan. OCG (Organised Crime Group) melakukan ini dalam acara teratur; orang awam yang mencuba sendirian biasanya tertangkap.
+- Bertindak jahat sebagai ahli pasukan perkhidmatan awam jika anda berada dalam satu = pelanggaran berat.
 
----
+### Apa itu BOLO?
 
-## Technical
+**Be On the LookOut.** Amaran polis yang menandakan suspek supaya semua pegawai bertugas dimaklumkan (bunyi, lencana, toast). Lihat [Tablet](/bandaraya/tablet) untuk cara PDRM mengeluarkan BOLO melalui MDT.
 
-### I got kicked for cheating but I wasn't. What do I do?
+### Bolehkah saya memandu trak bomba sebagai orang awam?
 
-The anti-cheat has been tuned to allow real combat, but false positives can happen. Look at the kick message — it includes a tag:
+**Tidak.** Kenderaan BOMBA spawn dari spawner yang dikunci pasukan BOMBA. Sama untuk PDRM, MAF, KKM, SJAM, dll.
 
-- **RL** — rate limiting
-- **MV** — movement check
-- **WM** — weapon monitor
-
-Take that tag to the community moderators. Anti-cheat false positives during legit combat, at lifts, during searches, and during CCTV operation have all been specifically patched in recent updates.
-
-See [Rules](/bandaraya/rules#tips--gotchas).
-
-### How do I get the Punch tool?
-
-It's a quest reward at **Level 25**. You have to grind to level 25 through whatever the quest targets (roleplay activity). Currently the only quest in-game.
-
-### What's the game version?
-
-**v3.15.5** (as of April 2026). See the in-game changelog for the full version history.
-
-### Why is my vehicle glowing weird after a collision?
-
-Crash damage shows visually. Heavy crashes produce smoke and wear. Reset the vehicle (respawn it) to restore full health.
-
-See [Vehicles](/bandaraya/vehicles#vehicle-health--crash-damage).
-
-### What's Saude?
-
-Portuguese for "health". It's the internal name for Bandaraya's health system (blood, pain, injuries, medical kit). You won't see the word "Saude" as a player — it's just the dev term for the system. See [Combat & Health](/bandaraya/combat-and-health).
-
-### My taxi "Start" button gave an error. Is that my fault?
-
-Nope — that was a bug in R15 rigs, fixed in v3.15.5. Retry.
+Jika anda dalam BOMBA, anda boleh memandu seluruh armada. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services#bomba-jabatan-bomba-dan-penyelamat).
 
 ---
 
-## Edge cases
+## Pasukan
 
-### Can I play on mobile?
+### Apakah perbezaan antara MyTransit dan Bus Services?
 
-Yes, with some caveats:
+Kedua-duanya mengendalikan bas, tetapi kumpulan berbeza:
 
-- Vehicle spawners have mobile-friendly UIs.
-- Touch input is supported.
-- Some interactions (combat, long text inputs) are harder on mobile; recent updates fixed several mobile bugs (phone input fields unresponsive).
-- Claiming bus fares via tapping works fine.
+- **MyTransit** (kumpulan 5032738, 10394166) — pengendali bas utama dalam permainan.
+- **Bus Services** (kumpulan 12143635, 32663011, 11122768, 33328642) — pengendali bas swasta berdaftar SPAD.
 
-### Can I play with a friend?
+Mereka beraksi sebagai syarikat berbeza. Armada kenderaan berbeza. Lihat [Pasukan](/bandaraya/teams#transport) dan [Pekerjaan](/bandaraya/jobs#bus-driving).
 
-Yes — invite them to the same server. The team system allows mixed-team parties (you can have PDRM and BOMBA on the same server). OCG and MAF parties are common too.
+### Saya dalam Visitors tetapi saya mahu menyertai PDRM. Bagaimana?
 
-### Does it ever rain?
+Sertai kumpulan Roblox PDRM (1182710 atau 3048630), diterima (mungkin memerlukan permohonan/latihan), kemudian buka menu pasukan dalam permainan dan pilih PDRM. Anda perlu menukar pasukan dan respawn.
 
-Yes, but rain is **admin-toggled** — the developers turn it on and off via chat commands. It's not a persistent weather cycle. When rain is on, 3D particles fall around you and screen droplets appear on the camera; otherwise the weather is clear. Your game performance is unaffected when rain is off.
+Lihat [Pasukan](/bandaraya/teams).
 
-### I don't speak Malay. Will I be lost?
+### Satu pasukan hilang dari menu pasukan. Adakah ini pepijat?
 
-You'll recognise most things. Our [glossary](/bandaraya/glossary) covers every acronym (PDRM, BOMBA, KKM, LTAA, RTAA, CAG, MRT, etc.). Common Malay words: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
-
-### How old do I need to be?
-
-You need at least **60 days of Roblox account age** to join Bandaraya. This is a bot / fresh-account mitigation (set in v3.9.0).
+Tidak. Pasukan tanpa pemain **dibuang secara automatik** dari senarai untuk mengemaskan menu. Mereka muncul semula sebaik sahaja seseorang menyertai. Pengecualian hanya Visitors, Malaysians, dan Arrested (sentiasa kekal).
 
 ---
 
-## See also
+## Teknikal
 
-- [Welcome](/bandaraya/get-started)
-- [Getting Started](/bandaraya/get-started)
-- [Glossary](/bandaraya/glossary)
-- [Rules](/bandaraya/rules)
-- [README](/) — full table of contents
+### Saya ditendang kerana menipu tetapi saya tidak menipu. Apa yang perlu saya lakukan?
+
+Anti-cheat telah ditala untuk membenarkan pertempuran sebenar, tetapi positif palsu boleh berlaku. Lihat mesej tendangan — ia termasuk tag:
+
+- **RL** — had kadar
+- **MV** — semakan pergerakan
+- **WM** — monitor senjata
+
+Bawa tag itu kepada moderator komuniti. Positif palsu anti-cheat semasa pertempuran sah, di lif, semasa pencarian, dan semasa operasi CCTV semuanya telah ditampal secara khusus dalam kemas kini terkini.
+
+Lihat [Peraturan](/bandaraya/rules#tips--gotchas).
+
+### Bagaimana saya boleh mendapatkan alat Punch?
+
+Ia adalah ganjaran misi pada **Tahap 25**. Anda perlu memburu ke tahap 25 melalui apa sahaja sasaran misi (aktiviti roleplay). Pada masa ini satu-satunya misi dalam permainan.
+
+### Apakah versi permainan?
+
+**v3.15.5** (setakat April 2026). Lihat log perubahan dalam permainan untuk sejarah versi penuh.
+
+### Mengapa kenderaan saya bersinar pelik selepas perlanggaran?
+
+Kerosakan nahas dipaparkan secara visual. Nahas berat menghasilkan asap dan haus. Reset kenderaan (spawn semula) untuk memulihkan kesihatan penuh.
+
+Lihat [Kenderaan](/bandaraya/vehicles#vehicle-health--crash-damage).
+
+### Apa itu Saude?
+
+Portugis untuk "kesihatan". Ia adalah nama dalaman untuk sistem kesihatan Bandaraya (darah, kesakitan, kecederaan, kit perubatan). Anda tidak akan melihat perkataan "Saude" sebagai pemain — ia hanya istilah pembangun untuk sistem. Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health).
+
+### Butang "Start" teksi saya mengeluarkan ralat. Adakah ini salah saya?
+
+Tidak — itu adalah pepijat dalam rig R15, dibaiki dalam v3.15.5. Cuba semula.
+
+---
+
+## Kes tepi
+
+### Bolehkah saya bermain di telefon bimbit?
+
+Ya, dengan beberapa syarat:
+
+- Spawner kenderaan mempunyai UI mesra mudah alih.
+- Input sentuh disokong.
+- Beberapa interaksi (pertempuran, input teks panjang) lebih sukar di telefon bimbit; kemas kini terkini membaiki beberapa pepijat mudah alih (medan input telefon tidak responsif).
+- Menuntut tambang bas melalui ketukan berfungsi dengan baik.
+
+### Bolehkah saya bermain dengan kawan?
+
+Ya — jemput mereka ke server yang sama. Sistem pasukan membenarkan parti pasukan campuran (anda boleh mempunyai PDRM dan BOMBA di server yang sama). Parti OCG dan MAF juga biasa.
+
+### Adakah ia pernah hujan?
+
+Ya, tetapi hujan adalah **ditogol admin** — pembangun menghidupkan dan mematikannya melalui arahan sembang. Ia bukan kitaran cuaca yang berterusan. Apabila hujan dihidupkan, zarah 3D jatuh di sekeliling anda dan titisan skrin muncul pada kamera; jika tidak cuaca cerah. Prestasi permainan anda tidak terjejas apabila hujan dimatikan.
+
+### Saya tidak bertutur Melayu. Adakah saya akan sesat?
+
+Anda akan mengenali kebanyakan perkara. [Glosari](/bandaraya/glossary) kami meliputi setiap akronim (PDRM, BOMBA, KKM, LTAA, RTAA, CAG, MRT, dll.). Perkataan Melayu biasa: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
+
+### Berapa umur yang saya perlu?
+
+Anda perlu sekurang-kurangnya **60 hari umur akaun Roblox** untuk menyertai Bandaraya. Ini adalah mitigasi bot / akaun baharu (ditetapkan dalam v3.9.0).
+
+---
+
+## Lihat juga
+
+- [Selamat Datang](/bandaraya/get-started)
+- [Permulaan](/bandaraya/get-started)
+- [Glosari](/bandaraya/glossary)
+- [Peraturan](/bandaraya/rules)
+- [README](/) — senarai kandungan penuh

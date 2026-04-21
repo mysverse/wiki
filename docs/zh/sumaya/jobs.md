@@ -1,96 +1,95 @@
 ---
-title: Careers Overview
-description: 'The three civilian career sectors in Sumaya — fishing, service, and palm oil.'
+title: 职业概览
+description: Sumaya 的三大平民职业方向 — 捕鱼、服务业、棕油业。
 lang: zh
 translated_from_hash: c613dd75
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 职业概览
 
-# Careers Overview
+Sumaya 的职业是你能够从事以赚取 Ringgit 和 XP 的平民工作。共有三个职业**领域**,每个领域都有自己的职级阶梯和奖励。
 
-Careers in Sumaya are the civilian jobs you can do to earn Ringgit and XP. There are three career **sectors**, each with its own rank ladder and rewards.
+本页大致介绍职业的运作方式。各个领域都有各自的页面:
 
-This page covers how careers work in general. Individual sectors have their own pages:
+- [捕鱼](/sumaya/jobs-fishing)
+- [服务业:Mamak 和快餐](/sumaya/jobs-service)
+- [棕油业(农业)](/sumaya/jobs-palm-oil)
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+## 什么是"领域"?
 
-## What's a "sector"?
+领域是工作的类别。每个领域都有:
 
-A sector is a category of work. Each sector has:
+- 一个**名称**(例如"捕鱼领域"、"农业领域")。
+- 一个**最高等级**,你需通过赚取 XP 来提升。
+- 一个**职级阶梯** - 随着你的领域等级提升,你在游戏中的头衔会改变。
+- 可能还有**等级限制内容** - 只有达到特定领域等级才能解锁的车辆或工具。
 
-- A **name** (e.g. "Fishing Sector", "Agricultural Sector").
-- A **maximum level**, which you grind by earning XP.
-- A **rank ladder** - as your sector level goes up, your in-game title changes.
-- Possibly **level-gated content** - vehicles or tools that only unlock at a certain sector level.
+从一开始你就能选择三个**平民领域**:
 
-There are three **civilian sectors** you can pick from the start:
-
-| Sector | What you do | Max level | Start requirement |
+| 领域 | 你要做的事 | 最高等级 | 起始要求 |
 |--------|-------------|-----------|-------------------|
-| Fishing | Rod on the pier or trawl on a boat | 100 | None |
-| Service (Mamak / Fast Food) | Serve food, take orders | 100 | Reach sector level 50 in fishing or agro |
-| Agriculture (palm oil) | Harvest palm fruit bunches | 25 | None (available immediately) |
+| 捕鱼 | 在码头用钓竿,或在船上拖网 | 100 | 无 |
+| 服务业(Mamak / 快餐) | 上菜、接单 | 100 | 在捕鱼或农业中达到领域等级 50 |
+| 农业(棕油) | 采收油棕果串 | 25 | 无(立即可用) |
 
-The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown in the civilian careers app - you join them by picking the matching team from the main menu. See [Emergency Services overview](/sumaya/emergency-services).
+三个**紧急服务领域**(Bomba、Kesihatan、Polis)不会显示在平民职业应用中 - 你需从主菜单选择相应的队伍来加入。请参阅 [紧急服务概览](/sumaya/emergency-services)。
 
-## How to start a career
+## 如何开始一项职业
 
-1. Open your **phone** and tap the **Careers** app.
-2. Pick a sector. If it's locked, the app will tell you why.
-3. Walk up to the matching **career station** in the world (a fishing dock, a mamak stall, a palm plantation). The Careers app and the quest guidance beam will point you there.
-4. Press the **interact** prompt to clock in.
+1. 打开你的**手机**,点击 **Careers** 应用。
+2. 选择一个领域。如果它被锁定,应用会告诉你原因。
+3. 走向世界中对应的**职业站**(钓鱼码头、mamak 摊档、油棕种植园)。Careers 应用和任务引导光束会指引你前往。
+4. 按下 **interact** 提示来打卡上班。
 
-Once you're clocked in:
+一旦打卡后:
 
-- A sector-specific HUD shows up.
-- Relevant tools spawn in your backpack (fishing rod, palm hook, etc.).
-- You start earning XP and Ringgit for actions you complete.
+- 领域专属的 HUD 会显示。
+- 相关工具会出现在你的背包里(钓竿、棕钩等)。
+- 你开始因完成动作而赚取 XP 和 Ringgit。
 
-## Clocking out
+## 打卡下班
 
-Open the Careers app and tap the active job to stop. Some sectors (like palm oil) pay out your earnings only **when you clock out**, so don't forget to finish your shift.
+打开 Careers 应用,点击当前的工作以停止。某些领域(如棕油)只在**你打卡下班时**才支付你的收入,所以别忘了完成你的班次。
 
-You'll also stop automatically if:
+以下情况也会自动停止:
 
-- Your character respawns (any death ends the shift).
-- You switch teams.
+- 你的角色重生(任何死亡都会结束班次)。
+- 你切换队伍。
 
-## Civilian XP and rewards, in brief
+## 平民 XP 和奖励简介
 
-Every action pays you two things:
+每个动作都会给你两样东西:
 
-1. **Player XP** - levels up your global account. Max player level is 300.
-2. **Sector XP** - levels up the specific sector you're working in.
+1. **玩家 XP** - 提升你的全局账户等级。最高玩家等级为 300。
+2. **领域 XP** - 提升你正在工作的特定领域的等级。
 
-Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fishing pays 15 XP per species - player XP only, no sector XP). Service sector pays per order and scales by level. Palm oil banks your earnings and pays a 50 XP bonus at the end of the shift.
+动作报酬取决于领域。拖网捕鱼每次捕获给 2 XP(钓竿捕鱼每个物种支付 15 XP - 仅限玩家 XP,没有领域 XP)。服务业按订单支付,并按等级递增。棕油把你的收入存起来,并在班次结束时支付 50 XP 奖励。
 
-See each sector page for the numbers, and [Progression](/sumaya/progression) for how XP converts to levels.
+每个领域页面都有具体数字,而 [进阶](/sumaya/progression) 说明 XP 如何转换为等级。
 
-## Which career should I pick first?
+## 我应该先选哪个职业?
 
-Rough guide:
+粗略指南:
 
-- **Want fast, steady cash with no stress?** Go fishing. Calm, low-pressure, and boats get better as you level up.
-- **Like repetitive task-clearing?** Mamak or Fast Food in the service sector. Take orders, prepare items, serve customers.
-- **Want the best payout per shift?** Palm oil. Harvests pile up and pay at end-of-shift, with a 50 XP bonus on top.
-- **Just want to explore?** Skip civilian work for now, grab a free car from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
+- **想快速、稳定赚钱又无压力?** 去捕鱼。平静、低压,船只会随着你升级而变得更好。
+- **喜欢重复性的任务清理?** 服务业中的 Mamak 或快餐。接单、准备物品、服务顾客。
+- **想要每班最高报酬?** 棕油。收成堆积起来并在班次结束时支付,还有 50 XP 奖励。
+- **只想探索?** 暂时跳过平民工作,从 [vehicle spawner](/sumaya/vehicles) 取一辆免费汽车四处驾驶。当你想要 Ringgit 时再回来。
 
-## Cross-sector tips
+## 跨领域提示
 
-- **You can only work one job at a time.** If you clock in to fishing, you need to clock out before you can start mamak.
-- **Sector level and player level rise together.** Every XP you earn on a job boosts both - so grinding one sector also levels your global account.
-- **Emergency-service sectors are uniform.** Bomba, Polis, and Kesihatan all go up to level 100 with similar reward curves. Civilian sectors differ more.
-- **Kesihatan's injury system gives a +15% player-XP boost to everyone on the server** while it's active. If you see the boost active, it's a good time to grind.
+- **你一次只能从事一份工作。** 如果你打卡做捕鱼,就需要先打卡下班才能开始 mamak。
+- **领域等级和玩家等级一起提升。** 你在工作中赚取的每一点 XP 都会提升两者 - 所以专注一个领域同时也会提升你的全局账户等级。
+- **紧急服务领域是统一的。** Bomba、Polis 和 Kesihatan 都最高到等级 100,奖励曲线相似。平民领域差异较大。
+- **Kesihatan 的受伤系统在启动时会给 server 上的每个人 +15% 玩家 XP 加成**。如果你看到加成启动,那是个适合冲刺的好时机。
 
-## What next?
+## 接下来呢?
 
-Pick a sector to read about in detail:
+选择一个领域详细阅读:
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- [捕鱼](/sumaya/jobs-fishing)
+- [服务业:Mamak 和快餐](/sumaya/jobs-service)
+- [棕油业(农业)](/sumaya/jobs-palm-oil)
 
-Or read [Progression](/sumaya/progression) to understand how XP and levels work across the whole game.
+或阅读 [进阶](/sumaya/progression) 来了解 XP 和等级在整个游戏中是如何运作的。

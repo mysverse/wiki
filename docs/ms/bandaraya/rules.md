@@ -1,151 +1,152 @@
 ---
-title: Rules
-description: 'What behaviour gets you banned in Bandaraya, and how appeals work.'
+title: Peraturan
+description: >-
+  Kelakuan yang boleh menyebabkan anda dilarang di Bandaraya, dan cara membuat
+  rayuan.
 lang: ms
 translated_from_hash: 521a0951
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Peraturan
 
-# Rules
+Bandaraya ialah permainan roleplay. Ada peraturan. Bacanya. Ikutinya. Anda akan diharamkan (banned) jika tidak.
 
-Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
-
-The canonical rule text lives in the game (`infoModules.GameRules`). This page is a player-friendly summary.
+Teks peraturan rasmi terletak dalam permainan (`infoModules.GameRules`). Halaman ini ialah ringkasan yang mesra pemain.
 
 ## TL;DR
 
-- Don't exploit, glitch, or hack. Instant ban.
-- Don't go rogue on a public-services team. Instant ban.
-- Don't LTAA (leave to avoid arrest) or RTAA (reset to avoid arrest).
-- Stay in character. Respect roleplay.
-- Don't harass people, spawn-kill civilians, or violate Roblox TOS.
+- Jangan exploit, glitch, atau hack. Ban serta-merta.
+- Jangan pergi rogue dalam pasukan perkhidmatan awam. Ban serta-merta.
+- Jangan LTAA (keluar untuk elak ditangkap) atau RTAA (reset untuk elak ditangkap).
+- Kekal dalam watak. Hormati roleplay.
+- Jangan ganggu orang, spawn-kill orang awam, atau langgar Roblox TOS.
 
 ---
 
-## General violations
+## Pelanggaran am
 
-You can be **server-banned** for any of the following:
+Anda boleh **diharamkan dari server** bagi mana-mana yang berikut:
 
-### 1. Spam the chat
+### 1. Spam chat
 
-Filling chat with repeated or meaningless text. Don't.
+Memenuhi chat dengan teks berulang atau tiada makna. Jangan.
 
 ### 2. LTAA — Leave To Avoid Arrest
 
-Disconnecting while detained or being arrested. The game auto-applies a 3-minute arrest when you rejoin, and LTAA is still treated as a rule violation on top. See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
+Putus sambungan semasa ditahan atau sedang ditangkap. Permainan akan memberikan tangkapan 3 minit secara automatik apabila anda menyertai semula, dan LTAA masih dikira sebagai pelanggaran peraturan tambahan. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#ltaa).
 
 ### 3. RTAA — Reset To Avoid Arrest
 
-Using the reset button to escape. The game now disables reset at 75 HP or below to stop this. Attempts still count. See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+Menggunakan butang reset untuk melarikan diri. Permainan kini menyahdayakan reset pada 75 HP atau ke bawah untuk menghalang perkara ini. Percubaan masih dikira. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
 
-### 4. Glitch abuse
+### 4. Penyalahgunaan glitch
 
-- Glitching through walls or restricted areas
-- Glitching any vehicle (making it behave unnaturally to gain advantage)
-- Glitching or abusing tools whilst detained, injured, or being arrested
-- Any other glitches as determined by a moderator or administrator
+- Menggelusur (glitching) menembusi dinding atau kawasan terlarang
+- Menggelusur mana-mana kenderaan (menjadikannya berkelakuan luar biasa untuk mendapat kelebihan)
+- Menggelusur atau menyalahgunakan peralatan semasa ditahan, cedera, atau sedang ditangkap
+- Sebarang glitch lain seperti yang ditentukan oleh moderator atau pentadbir
 
-### 5. Trolling / harassment
+### 5. Trolling / gangguan
 
-- Following and continuously harassing a person
-- Intentionally glitching or breaking another player's vehicle
-- Any other harassment as determined by a moderator or administrator
+- Mengekori dan mengganggu seseorang secara berterusan
+- Menggelusur atau merosakkan kenderaan pemain lain dengan sengaja
+- Sebarang gangguan lain seperti yang ditentukan oleh moderator atau pentadbir
 
 ### 6. Spawn-kill
 
-Applies only to civilians. Killing people as they spawn is banable.
+Hanya terpakai kepada orang awam. Membunuh orang sebaik sahaja mereka spawn boleh menyebabkan ban.
 
-### 7. Abuse job-related teams
+### 7. Menyalahgunakan pasukan berkaitan pekerjaan
 
-Using transport, postal, tow, or other job teams to commit criminal or terrorist activities.
+Menggunakan pasukan pengangkutan, pos, tunda, atau pekerjaan lain untuk melakukan aktiviti jenayah atau keganasan.
 
-### 8. Interrupting roleplay or admin scenarios
+### 8. Mengganggu roleplay atau adegan admin
 
-Don't walk into someone's arrest scene and start screaming. Don't interrupt a mod scene.
+Jangan masuk ke adegan tangkapan orang lain dan mula menjerit. Jangan ganggu adegan mod.
 
-### 9. Harass administrators
+### 9. Mengganggu pentadbir
 
-Don't abuse or harass a mod while they're moderating.
+Jangan salah guna atau ganggu mod semasa mereka sedang menjalankan moderasi.
 
 ---
 
-## Severe violations
+## Pelanggaran berat
 
-You can be **banned for an extended period or permanently** for any of these:
+Anda boleh **diharamkan untuk tempoh yang panjang atau selama-lamanya** bagi mana-mana ini:
 
-### 1. Using exploits
+### 1. Menggunakan exploit
 
-Client-side cheats, aimbots, speed hacks, weapon-damage multipliers. The anti-cheat will catch and kick you. Persistent attempts = permanent ban.
+Cheat pihak klien, aimbot, speed hack, pengganda damage senjata. Anti-cheat akan mengesan dan kick anda. Percubaan yang berterusan = ban kekal.
 
-### 2. Repeated general violations
+### 2. Pelanggaran am berulang
 
-Keep doing small things wrong? Severe ban.
+Terus melakukan kesalahan kecil? Ban berat.
 
-### 3. Going rogue on public services
+### 3. Pergi rogue dalam perkhidmatan awam
 
-If you're on **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
+Jika anda dalam **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, atau mana-mana pasukan perkhidmatan awam yang lain dan anda melakukan jenayah, itu ialah pelanggaran berat. Pakai seragam, mainkan peranan.
 
-### 4. Ban evasion
+### 4. Mengelak ban
 
-- Using an alternative account to avoid a ban
-- Playing under someone else's login after you've been banned
+- Menggunakan akaun alternatif untuk mengelak ban
+- Bermain di bawah log masuk orang lain selepas anda diharamkan
 
-Ban evasion is taken very seriously.
+Mengelak ban diambil serius.
 
-### 5. Sharing personal information
+### 5. Berkongsi maklumat peribadi
 
-Don't dox. Don't share anyone's personal details — yours or others'.
+Jangan dox. Jangan kongsi butiran peribadi sesiapa — milik anda atau orang lain.
 
-### 6. Violate Roblox Terms of Service
+### 6. Melanggar Syarat Perkhidmatan Roblox
 
-- **Racism** — including coded racism
-- **Discussing topics of sensitive nature**
-- **NSFW** content of any kind
+- **Perkauman** — termasuk perkauman berkod
+- **Membincangkan topik sensitif**
+- **Kandungan NSFW** dalam apa jua bentuk
 - **Online-dating**
-- Any other messages, symbols, or media deemed inappropriate
+- Sebarang mesej, simbol, atau media lain yang dianggap tidak sesuai
 
-If Roblox itself wouldn't allow it, Bandaraya doesn't allow it.
-
----
-
-## Roleplay etiquette
-
-These aren't formal rules, but they keep the game fun:
-
-- **Stay in character.** Use roleplay dialogue, not OOC chatter during scenes.
-- **Respect scenes.** If police are arresting someone, don't interrupt unless you're part of the roleplay.
-- **Drive like it matters.** You're in KL, not Rocket League.
-- **Use radio for in-character communication.** The radio module supports STT/TTS for immersion.
-- **Don't metagame.** Don't use knowledge your character wouldn't have (e.g., seeing a player's team from out-of-character info).
-- **Don't mix OOC and IC.** Out-of-character discussions belong in OOC-tagged messages or Discord, not IC chat.
+Jika Roblox sendiri tidak membenarkannya, Bandaraya tidak membenarkannya.
 
 ---
 
-## Appeals
+## Etika roleplay
 
-Any ban, permanent or temporary, can be appealed.
+Ini bukan peraturan rasmi, tetapi ia memastikan permainan kekal menyeronokkan:
 
-1. Join the **Malaysia community server**.
-2. Contact a moderator or administrator.
-3. Appeals go through the **Moderation server**.
-
-**Note:** bans are **NOT appealable by way of judicial review.** Moderators have the final call.
+- **Kekal dalam watak.** Gunakan dialog roleplay, bukan bual OOC semasa adegan.
+- **Hormati adegan.** Jika polis sedang menangkap seseorang, jangan ganggu melainkan anda sebahagian daripada roleplay.
+- **Pandu dengan penuh tanggungjawab.** Anda di KL, bukan Rocket League.
+- **Gunakan radio untuk komunikasi dalam watak.** Modul radio menyokong STT/TTS untuk pengalaman yang lebih mendalam.
+- **Jangan metagame.** Jangan gunakan pengetahuan yang watak anda tidak sepatutnya ada (cth., melihat pasukan pemain dari maklumat luar watak).
+- **Jangan campurkan OOC dan IC.** Perbincangan luar watak sepatutnya dalam mesej bertanda OOC atau Discord, bukan chat IC.
 
 ---
 
-## Tips & gotchas
+## Rayuan
 
-- **The anti-cheat has been tuned.** Legitimate combat won't kick you (weapon DPS threshold is 3000+; fire rate tolerance is up to 40 shots/sec). If you get kicked unfairly, the kick message includes a tag (RL, MV, WM) — take that to moderators for a quick resolution.
-- **Legitimate teleports and lifts are whitelisted** — you won't get kicked for using the Aries Hotel lift or IPD Dang Wangi's elevators.
-- **Discord logging tracks most actions** — tow clamps, arrests, damage events. Don't try to exploit and cover your tracks.
-- **The game logs kills** for moderation review (added in v3.12.15).
-- **Account-age gate:** you need at least 60 days of Roblox account age to play (set in v3.9.0 to combat bot/new-account abuse).
-- **Stay safe, play fair.** That's it.
+Mana-mana ban, kekal atau sementara, boleh dirayu.
 
-## See also
+1. Sertai **server komuniti Malaysia**.
+2. Hubungi moderator atau pentadbir.
+3. Rayuan diproses melalui **server Moderasi**.
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
-- [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
-- [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: `infoModules.GameRules` (in-game)
+**Nota:** ban **TIDAK boleh dirayu melalui semakan kehakiman.** Moderator mempunyai keputusan muktamad.
+
+---
+
+## Tip & perkara yang perlu diketahui
+
+- **Anti-cheat telah ditala.** Pertarungan yang sah tidak akan kick anda (ambang DPS senjata 3000+; toleransi kadar tembakan sehingga 40 tembakan/saat). Jika anda di-kick secara tidak adil, mesej kick termasuk tag (RL, MV, WM) — bawa itu kepada moderator untuk penyelesaian pantas.
+- **Teleport dan lif yang sah adalah dalam senarai putih (whitelisted)** — anda tidak akan di-kick kerana menggunakan lif Aries Hotel atau elevator IPD Dang Wangi.
+- **Logging Discord menjejaki kebanyakan tindakan** — klem tunda, tangkapan, peristiwa damage. Jangan cuba exploit dan menutup jejak anda.
+- **Permainan mencatat kematian (kills)** untuk semakan moderasi (ditambah dalam v3.12.15).
+- **Had umur akaun:** anda memerlukan sekurang-kurangnya 60 hari umur akaun Roblox untuk bermain (ditetapkan dalam v3.9.0 untuk membanteras penyalahgunaan bot/akaun baharu).
+- **Kekal selamat, bermain adil.** Itu sahaja.
+
+## Lihat juga
+
+- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — mekanik LTAA / RTAA
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — akibat pergi rogue
+- [Soalan Lazim](/bandaraya/faq) — soalan lazim tentang peraturan
+- Teks peraturan rasmi: `infoModules.GameRules` (dalam permainan)

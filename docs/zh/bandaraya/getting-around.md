@@ -1,233 +1,230 @@
 ---
-title: Getting Around Bandaraya — Public Transport Guide
-description: >-
-  Public transport in Bandaraya — MRT, LRT, monorail, buses, CAG card,
-  e-hailing, and TapNGo tolls.
+title: Bandaraya 公共交通指南
+description: Bandaraya 的公共交通 — MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。
 lang: zh
 translated_from_hash: 6f4b75c6
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Bandaraya 公共交通指南
 
-# Getting Around Bandaraya — Public Transport Guide
+玩家的吉隆坡出行指南:巴士、MRT、单轨列车、高速公路收费站,以及把这一切串联起来的 **CAG 卡**。
 
-A player's guide to moving around Kuala Lumpur: buses, MRT, Monorail, highway tolls, and the **CAG card** that ties it all together.
+所有价格均以 **BR(Bandar Ringgit)** 计算。
 
-All prices are in **BR (Bandar Ringgit)**.
+## 快速参考
 
-## Quick reference
-
-| What | Cost (cash) | With CAG card | With CAG + monthly pass |
+| 项目 | 费用(现金) | 使用 CAG 卡 | CAG 卡 + 月票 |
 | --- | --- | --- | --- |
-| Bus ride (flat fare) | 5 BR | 5 BR (from card) | **Free** |
-| MRT / Monorail fast travel | Full price | **30 % off** | **50 % off** |
-| TapNGo highway gate | 15 BR | **20 % off** (12 BR) | 20 % off (12 BR) |
-| CAG card (one-time purchase) | 100 BR | — | — |
-| Monthly pass | 500 BR | — | Lasts 30 days |
+| 巴士车程(统一价) | 5 BR | 5 BR(从卡扣款) | **免费** |
+| MRT / 单轨列车 fast travel | 全额 | **优惠 30 %** | **优惠 50 %** |
+| TapNGo 高速公路闸门 | 15 BR | **优惠 20 %**(12 BR) | 优惠 20 %(12 BR) |
+| CAG 卡(一次性购买) | 100 BR | — | — |
+| 月票 | 500 BR | — | 有效期 30 天 |
 
-**TL;DR:** If you use public transport more than a few times, buy a CAG card. If you use it every day, get the monthly pass.
+**一句话总结:** 如果你会使用公共交通多过几次,就买张 CAG 卡。若每天都用,那就买月票。
 
 ---
 
-## The network
+## 交通网
 
-### MRT Kajang Line
-Three stations; walk-in fast travel between them.
+### MRT 加影线
+三个站;可在它们之间以走入式 fast travel。
 
 - **Conlay**
 - **Persiaran KLCC**
 - **Ampang Park**
 
-### KL Monorail Line
-Three more stations on a separate line.
+### 吉隆坡单轨列车线
+另一条线上还有三个站。
 
 - **Bukit Bintang**
 - **Raja Chulan**
 - **Bukit Nanas**
 
-### Buses
-Run by several operators around the city — **MyTransit**, **FirstGroup**, and **Fermuda**. Look for passenger seats on tagged bus models; fare is charged automatically when you sit down.
+### 巴士
+由城中几家运营商营运 — **MyTransit**、**FirstGroup** 和 **Fermuda**。找标有记号的巴士模型上的乘客座位;当你坐下时,车费会自动扣除。
 
-### Highways
-Some highway routes pass through **TapNGo toll gates**. Your vehicle is charged 15 BR per gate, or 12 BR if you hold a CAG card.
+### 高速公路
+某些高速公路路线会经过 **TapNGo 收费闸门**。每通过一个闸门,你的车辆会被扣 15 BR,或持 CAG 卡则扣 12 BR。
 
 ---
 
-## Fast travel (MRT & Monorail)
+## Fast travel(MRT 与单轨列车)
 
-1. Walk up to any MRT or Monorail station.
-2. A fast-travel panel opens showing the other stations on your line.
-3. Pick a destination. The price shown depends on whether you hold a CAG card:
-   - **No card:** full BR price charged from your wallet.
-   - **CAG card:** 30 % off, charged from your card balance.
-   - **CAG card + active monthly pass:** 50 % off, still from card balance.
-4. Screen fades to black; you arrive at the destination station.
+1. 走近任何 MRT 或单轨列车站。
+2. fast travel 面板会打开,显示你这条线上的其他站点。
+3. 选一个目的地。显示的价格视你是否持有 CAG 卡而定:
+   - **没有卡:** 从钱包扣除全额 BR。
+   - **CAG 卡:** 优惠 30 %,从卡余额扣款。
+   - **CAG 卡 + 有效月票:** 优惠 50 %,仍从卡余额扣款。
+4. 画面淡出为黑色;你抵达目的地车站。
 
-If your CAG balance is too low to cover the discounted fare, the system falls back to charging full BR from your wallet — the UI shows a hint reminding you to top up.
+如果你的 CAG 余额不足以支付折扣后的车费,系统会转回从钱包收取全额 BR — 界面会显示提示,提醒你充值。
 
-### What it costs
+### 费用是多少
 
-Fare scales with how many hops you take (base + per-hop):
+车费按跳站数递增(基本 + 每跳):
 
-| Trip | Cash | With CAG (30% off) | With CAG + pass (50% off) |
+| 行程 | 现金 | 使用 CAG(优惠 30%) | CAG + 月票(优惠 50%) |
 | --- | --- | --- | --- |
-| 1 hop (neighbour station) | 150 BR | 105 BR | 75 BR |
-| 2 hops (end of the line) | 200 BR | 140 BR | 100 BR |
+| 1 跳(邻站) | 150 BR | 105 BR | 75 BR |
+| 2 跳(线路末端) | 200 BR | 140 BR | 100 BR |
 
-Formula: `100 + 50 × hops`. A full monthly pass ride pays for itself after about 7 trips.
-
----
-
-## Buses
-
-Buses operate across the city. There's no ticket to buy or button to press — just **board and sit**.
-
-- **Fare:** 5 BR per boarding, flat.
-- **Paid via CAG card** if you have one; deducted automatically when you sit in a passenger seat.
-- **No card, or card empty?** The fare becomes **debt**. You still ride, but your next top-up settles the debt before adding to your balance.
-- **Monthly pass holders:** rides are **free** — the "Saved with CAG" counter tracks the value anyway.
-- **Bus drivers are not charged** — the driver seat is exempt.
-- **Debt cap:** 200 BR. Reach it and further rides are refused until you top up.
-
-**Exit handling is forgiving.** Whether you stand up normally, get kicked from the seat, die, disconnect, or the bus despawns under you, the fare is charged exactly once for that boarding.
+公式:`100 + 50 × 跳数`。一张完整月票大约乘 7 次就回本。
 
 ---
 
-## TapNGo highway gates
+## 巴士
 
-When your vehicle reaches a TapNGo gate:
+巴士穿梭全城。不需要买票或按按钮 — 只要 **上车坐下** 即可。
 
-1. The gate deducts **15 BR** from your wallet (or **12 BR** if you own a CAG card — 20 % off, paid from card balance with fallback to cash).
-2. The gate opens.
-3. Drive through.
+- **车费:** 每次上车 5 BR,统一价。
+- 若有 CAG 卡,**通过 CAG 卡支付**;当你坐上乘客座位时会自动扣款。
+- **没卡,或卡余额为零?** 车费会记为 **欠款**。你仍可乘车,但下一次充值会先清偿欠款再加到你的余额。
+- **月票持有者:** 乘车 **免费** — 但 "Saved with CAG" 计数器照样记录省下的金额。
+- **巴士司机不被扣费** — 司机座位豁免。
+- **欠款上限:** 200 BR。达到此上限后将拒绝后续乘车,直到你充值。
 
-A vehicle that has already paid a specific gate won't be double-charged on the way out.
+**下车处理很宽容。** 无论你正常起身、被踢出座位、死亡、断线,或巴士在你底下 despawn,该次上车只会被扣费一次。
 
 ---
 
-# The CAG (Click And Go) card
+## TapNGo 高速公路闸门
 
-The **CAG card** is Bandaraya's stored-value transit card — modelled on Malaysia's real-life Touch n Go. Load it up once, tap automatically across buses, MRT, Monorail, and highway gates.
+当你的车辆到达 TapNGo 闸门时:
 
-## How to buy one
+1. 闸门从你的钱包扣 **15 BR**(若持 CAG 卡则为 **12 BR** — 优惠 20 %,从卡余额支付,不足则转回现金)。
+2. 闸门打开。
+3. 开过去。
 
-1. Find a **CAG kiosk** — one next to every MRT and Monorail station, plus a central kiosk in the city.
-2. Interact with the kiosk (line of sight required — the prompt won't work through walls).
-3. Pick **Buy Card** on the kiosk panel. Confirm the **100 BR** charge.
-4. You'll receive a **CAG Card** tool in your backpack. Equip it to see a compact balance badge above the card; activate it (click while held) to open your wallet UI.
+已付过某一特定闸门的车辆回程时不会被重复扣费。
 
-Once you own a card, the tool is automatically granted to you on every spawn.
+---
 
-## Topping up
+# CAG(Click And Go)卡
 
-At any kiosk:
+**CAG 卡** 是 Bandaraya 的储值交通卡 — 仿照马来西亚现实中的 Touch n Go 设计。一次充值,即可在巴士、MRT、单轨列车和高速公路闸门自动刷卡。
 
-1. Choose **Top Up**.
-2. Pick a denomination: **20 / 50 / 100 / 200 / 500 BR**.
-3. Confirm. Large top-ups (200 BR+) prompt for confirmation to prevent misclicks.
+## 如何购买
 
-- **Max balance:** 2 000 BR stored at once.
-- **Debt settles first.** If you have unpaid bus fare debt, the top-up clears that before adding to your available balance.
-- **Top-up buttons grey out** with a "(max)" tag when the denomination would exceed the cap.
+1. 找一个 **CAG kiosk** — 每个 MRT 和单轨列车站旁都有一个,城中还有一个中央 kiosk。
+2. 与 kiosk 互动(需要视线畅通 — 提示无法穿墙起作用)。
+3. 在 kiosk 面板上选 **Buy Card**。确认扣 **100 BR**。
+4. 你会在 backpack 里收到一个 **CAG Card** 工具。装备后可在卡上看到一个紧凑的余额徽章;激活它(拿着时点击)来打开你的钱包界面。
 
-## The monthly pass
+一旦你拥有一张卡,该工具会在每次 spawn 时自动发放给你。
 
-- **Price:** 500 BR at any kiosk.
-- **Duration:** 30 days from purchase.
-- **Perks:**
-  - **Free bus rides** for the whole period.
-  - **MRT / Monorail discount doubles** from 30 % to **50 %**.
-- Shown in the wallet UI with a `[v]` active indicator and a green status pill.
+## 充值
 
-Breaks even around 100 bus rides (500 BR ÷ 5 BR) — plus whatever MRT savings you stack on top. If you commute daily, it pays for itself fast.
+在任何 kiosk:
 
-## Opening your wallet
+1. 选 **Top Up**。
+2. 选择面额:**20 / 50 / 100 / 200 / 500 BR**。
+3. 确认。大额充值(200 BR 以上)会要求确认,以防误点。
 
-Three ways to open the wallet UI:
+- **余额上限:** 一次最多存 2 000 BR。
+- **欠款优先清偿。** 如果你有未付的巴士车费欠款,充值会先清偿再加入你的可用余额。
+- **充值按钮变灰** 并显示 "(max)" 标签,表示该面额会超过上限。
 
-- **Equip and activate** the CAG Card tool (click while holding it).
-- **Press Ctrl + W** anywhere, any time.
-- **Open the CAG eWallet app** on your in-game Phone.
-- **Press Escape** to close.
+## 月票
 
-## Inside the wallet
+- **价格:** 任何 kiosk 500 BR。
+- **有效期:** 自购买起 30 天。
+- **福利:**
+  - 整个期间 **免费搭巴士**。
+  - **MRT / 单轨列车折扣加倍** 从 30 % 升至 **50 %**。
+- 在钱包界面以 `[v]` 有效指示器和绿色状态条显示。
 
-Five tabs:
+大约 100 次巴士车程(500 BR ÷ 5 BR)即可回本 — 再加上你叠加的 MRT 节省。如果你每天通勤,很快就能回本。
 
-| Tab | What you'll find |
+## 打开钱包
+
+有三种方式打开钱包界面:
+
+- **装备并激活** CAG Card 工具(拿着时点击)。
+- **随时随地按 Ctrl + W**。
+- 在游戏内的 Phone 上 **打开 CAG eWallet 应用**。
+- **按 Escape** 关闭。
+
+## 钱包内部
+
+五个标签页:
+
+| 标签 | 你会看到什么 |
 | --- | --- |
-| **Buy Card** | Purchase a card if you don't have one yet (hidden once owned). |
-| **Top Up** | Grid of denomination buttons. |
-| **Pass** | Status of your monthly pass; buy or renew. |
-| **Designs** | Browse and equip card designs (see below). |
-| **History** | Your last 20 transactions + lifetime stats (bus trips, MRT trips, BR spent, BR saved, card age). |
+| **Buy Card** | 若尚未拥有则购买一张卡(拥有后隐藏)。 |
+| **Top Up** | 面额按钮网格。 |
+| **Pass** | 月票状态;购买或续期。 |
+| **Designs** | 浏览并启用卡面设计(见下)。 |
+| **History** | 最近 20 笔交易 + 终身统计(巴士行程、MRT 行程、BR 花费、BR 节省、卡龄)。 |
 
 ---
 
-## Card designs
+## 卡面设计
 
-Your card has a **visual design** — the colour and art that show on the tool badge, wallet preview, and Phone app. The **Classic** design is free with every card; others are unlockable:
+你的卡有 **视觉设计** — 显示在工具徽章、钱包预览和 Phone 应用上的颜色与图案。**Classic** 设计随每张卡免费附送;其他为可解锁:
 
-- **Shop** — buy them outright at kiosks.
-- **Achievements** — earn them by using the card:
-  - **100 bus trips**
-  - **50 MRT trips**
-  - **10 000 BR lifetime spend via CAG**
-- **Seasonal** — special designs offered during **Deepavali, Merdeka, and Raya** windows; miss the window, wait until next year.
+- **Shop** — 在 kiosk 直接购买。
+- **Achievements** — 通过使用卡赚取:
+  - **100 次巴士行程**
+  - **50 次 MRT 行程**
+  - **通过 CAG 终身花费 10 000 BR**
+- **Seasonal** — 于 **屠妖节、国庆和开斋节** 期间提供的特别设计;错过就等明年。
 
-Change your active design from the **Designs** tab. You keep every design you've ever unlocked — they're saved to your account.
+从 **Designs** 标签页更换你的当前设计。你会保留曾解锁的每一个设计 — 它们保存到你的账号。
 
 ---
 
-## The CAG eWallet (Phone app)
+## CAG eWallet(Phone 应用)
 
-On your in-game Phone, the **CAG eWallet** app gives you a browse-only view of your card without needing to hold the tool or press Ctrl + W.
+在你的游戏内 Phone 上,**CAG eWallet** 应用提供对你卡片的仅浏览视图,不需拿着工具或按 Ctrl + W。
 
-Five tabs at the bottom:
+底部有五个标签:
 
-| Tab | Purpose |
+| 标签 | 用途 |
 | --- | --- |
-| **Home** | Balance card with your active design, quick-action shortcuts (Reload, Tap, Pass, Designs), last 2 transactions. |
-| **Trips** | Full history with colour-coded chips (bus / mrt / gate / topup) and a stats strip at the top. |
-| **Tap** | An explainer screen with a tilted card preview and live discount numbers — handy refresher on what the card gets you. |
-| **Pass** | Pass status as a yellow ticket card with usage summary and savings. |
-| **Me** | Your active design hero + designs grid (owned vs. locked), plus lifetime stats. |
+| **Home** | 带有你当前设计的余额卡、快捷操作(Reload、Tap、Pass、Designs)、最后 2 笔交易。 |
+| **Trips** | 全部历史,附彩色编码标签(bus / mrt / gate / topup),顶部有统计条。 |
+| **Tap** | 一张说明屏,带有倾斜的卡预览和实时折扣数字 — 实用的提醒,让你知道卡能带来什么。 |
+| **Pass** | 以黄色票卡形式显示月票状态,并附使用摘要与节省。 |
+| **Me** | 当前设计为 hero + 设计网格(已拥有对比锁定),加上终身统计。 |
 
-**Important:** all purchase buttons in the app (Reload, Buy/Renew Pass, Change Design) **deep-link** to the nearest kiosk. If you're close enough (within 24 studs), the kiosk UI opens automatically. If not, you get a toast telling you which kiosk is nearest and how far away it is — head there to complete the action. The kiosk is the single source of truth for transactions.
-
----
-
-## Tips & gotchas
-
-- **Buy the card before your first trip.** It pays for itself in ~7 MRT rides or ~7 tolls.
-- **Keep a small balance on the card.** You don't need to max it out — bus fares are tiny.
-- **Debt is silent but real.** If your card is empty, buses still let you ride but record the fare as debt. Top up to clear it; you'll hit the 200 BR debt cap eventually.
-- **You can't cash out.** Money on the card is one-way — spend it on transport, don't store savings there. (This matches the real Touch n Go.)
-- **Monthly pass stacks with MRT discount**, but not with the bus fare — pass = free buses, not discounted buses.
-- **Kiosk prompts require line of sight** — if you can't see the kiosk, you can't interact with it. Walk around the obstacle.
-- **Kiosk sessions time out after 60 seconds.** If you step away, just interact again.
-- **Tools rate-limit.** Spamming buttons in the wallet UI briefly locks you out. Click once and wait for the action to process (the button shows "…" while busy).
-- **Taxis and e-hailing are NOT on CAG.** They use their own BR-based fares — carry cash for those.
-- **If CAG gets disabled** (maintenance / event): all kiosks hide their prompts, the card is unequipped, and transport falls back to plain BR charges. Your wallet balance, designs, and pass are preserved for when it comes back on.
+**重要:** 应用中所有购买按钮(Reload、Buy/Renew Pass、Change Design)会 **deep-link** 到最近的 kiosk。如果你足够近(24 studs 以内),kiosk 界面会自动打开。否则,你会收到一条提示,告诉你最近的 kiosk 在哪里以及有多远 — 过去完成操作。kiosk 是交易的唯一可信来源。
 
 ---
 
-## Feature availability
+## 贴士与注意事项
 
-The entire CAG system can be toggled off by staff via an admin flag. When that happens:
-
-- Kiosks show no interact prompt.
-- Your card is temporarily removed from your backpack.
-- The Phone app shows a "CAG eWallet is currently unavailable" screen.
-- Buses, MRT, and TapNGo charge the full BR price from your wallet with no discount.
-- **Nothing is lost** — your balance, designs, and pass resume the moment the flag is turned back on.
+- **在你的第一次行程前买卡。** 大约 7 次 MRT 车程或 7 次过路费就回本。
+- **在卡上保留少量余额即可。** 不必充到顶 — 巴士车费很小。
+- **欠款沉默但真实存在。** 若卡为空,巴士仍让你上车,但会把车费记作欠款。充值以清偿;你最终会碰到 200 BR 的欠款上限。
+- **不能提现。** 卡上的钱是单向的 — 花在交通上,别把它当储蓄。(这与真实的 Touch n Go 一致。)
+- **月票可以叠加 MRT 折扣**,但不叠加巴士车费 — 月票 = 巴士免费,而非折扣巴士。
+- **kiosk 提示需要视线** — 如果你看不到 kiosk,就无法与之互动。绕过障碍物。
+- **kiosk 会话 60 秒后超时。** 若你走开,再次互动即可。
+- **工具有速率限制。** 在钱包界面连点按钮会使你短暂锁定。点一次并等待操作处理(按钮繁忙时显示 "…")。
+- **的士与电召车不走 CAG。** 它们使用自己基于 BR 的车费 — 为此带现金。
+- **若 CAG 被停用**(维护 / 活动):所有 kiosk 会隐藏提示、卡会被卸下,交通回退到纯 BR 扣费。你的钱包余额、设计和月票会保留,等功能恢复时继续使用。
 
 ---
 
-## See also
+## 功能可用性
 
-- [Rules](/bandaraya/rules)
-- [Economy](/bandaraya/economy) — currency, shops, gamepasses
-- [Map](/bandaraya/locations) — where stations and terminals are
-- [Jobs](/bandaraya/jobs) — bus-driving, taxis
-- [Glossary](/bandaraya/glossary) — CAG, TapNGo, MRT
+整个 CAG 系统可被工作人员通过管理员标记关闭。当发生时:
+
+- kiosk 不显示互动提示。
+- 你的卡会暂时从 backpack 移除。
+- Phone 应用显示 "CAG eWallet is currently unavailable" 画面。
+- 巴士、MRT 和 TapNGo 会从你的钱包收取全额 BR 价,不打折。
+- **没有任何数据会丢失** — 一旦标记再次开启,你的余额、设计和月票会恢复。
+
+---
+
+## 另请参阅
+
+- [规则](/bandaraya/rules)
+- [经济](/bandaraya/economy) — 货币、店铺、gamepass
+- [地图](/bandaraya/locations) — 车站与总站位置
+- [工作](/bandaraya/jobs) — 开巴士、的士
+- [词汇表](/bandaraya/glossary) — CAG、TapNGo、MRT

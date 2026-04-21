@@ -1,246 +1,245 @@
 ---
-title: Combat & Health
-description: 'Weapons, armor, injuries, and the medical system in Bandaraya.'
+title: 战斗与健康
+description: Bandaraya 的武器、护甲、受伤机制和医疗系统。
 lang: zh
 translated_from_hash: b70f1d8e
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 战斗与健康
 
-# Combat & Health
-
-Bandaraya uses **ACS (Advanced Combat System)** for weapons and a detailed health system (internal name: **Saude**, Portuguese for "health"). This page explains what happens when bullets fly and when blood runs — from both sides.
+Bandaraya 的武器使用 **ACS (Advanced Combat System)**,还有一套详细的健康系统(内部名称:**Saude**,葡萄牙语“健康”的意思)。这一页讲解子弹飞来飞去、血流满地时会发生什么 — 从双方角度来看。
 
 ## TL;DR
 
-- Most civilians can't carry guns. You need the **Firearms Licence gamepass** (1,250 R$), or you need to be on a team that issues them (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
-- Bullets pass through transparent / non-colliding / **Glass / Ignorable** parts. They stop at **Armor / EShield** parts. Some vehicles are bulletproof.
-- When injured: you lose **blood** (Sangue) and gain **pain** (Dor). Bleed, splint, bandage. Medics (KKM / SJAM) can stabilise you.
-- **Reset button disables at or below 75 HP** — you can't suicide out of a sticky situation.
-- **Bleedout timer is 5 minutes when KKM or SJAM are online.** Passive HP regen is also disabled while medics are on-shift. If no medic saves you in time, you respawn.
+- 大部分平民都不能带枪。你需要 **Firearms Licence gamepass**(1,250 R$),或者你得在会发枪的队伍里(PDRM、KPTD、MAF、Developers、Moderation、Yang di-Pertuan Persekutuan)。
+- 子弹会穿透透明的 / 不会碰撞的 / **Glass / Ignorable** 部件。它们会被 **Armor / EShield** 部件挡下。有些车辆是防弹的。
+- 受伤时:你会流失 **血液** (Sangue),并累积 **疼痛** (Dor)。流血、打夹板、包扎。医护人员(KKM / SJAM)可以稳定你的状况。
+- **重置按钮在 75 HP 或以下会被禁用** — 你不能用自杀来逃脱麻烦的状况。
+- **KKM 或 SJAM 在线时,bleedout 计时是 5 分钟。** 医护人员值班时,被动 HP 回血也会被禁用。如果没有医护人员及时救你,你就会 respawn。
 
 ---
 
-## Weapons
+## 武器
 
-### How to get a weapon
+### 如何拿到武器
 
-| Source | Requirement |
+| 来源 | 要求 |
 | --- | --- |
-| **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass (1,250 R$). Legal, above-board. 5-minute cooldown between purchases. |
-| **Illegal Dealer (Hacker)** | Black-market. 5-minute cooldown (also resets if you reset/rejoin). |
-| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (various), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
-| **Armoury** | Team-gated armouries at IPD Dang Wangi and other bases. |
+| **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass(1,250 R$)。合法,光明正大。购买之间有 5 分钟冷却时间。 |
+| **Illegal Dealer (Hacker)** | 黑市。5 分钟冷却时间(reset/rejoin 也会重置)。 |
+| **Team issue** | PDRM(X26P、CL2)、KPTD(X26P TAC)、MAF GGK/UTK(各种)、Developers / Moderation(HK-P30L)、Yang di-Pertuan Persekutuan(Glock 19、M4A1、MP5A3)。 |
+| **Armoury** | IPD Dang Wangi 和其他基地的团队限定军械库。 |
 
-Civilians can't walk around with rifles. The Firearms Licence unlocks Ammulaysia for sidearms; teams get duty weapons.
+平民不能拿着步枪到处走。Firearms Licence 可以在 Ammulaysia 买副武器;队伍则拿值勤武器。
 
-### Shooting (ACS basics)
+### 射击(ACS 基础)
 
-- **Left-click** to fire.
-- **R** to reload.
-- **B** (or tool-specific) to holster.
-- Recoil, spread, and rate-of-fire vary by weapon.
-- Running fire is less accurate than aimed shots.
+- **左键**开火。
+- **R** 换弹。
+- **B**(或特定工具键)收枪。
+- 后坐力、散布和射速因武器而异。
+- 边跑边射比瞄准射击准度差。
 
-ACS has been battle-tested — normal DPS is up to ~1500 with legit weapons, peak ~3000. The anti-cheat has been tuned to allow real combat without kicking legit players.
+ACS 经过实战检验 — 合法武器的正常 DPS 大约 ~1500,峰值 ~3000。反作弊已调整到可以允许真正的战斗,不会踢走合法玩家。
 
-### Bullet penetration
+### 子弹穿透
 
-Bullets passing through parts depend on what the part is:
+子弹能否穿透部件,要看部件是什么样的:
 
-- **Passes through** any part that is:
+- **穿透**任何符合以下条件的部件:
   - **Transparent**
   - **Non-colliding**
-  - Named **Glass** or **Ignorable**
-- **Stops at** any part named:
-  - **Armor** — always blocks bullets
-  - **EShield** — energy shield, blocks bullets
+  - 命名为 **Glass** 或 **Ignorable**
+- **停在**任何命名为以下名称的部件:
+  - **Armor** — 永远挡子弹
+  - **EShield** — 能量护盾,挡子弹
 
-This matters for cover: a chest-high wall might not stop a round if it's transparent; a wooden fence will stop one if it's collidable.
+这对掩护很重要:如果一堵齐胸高的墙是透明的,它可能挡不住子弹;木栅栏如果是会碰撞的,就会挡住子弹。
 
-### Bulletproof vehicles
+### 防弹车辆
 
-Some vehicles have `Armor` parts placed around the cabin — they're **fully bulletproof** inside.
+有些车辆的座舱周围放了 `Armor` 部件 — 车内**完全防弹**。
 
-- **AV4** (PDRM) — 29 armour parts around the cabin
+- **AV4** (PDRM) — 座舱周围有 29 个装甲部件
 - **V150** (PDRM)
-- **UTK Hilux variants** — bulletproof cabin
+- **UTK Hilux 变体** — 防弹座舱
 
-Regular civilian cars are **not** bulletproof. A Proton Persona will not stop a round.
+一般的平民车辆**不**防弹。Proton Persona 挡不住子弹。
 
 ---
 
-## Armour you wear
+## 你穿的护甲
 
-Body armour is modelled via `Protecao` (Portuguese for "protection"):
+身体护甲通过 `Protecao` (葡萄牙语“保护”的意思)来建模:
 
-| Item | What it does |
+| 物品 | 作用 |
 | --- | --- |
-| **Vest** | Torso protection. Durability + damage reduction per hit. |
-| **Helmet** | Head protection. Without a helmet, headshots are lethal immediately. |
-| **Blast protection** | Reduces explosion damage (both vest and helmet have blast stats). |
+| **Vest** | 躯干保护。耐久度 + 每次受击的伤害减免。 |
+| **Helmet** | 头部保护。没戴头盔,headshot 直接致命。 |
+| **Blast protection** | 减少爆炸伤害(vest 和 helmet 都有爆炸属性)。 |
 
-**Tip:** motorcycles used to insta-kill you without a helmet. That's been removed, but helmets are still worth wearing for headshot protection.
+**提示:** 以前没戴头盔,被摩托车撞到会秒死。那个机制已经去掉了,但头盔仍然值得戴,可以防 headshot。
 
-Armour wears down with hits; get it replaced at an armoury or staging area.
+护甲会随着受击而磨损;去军械库或集结区换新的。
 
 ---
 
-## Taking damage
+## 受伤
 
-Bandaraya models health as three dimensions, not just HP:
+Bandaraya 把健康建模成三个维度,不只是 HP:
 
-| Stat | What it is | When it matters |
+| 属性 | 是什么 | 什么时候重要 |
 | --- | --- | --- |
-| **Sangue** (Blood) | Blood level, 0–100 | Drops as you bleed. At 0 you flatline. |
-| **Dor** (Pain) | Pain level | High pain blurs your screen and slows you. |
-| **HP** (Humanoid) | Standard Roblox health | Dropping to 0 kills you outright. |
+| **Sangue** (血液) | 血量,0–100 | 流血时会下降。到 0 就心跳停止。 |
+| **Dor** (疼痛) | 疼痛程度 | 高疼痛会让你的屏幕模糊并减慢你的速度。 |
+| **HP** (Humanoid) | 标准 Roblox 血量 | 降到 0 直接死亡。 |
 
-Plus stamina, oxygen, and a host of stances (running, surrendered, cuffed, bleeding, downed, etc.).
+还有体力、氧气和一堆姿态(奔跑、投降、被铐、流血、倒下等等)。
 
-### States you can enter
+### 你可能进入的状态
 
-| State | What it means | How you got there |
+| 状态 | 意思是什么 | 怎么进入的 |
 | --- | --- | --- |
-| **Ferido** (Injured) | Below full health | Any damage |
-| **Sangrando** (Bleeding) | Actively losing blood | Gunshot, major trauma |
-| **Caido** (Downed) | Incapacitated, not dead | Serious damage; can be revived |
-| **Balloonbleed / bbleeding** | Critical bleeding | Compound wounds |
-| **Dead** | RIP | Caido too long, or HP 0 |
+| **Ferido** (受伤) | 血量未满 | 任何伤害 |
+| **Sangrando** (流血) | 正在流失血液 | 枪伤,重大创伤 |
+| **Caido** (倒下) | 失能,但没死 | 严重伤害;可以被救活 |
+| **Balloonbleed / bbleeding** | 危急出血 | 复合伤口 |
+| **Dead** | RIP | Caido 太久,或 HP 0 |
 
-### Visual effects when hurt
+### 受伤时的视觉效果
 
-| Effect | When it kicks in |
+| 效果 | 什么时候出现 |
 | --- | --- |
-| Blur | Pain / injury |
-| Colour correction desaturation | Blood loss |
-| Vignette (corners darken) | Low health |
-| Dirty overlay | Injury / combat damage |
+| Blur | 疼痛 / 受伤 |
+| 色彩校正去饱和 | 失血 |
+| Vignette(角落变暗) | 低血量 |
+| 脏污叠加层 | 受伤 / 战斗伤害 |
 
 ---
 
-## Medical kit items
+## 医疗包物品
 
-Located in your kit if you have the right team/tool access. Full list:
+如果你有合适的团队/工具权限,就会在你的 kit 里。完整清单:
 
-### Pain & stimulants
+### 止痛 & 兴奋剂
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **Morfina** | Morphine — pain relief |
-| **Epinefrina** | Epinephrine — stimulant, helps revive |
-| **Aspirina** | Aspirin — mild pain relief |
-| **Energetico** | Energy drink — stamina |
+| **Morfina** | 吗啡 — 止痛 |
+| **Epinefrina** | 肾上腺素 — 兴奋剂,帮助复苏 |
+| **Aspirina** | 阿司匹林 — 轻度止痛 |
+| **Energetico** | 能量饮料 — 体力 |
 
-### Blood & IV
+### 血液 & 静脉
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **SacoDeSangue** | Blood bag — restores blood volume |
-| **Catheter** | IV catheter |
+| **SacoDeSangue** | 血袋 — 恢复血量 |
+| **Catheter** | 静脉导管 |
 
-### Wound care
+### 伤口护理
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **Bandagem** | Bandage — dresses wounds, slows bleeding |
-| **Tourniquet** | Full tourniquet — stops bleeding in a limb |
-| **Splint** | Stabilises fractures |
-| **Prolene / Nylon** | Suture materials |
+| **Bandagem** | 绷带 — 包扎伤口,减缓流血 |
+| **Tourniquet** | 止血带 — 止住肢体出血 |
+| **Splint** | 稳定骨折 |
+| **Prolene / Nylon** | 缝合材料 |
 
-### Airway (advanced, KKM)
+### 气道(进阶,KKM)
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **ETube** | Endotracheal tube |
-| **NPA** | Nasopharyngeal airway |
-| **BVM** | Bag valve mask |
-| **NRB** | Non-rebreather mask |
-| **O2** | Oxygen supply |
-| **Suction** | Clear airway |
+| **ETube** | 气管内插管 |
+| **NPA** | 鼻咽气道 |
+| **BVM** | 面罩气囊 |
+| **NRB** | 非再呼吸面罩 |
+| **O2** | 氧气供应 |
+| **Suction** | 清理气道 |
 
-### Surgical (advanced, KKM)
+### 手术(进阶,KKM)
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **Scalpel** | Cut |
-| **Clamp** | Surgical clamp |
-| **Anesthetic** | Anaesthesia |
-| **Skit** | Surgical kit |
+| **Scalpel** | 切 |
+| **Clamp** | 外科钳 |
+| **Anesthetic** | 麻醉 |
+| **Skit** | 手术包 |
 
-### Other
+### 其他
 
-| Item | Purpose |
+| 物品 | 用途 |
 | --- | --- |
-| **Defib** | Defibrillator — restart flatlined heart |
+| **Defib** | 除颤器 — 重启心跳停止的心脏 |
 
 ---
 
-## Getting healed
+## 接受治疗
 
-### Self-heal (civilians)
+### 自我治疗(平民)
 
-- **Passive regen:** 1% of max HP per second (applied in 3-second ticks of 3% each) when not actively being healed (`TraumaKitHealing` pauses it) and not bleeding.
-- **Bandage yourself** — slows bleed, adds some HP.
-- **Drink / food** — minor boost.
+- **被动回血:** 每秒恢复最大 HP 的 1%(每 3 秒以 3% 为一 tick 结算),前提是没在被主动治疗中(`TraumaKitHealing` 会暂停它)而且没在流血。
+- **自己包扎** — 减缓流血,恢复一些 HP。
+- **喝 / 吃** — 小幅提升。
 
-### Medic-heal (KKM / SJAM)
+### 医护治疗 (KKM / SJAM)
 
-A medic can:
+医护人员可以:
 
-1. **Stop the bleed** with a tourniquet or bandage.
-2. **Restore blood** with a blood bag.
-3. **Relieve pain** with morphine.
-4. **Defib** if your heart stopped.
-5. **Perform surgery** (KKM only) — scalpel, anaesthetic, suture.
+1. **止血** — 用止血带或绷带。
+2. **补血** — 用血袋。
+3. **止痛** — 用吗啡。
+4. **Defib** — 如果你的心跳停了。
+5. **做手术**(只有 KKM)— 手术刀、麻醉、缝合。
 
-Sit tight and don't run away.
+坐好别乱跑。
 
-### Bleedout timer
+### Bleedout 计时
 
-- **KKM or SJAM online** (teams: Institutional white / Forest green): 5-minute bleedout window once downed. Passive regen is disabled — medics have to save you.
-- **No medics online:** you can respawn whenever (the game doesn't hold you hostage if there's no medic).
+- **KKM 或 SJAM 在线**(队伍:Institutional white / Forest green):倒下之后有 5 分钟 bleedout 窗口。被动回血会被禁用 — 必须靠医护人员救你。
+- **没有医护在线:** 你可以随时 respawn(没医护的话,游戏不会把你扣着)。
 
-### Reset button
+### 重置按钮
 
-The reset button is **disabled at 75 HP or below** — this is to stop **RTAA** (resetting to avoid arrest). If you're injured, fight through it or wait for a medic.
+重置按钮在 **75 HP 或以下会被禁用** — 这是为了阻止 **RTAA**(reset 来逃避逮捕)。如果你受伤了,硬撑过去或等医护。
 
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
-
----
-
-## Hardpoint — capture / raid gamemode
-
-**Hardpoint** is a capture-point gamemode reserved almost entirely for **OCG vs OCG** group events. It's not an everyday feature — it runs when an OCG leader triggers a raid.
-
-How it works (verified):
-
-- An OCG leader (rank 150+ in the main OCG group) types **`:startraid <Defenders> <Hostiles>`** in chat, picking two of: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
-- The **Point** (a capture trigger in `Workspace.HardPoints`) activates — becomes visible, trigger goes solid.
-- Players in the designated defender / hostile groups touch the trigger to capture for their team. Dead players can't capture (`DeathCap = false`).
-- **Timer:** 300 seconds on the active point. Teams accumulate score while they hold it.
-- **Win threshold:** 1250 points, or an OCG admin types **`:cancelraid`**.
-- **HardpointUI** shows two progress bars (Home / Away) + announcement frame + score + timer.
-
-If you're not OCG, you can watch but not score. PDRM / KPTD / BOMBA / KKM don't participate.
+见 [Arrest & Law](/bandaraya/arrest-and-law#rtaa)。
 
 ---
 
-## Tips & gotchas
+## Hardpoint — 占点 / 突袭游戏模式
 
-- **Cover is not obvious.** Transparent parts don't stop bullets. Crouch behind something solid and named.
-- **Helmets save heads.** If you're going into a firefight, wear one.
-- **KKM or SJAM online means 5-minute bleedouts.** If no medic team is online, you can respawn faster.
-- **Reset is anti-RTAA at or below 75 HP.** Don't try.
-- **Your pain stat persists until healed.** Blur and slowdown stick around.
-- **Don't shoot first as a public service team.** It's a severe violation.
-- **Gun shop cooldowns.** 5 minutes between purchases at Ammulaysia and Illegal Dealer. The cooldown also resets on rejoin to stop abuse.
+**Hardpoint** 是一个占点游戏模式,基本上完全保留给 **OCG vs OCG** 的团体活动。它不是日常功能 — 只有 OCG 领袖发起突袭时才会运行。
 
-## See also
+运作方式(已验证):
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — detainment, arrest mechanics, LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM roles
-- [Economy](/bandaraya/economy) — Ammulaysia and Illegal Dealer shops
+- 一位 OCG 领袖(主 OCG 团队中 rank 150+)在聊天栏输入 **`:startraid <Defenders> <Hostiles>`**,从以下两个选项中选:`BC`(Basilicata Camorra)、`OCG-Beta`、`Nightraiders`、`Ekstranet`。
+- **Point**(`Workspace.HardPoints` 中的占点触发器)启动 — 变成可见,触发器变成实体。
+- 指定的 defender / hostile 队伍的玩家碰触发器来为自己队伍占点。死掉的玩家不能占点 (`DeathCap = false`)。
+- **计时:** 启用的点上是 300 秒。队伍占着的时候会累计分数。
+- **获胜门槛:** 1250 分,或者 OCG admin 输入 **`:cancelraid`**。
+- **HardpointUI** 显示两条进度条(Home / Away) + 公告框 + 分数 + 计时。
+
+如果你不是 OCG,你可以看但不能得分。PDRM / KPTD / BOMBA / KKM 不参加。
+
+---
+
+## 小贴士 & 陷阱
+
+- **掩护不一定显眼。** 透明部件挡不住子弹。蹲在结实的、有命名的东西后面。
+- **头盔救命。** 要去打枪战,戴一个。
+- **KKM 或 SJAM 在线就是 5 分钟 bleedout。** 如果没有医护团队在线,你可以更快 respawn。
+- **重置在 75 HP 或以下会反 RTAA。** 别试。
+- **你的疼痛属性在治疗前一直都在。** Blur 和减速不会消失。
+- **作为公共服务团队,别先开枪。** 这是严重违规。
+- **枪店冷却时间。** Ammulaysia 和 Illegal Dealer 购买之间要等 5 分钟。重新加入时冷却时间也会重置以防滥用。
+
+## 另见
+
+- [Arrest & Law](/bandaraya/arrest-and-law) — 拘留、逮捕机制、LTAA / RTAA
+- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM 角色
+- [Economy](/bandaraya/economy) — Ammulaysia 和 Illegal Dealer 店铺
 - [Gamepasses](/bandaraya/gamepasses) — Firearms Licence
-- [Vehicles](/bandaraya/vehicles) — bulletproof vehicle list
-- [Rules](/bandaraya/rules) — combat etiquette and severe violations
+- [Vehicles](/bandaraya/vehicles) — 防弹车辆列表
+- [Rules](/bandaraya/rules) — 战斗礼仪和严重违规

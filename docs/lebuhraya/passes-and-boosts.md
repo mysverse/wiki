@@ -28,6 +28,10 @@ A permanent **+50% XP** on everything you do. Stacks with all other XP multiplie
 
 For players who plan on playing Lebuhraya long-term, this is one of the best-value gamepasses.
 
+## Workshop gamepass
+
+Unlocks the paint and body customisation menu at **Gravstone Workshop** in Bandar Seri Putra. With it, you can recolour your vehicle's body, windows, tyres, and rims through a real-time colour picker. Without it, the workshop prompts you to buy before letting you change anything.
+
 ## Other gamepass perks
 
 Smaller gamepasses and dev products may exist for:

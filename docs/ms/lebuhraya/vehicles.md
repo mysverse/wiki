@@ -1,133 +1,152 @@
 ---
-title: Vehicles
+title: Kenderaan
 description: >-
-  All 127 vehicle models in Lebuhraya — spawning, fuel, crashing, and
-  customization.
+  Kesemua 127 model kenderaan di Lebuhraya — menghasilkan, bahan api,
+  perlanggaran, dan penyesuaian.
 lang: ms
-translated_from_hash: f3c95fcd
+translated_from_hash: 56b064fb
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kenderaan
 
-# Vehicles
+Lebuhraya hadir dengan **127 model kenderaan** — kereta kompak, SUV, motosikal, trak, bas, dan senarai panjang varian kecemasan / perkhidmatan. Halaman ini meliputi cara untuk menghasilkannya, mengisi bahan api, apa yang perlu dilakukan apabila anda terlibat dalam perlanggaran, dan contoh apa yang ada di garaj.
 
-Lebuhraya ships with **127 vehicle models** — compact cars, SUVs, motorcycles, trucks, buses, and a long list of emergency / service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
+## Menghasilkan kenderaan
 
-## Spawning a vehicle
+Buka menu **MyPod** (penghasil kenderaan).
 
-Open the **MyPod** menu (vehicle spawner).
+- **Desktop**: klik ikon MyPod pada bar atas
+- **Mudah alih**: ketik ikon dalam kelompok atas
 
-- **Desktop**: click the MyPod icon on the topbar
-- **Mobile**: tap the icon in the top cluster
+Layari senarai, pilih kenderaan, dan klik **Spawn**. Kenderaan akan muncul di hadapan anda, sudah pun didaftarkan atas nama anda. Untuk memandu, hampiri dan tekan **F** (papan kekunci), **X** (gamepad), atau ketik **Drive** (mudah alih).
 
-Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears in front of you, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
+### Pemilikan
 
-### Ownership
+- Apabila anda menghasilkan kenderaan, anda menjadi pemiliknya. Nama anda tertera pada tempat duduk pemandu.
+- Pemain lain **tidak boleh masuk ke tempat duduk pemandu anda** melainkan anda membuka kuncinya.
+- Penumpang sentiasa boleh masuk ke tempat duduk penumpang.
+- Apabila anda meninggalkan server, kenderaan anda akan hilang.
+- Anda boleh nyahhasilkan kenderaan anda sendiri dari menu MyPod.
 
-- When you spawn a vehicle, you become its owner. Your name is on the driver seat.
-- Other players **cannot enter your driver seat** unless you unlock it.
-- Passengers can always enter passenger seats.
-- When you leave the server, your vehicle disappears.
-- You can despawn your own vehicle from the MyPod menu.
+## Apa yang boleh saya pandu pada Tahap 1?
 
-## What can I drive at Level 1?
+Anda mempunyai akses kepada **27 kenderaan** dari mula — cukup untuk mencari sesuatu yang anda gemari. Yang termurah ialah motosikal **Handai EX5** dengan harga BR 1050. Pilihan permulaan Premium / supercar termasuk NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), dan McLari 750 (BR 3,000) — lebih murah daripada harga sebenar, tetapi kebanyakannya kategori "Special" (tidak boleh ditingkatkan). Kereta awam Tahap 1 yang lebih biasa berada sekitar BR 1,800–6,000.
 
-You have access to **27 vehicles** from the start — enough to find something you like. The cheapest is the **Handai EX5** motorcycle at BR 1050. Premium / supercar starters include the NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), and McLari 750 (BR 3,000) — cheaper than they would be in reality, but most are "Special" category (not upgradeable). The more common Level 1 civilian cars sit around BR 1,800–6,000.
+## Harga dan buka kunci
 
-## Pricing and unlocks
+Harga kenderaan diukur secara longgar mengikut tahap. Panduan kasar:
 
-Vehicle prices scale loosely with level. Rough guide:
-
-| Level | Typical price range |
+| Tahap | Julat harga tipikal |
 |---|---|
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
-| L125–150+ | BR 17,000 – 25,000 (Prem/Supercar territory) |
+| L125–150+ | BR 17,000 – 25,000 (kawasan Prem/Supercar) |
 
-Some team-only vehicles don't have a public price — they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
+Sesetengah kenderaan khusus pasukan tidak mempunyai harga umum — ia dibuka apabila anda naik pangkat dalam cabang kerjaya yang betul. Kira-kira **55 daripada 117 kenderaan yang boleh dihasilkan** dikunci kerjaya (anda perlu berada dalam pasukan yang betul pada tahap yang betul).
 
-About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner — these are the standard civilian choices from Myvi to Mustang.
+Kira-kira **28 kenderaan** dijual melalui paparan **Dealership** dalam penghasil kenderaan — ini adalah pilihan awam standard dari Myvi hingga Mustang.
 
-## Vehicle categories
+## Kategori kenderaan
 
-Most of the fleet is loosely parodied from real Malaysian and global brands. If you know a real car, there's probably a stand-in here.
+Kebanyakan armada secara longgar diparodikan daripada jenama Malaysia dan global sebenar. Jika anda mengenali kereta sebenar, mungkin ada penggantinya di sini.
 
-| Category | Examples |
+| Kategori | Contoh |
 |---|---|
-| Compact cars | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
-| Sedans / saloons | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
-| SUVs | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
-| Performance / sports | NSN GT-R, NSN R34 Skyline, Tayoti Supra Mk.5, Masubi Lancer Evo X, Felari 458 Italia, Lampugini Hulakan, Bagaini Chiron |
-| Motorcycles | Handai EX5, Handai CBR1000RR, Kasaki 1400GTR, BMY R1200RT, Vespi |
-| Buses / MPVs | Tayoti Hiace variants, Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
-| Trucks / cargo | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
-| Taxis | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
-| Emergency — Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
-| Emergency — Medical | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
-| Police | Handai Civic Polis/HPV Polis variants, Masubi Lancer HPV Polis, NSN etc. Polis Escort, Kasaki Ninja Polis, BMY M5 CS Polis variants |
-| Tow / workshop | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
-| Electric | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
+| Kereta kompak | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
+| Sedan / saloon | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
+| SUV | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
+| Prestasi / sukan | NSN GT-R, NSN R34 Skyline, Tayoti Supra Mk.5, Masubi Lancer Evo X, Felari 458 Italia, Lampugini Hulakan, Bagaini Chiron |
+| Motosikal | Handai EX5, Handai CBR1000RR, Kasaki 1400GTR, BMY R1200RT, Vespi |
+| Bas / MPV | Varian Tayoti Hiace, Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
+| Trak / kargo | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
+| Teksi | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
+| Kecemasan — Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
+| Kecemasan — Perubatan | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
+| Polis | Varian Handai Civic Polis/HPV Polis, Masubi Lancer HPV Polis, NSN dll. Polis Escort, Kasaki Ninja Polis, varian BMY M5 CS Polis |
+| Tunda / bengkel | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
+| Elektrik | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
 
-Most team-specific vehicles (Bomba, KKN, Police) are unlocked through your career progression or team gamepass.
+Kebanyakan kenderaan khusus pasukan (Bomba, KKN, Polis) dibuka melalui kemajuan kerjaya anda atau gamepass pasukan.
 
-## Fuel
+## Bahan api
 
-Every vehicle runs on one of three fuel types.
+Setiap kenderaan menggunakan salah satu daripada tiga jenis bahan api.
 
-| Fuel | Price per litre |
+| Bahan api | Harga seliter |
 |---|---|
-| **Electric** | 1 BR |
+| **Elektrik** | 1 BR |
 | **Petrol** | 2 BR |
 | **Diesel** | 3 BR |
 
-The default tank is **40 litres**. A JerryCan carries 10 litres.
+Tangki lalai ialah **40 liter**. JerryCan menampung 10 liter.
 
-### Refuelling
+### Mengisi semula bahan api
 
-Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses — if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans — pick the right fuel type before approaching the pump.
+Hampiri pam, dan gesaan pada skrin akan muncul untuk "Pump" atau "Charge." Gesaan hanya muncul untuk jenis bahan api yang digunakan oleh kenderaan anda — jika anda hampiri pam diesel dengan kereta petrol, permainan akan memberitahu anda "this is the wrong type of pump, find a Petrol Pump." Begitu juga dengan JerryCan — pilih jenis bahan api yang betul sebelum menghampiri pam.
 
-### Where to refuel
+### Tempat untuk mengisi bahan api
 
-- **PETROMAS Petrol Station** — Northbound and Southbound stations on the highway
-- **Radtrol Petrol Station** — In Bandar Seri Putra
-- **Kompleks Petroliam dan Gas Radtrol** — Large refuelling complex near Jersik
+- **Stesen Minyak PETROMAS** — Stesen Arah Utara dan Arah Selatan di lebuh raya
+- **Stesen Minyak Radtrol** — Di Bandar Seri Putra
+- **Kompleks Petroliam dan Gas Radtrol** — Kompleks pengisian besar berhampiran Jersik
 
-### Running out
+### Kehabisan bahan api
 
-If your tank hits zero, the engine cuts out. Options:
+Jika tangki anda mencapai sifar, enjin akan terhenti. Pilihan:
 
-1. Buy a JerryCan at the **Jerrycan Shop**, fill it at a station, and refuel manually.
-2. Despawn the vehicle and spawn a fresh one from MyPod.
-3. Ask a KEMRonda player for a tow.
+1. Beli JerryCan di **Jerrycan Shop**, isi di stesen, dan isi semula secara manual.
+2. Nyahhasilkan kenderaan dan hasilkan yang baru dari MyPod.
+3. Minta pemain KEMRonda untuk menundanya.
 
-## Crashing and repairs
+## Perlanggaran dan pembaikan
 
-Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
+Kenderaan menerima kerosakan daripada perlanggaran. Kereta yang rosak teruk akan mula berasap, kehilangan prestasi, atau berhenti sepenuhnya.
 
-### Your options
+### Pilihan anda
 
-- **Get repaired at a workshop**. **Gravstone Workshop** in Bandar Seri Putra is the go-to.
-- **Call a tow**. KEMRonda and workshop-licensed players can tow your vehicle.
-- **Despawn and respawn**. You'll lose the damaged vehicle, but you can spawn a fresh one.
+- **Pandu ke zon pembaikan**. Terdapat **10 zon pembaikan** yang bertaburan di seluruh peta — cari penunjuk pembaikan hijau. Berhenti di dalam zon akan memulihkan kenderaan anda secara beransur-ansur (kira-kira 10% nyawa setiap 5 saat). Gesaan pengesahan muncul pada skrin apabila anda masuk.
+- **Panggil tundaan**. Pemain KEMRonda dengan trak tunda boleh menarik anda ke bengkel.
+- **Nyahhasilkan dan hasilkan semula**. Dari menu MyPod anda boleh nyahhasilkan kenderaan yang rosak dan hasilkan yang baru. Pilihan terpantas jika anda tergesa-gesa.
 
-If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens — that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
+Jika anda baru dan perlanggaran terasa menggerunkan, anda akan melihat **Crash Tutorial** kali pertama ia berlaku — itulah panduan pengenalan dalam permainan anda. Pandu dengan berhati-hati, gunakan brek tangan (**Space**) anda, dan ambil kelajuan lebuh raya Malaysia dengan secubit garam.
 
-## Customisation
+## Penyesuaian di Gravstone Workshop
 
-Vehicle customisation depends on the specific model. Common options include:
+**Gravstone Workshop** di Bandar Seri Putra ialah kedai cat dan penyesuaian visual permainan — **bukan** pusat pembaikan. Pandu kenderaan anda ke zon dalaman bengkel dan GUI bengkel akan muncul dengan pilihan cat dan badan.
 
-- Paint colour
-- Number plates
-- Body accessories
+- **Akses memerlukan gamepass Workshop.** Jika anda tidak memilikinya, permainan akan menggesa anda untuk membeli apabila anda membuka pilihan cat.
+- **Zon cat** yang boleh anda warnakan semula termasuk badan, tingkap, tayar, dan rim — setiap satu mengambil warna berasingan.
+- **Pemilih warna**: seret rona, ketepuan, dan nilai; kereta dikemas kini dalam masa nyata semasa anda menyesuaikan. Klik Confirm untuk menggunakan; Cancel untuk membuang.
 
-Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
+Cat yang disimpan di sini digunakan pada kenderaan anda yang sedang dihasilkan untuk tempoh sesi tersebut. Cat yang boleh dibuka kunci (chrome, gradient, matte — lihat *Passes and Boosts*) digunakan melalui menu berasingan.
 
-## Advanced vehicle controls
+## Penyesuaian
 
-Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
+Penyesuaian kenderaan bergantung kepada model tertentu. Pilihan biasa termasuk:
 
-| Vehicle | Team | Panel |
+- Warna cat
+- Plat nombor
+- Aksesori badan
+
+Rujuk menu kenderaan dalam permainan (sesetengah kereta mempunyai panel sesuaikan, sesetengah tidak). Kenderaan keluaran pasukan (Polis, Bomba) biasanya dikunci pada livery pasukan.
+
+## Lampu kecemasan (ELS)
+
+Semua kenderaan pasukan kecemasan (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) membawa lightbar yang menggunakan ELS (Emergency Lighting System) permainan. Mengaktifkan ELS:
+
+- Memainkan salah satu daripada **tiga corak kelipan** — silih ganti pantas, silih ganti perlahan, dan kompleks pantas.
+- Direplikasi kepada semua pemain dalam server supaya semua orang melihat lampu anda.
+- Memberi **kekebalan** perangkap kelajuan tersirat — jika anda melebihi 200 stud/s dengan ELS aktif, anda tidak akan mendapat kesalahan Memandu Laju (sambutan kecemasan sedang berlangsung). Jangan salah guna ini; anti-cheat masih memerhati.
+
+Gunakan ELS hanya apabila menjawab insiden. Bersiar-siar dengan lampu menyala adalah pantang larang etika komuniti.
+
+## Kawalan kenderaan lanjutan
+
+Enam kenderaan khusus mempunyai **panel tunda/winch** — HUD landskap mesra mudah alih yang muncul apabila anda berinteraksi dengan panel kawalan di dalam kabin:
+
+| Kenderaan | Pasukan | Panel |
 |---|---|---|
 | iZu Tow Truck KEMRonda | KEMRonda | Tow Boom Controls |
 | iZu Tow Bed KEMRonda | KEMRonda | Flatbed Controls |
@@ -136,24 +155,24 @@ Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landsc
 | Sanica P310 FRT Bomba | Bomba | Ladder Winch Controls |
 | Sanica 94D LFRT Bomba | Bomba | Ladder Winch Controls |
 
-**Keyboard shortcuts** (once the panel is open):
+**Pintasan papan kekunci** (sebaik sahaja panel terbuka):
 
-| Key | Action |
+| Kekunci | Tindakan |
 |---|---|
-| **1** | Toggle Attach mode for Winch 1 (click a vehicle/part to target it) |
-| **2** | Toggle Attach mode for Winch 2 (flatbeds/wreckers with a second winch) |
-| **X** | Cancel attach mode |
-| **Z** | Weld (fuses the attached vehicle to yours) |
-| **V** | Release / unweld |
-| **[** | Lower bed / ramp |
-| **]** | Raise bed / ramp |
+| **1** | Togol mod Attach untuk Winch 1 (klik kenderaan/bahagian untuk menyasarkannya) |
+| **2** | Togol mod Attach untuk Winch 2 (flatbed/wrecker dengan winch kedua) |
+| **X** | Batal mod attach |
+| **Z** | Weld (mengabungkan kenderaan yang dilampirkan dengan anda) |
+| **V** | Lepas / nyah-weld |
+| **[** | Turunkan katil / ramp |
+| **]** | Naikkan katil / ramp |
 
-**Access rules**: You can always use a panel if (a) you own the vehicle, (b) you're on the matching team (KEMRonda / Bomba / Kesihatan), or (c) you're an admin. Otherwise a rate-limited "Access Denied" banner appears.
+**Peraturan akses**: Anda sentiasa boleh menggunakan panel jika (a) anda memiliki kenderaan, (b) anda berada dalam pasukan yang sepadan (KEMRonda / Bomba / Kesihatan), atau (c) anda seorang admin. Jika tidak, sepanduk "Access Denied" yang dihadkan kadar akan muncul.
 
-The controls are shared across all six vehicles, so once you learn one you've learnt them all.
+Kawalan dikongsi merentasi keenam-enam kenderaan, jadi sebaik sahaja anda mempelajari satu, anda telah mempelajari kesemuanya.
 
-## Next steps
+## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) — Fuel prices in context
-- [World and Map](/lebuhraya/map) — Where to find every station
-- [Teams and Careers](/lebuhraya/teams) — Vehicles unlocked by team tier
+- [Ekonomi dan XP](/lebuhraya/economy) — Harga bahan api dalam konteks
+- [Dunia dan Peta](/lebuhraya/map) — Tempat untuk mencari setiap stesen
+- [Pasukan dan Kerjaya](/lebuhraya/teams) — Kenderaan yang dibuka mengikut tahap pasukan

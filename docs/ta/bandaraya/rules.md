@@ -1,151 +1,152 @@
 ---
-title: Rules
-description: 'What behaviour gets you banned in Bandaraya, and how appeals work.'
+title: விதிகள்
+description: >-
+  Bandaraya-வில் உங்களை தடை செய்யும் நடத்தைகள், மற்றும் மேல்முறையீடு எப்படி
+  செய்வது.
 lang: ta
 translated_from_hash: 521a0951
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# விதிகள்
 
-# Rules
+Bandaraya ஒரு roleplay விளையாட்டு. விதிகள் உள்ளன. அவற்றைப் படியுங்கள். பின்பற்றுங்கள். பின்பற்றவில்லை என்றால் நீங்கள் தடை (ban) செய்யப்படுவீர்கள்.
 
-Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
-
-The canonical rule text lives in the game (`infoModules.GameRules`). This page is a player-friendly summary.
+அதிகாரபூர்வ விதிகள் உரை விளையாட்டினுள் உள்ளது (`infoModules.GameRules`). இந்தப் பக்கம் வீரர்களுக்கு எளிதாகப் புரியும் வகையில் உள்ள சுருக்கம்.
 
 ## TL;DR
 
-- Don't exploit, glitch, or hack. Instant ban.
-- Don't go rogue on a public-services team. Instant ban.
-- Don't LTAA (leave to avoid arrest) or RTAA (reset to avoid arrest).
-- Stay in character. Respect roleplay.
-- Don't harass people, spawn-kill civilians, or violate Roblox TOS.
+- Exploit, glitch அல்லது hack செய்ய வேண்டாம். உடனடி தடை.
+- பொதுச் சேவை அணியில் இருக்கும் போது rogue ஆக மாற வேண்டாம். உடனடி தடை.
+- LTAA (கைது தவிர்க்க வெளியேறுதல்) அல்லது RTAA (கைது தவிர்க்க reset செய்தல்) செய்ய வேண்டாம்.
+- கதாபாத்திரத்தில் இருங்கள். Roleplay-ஐ மதியுங்கள்.
+- மற்றவர்களைத் தொந்தரவு செய்யாதீர்கள், பொதுமக்களை spawn-kill செய்யாதீர்கள், Roblox TOS-ஐ மீற வேண்டாம்.
 
 ---
 
-## General violations
+## பொதுவான மீறல்கள்
 
-You can be **server-banned** for any of the following:
+பின்வரும் எதற்கும் நீங்கள் **server-இல் தடை செய்யப்படலாம்**:
 
-### 1. Spam the chat
+### 1. Chat-ஐ spam செய்தல்
 
-Filling chat with repeated or meaningless text. Don't.
+Chat-ஐ மீண்டும் மீண்டும் அல்லது அர்த்தமற்ற உரையால் நிரப்புதல். செய்ய வேண்டாம்.
 
 ### 2. LTAA — Leave To Avoid Arrest
 
-Disconnecting while detained or being arrested. The game auto-applies a 3-minute arrest when you rejoin, and LTAA is still treated as a rule violation on top. See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
+தடுத்து வைக்கப்பட்டிருக்கும் போது அல்லது கைது செய்யப்படும் போது இணைப்பை துண்டித்தல். நீங்கள் மீண்டும் சேரும்போது விளையாட்டு தானாகவே 3 நிமிட கைதை வழங்கும், ஆனாலும் LTAA மேலதிக விதி மீறலாகவே கருதப்படும். [கைது & சட்டம்](/bandaraya/arrest-and-law#ltaa) பார்க்கவும்.
 
 ### 3. RTAA — Reset To Avoid Arrest
 
-Using the reset button to escape. The game now disables reset at 75 HP or below to stop this. Attempts still count. See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+தப்பிக்க reset பட்டனைப் பயன்படுத்துதல். இதைத் தடுக்க, 75 HP அல்லது அதற்குக் குறைவான நிலையில் விளையாட்டு இப்போது reset-ஐ முடக்குகிறது. முயற்சிகளும் கணக்கில் கொள்ளப்படும். [கைது & சட்டம்](/bandaraya/arrest-and-law#rtaa) பார்க்கவும்.
 
-### 4. Glitch abuse
+### 4. Glitch துஷ்பிரயோகம்
 
-- Glitching through walls or restricted areas
-- Glitching any vehicle (making it behave unnaturally to gain advantage)
-- Glitching or abusing tools whilst detained, injured, or being arrested
-- Any other glitches as determined by a moderator or administrator
+- சுவர்கள் அல்லது தடைசெய்யப்பட்ட பகுதிகள் வழியாக glitch செய்தல்
+- எந்த ஒரு வாகனத்தையும் glitch செய்தல் (சாதகம் பெற அது இயற்கைக்கு மாறாக நடந்து கொள்ளச் செய்தல்)
+- தடுத்து வைக்கப்பட்டிருக்கும் போது, காயம்பட்ட நிலையில், அல்லது கைது செய்யப்படும் போது கருவிகளை glitch செய்தல் அல்லது தவறாகப் பயன்படுத்துதல்
+- Moderator அல்லது administrator-ஆல் தீர்மானிக்கப்படும் வேறு எந்த glitch-களும்
 
-### 5. Trolling / harassment
+### 5. Trolling / தொந்தரவு
 
-- Following and continuously harassing a person
-- Intentionally glitching or breaking another player's vehicle
-- Any other harassment as determined by a moderator or administrator
+- ஒருவரைப் பின்தொடர்ந்து தொடர்ந்து தொந்தரவு செய்தல்
+- மற்றொரு வீரரின் வாகனத்தை வேண்டுமென்றே glitch செய்தல் அல்லது உடைத்தல்
+- Moderator அல்லது administrator-ஆல் தீர்மானிக்கப்படும் வேறு எந்த தொந்தரவும்
 
 ### 6. Spawn-kill
 
-Applies only to civilians. Killing people as they spawn is banable.
+பொதுமக்களுக்கு மட்டுமே பொருந்தும். வீரர்கள் spawn ஆகும் போது அவர்களைக் கொல்வது தடை செய்யத்தக்கது.
 
-### 7. Abuse job-related teams
+### 7. தொழில் தொடர்பான அணிகளைத் துஷ்பிரயோகம் செய்தல்
 
-Using transport, postal, tow, or other job teams to commit criminal or terrorist activities.
+குற்றம் அல்லது பயங்கரவாத நடவடிக்கைகளைச் செய்ய transport, postal, tow அல்லது பிற தொழில் அணிகளைப் பயன்படுத்துதல்.
 
-### 8. Interrupting roleplay or admin scenarios
+### 8. Roleplay அல்லது admin காட்சிகளை குறுக்கிடுதல்
 
-Don't walk into someone's arrest scene and start screaming. Don't interrupt a mod scene.
+யாரோ ஒருவரின் கைது காட்சிக்குள் நடந்து சென்று கத்த ஆரம்பிக்காதீர்கள். Mod காட்சியை குறுக்கிடாதீர்கள்.
 
-### 9. Harass administrators
+### 9. Administrators-ஐ தொந்தரவு செய்தல்
 
-Don't abuse or harass a mod while they're moderating.
+ஒரு mod moderation செய்து கொண்டிருக்கும் போது அவரைத் துஷ்பிரயோகம் செய்யவோ தொந்தரவு செய்யவோ வேண்டாம்.
 
 ---
 
-## Severe violations
+## கடுமையான மீறல்கள்
 
-You can be **banned for an extended period or permanently** for any of these:
+இவற்றுள் எதற்கும் நீங்கள் **நீண்டகாலத்திற்கு அல்லது நிரந்தரமாகத் தடை செய்யப்படலாம்**:
 
-### 1. Using exploits
+### 1. Exploits-ஐப் பயன்படுத்துதல்
 
-Client-side cheats, aimbots, speed hacks, weapon-damage multipliers. The anti-cheat will catch and kick you. Persistent attempts = permanent ban.
+Client-side cheats, aimbots, speed hacks, ஆயுத damage பெருக்கிகள். Anti-cheat உங்களைக் கண்டறிந்து kick செய்யும். தொடர் முயற்சிகள் = நிரந்தர தடை.
 
-### 2. Repeated general violations
+### 2. மீண்டும் மீண்டும் பொதுவான மீறல்கள்
 
-Keep doing small things wrong? Severe ban.
+சிறிய தவறுகளைத் தொடர்ந்து செய்கிறீர்களா? கடுமையான தடை.
 
-### 3. Going rogue on public services
+### 3. பொதுச் சேவைகளில் rogue ஆக மாறுதல்
 
-If you're on **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
+நீங்கள் **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, அல்லது வேறு எந்தப் பொதுச் சேவை அணியிலும் இருந்து குற்றம் செய்தால், அது கடுமையான மீறலாகும். சீருடை அணியுங்கள், பாத்திரத்தை நடித்துக் காட்டுங்கள்.
 
-### 4. Ban evasion
+### 4. தடையைத் தவிர்த்தல் (Ban evasion)
 
-- Using an alternative account to avoid a ban
-- Playing under someone else's login after you've been banned
+- தடையைத் தவிர்க்க மாற்று account-ஐப் பயன்படுத்துதல்
+- நீங்கள் தடை செய்யப்பட்ட பிறகு மற்றொருவரின் login-இல் விளையாடுதல்
 
-Ban evasion is taken very seriously.
+Ban evasion மிகவும் கண்டிப்பாக எடுத்துக் கொள்ளப்படுகிறது.
 
-### 5. Sharing personal information
+### 5. தனிப்பட்ட தகவலைப் பகிர்தல்
 
-Don't dox. Don't share anyone's personal details — yours or others'.
+Dox செய்ய வேண்டாம். உங்களுடையதாக இருந்தாலும் மற்றவர்களுடையதாக இருந்தாலும், யாருடைய தனிப்பட்ட விவரங்களையும் பகிர வேண்டாம்.
 
-### 6. Violate Roblox Terms of Service
+### 6. Roblox Terms of Service-ஐ மீறுதல்
 
-- **Racism** — including coded racism
-- **Discussing topics of sensitive nature**
-- **NSFW** content of any kind
+- **இனவெறி** — மறைமுக இனவெறி உட்பட
+- **உணர்வுபூர்வமான தலைப்புகளைப் பற்றி விவாதித்தல்**
+- எந்த விதமான **NSFW** உள்ளடக்கமும்
 - **Online-dating**
-- Any other messages, symbols, or media deemed inappropriate
+- பொருத்தமற்றதாகக் கருதப்படும் வேறு எந்த செய்திகள், சின்னங்கள் அல்லது ஊடகங்கள்
 
-If Roblox itself wouldn't allow it, Bandaraya doesn't allow it.
-
----
-
-## Roleplay etiquette
-
-These aren't formal rules, but they keep the game fun:
-
-- **Stay in character.** Use roleplay dialogue, not OOC chatter during scenes.
-- **Respect scenes.** If police are arresting someone, don't interrupt unless you're part of the roleplay.
-- **Drive like it matters.** You're in KL, not Rocket League.
-- **Use radio for in-character communication.** The radio module supports STT/TTS for immersion.
-- **Don't metagame.** Don't use knowledge your character wouldn't have (e.g., seeing a player's team from out-of-character info).
-- **Don't mix OOC and IC.** Out-of-character discussions belong in OOC-tagged messages or Discord, not IC chat.
+Roblox-ஆலேயே அனுமதிக்கப்படாதது எதுவாக இருந்தாலும், Bandaraya-வில் அது அனுமதிக்கப்படாது.
 
 ---
 
-## Appeals
+## Roleplay ஒழுங்குமுறை
 
-Any ban, permanent or temporary, can be appealed.
+இவை முறையான விதிகள் அல்ல, ஆனால் விளையாட்டை வேடிக்கையாக வைத்திருக்கின்றன:
 
-1. Join the **Malaysia community server**.
-2. Contact a moderator or administrator.
-3. Appeals go through the **Moderation server**.
-
-**Note:** bans are **NOT appealable by way of judicial review.** Moderators have the final call.
+- **கதாபாத்திரத்தில் இருங்கள்.** காட்சிகளின் போது OOC அரட்டை அல்ல, roleplay உரையாடலைப் பயன்படுத்துங்கள்.
+- **காட்சிகளை மதியுங்கள்.** POLIS யாரையாவது கைது செய்து கொண்டிருந்தால், நீங்கள் roleplay-ன் ஒரு பகுதியாக இல்லாவிட்டால் குறுக்கிடாதீர்கள்.
+- **முக்கியத்துவம் தருவதாக ஓட்டுங்கள்.** நீங்கள் KL-இல் இருக்கிறீர்கள், Rocket League-இல் அல்ல.
+- **கதாபாத்திர-உள் தொடர்புக்கு radio பயன்படுத்துங்கள்.** Radio module இமர்ஷன் (immersion)-க்காக STT/TTS-ஐ ஆதரிக்கிறது.
+- **Metagame செய்ய வேண்டாம்.** உங்கள் கதாபாத்திரத்துக்கு இருக்க வேண்டிய அறிவு அல்லாத தகவலைப் பயன்படுத்த வேண்டாம் (உதா., கதாபாத்திரத்திற்கு வெளியான தகவலிலிருந்து ஒரு வீரரின் அணியைப் பார்ப்பது).
+- **OOC-ஐ IC உடன் கலக்க வேண்டாம்.** கதாபாத்திரத்திற்கு வெளியான விவாதங்கள் OOC-tag செய்யப்பட்ட செய்திகள் அல்லது Discord-க்குத்தான் சொந்தம், IC chat-க்கு அல்ல.
 
 ---
 
-## Tips & gotchas
+## மேல்முறையீடுகள்
 
-- **The anti-cheat has been tuned.** Legitimate combat won't kick you (weapon DPS threshold is 3000+; fire rate tolerance is up to 40 shots/sec). If you get kicked unfairly, the kick message includes a tag (RL, MV, WM) — take that to moderators for a quick resolution.
-- **Legitimate teleports and lifts are whitelisted** — you won't get kicked for using the Aries Hotel lift or IPD Dang Wangi's elevators.
-- **Discord logging tracks most actions** — tow clamps, arrests, damage events. Don't try to exploit and cover your tracks.
-- **The game logs kills** for moderation review (added in v3.12.15).
-- **Account-age gate:** you need at least 60 days of Roblox account age to play (set in v3.9.0 to combat bot/new-account abuse).
-- **Stay safe, play fair.** That's it.
+நிரந்தரமோ தற்காலிகமோ எந்த தடையையும் மேல்முறையீடு செய்யலாம்.
 
-## See also
+1. **Malaysia community server**-இல் சேருங்கள்.
+2. Moderator அல்லது administrator-ஐத் தொடர்பு கொள்ளுங்கள்.
+3. மேல்முறையீடுகள் **Moderation server** வழியாகக் கையாளப்படுகின்றன.
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
-- [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
-- [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: `infoModules.GameRules` (in-game)
+**குறிப்பு:** தடைகள் **நீதி மறுஆய்வு மூலம் மேல்முறையீடு செய்ய முடியாதவை.** Moderators-இன் தீர்மானமே இறுதியானது.
+
+---
+
+## குறிப்புகள் & கவனிக்க வேண்டியவை
+
+- **Anti-cheat சரிசெய்யப்பட்டுள்ளது.** நியாயமான போர் உங்களை kick செய்யாது (ஆயுத DPS வரம்பு 3000+; துப்பாக்கிச் சுடும் வேகத்தின் சகிப்புத்தன்மை வினாடிக்கு 40 சுடுகள் வரை). நீங்கள் நியாயமற்ற முறையில் kick செய்யப்பட்டால், kick செய்தியில் ஒரு tag (RL, MV, WM) இருக்கும் — விரைவான தீர்வுக்கு அதை moderators-க்குக் கொண்டு செல்லுங்கள்.
+- **நியாயமான teleports மற்றும் lifts whitelist செய்யப்பட்டுள்ளன** — Aries Hotel lift அல்லது IPD Dang Wangi-யின் elevators-ஐப் பயன்படுத்தியதற்காக நீங்கள் kick செய்யப்பட மாட்டீர்கள்.
+- **Discord logging பெரும்பாலான செயல்களை கண்காணிக்கிறது** — tow clamps, arrests, damage events. Exploit செய்து உங்கள் தடங்களை மறைக்க முயற்சிக்காதீர்கள்.
+- **விளையாட்டு kills-ஐ log செய்கிறது** moderation மறுஆய்வுக்காக (v3.12.15-இல் சேர்க்கப்பட்டது).
+- **Account-age வரம்பு:** விளையாட குறைந்தது 60 நாட்கள் Roblox account வயது தேவை (bot/புதிய account துஷ்பிரயோகத்தை எதிர்த்துப் போராட v3.9.0-இல் அமைக்கப்பட்டது).
+- **பாதுகாப்பாக இருங்கள், நியாயமாக விளையாடுங்கள்.** அவ்வளவுதான்.
+
+## இதையும் காண்க
+
+- [கைது & சட்டம்](/bandaraya/arrest-and-law) — LTAA / RTAA இயக்கவியல்
+- [அவசர சேவைகள்](/bandaraya/emergency-services) — rogue ஆக மாறுவதன் விளைவுகள்
+- [FAQ](/bandaraya/faq) — விதிகள் பற்றிய பொதுவான கேள்விகள்
+- அதிகாரபூர்வ விதிகள் உரை: `infoModules.GameRules` (விளையாட்டினுள்)

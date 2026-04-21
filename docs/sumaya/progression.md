@@ -76,6 +76,19 @@ Sector XP is **not** boosted - only player XP. So the boost helps your global ac
 
 This is a strong incentive to have medical players active on your server. Long grinding sessions are way more efficient when it's on.
 
+## Career outfits and kit
+
+Each emergency service team (POLIS, BOMBA, Kesihatan) has a **Careers** app flow where you equip unlocked outfits and kit items. The items are gated by your **sector level** for that team:
+
+- **Outfits** swap your character's uniform appearance (e.g. Nurse scrubs, Specialist firesuit, Ambulance Operator vest).
+- **Kit items** attach gear (belts, helmets, masks, raincoats).
+
+Locked items show "Locked (Lv. X)" in the Careers app until your sector level reaches the threshold. Example gates:
+
+- **POLIS**: Duty Belt + Beret at L1, Reflective Vest at L10, Reflective Coat at L20.
+- **BOMBA**: Respirator + SCBA at L15, EMRS at L20, various kit at L30-40, Senior Firesuit at L50, Command Helmet at L60, Calendar outfit at L67.
+- **Kesihatan**: Nurse + Medical Mask at L1, Ambulance Operator + Medikal Cap at L15, N95 at L20, Medikal Reflective Vest at L25, Scrubs + Face Shield at L30.
+
 ## Ranks
 
 Each public-service sector has **ranks** - titles that auto-update based on your sector level. They're cosmetic; they don't gate gameplay (only your level does).

@@ -1,15 +1,14 @@
 ---
-title: Shops & Economy in Bandaraya
+title: Bandaraya-வில் கடைகள் & பொருளாதாரம்
 description: >-
-  Complete guide to shops, NPC vendors, gamepasses, and the Bandaraya Ringgit
-  (BR) economy system.
+  கடைகள், NPC விற்பனையாளர்கள், கேம்பாஸ்கள், மற்றும் Bandar Ringgit (BR)
+  பொருளாதார அமைப்புக்கான முழுமையான வழிகாட்டி.
 lang: ta
 translated_from_hash: d38c9f3b
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# பந்தராயாவில் கடைகள் & பொருளாதாரம்
+# Bandaraya-வில் கடைகள் & பொருளாதாரம்
 
 பந்தராயாவில் **Bandaraya Ringgit (BR)** நாணயத்தை மையமாகக் கொண்ட வளமான விளையாட்டுக்குள் பொருளாதாரம் உள்ளது. வேலைகள் மூலம் BR சம்பாதிக்கவும், கடைகளில் செலவிடவும், விளையாட்டுக்குள் வங்கி மூலம் உங்கள் நிதியை நிர்வகிக்கவும்.
 

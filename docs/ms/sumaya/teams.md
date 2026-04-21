@@ -1,13 +1,12 @@
 ---
-title: Teams
-description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+title: Pasukan
+description: 'Lima pasukan Sumaya — Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.'
 lang: ms
 translated_from_hash: 00882afa
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Pasukan di Sumaya
+# Pasukan
 
 Sumaya mempunyai lima pasukan, masing-masing dengan peranan, alat, dan tanggungjawab yang unik. Anda boleh menukar pasukan pada bila-bila masa melalui tab **Pasukan** di menu utama.
 

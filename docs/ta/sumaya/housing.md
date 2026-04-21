@@ -1,35 +1,36 @@
 ---
-title: Housing
-description: 'Plots, templates, tiers, furniture, and selling homes in Sumaya.'
+title: வீடு
+description: >-
+  Sumaya-வில் மனைகள், டெம்ப்ளேட்கள், அடுக்குகள், அறைகலன்கள், மற்றும் வீடு
+  விற்பனை.
 lang: ta
 translated_from_hash: bb105180
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வீடு
 
-# Housing
+ஸுமாயா உங்களை ஒரு நில மனையை உரிமை கோரவும், ஒரு வீட்டை வாங்கவும், அதை அறைகலன்களால் அலங்கரிக்கவும், மற்றும் ஊடுருவுபவர்களிடமிருந்து பூட்டவும் அனுமதிக்கிறது. வீட்டுவசதி என்பது நிலையான வாங்குதல் ஆகும் - நீங்கள் ஒருமுறை வாங்கியவுடன், அந்த வீடு அனைத்து அமர்வுகளிலும் உங்களுடையதாகவே இருக்கும்.
 
-Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, and lock it up against intruders. Housing is a persistent purchase - once you buy in, your house is yours across sessions.
+## ஒரு மனையைக் கண்டுபிடித்தல்
 
-## Finding a plot
+ஸுமாயாவின் அக்கம்பக்கங்கள் (Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai போன்ற கம்பங் தெருக்கள்) **மனைகளாகப்** பிரிக்கப்பட்டுள்ளன. உரிமை கோரப்படாத மனைகள் placeholder வீடுகளாகத் தோன்றும் - அந்த மனை கிடைக்கிறது என்பதை உங்களுக்குத் தெரிவிக்கும் சிறிய காட்சி பதிலிகள்.
 
-Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show up as placeholder houses - small visual stand-ins that tell you the plot is available.
+ஒன்றை உரிமை கோர:
 
-To claim one:
+1. உங்கள் தொலைபேசியில் **Residence** செயலியைத் திறக்கவும்.
+2. கிடைக்கக்கூடிய மனைகளின் பட்டியலை உலாவுங்கள்.
+3. ஒன்றைத் தேர்ந்தெடுத்து உரிமை கோருங்கள்.
 
-1. Open the **Residence** app on your phone.
-2. Browse the list of available plots.
-3. Pick one and claim it.
+**ஒரு மனையை உரிமை கோருவது இலவசம்.** நீங்கள் தற்போது எந்த மனையையும் உரிமை கோராமல் இருக்க வேண்டும் (ஒவ்வொரு வீரருக்கும் **ஒரு நேரத்தில் ஒரு மனை** மட்டுமே வரம்பு).
 
-**Claiming a plot is free.** You just need to have no plot currently claimed (each player is limited to **one plot at a time**).
+மனைகளின் கிடைப்புத் தன்மை முதலில் வருபவருக்கு முதலில் என்ற அடிப்படையில் அமைகிறது. வேறொருவர் ஒரு மனையை உரிமை கோரினால், அவர் விற்கும் அல்லது கைவிடும் வரை அது அவர்களுக்குப் பூட்டப்பட்டிருக்கும்.
 
-Plot availability is first-come, first-served. If someone else claims a plot, it's locked to them until they sell or abandon.
+## ஒரு வீட்டைத் தேர்ந்தெடுத்தல்
 
-## Picking a house
+உங்களிடம் ஒரு மனை கிடைத்தவுடன், ஒரு வீட்டு டெம்ப்ளேட்டைத் தேர்ந்தெடுக்கவும். ஒவ்வொரு டெம்ப்ளேட்டிற்கும் ஒரு அடுக்கு மற்றும் விலை உண்டு.
 
-Once you have a plot, pick a house template. Each template has a tier and a price.
-
-### House templates
+### வீட்டு டெம்ப்ளேட்கள்
 
 | Template | Tier | Price |
 |----------|------|-------|
@@ -38,84 +39,84 @@ Once you have a plot, pick a house template. Each template has a tier and a pric
 | Spacious Bornean | Tier 2 | 500 Ringgit |
 | Modern Terrace | Tier 3 | 1,200 Ringgit |
 
-**Bornean** houses are the traditional Malaysian kampung-style homes - wooden, stilts, tropical roofing. **Modern Terrace** is the contemporary urban equivalent - multi-story, glass, clean lines.
+**Bornean** வீடுகள் பாரம்பரிய மலேசிய கம்பங் பாணி வீடுகள் - மரம், தூண்கள், வெப்பமண்டல கூரை. **Modern Terrace** என்பது சமகால நகர்ப்புற சமமானது - பல-தளம், கண்ணாடி, தூய்மையான கோடுகள்.
 
-Tier 1 is the cheapest starter option. Tier 3 is premium. Pick based on how much you want to spend and what aesthetic you like.
+Tier 1 என்பது மலிவான தொடக்கத் தேர்வு. Tier 3 பிரீமியம். நீங்கள் எவ்வளவு செலவிட விரும்புகிறீர்கள் மற்றும் எந்த அழகியலை விரும்புகிறீர்கள் என்பதன் அடிப்படையில் தேர்ந்தெடுக்கவும்.
 
-The house template you pick determines what your plot looks like from the outside. You can switch to a different template later by selling and repurchasing (you'll get 70% back - see [Selling](#selling) below).
+நீங்கள் தேர்ந்தெடுக்கும் வீட்டு டெம்ப்ளேட் உங்கள் மனை வெளியில் இருந்து எப்படித் தோற்றமளிக்கிறது என்பதை நிர்ணயிக்கிறது. நீங்கள் பின்னர் விற்று மீண்டும் வாங்குவதன் மூலம் வேறு ஒரு டெம்ப்ளேட்டிற்கு மாறலாம் (நீங்கள் 70% திரும்பப் பெறுவீர்கள் - கீழே [விற்பனை](#selling) பார்க்கவும்).
 
-## Furniture
+## அறைகலன்கள்
 
-Once you own a house, you can decorate the inside with furniture. Furniture is organized into **three tiers** matching the house tiers, though you can mix and match what you place inside.
+நீங்கள் ஒரு வீட்டைச் சொந்தமாக்கியவுடன், உள்ளே அறைகலன்களால் அலங்கரிக்கலாம். அறைகலன்கள் வீட்டு அடுக்குகளுக்கு ஒத்த **மூன்று அடுக்குகளாக** ஒழுங்கமைக்கப்பட்டுள்ளன, இருப்பினும் உள்ளே எதை வைக்கிறீர்கள் என்பதை நீங்கள் கலந்து பொருத்தலாம்.
 
-Furniture items include:
+அறைகலன் உருப்படிகள் அடங்கும்:
 
-- Sofas, chairs, tables
-- Beds, wardrobes
-- TV, appliances
-- Decor (lamps, plants, art)
+- சோஃபாக்கள், நாற்காலிகள், மேசைகள்
+- படுக்கைகள், உடைஅலமாரிகள்
+- டிவி, சாதனங்கள்
+- அலங்காரம் (விளக்குகள், தாவரங்கள், கலை)
 
-Prices vary by item; each individual piece has a price tag you'll see when browsing. Buy what you want, then place it via the Placement Mode (below).
+விலைகள் உருப்படியின்படி மாறுபடும்; ஒவ்வொரு தனி உருப்படிக்கும் நீங்கள் உலாவும்போது பார்க்கும் ஒரு விலைச் சிட்டை உள்ளது. நீங்கள் விரும்புவதை வாங்கவும், பின்னர் Placement Mode (கீழே) மூலம் அதை வைக்கவும்.
 
 ## Placement mode
 
-To decorate:
+அலங்கரிக்க:
 
-1. Open the **Residence** app.
-2. Enter **Placement Mode** for your house.
-3. Pick a furniture item from your inventory.
-4. Move it around with your cursor / finger. Items snap to a **1-stud grid** for neat alignment.
-5. Rotate to fit.
-6. Confirm to place.
-7. To remove an item, select it and delete - it goes back to your inventory.
+1. **Residence** செயலியைத் திறக்கவும்.
+2. உங்கள் வீட்டிற்கான **Placement Mode**-ஐ உள்ளிடவும்.
+3. உங்கள் சரக்கிலிருந்து ஒரு அறைகலன் உருப்படியைத் தேர்ந்தெடுக்கவும்.
+4. உங்கள் கர்சர் / விரலால் அதை நகர்த்தவும். நேர்த்தியான சீரமைப்புக்காக உருப்படிகள் **1-stud கட்டத்தில்** பொருந்தும்.
+5. பொருந்துவதற்காக சுழற்றவும்.
+6. வைக்க உறுதிப்படுத்தவும்.
+7. ஒரு உருப்படியை அகற்ற, அதைத் தேர்ந்தெடுத்து அழிக்கவும் - அது உங்கள் சரக்குக்குத் திரும்பும்.
 
-Furniture placement saves automatically. When you rejoin next session, everything is where you left it.
+அறைகலன் வைப்பு தானாகவே சேமிக்கப்படுகிறது. நீங்கள் அடுத்த அமர்வில் மீண்டும் சேரும்போது, நீங்கள் விட்டுச் சென்றிடத்தில் அனைத்தும் இருக்கும்.
 
-## Doors and locks
+## கதவுகள் மற்றும் பூட்டுகள்
 
-Your house has doors at entry points. From the Residence app (or directly at the door), you can:
+உங்கள் வீட்டில் நுழைவு புள்ளிகளில் கதவுகள் உள்ளன. Residence செயலியிலிருந்து (அல்லது நேரடியாகக் கதவில்), உங்களால் முடியும்:
 
-- **Lock / unlock** the door.
-- Set door permissions (who can enter when locked).
+- கதவை **பூட்ட / திறக்க**.
+- கதவு அனுமதிகளை அமைக்க (பூட்டப்பட்டிருக்கும்போது யார் நுழையலாம்).
 
-Door state **persists** - if you lock up before you log out, it's still locked when you come back.
+கதவு நிலை **நீடித்திருக்கும்** - நீங்கள் வெளியேறுவதற்கு முன் பூட்டினால், நீங்கள் திரும்பி வரும்போதும் அது பூட்டப்பட்டிருக்கும்.
 
-The door prompt range is 8 studs, so you'll need to be right up close to use it.
+கதவின் prompt வரம்பு 8 stud ஆகும், எனவே அதைப் பயன்படுத்த நீங்கள் மிக அருகில் இருக்க வேண்டும்.
 
-## Lights
+## விளக்குகள்
 
-You can toggle **lights on and off** in your house from the Residence app. Useful for ambiance, for nighttime fiddling, or just to save yourself from the disco when you're decorating.
+Residence செயலியிலிருந்து உங்கள் வீட்டில் **விளக்குகளை ஆன் மற்றும் ஆஃப்** செய்யலாம். சூழல், இரவு நேர சிறுமாற்றங்களுக்கு, அல்லது நீங்கள் அலங்கரிக்கும் போது டிஸ்கோவிலிருந்து உங்களையே காப்பாற்றிக்கொள்ள பயனுள்ளது.
 
-## Selling
+## விற்பனை
 
-Tired of your house? Sell it back and keep **70% of what you paid**. The game keeps 30% as a "transaction cost".
+உங்கள் வீட்டால் சலித்துப் போனதா? அதை மீண்டும் விற்று **நீங்கள் செலுத்தியதில் 70%** வைத்துக்கொள்ளுங்கள். விளையாட்டு 30%-ஐ "பரிவர்த்தனை செலவாக" வைத்துக்கொள்கிறது.
 
-1. Open the Residence app.
-2. Select your plot / house.
-3. Choose **Sell**.
-4. The house is refunded to your account, the plot is freed up for re-claiming, and your furniture inventory stays intact.
+1. Residence செயலியைத் திறக்கவும்.
+2. உங்கள் மனை / வீட்டைத் தேர்ந்தெடுக்கவும்.
+3. **விற்** என்பதைத் தேர்ந்தெடுக்கவும்.
+4. வீடு உங்கள் கணக்கிற்குத் திருப்பித் தரப்படுகிறது, மனை மீண்டும் உரிமை கோருவதற்காக விடுவிக்கப்படுகிறது, மற்றும் உங்கள் அறைகலன் சரக்கு அப்படியே இருக்கும்.
 
-After selling, your plot is back in the pool - anyone (including you) can claim it again.
+விற்ற பிறகு, உங்கள் மனை மீண்டும் குளத்தில் சேர்கிறது - யாரும் (உங்களுடன் சேர்த்து) அதை மீண்டும் உரிமை கோரலாம்.
 
-## Privacy and intrusion
+## தனியுரிமை மற்றும் ஊடுருவல்
 
-Your house is your space. A few things to know:
+உங்கள் வீடு உங்கள் இடம். தெரிந்துகொள்ள வேண்டிய சில விஷயங்கள்:
 
-- Other players can walk up to your door but **can't enter** if you've locked it.
-- Your house interior is private - other players can't see inside via the minimap or walk through walls.
-- Even with the door unlocked, only you can interact with your furniture (place, remove, rearrange).
+- மற்ற வீரர்கள் உங்கள் கதவு வரை நடந்து வரலாம், ஆனால் நீங்கள் பூட்டியிருந்தால் அவர்களால் **நுழைய முடியாது**.
+- உங்கள் வீட்டின் உட்புறம் தனிப்பட்டது - மற்ற வீரர்களால் minimap மூலம் உள்ளே பார்க்கவோ, சுவர்கள் வழியாக நடக்கவோ முடியாது.
+- கதவு திறந்திருந்தாலும், உங்கள் அறைகலன்களுடன் (வைப்பது, அகற்றுவது, மறுசீரமைப்பது) தொடர்பு கொள்ள நீங்கள் மட்டுமே முடியும்.
 
-## Tips
+## குறிப்புகள்
 
-- **Start small.** Go with a 200 Ringgit Small Bornean for your first house. You'll know by the time you're ready to upgrade.
-- **The 70% refund is a safety net.** Changing your mind costs 30%. Not cheap, but not bankruptcy either.
-- **Lights on vs off for screenshots.** The lighting makes a big difference. Try both for phone Camera screenshots of your space.
-- **Lock up on logout.** Habit worth getting into. Unlocked doors invite roleplay disruption.
-- **One plot per player is the rule.** Don't try to claim two - the system prevents it anyway.
-- **Furniture placement is save-instant.** You don't lose your layout if you crash mid-placement.
+- **சிறிதாகத் தொடங்குங்கள்.** உங்கள் முதல் வீட்டிற்கு 200 Ringgit Small Bornean உடன் செல்லுங்கள். நீங்கள் மேம்படுத்தத் தயாராகும் நேரத்தில் உங்களுக்குத் தெரியும்.
+- **70% பணத் திரும்ப வழங்கல் ஒரு பாதுகாப்பு வலை.** உங்கள் மனதை மாற்றுவது 30% செலவாகும். மலிவானதல்ல, ஆனால் திவாலானதும் அல்ல.
+- **ஸ்கிரீன்ஷாட்களுக்கு விளக்குகள் ஆன் vs ஆஃப்.** விளக்கு பெரிய வித்தியாசத்தை ஏற்படுத்துகிறது. உங்கள் இடத்தின் தொலைபேசி Camera ஸ்கிரீன்ஷாட்களுக்கு இரண்டையும் முயற்சி செய்யுங்கள்.
+- **வெளியேறும்போது பூட்டுங்கள்.** பழகுவதற்கு மதிப்புள்ள பழக்கம். பூட்டப்படாத கதவுகள் roleplay இடையூற்றை அழைக்கின்றன.
+- **ஒரு வீரருக்கு ஒரு மனை என்பது விதி.** இரண்டை உரிமை கோர முயற்சிக்காதீர்கள் - எப்படியும் அமைப்பு அதைத் தடுக்கிறது.
+- **அறைகலன் வைப்பு உடனடியாகச் சேமிக்கப்படும்.** நீங்கள் வைப்பின் நடுவில் கிராஷ் ஆனாலும் உங்கள் அமைப்பை இழக்க மாட்டீர்கள்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Economy](/sumaya/economy) for where to get the Ringgit to afford a house.
-- [Phone and UI](/sumaya/phone) for the Residence app.
-- [Tips and Tricks](/sumaya/tips-and-tricks) for decorating ideas.
+- ஒரு வீட்டை வாங்குவதற்கு Ringgit எங்கு கிடைக்கும் என்பதற்கு [பொருளாதாரம்](/sumaya/economy).
+- Residence செயலிக்கு [தொலைபேசி மற்றும் UI](/sumaya/phone).
+- அலங்காரக் கருத்துகளுக்கு [குறிப்புகள் மற்றும் தந்திரங்கள்](/sumaya/tips-and-tricks).

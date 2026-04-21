@@ -1,13 +1,12 @@
 ---
-title: Teams and Careers
-description: All 18 teams in Lebuhraya and the 20-tier rank system.
+title: 队伍与职业
+description: Lebuhraya 全部 18 支队伍及 20 级职级体系。
 lang: zh
 translated_from_hash: f4279193
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Lebuhraya 团队介绍
+# 队伍与职业
 
 Lebuhraya 拥有多种团队，每个团队都提供独特的游戏体验、车辆和工具。团队可通过等级、游戏通行证或 Roblox 群组成员身份来解锁。
 

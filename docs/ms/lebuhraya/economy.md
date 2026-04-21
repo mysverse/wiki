@@ -1,99 +1,98 @@
 ---
-title: Economy and XP
+title: Ekonomi & XP
 description: >-
-  Ringgit (BR), levels 1-500, XP multipliers, and the fastest ways to earn in
-  Lebuhraya.
+  Ringgit (BR), tahap 1-500, pendaraban XP, dan cara terpantas untuk memperoleh
+  di Lebuhraya.
 lang: ms
 translated_from_hash: db0d271a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Ekonomi & XP
 
-# Economy and XP
-
-Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
+Segala-galanya di Lebuhraya berlegar pada dua nombor: **Ringgit (BR)** anda dan **tahap** anda. Halaman ini menerangkan bagaimana kedua-duanya berfungsi, dari mana ia datang, dan cara untuk memperoleh dengan lebih pantas.
 
 ## Ringgit (BR)
 
-Your currency. You start with **1000 BR** and you earn more by doing jobs, winning races, completing convoy runs, and redeeming rewards.
+Mata wang anda. Anda bermula dengan **1000 BR** dan memperoleh lebih banyak dengan melakukan kerja, memenangi perlumbaan, menyelesaikan larian konvoi, dan menebus ganjaran.
 
-### Earning BR
+### Memperoleh BR
 
-- **Jobs** — Most jobs pay a flat or per-action BR amount. Food Delivery, Trucking, and Post Office are the reliable early earners. Emergency services (Bomba, Kesihatan) pay per resolved incident.
-- **Racing** — Track payouts scale with finish time and track difficulty.
-- **Convoy bonuses** — A convoy of friends earns extra BR per distance covered together.
-- **Daily / tier rewards** — Some career tiers give a BR payout when you rank up.
+- **Kerja** — Kebanyakan kerja membayar jumlah BR tetap atau setiap tindakan. Food Delivery, Trucking, dan Post Office adalah sumber pendapatan awal yang boleh diharap. Perkhidmatan kecemasan (Bomba, Kesihatan) membayar setiap insiden yang diselesaikan.
+- **Perlumbaan** — Bayaran litar berskala mengikut masa tamat dan tahap kesukaran litar.
+- **Bonus konvoi** — Konvoi rakan memperoleh BR tambahan setiap jarak yang dilalui bersama.
+- **Ganjaran harian / peringkat** — Sesetengah peringkat kerjaya memberi bayaran BR apabila anda naik pangkat.
 
-### Spending BR
+### Membelanjakan BR
 
-- **Fuel** — Prices listed in [Vehicles](/lebuhraya/vehicles). Electric is cheapest at 1 BR/litre, Diesel most expensive at 3 BR/litre.
-- **Shop items** — Food, snacks, tools, lanterns. See [Shops](/lebuhraya/shops).
-- **Housing** — Furniture and house customisation. See [Housing](/lebuhraya/housing).
-- **Vehicle repairs** — At a workshop after a crash.
-- **Gamepass access items** — Where a gamepass unlocks a team, you might also buy consumables that support that role.
+- **Bahan api** — Harga disenaraikan dalam [Kenderaan](/lebuhraya/vehicles). Elektrik paling murah pada 1 BR/liter, Diesel paling mahal pada 3 BR/liter.
+- **Barang kedai** — Makanan, snek, alatan, tanglung. Lihat [Kedai](/lebuhraya/shops).
+- **Perumahan** — Perabot dan penyesuaian rumah. Lihat [Perumahan](/lebuhraya/housing).
+- **Pembaikan kenderaan** — Di bengkel selepas kemalangan.
+- **Barang akses gamepass** — Apabila gamepass membuka pasukan, anda juga mungkin membeli barang penggunaan yang menyokong peranan tersebut.
 
-## Levels and XP
+## Tahap dan XP
 
-There are **500 levels**. Each level requires **1000 XP** to complete. The level cap is firm — you can't level past 500, but XP continues to tick towards badges and career tiers after that.
+Terdapat **500 tahap**. Setiap tahap memerlukan **1000 XP** untuk dilengkapkan. Had tahap adalah tetap — anda tidak boleh naik melebihi 500, tetapi XP terus berdetik ke arah lencana dan peringkat kerjaya selepas itu.
 
-### Earning XP
+### Memperoleh XP
 
-There are two kinds of XP:
+Terdapat dua jenis XP:
 
-**Driving XP (passive).** Every time you drive **1500 studs** in a driver seat, you earn **50 XP**. The counter only advances while you're in the seat and moving faster than a walk — stopped cars don't earn XP. This is the single biggest source of XP for most players, especially in early levels.
+**XP Memandu (pasif).** Setiap kali anda memandu **1500 stud** di tempat duduk pemandu, anda memperoleh **50 XP**. Pembilang hanya bergerak ketika anda berada di tempat duduk dan bergerak lebih pantas daripada berjalan — kereta berhenti tidak memperoleh XP. Ini adalah sumber tunggal XP terbesar untuk kebanyakan pemain, terutamanya pada tahap awal.
 
-**Job XP (active).** Each completed job action awards a chunk of XP.
+**XP Kerja (aktif).** Setiap tindakan kerja yang selesai memberikan sebahagian XP.
 
-| Job | XP reward |
+| Kerja | Ganjaran XP |
 |---|---|
-| Food Delivery | **250 XP** per delivery |
-| Taxi | Varies — about **0.11 to 0.13 XP per stud** of the trip (a 4000-stud trip = 440 to 520 XP) |
-| Other jobs | See [Jobs](/lebuhraya/jobs) for per-job details |
+| Food Delivery | **250 XP** setiap penghantaran |
+| Taxi | Berbeza — kira-kira **0.11 hingga 0.13 XP setiap stud** perjalanan (perjalanan 4000 stud = 440 hingga 520 XP) |
+| Kerja lain | Lihat [Kerja](/lebuhraya/jobs) untuk butiran setiap kerja |
 
-### The XP multiplier stack
+### Susunan pendaraban XP
 
-Multiple bonuses stack **additively** on top of your base ×1 multiplier. The final multiplier is applied to every XP award.
+Beberapa bonus bertindih **secara penambahan** di atas pendaraban asas ×1 anda. Pendaraban akhir dikenakan pada setiap ganjaran XP.
 
-| Source | Bonus |
+| Sumber | Bonus |
 |---|---|
-| Double XP weekend (periodic events) | Multiplier set to ×2 |
-| XP Boost gamepass | +50% |
-| Roblox Premium membership | +25% |
-| Injury System enabled | +15% |
-| Token XP Boost (consumable) | +100% |
-| Convoy bonus (up to) | +50% |
+| Hujung minggu XP Berganda (acara berkala) | Pendaraban ditetapkan kepada ×2 |
+| Gamepass XP Boost | +50% |
+| Keahlian Roblox Premium | +25% |
+| Sistem Kecederaan diaktifkan | +15% |
+| Token XP Boost (barang guna pakai) | +100% |
+| Bonus konvoi (sehingga) | +50% |
 
-So a Premium player in a full convoy during a double-XP weekend, with an XP Boost token active, can reach well above ×3 multiplier. Stacking these is the fastest way to hit level 500.
+Jadi pemain Premium dalam konvoi penuh semasa hujung minggu XP berganda, dengan token XP Boost aktif, boleh mencapai jauh melebihi pendaraban ×3. Menyusun semua ini adalah cara terpantas untuk mencapai tahap 500.
 
-### Convoy bonus breakdown
+### Pecahan bonus konvoi
 
-Convoy bonuses stack in their own way:
+Bonus konvoi bertindih dalam caranya sendiri:
 
-- **Base bonus** for being in a convoy: +15%
-- **Per additional member** (beyond two): +5% each
-- **Friend in the convoy**: +10%
-- **Same team in the convoy**: +10%
-- **Streak bonus** (time spent in convoy): +2% per minute, up to +10%
+- **Bonus asas** untuk berada dalam konvoi: +15%
+- **Setiap ahli tambahan** (melebihi dua): +5% setiap seorang
+- **Rakan dalam konvoi**: +10%
+- **Pasukan sama dalam konvoi**: +10%
+- **Bonus streak** (masa dalam konvoi): +2% seminit, sehingga +10%
 
-The total convoy multiplier is capped at **+50%**.
+Jumlah pendaraban konvoi dihadkan pada **+50%**.
 
-## What resets and what saves
+## Apa yang ditetapkan semula dan apa yang disimpan
 
-- **Live game**: Level, XP, BR, vehicles, housing — all saved automatically when you leave the server. You don't need to manually save.
-- **Studio / test servers**: XP resets to 0 when you join. A warning message appears. This is normal — your live progress is not affected.
-- **Private servers**: The economy is disabled so your balance doesn't change, but nothing is lost in the main game.
+- **Permainan langsung**: Tahap, XP, BR, kenderaan, perumahan — semua disimpan secara automatik apabila anda meninggalkan server. Anda tidak perlu simpan secara manual.
+- **Server Studio / ujian**: XP ditetapkan semula kepada 0 apabila anda menyertai. Mesej amaran muncul. Ini adalah normal — kemajuan langsung anda tidak terjejas.
+- **Server persendirian**: Ekonomi dilumpuhkan jadi baki anda tidak berubah, tetapi tiada apa-apa hilang dalam permainan utama.
 
-## Tips for levelling fast
+## Tip untuk naik tahap dengan pantas
 
-1. **Stay in the driver seat on long routes.** Long-distance driving is the single biggest source of passive XP.
-2. **Do Food Delivery starting at Level 10.** 250 XP per delivery is the best flat rate until higher tiers unlock.
-3. **Convoy with at least one friend on the same team.** Activates both the friend bonus (+10%) and the same-team bonus (+10%).
-4. **Subscribe to Roblox Premium.** +25% XP on everything you do.
-5. **Save XP Boost tokens for long sessions.** The +100% is duration-based, so use it during commitment blocks (a full evening of racing or delivery).
-6. **Weekend events** occasionally double XP for everyone. Watch for announcements.
+1. **Kekal di tempat duduk pemandu pada laluan panjang.** Pemanduan jarak jauh adalah sumber tunggal XP pasif terbesar.
+2. **Buat Food Delivery bermula di Tahap 10.** 250 XP setiap penghantaran adalah kadar tetap terbaik sehingga peringkat lebih tinggi dibuka.
+3. **Konvoi dengan sekurang-kurangnya seorang rakan dalam pasukan yang sama.** Mengaktifkan kedua-dua bonus rakan (+10%) dan bonus pasukan sama (+10%).
+4. **Langgan Roblox Premium.** +25% XP pada setiap perkara yang anda lakukan.
+5. **Simpan token XP Boost untuk sesi panjang.** +100% adalah berdasarkan tempoh, jadi gunakannya semasa blok komitmen (satu petang penuh perlumbaan atau penghantaran).
+6. **Acara hujung minggu** kadangkala menggandakan XP untuk semua orang. Perhatikan pengumuman.
 
-## Next steps
+## Langkah seterusnya
 
-- [Vehicles](/lebuhraya/vehicles) — Fuel pricing and ownership
-- [Jobs](/lebuhraya/jobs) — Per-job XP / BR breakdown
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — How to get the XP Boost gamepass
+- [Kenderaan](/lebuhraya/vehicles) — Harga bahan api dan pemilikan
+- [Kerja](/lebuhraya/jobs) — Pecahan XP / BR setiap kerja
+- [Pas dan Boost](/lebuhraya/passes-and-boosts) — Cara mendapatkan gamepass XP Boost

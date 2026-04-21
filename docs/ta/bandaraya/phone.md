@@ -1,120 +1,119 @@
 ---
-title: Phone
+title: தொலைபேசி
 description: >-
-  The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
-  messages, and more apps.
+  Bandaraya-வில் விளையாட்டுக்குள் தொலைபேசி — MyPay, இ-ஹெயிலிங், 999, MyCar,
+  MyTow, செய்திகள், மற்றும் பிற செயலிகள்.
 lang: ta
 translated_from_hash: 089fa7dc
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# தொலைபேசி
 
-# Phone
+Bandaraya-வில் உள்ள ஒவ்வொரு விளையாட்டாளரும் ஒரு **விளையாட்டுக்குள் தொலைபேசியை** எடுத்துச் செல்கிறார்கள் — பல-செயலி சாதனத்தைத் திறக்கும் டாப்பார் ஐகான். **டேப்லெட்டிலிருந்து** (அணிக்கு மட்டுமே உள்ள கருவி) வேறுபட்டது; தொலைபேசி அனைவருக்கும் பொதுவானது.
 
-Every player in Bandaraya carries an **in-game Phone** — a topbar icon that opens a multi-app device. Different from the **Tablet** (which is a team-only tool); the Phone is universal.
+## சுருக்கம்
 
-## TL;DR
-
-- Tap the phone icon on your topbar.
-- Tap an app to open it.
-- Many apps; the most useful ones in Bandaraya are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
+- உங்கள் டாப்பாரில் உள்ள தொலைபேசி ஐகானைத் தட்டவும்.
+- ஒரு செயலியைத் திறக்க அதைத் தட்டவும்.
+- பல செயலிகள் உள்ளன; Bandaraya-வில் மிகவும் பயனுள்ளவை **MyPay**, **இ-ஹெயிலிங்**, **CAG eWallet**, **999**, **MyCar**, மற்றும் **MyTow**.
 
 ---
 
-## How to open it
+## எப்படித் திறப்பது
 
-The phone lives on your topbar. Tap the icon. On mobile, the topbar icons are at the top of the screen; on desktop, same place. The phone overlay slides in.
+தொலைபேசி உங்கள் டாப்பாரில் உள்ளது. ஐகானைத் தட்டவும். மொபைலில், டாப்பார் ஐகான்கள் திரையின் மேற்புறத்தில் உள்ளன; டெஸ்க்டாப்பிலும் அதே இடத்தில். தொலைபேசி ஓவர்லே உள்நோக்கி சறுக்குகிறது.
 
-## Apps — universal (all MYSverse games)
+## செயலிகள் — பொதுவானவை (அனைத்து MYSverse விளையாட்டுகள்)
 
-| App | What it does |
+| செயலி | என்ன செய்கிறது |
 | --- | --- |
-| **MYSair** | Airline bookings / travel between experiences. |
-| **Elections** | MYSverse elections — vote, view campaigns. |
-| **Blog** | Read community blog posts. |
-| **NWS** | National Wire Services — official in-game news feed. |
-| **Parlimen** | View Parlimen (parliament) proceedings. |
-| **Message** | Peer-to-peer chat ("wasap"). |
-| **Camera** | Take in-game photos. |
-| **Settings** | Phone settings — background image, etc. |
-| **Rafahia** | Clothing brand app — browse catalog. |
+| **MYSair** | விமான முன்பதிவுகள் / அனுபவங்களுக்கு இடையிலான பயணம். |
+| **Elections** | MYSverse தேர்தல்கள் — வாக்களியுங்கள், பிரசாரங்களைப் பாருங்கள். |
+| **Blog** | சமூகப் பதிவுகளைப் படியுங்கள். |
+| **NWS** | National Wire Services — அதிகாரப்பூர்வ விளையாட்டுக்குள் செய்தி ஊட்டம். |
+| **Parlimen** | Parlimen (நாடாளுமன்றம்) நடவடிக்கைகளைப் பார்க்கவும். |
+| **Message** | நண்பருக்கு நண்பர் அரட்டை ("wasap"). |
+| **Camera** | விளையாட்டுக்குள் புகைப்படங்கள் எடுக்கவும். |
+| **Settings** | தொலைபேசி அமைப்புகள் — பின்னணி படம், போன்றவை. |
+| **Rafahia** | ஆடை பிராண்ட் செயலி — பட்டியலை உலாவவும். |
 
-## Apps — Bandaraya-only
+## செயலிகள் — Bandaraya-க்கு மட்டும்
 
-These apps are added when you're in Bandaraya. They don't appear in Lebuhraya or other experiences.
+இந்த செயலிகள் நீங்கள் Bandaraya-வில் இருக்கும்போது சேர்க்கப்படுகின்றன. அவை Lebuhraya அல்லது பிற அனுபவங்களில் தோன்றாது.
 
-### MyPay — send BR to another player
+### MyPay — மற்றொரு விளையாட்டாளருக்கு BR அனுப்புங்கள்
 
-Peer-to-peer BR transfer. Like Malaysia's real-world MyPay / DuitNow.
+நண்பருக்கு நண்பர் BR பரிமாற்றம். மலேசியாவின் நிஜ உலக MyPay / DuitNow போன்றது.
 
-1. Open **MyPay**.
-2. **Search** for a player by name.
-3. Pick them from the list.
-4. Enter an amount (fractional BR supported — rounded to 2 decimals), or tap a **quick-amount** preset.
-5. Tap **Send**.
+1. **MyPay** ஐத் திறக்கவும்.
+2. பெயரால் ஒரு விளையாட்டாளரை **தேடுங்கள்**.
+3. பட்டியலில் இருந்து அவர்களைத் தேர்ந்தெடுக்கவும்.
+4. ஒரு தொகையை உள்ளிடவும் (பின்ன BR ஆதரிக்கப்படுகிறது — 2 தசம இலக்கங்களுக்கு வட்டமாக்கப்படுகிறது), அல்லது **விரைவு-தொகை** முன்னமைப்பைத் தட்டவும்.
+5. **Send** ஐத் தட்டவும்.
 
-The recipient gets a notification on their own phone with **Accept / Deny** buttons. If they accept, the BR moves. If denied or ignored, nothing happens.
+பெறுநருக்கு அவரது சொந்த தொலைபேசியில் **Accept / Deny** பொத்தான்களுடன் ஒரு அறிவிப்பு கிடைக்கும். அவர்கள் ஏற்றுக்கொண்டால், BR நகர்கிறது. மறுக்கப்பட்டாலோ அல்லது புறக்கணிக்கப்பட்டாலோ, எதுவும் நடக்காது.
 
-**Balance** is shown on the send screen so you know what you have to spend. Transfers require:
-- Both players to be **in the same server** (you can't send across servers)
-- Neither player to be on the **fraud blocklist** (rare — only if an admin has flagged an account)
-- You to actually have the BR — the debit is checked before credit
+நீங்கள் எவ்வளவு செலவழிக்க வேண்டும் என்பதை நீங்கள் அறியும் வகையில் **இருப்பு** அனுப்பும் திரையில் காட்டப்படுகிறது. பரிமாற்றங்களுக்குத் தேவையானவை:
+- இரு விளையாட்டாளர்களும் **ஒரே server-இல்** இருக்க வேண்டும் (server-களுக்கு இடையில் அனுப்ப முடியாது)
+- எந்த விளையாட்டாளரும் **மோசடி தடுப்புப்பட்டியலில்** இருக்கக்கூடாது (அரிதானது — ஒரு நிர்வாகி ஒரு கணக்கைக் கொடியிட்டால் மட்டுமே)
+- நீங்கள் உண்மையிலேயே BR வைத்திருக்க வேண்டும் — வரவுக்கு முன்பே பற்று சரிபார்க்கப்படுகிறது
 
-If MyPay is temporarily disabled (admin toggles `MyPayEnabled`), you'll see a "disabled" screen instead — the app is grey and no transfers go through.
+MyPay தற்காலிகமாக முடக்கப்பட்டால் (நிர்வாகி `MyPayEnabled` ஐ மாற்றினால்), நீங்கள் அதற்குப் பதிலாக "முடக்கப்பட்டது" திரையைக் காண்பீர்கள் — செயலி சாம்பல் நிறத்தில் இருக்கும் மற்றும் எந்த பரிமாற்றங்களும் நடக்காது.
 
-Each completed transfer is logged to the game's Discord (for moderation visibility).
+நிறைவேற்றப்பட்ட ஒவ்வொரு பரிமாற்றமும் விளையாட்டின் Discord-இல் பதிவு செய்யப்படுகிறது (மாடரேஷன் தெரிவுக்காக).
 
-### e-hailing — book a taxi
+### இ-ஹெயிலிங் — ஒரு வாடகை வாகனம் முன்பதிவு செய்யுங்கள்
 
-Book a ride without walking up to a physical taxi company desk.
+உடல்ரீதியாக ஒரு வாடகை வாகன நிறுவன மேசைக்குச் செல்லாமல் ஒரு பயணத்தை முன்பதிவு செய்யுங்கள்.
 
-1. Open **e-hailing**.
-2. Enter your **destination** and (optional) **description**.
-3. Pick a driver from the available list.
-4. Wait for them to accept, then get picked up.
+1. **இ-ஹெயிலிங்** ஐத் திறக்கவும்.
+2. உங்கள் **இலக்கு** மற்றும் (விருப்பமானது) **விளக்கத்தை** உள்ளிடவும்.
+3. கிடைக்கும் பட்டியலில் இருந்து ஒரு ஓட்டுநரைத் தேர்ந்தெடுக்கவும்.
+4. அவர்கள் ஏற்றுக்கொள்ளும் வரை காத்திருக்கவும், பின்னர் ஏற்றப்படுங்கள்.
 
-Fare is based on distance × company rate (see [Jobs — Taxi Driver](/bandaraya/jobs#how-the-fare-is-calculated)).
+கட்டணம் தூரம் × நிறுவன விகிதத்தின் அடிப்படையில் இருக்கும் ([வேலைகள் — வாடகை வாகன ஓட்டுநர்](/bandaraya/jobs#how-the-fare-is-calculated) பார்க்கவும்).
 
 ### CAG eWallet
 
-Browse-only view of your Click And Go transit card. Balance, trips, monthly pass, designs, lifetime stats. **Purchase buttons deep-link to the nearest physical kiosk** — you can't buy from the phone directly. See [Getting Around](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+உங்கள் Click And Go போக்குவரத்து அட்டையின் உலாவல்-மட்டும் காட்சி. இருப்பு, பயணங்கள், மாதாந்திர பாஸ், வடிவமைப்புகள், வாழ்நாள் புள்ளிவிவரங்கள். **வாங்கும் பொத்தான்கள் அருகிலுள்ள உடல் kiosk-க்கு நேரடியாக இணைக்கப்படுகின்றன** — நீங்கள் தொலைபேசியிலிருந்து நேரடியாக வாங்க முடியாது. [சுற்றிச் செல்வது](/bandaraya/getting-around#the-cag-ewallet-phone-app) பார்க்கவும்.
 
-### 999 — emergency reporting
+### 999 — அவசர அறிக்கை
 
-Report a crime, fire, medical emergency, or accident.
+குற்றம், தீ, மருத்துவ அவசரம் அல்லது விபத்து ஆகியவற்றைப் புகாரளிக்கவும்.
 
-1. Open **999**.
-2. Fill in the **nature** (what's happening) and **description** (details).
-3. Submit.
+1. **999** ஐத் திறக்கவும்.
+2. **தன்மை** (என்ன நடக்கிறது) மற்றும் **விளக்கத்தை** (விவரங்கள்) நிரப்பவும்.
+3. சமர்ப்பிக்கவும்.
 
-The alert pings the relevant emergency team (PDRM for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
+எச்சரிக்கை தொடர்புடைய அவசர அணியை அழைக்கிறது (குற்றத்திற்கு PDRM, தீக்கு BOMBA, மருத்துவத்திற்கு KKM). இதைத் தவறாகப் பயன்படுத்தாதீர்கள் — பொய்யான அழைப்புகள் பதிலளிப்பவர்களின் நேரத்தை வீணாக்குகின்றன.
 
-Also available in Lebuhraya.
+Lebuhraya-விலும் கிடைக்கிறது.
 
-### MyCar — control your spawned vehicle
+### MyCar — நீங்கள் ஸ்பாவ்ன் செய்த வாகனத்தைக் கட்டுப்படுத்துங்கள்
 
-Remote-control your vehicle without sitting in it — lights, horn, emergency signals, door locks.
+அதில் உட்காராமல் உங்கள் வாகனத்தைத் தொலைவில் இருந்து கட்டுப்படுத்துங்கள் — விளக்குகள், ஹார்ன், அவசர சமிக்ஞைகள், கதவு பூட்டுகள்.
 
 ### MyTow
 
-Same MyTow as the Tablet app, but on your phone. Report the need for a tow, or track your tow job. Useful if you're a civilian who got clamped and want to contact a tow operator.
+டேப்லெட் செயலியின் அதே MyTow, ஆனால் உங்கள் தொலைபேசியில். இழுப்பதற்கான தேவையைப் புகாரளிக்கவும், அல்லது உங்கள் இழுப்பு வேலையைக் கண்காணிக்கவும். நீங்கள் கிளாம்ப் செய்யப்பட்ட ஒரு பொதுமக்கள் என்றால், இழுப்பு இயக்குநரைத் தொடர்புகொள்ள இது பயனுள்ளதாக இருக்கும்.
 
-## How apps appear / disappear
+## செயலிகள் எப்படி தோன்றுகின்றன / மறைகின்றன
 
-Apps with a "place" restriction only show in that place. For example, **e-hailing** only appears in Bandaraya; **Rules** only appears in Lebuhraya. When you travel to a different MYSverse experience (via MYSair), your app grid changes.
+"இடம்" கட்டுப்பாடுள்ள செயலிகள் அந்த இடத்தில் மட்டுமே தோன்றும். உதாரணமாக, **இ-ஹெயிலிங்** Bandaraya-வில் மட்டும் தோன்றும்; **Rules** Lebuhraya-வில் மட்டுமே தோன்றும். நீங்கள் வேறொரு MYSverse அனுபவத்திற்குப் பயணிக்கும்போது (MYSair வழியாக), உங்கள் செயலி கட்டம் மாறுகிறது.
 
-## Tips & gotchas
+## குறிப்புகள் & கவனிக்க வேண்டியவை
 
-- **Mobile text input** was fixed in v3.15.3 — if you find any phone text field unresponsive on mobile, report it as a regression.
-- **Phone ≠ Tablet.** The Tablet is a tool you equip from your backpack (team-gated). The Phone is a universal topbar app surface.
-- **MyPay requires the recipient to accept** — don't try to force-pay someone. They must be online.
-- **999 goes to real players** (officers on duty), not NPCs. Be patient.
-- **CAG eWallet on the phone is read-only** — to buy / top up / change pass you must visit a kiosk. The phone just shows you your info.
+- **மொபைல் உரை உள்ளீடு** v3.15.3-இல் சரி செய்யப்பட்டது — மொபைலில் எந்தவொரு தொலைபேசி உரைப் புலமும் பதிலளிக்காதது கண்டால், அதை பின்னடைவாகப் புகாரளிக்கவும்.
+- **தொலைபேசி ≠ டேப்லெட்.** டேப்லெட் என்பது உங்கள் backpack-இலிருந்து நீங்கள் அணிந்துகொள்ளும் ஒரு கருவி (அணி-வரையறுக்கப்பட்டது). தொலைபேசி என்பது ஒரு பொதுவான டாப்பார் செயலி மேற்பரப்பு.
+- **MyPay-க்கு பெறுநர் ஏற்றுக்கொள்ள வேண்டும்** — யாருக்கும் வலுக்கட்டாயமாக பணம் செலுத்த முயற்சிக்காதீர்கள். அவர்கள் ஆன்லைனில் இருக்க வேண்டும்.
+- **999 உண்மையான விளையாட்டாளர்களுக்குச் செல்கிறது** (கடமையில் உள்ள அதிகாரிகள்), NPC-களுக்கு அல்ல. பொறுமையாக இருங்கள்.
+- **தொலைபேசியில் உள்ள CAG eWallet படிக்க-மட்டும்** — வாங்க / டாப்-அப் செய்ய / பாஸ் மாற்ற நீங்கள் ஒரு kiosk-ஐப் பார்வையிட வேண்டும். தொலைபேசி உங்கள் தகவலை மட்டுமே காட்டுகிறது.
 
-## See also
+## மேலும் பார்க்கவும்
 
-- [Tablet](/bandaraya/tablet) — team-gated tool with different apps (MDT, MyEmergency, etc.)
-- [Getting Around](/bandaraya/getting-around) — CAG eWallet (on the phone)
-- [Jobs](/bandaraya/jobs) — e-hailing books bookings for Taxi Driver roles
-- [Economy](/bandaraya/economy) — BR currency (MyPay transfers)
-- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty PDRM/BOMBA/KKM
+- [டேப்லெட்](/bandaraya/tablet) — வெவ்வேறு செயலிகளுடன் கூடிய அணி-வரையறுக்கப்பட்ட கருவி (MDT, MyEmergency, போன்றவை)
+- [சுற்றிச் செல்வது](/bandaraya/getting-around) — CAG eWallet (தொலைபேசியில்)
+- [வேலைகள்](/bandaraya/jobs) — வாடகை வாகன ஓட்டுநர் பணிகளுக்கு இ-ஹெயிலிங் முன்பதிவுகள் செய்கிறது
+- [பொருளாதாரம்](/bandaraya/economy) — BR நாணயம் (MyPay பரிமாற்றங்கள்)
+- [அவசர சேவைகள்](/bandaraya/emergency-services) — 999 அழைப்புகள் கடமையில் உள்ள PDRM/BOMBA/KKM-க்குச் செல்கின்றன

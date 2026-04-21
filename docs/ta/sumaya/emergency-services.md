@@ -1,98 +1,97 @@
 ---
-title: Emergency Services Overview
-description: 'POLIS, BOMBA, and Kesihatan — the emergency services of Sumaya.'
+title: அவசர சேவைகள் கண்ணோட்டம்
+description: 'POLIS, BOMBA, மற்றும் Kesihatan — Sumaya-வின் அவசர சேவைகள்.'
 lang: ta
-translated_from_hash: 29b8189f
+translated_from_hash: 42b80c66
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# அவசர சேவைகள் கண்ணோட்டம்
 
-# Emergency Services Overview
+சுமாயாவில் மூன்று அவசர சேவை அணிகள் உள்ளன:
 
-Sumaya has three emergency-service teams:
+- [பொம்பா](/sumaya/bomba) - தீயணைப்புப் படை
+- [கெசிஹத்தான்](/sumaya/kesihatan) - மருத்துவம் / துணை மருத்துவர்
+- [பொலிஸ்](/sumaya/polis) - காவல்துறை
 
-- [Bomba](/sumaya/bomba) - fire brigade
-- [Kesihatan](/sumaya/kesihatan) - medical / paramedic
-- [Polis](/sumaya/polis) - police
+இந்த அணிகளில் ஒன்றைத் தேர்ந்தெடுத்தால், நீங்கள் spawn செய்தவுடனேயே **கடமையில்** இருப்பீர்கள். பொதுமக்கள் தொழில்களைப் போலல்லாமல் (அவற்றில் தொலைபேசி வழியாக clock in செய்வீர்கள்), அவசர சேவை என்பது நீங்கள் என்ன செய்கிறீர்கள் என்பதல்ல, நீங்கள் யார் என்பதே.
 
-Picking one of these teams puts you **on duty** as soon as you spawn. Unlike civilian careers (which you clock into via the phone), emergency service is just what you are, not what you're doing.
+## அவசர சேவைகளை பொதுமக்கள் வேலைகளிலிருந்து வேறுபடுத்துவது எது?
 
-## What makes emergency services different from civilian jobs?
-
-| | Civilian careers | Emergency services |
+| | பொதுமக்கள் தொழில்கள் | அவசர சேவைகள் |
 |---|------------------|---------------------|
-| How to join | Careers app on phone | Main menu team pick |
-| Max sector level | 25 (agro) or 100 (fishing / service) | 100 |
-| XP per action | Scales with level | Flat per action |
-| Tools | Given on shift start | Given on spawn |
-| Clock in required? | Yes | No, always on duty |
-| Level-gated vehicles? | Only trawlers | Yes, several gated at sector levels 15, 20, 35, 40, 45, 55, 65 |
+| சேரும் முறை | தொலைபேசியில் Careers app | முதன்மை மெனு அணித் தேர்வு |
+| அதிகபட்ச sector level | 25 (agro) அல்லது 100 (மீன்பிடி / சேவை) | 100 |
+| செயலுக்கு XP | level-க்கு ஏற்ப மாறும் | ஒவ்வொரு செயலுக்கும் நிலையானது |
+| கருவிகள் | shift தொடங்கும்போது வழங்கப்படும் | spawn-ல் வழங்கப்படும் |
+| Clock in தேவையா? | ஆம் | இல்லை, எப்போதும் கடமையில் |
+| Level வரம்புள்ள வாகனங்கள்? | trawler-கள் மட்டும் | ஆம், பல வாகனங்கள் sector level 15, 20, 35, 40, 45, 55, 65-ல் வரம்பிடப்பட்டுள்ளன |
 
-Emergency services also have the most detailed rank systems - 13 ranks for Bomba and Kesihatan, 16 for Polis, with proper Malaysian titles.
+அவசர சேவைகளுக்கு மிகவும் விரிவான பதவி அமைப்புகளும் உள்ளன - பொம்பா மற்றும் கெசிஹத்தான் ஒவ்வொன்றுக்கும் 13 பதவிகள், பொலிஸுக்கு 16, உரிய மலேசியத் தலைப்புகளுடன்.
 
-## Which one should I try first?
+## நான் முதலில் எதை முயற்சிக்க வேண்டும்?
 
-Quick guide:
+விரைவு வழிகாட்டி:
 
-- **You like action and pursuit:** [Polis](/sumaya/polis). Chasing suspects, running speed traps, writing arrests. Most dynamic when the server has criminals.
-- **You like teamwork and big moments:** [Bomba](/sumaya/bomba). Fires are group events. Multiple firefighters on one incident is the fastest way to level up.
-- **You like helping individuals:** [Kesihatan](/sumaya/kesihatan). Every patient is one-on-one: diagnose, treat, move on. Also gives the **+15% player-XP** boost to the whole server while your injury system is active.
+- **நீங்கள் அதிரடியும் துரத்தலும் விரும்புகிறீர்கள்:** [பொலிஸ்](/sumaya/polis). சந்தேக நபர்களைத் துரத்துதல், வேக வலை அமைத்தல், கைதுகளை மேற்கொள்ளுதல். server-ல் குற்றவாளிகள் இருக்கும்போது மிகவும் சுறுசுறுப்பாக இருக்கும்.
+- **நீங்கள் குழுப்பணியும் பெரிய தருணங்களும் விரும்புகிறீர்கள்:** [பொம்பா](/sumaya/bomba). தீவிபத்துகள் குழு நிகழ்வுகள். ஒரே சம்பவத்தில் பல தீயணைப்பாளர்கள் இருப்பது level-up ஆக மிக விரைவான வழி.
+- **நீங்கள் தனிநபர்களுக்கு உதவ விரும்புகிறீர்கள்:** [கெசிஹத்தான்](/sumaya/kesihatan). ஒவ்வொரு நோயாளியும் ஒருவருக்கு ஒருவர்: கண்டறி, சிகிச்சை செய், அடுத்ததற்குச் செல். உங்கள் காயம் அமைப்பு செயலில் இருக்கும்போது முழு server-க்கும் **+15% player-XP** boost கொடுக்கும்.
 
-## Common ground
+## பொதுவான அம்சங்கள்
 
-All three emergency services share a few mechanics:
+மூன்று அவசர சேவைகளும் சில இயந்திரவியல்களை பகிர்ந்து கொள்கின்றன:
 
-### Rank and level
+### பதவி மற்றும் level
 
-Your **sector level** tracks your progress in a specific service. You rank up at milestone levels (e.g. level 6, 11, 16, 21... for Bomba). Ranks are **titles only** - they don't lock gameplay. Only your **level** gates things like vehicles.
+உங்கள் **sector level** ஒரு குறிப்பிட்ட சேவையில் உங்கள் முன்னேற்றத்தைக் கண்காணிக்கிறது. மைல்கல் level-களில் நீங்கள் பதவி உயர்வு பெறுவீர்கள் (எ.கா. பொம்பாவுக்கு level 6, 11, 16, 21...). பதவிகள் **தலைப்புகள் மட்டுமே** - அவை gameplay-ஐ பூட்டாது. உங்கள் **level** மட்டுமே வாகனங்கள் போன்றவற்றை வரம்பிடுகிறது.
 
-Max sector level is **100** for all three. Ranks stop progressing before that (e.g. Polis rank caps at level 89), so the final stretch is just flex.
+மூன்றுக்கும் அதிகபட்ச sector level **100**. பதவிகள் அதற்கு முன்பே முன்னேற்றம் நிறுத்தப்படும் (எ.கா. பொலிஸ் பதவி level 89-ல் நிறுத்தப்படுகிறது), எனவே இறுதிப் பகுதி வெறும் பெருமைக்காக மட்டுமே.
 
-### Ringgit rewards go to your wallet
+### Ringgit வெகுமதிகள் உங்கள் wallet-க்கு செல்கின்றன
 
-Unlike civilian careers (which pay into your bank account), emergency service rewards are paid to your **wallet** directly, with the exception of crime-based payouts. That means you can spend them immediately without going to an ATM.
+பொதுமக்கள் தொழில்களைப் போலல்லாமல் (அவை வங்கிக் கணக்கிற்கு செலுத்தப்படும்), அவசர சேவை வெகுமதிகள் உங்கள் **wallet**-க்கு நேரடியாகச் செலுத்தப்படுகின்றன, குற்ற அடிப்படையிலான செலுத்துதல்கள் தவிர. அதாவது, ATM-க்குச் செல்லாமலேயே அவற்றை உடனடியாக செலவழிக்கலாம்.
 
-### Bonuses every N actions
+### ஒவ்வொரு N செயல்களுக்கு போனஸ்
 
-Each service has a **milestone bonus**:
+ஒவ்வொரு சேவைக்கும் **மைல்கல் போனஸ்** உண்டு:
 
-- Bomba: **150 Ringgit** bonus every **15** fire blocks.
-- Kesihatan: **150 Ringgit** bonus every **10** treatments.
-- Polis: **200 Ringgit** bonus every **5** arrests.
+- பொம்பா: ஒவ்வொரு **15** தீ blocks-க்கும் **150 Ringgit** போனஸ்.
+- கெசிஹத்தான்: ஒவ்வொரு **10** சிகிச்சைகளுக்கும் **150 Ringgit** போனஸ்.
+- பொலிஸ்: ஒவ்வொரு **5** கைதுகளுக்கும் **200 Ringgit** போனஸ்.
 
-The bonuses stack on top of your per-action rewards.
+இந்த போனஸ்கள் உங்கள் ஒவ்வொரு செயலுக்கான வெகுமதிகளின் மேல் கூடுதலாக சேர்க்கப்படும்.
 
-### Demotion on wanted status
+### Wanted நிலையில் பதவி இறக்கம்
 
-If a Bomba, Kesihatan, or Polis player **commits a crime** and crosses into 1-star wanted, they're **automatically demoted** off the team. You'll be kicked back to civilian. If you want to play a criminal, leave the emergency team first.
+அவசர சேவை வீரர்கள் (BOMBA, கெசிஹத்தான், POLIS) 1-star wanted நிலைக்குள் நுழையும்போது அவர்களை தானாக பதவி இறக்க விளையாட்டு அமைக்கப்பட்டுள்ளது, ஆனால் தற்போதைய சரிபார்ப்பின் படி அந்த நிகழ்வுக்கான listener இணைக்கப்படவில்லை - நீங்கள் குற்றம் செய்த பிறகும் **உங்கள் அவசர அணியிலேயே இருப்பீர்கள்**. பதவி இறக்க bindable எந்த handler இன்றி இயங்குகிறது. உங்களை பொதுமக்களாக திருப்ப விளையாட்டை நம்பாதீர்கள்; சட்டவிரோதமான எதையும் செய்வதற்கு முன்பு கைமுறையாக அணிகளை மாற்றவும்.
 
-## Kesihatan's global XP boost
+## கெசிஹத்தானின் உலகளாவிய XP boost
 
-This is unique: when Kesihatan players activate the injury system, **every player on the server gets +15% player-level XP** (sector XP is unaffected). This is a big deal if you're grinding - watch for the boost indicator before a long session.
+இது தனித்துவமானது: கெசிஹத்தான் வீரர்கள் காயம் அமைப்பை செயல்படுத்தும்போது, **server-ல் உள்ள ஒவ்வொரு வீரரும் +15% player-level XP பெறுகிறார்கள்** (sector XP பாதிக்கப்படாது). நீங்கள் grind செய்கிறீர்கள் என்றால் இது ஒரு பெரிய விஷயம் - நீண்ட அமர்வுக்கு முன் boost indicator-ஐ கவனியுங்கள்.
 
-## Emergency vehicles
+## அவசர வாகனங்கள்
 
-Each service has its own vehicles, unlocked as your sector level rises. See [Vehicles](/sumaya/vehicles) for the full catalog, or the individual service pages for the team-specific list.
+ஒவ்வொரு சேவைக்கும் அதன் சொந்த வாகனங்கள் உள்ளன, உங்கள் sector level உயரும்போது திறக்கப்படும். முழு catalog-க்கு [Vehicles](/sumaya/vehicles)-ஐப் பார்க்கவும், அல்லது அணி-குறிப்பிட்ட பட்டியலுக்கு தனிப்பட்ட சேவைப் பக்கங்களைப் பார்க்கவும்.
 
-Emergency vehicles have **sirens and lights** (ELS). Flipping the siren on while you're driving an emergency vehicle gives you temporary exemption from traffic offences - you can't be cited for speeding or crashes while your siren is active.
+அவசர வாகனங்களில் **siren மற்றும் விளக்குகள்** (ELS) உள்ளன. அவசர வாகனத்தை ஓட்டும்போது siren-ஐ இயக்குவது போக்குவரத்து குற்றங்களிலிருந்து தற்காலிக விலக்கு அளிக்கிறது - உங்கள் siren செயலில் இருக்கும்போது வேகம் அல்லது விபத்துகளுக்காக நீங்கள் அபராதம் விதிக்கப்பட முடியாது.
 
-## 999 emergency calls
+## 999 அவசர அழைப்புகள்
 
-Civilians can dial **999** from their phone to request emergency services. Calls show up on the **MDT (Mobile Data Terminal)** app, which is visible to all on-duty emergency-service players. You can:
+பொதுமக்கள் அவசர சேவைகளைக் கோர தங்கள் தொலைபேசியிலிருந்து **999**-ஐ டயல் செய்யலாம். அழைப்புகள் **MDT (Mobile Data Terminal)** app-ல் தோன்றும், இது கடமையில் உள்ள அனைத்து அவசர சேவை வீரர்களுக்கும் தெரியும். உங்களால்:
 
-- See the caller's location on your minimap.
-- Read any custom notes they included.
-- Set a waypoint to navigate there.
-- Mark a call as responded / closed.
+- உங்கள் minimap-ல் அழைப்பாளரின் இருப்பிடத்தைப் பார்க்கலாம்.
+- அவர்கள் சேர்த்த எந்த custom குறிப்புகளையும் படிக்கலாம்.
+- அங்கு செல்ல waypoint அமைக்கலாம்.
+- அழைப்பை பதிலளிக்கப்பட்டதாக / மூடப்பட்டதாக குறிக்கலாம்.
 
-This is the main way civilians summon you. The MDT is in the phone's app list - it appears only for players on emergency-service teams. See [Phone and UI](/sumaya/phone).
+இது பொதுமக்கள் உங்களை அழைக்கும் முதன்மை வழி. MDT தொலைபேசியின் app பட்டியலில் உள்ளது - இது அவசர சேவை அணிகளில் உள்ள வீரர்களுக்கு மட்டுமே தோன்றும். [Phone and UI](/sumaya/phone)-ஐப் பார்க்கவும்.
 
-## What next?
+## அடுத்தது என்ன?
 
-Pick a service to read about:
+படிக்க ஒரு சேவையைத் தேர்ந்தெடுக்கவும்:
 
-- [Bomba (fire brigade)](/sumaya/bomba)
-- [Kesihatan (medical)](/sumaya/kesihatan)
-- [Polis (police)](/sumaya/polis)
+- [பொம்பா (தீயணைப்புப் படை)](/sumaya/bomba)
+- [கெசிஹத்தான் (மருத்துவம்)](/sumaya/kesihatan)
+- [பொலிஸ் (காவல்துறை)](/sumaya/polis)
 
-Or jump to [Crime and Law](/sumaya/crime-and-law) if you want to know what the Polis are up against.
+அல்லது பொலிஸ் எதை எதிர்கொள்கிறார்கள் என்பதை அறிய [Crime and Law](/sumaya/crime-and-law)-க்கு செல்லவும்.

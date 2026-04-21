@@ -1,99 +1,98 @@
 ---
-title: Economy and XP
+title: பொருளாதாரம் & XP
 description: >-
-  Ringgit (BR), levels 1-500, XP multipliers, and the fastest ways to earn in
-  Lebuhraya.
+  Ringgit (BR), நிலைகள் 1-500, XP பெருக்கிகள், மற்றும் Lebuhraya-வில் விரைவாக
+  சம்பாதிக்கும் வழிகள்.
 lang: ta
 translated_from_hash: db0d271a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பொருளாதாரம் & XP
 
-# Economy and XP
-
-Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
+Lebuhraya-வில் எல்லாமே இரண்டு எண்களைச் சுற்றி அமைகிறது: உங்கள் **Ringgit (BR)** மற்றும் உங்கள் **நிலை**. இந்தப் பக்கம் இரண்டும் எப்படிச் செயல்படுகின்றன, அவை எங்கிருந்து வருகின்றன, மற்றும் விரைவாக எப்படி சம்பாதிப்பது என்பதை விளக்குகிறது.
 
 ## Ringgit (BR)
 
-Your currency. You start with **1000 BR** and you earn more by doing jobs, winning races, completing convoy runs, and redeeming rewards.
+உங்கள் நாணயம். நீங்கள் **1000 BR**-உடன் தொடங்குகிறீர்கள் மற்றும் வேலைகள் செய்வதன் மூலமும், பந்தயங்களை வெல்வதன் மூலமும், கான்வோய் ஓட்டங்களை முடிப்பதன் மூலமும், வெகுமதிகளை மீட்பதன் மூலமும் அதிகம் சம்பாதிக்கிறீர்கள்.
 
-### Earning BR
+### BR சம்பாதித்தல்
 
-- **Jobs** — Most jobs pay a flat or per-action BR amount. Food Delivery, Trucking, and Post Office are the reliable early earners. Emergency services (Bomba, Kesihatan) pay per resolved incident.
-- **Racing** — Track payouts scale with finish time and track difficulty.
-- **Convoy bonuses** — A convoy of friends earns extra BR per distance covered together.
-- **Daily / tier rewards** — Some career tiers give a BR payout when you rank up.
+- **வேலைகள்** — பெரும்பாலான வேலைகள் நிலையான அல்லது ஒரு செயலுக்கு BR தொகையைச் செலுத்துகின்றன. Food Delivery, Trucking, மற்றும் Post Office ஆரம்பகால நம்பகமான வருமான ஆதாரங்கள். அவசர சேவைகள் (Bomba, Kesihatan) தீர்க்கப்பட்ட ஒவ்வொரு சம்பவத்திற்கும் செலுத்துகின்றன.
+- **பந்தயம்** — ட்ராக் பணம் முடிக்கும் நேரம் மற்றும் ட்ராக் சிரமத்தைப் பொறுத்து அளவிடப்படுகிறது.
+- **கான்வோய் போனஸ்கள்** — நண்பர்களின் கான்வோய் ஒன்றாகக் கடந்த தூரத்திற்குக் கூடுதல் BR சம்பாதிக்கிறது.
+- **தினசரி / அடுக்கு வெகுமதிகள்** — சில தொழில் அடுக்குகள் நீங்கள் பதவி உயர்வு பெறும்போது BR வழங்குகின்றன.
 
-### Spending BR
+### BR செலவிடுதல்
 
-- **Fuel** — Prices listed in [Vehicles](/lebuhraya/vehicles). Electric is cheapest at 1 BR/litre, Diesel most expensive at 3 BR/litre.
-- **Shop items** — Food, snacks, tools, lanterns. See [Shops](/lebuhraya/shops).
-- **Housing** — Furniture and house customisation. See [Housing](/lebuhraya/housing).
-- **Vehicle repairs** — At a workshop after a crash.
-- **Gamepass access items** — Where a gamepass unlocks a team, you might also buy consumables that support that role.
+- **எரிபொருள்** — விலைகள் [Vehicles](/lebuhraya/vehicles)-இல் பட்டியலிடப்பட்டுள்ளன. Electric ஒரு லிட்டருக்கு 1 BR-இல் மிகவும் மலிவானது, Diesel ஒரு லிட்டருக்கு 3 BR-இல் மிக விலையுயர்ந்தது.
+- **கடை பொருட்கள்** — உணவு, தின்பண்டங்கள், கருவிகள், விளக்குகள். [Shops](/lebuhraya/shops)-ஐப் பார்க்கவும்.
+- **வீட்டுவசதி** — தளபாடங்கள் மற்றும் வீடு தனிப்பயனாக்கம். [Housing](/lebuhraya/housing)-ஐப் பார்க்கவும்.
+- **வாகன பழுதுபார்ப்பு** — விபத்துக்குப் பிறகு பட்டறையில்.
+- **Gamepass அணுகல் பொருட்கள்** — gamepass ஒரு team-ஐத் திறக்கும் போது, அந்தப் பாத்திரத்தை ஆதரிக்கும் நுகர்வுப் பொருட்களையும் நீங்கள் வாங்கலாம்.
 
-## Levels and XP
+## நிலைகள் மற்றும் XP
 
-There are **500 levels**. Each level requires **1000 XP** to complete. The level cap is firm — you can't level past 500, but XP continues to tick towards badges and career tiers after that.
+**500 நிலைகள்** உள்ளன. ஒவ்வொரு நிலையையும் முடிக்க **1000 XP** தேவைப்படுகிறது. நிலை உச்சவரம்பு உறுதியானது — நீங்கள் 500-ஐ மீறி உயர முடியாது, ஆனால் அதற்குப் பிறகும் XP பேட்ஜ்கள் மற்றும் தொழில் அடுக்குகளை நோக்கி தொடர்ந்து இயங்கும்.
 
-### Earning XP
+### XP சம்பாதித்தல்
 
-There are two kinds of XP:
+இரண்டு வகையான XP உள்ளன:
 
-**Driving XP (passive).** Every time you drive **1500 studs** in a driver seat, you earn **50 XP**. The counter only advances while you're in the seat and moving faster than a walk — stopped cars don't earn XP. This is the single biggest source of XP for most players, especially in early levels.
+**டிரைவிங் XP (பாசிவ்).** ஓட்டுநர் இருக்கையில் நீங்கள் **1500 stud** ஓட்டும் ஒவ்வொரு முறையும், நீங்கள் **50 XP** சம்பாதிக்கிறீர்கள். நீங்கள் இருக்கையில் இருந்து நடையை விட வேகமாக நகரும் போது மட்டுமே கவுண்டர் முன்னேறும் — நிறுத்தப்பட்ட கார்கள் XP சம்பாதிக்காது. பெரும்பாலான பிளேயர்களுக்கு, குறிப்பாக ஆரம்ப நிலைகளில், இது XP-இன் ஒற்றை மிகப்பெரிய ஆதாரம்.
 
-**Job XP (active).** Each completed job action awards a chunk of XP.
+**வேலை XP (ஆக்டிவ்).** முடிக்கப்பட்ட ஒவ்வொரு வேலை செயலும் ஒரு துண்டு XP-ஐ வழங்குகிறது.
 
-| Job | XP reward |
+| வேலை | XP வெகுமதி |
 |---|---|
-| Food Delivery | **250 XP** per delivery |
-| Taxi | Varies — about **0.11 to 0.13 XP per stud** of the trip (a 4000-stud trip = 440 to 520 XP) |
-| Other jobs | See [Jobs](/lebuhraya/jobs) for per-job details |
+| Food Delivery | ஒவ்வொரு டெலிவரிக்கும் **250 XP** |
+| Taxi | மாறுபடும் — பயணத்தின் ஒரு stud-க்கு தோராயமாக **0.11 முதல் 0.13 XP** (4000-stud பயணம் = 440 முதல் 520 XP) |
+| மற்ற வேலைகள் | ஒவ்வொரு வேலை விவரங்களுக்கும் [Jobs](/lebuhraya/jobs)-ஐப் பார்க்கவும் |
 
-### The XP multiplier stack
+### XP பெருக்கி அடுக்கு
 
-Multiple bonuses stack **additively** on top of your base ×1 multiplier. The final multiplier is applied to every XP award.
+உங்கள் அடிப்படை ×1 பெருக்கிக்கு மேல் பல போனஸ்கள் **கூட்டு முறையில்** அடுக்கப்படுகின்றன. இறுதிப் பெருக்கி ஒவ்வொரு XP வெகுமதிக்கும் பயன்படுத்தப்படுகிறது.
 
-| Source | Bonus |
+| ஆதாரம் | போனஸ் |
 |---|---|
-| Double XP weekend (periodic events) | Multiplier set to ×2 |
+| Double XP வார இறுதி (கால இடைவெளி நிகழ்வுகள்) | பெருக்கி ×2-க்கு அமைக்கப்பட்டது |
 | XP Boost gamepass | +50% |
-| Roblox Premium membership | +25% |
-| Injury System enabled | +15% |
-| Token XP Boost (consumable) | +100% |
-| Convoy bonus (up to) | +50% |
+| Roblox Premium உறுப்பினர் | +25% |
+| காயம் அமைப்பு செயல்படுத்தப்பட்டது | +15% |
+| Token XP Boost (நுகர்வு) | +100% |
+| கான்வோய் போனஸ் (வரை) | +50% |
 
-So a Premium player in a full convoy during a double-XP weekend, with an XP Boost token active, can reach well above ×3 multiplier. Stacking these is the fastest way to hit level 500.
+எனவே இரட்டை-XP வார இறுதியில் முழு கான்வோயில் உள்ள ஒரு Premium பிளேயர், ஒரு XP Boost டோக்கன் செயலில் இருப்பதுடன், ×3 பெருக்கிக்கு மேல் நன்கு அடைய முடியும். இவற்றை அடுக்குவது 500 நிலையை அடைய விரைவான வழி.
 
-### Convoy bonus breakdown
+### கான்வோய் போனஸ் பிரிப்பு
 
-Convoy bonuses stack in their own way:
+கான்வோய் போனஸ்கள் தங்கள் சொந்த வழியில் அடுக்கப்படுகின்றன:
 
-- **Base bonus** for being in a convoy: +15%
-- **Per additional member** (beyond two): +5% each
-- **Friend in the convoy**: +10%
-- **Same team in the convoy**: +10%
-- **Streak bonus** (time spent in convoy): +2% per minute, up to +10%
+- **கான்வோயில் இருப்பதற்கான அடிப்படை போனஸ்**: +15%
+- **ஒவ்வொரு கூடுதல் உறுப்பினருக்கும்** (இரண்டுக்கு அப்பால்): ஒவ்வொன்றுக்கும் +5%
+- **கான்வோயில் நண்பர்**: +10%
+- **கான்வோயில் அதே team**: +10%
+- **ஸ்ட்ரீக் போனஸ்** (கான்வோயில் செலவழித்த நேரம்): ஒரு நிமிடத்திற்கு +2%, +10% வரை
 
-The total convoy multiplier is capped at **+50%**.
+மொத்த கான்வோய் பெருக்கி **+50%**-இல் வரையறுக்கப்பட்டுள்ளது.
 
-## What resets and what saves
+## எது மீட்டமைக்கப்படுகிறது, எது சேமிக்கப்படுகிறது
 
-- **Live game**: Level, XP, BR, vehicles, housing — all saved automatically when you leave the server. You don't need to manually save.
-- **Studio / test servers**: XP resets to 0 when you join. A warning message appears. This is normal — your live progress is not affected.
-- **Private servers**: The economy is disabled so your balance doesn't change, but nothing is lost in the main game.
+- **லைவ் கேம்**: நிலை, XP, BR, வாகனங்கள், வீட்டுவசதி — நீங்கள் server-ஐ விட்டு வெளியேறும் போது அனைத்தும் தானாகவே சேமிக்கப்படும். நீங்கள் கைமுறையாக சேமிக்க வேண்டியதில்லை.
+- **Studio / டெஸ்ட் servers**: நீங்கள் இணையும் போது XP 0-க்கு மீட்டமைக்கப்படுகிறது. ஒரு எச்சரிக்கை செய்தி தோன்றுகிறது. இது இயல்பானது — உங்கள் லைவ் முன்னேற்றம் பாதிக்கப்படாது.
+- **தனியார் servers**: பொருளாதாரம் முடக்கப்பட்டுள்ளது, எனவே உங்கள் பேலன்ஸ் மாறாது, ஆனால் பிரதான கேமில் எதுவும் இழக்கப்படாது.
 
-## Tips for levelling fast
+## விரைவாக நிலை உயர்த்துவதற்கான குறிப்புகள்
 
-1. **Stay in the driver seat on long routes.** Long-distance driving is the single biggest source of passive XP.
-2. **Do Food Delivery starting at Level 10.** 250 XP per delivery is the best flat rate until higher tiers unlock.
-3. **Convoy with at least one friend on the same team.** Activates both the friend bonus (+10%) and the same-team bonus (+10%).
-4. **Subscribe to Roblox Premium.** +25% XP on everything you do.
-5. **Save XP Boost tokens for long sessions.** The +100% is duration-based, so use it during commitment blocks (a full evening of racing or delivery).
-6. **Weekend events** occasionally double XP for everyone. Watch for announcements.
+1. **நீண்ட பாதைகளில் ஓட்டுநர் இருக்கையில் இருங்கள்.** நீண்ட தூர ஓட்டுதல் பாசிவ் XP-இன் ஒற்றை மிகப்பெரிய ஆதாரம்.
+2. **Level 10-இல் தொடங்கி Food Delivery செய்யுங்கள்.** உயர்ந்த அடுக்குகள் திறக்கும் வரை ஒவ்வொரு டெலிவரிக்கும் 250 XP என்பது சிறந்த நிலையான விகிதம்.
+3. **அதே team-இல் குறைந்தபட்சம் ஒரு நண்பருடன் கான்வோய் செய்யுங்கள்.** நண்பர் போனஸ் (+10%) மற்றும் அதே-team போனஸ் (+10%) இரண்டையும் செயல்படுத்துகிறது.
+4. **Roblox Premium-க்கு குழுசேருங்கள்.** நீங்கள் செய்யும் அனைத்திற்கும் +25% XP.
+5. **நீண்ட அமர்வுகளுக்கு XP Boost டோக்கன்களை சேமிக்கவும்.** +100% காலக்கெடு அடிப்படையிலானது, எனவே அதை உறுதிப்பாடு தொகுதிகளின் போது (ஒரு முழு மாலை பந்தயம் அல்லது டெலிவரி) பயன்படுத்தவும்.
+6. **வார இறுதி நிகழ்வுகள்** அவ்வப்போது அனைவருக்கும் XP-ஐ இரட்டிப்பாக்குகின்றன. அறிவிப்புகளைக் கவனிக்கவும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Vehicles](/lebuhraya/vehicles) — Fuel pricing and ownership
-- [Jobs](/lebuhraya/jobs) — Per-job XP / BR breakdown
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — How to get the XP Boost gamepass
+- [Vehicles](/lebuhraya/vehicles) — எரிபொருள் விலை மற்றும் உரிமை
+- [Jobs](/lebuhraya/jobs) — ஒவ்வொரு வேலைக்கும் XP / BR பிரிப்பு
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) — XP Boost gamepass-ஐ எப்படி பெறுவது

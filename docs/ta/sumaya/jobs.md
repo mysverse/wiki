@@ -1,96 +1,97 @@
 ---
-title: Careers Overview
-description: 'The three civilian career sectors in Sumaya — fishing, service, and palm oil.'
+title: வேலைகள் கண்ணோட்டம்
+description: >-
+  Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் — மீன்பிடி, சேவை, மற்றும் பனை
+  எண்ணெய்.
 lang: ta
 translated_from_hash: c613dd75
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வேலைகள் கண்ணோட்டம்
 
-# Careers Overview
+Sumaya-வில் உள்ள தொழில்கள் என்பது Ringgit மற்றும் XP சம்பாதிக்க நீங்கள் செய்யக்கூடிய குடிமக்கள் வேலைகள் ஆகும். மூன்று தொழில் **துறைகள்** உள்ளன, ஒவ்வொன்றுக்கும் அதன் சொந்த தரவரிசை ஏணி மற்றும் வெகுமதிகள் உள்ளன.
 
-Careers in Sumaya are the civilian jobs you can do to earn Ringgit and XP. There are three career **sectors**, each with its own rank ladder and rewards.
+இந்தப் பக்கம் தொழில்கள் பொதுவாக எப்படி வேலை செய்கின்றன என்பதை விளக்குகிறது. தனிப்பட்ட துறைகளுக்கு அவற்றின் சொந்த பக்கங்கள் உள்ளன:
 
-This page covers how careers work in general. Individual sectors have their own pages:
+- [மீன்பிடி](/sumaya/jobs-fishing)
+- [சேவைத் துறை: Mamak மற்றும் Fast Food](/sumaya/jobs-service)
+- [பனை எண்ணெய் (வேளாண்மை)](/sumaya/jobs-palm-oil)
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+## "துறை" என்றால் என்ன?
 
-## What's a "sector"?
+துறை என்பது ஒரு வேலை வகை. ஒவ்வொரு துறைக்கும்:
 
-A sector is a category of work. Each sector has:
+- ஒரு **பெயர்** (எ.கா. "மீன்பிடித் துறை", "வேளாண்மைத் துறை").
+- ஒரு **அதிகபட்ச நிலை**, இதை நீங்கள் XP சம்பாதிப்பதன் மூலம் அடையலாம்.
+- ஒரு **தரவரிசை ஏணி** - உங்கள் துறை நிலை உயரும் போது, விளையாட்டில் உங்கள் பட்டம் மாறுகிறது.
+- அநேகமாக **நிலை-கட்டுப்பாட்டுள்ள உள்ளடக்கம்** - ஒரு குறிப்பிட்ட துறை நிலையில் மட்டுமே திறக்கும் வாகனங்கள் அல்லது கருவிகள்.
 
-- A **name** (e.g. "Fishing Sector", "Agricultural Sector").
-- A **maximum level**, which you grind by earning XP.
-- A **rank ladder** - as your sector level goes up, your in-game title changes.
-- Possibly **level-gated content** - vehicles or tools that only unlock at a certain sector level.
+ஆரம்பத்திலிருந்தே நீங்கள் தேர்வு செய்யக்கூடிய மூன்று **குடிமக்கள் துறைகள்** உள்ளன:
 
-There are three **civilian sectors** you can pick from the start:
-
-| Sector | What you do | Max level | Start requirement |
+| துறை | நீங்கள் செய்வது | அதிகபட்ச நிலை | தொடக்கத் தேவை |
 |--------|-------------|-----------|-------------------|
-| Fishing | Rod on the pier or trawl on a boat | 100 | None |
-| Service (Mamak / Fast Food) | Serve food, take orders | 100 | Reach sector level 50 in fishing or agro |
-| Agriculture (palm oil) | Harvest palm fruit bunches | 25 | None (available immediately) |
+| மீன்பிடி | கரையில் தூண்டில் அல்லது படகில் வலை | 100 | எதுவுமில்லை |
+| சேவை (Mamak / Fast Food) | உணவு பரிமாறுதல், ஆர்டர் எடுத்தல் | 100 | மீன்பிடி அல்லது வேளாண்மையில் துறை நிலை 50 அடையுங்கள் |
+| வேளாண்மை (பனை எண்ணெய்) | பனைப்பழக் கொத்துக்களை அறுவடை செய்தல் | 25 | எதுவுமில்லை (உடனடியாகக் கிடைக்கிறது) |
 
-The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown in the civilian careers app - you join them by picking the matching team from the main menu. See [Emergency Services overview](/sumaya/emergency-services).
+மூன்று **அவசரச் சேவைத் துறைகள்** (Bomba, Kesihatan, Polis) குடிமக்கள் தொழில்கள் செயலியில் காட்டப்படுவதில்லை - முதன்மை பட்டியலில் இருந்து பொருத்தமான அணியைத் தேர்ந்தெடுப்பதன் மூலம் நீங்கள் அவற்றில் சேரலாம். [அவசர சேவைகள் கண்ணோட்டத்தை](/sumaya/emergency-services) காண்க.
 
-## How to start a career
+## ஒரு தொழிலை எப்படித் தொடங்குவது
 
-1. Open your **phone** and tap the **Careers** app.
-2. Pick a sector. If it's locked, the app will tell you why.
-3. Walk up to the matching **career station** in the world (a fishing dock, a mamak stall, a palm plantation). The Careers app and the quest guidance beam will point you there.
-4. Press the **interact** prompt to clock in.
+1. உங்கள் **தொலைபேசியை** திறந்து **Careers** செயலியைத் தட்டுங்கள்.
+2. ஒரு துறையைத் தேர்ந்தெடுங்கள். அது பூட்டப்பட்டிருந்தால், ஏன் என்பதை செயலி உங்களுக்குச் சொல்லும்.
+3. உலகில் பொருத்தமான **தொழில் நிலையத்திற்கு** நடந்து செல்லுங்கள் (மீன்பிடி கப்பல்துறை, mamak கடை, பனை தோட்டம்). Careers செயலியும், பணி வழிகாட்டி ஒளிக்கற்றையும் உங்களை அங்கு சுட்டிக்காட்டும்.
+4. வேலைக்கு நுழைய **interact** ப்ராம்ப்ட்டை அழுத்துங்கள்.
 
-Once you're clocked in:
+நீங்கள் வேலைக்கு நுழைந்தவுடன்:
 
-- A sector-specific HUD shows up.
-- Relevant tools spawn in your backpack (fishing rod, palm hook, etc.).
-- You start earning XP and Ringgit for actions you complete.
+- துறை-குறிப்பிட்ட HUD தோன்றும்.
+- தொடர்புடைய கருவிகள் உங்கள் பை-யில் தோன்றும் (மீன்பிடி தூண்டில், பனை கொக்கி, முதலியன).
+- நீங்கள் முடிக்கும் செயல்களுக்கு XP மற்றும் Ringgit சம்பாதிக்கத் தொடங்குகிறீர்கள்.
 
-## Clocking out
+## வேலையை முடித்து வெளியேறுதல்
 
-Open the Careers app and tap the active job to stop. Some sectors (like palm oil) pay out your earnings only **when you clock out**, so don't forget to finish your shift.
+நிறுத்துவதற்கு Careers செயலியைத் திறந்து செயலில் உள்ள வேலையைத் தட்டுங்கள். சில துறைகள் (பனை எண்ணெய் போன்றவை) **நீங்கள் வேலையை முடிக்கும் போது** மட்டுமே உங்கள் வருவாயைச் செலுத்துகின்றன, எனவே உங்கள் பணியை முடிக்க மறந்துவிடாதீர்கள்.
 
-You'll also stop automatically if:
+கீழ்க்கண்ட சந்தர்ப்பங்களில் நீங்கள் தானாகவே நிறுத்தப்படுவீர்கள்:
 
-- Your character respawns (any death ends the shift).
-- You switch teams.
+- உங்கள் கதாபாத்திரம் மறுபிறப்பு அடைகிறது (எந்த மரணமும் பணியை முடிக்கிறது).
+- நீங்கள் அணிகளை மாற்றுகிறீர்கள்.
 
-## Civilian XP and rewards, in brief
+## குடிமக்கள் XP மற்றும் வெகுமதிகள், சுருக்கமாக
 
-Every action pays you two things:
+ஒவ்வொரு செயலும் உங்களுக்கு இரண்டு விஷயங்களைச் செலுத்துகிறது:
 
-1. **Player XP** - levels up your global account. Max player level is 300.
-2. **Sector XP** - levels up the specific sector you're working in.
+1. **Player XP** - உங்கள் உலகளாவிய கணக்கின் நிலையை உயர்த்துகிறது. அதிகபட்ச player நிலை 300.
+2. **Sector XP** - நீங்கள் வேலை செய்யும் குறிப்பிட்ட துறையின் நிலையை உயர்த்துகிறது.
 
-Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fishing pays 15 XP per species - player XP only, no sector XP). Service sector pays per order and scales by level. Palm oil banks your earnings and pays a 50 XP bonus at the end of the shift.
+செயல் செலுத்தல்கள் துறையைப் பொறுத்தவை. வலை மீன்பிடிப்பு ஒரு பிடிக்கு 2 XP வழங்குகிறது (தூண்டில் மீன்பிடிப்பு ஒரு இனத்திற்கு 15 XP செலுத்துகிறது - player XP மட்டுமே, sector XP இல்லை). சேவைத் துறை ஆர்டருக்கு செலுத்துகிறது மற்றும் நிலைக்கு ஏற்ப அளவிடுகிறது. பனை எண்ணெய் உங்கள் வருவாயை சேமித்து வைத்து, பணியின் முடிவில் 50 XP போனஸ் வழங்குகிறது.
 
-See each sector page for the numbers, and [Progression](/sumaya/progression) for how XP converts to levels.
+எண்கள் பற்றி ஒவ்வொரு துறை பக்கத்தையும் பார்க்கவும், மற்றும் XP எவ்வாறு நிலைகளாக மாறுகிறது என்பதற்கு [முன்னேற்றம்](/sumaya/progression) பார்க்கவும்.
 
-## Which career should I pick first?
+## நான் முதலில் எந்தத் தொழிலைத் தேர்ந்தெடுக்க வேண்டும்?
 
-Rough guide:
+கச்சா வழிகாட்டி:
 
-- **Want fast, steady cash with no stress?** Go fishing. Calm, low-pressure, and boats get better as you level up.
-- **Like repetitive task-clearing?** Mamak or Fast Food in the service sector. Take orders, prepare items, serve customers.
-- **Want the best payout per shift?** Palm oil. Harvests pile up and pay at end-of-shift, with a 50 XP bonus on top.
-- **Just want to explore?** Skip civilian work for now, grab a free car from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
+- **மன அழுத்தம் இல்லாமல் வேகமான, நிலையான பணம் வேண்டுமா?** மீன்பிடிக்கச் செல்லுங்கள். அமைதி, குறைந்த அழுத்தம், மற்றும் நீங்கள் நிலை உயரும்போது படகுகள் சிறப்பாகின்றன.
+- **மீண்டும் மீண்டும் பணிகளை அழிப்பதை விரும்புகிறீர்களா?** சேவைத் துறையில் Mamak அல்லது Fast Food. ஆர்டர்களை எடுக்கவும், பொருட்களைத் தயாரிக்கவும், வாடிக்கையாளர்களுக்குப் பரிமாறவும்.
+- **ஒரு பணிக்கு சிறந்த செலுத்துதல் வேண்டுமா?** பனை எண்ணெய். அறுவடைகள் குவிந்து பணியின் முடிவில் செலுத்தப்படுகின்றன, மேலே 50 XP போனஸுடன்.
+- **வெறுமனே ஆராய விரும்புகிறீர்களா?** இப்போதைக்கு குடிமக்கள் வேலையைத் தவிர்த்து, [vehicle spawner](/sumaya/vehicles) இலிருந்து ஒரு இலவச காரை எடுத்துக்கொண்டு, சுற்றி ஓட்டுங்கள். நீங்கள் Ringgit விரும்பும்போது திரும்பி வாருங்கள்.
 
-## Cross-sector tips
+## குறுக்கு-துறை குறிப்புகள்
 
-- **You can only work one job at a time.** If you clock in to fishing, you need to clock out before you can start mamak.
-- **Sector level and player level rise together.** Every XP you earn on a job boosts both - so grinding one sector also levels your global account.
-- **Emergency-service sectors are uniform.** Bomba, Polis, and Kesihatan all go up to level 100 with similar reward curves. Civilian sectors differ more.
-- **Kesihatan's injury system gives a +15% player-XP boost to everyone on the server** while it's active. If you see the boost active, it's a good time to grind.
+- **நீங்கள் ஒரு நேரத்தில் ஒரு வேலை மட்டுமே செய்ய முடியும்.** நீங்கள் மீன்பிடிக்கு வேலைக்கு நுழைந்தால், mamak-ஐ தொடங்குவதற்கு முன் வெளியேற வேண்டும்.
+- **துறை நிலை மற்றும் player நிலை ஒன்றாக உயருகின்றன.** ஒரு வேலையில் நீங்கள் சம்பாதிக்கும் ஒவ்வொரு XP-ம் இரண்டையும் மேம்படுத்துகிறது - எனவே ஒரு துறையை சம்பாதிப்பது உங்கள் உலகளாவிய கணக்கையும் நிலை உயர்த்துகிறது.
+- **அவசரச் சேவைத் துறைகள் ஒரே மாதிரியானவை.** Bomba, Polis, மற்றும் Kesihatan அனைத்தும் ஒத்த வெகுமதி வளைவுகளுடன் 100 நிலை வரை செல்கின்றன. குடிமக்கள் துறைகள் அதிகம் வேறுபடுகின்றன.
+- **Kesihatan-இன் காயம் அமைப்பு செயலில் இருக்கும் போது server-இல் உள்ள அனைவருக்கும் +15% player-XP மேம்பாட்டை வழங்குகிறது**. மேம்பாடு செயலில் இருப்பதை நீங்கள் பார்த்தால், அது சம்பாதிப்பதற்கு நல்ல நேரம்.
 
-## What next?
+## அடுத்து என்ன?
 
-Pick a sector to read about in detail:
+விரிவாக படிக்க ஒரு துறையைத் தேர்ந்தெடுங்கள்:
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- [மீன்பிடி](/sumaya/jobs-fishing)
+- [சேவைத் துறை: Mamak மற்றும் Fast Food](/sumaya/jobs-service)
+- [பனை எண்ணெய் (வேளாண்மை)](/sumaya/jobs-palm-oil)
 
-Or read [Progression](/sumaya/progression) to understand how XP and levels work across the whole game.
+அல்லது முழு விளையாட்டிலும் XP மற்றும் நிலைகள் எவ்வாறு வேலை செய்கின்றன என்பதைப் புரிந்துகொள்ள [முன்னேற்றம்](/sumaya/progression) படிக்கவும்.

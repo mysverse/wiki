@@ -1,15 +1,14 @@
 ---
-title: Getting Started
+title: Mula
 description: >-
-  Start playing Sumaya — main menu, team pick, controls, and the first five
-  minutes in town.
+  Mula bermain Sumaya — menu utama, pemilihan pasukan, kawalan, dan lima minit
+  pertama di bandar.
 lang: ms
 translated_from_hash: 5045a92c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Mula dengan Sumaya
+# Mula
 
 ![Sumaya](/images/sumaya/sumaya_feature.webp)
 

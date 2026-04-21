@@ -1,204 +1,203 @@
 ---
-title: Crime and Law
-description: 'Carjacking, pickpocketing, wanted stars, and jail in Sumaya.'
+title: 犯罪与法律
+description: Sumaya 的劫车、扒窃、通缉星级与监禁机制。
 lang: zh
-translated_from_hash: 878338d5
+translated_from_hash: 13412ce8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 犯罪与法律
 
-# Crime and Law
+如果你愿意,Sumaya 也让你扮演罪犯角色。本页面介绍玩家可进行的三大主要罪行、违法积分与通缉星级系统的运作方式,以及被抓后会发生什么。
 
-Sumaya lets you play the criminal side if you want. This page covers the three main crimes available to players, how the offence and wanted-star system works, and what happens if you get caught.
+**请注意:** 游戏原本设计为在紧急服务玩家(POLIS、BOMBA、Kesihatan)犯罪时自动降级,但该降级事件的监听器目前并未在正式版本中连接。实际上,劫车的警察或消防员仍然会留在其团队中 - 自动降级并不会真正将你踢出。即便如此,持有犯罪工具的执勤警员会自动退出被动模式,而 Polis 团队也根本无法使用被动模式,因此在值勤时犯罪既不切实际,也不符合角色扮演。若你想当罪犯,请先切换到 Visitors 或 Malaysians。
 
-**Important:** If you're on an emergency-service team (POLIS, BOMBA, Kesihatan), committing a crime **auto-demotes you** off the team the moment you cross into 1-star wanted. Switch to Visitors or Malaysians first if you want to be a criminal.
+## 违法积分系统
 
-## The offence system
+你每犯一次罪都会累积**违法积分**。积分越高,**通缉星级**越高,这会影响警察对你的反应方式,以及被捕后你将在监狱中待多久。
 
-Every crime you commit adds **offence points**. The more points, the more **wanted stars** you get, which affects how police respond to you and how long you'll sit in jail if arrested.
+### 通缉星级门槛
 
-### Wanted star thresholds
-
-| Offence points | Wanted stars |
+| 违法积分 | 通缉星级 |
 |----------------|--------------|
-| 0-9 | None |
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| 0-9 | 无 |
+| 10-24 | 1 星 |
+| 25-49 | 2 星 |
+| 50-79 | 3 星 |
+| 80-119 | 4 星 |
+| 120+ | 5 星 |
 
-### Wanted decay
+### 通缉衰减
 
-If you manage to lay low (no new offences) for **5 minutes straight**, your wanted status fully resets. A short decay timer means committing one big crime and hiding can be enough to avoid a chase.
+如果你能保持低调(没有新违法行为)连续 **5 分钟**,你的通缉状态将完全重置。较短的衰减计时器意味着犯下一个大案然后躲起来,就足以避免被追。
 
-## Crimes you can commit
+## 你可以犯下的罪行
 
-### Carjacking
+### 劫车
 
-Steal someone else's parked vehicle.
+偷走别人停放的车辆。
 
-**What you need:**
-- A **Slim Jim** tool (free from the **Abang Samseng (Carjack)** NPC - find him on the map and hold the proximity prompt). The Slim Jim is **consumed** on use, so you'll need to go back for another one per carjack.
-- You can't be on a law-enforcement team.
-- You can't be in passive mode, arrested, or detained.
+**你需要什么:**
+- 一个 **Slim Jim** 工具(免费从 **Abang Samseng (Carjack)** NPC 处获得 - 在地图上找到他并按住近距交互提示)。Slim Jim 使用后会被**消耗**,所以每次劫车都需要再回去拿一个。
+- 你不能在执法团队中。
+- 你不能处于被动模式、被逮捕或被拘留状态。
 
-**How it works:**
-1. Approach a parked, unoccupied vehicle with the Slim Jim equipped.
-2. Hold F (or the mobile equivalent) for **3 seconds** within 15 studs of the driver's seat.
-3. The vehicle is now stolen - yours to drive.
-4. A **drop-off zone** is assigned to you randomly (shown on the minimap).
-5. Drive the stolen vehicle to the drop-off zone to sell it.
+**运作方式:**
+1. 装备好 Slim Jim 后,靠近一辆停放的无人车辆。
+2. 在距离驾驶座 15 stud 内按住 F 键(或移动设备的等效键)**3 秒**。
+3. 该车辆现在已被偷 - 归你驾驶。
+4. 系统会随机为你分配一个**交付区**(在小地图上显示)。
+5. 把被偷的车辆开到交付区卖掉。
 
-**Reward:** **500 to 1,200 Ringgit** (random, paid to your bank account).
+**奖励:** **500 至 1,200 Ringgit**(随机金额,支付到你的银行账户)。
 
-**Limits:**
-- Stolen vehicles auto-despawn after **5 minutes**. You'll get warnings at 60 seconds and 10 seconds remaining.
-- You can only have **one stolen vehicle at a time**.
-- After carjacking once, you're on a **5-minute personal cooldown** before you can carjack again.
-- The Slim Jim is **consumed** on use - you'll need a new one for the next carjack.
-- You can't steal your own vehicle (the system knows who owns it via the plate).
+**限制:**
+- 被偷车辆在 **5 分钟**后会自动消失。你会在剩余 60 秒和 10 秒时收到警告。
+- 你一次只能拥有**一辆被偷车辆**。
+- 劫车一次后,你会进入 **5 分钟的个人冷却**,之后才能再次劫车。
+- Slim Jim 使用后会被**消耗** - 下次劫车你需要一个新的。
+- 你不能偷自己的车辆(系统通过车牌知道车主是谁)。
 
-**Offence:** +25 points (will hit 2 stars if you had nothing else going).
+**违法:** +25 积分(如果你之前没有其他违法记录,将达到 2 星)。
 
-### Pickpocketing
+### 扒窃
 
-Steal Ringgit directly from another player's wallet.
+直接从另一位玩家的钱包中偷走 Ringgit。
 
-**What you need:**
-- A **Pickpocket Knife** tool (free from the **Abang Samseng (Pickpocket)** NPC - hold the proximity prompt to "Take Pickpocket Knife", ~1.5 seconds).
+**你需要什么:**
+- 一个 **Pickpocket Knife** 工具(免费从 **Abang Samseng (Pickpocket)** NPC 处获得 - 按住近距交互提示以 "Take Pickpocket Knife",约 1.5 秒)。
 
-**How it works:**
-1. Equip the **Pickpocket Knife** tool.
-2. Get within **8 studs** of your target.
-3. Hold the action for **2 seconds** without being spotted.
-4. A random amount of Ringgit is transferred from their wallet to yours.
+**运作方式:**
+1. 装备 **Pickpocket Knife** 工具。
+2. 靠近目标 **8 stud** 以内。
+3. 按住动作键 **2 秒**且不被发现。
+4. 一笔随机金额的 Ringgit 会从他们的钱包转到你的钱包。
 
-**Reward:** **80 to 300 Ringgit** (random amount, from the victim's wallet).
+**奖励:** **80 至 300 Ringgit**(随机金额,来自受害者的钱包)。
 
-**Limits:**
-- Once you pickpocket someone, there's a **30-second cooldown** before you can pickpocket again.
-- The victim has a **60-second cooldown** where they can't be pickpocketed again.
-- There's a **180-second recovery window** where the victim may be able to report / reclaim.
+**限制:**
+- 每扒窃一次,会有 **30 秒冷却**,之后才能再次扒窃。
+- 受害者有 **60 秒冷却**期,期间无法被再次扒窃。
+- 有 **180 秒恢复窗口**,期间受害者可能能够报告 / 追回。
 
-**Offence:** +20 points.
+**违法:** +20 积分。
 
-#### NPC pickpocketing
+#### 扒窃 NPC
 
-You can also pickpocket **civilian NPCs** that walk around the map:
+你也可以扒窃在地图上走动的**平民 NPC**:
 
-- Up to 5 NPCs are out at a time.
-- Each carries between 50 and 200 Ringgit.
-- NPCs respawn 2 minutes after they're pickpocketed.
+- 同一时间最多有 5 个 NPC 出现。
+- 每个 NPC 携带 50 至 200 Ringgit。
+- NPC 被扒窃后 2 分钟会重生。
 
-NPC pickpocketing also costs offence points, but NPCs can't chase or report you, so it's a lower-risk way to farm.
+扒窃 NPC 同样会扣违法积分,但 NPC 不会追赶或举报你,所以这是低风险的刷钱方式。
 
-### Animal trafficking
+### 非法动物走私
 
-Smuggle illegal wildlife across Sumaya for a cash payout.
+在 Sumaya 走私非法野生动物以换取现金。
 
-**How it works:**
-1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 5 minutes - look for the highlighted spawn).
-2. Accept the job through the prompt.
-3. An illegal animal tool is given to you.
-4. You're told the **destination** (a specific drop-off part).
-5. Transport the animal to the destination to get paid.
+**运作方式:**
+1. 找到站在 "criminal part" 的**犯罪 NPC**(每 5 分钟在地图上轮换一次 - 留意高亮的出现点)。
+2. 通过交互提示接下工作。
+3. 你会获得一个非法动物工具。
+4. 系统会告诉你**目的地**(特定的交付位置)。
+5. 将动物运送到目的地以获得报酬。
 
-**Animals available:**
+**可用动物:**
 
-| Animal | Payout (to bank) |
+| 动物 | 报酬(存入银行) |
 |--------|------------------|
 | Illegal Turtle Egg | 400 Ringgit |
 | Illegal Pangolin | 1,000 Ringgit |
 | Illegal Hornbill | 2,000 Ringgit |
 
-The animal you get is random.
+你获得的动物是随机的。
 
-**Limits:**
-- 5-minute cooldown between jobs.
-- You need to get the animal to the destination - can't drop it or get arrested mid-way.
+**限制:**
+- 两份工作之间有 5 分钟冷却。
+- 你必须把动物送到目的地 - 中途不能丢弃或被捕。
 
-**Offence:** +50 points - that's 1 star in a single action. Keep committing more and you'll ramp fast.
+**违法:** +50 积分 - 一次行动就得 1 星。持续犯罪会让你星级飙升得很快。
 
-### Other offences
+### 其他违法行为
 
-A few other actions add offence points even if they're not really "crime sprees":
+一些其他行动也会增加违法积分,即使它们称不上是"犯罪狂欢":
 
-| Offence | Points | Passive lock |
+| 违法行为 | 积分 | 被动锁 |
 |---------|--------|--------------|
-| Vehicle crash (hitting another player or parked car) | 5 | 30 seconds |
-| Speeding inside a speed trap zone | 10 | 60 seconds |
+| 车辆碰撞(撞到其他玩家或停放的车) | 5 | 30 秒 |
+| 在测速区内超速 | 10 | 60 秒 |
 
-"Passive lock" means your passive-mode toggle is disabled for a period after the offence - so you can't instantly go invulnerable.
+"被动锁"意味着你的被动模式切换在违法后一段时间内被禁用 - 所以你无法立即变成无敌。
 
-## Exemptions
+## 豁免
 
-You **can't be cited** for speeding or crashes if:
+如果满足以下条件,你**不会被开罚**超速或碰撞:
 
-- You're in an **emergency vehicle** (Polis, Bomba, Kesihatan) with the **siren active**. This is how on-duty responders avoid penalty on their way to a call.
-- You're currently in **passive mode** when you crash. Passive drivers don't accumulate crash offence points. (You'll still take injury damage if the injury system is on, though — passive protects from PvP and offence tickets, not crash physics.)
+- 你在**紧急车辆**(Polis、Bomba、Kesihatan)中,且**警笛开启**。这就是执勤响应人员在赶赴呼叫时避免罚款的方式。
+- 你撞车时正处于**被动模式**。被动驾驶员不会累积碰撞违法积分。(如果受伤系统开启,你仍然会受伤害 — 被动保护你免受 PvP 与违法罚单,但不保护碰撞物理。)
 
-Outside of that, everyone is fair game.
+除此之外,任何人都是合法目标。
 
-## Getting arrested
+## 被逮捕
 
-If a POLIS player successfully uses handcuffs on you while you're wanted, you're **arrested** and sent to jail.
+如果一名 POLIS 玩家在你被通缉时成功对你使用手铐,你就被**逮捕**并送往监狱。
 
-### Jail duration
+### 监禁时长
 
-| Wanted stars at arrest | Jail time |
+| 被捕时的通缉星级 | 监禁时间 |
 |------------------------|-----------|
-| 1 | 30 seconds |
-| 2 | 1 minute |
-| 3 | 2 minutes |
-| 4 | 3 minutes |
-| 5 | 5 minutes |
+| 1 | 30 秒 |
+| 2 | 1 分钟 |
+| 3 | 2 分钟 |
+| 4 | 3 分钟 |
+| 5 | 5 分钟 |
 
-### While in jail
+### 监禁期间
 
-- A jail HUD shows your remaining time.
-- You can't switch teams.
-- When the timer ends, you're released and your offences reset.
+- 监狱 HUD 显示你的剩余时间。
+- 你不能切换团队。
+- 当计时器结束时,你会被释放,违法积分也会重置。
 
-### Surrendering
+### 投降
 
-Instead of running from the cops, you can walk up to a **surrender prompt** (usually near police stations or public locations) and turn yourself in. This cuts your jail time roughly in half:
+与其逃避警察,你可以走向**投降提示**(通常在警察局或公共场所附近)并自首。这能将你的监禁时间大致减半:
 
-| Stars | Jail time if surrendered | Passive lock after release |
+| 星级 | 投降后的监禁时间 | 释放后的被动锁 |
 |-------|---------------------------|----------------------------|
-| 1 | 15 seconds | 1 minute |
-| 2 | 30 seconds | 2 minutes |
-| 3 | 1 minute | 4 minutes |
-| 4 | 90 seconds | 6 minutes |
-| 5 | 150 seconds | 10 minutes |
+| 1 | 15 秒 | 1 分钟 |
+| 2 | 30 秒 | 2 分钟 |
+| 3 | 1 分钟 | 4 分钟 |
+| 4 | 90 秒 | 6 分钟 |
+| 5 | 150 秒 | 10 分钟 |
 
-Passive lock means you can't toggle passive mode for that duration after release - so the cops still have a window to catch you if you restart.
+被动锁意味着释放后你在该段时间内无法切换被动模式 - 所以如果你再次行动,警察仍有机会抓到你。
 
-### Leaving mid-offence
+### 违法中途离线
 
-If you log out while wanted, you'll serve **more** jail time on your next session:
+如果你在被通缉时登出,下次登录时会服更**长**的监禁时间:
 
-| Stars | LTAA jail time |
+| 星级 | LTAA 监禁时间 |
 |-------|----------------|
-| 1 | 45 seconds |
-| 2 | 90 seconds |
-| 3 | 150 seconds |
-| 4 | 4 minutes |
-| 5 | 6 minutes |
+| 1 | 45 秒 |
+| 2 | 90 秒 |
+| 3 | 150 秒 |
+| 4 | 4 分钟 |
+| 5 | 6 分钟 |
 
-(LTAA = "Leave To Avoid Arrest".) Quitting doesn't save you.
+(LTAA = "Leave To Avoid Arrest")退出并不能救你。
 
-## Tips
+## 技巧
 
-- **Plan your routes.** Before you carjack, check where the drop-off zone is - if it's on the other side of town and you can't get there in 5 minutes, you've lost the car.
-- **Don't commit crimes in passive mode.** You can't carjack, pickpocket, or traffic while in passive mode - the system blocks it.
-- **Watch offence points vs stars.** At 25 points you're a 2-star target; police reward for arresting you just doubled. Time to lay low and let decay kick in.
-- **Pickpocket NPCs for safe grinding.** Lower risk than player pickpocket, similar reward. Good for grinding offence-tracking achievements if any.
-- **Animal trafficking is 50 points per run.** One run = 1 star minimum. Two runs without decay = 3 stars. Don't get greedy.
-- **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimizes downtime.
+- **规划好路线。** 劫车前,先查看交付区在哪 - 如果它在城市另一端而你 5 分钟内到不了,车就白偷了。
+- **别在被动模式下犯罪。** 被动模式下你无法劫车、扒窃或走私 - 系统会阻止。
+- **关注违法积分与星级。** 达到 25 积分时你就是 2 星目标;警察逮捕你的奖励刚刚翻倍。该躲起来等衰减启动了。
+- **扒窃 NPC 是安全的刷钱方式。** 比扒窃玩家风险低,奖励相近。如果有违法追踪成就,也很适合用来刷。
+- **动物走私每次 50 积分。** 一次 = 至少 1 星。两次无衰减 = 3 星。别贪心。
+- **5 星前投降。** 如果你已把 Hornbill 的钱存入银行,投降能清除违法记录并将停机时间降至最低。
 
-## What next?
+## 接下来呢?
 
-- [Polis](/sumaya/polis) to see the other side.
-- [Phone and UI](/sumaya/phone) for the Passive Mode toggle and the MDT app.
-- [Vehicles](/sumaya/vehicles) for what you can steal (anyone's parked ride that isn't yours).
+- [Polis](/sumaya/polis) 查看另一面。
+- [Phone and UI](/sumaya/phone) 查看被动模式切换与 MDT 应用。
+- [Vehicles](/sumaya/vehicles) 了解你能偷什么(任何不是你的停放车辆)。

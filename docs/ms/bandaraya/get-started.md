@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: Mula dengan Bandaraya
 description: >-
-  Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit
-  (BR), pick a team, and explore Kuala Lumpur.
+  Mulakan pengembaraan anda di Bandaraya — navigasi menu, peroleh Bandar Ringgit
+  (BR), pilih pasukan, dan terokai Kuala Lumpur.
 lang: ms
 translated_from_hash: efebfc95
 translated_on: '2026-04-21'

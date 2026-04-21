@@ -1,174 +1,173 @@
 ---
-title: Economy
-description: 'Ringgit (SR), wallet vs bank mechanics, and earning in Sumaya.'
+title: பொருளாதாரம்
+description: 'Ringgit (SR), பணப்பை vs வங்கி, மற்றும் Sumaya-வில் சம்பாதிக்கும் வழிகள்.'
 lang: ta
 translated_from_hash: 44e97ed3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பொருளாதாரம்
 
-# Economy
+சுமாயாவின் நாணயம் **ரிங்கிட்** ஆகும், UI-யில் **SR** (சுமாயா ரிங்கிட்) என சுருக்கப்பட்டுள்ளது. இந்தப் பக்கம் அதை எவ்வாறு சம்பாதிப்பது, சேமிப்பது மற்றும் செலவிடுவது என்பதை விளக்குகிறது.
 
-Sumaya's currency is the **Ringgit**, abbreviated **SR** (Sumaya Ringgit) in the UI. This page covers how to earn, store, and spend it.
+## உங்கள் தொடக்க இருப்பு
 
-## Your starting balance
+ஒவ்வொரு புதிய விளையாட்டாளரும் இவற்றுடன் தொடங்குகிறார்:
 
-Every new player begins with:
+- **பணப்பையில்** **100 ரிங்கிட்**.
+- **வங்கியில்** **1,000 ரிங்கிட்**.
 
-- **100 Ringgit** in the **wallet**.
-- **1,000 Ringgit** in the **bank**.
+சில தொடக்க வாகனங்களை வாடகைக்கு எடுக்கவும், ஒரு Tier 1 வீட்டை (200 SR) வாங்கவும், சில கடை பொருட்களை எடுக்கவும் இது போதுமானது. ஆரம்பத்தில் புத்திசாலித்தனமாக செலவிடுங்கள்.
 
-That's enough to rent some starter vehicles, buy a Tier 1 house (200 SR), and grab a few shop items. Spend wisely at first.
+## பணப்பை vs வங்கி
 
-## Wallet vs bank
+உங்களிடம் இரண்டு தனித்தனி இருப்புகள் உள்ளன:
 
-You have two separate balances:
+### பணப்பை
 
-### Wallet
+- உங்களுடன் எடுத்துச் செல்லப்படுகிறது.
+- **500 ரிங்கிட்டில் வரம்பிடப்பட்டுள்ளது**. உங்கள் பணப்பையை 500-ஐ தாண்ட வைக்கும் திரும்பப் பெறுதல்களை ATM-கள் மறுக்கின்றன, மேலும் விளையாட்டாளர் முதல் விளையாட்டாளர் பரிமாற்றங்கள் பெறும் பணப்பையின் இடத்திற்கு மட்டுப்படுத்தப்படுகின்றன.
+- உடனடி வாங்குதல்களுக்கு (கடை பொருட்கள், சில வாகன வாடகைகள்) நீங்கள் என்ன செலவிடுகிறீர்கள்.
+- பாக்கெட்டடிப்பதன் மூலம் **திருடப்படலாம்** (ஒரு நேரத்தில் 80-300 ரிங்கிட், 8 stud-க்குள்).
+- பெரும்பாலான வேலை வெகுமதிகள் (பொம்பா/போலிஸ்/கெசிஹாதான் செயல்திறன் சம்பளம், மீன்பிடித்தல், ரேடார் பிடிப்புகள்) நேரடியாக பணப்பைக்கு செலுத்தப்படுகின்றன - நிரம்பியிருந்தால், பொங்கி வழிவது கீழே விழுகிறது. அவ்வப்போது வங்கியில் டெபாசிட் செய்ய திட்டமிடுங்கள்.
 
-- Carried on your person.
-- **Capped at 500 Ringgit**. ATMs refuse withdrawals that would push your wallet over 500, and player-to-player transfers are clamped to the receiving wallet's headroom.
-- What you spend on immediate purchases (shop items, some vehicle rentals).
-- Can be **stolen** via pickpocketing (80-300 Ringgit at a time, within 8 studs).
-- Most job rewards (Bomba/Polis/Kesihatan per-action pay, fishing, radar captures) are paid directly to the wallet - if it's full, overflow is dropped. Plan to deposit into the bank periodically.
+### வங்கி
 
-### Bank
-
-- Secured in your account.
-- Not vulnerable to pickpocketing.
-- Where career earnings (palm oil, carjack sales, animal trafficking) land by default.
-- Required for big purchases (houses, Tier 2/3 trawlers, premium vehicles).
-- Accessed via an **ATM** - see below.
+- உங்கள் கணக்கில் பாதுகாக்கப்பட்டுள்ளது.
+- பாக்கெட்டடிப்பதற்கு பாதிக்கப்படாது.
+- தொழில் வருவாய்கள் (பாம் எண்ணெய், கார் கொள்ளை விற்பனை, விலங்கு கடத்தல்) இயல்பாக இங்கே வந்து சேரும் இடம்.
+- பெரிய வாங்குதல்களுக்கு (வீடுகள், Tier 2/3 இழுவை படகுகள், ப்ரீமியம் வாகனங்கள்) தேவை.
+- ஒரு **ATM** வழியாக அணுகப்படுகிறது - கீழே பார்க்கவும்.
 
 ## ATM
 
-ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you can:
+ATM-கள் சுமாயா முழுவதும் சிதறிக் கிடக்கின்றன (பொதுவாக கடைகள் மற்றும் வங்கிகளுக்கு அருகில்). ஒரு ATM-இல், நீங்கள் செய்யக்கூடியவை:
 
-- **Withdraw** from bank to your wallet. Can't withdraw an amount that would push your wallet over the 500 Ringgit cap.
-- **Deposit** from wallet to bank. No limit.
-- **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
+- வங்கியிலிருந்து உங்கள் பணப்பைக்கு **திரும்பப் பெறு**. உங்கள் பணப்பையை 500 ரிங்கிட் வரம்பைத் தாண்ட வைக்கும் தொகையை திரும்பப் பெற முடியாது.
+- பணப்பையிலிருந்து வங்கிக்கு **டெபாசிட்** செய்யுங்கள். எந்த வரம்பும் இல்லை.
+- மற்றொரு விளையாட்டாளருக்கு அவர்களின் **பயனர்பெயரால்** (பயனர் ID அல்ல) **மாற்றவும்**. ATM பரிமாற்றங்கள் **வங்கியிலிருந்து வங்கிக்கு** மட்டுமே.
 
-## Paying another player in person (Sadaqa / Donate)
+## நேரில் மற்றொரு விளையாட்டாளருக்கு பணம் செலுத்துதல் (சதாகா / நன்கொடை)
 
-For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
+தற்செயலான கையளிப்புகளுக்கு, உங்கள் **Wallet** கருவியை பொருத்தி மற்றொரு விளையாட்டாளரை நோக்கி நடந்து செல்லுங்கள். நீங்கள் அவர்களுக்கு **10 stud-க்குள்** இருக்கும்போது **"Sadaqa to User?"** சாற்று தோன்றும் (சதாகா என்பது தர்ம தானத்திற்கான மலாய் / அரபு சொல்).
 
-- **Wallet-to-wallet** transfer (not bank).
-- The receiver's wallet cap of 500 SR still applies - overfull wallets reject the donation.
-- Negative-amount transfers are blocked and flagged by the anti-cheat system, so don't try.
+- **பணப்பையிலிருந்து பணப்பைக்கு** பரிமாற்றம் (வங்கியல்ல).
+- பெறுபவரின் 500 SR பணப்பை வரம்பு இன்னும் பொருந்தும் - அதிகமாக நிரம்பிய பணப்பைகள் நன்கொடையை நிராகரிக்கும்.
+- எதிர்மறை தொகை பரிமாற்றங்கள் ஏமாற்று-எதிர்ப்பு அமைப்பால் தடுக்கப்பட்டு கொடியிடப்படுகின்றன, எனவே முயற்சிக்காதீர்கள்.
 
-Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new player. For larger transfers, use the **ATM Transfer** (bank-to-bank by username).
+விரைவான பாத்திரம் விளையாடும் பரிசுகள், பில் பகிர்தல் அல்லது புதிய விளையாட்டாளருக்கு உதவ சதாகாவைப் பயன்படுத்தவும். பெரிய பரிமாற்றங்களுக்கு, **ATM Transfer**-ஐப் பயன்படுத்தவும் (பயனர்பெயரால் வங்கியிலிருந்து வங்கிக்கு).
 
-## Earning Ringgit
+## ரிங்கிட் சம்பாதித்தல்
 
-### From jobs
+### வேலைகளிலிருந்து
 
-Per-action payouts. Totals depend on how long you work.
+ஒவ்வொரு செயலுக்கும் கட்டணம். மொத்தம் நீங்கள் எவ்வளவு நேரம் வேலை செய்கிறீர்கள் என்பதைப் பொறுத்தது.
 
-| Source | Ringgit |
-|--------|---------|
-| Rod fishing (per species sold) | 8 SR to wallet |
-| Trawl fishing (per fish) | 0.5 SR, paid as end-of-shift paycheck |
-| Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
-| Fast Food (per customer) | 25 SR to bank, +150 every 10, -20 wrong-order |
-| Palm oil (per harvest) | Banked at end-of-shift, level-scaled |
-| Bomba (per fire block) | 15 SR to wallet |
-| Bomba (milestone every 15 blocks) | +150 SR bonus |
-| Kesihatan (bandage) | 100 SR to wallet |
-| Kesihatan (splint) | 200 SR to wallet |
-| Kesihatan (milestone every 10 treatments) | +150 SR bonus |
-| Polis (arrest, per star) | 150 / 300 / 500 / 800 / 1200 SR to wallet |
-| Polis (milestone every 5 arrests) | +200 SR bonus |
-| Polis (radar capture) | 50 SR to wallet |
+| மூலம் | ரிங்கிட் |
+|-------|----------|
+| தூண்டில் மீன்பிடித்தல் (ஒரு இனம் விற்கப்படும் ஒவ்வொன்றிற்கும்) | பணப்பைக்கு 8 SR |
+| இழுவை மீன்பிடித்தல் (ஒரு மீனுக்கு) | 0.5 SR, ஷிப்ட் முடிவில் சம்பளமாக வழங்கப்படும் |
+| மாமாக் (ஒரு வாடிக்கையாளருக்கு) | வங்கிக்கு 30 SR, ஒவ்வொரு 10-க்கும் +180, தவறான ஆர்டருக்கு -25 |
+| ஃபாஸ்ட் ஃபுட் (ஒரு வாடிக்கையாளருக்கு) | வங்கிக்கு 25 SR, ஒவ்வொரு 10-க்கும் +150, தவறான ஆர்டருக்கு -20 |
+| பாம் எண்ணெய் (ஒரு அறுவடைக்கு) | ஷிப்ட் முடிவில் வங்கியில் டெபாசிட், நிலைக்கு ஏற்ப அளவிடப்படுகிறது |
+| பொம்பா (ஒரு தீ தொகுப்புக்கு) | பணப்பைக்கு 15 SR |
+| பொம்பா (ஒவ்வொரு 15 தொகுப்புகளுக்கு மைல்கல்) | +150 SR போனஸ் |
+| கெசிஹாதான் (கட்டு) | பணப்பைக்கு 100 SR |
+| கெசிஹாதான் (பிளினி) | பணப்பைக்கு 200 SR |
+| கெசிஹாதான் (ஒவ்வொரு 10 சிகிச்சைகளுக்கு மைல்கல்) | +150 SR போனஸ் |
+| போலிஸ் (கைது, ஒரு நட்சத்திரத்திற்கு) | பணப்பைக்கு 150 / 300 / 500 / 800 / 1200 SR |
+| போலிஸ் (ஒவ்வொரு 5 கைதுகளுக்கு மைல்கல்) | +200 SR போனஸ் |
+| போலிஸ் (ரேடார் பிடிப்பு) | பணப்பைக்கு 50 SR |
 
-### From crime
+### குற்றத்திலிருந்து
 
-Higher risk, higher reward. Rewards go to your bank.
+அதிக ஆபத்து, அதிக வெகுமதி. வெகுமதிகள் உங்கள் வங்கிக்குச் செல்கின்றன.
 
-| Crime | Ringgit |
-|-------|---------|
-| Carjacking drop-off | 500 - 1,200 SR (random) to bank |
-| Pickpocket (player) | 80 - 300 SR to wallet (from victim) |
-| Pickpocket (NPC) | 50 - 200 SR per NPC |
-| Illegal Turtle Egg trafficking | 400 SR to bank |
-| Illegal Pangolin trafficking | 1,000 SR to bank |
-| Illegal Hornbill trafficking | 2,000 SR to bank |
+| குற்றம் | ரிங்கிட் |
+|--------|----------|
+| கார் கொள்ளை டெலிவரி | வங்கிக்கு 500 - 1,200 SR (சீரற்ற) |
+| பாக்கெட்டடித்தல் (விளையாட்டாளர்) | பணப்பைக்கு 80 - 300 SR (பாதிக்கப்பட்டவரிடமிருந்து) |
+| பாக்கெட்டடித்தல் (NPC) | ஒரு NPC-க்கு 50 - 200 SR |
+| சட்டவிரோத ஆமை முட்டை கடத்தல் | வங்கிக்கு 400 SR |
+| சட்டவிரோத அலங்கு கடத்தல் | வங்கிக்கு 1,000 SR |
+| சட்டவிரோத இருவாய்ப்புள் கடத்தல் | வங்கிக்கு 2,000 SR |
 
-### From quests
+### சாகசங்களிலிருந்து
 
-The 12-quest chain pays a total of **2,900 Ringgit** from individual quest rewards plus a **1,500 Ringgit finale bonus**, for a total of **4,400 Ringgit** to your bank if you complete the whole chain. See [Quests](/sumaya/quests).
+12-சாகச சங்கிலி தனிப்பட்ட சாகச வெகுமதிகளிலிருந்து மொத்தம் **2,900 ரிங்கிட்** மற்றும் **1,500 ரிங்கிட் இறுதி போனஸ்** ஆகியவற்றை வழங்குகிறது, நீங்கள் முழு சங்கிலியையும் முடித்தால் உங்கள் வங்கிக்கு மொத்தம் **4,400 ரிங்கிட்** கிடைக்கும். [சாகசங்கள்](/sumaya/quests)-ஐப் பார்க்கவும்.
 
-## Biggest earners (ranked)
+## பெரிய வருவாய் ஈட்டுபவர்கள் (தரவரிசை)
 
-Roughly, from highest per-hour to lowest, assuming you stay busy:
+தோராயமாக, நீங்கள் பிஸியாக இருக்கிறீர்கள் என்று கருதினால், ஒரு மணி நேரத்திற்கு அதிகத்திலிருந்து குறைந்ததாக:
 
-1. **Polis 5-star arrests** - 1,200 SR each. If criminals are online, this is gold.
-2. **Animal trafficking (Hornbill)** - 2,000 SR per run. 5-min cooldown though.
-3. **Bomba fires** - 15 SR per block + milestone bonus every 15 blocks. Group of firefighters = fast.
-4. **Carjacking** - 500-1,200 SR per job. Once per 5 min, risky.
-5. **Kesihatan splints** - 200 SR per splint + milestone bonus.
-6. **Pickpocket NPCs** - 50-200 SR per pick, low risk, steady.
-7. **Palm oil shifts** - steady, level-dependent, end-of-shift banking.
-8. **Service sector orders** - steady, scales with level.
-9. **Rod fishing** - quick SR, player XP only, best for casual play.
-10. **Trawl fishing** - slower SR but the only way to level the fishing sector.
+1. **போலிஸ் 5-நட்சத்திர கைதுகள்** - ஒவ்வொன்றிற்கும் 1,200 SR. குற்றவாளிகள் ஆன்லைனில் இருந்தால், இது தங்கம்.
+2. **விலங்கு கடத்தல் (இருவாய்ப்புள்)** - ஒரு ரன்னுக்கு 2,000 SR. இருப்பினும் 5-நிமிட குளிர்ச்சி.
+3. **பொம்பா தீ** - ஒரு தொகுப்புக்கு 15 SR + ஒவ்வொரு 15 தொகுப்புகளுக்கும் மைல்கல் போனஸ். தீயணைப்பாளர்களின் குழு = வேகமாக.
+4. **கார் கொள்ளை** - ஒரு வேலைக்கு 500-1,200 SR. 5 நிமிடங்களுக்கு ஒருமுறை, ஆபத்தானது.
+5. **கெசிஹாதான் பிளிண்டுகள்** - ஒரு பிளிண்டுக்கு 200 SR + மைல்கல் போனஸ்.
+6. **பாக்கெட்டடி NPC-கள்** - ஒரு பிக்-க்கு 50-200 SR, குறைந்த ஆபத்து, நிலையான.
+7. **பாம் எண்ணெய் ஷிப்ட்கள்** - நிலையான, நிலையைப் பொறுத்தது, ஷிப்ட் முடிவில் வங்கியில் டெபாசிட்.
+8. **சேவைத் துறை ஆர்டர்கள்** - நிலையான, நிலைக்கு ஏற்ப அளவிடப்படுகிறது.
+9. **தூண்டில் மீன்பிடித்தல்** - விரைவான SR, விளையாட்டாளர் XP மட்டுமே, தற்செயலான விளையாட்டிற்கு சிறந்தது.
+10. **இழுவை மீன்பிடித்தல்** - மெதுவான SR ஆனால் மீன்பிடி துறையை நிலை உயர்த்த ஒரே வழி.
 
-## Spending Ringgit
+## ரிங்கிட் செலவிடுதல்
 
-### Vehicles
+### வாகனங்கள்
 
-Where most of your money will go.
+உங்கள் பணத்தின் பெரும்பகுதி செல்லும் இடம்.
 
-- **Free civilian cars** - dozens available at player level 1. Just rent and drive.
-- **Premium civilian cars** - 2,000-29,000 Ringgit. The Joguar XJ308 R is the cap.
-- **Fishing trawlers** - Tier 1 free, Tier 2 25,000, Tier 3 37,000.
-- **Team vehicles** - 6,500-20,000 Ringgit, gated by sector level.
+- **இலவச குடிமக்கள் கார்கள்** - விளையாட்டாளர் நிலை 1-இல் டஜன் கணக்கானவை கிடைக்கின்றன. வாடகைக்கு எடுத்து ஓட்டுங்கள்.
+- **ப்ரீமியம் குடிமக்கள் கார்கள்** - 2,000-29,000 ரிங்கிட். Joguar XJ308 R தான் உச்சவரம்பு.
+- **மீன்பிடி இழுவை படகுகள்** - Tier 1 இலவசம், Tier 2 25,000, Tier 3 37,000.
+- **குழு வாகனங்கள்** - 6,500-20,000 ரிங்கிட், துறை நிலையால் வரம்பிடப்பட்டுள்ளது.
 
-See [Vehicles](/sumaya/vehicles).
+[வாகனங்கள்](/sumaya/vehicles)-ஐப் பார்க்கவும்.
 
-### Housing
+### வீடுகள்
 
-- **Plot**: free (one per player).
-- **Tier 1 house** (Small Bornean): 200 Ringgit.
-- **Tier 2 house**: 500-700 Ringgit.
-- **Tier 3 house** (Modern Terrace): 1,200 Ringgit.
-- **Furniture**: per-item prices, typically 50-500 Ringgit each.
+- **மனை**: இலவசம் (விளையாட்டாளருக்கு ஒன்று).
+- **Tier 1 வீடு** (Small Bornean): 200 ரிங்கிட்.
+- **Tier 2 வீடு**: 500-700 ரிங்கிட்.
+- **Tier 3 வீடு** (Modern Terrace): 1,200 ரிங்கிட்.
+- **தளபாடங்கள்**: ஒரு பொருளுக்கான விலை, பொதுவாக ஒவ்வொன்றுக்கும் 50-500 ரிங்கிட்.
 
-See [Housing](/sumaya/housing).
+[வீடுகள்](/sumaya/housing)-ஐப் பார்க்கவும்.
 
-### Shops
+### கடைகள்
 
-Prices vary widely. A rough range:
+விலைகள் பரவலாக வேறுபடுகின்றன. ஒரு தோராயமான வரம்பு:
 
-- **Food items** from food stalls: 1-5 SR (cosmetic / roleplay tools, don't actually restore hunger in the current build).
-- **Gas cans** for boats: 75-125 SR. Red adds +25 fuel (75 SR), Green adds +50 fuel (100 SR), Black adds +75 fuel (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** - trying to top off an already-high boat does nothing and doesn't consume the can.
-- **Tools** (Slim Jim, Pickpocket Knife, etc.): 50-500 SR.
-- **Cosmetic items**: variable.
+- உணவு கடைகளிலிருந்து **உணவு பொருட்கள்**: 1-5 SR (அலங்கார / பாத்திரம் விளையாடும் கருவிகள், தற்போதைய பதிப்பில் உண்மையில் பசியை மீட்டெடுக்கவில்லை).
+- படகுகளுக்கான **எரிபொருள் டப்பாக்கள்**: 75-125 SR. சிவப்பு +25 எரிபொருள் சேர்க்கிறது (75 SR), பச்சை +50 எரிபொருள் சேர்க்கிறது (100 SR), கருப்பு +75 எரிபொருள் சேர்க்கிறது (125 SR). படகு எரிபொருள் அதிகபட்சம் 100; பொங்கி வழிவது வரம்பிடப்பட்டுள்ளது. **தற்போதைய எரிபொருள் 75-க்கு கீழ் இருக்கும்போது மட்டுமே மீண்டும் நிரப்புதல் வேலை செய்கிறது** - ஏற்கனவே அதிகமாக இருக்கும் படகை நிரப்ப முயற்சிப்பது எதுவும் செய்யாது மற்றும் டப்பாவை நுகராது.
+- **கருவிகள்** (Slim Jim, Pickpocket Knife, போன்றவை): 50-500 SR.
+- **அலங்கார பொருட்கள்**: மாறுபடும்.
 
-Shops are scattered across Sumaya. The minimap marks each one.
+சுமாயா முழுவதும் கடைகள் சிதறிக் கிடக்கின்றன. மினிமேப் ஒவ்வொன்றையும் குறிக்கிறது.
 
-## Milestone bonuses (stack these)
+## மைல்கல் போனஸ்கள் (இவற்றை அடுக்குங்கள்)
 
-Remember:
+நினைவில் கொள்ளுங்கள்:
 
-- Bomba: **+150 SR every 15 blocks**.
-- Kesihatan: **+150 SR every 10 treatments**.
-- Polis: **+200 SR every 5 arrests**.
+- பொம்பா: **ஒவ்வொரு 15 தொகுப்புகளுக்கும் +150 SR**.
+- கெசிஹாதான்: **ஒவ்வொரு 10 சிகிச்சைகளுக்கும் +150 SR**.
+- போலிஸ்: **ஒவ்வொரு 5 கைதுகளுக்கும் +200 SR**.
 
-These stack on top of per-action payouts. Plan your session to hit milestones, not just end arbitrarily.
+இவை ஒவ்வொரு செயலுக்கான கட்டணத்திற்கு மேல் அடுக்கப்படுகின்றன. வெறுமனே தன்னிச்சையாக முடிவதற்குப் பதிலாக, மைல்கற்களை அடைய உங்கள் அமர்வைத் திட்டமிடுங்கள்.
 
-## Tips
+## உதவிக்குறிப்புகள்
 
-- **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
-- **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
-- **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Don't spend every Ringgit on cars when a nice tier-3 house is only 1,200 SR away.
-- **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
-- **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
-- **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
+- **உங்கள் ரிங்கிட்டின் பெரும் பகுதியை வங்கியில் வைக்கவும்.** பணப்பை செலவிடுவதற்கு, வங்கி சேமிப்பதற்கு. உங்கள் பணப்பையில் நீங்கள் இழக்கக்கூடிய அளவை விட அதிகமாக ஒருபோதும் எடுத்துச் செல்லாதீர்கள்.
+- **5-நட்சத்திர கைதுகள் ஜாக்பாட்.** நீங்கள் போலிஸில் இருந்து, யாரேனும் 120+ குற்றப் புள்ளிகளில் இருந்தால், அவர்களை நெருங்கி இருங்கள்.
+- **கடத்தல் உயர் மதிப்புடையது ஆனால் உயர் ஆபத்துடையது.** இருவாய்ப்புள்ளுக்கு 2,000 SR அருமை, ஆனால் உங்களுக்கு நட்சத்திரங்கள் கிடைக்கும். அதற்காக திட்டமிடுங்கள்.
+- **வாங்கும் முன் சேமியுங்கள்.** ஒரு நல்ல tier-3 வீடு வெறும் 1,200 SR தூரத்தில் இருக்கும்போது கார்களுக்கு ஒவ்வொரு ரிங்கிட்டையும் செலவிட வேண்டாம்.
+- **இழுவை படகுகள் தங்கள் விலையை திருப்பிச் செலுத்துகின்றன.** 25,000 SR-இல் Tier 2 விலை அதிகமாக தெரிகிறது, ஆனால் நீங்கள் மீன்பிடித்தலில் அர்ப்பணிப்புடன் இருந்தால், கூடுதல் திறன் செலவை மீட்டெடுக்கிறது.
+- **குழு ஒருங்கிணைவு.** ஒரே பகுதியில் பொம்பா + கெசிஹாதான் குழு தோழர்கள் = நீங்கள் இருவரும் சம்பாதிக்கிறீர்கள். மருத்துவம் நோயாளிகளைப் பெறுகிறது (எரிப்பு பாதிக்கப்பட்டவர்கள்), பொம்பா தீக்கு அருகில் குழு தோழர்களுக்கு ஒவ்வொன்றிற்கும் 10 XP பெறுகிறது.
+- **999 ஆப்ஸை கவனிக்காமல் விடாதீர்கள்.** குடிமக்கள் அழைப்புகள் அவசர குழுக்களுக்கு எளிய கட்டணங்களை வழங்குகின்றன - அவர்களை அனுப்புங்கள், நீங்கள் வெகுமதிக்கு அருகிலுள்ள தொடர்புகளைப் பெறலாம்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Progression](/sumaya/progression) for how XP and Ringgit interact.
-- [Vehicles](/sumaya/vehicles) for the price catalog.
-- [Housing](/sumaya/housing) for house prices.
-- [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.
+- XP மற்றும் ரிங்கிட் எவ்வாறு தொடர்பு கொள்கின்றன என்பதற்கு [முன்னேற்றம்](/sumaya/progression).
+- விலை பட்டியலுக்கு [வாகனங்கள்](/sumaya/vehicles).
+- வீட்டு விலைகளுக்கு [வீடுகள்](/sumaya/housing).
+- பொருளாதாரத்தின் குற்றப் பக்கத்திற்கு [குற்றமும் சட்டமும்](/sumaya/crime-and-law).

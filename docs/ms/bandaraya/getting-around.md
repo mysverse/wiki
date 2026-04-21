@@ -1,233 +1,232 @@
 ---
-title: Getting Around Bandaraya — Public Transport Guide
+title: Pengangkutan Awam di Bandaraya — Panduan
 description: >-
-  Public transport in Bandaraya — MRT, LRT, monorail, buses, CAG card,
-  e-hailing, and TapNGo tolls.
+  Pengangkutan awam di Bandaraya — MRT, LRT, monorel, bas, kad CAG, e-hailing,
+  dan tol TapNGo.
 lang: ms
 translated_from_hash: 6f4b75c6
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Pengangkutan Awam di Bandaraya — Panduan
 
-# Getting Around Bandaraya — Public Transport Guide
+Panduan pemain untuk bergerak di sekitar Kuala Lumpur: bas, MRT, Monorel, tol lebuh raya, dan **kad CAG** yang mengikat semuanya.
 
-A player's guide to moving around Kuala Lumpur: buses, MRT, Monorail, highway tolls, and the **CAG card** that ties it all together.
+Semua harga adalah dalam **BR (Bandar Ringgit)**.
 
-All prices are in **BR (Bandar Ringgit)**.
+## Rujukan pantas
 
-## Quick reference
-
-| What | Cost (cash) | With CAG card | With CAG + monthly pass |
+| Apa | Kos (tunai) | Dengan kad CAG | Dengan CAG + pas bulanan |
 | --- | --- | --- | --- |
-| Bus ride (flat fare) | 5 BR | 5 BR (from card) | **Free** |
-| MRT / Monorail fast travel | Full price | **30 % off** | **50 % off** |
-| TapNGo highway gate | 15 BR | **20 % off** (12 BR) | 20 % off (12 BR) |
-| CAG card (one-time purchase) | 100 BR | — | — |
-| Monthly pass | 500 BR | — | Lasts 30 days |
+| Tambang bas (kadar rata) | 5 BR | 5 BR (dari kad) | **Percuma** |
+| Fast travel MRT / Monorel | Harga penuh | **Diskaun 30 %** | **Diskaun 50 %** |
+| Pintu tol TapNGo | 15 BR | **Diskaun 20 %** (12 BR) | Diskaun 20 % (12 BR) |
+| Kad CAG (pembelian sekali sahaja) | 100 BR | — | — |
+| Pas bulanan | 500 BR | — | Sah selama 30 hari |
 
-**TL;DR:** If you use public transport more than a few times, buy a CAG card. If you use it every day, get the monthly pass.
+**Ringkasnya:** Jika anda menggunakan pengangkutan awam lebih daripada beberapa kali, belilah kad CAG. Jika anda menggunakannya setiap hari, dapatkan pas bulanan.
 
 ---
 
-## The network
+## Rangkaian
 
-### MRT Kajang Line
-Three stations; walk-in fast travel between them.
+### Laluan MRT Kajang
+Tiga stesen; fast travel walk-in antara mereka.
 
 - **Conlay**
 - **Persiaran KLCC**
 - **Ampang Park**
 
-### KL Monorail Line
-Three more stations on a separate line.
+### Laluan KL Monorel
+Tiga lagi stesen di laluan yang berasingan.
 
 - **Bukit Bintang**
 - **Raja Chulan**
 - **Bukit Nanas**
 
-### Buses
-Run by several operators around the city — **MyTransit**, **FirstGroup**, and **Fermuda**. Look for passenger seats on tagged bus models; fare is charged automatically when you sit down.
+### Bas
+Dikendalikan oleh beberapa pengendali di sekitar bandar — **MyTransit**, **FirstGroup**, dan **Fermuda**. Cari tempat duduk penumpang pada model bas yang ditanda; tambang dikenakan secara automatik apabila anda duduk.
 
-### Highways
-Some highway routes pass through **TapNGo toll gates**. Your vehicle is charged 15 BR per gate, or 12 BR if you hold a CAG card.
+### Lebuh raya
+Sesetengah laluan lebuh raya melalui **pintu tol TapNGo**. Kenderaan anda dikenakan 15 BR setiap pintu, atau 12 BR jika anda memiliki kad CAG.
 
 ---
 
-## Fast travel (MRT & Monorail)
+## Fast travel (MRT & Monorel)
 
-1. Walk up to any MRT or Monorail station.
-2. A fast-travel panel opens showing the other stations on your line.
-3. Pick a destination. The price shown depends on whether you hold a CAG card:
-   - **No card:** full BR price charged from your wallet.
-   - **CAG card:** 30 % off, charged from your card balance.
-   - **CAG card + active monthly pass:** 50 % off, still from card balance.
-4. Screen fades to black; you arrive at the destination station.
+1. Hampiri mana-mana stesen MRT atau Monorel.
+2. Panel fast travel akan terbuka menunjukkan stesen lain di laluan anda.
+3. Pilih destinasi. Harga yang ditunjukkan bergantung pada sama ada anda memiliki kad CAG:
+   - **Tiada kad:** harga BR penuh dicaj daripada dompet anda.
+   - **Kad CAG:** diskaun 30 %, dicaj daripada baki kad anda.
+   - **Kad CAG + pas bulanan aktif:** diskaun 50 %, tetap dari baki kad.
+4. Skrin menjadi hitam; anda tiba di stesen destinasi.
 
-If your CAG balance is too low to cover the discounted fare, the system falls back to charging full BR from your wallet — the UI shows a hint reminding you to top up.
+Jika baki CAG anda terlalu rendah untuk menampung tambang berdiskaun, sistem akan kembali mencaj BR penuh daripada dompet anda — UI menunjukkan petunjuk mengingatkan anda untuk tambah nilai.
 
-### What it costs
+### Berapa kosnya
 
-Fare scales with how many hops you take (base + per-hop):
+Tambang berskala dengan bilangan hop yang anda ambil (asas + setiap hop):
 
-| Trip | Cash | With CAG (30% off) | With CAG + pass (50% off) |
+| Perjalanan | Tunai | Dengan CAG (diskaun 30%) | Dengan CAG + pas (diskaun 50%) |
 | --- | --- | --- | --- |
-| 1 hop (neighbour station) | 150 BR | 105 BR | 75 BR |
-| 2 hops (end of the line) | 200 BR | 140 BR | 100 BR |
+| 1 hop (stesen jiran) | 150 BR | 105 BR | 75 BR |
+| 2 hop (hujung laluan) | 200 BR | 140 BR | 100 BR |
 
-Formula: `100 + 50 × hops`. A full monthly pass ride pays for itself after about 7 trips.
-
----
-
-## Buses
-
-Buses operate across the city. There's no ticket to buy or button to press — just **board and sit**.
-
-- **Fare:** 5 BR per boarding, flat.
-- **Paid via CAG card** if you have one; deducted automatically when you sit in a passenger seat.
-- **No card, or card empty?** The fare becomes **debt**. You still ride, but your next top-up settles the debt before adding to your balance.
-- **Monthly pass holders:** rides are **free** — the "Saved with CAG" counter tracks the value anyway.
-- **Bus drivers are not charged** — the driver seat is exempt.
-- **Debt cap:** 200 BR. Reach it and further rides are refused until you top up.
-
-**Exit handling is forgiving.** Whether you stand up normally, get kicked from the seat, die, disconnect, or the bus despawns under you, the fare is charged exactly once for that boarding.
+Formula: `100 + 50 × hop`. Perjalanan pas bulanan penuh membayar balik selepas kira-kira 7 perjalanan.
 
 ---
 
-## TapNGo highway gates
+## Bas
 
-When your vehicle reaches a TapNGo gate:
+Bas beroperasi di seluruh bandar. Tiada tiket untuk dibeli atau butang untuk ditekan — hanya **naik dan duduk**.
 
-1. The gate deducts **15 BR** from your wallet (or **12 BR** if you own a CAG card — 20 % off, paid from card balance with fallback to cash).
-2. The gate opens.
-3. Drive through.
+- **Tambang:** 5 BR setiap kenaikan, kadar rata.
+- **Dibayar melalui kad CAG** jika anda memilikinya; dipotong secara automatik apabila anda duduk di tempat duduk penumpang.
+- **Tiada kad, atau kad kosong?** Tambang menjadi **hutang**. Anda masih boleh menaiki, tetapi tambah nilai seterusnya akan menjelaskan hutang sebelum menambah baki anda.
+- **Pemegang pas bulanan:** perjalanan adalah **percuma** — penghitung "Saved with CAG" tetap menjejaki nilainya.
+- **Pemandu bas tidak dicaj** — tempat duduk pemandu dikecualikan.
+- **Had hutang:** 200 BR. Jika sampai, perjalanan seterusnya akan ditolak sehingga anda tambah nilai.
 
-A vehicle that has already paid a specific gate won't be double-charged on the way out.
+**Pengendalian keluar adalah fleksibel.** Sama ada anda berdiri seperti biasa, ditendang dari tempat duduk, mati, terputus sambungan, atau bas despawn di bawah anda, tambang dicaj tepat sekali bagi kenaikan tersebut.
 
 ---
 
-# The CAG (Click And Go) card
+## Pintu tol lebuh raya TapNGo
 
-The **CAG card** is Bandaraya's stored-value transit card — modelled on Malaysia's real-life Touch n Go. Load it up once, tap automatically across buses, MRT, Monorail, and highway gates.
+Apabila kenderaan anda mencapai pintu TapNGo:
 
-## How to buy one
+1. Pintu memotong **15 BR** daripada dompet anda (atau **12 BR** jika anda memiliki kad CAG — diskaun 20 %, dibayar dari baki kad dengan sandaran ke tunai).
+2. Pintu terbuka.
+3. Pandu melalui.
 
-1. Find a **CAG kiosk** — one next to every MRT and Monorail station, plus a central kiosk in the city.
-2. Interact with the kiosk (line of sight required — the prompt won't work through walls).
-3. Pick **Buy Card** on the kiosk panel. Confirm the **100 BR** charge.
-4. You'll receive a **CAG Card** tool in your backpack. Equip it to see a compact balance badge above the card; activate it (click while held) to open your wallet UI.
+Kenderaan yang sudah membayar pintu tertentu tidak akan dicaj dua kali semasa keluar.
 
-Once you own a card, the tool is automatically granted to you on every spawn.
+---
 
-## Topping up
+# Kad CAG (Click And Go)
 
-At any kiosk:
+**Kad CAG** adalah kad transit nilai tersimpan Bandaraya — dimodelkan berdasarkan Touch n Go dunia sebenar Malaysia. Isikan sekali, ketuk secara automatik di bas, MRT, Monorel, dan pintu tol.
 
-1. Choose **Top Up**.
-2. Pick a denomination: **20 / 50 / 100 / 200 / 500 BR**.
-3. Confirm. Large top-ups (200 BR+) prompt for confirmation to prevent misclicks.
+## Cara membelinya
 
-- **Max balance:** 2 000 BR stored at once.
-- **Debt settles first.** If you have unpaid bus fare debt, the top-up clears that before adding to your available balance.
-- **Top-up buttons grey out** with a "(max)" tag when the denomination would exceed the cap.
+1. Cari **kiosk CAG** — satu di sebelah setiap stesen MRT dan Monorel, tambah kiosk pusat di bandar.
+2. Berinteraksi dengan kiosk (garisan pandangan diperlukan — prompt tidak akan berfungsi melalui dinding).
+3. Pilih **Buy Card** pada panel kiosk. Sahkan caj **100 BR**.
+4. Anda akan menerima alat **CAG Card** di dalam backpack anda. Lengkapkannya untuk melihat lencana baki ringkas di atas kad; aktifkannya (klik semasa dipegang) untuk membuka UI dompet anda.
 
-## The monthly pass
+Setelah anda memiliki kad, alat itu akan diberikan secara automatik kepada anda pada setiap spawn.
 
-- **Price:** 500 BR at any kiosk.
-- **Duration:** 30 days from purchase.
-- **Perks:**
-  - **Free bus rides** for the whole period.
-  - **MRT / Monorail discount doubles** from 30 % to **50 %**.
-- Shown in the wallet UI with a `[v]` active indicator and a green status pill.
+## Tambah nilai
 
-Breaks even around 100 bus rides (500 BR ÷ 5 BR) — plus whatever MRT savings you stack on top. If you commute daily, it pays for itself fast.
+Di mana-mana kiosk:
 
-## Opening your wallet
+1. Pilih **Top Up**.
+2. Pilih denominasi: **20 / 50 / 100 / 200 / 500 BR**.
+3. Sahkan. Tambah nilai besar (200 BR ke atas) akan meminta pengesahan untuk mengelak klik tersalah.
 
-Three ways to open the wallet UI:
+- **Baki maksimum:** 2 000 BR tersimpan pada satu masa.
+- **Hutang diselesaikan dahulu.** Jika anda mempunyai hutang tambang bas yang belum dibayar, tambah nilai akan menjelaskannya sebelum menambah baki sedia ada anda.
+- **Butang tambah nilai menjadi kelabu** dengan tag "(max)" apabila denominasi itu akan melebihi had.
 
-- **Equip and activate** the CAG Card tool (click while holding it).
-- **Press Ctrl + W** anywhere, any time.
-- **Open the CAG eWallet app** on your in-game Phone.
-- **Press Escape** to close.
+## Pas bulanan
 
-## Inside the wallet
+- **Harga:** 500 BR di mana-mana kiosk.
+- **Tempoh:** 30 hari dari pembelian.
+- **Faedah:**
+  - **Perjalanan bas percuma** untuk seluruh tempoh.
+  - **Diskaun MRT / Monorel digandakan** dari 30 % kepada **50 %**.
+- Dipaparkan dalam UI dompet dengan penunjuk aktif `[v]` dan pil status hijau.
 
-Five tabs:
+Pulang modal sekitar 100 perjalanan bas (500 BR ÷ 5 BR) — tambah apa sahaja penjimatan MRT yang anda timbunkan. Jika anda berulang-alik setiap hari, ia membayar balik dengan cepat.
 
-| Tab | What you'll find |
+## Membuka dompet anda
+
+Tiga cara untuk membuka UI dompet:
+
+- **Lengkapkan dan aktifkan** alat CAG Card (klik semasa memegangnya).
+- **Tekan Ctrl + W** di mana-mana sahaja, pada bila-bila masa.
+- **Buka aplikasi CAG eWallet** pada Phone dalam permainan anda.
+- **Tekan Escape** untuk menutup.
+
+## Di dalam dompet
+
+Lima tab:
+
+| Tab | Apa yang anda akan jumpa |
 | --- | --- |
-| **Buy Card** | Purchase a card if you don't have one yet (hidden once owned). |
-| **Top Up** | Grid of denomination buttons. |
-| **Pass** | Status of your monthly pass; buy or renew. |
-| **Designs** | Browse and equip card designs (see below). |
-| **History** | Your last 20 transactions + lifetime stats (bus trips, MRT trips, BR spent, BR saved, card age). |
+| **Buy Card** | Beli kad jika anda belum memilikinya (tersembunyi setelah dimiliki). |
+| **Top Up** | Grid butang denominasi. |
+| **Pass** | Status pas bulanan anda; beli atau perbaharui. |
+| **Designs** | Layari dan lengkapkan reka bentuk kad (lihat di bawah). |
+| **History** | 20 transaksi terakhir anda + statistik sepanjang hayat (perjalanan bas, perjalanan MRT, BR dibelanjakan, BR dijimatkan, umur kad). |
 
 ---
 
-## Card designs
+## Reka bentuk kad
 
-Your card has a **visual design** — the colour and art that show on the tool badge, wallet preview, and Phone app. The **Classic** design is free with every card; others are unlockable:
+Kad anda mempunyai **reka bentuk visual** — warna dan seni yang dipaparkan pada lencana alat, pratonton dompet, dan aplikasi Phone. Reka bentuk **Classic** adalah percuma dengan setiap kad; yang lain boleh dibuka:
 
-- **Shop** — buy them outright at kiosks.
-- **Achievements** — earn them by using the card:
-  - **100 bus trips**
-  - **50 MRT trips**
-  - **10 000 BR lifetime spend via CAG**
-- **Seasonal** — special designs offered during **Deepavali, Merdeka, and Raya** windows; miss the window, wait until next year.
+- **Shop** — beli terus di kiosk.
+- **Achievements** — peroleh dengan menggunakan kad:
+  - **100 perjalanan bas**
+  - **50 perjalanan MRT**
+  - **10 000 BR belanja sepanjang hayat melalui CAG**
+- **Seasonal** — reka bentuk istimewa ditawarkan semasa tempoh **Deepavali, Merdeka, dan Raya**; jika terlepas tempoh, tunggu tahun depan.
 
-Change your active design from the **Designs** tab. You keep every design you've ever unlocked — they're saved to your account.
+Tukar reka bentuk aktif anda dari tab **Designs**. Anda simpan setiap reka bentuk yang pernah anda buka — ia disimpan ke akaun anda.
 
 ---
 
-## The CAG eWallet (Phone app)
+## CAG eWallet (aplikasi Phone)
 
-On your in-game Phone, the **CAG eWallet** app gives you a browse-only view of your card without needing to hold the tool or press Ctrl + W.
+Pada Phone dalam permainan anda, aplikasi **CAG eWallet** memberi anda pandangan melayari sahaja bagi kad anda tanpa perlu memegang alat atau menekan Ctrl + W.
 
-Five tabs at the bottom:
+Lima tab di bahagian bawah:
 
-| Tab | Purpose |
+| Tab | Tujuan |
 | --- | --- |
-| **Home** | Balance card with your active design, quick-action shortcuts (Reload, Tap, Pass, Designs), last 2 transactions. |
-| **Trips** | Full history with colour-coded chips (bus / mrt / gate / topup) and a stats strip at the top. |
-| **Tap** | An explainer screen with a tilted card preview and live discount numbers — handy refresher on what the card gets you. |
-| **Pass** | Pass status as a yellow ticket card with usage summary and savings. |
-| **Me** | Your active design hero + designs grid (owned vs. locked), plus lifetime stats. |
+| **Home** | Kad baki dengan reka bentuk aktif anda, pintasan tindakan pantas (Reload, Tap, Pass, Designs), 2 transaksi terakhir. |
+| **Trips** | Sejarah penuh dengan cip berkod warna (bus / mrt / gate / topup) dan jalur statistik di atas. |
+| **Tap** | Skrin penerangan dengan pratonton kad condong dan nombor diskaun langsung — peringatan berguna tentang apa yang kad beri anda. |
+| **Pass** | Status pas sebagai kad tiket kuning dengan ringkasan penggunaan dan penjimatan. |
+| **Me** | Reka bentuk aktif anda sebagai hero + grid reka bentuk (dimiliki vs. terkunci), tambah statistik sepanjang hayat. |
 
-**Important:** all purchase buttons in the app (Reload, Buy/Renew Pass, Change Design) **deep-link** to the nearest kiosk. If you're close enough (within 24 studs), the kiosk UI opens automatically. If not, you get a toast telling you which kiosk is nearest and how far away it is — head there to complete the action. The kiosk is the single source of truth for transactions.
-
----
-
-## Tips & gotchas
-
-- **Buy the card before your first trip.** It pays for itself in ~7 MRT rides or ~7 tolls.
-- **Keep a small balance on the card.** You don't need to max it out — bus fares are tiny.
-- **Debt is silent but real.** If your card is empty, buses still let you ride but record the fare as debt. Top up to clear it; you'll hit the 200 BR debt cap eventually.
-- **You can't cash out.** Money on the card is one-way — spend it on transport, don't store savings there. (This matches the real Touch n Go.)
-- **Monthly pass stacks with MRT discount**, but not with the bus fare — pass = free buses, not discounted buses.
-- **Kiosk prompts require line of sight** — if you can't see the kiosk, you can't interact with it. Walk around the obstacle.
-- **Kiosk sessions time out after 60 seconds.** If you step away, just interact again.
-- **Tools rate-limit.** Spamming buttons in the wallet UI briefly locks you out. Click once and wait for the action to process (the button shows "…" while busy).
-- **Taxis and e-hailing are NOT on CAG.** They use their own BR-based fares — carry cash for those.
-- **If CAG gets disabled** (maintenance / event): all kiosks hide their prompts, the card is unequipped, and transport falls back to plain BR charges. Your wallet balance, designs, and pass are preserved for when it comes back on.
+**Penting:** semua butang pembelian dalam aplikasi (Reload, Buy/Renew Pass, Change Design) **deep-link** ke kiosk terdekat. Jika anda cukup dekat (dalam lingkungan 24 studs), UI kiosk akan terbuka secara automatik. Jika tidak, anda akan mendapat notifikasi memberitahu kiosk mana yang terdekat dan sejauh mana — pergi ke sana untuk menyelesaikan tindakan. Kiosk adalah sumber tunggal kebenaran untuk transaksi.
 
 ---
 
-## Feature availability
+## Petua & perkara untuk diingat
 
-The entire CAG system can be toggled off by staff via an admin flag. When that happens:
-
-- Kiosks show no interact prompt.
-- Your card is temporarily removed from your backpack.
-- The Phone app shows a "CAG eWallet is currently unavailable" screen.
-- Buses, MRT, and TapNGo charge the full BR price from your wallet with no discount.
-- **Nothing is lost** — your balance, designs, and pass resume the moment the flag is turned back on.
+- **Beli kad sebelum perjalanan pertama anda.** Ia membayar balik dalam ~7 perjalanan MRT atau ~7 tol.
+- **Simpan baki kecil pada kad.** Anda tidak perlu memaksimumkannya — tambang bas sangat kecil.
+- **Hutang adalah senyap tetapi nyata.** Jika kad anda kosong, bas tetap membenarkan anda menaiki tetapi merekodkan tambang sebagai hutang. Tambah nilai untuk menjelaskannya; anda akan mencapai had hutang 200 BR akhirnya.
+- **Anda tidak boleh cash out.** Wang di atas kad adalah sehala — belanjakan untuk pengangkutan, jangan simpan simpanan di situ. (Ini sepadan dengan Touch n Go sebenar.)
+- **Pas bulanan bertimbun dengan diskaun MRT**, tetapi tidak dengan tambang bas — pas = bas percuma, bukan bas berdiskaun.
+- **Prompt kiosk memerlukan garisan pandangan** — jika anda tidak dapat melihat kiosk, anda tidak boleh berinteraksi dengannya. Berjalan mengelilingi halangan.
+- **Sesi kiosk tamat masa selepas 60 saat.** Jika anda menjauh, cukup berinteraksi semula.
+- **Alat mempunyai had kadar.** Tekan butang berulang-ulang dalam UI dompet akan mengunci anda seketika. Klik sekali dan tunggu tindakan diproses (butang menunjukkan "…" semasa sibuk).
+- **Teksi dan e-hailing TIDAK menggunakan CAG.** Mereka menggunakan tambang berasaskan BR sendiri — bawa tunai untuk itu.
+- **Jika CAG dinyahdayakan** (penyelenggaraan / acara): semua kiosk menyembunyikan prompt mereka, kad dilucutkan, dan pengangkutan kembali kepada caj BR biasa. Baki dompet, reka bentuk, dan pas anda dipelihara untuk kembali aktif.
 
 ---
 
-## See also
+## Ketersediaan ciri
 
-- [Rules](/bandaraya/rules)
-- [Economy](/bandaraya/economy) — currency, shops, gamepasses
-- [Map](/bandaraya/locations) — where stations and terminals are
-- [Jobs](/bandaraya/jobs) — bus-driving, taxis
-- [Glossary](/bandaraya/glossary) — CAG, TapNGo, MRT
+Seluruh sistem CAG boleh ditogol mati oleh staf melalui bendera admin. Apabila itu berlaku:
+
+- Kiosk tidak menunjukkan prompt interaksi.
+- Kad anda dibuang sementara dari backpack anda.
+- Aplikasi Phone memaparkan skrin "CAG eWallet is currently unavailable".
+- Bas, MRT, dan TapNGo mencaj harga BR penuh daripada dompet anda tanpa diskaun.
+- **Tiada apa yang hilang** — baki, reka bentuk, dan pas anda akan tersambung semula sebaik bendera dihidupkan semula.
+
+---
+
+## Lihat juga
+
+- [Peraturan](/bandaraya/rules)
+- [Ekonomi](/bandaraya/economy) — mata wang, kedai, gamepass
+- [Peta](/bandaraya/locations) — di mana stesen dan terminal berada
+- [Kerja](/bandaraya/jobs) — memandu bas, teksi
+- [Glosari](/bandaraya/glossary) — CAG, TapNGo, MRT

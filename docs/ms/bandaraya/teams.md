@@ -1,15 +1,14 @@
 ---
-title: Teams
+title: Pasukan
 description: >-
-  Complete guide to every team in Bandaraya — emergency services, military,
-  transport, civilian, government, and more.
+  Panduan lengkap semua pasukan di Bandaraya — perkhidmatan kecemasan, tentera,
+  pengangkutan, awam, kerajaan, dan banyak lagi.
 lang: ms
 translated_from_hash: 9333a74c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Pasukan di Bandaraya
+# Pasukan
 
 Bandaraya menawarkan pelbagai jenis pasukan, masing-masing dengan pengalaman permainan, kenderaan, alatan, dan tanggungjawab yang unik. Pasukan boleh diakses melalui menu utama dan mungkin memerlukan keahlian kumpulan Roblox, gamepass, atau kebenaran khas.
 

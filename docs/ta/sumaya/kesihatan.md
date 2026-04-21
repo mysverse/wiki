@@ -1,124 +1,123 @@
 ---
-title: Kesihatan (Medical)
-description: 'Playing Kesihatan (medical) in Sumaya — ambulances, treatment, and revival.'
+title: மருத்துவம்
+description: 'Sumaya-வில் Kesihatan விளையாடுதல் — ஆம்புலன்ஸ், சிகிச்சை, மற்றும் மீட்பு.'
 lang: ta
 translated_from_hash: 72c697a3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# மருத்துவம்
 
-# Kesihatan (Medical)
+**Kesihatan** ("keh-see-ha-tan") என்பது Sumaya-வின் மருத்துவ சேவை. மருத்துவர்கள், செவிலியர்கள், பராமெடிக்குகள். முதன்மை மெனுவிலிருந்து நீங்கள் Kesihatan-ஐ தேர்ந்தெடுத்தால், நீங்கள் spawn ஆனவுடனேயே கடமையில் உள்ள மருத்துவ ஊழியராக இருப்பீர்கள்.
 
-**Kesihatan** ("keh-see-ha-tan") is Sumaya's medical service. Doctors, nurses, paramedics. If you pick Kesihatan from the main menu, you're a medical worker on duty as soon as you spawn.
+Kesihatan சிறப்பு வாய்ந்தது ஏனெனில் **உங்கள் வேலை முழு server-ஐயும் மேம்படுத்துகிறது**. தொடர்ந்து படியுங்கள்.
 
-Kesihatan is also special because **your job boosts the entire server**. Keep reading.
+## தொடங்குதல்
 
-## Getting started
+முதன்மை மெனுவில் **Kesihatan**-ஐ தேர்ந்தெடுங்கள். உங்கள் மருத்துவ கிட் உங்கள் backpack-இல் spawn ஆகும்: முதலுதவி பெட்டி, கட்டு, ஸ்பிளிண்ட், மற்றும் நிலை (level) வாரியாக திறக்கப்படும் இன்னும் பல.
 
-Pick **Kesihatan** on the main menu. Your medical kit spawns in your backpack: first aid kit, bandage, splint, and more unlocked by level.
+மேலும் கருவிகள் மற்றும் உபகரணங்களுக்கு மருத்துவமனைக்கு செல்லுங்கள், அல்லது 999 அழைப்புகளுக்கும் களச் சம்பவங்களுக்கும் பதிலளிக்கவும்.
 
-Head to the hospital for more tools and equipment, or respond to 999 calls and field incidents.
+## காயங்கள் அமைப்பு
 
-## The injury system
+Kesihatan-இன் முக்கிய கேம்ப்ளே என்பது **காயங்களை** சிகிச்சை அளிப்பதாகும் - வெறுமனே respawn செய்வதன் மூலம் குணமாக்க முடியாத, வீரர்கள் அல்லது NPC-களால் சந்திக்கப்பட்ட சேதம்.
 
-Kesihatan's core gameplay is treating **injuries** - damage sustained by players or NPCs that can't be healed by simply respawning.
+### காயங்கள் அமைப்பு செயலில் இருக்கும் போது
 
-### When the injury system is active
+server-முழுவதும் **காயங்கள் அமைப்பை** இயக்க முடியும். இயக்கப்பட்டால்:
 
-A server-wide **injury system** can be toggled on. When it's on:
+- வீரர்கள் மற்றும் NPC-கள் உடனடியாக இறப்பதற்கு பதிலாக உண்மையான காயங்களைச் சந்திக்க முடியும்.
+- காயங்கள் குணமாக மருத்துவ சிகிச்சை தேவை.
+- **server-இல் உள்ள ஒவ்வொரு வீரருக்கும் +15% player-level XP கிடைக்கும்** (sector XP பாதிக்கப்படாது).
 
-- Players and NPCs can suffer proper injuries instead of insta-dying.
-- Injuries require medical treatment to heal.
-- **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
+அந்த XP boost மிகவும் முக்கியமானது. இது ஒவ்வொரு வேலைக்கும், ஒவ்வொரு கைது செய்வதற்கும், ஒவ்வொரு அறுவடைக்கும் பொருந்தும் - எனவே Kesihatan செயலில் இருக்கும்போது, முழு server-ம் பயனடைகிறது. மருத்துவ வீரர்களை வைத்திருப்பதற்கு இது மிகப்பெரிய ஒரே காரணமாகும்.
 
-That XP boost is a big deal. It applies to every job, every arrest, every harvest - so when Kesihatan is active, the whole server benefits. This is the single biggest reason to have medical players on.
+### காய வகைகள்
 
-### Injury types
-
-| Injury | What it is | Treatment |
+| காயம் | அது என்ன | சிகிச்சை |
 |--------|------------|-----------|
-| Minor cuts / bruises | Scrapes, small wounds | Bandage |
-| Broken arm | Slows down hand animations, affects certain tools | Splint |
-| Broken leg | Reduces walk speed to 30% | Splint |
-| Traumatic Brain Injury (TBI) | Severe; requires bed rest | Medical bed + time |
+| சிறிய வெட்டுக்கள் / காயங்கள் | கீறல்கள், சிறிய காயங்கள் | கட்டு |
+| உடைந்த கை | கை அனிமேஷன்களை மெதுவாக்குகிறது, சில கருவிகளை பாதிக்கிறது | ஸ்பிளிண்ட் |
+| உடைந்த கால் | நடை வேகத்தை 30% ஆகக் குறைக்கிறது | ஸ்பிளிண்ட் |
+| அதிர்ச்சிகர மூளைக் காயம் (TBI) | தீவிரமானது; படுக்கை ஓய்வு தேவை | மருத்துவ படுக்கை + நேரம் |
 
-### Diagnosis
+### நோயறிதல்
 
-You can't heal someone until you know what's wrong.
+என்ன தவறு என்று உங்களுக்குத் தெரியும் வரை நீங்கள் யாரையும் குணப்படுத்த முடியாது.
 
-1. Equip the **First Aid Kit**.
-2. Stand within **10 studs** of the patient.
-3. Use the kit. The diagnosis takes about **2 seconds**.
-4. The patient's injury is displayed.
+1. **முதலுதவி பெட்டியை** பொருத்துங்கள்.
+2. நோயாளியிடமிருந்து **10 studs** தூரத்திற்குள் நில்லுங்கள்.
+3. பெட்டியைப் பயன்படுத்துங்கள். நோயறிதல் சுமார் **2 விநாடிகள்** எடுக்கும்.
+4. நோயாளியின் காயம் காண்பிக்கப்படும்.
 
-**Reward:** 15 XP per diagnosis.
+**வெகுமதி:** ஒரு நோயறிதலுக்கு 15 XP.
 
-### Bandage (minor wounds)
+### கட்டு (சிறிய காயங்கள்)
 
-1. Equip the **Bandage** tool.
-2. Stand within 10 studs of the patient.
-3. Use the tool. Takes about 3 seconds.
-4. Wound healed. The bandage lasts 5 minutes on the character, then fades.
+1. **கட்டு** கருவியைப் பொருத்துங்கள்.
+2. நோயாளியிடமிருந்து 10 studs தூரத்திற்குள் நில்லுங்கள்.
+3. கருவியைப் பயன்படுத்துங்கள். சுமார் 3 விநாடிகள் ஆகும்.
+4. காயம் குணமாகிவிட்டது. கட்டு கதாபாத்திரத்தில் 5 நிமிடங்கள் நீடிக்கும், பின்னர் மறைந்துவிடும்.
 
-**Reward:** 30 XP + 100 Ringgit.
+**வெகுமதி:** 30 XP + 100 Ringgit.
 
-### Splint (broken bones)
+### ஸ்பிளிண்ட் (உடைந்த எலும்புகள்)
 
-1. Equip the **Splint**.
-2. Stand within 10 studs.
-3. Apply. Takes about 5 seconds.
-4. Walk speed returns to normal.
+1. **ஸ்பிளிண்டை** பொருத்துங்கள்.
+2. 10 studs தூரத்திற்குள் நில்லுங்கள்.
+3. பயன்படுத்துங்கள். சுமார் 5 விநாடிகள் ஆகும்.
+4. நடை வேகம் சாதாரண நிலைக்குத் திரும்புகிறது.
 
-**Reward:** 40 XP + 200 Ringgit.
+**வெகுமதி:** 40 XP + 200 Ringgit.
 
-### Imaging (X-Ray and MRI)
+### படவிம்பம் (X-Ray மற்றும் MRI)
 
-For diagnosis confirmation on serious injuries, use the imaging machines at the hospital:
+தீவிர காயங்களுக்கான நோயறிதல் உறுதிப்படுத்தலுக்கு, மருத்துவமனையில் உள்ள படவிம்ப இயந்திரங்களைப் பயன்படுத்துங்கள்:
 
-- **X-Ray machine:** confirms broken bones.
-- **MRI machine:** confirms TBI.
+- **X-Ray இயந்திரம்:** உடைந்த எலும்புகளை உறுதிப்படுத்துகிறது.
+- **MRI இயந்திரம்:** TBI-ஐ உறுதிப்படுத்துகிறது.
 
-Either diagnosis pays **20 XP**.
+இரண்டு நோயறிதல்களுமே **20 XP** வழங்குகின்றன.
 
-### TBI and medical beds
+### TBI மற்றும் மருத்துவ படுக்கைகள்
 
-TBI is the most serious injury. Treatment requires the patient to **lie on a medical bed** for about **30 seconds** of bed rest, which gradually heals them.
+TBI மிகவும் தீவிரமான காயம். சிகிச்சைக்கு நோயாளி **மருத்துவ படுக்கையில் படுத்திருக்க** வேண்டும் சுமார் **30 விநாடிகள்** படுக்கை ஓய்வு, இது படிப்படியாக அவர்களை குணப்படுத்துகிறது.
 
-The hospital has multiple medical beds, plus an X-Ray machine, an MRI machine, and a stretcher for transporting patients.
+மருத்துவமனையில் பல மருத்துவ படுக்கைகள் உள்ளன, மேலும் ஒரு X-Ray இயந்திரம், ஒரு MRI இயந்திரம், மற்றும் நோயாளிகளை கொண்டு செல்ல ஒரு ஸ்ட்ரெட்ச்சர் உள்ளது.
 
-## Rewards summary
+## வெகுமதிகள் சுருக்கம்
 
-| Action | XP | Ringgit |
+| செயல் | XP | Ringgit |
 |--------|-----|---------|
-| First aid diagnosis | 15 | 0 |
-| Bandage heal | 30 | 100 |
-| Splint heal | 40 | 200 |
-| X-Ray diagnosis | 20 | 0 |
-| MRI diagnosis | 20 | 0 |
+| முதலுதவி நோயறிதல் | 15 | 0 |
+| கட்டு சிகிச்சை | 30 | 100 |
+| ஸ்பிளிண்ட் சிகிச்சை | 40 | 200 |
+| X-Ray நோயறிதல் | 20 | 0 |
+| MRI நோயறிதல் | 20 | 0 |
 
-Plus:
+கூடுதலாக:
 
-- **+150 Ringgit bonus every 10 treatments.**
+- **ஒவ்வொரு 10 சிகிச்சைகளுக்கும் +150 Ringgit போனஸ்.**
 
-## Vehicles
+## வாகனங்கள்
 
-Kesihatan ambulances unlock as your sector level rises.
+உங்கள் sector நிலை உயரும்போது Kesihatan ஆம்புலன்ஸ்கள் திறக்கப்படுகின்றன.
 
-| Vehicle | Sector level required | Price |
+| வாகனம் | தேவையான sector நிலை | விலை |
 |---------|----------------------|-------|
-| Tayoti Hiace KKN Ambulance | 1 | Free |
+| Tayoti Hiace KKN Ambulance | 1 | இலவசம் |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 
-KKN stands for Kementerian Kesihatan Nasional (National Ministry of Health). Each ambulance has a siren and rear cargo space (for the stretcher).
+KKN என்பது Kementerian Kesihatan Nasional (தேசிய சுகாதார அமைச்சகம்) என்பதைக் குறிக்கிறது. ஒவ்வொரு ஆம்புலன்ஸுக்கும் ஒரு சைரன் மற்றும் பின்புற சரக்கு இடம் உள்ளது (ஸ்ட்ரெட்ச்சருக்கு).
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+அவற்றை எப்படி spawn செய்வது என்பதற்கு [வாகனங்கள்](/sumaya/vehicles) ஐப் பார்க்கவும்.
 
-## Ranks
+## தரவரிசைகள்
 
-Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Your title updates automatically as your sector level rises.
+Kesihatan-இல் 13 தரவரிசைகள் உள்ளன, தோராயமாக உண்மையான மலேசிய சுகாதார பதவிகளை அடிப்படையாகக் கொண்டவை. உங்கள் sector நிலை உயரும்போது உங்கள் பதவி தானாக புதுப்பிக்கப்படும்.
 
-| Level | Rank |
+| நிலை | தரவரிசை |
 |-------|------|
 | 1 | Medical Trainee |
 | 6 | House Officer |
@@ -134,20 +133,20 @@ Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Yo
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-From level 81 onward, you're the top. No further rank changes as you push to the level 100 cap.
+நிலை 81 முதல், நீங்கள் உச்சம். நிலை 100 வரம்புக்கு நீங்கள் முன்னேறும்போது மேலும் தரவரிசை மாற்றங்கள் இல்லை.
 
-## Tips
+## குறிப்புகள்
 
-- **Activate the injury system for the server.** The +15% XP boost affects everyone, including you. The whole server benefits and will keep coming back for treatment.
-- **Camp the hospital early.** Most injuries come in via ambulance or the 999 app. Staying close to the hospital means faster turnover and more XP.
-- **Broken legs are the easy payday.** They can't walk well, they're easy to spot, and the splint pays 200 Ringgit.
-- **TBI is slow but high-value.** While the 30-second bed rest is running, you can diagnose and treat other patients. Don't just stand and watch.
-- **Mass casualty events.** If there's a big crash or incident, multiple casualties means multiple fast payouts. Bring stretchers.
-- **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers.
+- **server-க்கு காயங்கள் அமைப்பை செயல்படுத்துங்கள்.** +15% XP boost உங்களை உள்ளிட்ட அனைவரையும் பாதிக்கிறது. முழு server-ம் பயனடைகிறது மற்றும் சிகிச்சைக்காக மீண்டும் வரும்.
+- **ஆரம்பத்தில் மருத்துவமனையில் கவனம் செலுத்துங்கள்.** பெரும்பாலான காயங்கள் ஆம்புலன்ஸ் அல்லது 999 ஆப் வழியாக வருகின்றன. மருத்துவமனைக்கு அருகில் இருப்பது விரைவான மாற்றம் மற்றும் அதிக XP-ஐக் குறிக்கிறது.
+- **உடைந்த கால்கள் எளிய பண வருவாய்.** அவர்களால் நன்றாக நடக்க முடியாது, எளிதில் அடையாளம் காணலாம், மற்றும் ஸ்பிளிண்ட் 200 Ringgit செலுத்துகிறது.
+- **TBI மெதுவானது ஆனால் அதிக மதிப்பு கொண்டது.** 30 விநாடி படுக்கை ஓய்வு இயங்கும்போது, நீங்கள் மற்ற நோயாளிகளை நோயறிந்து சிகிச்சை அளிக்கலாம். வெறுமனே நின்று பார்க்காதீர்கள்.
+- **பேரழிவு நிகழ்வுகள்.** பெரிய விபத்து அல்லது சம்பவம் இருந்தால், பல பாதிக்கப்பட்டவர்கள் என்பது பல விரைவான கட்டணங்களைக் குறிக்கிறது. ஸ்ட்ரெட்ச்சர்களைக் கொண்டு வாருங்கள்.
+- **Bomba-வுடன் வேலை செய்யுங்கள்.** தீயணைப்பு வீரர்கள் எரிய நேரிடும்; நீங்கள் தீயை அணைத்த பிறகு, கட்டு வாடிக்கையாளர்களை எதிர்பாருங்கள்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Polis](/sumaya/polis) for the law enforcement side.
-- [Bomba](/sumaya/bomba) for the firefighter counterpart.
-- [Vehicles](/sumaya/vehicles) for the ambulance list.
-- [Progression](/sumaya/progression) for how XP compounds.
+- சட்ட அமலாக்கப் பக்கத்திற்கு [Polis](/sumaya/polis).
+- தீயணைப்பு வீரர் எதிராக [Bomba](/sumaya/bomba).
+- ஆம்புலன்ஸ் பட்டியலுக்கு [வாகனங்கள்](/sumaya/vehicles).
+- XP எப்படி பெருகுகிறது என்பதற்கு [முன்னேற்றம்](/sumaya/progression).

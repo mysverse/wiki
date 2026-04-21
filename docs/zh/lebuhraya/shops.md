@@ -1,111 +1,110 @@
 ---
-title: Shops
-description: 'Food, snack, and utility shops across Lebuhraya.'
+title: 商店
+description: Lebuhraya 的食品、零食和杂货商店汇总。
 lang: zh
 translated_from_hash: 5e14cc5a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 商店
 
-# Shops
+Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool 购买的食品(食用后会带来小幅游戏效果，或可用于 roleplay)。少数则售卖专门装备，例如 jerrycan 和 tech tools。本页列出每间商店售卖的物品，并指引你前往这些商店的位置。
 
-Lebuhraya has **12 shops** scattered across the map. Most sell food items you can buy as tools (eat them for a small gameplay effect or use them for roleplay). A couple sell specialised gear like jerrycans and tech tools. This page lists what each shop sells and points you to where you'll find them.
+> **商店目前免费。** 物品定价暂时关闭——走到商店前选择物品即可获得，无需扣除 BR。这在未来更新中可能会改变。Jerrycan Shop 强制执行 **每位玩家最多 2 个 jerrycan** 和 **每位玩家最多 1 个 toolkit** 的限制；其他商店一般不限制购买数量。
 
-> **Shops are currently free.** Item pricing is temporarily disabled — walking up to a shop and selecting an item gives it to you without deducting BR. This may change in a future update. The Jerrycan Shop enforces a **2-per-player jerrycan limit** and a **1-per-player toolkit limit**; other shops generally do not cap purchases.
-
-## Food shops
+## 食品商店
 
 ### Kedai Nasi Campur Long Kee
 
-Traditional Malaysian mixed-rice stall. Classic lunchtime stop.
+传统马来西亚 nasi campur 摊位。经典的午餐去处。
 
 ### Clash's Indonesian Cuisine
 
-Indonesian dishes.
+印尼菜肴。
 
-**Sells**: Bakso (meatball soup), Nasi Rendang (beef rendang rice), Sate Ayam (chicken satay).
+**售卖**：Bakso（肉丸汤）、Nasi Rendang（仁当牛肉饭）、Sate Ayam（鸡肉沙嗲）。
 
 ### Masakan Pantai Timur
 
-East-coast Malaysian cooking. Expect items from Kelantan and Terengganu traditions.
+马来西亚东海岸料理。可期待来自吉兰丹和登嘉楼传统的物品。
 
 ### Selera Kak Rinasmol
 
-Home-style cooking by "Kak Rinasmol" — another local-flavor lunch option.
+由「Kak Rinasmol」掌厨的家常菜——又一个充满本地风味的午餐选择。
 
 ### Pingu Pepper Lunch
 
-Pepper-lunch-style hotplate dishes. Fun, no-fuss comfort food.
+胡椒午餐风格的铁板料理。轻松愉快、无需多想的舒心美食。
 
 ### Inspector Y's Fries
 
-Fast-food fries and sides.
+快餐式薯条与配菜。
 
 ### Encik Yang's Epic Snack
 
-Snacks — sweet and savoury, good for grabbing on the go.
+零食——甜咸俱备，适合途中随手抓取。
 
 ### Max Beef
 
-Beef-focused menu.
+以牛肉为主的菜单。
 
 ### Beetro Smoothies
 
-Smoothies and drinks.
+冰沙与饮品。
 
-## Convenience
+## 便利店
 
 ### Kedai Runcit Modern Makcik Yash
 
-A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice cream.
+经典的马来西亚 kedai runcit。买杯饮料、一条巧克力，或一支冰淇淋。
 
-**Sells** (sample menu):
+**售卖**（样品菜单）：
 
-- **Drinks**: 100Plus, Pepsi, Kickapoo
-- **Snacks & chocolate**: Apollo Chocolate, Chipsmore, Crunch, Pocky, Mickey Mouse (biscuits)
-- **Ice cream**: Asteroid, Solero, IcyGrape
-- **Savoury**: Potato (chips), Pandan (cake)
+- **饮料**：100Plus、Pepsi、Kickapoo
+- **零食与巧克力**：Apollo Chocolate、Chipsmore、Crunch、Pocky、Mickey Mouse（饼干）
+- **冰淇淋**：Asteroid、Solero、IcyGrape
+- **咸味**：Potato（薯片）、Pandan（蛋糕）
 
-## Specialised shops
+## 专门商店
 
 ### Abang' Frik Tech Tools
 
-A small tech vendor.
+一家小型科技小贩。
 
-**Sells**: Lantern, Recon Drone.
+**售卖**：Lantern、Recon Drone。
 
 ### Jerrycan Shop
 
-The go-to for keeping your car fuelled when you can't reach a station.
+无法到达加油站时，为爱车补充燃油的首选去处。
 
-**Sells**:
+**售卖**：
 
-- **Jerrycan** (limit 2 per player) — 10 L capacity
-- **Toolkit** (limit 1 per player)
+- **Jerrycan**（每位玩家限 2 个）——10 L 容量
+- **Toolkit**（每位玩家限 1 个）
 
 ## KeluargaMart
 
-A full-size supermarket experience. You can walk the aisles, pick items off shelves, and check out at the cashier. A good roleplay location for the Checkout job (Malaysians community team).
+完整规模的超市体验。你可以走过货架走道、从架上挑选物品，并在收银台结账。这是 Checkout 工作（Malaysians 社群团队）的绝佳 roleplay 地点。
 
-## Food Delivery interactions
+## Food Delivery 互动
 
-Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
+上述大多数食品商店同时也是 **Food Delivery** 工作的取餐地点。当你担任 Food Delivery 骑手时，你的 waypoint 会引导你前往其中一间商店取单，然后再送到顾客那里。
 
-See [Jobs](/lebuhraya/jobs) for the delivery flow.
+查看 [工作](/lebuhraya/jobs) 了解外送流程。
 
-## Buying mechanics
+## 购买机制
 
-- Walk up to the shop NPC or counter.
-- A ProximityPrompt appears — interact to open the shop menu.
-- Select the item; BR is deducted from your balance.
-- The item appears in your inventory as a tool. Equip it to use / eat / display it.
+- 走到商店 NPC 或柜台前。
+- 会出现一个 ProximityPrompt——与之互动以打开商店菜单。
+- 选择物品；BR 会从你的余额中扣除。
+- 物品会作为 tool 出现在你的 inventory 中。装备它即可使用 / 食用 / 展示。
 
-## Where to find them
+## 在哪里找到它们
 
-Shops are spread across Bandar Seri Putra and Jersik. The map waypoint system (in the MyPod menu or topbar) will route you to any shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
+商店分布于 Bandar Seri Putra 和 Jersik 之间。地图 waypoint 系统（位于 MyPod 菜单或 topbar 中）会将你导航至你选择的任何商店。请参阅 [世界与地图](/lebuhraya/map) 以了解区域布局。
 
-## Next steps
+## 后续步骤
 
-- [World and Map](/lebuhraya/map) — Where each shop is physically located
-- [Jobs → Food Delivery](/lebuhraya/jobs#food-delivery) — Earning XP from these shops
-- [Housing](/lebuhraya/housing) — Furniture, which you'll need to actually use your kitchen items
+- [世界与地图](/lebuhraya/map) — 每间商店的实际位置
+- [工作 → Food Delivery](/lebuhraya/jobs#food-delivery) — 从这些商店赚取 XP
+- [住房](/lebuhraya/housing) — 家具，你需要它才能真正使用厨房物品

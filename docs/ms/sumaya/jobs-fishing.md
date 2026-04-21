@@ -1,32 +1,31 @@
 ---
-title: Fishing
-description: 'Fishing in Sumaya — spots, fish types, prices, and progression.'
+title: Memancing
+description: 'Memancing di Sumaya — tempat, jenis ikan, harga, dan kemajuan.'
 lang: ms
 translated_from_hash: 3f6d4e33
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Memancing
 
-# Fishing
+Memancing ialah salah satu daripada tiga kerjaya awam di Sumaya. Anda boleh memancing dengan dua cara: menggunakan **joran** di jeti (pantas, santai) atau dengan **bot pukat** di laut (skala besar, kerja sektor). Kedua-dua sistem ini membayar secara berbeza dan menaikkan tahap perkara yang berbeza.
 
-Fishing is one of Sumaya's three civilian careers. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
+## Memulakan
 
-## Getting started
+1. Buka telefon anda dan ketik aplikasi **Careers**.
+2. Pilih **Fishing Sector**.
+3. Pergi ke tempat memancing - aplikasi Careers dan pancaran panduan akan menunjukkan dok atau jeti terdekat.
+4. Tekan gesaan **clock in**.
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Fishing Sector**.
-3. Head to a fishing spot - the Careers app and the guidance beam will point you to the nearest dock or pier.
-4. Press the **clock in** prompt.
+Setelah anda bertugas, anda akan mendapat joran memancing di dalam beg anda dan HUD memancing akan muncul.
 
-Once you're on shift, you'll get a fishing rod in your backpack and the fishing HUD appears.
+## Memancing dengan joran (santai)
 
-## Rod fishing (casual)
+Lengkapkan joran, bidik ke air dalam lingkungan **80 stud**, dan lontar. Terdapat kira-kira **peluang 1 dalam 3** untuk mendapat tangkapan setiap lontaran. Tarik apa yang anda sangkut.
 
-Equip the rod, aim at water within **80 studs**, and cast. There's roughly a **1-in-3 chance** of a catch per cast. Reel in what you hook.
+Sumaya mempunyai **5 spesies** ikan yang boleh anda tangkap dengan joran:
 
-Sumaya has **5 species** of fish you can catch with the rod:
-
-| Fish | XP | Ringgit |
+| Ikan | XP | Ringgit |
 |------|-----|---------|
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
@@ -34,76 +33,76 @@ Sumaya has **5 species** of fish you can catch with the rod:
 | Pelian | 15 | 8 |
 | Tapah | 15 | 8 |
 
-XP and Ringgit payouts are applied when you **sell** the fish at the dock.
+Bayaran XP dan Ringgit dikenakan apabila anda **menjual** ikan di dok.
 
-**Important:** rod fishing XP only levels your **player account** (global XP), not your fishing sector level. If you want to climb the fishing sector ladder and unlock better trawlers, you need to trawl.
+**Penting:** XP memancing dengan joran hanya menaikkan tahap **akaun pemain** (XP global) anda, bukan tahap sektor memancing. Jika anda ingin menaiki tangga sektor memancing dan membuka kunci pukat yang lebih baik, anda perlu memukat.
 
-## Trawl fishing (sector grind)
+## Memancing dengan pukat (kerja sektor)
 
-The big earner is **trawl fishing** with a boat. You spawn a trawler from a water-side vehicle spawner, drive out, and pull fish in bulk.
+Pendapatan besar ialah **memancing dengan pukat** menggunakan bot. Anda menjana pukat daripada penjana kenderaan di tepi air, memandu keluar, dan menarik ikan secara pukal.
 
-### Per-fish rewards
+### Ganjaran setiap ikan
 
-Trawling is flat-rate:
+Memukat ialah kadar rata:
 
-- **2 XP** per fish (both player and fishing sector)
-- **0.5 Ringgit** per fish
+- **2 XP** setiap ikan (kedua-dua pemain dan sektor memancing)
+- **0.5 Ringgit** setiap ikan
 
-The numbers look small, but trawlers hold a lot of fish, and sector XP lets you afford bigger boats.
+Angka itu nampak kecil, tetapi pukat boleh memuatkan banyak ikan, dan XP sektor membolehkan anda mampu bot yang lebih besar.
 
-### Trawler boats
+### Bot pukat
 
-| Tier | Price | How to get |
+| Tier | Harga | Cara mendapatkan |
 |------|-------|------------|
-| Tier 1 Trawler | Free while you're on a fishing shift | Spawn at any fishing-boat spawner |
-| Tier 2 Trawler | 25,000 Ringgit to buy | Earn and save up |
-| Tier 3 Trawler | 37,000 Ringgit to buy | For serious fishing enthusiasts |
+| Tier 1 Trawler | Percuma ketika anda bertugas memancing | Jana di mana-mana penjana bot memancing |
+| Tier 2 Trawler | 25,000 Ringgit untuk beli | Kerja dan simpan duit |
+| Tier 3 Trawler | 37,000 Ringgit untuk beli | Untuk peminat memancing yang serius |
 
-Each tier up gives you more capacity. The Tier 1 trawler is free every shift, so you can start trawl fishing immediately - you only pay for the nicer boats.
+Setiap kenaikan tier memberi anda kapasiti yang lebih banyak. Pukat Tier 1 percuma setiap syif, jadi anda boleh mula memukat serta-merta - anda hanya membayar untuk bot yang lebih baik.
 
-Trawlers can run out of fuel on long trips. Keep an eye on the fuel gauge on your HelmGui (fuel is tracked per-shift for the captain, not per-vehicle purchase). Trawlers start with the fuel stored against your last shift's remaining balance (or the default if first shift).
+Pukat boleh kehabisan minyak dalam perjalanan jauh. Perhatikan penunjuk minyak pada HelmGui anda (minyak dijejak setiap syif untuk kapten, bukan setiap pembelian kenderaan). Pukat bermula dengan minyak yang disimpan dari baki syif terakhir anda (atau nilai lalai jika ini syif pertama).
 
-**Refueling:** Buy a **Gas Can** from the Boat Gas Can shop - Red (+25 fuel, 75 SR), Green (+50 fuel, 100 SR), or Black (+75 fuel, 125 SR). Equip it and use the trawler's interact prompt. Note: fuel caps at 100, and **refill only works when your current fuel is below 75** - you can't top off a mostly-full tank.
+**Mengisi minyak:** Beli **Gas Can** dari kedai Boat Gas Can - Merah (+25 minyak, 75 SR), Hijau (+50 minyak, 100 SR), atau Hitam (+75 minyak, 125 SR). Lengkapkannya dan gunakan gesaan interaksi pukat. Nota: minyak had pada 100, dan **pengisian semula hanya berfungsi apabila minyak semasa anda di bawah 75** - anda tidak boleh menambah tangki yang hampir penuh.
 
-### How to trawl fish
+### Cara memukat ikan
 
-1. Clock in to the fishing sector.
-2. Walk up to a fishing boat spawner at a dock.
-3. Spawn a trawler.
-4. Drive the boat out to open water.
-5. Use the trawl to pull in fish.
-6. Come back to the dock to sell and/or unload.
+1. Clock in ke sektor memancing.
+2. Pergi ke penjana bot memancing di dok.
+3. Jana pukat.
+4. Pandu bot keluar ke laut terbuka.
+5. Guna pukat untuk menarik ikan.
+6. Kembali ke dok untuk menjual dan/atau memunggah.
 
-## Clocking out and selling
+## Clock out dan menjual
 
-When you clock out, your total trawl earnings are paid to you as a single paycheck. You'll see a **Nelayan Sdn. Bhd.** ("Fisherman Co.") pay slip when the shift ends.
+Apabila anda clock out, jumlah pendapatan memukat anda dibayar sebagai satu gaji. Anda akan melihat slip gaji **Nelayan Sdn. Bhd.** ("Fisherman Co.") apabila syif tamat.
 
-Rod-fished fish are sold individually at a shop prompt instead of waiting for end-of-shift.
+Ikan yang ditangkap dengan joran dijual satu per satu pada gesaan kedai, bukan menunggu akhir syif.
 
-## Leveling up
+## Menaikkan tahap
 
-The fishing sector goes up to **level 100**. Only **trawl fishing** earns sector XP - rod fishing pays player XP only.
+Sektor memancing naik ke **tahap 100**. Hanya **memancing dengan pukat** memberi XP sektor - memancing dengan joran hanya memberi XP pemain.
 
-Higher sector level doesn't directly increase your per-fish rewards. What it does:
+Tahap sektor yang lebih tinggi tidak secara langsung meningkatkan ganjaran setiap ikan. Apa yang ia lakukan:
 
-- Better rank titles (nothing mechanical, just prestige).
-- Unlocks the `Token_Keli` token at **level 50**, which is the threshold for unlocking the **Service sector** (Mamak / Fast Food).
+- Gelaran pangkat yang lebih baik (tiada mekanik, hanya prestij).
+- Membuka kunci token `Token_Keli` pada **tahap 50**, iaitu ambang untuk membuka kunci **sektor perkhidmatan** (Mamak / Fast Food).
 
-## Unlocking the service sector
+## Membuka kunci sektor perkhidmatan
 
-Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unlock the ability to work in the **service sector** (Mamak / Fast Food). See [Service sector](/sumaya/jobs-service).
+Capai **tahap 50** dalam sektor memancing (atau Pertanian / kelapa sawit) dan anda akan membuka kunci keupayaan untuk bekerja dalam **sektor perkhidmatan** (Mamak / Fast Food). Lihat [Sektor perkhidmatan](/sumaya/jobs-service).
 
-## Tips
+## Petua
 
-- **Rod for fast player XP, trawl for sector grind.** If you want to level the fishing sector, trawl - rod fishing doesn't touch it.
-- **Stack with the Kesihatan +15% boost.** It applies to player XP on both rod and trawl.
-- **Fish-and-chat.** Trawling is almost a background activity - you can chat, AFK slightly, drive back to a dock between runs.
-- **Watch the fuel on boats.** Don't go far out if your gauge is low - you'll coast back empty.
-- **Dock respawn.** If you die while fishing, your shift ends. Just re-clock in.
-- **Multiplier cap is 5.** Rod rewards can be multiplied up to 5x by in-world bonuses; beyond that the server caps it.
+- **Joran untuk XP pemain yang pantas, pukat untuk kerja sektor.** Jika anda ingin menaikkan tahap sektor memancing, pukatlah - memancing dengan joran tidak menjejaskannya.
+- **Gabungkan dengan peningkatan Kesihatan +15%.** Ia dikenakan pada XP pemain pada kedua-dua joran dan pukat.
+- **Memancing sambil bersembang.** Memukat hampir seperti aktiviti latar - anda boleh bersembang, AFK sedikit, pandu balik ke dok antara perjalanan.
+- **Perhatikan minyak pada bot.** Jangan pergi jauh jika penunjuk anda rendah - anda akan terapung balik dalam keadaan kosong.
+- **Respawn dok.** Jika anda mati semasa memancing, syif anda tamat. Cuma clock in semula.
+- **Had pengganda ialah 5.** Ganjaran joran boleh didarabkan hingga 5x oleh bonus dalam dunia; melebihi itu pelayan akan hadkannya.
 
-## What next?
+## Apa seterusnya?
 
-- [Service sector](/sumaya/jobs-service) once you're fishing sector level 50.
-- [Palm oil](/sumaya/jobs-palm-oil) if you want higher payouts.
-- [Vehicles](/sumaya/vehicles) for the trawler spawner details.
+- [Sektor perkhidmatan](/sumaya/jobs-service) sebaik sahaja anda mencapai sektor memancing tahap 50.
+- [Kelapa sawit](/sumaya/jobs-palm-oil) jika anda mahu bayaran yang lebih tinggi.
+- [Kenderaan](/sumaya/vehicles) untuk butiran penjana pukat.

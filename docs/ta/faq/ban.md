@@ -1,15 +1,14 @@
 ---
-title: Overcoming Bans - FAQ
+title: தடையைக் கடக்க — அடிக்கடி கேட்கப்படும் கேள்விகள்
 description: >-
-  Complete guide to understanding and resolving bans in MYSverse games including
-  group restrictions, account issues, and troubleshooting steps.
+  உங்கள் Roblox கணக்கு தடை செய்யப்பட்டால் என்ன செய்வது — மேல்முறையீடு, ஆதாரம்
+  மற்றும் புதிய கணக்குகள்.
 lang: ta
 translated_from_hash: 1290ed71
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# தடையைக் கடப்பது
+# தடையைக் கடக்க — அடிக்கடி கேட்கப்படும் கேள்விகள்
 
 ## தடைச் செய்திகளைப் புரிந்துகொள்வது
 

@@ -1,188 +1,187 @@
 ---
-title: Vehicles
-description: 'Cars, boats, ambulances, spawners, and customization in Sumaya.'
+title: Kenderaan
+description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
 translated_from_hash: 2a82838f
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Kenderaan
 
-# Vehicles
+Sumaya mempunyai katalog kenderaan yang besar: kereta awam (percuma dan premium), bot pukat nelayan, kereta polis, jentera bomba, dan ambulans. Halaman ini merangkumi cara untuk spawn kenderaan, katalog penuh dengan harga, serta cara menyesuaikan dan menjaganya.
 
-Sumaya has a large vehicle catalog: civilian cars (free and premium), fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalog with prices, and how to customize and care for them.
+## Cara spawn kenderaan
 
-## How to spawn a vehicle
+Cari **kiosk pelancar kenderaan** di sekitar bandar. Ia muncul sebagai prompt interaktif di sudut jalan, pusat jualan kereta, dan di stesen.
 
-Look for **vehicle spawner kiosks** around town. They show up as interactive prompts on street corners, dealerships, and at stations.
+1. Berjalan ke pelancar dan tekan prompt interaksi.
+2. Menu kenderaan akan dibuka, memaparkan kereta yang tersedia untuk anda.
+3. Pilih satu. Anda akan nampak nama, harga, dan syaratnya.
+4. Pilih **sewa** atau **beli**:
+   - **Sewa**: bayar kos sekali sahaja yang lebih rendah, kenderaan akan hilang apabila anda respawn, log keluar, atau spawn kenderaan lain.
+   - **Beli**: bayar harga penuh, kenderaan menjadi milik anda secara kekal (dan berterusan merentas sesi).
 
-1. Walk up to a spawner and press the interact prompt.
-2. A vehicle menu opens, showing cars available to you.
-3. Pick one. You'll see its name, price, and requirements.
-4. Choose **rent** or **buy**:
-   - **Rent**: pay a smaller one-time cost, the vehicle disappears when you respawn, log out, or spawn a different one.
-   - **Buy**: pay the full price, the vehicle is yours permanently (and persists across sessions).
+### Bagaimana jika kenderaan dikelabukan?
 
-### What if a vehicle is grayed out?
+Jika anda tidak boleh spawn kenderaan, pelancar akan memberitahu sebabnya. Biasanya ia salah satu daripada:
 
-If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of:
+- **Aras pemain terlalu rendah** (anda memerlukan aras pemain yang lebih tinggi).
+- **Aras sektor terlalu rendah** (untuk kenderaan pasukan, contohnya Bomba Sanica Tanker pada aras sektor 65).
+- **Pasukan yang salah** (kereta polis memerlukan pasukan POLIS, dan sebagainya).
+- **Anda sudah ada kenderaan kerja di luar** (contohnya bot pukat semasa memancing).
 
-- **Player level too low** (you need a higher player level).
-- **Sector level too low** (for team vehicles, e.g. Bomba Sanica Tanker at sector level 65).
-- **Wrong team** (police cars require POLIS team, etc.).
-- **You already have a job vehicle out** (e.g. a trawler while fishing).
+Pelancar kenderaan awam hanya memaparkan kereta awam, pelancar pasukan hanya memaparkan kenderaan pasukan, dan pelancar bot nelayan hanya memaparkan bot pukat.
 
-Civilian vehicle spawners show only civilian cars, team spawners show only team vehicles, fishing-boat spawners show only trawlers.
+## Kereta awam
 
-## Civilian cars
+Kebanyakan kereta awam spawn **percuma** (tiada harga ditetapkan). Segelintir adalah premium. Semua kereta awam adalah pada **aras pemain 1** - tiada halangan aras - tetapi yang berbayar memerlukan Ringgit.
 
-Most civilian cars spawn **free** (they don't have a price set). A few are premium. All civilian cars are at **player level 1** - no level gate - but the paid ones cost Ringgit.
+### Kereta awam percuma
 
-### Free civilian cars
+Kenderaan ini spawn tanpa harga. Anda boleh ambil bila-bila masa:
 
-These spawn without a price. You can take them out any time:
-
-- Perosatu Axia (compact hatchback)
+- Perosatu Axia (hatchback kompak)
 - Perosatu Myvi (hatchback)
 - Perosatu Bezza (sedan)
 - Perosatu Alza (MPV)
-- Perosatu Ativa (compact SUV)
+- Perosatu Ativa (SUV kompak)
 - Perosatu Aruz (SUV)
-- Protan Wira (compact sedan)
+- Protan Wira (sedan kompak)
 - Protan Wira Aeroback (hatchback)
-- Protan Putra (sport coupe)
+- Protan Putra (coupe sukan)
 - Protan Waja (sedan)
 - Protan Preve (sedan)
-- Protan Saga (compact sedan)
-- Protan Persona (modern sedan)
+- Protan Saga (sedan kompak)
+- Protan Persona (sedan moden)
 - Protan Exora (MPV)
 - Handai City (MPV)
 - Handai Civic (MPV)
 - Protan S70 (sedan)
 - Protan X70 (SUV)
 
-### Premium civilian cars
+### Kereta awam premium
 
-| Vehicle | Rent | Buy |
-|---------|------|-----|
-| Protan X50 (compact SUV) | 2,000 Ringgit | 10,000 Ringgit |
+| Kenderaan | Sewa | Beli |
+|-----------|------|------|
+| Protan X50 (SUV kompak) | 2,000 Ringgit | 10,000 Ringgit |
 | Merzda Miata (roadster) | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
 
-The Joguar XJ308 R is the most expensive civilian vehicle in the game.
+Joguar XJ308 R ialah kenderaan awam paling mahal dalam permainan.
 
-## Fishing trawlers
+## Bot pukat nelayan
 
-Trawlers spawn at fishing-boat spawners at docks, and only appear if you're clocked in to the **Fishing Sector**. See [Fishing](/sumaya/jobs-fishing).
+Bot pukat spawn di pelancar bot nelayan di pelabuhan, dan hanya muncul jika anda sedang bertugas di **Sektor Perikanan**. Lihat [Memancing](/sumaya/jobs-fishing).
 
-| Trawler | Price |
-|---------|-------|
-| Tier 1 Trawler | Free (as long as you're on a fishing shift) |
-| Tier 2 Trawler | 25,000 Ringgit |
-| Tier 3 Trawler | 37,000 Ringgit |
+| Bot pukat | Harga |
+|-----------|-------|
+| Bot Pukat Tahap 1 | Percuma (selagi anda bertugas dalam syif memancing) |
+| Bot Pukat Tahap 2 | 25,000 Ringgit |
+| Bot Pukat Tahap 3 | 37,000 Ringgit |
 
-Higher tiers carry more fish.
+Tahap yang lebih tinggi membawa lebih banyak ikan.
 
-## Police vehicles (POLIS only)
+## Kenderaan polis (POLIS sahaja)
 
-Available only if you're on the POLIS team. Gated by a mix of **player level** and **sector level** (POLIS sector).
+Hanya tersedia jika anda dalam pasukan POLIS. Dihalang oleh campuran **aras pemain** dan **aras sektor** (sektor POLIS).
 
-| Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
-| Protan Wira MPV Polis | 1 | 1 | Free |
+| Kenderaan | Aras pemain | Aras sektor | Harga |
+|-----------|-------------|-------------|-------|
+| Protan Wira MPV Polis | 1 | 1 | Percuma |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
 
-The Wira is your starter patrol car. The Civic is the top-tier.
+Wira ialah kereta peronda permulaan anda. Civic ialah yang bertaraf tertinggi.
 
-## Bomba vehicles (BOMBA only)
+## Kenderaan Bomba (BOMBA sahaja)
 
-Available only on the BOMBA team. Gated by Bomba sector level.
+Hanya tersedia dalam pasukan BOMBA. Dihalang oleh aras sektor Bomba.
 
-| Vehicle | Sector level | Price |
-|---------|--------------|-------|
-| Merze Atego LFRT | 1 | Free |
+| Kenderaan | Aras sektor | Harga |
+|-----------|-------------|-------|
+| Merze Atego LFRT | 1 | Percuma |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
 | Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
-LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. The P360 Tanker is the heavy-utility apex Bomba vehicle, carrying its own water supply.
+LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. P360 Tanker ialah kenderaan Bomba teratas bagi utiliti berat, membawa bekalan airnya sendiri.
 
-## Ambulances (Kesihatan only)
+## Ambulans (Kesihatan sahaja)
 
-Available only on the Kesihatan team. Gated by Kesihatan sector level.
+Hanya tersedia dalam pasukan Kesihatan. Dihalang oleh aras sektor Kesihatan.
 
-| Vehicle | Sector level | Price |
-|---------|--------------|-------|
-| Tayoti Hiace KKN Ambulance | 1 | Free |
+| Kenderaan | Aras sektor | Harga |
+|-----------|-------------|-------|
+| Tayoti Hiace KKN Ambulance | 1 | Percuma |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 
-"KKN" stands for **Kementerian Kesihatan Nasional** (National Ministry of Health). Each ambulance has cargo room for the stretcher.
+"KKN" bermaksud **Kementerian Kesihatan Nasional**. Setiap ambulans mempunyai ruang kargo untuk pengusung.
 
-## Emergency sirens (ELS)
+## Siren kecemasan (ELS)
 
-Polis, Bomba, and Kesihatan vehicles all have an **Emergency Lighting System (ELS)**. While driving an emergency vehicle with the siren on:
+Kenderaan Polis, Bomba, dan Kesihatan semuanya mempunyai **Emergency Lighting System (ELS)**. Semasa memandu kenderaan kecemasan dengan siren dibuka:
 
-- You have **flashing red/blue/white lights**.
-- You're **exempt from offences** - speeding and crashes don't count.
-- Other players get audio/visual warning that you're coming.
+- Anda ada **lampu merah/biru/putih berkelip**.
+- Anda **dikecualikan daripada kesalahan** - memecut laju dan perlanggaran tidak dikira.
+- Pemain lain akan mendapat amaran audio/visual bahawa anda sedang menghampiri.
 
-Turn the siren off when you park. The exemption only applies while actively driving with the siren active.
+Matikan siren apabila anda parking. Pengecualian hanya terpakai semasa aktif memandu dengan siren dihidupkan.
 
-## Customization
+## Penyesuaian
 
-Civilian vehicles support color customization. Look for the **Paint / Customize** option when you spawn a vehicle, or from your vehicle profile. You can change:
+Kenderaan awam menyokong penyesuaian warna. Cari pilihan **Paint / Customize** apabila anda spawn kenderaan, atau dari profil kenderaan anda. Anda boleh tukar:
 
-- **Body color** (primary and secondary).
-- **Window tint** (light, medium, dark).
+- **Warna badan** (utama dan sekunder).
+- **Warna tingkap** (cerah, sederhana, gelap).
 
-Most civilian cars are customizable. Team vehicles usually are not.
+Kebanyakan kereta awam boleh disesuaikan. Kenderaan pasukan biasanya tidak boleh.
 
-## Fuel
+## Bahan api
 
-Fuel is effectively **unlimited** in Sumaya right now - you don't need to worry about running out or refueling at gas stations. The fuel gauge on boats is tracked per-shift (for fishing trawlers), but cars run without fuel limits.
+Bahan api pada dasarnya **tidak terhad** di Sumaya sekarang - anda tidak perlu risau tentang kehabisan atau mengisi semula di stesen minyak. Tolok bahan api pada bot dijejak setiap syif (untuk bot pukat nelayan), tetapi kereta beroperasi tanpa had bahan api.
 
-## Collision toggle
+## Togol perlanggaran
 
-From your **Phone > Collision** app, you can toggle vehicle collisions on or off. With collisions off:
+Dari aplikasi **Phone > Collision** anda, anda boleh togol perlanggaran kenderaan hidup atau mati. Dengan perlanggaran dimatikan:
 
-- Your vehicle **phases through** other vehicles.
-- Useful for getting out of tight parking or when another player rams you.
-- Turn collisions back on when you want to drive normally.
+- Kenderaan anda **menembusi** kenderaan lain.
+- Berguna untuk keluar dari parking sempit atau apabila pemain lain melanggar anda.
+- Hidupkan semula perlanggaran apabila anda ingin memandu secara normal.
 
-See [Phone and UI](/sumaya/phone) for more on the Collision app.
+Lihat [Telefon dan UI](/sumaya/phone) untuk maklumat lanjut tentang aplikasi Collision.
 
-## Ownership and persistence
+## Pemilikan dan kekalan
 
-- **Rented vehicles** disappear when you respawn, log out, or spawn a different one.
-- **Bought vehicles** stay yours permanently. They show up in your profile's Owned Vehicles list.
-- If you buy a vehicle and later want to sell it, check the spawner - some vehicles may be sellable for partial refund (this varies).
-- If your owned vehicle is **carjacked** by someone else, it's marked stolen in the plate database, and Polis can recover it.
+- **Kenderaan yang disewa** hilang apabila anda respawn, log keluar, atau spawn kenderaan lain.
+- **Kenderaan yang dibeli** kekal milik anda secara kekal. Ia dipaparkan dalam senarai Kenderaan Dimiliki pada profil anda.
+- Jika anda beli kenderaan dan kemudian ingin menjualnya, semak pelancar - sesetengah kenderaan mungkin boleh dijual untuk bayaran balik separa (ini berbeza-beza).
+- Jika kenderaan milik anda **dirampas (carjacked)** oleh orang lain, ia ditandakan sebagai dicuri dalam pangkalan data plat, dan Polis boleh memulihkannya.
 
-## Plates and registration
+## Plat dan pendaftaran
 
-Every vehicle has a **license plate**. When you spawn a vehicle:
+Setiap kenderaan mempunyai **plat lesen**. Apabila anda spawn kenderaan:
 
-- The plate is tied to your user ID as the registered owner.
-- POLIS can look up any plate from the MDT to see who owns a vehicle.
-- If your vehicle is stolen, the plate status flags it.
+- Plat diikat kepada ID pengguna anda sebagai pemilik berdaftar.
+- POLIS boleh mencari mana-mana plat dari MDT untuk melihat siapa yang memiliki kenderaan.
+- Jika kenderaan anda dicuri, status plat akan menandakannya.
 
-## Tips
+## Tip
 
-- **Rent before buying.** Try a car at rent price first before dropping 10,000+ Ringgit.
-- **Upgrade your team vehicle as you level.** The higher-tier Bomba and Polis cars are faster and tougher.
-- **Sirens for cops and fire crews = no tickets.** Always flip your siren on when responding so you don't cite yourself.
-- **Don't park in traffic lanes.** Left-behind civilian cars can be carjacked; if you own it and don't want it stolen, park somewhere quieter.
-- **Phasing mode for parking.** If someone's blocking you in, enable collision toggle to drive through them.
-- **Save for a Tier 2 or 3 trawler.** If you're committing to fishing, the bigger boats pay for themselves quickly.
+- **Sewa dahulu sebelum beli.** Cuba kereta pada harga sewa dahulu sebelum membelanjakan 10,000+ Ringgit.
+- **Naik taraf kenderaan pasukan anda semasa meningkat aras.** Kereta Bomba dan Polis yang lebih tinggi tahapnya lebih laju dan lebih kukuh.
+- **Siren untuk polis dan anggota bomba = tiada saman.** Sentiasa hidupkan siren anda ketika bertindak balas supaya anda tidak menyaman diri sendiri.
+- **Jangan parking di lorong trafik.** Kereta awam yang ditinggalkan boleh dirampas; jika anda memilikinya dan tidak mahu ia dicuri, parkir di tempat yang lebih lengang.
+- **Mod menembusi untuk parking.** Jika seseorang menghalang anda, aktifkan togol perlanggaran untuk menembusi mereka.
+- **Simpan untuk bot pukat Tahap 2 atau 3.** Jika anda bertekad untuk memancing, bot yang lebih besar akan membayar balik dengan cepat.
 
-## What next?
+## Apa seterusnya?
 
-- [Crime and Law](/sumaya/crime-and-law) for how carjacking works in detail.
-- [Polis](/sumaya/polis) for the police vehicle catalog.
-- [Bomba](/sumaya/bomba) for fire truck details.
-- [Kesihatan](/sumaya/kesihatan) for ambulance details.
-- [Phone and UI](/sumaya/phone) for the Collision and Profile apps.
+- [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk penerangan terperinci tentang cara rampasan kereta berfungsi.
+- [Polis](/sumaya/polis) untuk katalog kenderaan polis.
+- [Bomba](/sumaya/bomba) untuk butiran jentera bomba.
+- [Kesihatan](/sumaya/kesihatan) untuk butiran ambulans.
+- [Telefon dan UI](/sumaya/phone) untuk aplikasi Collision dan Profile.

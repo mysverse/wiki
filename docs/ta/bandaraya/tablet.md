@@ -1,139 +1,138 @@
 ---
-title: Tablet
+title: டேப்லெட்
 description: >-
-  The team-gated tablet tool in Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
-  and other apps.
+  Bandaraya-வில் அணி-வரையறுக்கப்பட்ட டேப்லெட் கருவி — MDT, MyEmergency, MyTow,
+  KKM Logger, மற்றும் பிற செயலிகள்.
 lang: ta
 translated_from_hash: 0b131099
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# டேப்லெட்
 
-# Tablet
+விளையாட்டில் உள்ள **டேப்லெட்** என்பது உங்கள் அணிக்கு கூடுதல் அம்சங்களை வெளிக்கொணரும் ஒரு பல-செயலி சாதனமாகும். உங்கள் அணியின் நிறத்தின் அடிப்படையில் செயலிகள் திறக்கப்படுகின்றன — ஒரு PDRM அதிகாரி MDT-ஐ பார்க்கிறார், ஒரு டோ ஆபரேட்டர் MyTow-ஐ பார்க்கிறார், மேலும் பல.
 
-The in-game **tablet** is a multi-app device that surfaces extra features to your team. Apps are unlocked based on your team colour — a PDRM officer sees the MDT, a tow operator sees MyTow, and so on.
-
-> **Tablet ≠ Phone.** The [Phone](/bandaraya/phone) is a universal topbar app surface (MyPay, e-hailing, CAG, 999, MyCar, etc.). The Tablet is a team-gated **tool** you equip from your backpack.
+> **டேப்லெட் ≠ போன்.** [போன்](/bandaraya/phone) என்பது ஒரு உலகளாவிய topbar செயலி மேற்பரப்பு (MyPay, e-hailing, CAG, 999, MyCar, போன்றவை). டேப்லெட் என்பது உங்கள் backpack-லிருந்து நீங்கள் பொருத்தும் அணி-வரையறுக்கப்பட்ட **கருவியாகும்**.
 
 ## TL;DR
 
-- Equip your **tablet tool** to open the device.
-- Apps appear based on your team.
-- Tablets also display notifications and alerts.
-- The topbar gets an icon for quick toggling.
+- சாதனத்தை திறக்க உங்கள் **டேப்லெட் கருவியை** பொருத்துங்கள்.
+- உங்கள் அணியின் அடிப்படையில் செயலிகள் தோன்றும்.
+- டேப்லெட்டுகள் அறிவிப்புகள் மற்றும் எச்சரிக்கைகளையும் காண்பிக்கின்றன.
+- விரைவான மாற்றத்திற்காக topbar ஒரு ஐகானை பெறுகிறது.
 
 ---
 
-## Using the tablet
+## டேப்லெட்டை பயன்படுத்துதல்
 
-1. Open your backpack.
-2. Equip the **Tablet** tool (given if your team qualifies).
-3. The tablet UI opens.
-4. Click an app icon to enter that app.
-5. Equip a different tool or press the toggle icon to close.
+1. உங்கள் backpack-ஐ திறக்கவும்.
+2. **டேப்லெட்** கருவியை பொருத்தவும் (உங்கள் அணி தகுதி பெற்றால் வழங்கப்படும்).
+3. டேப்லெட் UI திறக்கிறது.
+4. அந்த செயலியில் நுழைய ஒரு செயலி ஐகானை கிளிக் செய்யவும்.
+5. ஒரு வேறு கருவியை பொருத்தவும் அல்லது மூட டோகில் ஐகானை அழுத்தவும்.
 
-The topbar gets an icon tied to the tablet — tap it to toggle open/closed without equipping.
+டேப்லெட்டுடன் இணைக்கப்பட்ட ஒரு ஐகானை topbar பெறுகிறது — பொருத்தாமல் திறந்த/மூடிய நிலையில் மாற்ற அதை தட்டவும்.
 
 ---
 
-## Apps
+## செயலிகள்
 
 ### MDT — Mobile Data Terminal (PDRM)
 
-The police information terminal. Police-authentic UI with Polis branding, horizontal tabs, monospace data fields.
+காவல்துறை தகவல் முனையம். Polis பிராண்டிங், கிடைமட்ட தாவல்கள், monospace தரவு புலங்களுடன் கூடிய காவல்துறை-உண்மையான UI.
 
 #### BG Check
-Look up any player:
-- Team and rank
-- Active BOLO status
-- Last arrest record
-- Their current position
+எந்த ஒரு வீரரையும் தேடுங்கள்:
+- அணி மற்றும் தரவரிசை
+- செயலில் உள்ள BOLO நிலை
+- கடைசி கைது பதிவு
+- அவர்களின் தற்போதைய நிலை
 
-Useful for deciding whether to stop someone.
+யாரையாவது நிறுத்த வேண்டுமா என்று முடிவு செய்வதற்கு பயனுள்ளதாக இருக்கும்.
 
-#### BOLO List
-See all active BOLOs (Be On the LookOut alerts) in real time. A BOLO is automatically cleared when the suspect is arrested.
+#### BOLO பட்டியல்
+செயலில் உள்ள அனைத்து BOLO-க்களையும் (Be On the LookOut எச்சரிக்கைகள்) நிகழ்நேரத்தில் பார்க்கவும். சந்தேக நபர் கைது செய்யப்படும்போது BOLO தானாக அழிக்கப்படுகிறது.
 
-#### Add BOLO
-Put a player on BOLO with a reason:
-- All on-duty officers get notified with a badge, sound, and toast alert.
-- Broadcasts across the PDRM team in real time.
+#### BOLO சேர்
+ஒரு காரணத்துடன் ஒரு வீரரை BOLO-வில் வைக்கவும்:
+- கடமையில் உள்ள அனைத்து அதிகாரிகளுக்கும் ஒரு பேட்ஜ், ஒலி மற்றும் toast எச்சரிக்கையுடன் அறிவிக்கப்படுகிறது.
+- PDRM அணி முழுவதும் நிகழ்நேரத்தில் ஒளிபரப்பப்படுகிறது.
 
-PDRM-only; other teams see a greyed-out tab.
+PDRM-க்கு மட்டும்; பிற அணிகள் ஒரு சாம்பல் நிற தாவலை பார்க்கின்றன.
 
 ### MyEmergency
 
-Emergency services coordination app — for emergency teams (PDRM, BOMBA, KKM, SJAM). Manage incident calls, coordinate multi-team responses.
+அவசர சேவைகள் ஒருங்கிணைப்பு செயலி — அவசர அணிகளுக்கு (PDRM, BOMBA, KKM, SJAM). சம்பவ அழைப்புகளை நிர்வகிக்கவும், பல-அணி பதில்களை ஒருங்கிணைக்கவும்.
 
 ### Vehicle Management
 
-General-purpose vehicle app — anyone with the tablet can use it for basics. Features include:
-- **Plate lookup** — find a vehicle's registration info
-- **Registration management** — register vehicles you own
-- **Spawn tracking** — see vehicles you've spawned
+பொது-நோக்க வாகன செயலி — டேப்லெட் உள்ள எவரும் அடிப்படைகளுக்காக பயன்படுத்தலாம். அம்சங்கள் அடங்கும்:
+- **பிளேட் தேடல்** — ஒரு வாகனத்தின் பதிவு தகவலை கண்டறியவும்
+- **பதிவு மேலாண்மை** — நீங்கள் சொந்தமாக வைத்திருக்கும் வாகனங்களை பதிவு செய்யவும்
+- **Spawn கண்காணிப்பு** — நீங்கள் spawn செய்த வாகனங்களை பார்க்கவும்
 
 ### MyTow
 
-Tow operator app:
-- View active tows
-- Request a tow job
-- Manage clamps remotely (remove a clamp from the tablet, no need to walk back)
+டோ ஆபரேட்டர் செயலி:
+- செயலில் உள்ள டோ-களை பார்க்கவும்
+- ஒரு டோ வேலையை கோரவும்
+- கிளாம்ப்களை தொலைவிலிருந்து நிர்வகிக்கவும் (டேப்லெட்டிலிருந்து ஒரு கிளாம்பை அகற்றவும், திரும்ப நடக்க தேவையில்லை)
 
 ### KKM Logger
 
-Health ministry app:
-- Log medical actions
-- Track patient treatments
-- Incident reporting for medical audits
+சுகாதார அமைச்சக செயலி:
+- மருத்துவ நடவடிக்கைகளை பதிவு செய்யவும்
+- நோயாளி சிகிச்சைகளை கண்காணிக்கவும்
+- மருத்துவ தணிக்கைகளுக்காக சம்பவ அறிக்கை
 
-KKM-only.
+KKM-க்கு மட்டும்.
 
 ### Developer App
 
-Developer tools and diagnostics. Devs only.
+டெவலப்பர் கருவிகள் மற்றும் கண்டறிதல்கள். டெவ்-கள் மட்டும்.
 
 ---
 
-## Notifications
+## அறிவிப்புகள்
 
-Tablets receive notifications via two event channels:
+டேப்லெட்டுகள் இரண்டு நிகழ்வு சேனல்கள் வழியாக அறிவிப்புகளை பெறுகின்றன:
 
-- **Tablet notifications** — global alerts (fire callouts, 999 calls, BOLOs, admin announcements).
-- **App-specific notifications** — within a given app's context (e.g., new booking for taxi drivers, MDT alerts for PDRM).
+- **டேப்லெட் அறிவிப்புகள்** — உலகளாவிய எச்சரிக்கைகள் (தீ அழைப்புகள், 999 அழைப்புகள், BOLO-க்கள், நிர்வாகி அறிவிப்புகள்).
+- **செயலி-குறிப்பிட்ட அறிவிப்புகள்** — ஒரு குறிப்பிட்ட செயலியின் சூழலுக்குள் (எ.கா., டாக்ஸி ஓட்டுநர்களுக்கான புதிய முன்பதிவு, PDRM-க்கான MDT எச்சரிக்கைகள்).
 
-When a notification arrives, the tablet icon on the topbar gets a visual indicator, and the relevant app pulses.
+ஒரு அறிவிப்பு வரும்போது, topbar-ல் உள்ள டேப்லெட் ஐகான் ஒரு காட்சி குறிகாட்டியை பெறுகிறது, மேலும் தொடர்புடைய செயலி துடிக்கிறது.
 
 ---
 
-## Team restrictions
+## அணி கட்டுப்பாடுகள்
 
-Which apps you see depends on your team's `TeamColor`:
+நீங்கள் எந்த செயலிகளை பார்க்கிறீர்கள் என்பது உங்கள் அணியின் `TeamColor`-ஐ பொறுத்தது:
 
-| Team | Apps available |
+| அணி | கிடைக்கும் செயலிகள் |
 | --- | --- |
 | **PDRM, KPTD, Polis Bantuan** | MDT, MyEmergency, Vehicle Management |
 | **BOMBA** | MyEmergency, Vehicle Management |
 | **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
 | **MyTransit, Bus Services** | Vehicle Management |
-| **Developers** | Developer App + all others |
-| **Civilians (Visitors, Malaysians)** | Vehicle Management only (basic plate lookup) |
+| **Developers** | Developer App + மற்ற அனைத்தும் |
+| **குடிமக்கள் (Visitors, Malaysians)** | Vehicle Management மட்டும் (அடிப்படை பிளேட் தேடல்) |
 
-If an app you expect isn't there, check your team.
+நீங்கள் எதிர்பார்க்கும் ஒரு செயலி அங்கே இல்லையென்றால், உங்கள் அணியை சரிபார்க்கவும்.
 
 ---
 
-## Tips & gotchas
+## குறிப்புகள் & கவனிக்க வேண்டியவை
 
-- **Tablet tool persists across spawns** — you don't lose it when you die.
-- **Topbar toggle is faster than equipping** for quick peeks.
-- **MDT BG Check updates live** — the target's location is current.
-- **BOLO auto-clears on arrest** — no manual cleanup needed.
-- **Plate lookup works for anyone** — you don't need PDRM to search a vehicle plate.
+- **டேப்லெட் கருவி spawn-கள் முழுவதும் நீடிக்கிறது** — நீங்கள் இறக்கும்போது அதை இழக்கமாட்டீர்கள்.
+- **Topbar மாற்றம் பொருத்துவதை விட வேகமானது** விரைவான பார்வைகளுக்கு.
+- **MDT BG Check நேரடியாக புதுப்பிக்கப்படுகிறது** — இலக்கின் இருப்பிடம் தற்போதையது.
+- **கைதில் BOLO தானாக-அழிக்கப்படுகிறது** — கை-முறை சுத்தம் தேவையில்லை.
+- **பிளேட் தேடல் எவருக்கும் வேலை செய்கிறது** — ஒரு வாகன பிளேட்டை தேட உங்களுக்கு PDRM தேவையில்லை.
 
-## See also
+## இதையும் பார்க்கவும்
 
-- [Emergency Services](/bandaraya/emergency-services) — PDRM / BOMBA / KKM roles that use the tablet
-- [Arrest & Law](/bandaraya/arrest-and-law) — how BOLOs / BG checks fit into arrests
-- [Jobs](/bandaraya/jobs) — MyTow for tow operators
-- [Vehicles](/bandaraya/vehicles) — registration and plate lookup
+- [அவசர சேவைகள்](/bandaraya/emergency-services) — டேப்லெட்டை பயன்படுத்தும் PDRM / BOMBA / KKM பங்குகள்
+- [கைது & சட்டம்](/bandaraya/arrest-and-law) — BOLO-க்கள் / BG check-கள் எவ்வாறு கைதுகளில் பொருந்துகின்றன
+- [வேலைகள்](/bandaraya/jobs) — டோ ஆபரேட்டர்களுக்கான MyTow
+- [வாகனங்கள்](/bandaraya/vehicles) — பதிவு மற்றும் பிளேட் தேடல்

@@ -1,62 +1,61 @@
 ---
-title: Palm Oil (Agriculture)
-description: Palm oil and agriculture work in Sumaya.
+title: பனை எண்ணெய் (விவசாயம்)
+description: Sumaya-வில் பனை எண்ணெய் மற்றும் விவசாய வேலை.
 lang: ta
 translated_from_hash: '12381531'
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பனை எண்ணெய் (விவசாயம்)
 
-# Palm Oil (Agriculture)
+பனை எண்ணெய் அறுவடை என்பது Sumaya-வின் விவசாயத் துறை. பனை மரங்களிலிருந்து பழக் குலைகளை நீங்கள் வெட்டி, ஒரு வாளியில் சேகரித்து, உங்கள் ஷிஃப்ட் முடிவில் ஊதியம் பெறுகிறீர்கள். இது முதல் நாளிலிருந்தே கிடைக்கிறது - முன் நிபந்தனை இல்லை, நிலை வரம்பு இல்லை, வெறும் நடந்து சென்று தொடங்குங்கள்.
 
-Palm oil harvesting is Sumaya's agricultural sector. You cut fruit bunches from palm trees, collect them in a bucket, and get paid at the end of your shift. It's available from day one - no prerequisite, no level gate, just walk up and start.
+## தொடங்குதல்
 
-## Getting started
+1. உங்கள் தொலைபேசியைத் திறந்து **Careers** ஆப்-பைத் தட்டவும்.
+2. **Agricultural Sector** என்பதைத் தேர்ந்தெடுக்கவும்.
+3. ஒரு பனை தோட்டத்திற்குச் செல்லவும் (Careers ஆப் உங்களுக்கு வழிகாட்டும்).
+4. **clock in** உந்துதலை அழுத்தவும்.
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Agricultural Sector**.
-3. Head to a palm plantation (the Careers app will point you there).
-4. Press the **clock in** prompt.
+நீங்கள் ஷிஃப்டில் இருந்ததும், ஒரு பனை வெட்டும் கருவியும் ஒரு சேகரிப்பு வாளியும் உங்கள் முதுகுப்பையில் தோன்றும்.
 
-Once you're on shift, a palm-cutting tool and a collection bucket spawn in your backpack.
+## அறுவடை எவ்வாறு செயல்படுகிறது
 
-## How harvesting works
+1. ஒரு பனை மரத்தை நோக்கி நடக்கவும்.
+2. முதிர்ந்த பழக் குலைகள் மீது வெட்டும் கருவியைப் பயன்படுத்தவும் (அறுவடை உந்துதலுடன் குறிக்கப்பட்டவை).
+3. பழம் விழும்; உங்கள் வாளியுடன் அதை எடுத்துக்கொள்ளவும்.
+4. உங்கள் ஷிஃப்ட் முடியும் வரை அல்லது கிடைக்கக்கூடிய மரங்களை நீங்கள் முடிக்கும் வரை தொடரவும்.
 
-1. Walk up to a palm tree.
-2. Use the cutting tool on ripe fruit bunches (the ones marked with the harvest prompt).
-3. The fruit drops; pick it up with your bucket.
-4. Keep going until your shift ends or you've cleared the available trees.
+ஒவ்வொரு அறுவடையும் உங்கள் ஷிஃப்டின் ஓடும் மொத்தத்தில் சேர்க்கப்படுகிறது. ஒரு அறுவடைக்கான சரியான கட்டணம் துறை நிலையைச் சார்ந்தது.
 
-Each harvest adds to your shift's running total. The exact per-harvest payout depends on sector level.
+## ஷிஃப்ட் முடிவு
 
-## End of shift
+பனை எண்ணெய் பற்றிய முக்கியமான விஷயம் இதுதான்: **ஒவ்வொரு அறுவடைக்கும் உங்களுக்கு ஊதியம் கிடைக்காது. நீங்கள் clock out செய்யும்போது ஊதியம் கிடைக்கும்.**
 
-This is the key thing about palm oil: **you don't get paid per harvest. You get paid when you clock out.**
+நீங்கள் ஷிஃப்டை முடிக்கும்போது:
 
-When you end your shift:
+- உங்கள் குவிந்த வருமானம் நேரடியாக உங்கள் **வங்கிக் கணக்கில்** டெபாசிட் செய்யப்படுகிறது (உங்கள் பணப்பையில் அல்ல).
+- ஒவ்வொரு அறுவடை XP-க்கு மேல் **நிலையான 50 XP போனஸ்** கிடைக்கும்.
+- நீங்கள் ஒரு **Palm Oil Plantation** சம்பளத் தாள் அறிவிப்பைப் பெறுவீர்கள்.
 
-- Your accumulated earnings are deposited directly into your **bank account** (not your wallet).
-- You get a **flat 50 XP bonus** on top of per-harvest XP.
-- You receive a **Palm Oil Plantation** paycheck notification.
+ஷிஃப்ட் முடிவில் எல்லாம் வங்கியில் சேமிக்கப்படுவதால், நீங்கள் இறந்தாலோ அல்லது தற்செயலாக ஷிஃப்டை முன்னதாக முடித்தாலோ, நீங்கள் சம்பாதித்ததை நீங்கள் வைத்திருக்கிறீர்கள். மீண்டும் clock in செய்யுங்கள்.
 
-Because everything is banked at end-of-shift, if you die or accidentally end the shift early, you keep what you earned. Just clock back in.
+## நிலை உயர்த்துதல்
 
-## Leveling up
+விவசாயத் துறை **நிலை 25**-ல் அதிகபட்சமாக உள்ளது - மீன்பிடித்தலை (100) அல்லது சேவை (100) விட குறைவு. நீங்கள் ஒரு completionist என்றால், இது மேலே அடைய மிகக் குறுகிய ஏணியாக அமைகிறது.
 
-The agricultural sector maxes out at **level 25** - lower than fishing (100) or service (100). That makes it the shortest ladder to top out, if you're a completionist.
+ஒரு அறுவடை XP உங்கள் துறை நிலைக்கு ஏற்ப விரிவடைகிறது (சேவைத் துறையைப் போல). ஆரம்ப நிலைகள் மெதுவாக இருக்கும்; பிற்காலத்தில் நிலைகள் ஒரு வெட்டுக்கு அதிகம் செலுத்தும்.
 
-Per-harvest XP scales with your sector level (like the service sector). Early levels are slow; later levels pay more per cut.
+## குறிப்புகள்
 
-## Tips
+- **வாளி நிரம்பும்.** உங்கள் வாளியின் கொள்ளளவைக் கண்காணியுங்கள் - நிரம்பியதும், தொடரும் முன் நீங்கள் இறக்க வேண்டியிருக்கலாம். (வரைபட அமைப்பைப் பொறுத்து, இறக்குதல் ஒரு சேகரிப்பு புள்ளியில் நடக்கிறது.)
+- **ஷிஃப்ட் முடிவு முக்கியம்.** லாக் ஆஃப் செய்வதற்கு முன் எப்போதும் clock out செய்யுங்கள் - ஷிஃப்ட் நடுவில் நீங்கள் இணைப்பை இழந்தால், உங்கள் நிலுவையிலுள்ள வருமானம் இழக்கப்படலாம்.
+- **பனை அதிகபட்சம் அடைய வேகமானது.** விஷயங்களை முடிக்க நீங்கள் விரும்பினால், 25 நிலைகள் vs 100 மிகக் குறைந்த உழைப்பாகும்.
+- **50 XP ஷிஃப்ட் முடிவு போனஸ் வீரர்-XP மட்டுமே.** இது விவசாயத் துறைக்கு அல்ல, உங்கள் உலகளாவிய கணக்கிற்குச் செல்கிறது. ஷிஃப்ட்களைத் திட்டமிடும்போது அதைக் கருத்தில் கொள்ளுங்கள்.
+- **Kesihatan XP ஊக்குவிப்புடன் அடுக்கவும்.** Kesihatan-இன் காயம் அமைப்பு செயலில் இருந்தால், 50 XP ஷிஃப்ட் முடிவு போனஸ் 57.5 XP (+15%) ஆகிறது.
 
-- **Bucket fills up.** Keep an eye on your bucket capacity - once full, you may need to unload before continuing. (Depending on map setup, unloading happens at a collection point.)
-- **End-of-shift is important.** Always clock out before logging off - if you disconnect mid-shift, your pending earnings might be lost.
-- **Palm is the fastest to max.** If you like completing things, 25 levels vs 100 is much less of a grind.
-- **The 50 XP end-shift bonus is player-XP only.** It goes to your global account, not the agricultural sector. Factor that in when planning shifts.
-- **Stack with the Kesihatan XP boost.** If Kesihatan's injury system is active, the 50 XP end-shift bonus becomes 57.5 XP (+15%).
+## அடுத்து என்ன?
 
-## What next?
-
-- [Fishing](/sumaya/jobs-fishing) for a no-stress alternative.
-- [Service sector](/sumaya/jobs-service) once you hit level 50 here or in fishing.
-- [Progression](/sumaya/progression) to understand how XP compounds across sectors.
+- அழுத்தமற்ற மாற்றுக்கு [மீன்பிடித்தல்](/sumaya/jobs-fishing).
+- நீங்கள் இங்கே அல்லது மீன்பிடித்தலில் நிலை 50-ஐ அடைந்ததும் [சேவைத் துறை](/sumaya/jobs-service).
+- துறைகள் முழுவதும் XP எவ்வாறு கூட்டப்படுகிறது என்பதைப் புரிந்துகொள்ள [முன்னேற்றம்](/sumaya/progression).

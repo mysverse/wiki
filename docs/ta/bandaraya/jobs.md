@@ -1,46 +1,45 @@
 ---
-title: Jobs
+title: வேலைகள்
 description: >-
-  Every job in Bandaraya — postal service, taxi driving, towing, bus driving,
-  and agency jobs — with pay rates and ranks.
+  Bandaraya-வில் உள்ள ஒவ்வொரு வேலை — அஞ்சல் சேவை, டாக்சி ஓட்டுநர், இழுப்பு, பஸ்
+  ஓட்டுநர், மற்றும் நிறுவன வேலைகள் — சம்பள விகிதங்கள் மற்றும் தரங்களுடன்.
 lang: ta
 translated_from_hash: 33dd3a97
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வேலைகள்
 
-# Jobs
+Bandaraya-வில் BR சம்பாதிக்க மிக விரைவான வழிகள். இவை அனைத்தும் பொதுமக்களுக்கு அணுகக்கூடியவை (குறிப்பிடப்பட்ட இடங்களில் gamepass அல்லது group மூலம்). PDRM / BOMBA / KKM பணிகள் இந்த பக்கத்தில் இல்லை — அவர்கள் சம்பளம் அல்ல, கௌரவத்தை சம்பாதிக்கிறார்கள். அவற்றுக்கு [அவசர சேவைகள்](/bandaraya/emergency-services) பக்கத்தை பார்க்கவும்.
 
-The quickest ways to earn BR in Bandaraya. All of these are civilian-accessible (with gamepass or group where noted). Police / BOMBA / KKM roles aren't on this page — they earn prestige, not salary. See [Emergency Services](/bandaraya/emergency-services) for those.
+## சுருக்கம்
 
-## TL;DR
-
-| Job | Access | Pace | Good for |
+| வேலை | அணுகல் | வேகம் | எதற்கு ஏற்றது |
 | --- | --- | --- | --- |
-| **Postal Service (POS)** | Visitors / Malaysians / HCC / Developers only | Steady | New players who want reliable BR |
-| **Taxi Driver** | Taxi Services team OR Taxi Driver gamepass (150 R$) | Per trip (varies) | Players who like customer service roleplay |
-| **Towing** | Towing Services team | Per clamp / tow (500 BR clamp fee) | Players with a towing group |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services groups | Per route | Players who like set piece driving |
+| **Postal Service (POS)** | Visitors / Malaysians / HCC / Developers மட்டும் | நிலையான | நம்பகமான BR வேண்டும் என்ற புதிய ஆட்டக்காரர்களுக்கு |
+| **Taxi Driver** | Taxi Services team அல்லது Taxi Driver gamepass (150 R$) | ஒரு பயணத்திற்கு (மாறுபடும்) | வாடிக்கையாளர் சேவை ரோல்பிளே விரும்புபவர்களுக்கு |
+| **Towing** | Towing Services team | ஒரு கிளாம்ப் / டோ-க்கு (500 BR கிளாம்ப் கட்டணம்) | Towing group உள்ள ஆட்டக்காரர்களுக்கு |
+| **பஸ் ஓட்டுதல்** | MyTransit / FirstGroup / Fermuda / Bus Services groups | ஒரு வழித்தடத்திற்கு | நிலையான வழித்தட ஓட்டுதல் விரும்புபவர்களுக்கு |
 
 ---
 
 ## Postal Service (POS)
 
-The go-to first job. No gamepass needed — but you have to be on a **civilian-ish team**: **Visitors**, **Malaysians**, **High Class Citizen**, or **Developers**. PDRM / BOMBA / KKM / etc. cannot clock in for POS (the game stops you at the start-work step).
+முதல் வேலைக்கான சிறந்த தேர்வு. Gamepass தேவையில்லை — ஆனால் நீங்கள் ஒரு **சிவிலியன்-பாணி team-இல்** இருக்க வேண்டும்: **Visitors**, **Malaysians**, **High Class Citizen**, அல்லது **Developers**. PDRM / BOMBA / KKM / போன்றவர்கள் POS-ஆக வேலையில் நுழைய முடியாது (வேலையைத் தொடங்கும் கட்டத்தில் ஆட்டம் உங்களைத் தடுக்கிறது).
 
-### The flow
+### பணிப்போக்கு
 
-1. **Start work** at a POS terminal (look for the POS signage — see [Map](/bandaraya/locations)).
-2. **Collect packages** from a nearby **Postbox**. You carry them.
-3. **Process** collected packages at the **Station**.
-4. **Deliver** them to **Mailboxes** around the city.
-5. Each delivery pays BR and gives XP.
+1. POS டெர்மினலில் **வேலையை தொடங்கவும்** (POS சைன்போர்டை பாருங்கள் — [வரைபடம்](/bandaraya/locations) பார்க்கவும்).
+2. அருகிலுள்ள **Postbox**-இலிருந்து **பார்சல்களை சேகரிக்கவும்**. நீங்கள் அவற்றை சுமக்கிறீர்கள்.
+3. சேகரித்த பார்சல்களை **Station**-இல் **செயலாக்கவும்**.
+4. நகரம் முழுவதும் உள்ள **Mailboxes**-க்கு **வழங்கவும்**.
+5. ஒவ்வொரு டெலிவரியும் BR கொடுக்கிறது மற்றும் XP வழங்குகிறது.
 
-### Level & salary
+### நிலை & சம்பளம்
 
-Level up as you deliver, and your per-delivery pay goes up.
+நீங்கள் டெலிவர் செய்யும் போது நிலை ஏறும், மற்றும் ஒரு டெலிவரிக்கான உங்கள் ஊதியம் அதிகரிக்கும்.
 
-| Level | XP to next | Salary per delivery |
+| நிலை | அடுத்த நிலைக்கு XP | ஒரு டெலிவரிக்கான சம்பளம் |
 | --- | --- | --- |
 | 1 | 100 | 70 BR |
 | 2 | 200 | 80 BR |
@@ -48,74 +47,74 @@ Level up as you deliver, and your per-delivery pay goes up.
 | 5 | 500 | 110 BR |
 | 10 | 1,000 | 160 BR |
 | 15 | 1,500 | 210 BR |
-| **20 (max)** | 2,000 | **260 BR** |
+| **20 (அதிகபட்சம்)** | 2,000 | **260 BR** |
 
-Formula: salary is `60 + (Level × 10)` BR.
+சூத்திரம்: சம்பளம் `60 + (நிலை × 10)` BR ஆகும்.
 
-You max out at Level 20 for 260 BR/delivery. That's the top end.
+நிலை 20-இல் நீங்கள் டெலிவரி ஒன்றுக்கு 260 BR என்ற அதிகபட்ச அளவை அடைகிறீர்கள். அதுதான் மேல் வரம்பு.
 
-Each delivery awards **25 XP**, so:
-- Level 1 → 2 takes **4 deliveries** (100 XP)
-- Level 10 → 11 takes **40 deliveries**
-- Level 19 → 20 takes **76 deliveries**
+ஒவ்வொரு டெலிவரியும் **25 XP** வழங்குகிறது, எனவே:
+- நிலை 1 → 2-க்கு **4 டெலிவரிகள்** தேவை (100 XP)
+- நிலை 10 → 11-க்கு **40 டெலிவரிகள்** தேவை
+- நிலை 19 → 20-க்கு **76 டெலிவரிகள்** தேவை
 
-Total grind from scratch to cap: roughly 760 deliveries over ~19 level-ups.
+பூஜ்ஜியத்திலிருந்து உச்சம் வரை மொத்த முயற்சி: தோராயமாக 760 டெலிவரிகள் ~19 நிலை-ஏற்றங்களில்.
 
-### Vehicles
+### வாகனங்கள்
 
-POS has 10 dedicated vehicles: **Toyota Hiace Pos Laju** (8 variants), **Toyota Hilux Pos Laju**, and an **EX5** motorcycle for the scrappy couriers.
+POS-இல் 10 பிரத்யேக வாகனங்கள் உள்ளன: **Toyota Hiace Pos Laju** (8 வேறுபாடுகள்), **Toyota Hilux Pos Laju**, மற்றும் வேகமாக இயங்கும் கூரியர்களுக்கு ஒரு **EX5** மோட்டார் சைக்கிள்.
 
-### Tips
+### குறிப்புகள்
 
-- Keep moving — delivery locations are spread out.
-- Motorcycles move faster through traffic; vans carry more at once.
-- **Don't go rogue as POS.** Abusing a job team to commit crime is a banable offence.
+- தொடர்ந்து நகரவும் — டெலிவரி இடங்கள் விரிவாக பரவியுள்ளன.
+- மோட்டார் சைக்கிள்கள் ட்ராஃபிக்கில் வேகமாக நகர்கின்றன; வேன்கள் ஒரே நேரத்தில் அதிகம் சுமக்கின்றன.
+- **POS-ஆக இருக்கும் போது வழிதவறி செல்லாதீர்கள்.** குற்றம் செய்ய வேலை team-ஐ தவறாக பயன்படுத்துவது ban-க்கான குற்றமாகும்.
 
 ---
 
 ## Taxi Driver
 
-Respond to passenger bookings, drive them where they want to go, collect the fare.
+பயணிகளின் பதிவுகளுக்கு பதிலளிக்கவும், அவர்கள் செல்ல விரும்பும் இடத்திற்கு ஓட்டிச் செல்லவும், கட்டணத்தை வசூலிக்கவும்.
 
-### Access
+### அணுகல்
 
-- **Taxi Driver gamepass** (150 R$) — cheapest way in.
-- **OR** join a **Taxi Services** group (SSM-registered).
+- **Taxi Driver gamepass** (150 R$) — மலிவான வழி.
+- **அல்லது** ஒரு **Taxi Services** group-இல் சேரவும் (SSM-பதிவு செய்யப்பட்டது).
 
-Gamepass holders can also switch to Taxi Services team from the menu.
+Gamepass உள்ளவர்கள் மெனுவிலிருந்து Taxi Services team-க்கு மாற்றவும் முடியும்.
 
-### The flow
+### பணிப்போக்கு
 
-1. **Sign in** as a driver at a taxi company (Fetch, Flaxim, Tompang, Fermuda, or independent Taxi Services).
-2. Your status goes to **Available**.
-3. When a passenger books a ride, your UI shows the booking with destination + description.
-4. **Accept** the booking (or dismiss).
-5. Pick up the passenger.
-6. **Start** the trip when they're in the car.
-7. Drive them to the destination.
-8. **End** the trip — you earn BR (`distance_in_studs × company_rate`, minimum 30 studs), your customer count ticks up.
+1. ஒரு டாக்சி நிறுவனத்தில் (Fetch, Flaxim, Tompang, Fermuda, அல்லது சுயாதீன Taxi Services) ஓட்டுநராக **உள்நுழைக**.
+2. உங்கள் நிலை **Available**-ஆக மாறும்.
+3. ஒரு பயணி பயணத்தை பதிவு செய்யும்போது, உங்கள் UI இலக்கு + விளக்கத்துடன் பதிவை காட்டும்.
+4. பதிவை **ஏற்றுக்கொள்ளவும்** (அல்லது நிராகரிக்கவும்).
+5. பயணியை அழைத்துச் செல்லவும்.
+6. அவர்கள் காரில் இருக்கும்போது பயணத்தை **தொடங்கவும்**.
+7. அவர்களை இலக்கிற்கு ஓட்டிச் செல்லவும்.
+8. பயணத்தை **முடிக்கவும்** — நீங்கள் BR சம்பாதிக்கிறீர்கள் (`studs_இல்_தூரம் × நிறுவன_விகிதம்`, குறைந்தபட்சம் 30 studs), உங்கள் வாடிக்கையாளர் எண்ணிக்கை அதிகரிக்கும்.
 
-Sign out when you're done for the shift.
+ஷிப்ட் முடிந்ததும் வெளியேறவும்.
 
-### How the fare is calculated
+### கட்டணம் எப்படி கணக்கிடப்படுகிறது
 
-Per-stud rate depends on the company:
+ஒரு stud-க்கான விகிதம் நிறுவனத்தை பொறுத்தது:
 
-| Company | Rate (BR/stud) |
+| நிறுவனம் | விகிதம் (BR/stud) |
 | --- | --- |
-| Yi Heng Taxi Services (the generic "Taxi Services" team) | 0.05 |
+| Yi Heng Taxi Services (பொதுவான "Taxi Services" team) | 0.05 |
 | Fetch | 0.05 |
 | Fermuda | 0.04 |
 | Tompang | 0.03 |
 | Flaxim | 0.03 |
 
-A 1 000-stud trip = 50 BR (Yi Heng / Fetch), 40 BR (Fermuda), 30 BR (Tompang / Flaxim). Short trips under 30 studs don't pay out.
+1 000-stud பயணம் = 50 BR (Yi Heng / Fetch), 40 BR (Fermuda), 30 BR (Tompang / Flaxim). 30 studs-க்கு கீழ் உள்ள குறுகிய பயணங்கள் பணம் தரவில்லை.
 
-### Taxi vehicles
+### டாக்சி வாகனங்கள்
 
-You can rent/drive these from taxi spawners:
+டாக்சி spawners-இலிருந்து இவற்றை நீங்கள் வாடகைக்கு எடுக்க/ஓட்டலாம்:
 
-| Vehicle | Price (BR) |
+| வாகனம் | விலை (BR) |
 | --- | --- |
 | Proton Saga | 400 |
 | Proton Saga 2022 | 600 |
@@ -123,97 +122,97 @@ You can rent/drive these from taxi spawners:
 | Proton Preve | 850 |
 | Proton Persona | 1,000 |
 
-### Tips
+### குறிப்புகள்
 
-- **Drive safely.** If your passenger dies in your taxi, the roleplay isn't great.
-- **Check the destination before you start.** Some bookings are spam — you can dismiss them.
-- **Your money and customer count persist** across sessions. You're building a career.
+- **பாதுகாப்பாக ஓட்டுங்கள்.** உங்கள் டாக்சியில் உங்கள் பயணி இறந்தால், ரோல்பிளே சிறப்பாக இருக்காது.
+- **தொடங்கும் முன் இலக்கை சரிபார்க்கவும்.** சில பதிவுகள் ஸ்பாம் — நீங்கள் அவற்றை நிராகரிக்கலாம்.
+- **உங்கள் பணம் மற்றும் வாடிக்கையாளர் எண்ணிக்கை sessions-க்கு இடையில் நிலைத்திருக்கும்.** நீங்கள் ஒரு தொழில்வாழ்க்கையை உருவாக்குகிறீர்கள்.
 
 ---
 
 ## Towing
 
-You're on the side of order — clamp illegally parked cars, and charge their owners 500 BR to remove it.
+நீங்கள் ஒழுங்கின் பக்கம் உள்ளீர்கள் — சட்டவிரோதமாக நிறுத்தப்பட்ட கார்களை கிளாம்ப் செய்யவும், அவற்றின் உரிமையாளர்களிடமிருந்து அதை அகற்ற 500 BR வசூலிக்கவும்.
 
-### Access
+### அணுகல்
 
-Join a **Towing Services** group (the tow operator groups). The Towing Services team becomes available.
+ஒரு **Towing Services** group-இல் சேரவும் (டோ-ஆபரேட்டர் groups). Towing Services team கிடைக்கும்.
 
-### Tools you get
+### நீங்கள் பெறும் கருவிகள்
 
-| Tool | What it does |
+| கருவி | இது என்ன செய்கிறது |
 | --- | --- |
-| **Traffic Wand** | Direct traffic. |
-| **Clamp Remover** | Remove clamps (for when a motorist pays). |
-| **Tow Toolkit** | Full tow chain. |
-| **Tow Placeables** | Put up cones, signs, blockages at your scene. |
+| **Traffic Wand** | ட்ராஃபிக்-ஐ இயக்கவும். |
+| **Clamp Remover** | கிளாம்புகளை அகற்றவும் (வாகன ஓட்டி பணம் செலுத்தும் போது). |
+| **Tow Toolkit** | முழு டோ சங்கிலி. |
+| **Tow Placeables** | உங்கள் இடத்தில் கூம்புகள், சைன்போர்டுகள், தடைகளை வைக்கவும். |
 
-### The flow
+### பணிப்போக்கு
 
-1. Spot an illegally parked or abandoned civilian car.
-2. Approach it and use the **Clamp** tool.
-3. The clamp attaches. A 15-minute countdown starts.
-4. The owner sees a pay-prompt: **500 BR to remove**.
-5. When they pay, the clamp is removed automatically.
-6. You earn the fee.
+1. சட்டவிரோதமாக நிறுத்தப்பட்ட அல்லது கைவிடப்பட்ட சிவிலியன் காரை கண்டறியவும்.
+2. அதை அணுகி **Clamp** கருவியை பயன்படுத்தவும்.
+3. கிளாம்ப் பொருத்தப்படுகிறது. 15-நிமிட கவுண்ட்டவுன் தொடங்குகிறது.
+4. உரிமையாளர் பணம் செலுத்தும் அறிவிப்பை காண்கிறார்: **அகற்ற 500 BR**.
+5. அவர்கள் பணம் செலுத்தியவுடன், கிளாம்ப் தானாகவே அகற்றப்படும்.
+6. நீங்கள் கட்டணத்தை சம்பாதிக்கிறீர்கள்.
 
-### Tow truck vehicles
+### டோ டிரக் வாகனங்கள்
 
-3 tow vehicles: **Isuzu Tow Truck**, **Isuzu Tow Truck Bed**, **Toyota Hilux Tow**.
+3 டோ வாகனங்கள்: **Isuzu Tow Truck**, **Isuzu Tow Truck Bed**, **Toyota Hilux Tow**.
 
-### Tips
+### குறிப்புகள்
 
-- **Clamping is a big move.** Only do it where it's actually justified (blocking a driveway, blocking a zebra crossing, badly parked on a no-parking line). Griefing civilians via arbitrary clamping is a banable offence.
-- Actions are logged on Discord via webhook — staff can see who clamped whom.
-- Removing a clamp remotely (from the tow tablet) is also an option.
+- **கிளாம்ப் செய்வது ஒரு பெரிய நடவடிக்கை.** உண்மையிலேயே நியாயப்படுத்தப்பட்ட இடங்களில் மட்டுமே செய்யவும் (டிரைவ்வே-ஐ தடுப்பது, வரிசையாக கடக்கும் பாதை-ஐ தடுப்பது, நிறுத்த-தடை கோட்டில் மோசமாக நிறுத்தப்பட்டது). தன்னிச்சையான கிளாம்பிங் மூலம் சிவிலியன்களை தொந்தரவு செய்வது ban-க்கான குற்றமாகும்.
+- செயல்கள் webhook வழியாக Discord-இல் பதிவு செய்யப்படுகின்றன — யார் யாரை கிளாம்ப் செய்தார்கள் என்று staff பார்க்க முடியும்.
+- தொலைவில் இருந்து (டோ tablet-இலிருந்து) ஒரு கிளாம்பை அகற்றுவதும் ஒரு விருப்பமாகும்.
 
 ---
 
-## Bus driving
+## பஸ் ஓட்டுதல்
 
-Bus drivers carry passengers, earn per route, and aren't charged fare themselves.
+பஸ் ஓட்டுநர்கள் பயணிகளை சுமக்கிறார்கள், வழித்தடத்திற்கு சம்பாதிக்கிறார்கள், மற்றும் தாங்களே கட்டணம் செலுத்த மாட்டார்கள்.
 
-### Access
+### அணுகல்
 
-Join one of: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermuda**, or a **Bus Services** operator group. Each has its own rank requirements.
+இவற்றில் ஒன்றில் சேரவும்: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermuda**, அல்லது ஒரு **Bus Services** ஆபரேட்டர் group. ஒவ்வொன்றிற்கும் அதன் சொந்த தர தேவைகள் உள்ளன.
 
-### The flow
+### பணிப்போக்கு
 
-1. Spawn a bus at your operator's depot.
-2. Drive the routes around KL.
-3. Passengers board by sitting in passenger seats — their fare is handled automatically (5 BR from CAG or cash).
-4. Drop them off wherever you reach next.
+1. உங்கள் ஆபரேட்டரின் டிப்போவில் ஒரு பஸ்ஸை spawn செய்யவும்.
+2. KL சுற்றிலும் உள்ள வழித்தடங்களை ஓட்டவும்.
+3. பயணிகள் பயணி இருக்கைகளில் அமர்வதன் மூலம் ஏறுகிறார்கள் — அவர்களின் கட்டணம் தானாகவே கையாளப்படுகிறது (CAG-இலிருந்து அல்லது காசில் 5 BR).
+4. நீங்கள் அடுத்து எங்கு சென்றாலும் அவர்களை இறக்கி விடுங்கள்.
 
-### Bus models available
+### கிடைக்கும் பஸ் மாடல்கள்
 
-- **MyTransit**: 10 models (TKL_B5LH, TKL_MINIBUS, TKL_CITIE, TKL_K230UB, TKL_URBANO, MYTR_URBANO, TKL_TEMPORARY, TKL_Harimau Evo, TKL_NL323F, TKL_E500).
+- **MyTransit**: 10 மாடல்கள் (TKL_B5LH, TKL_MINIBUS, TKL_CITIE, TKL_K230UB, TKL_URBANO, MYTR_URBANO, TKL_TEMPORARY, TKL_Harimau Evo, TKL_NL323F, TKL_E500).
 - **FirstGroup**: 4 (FG_K230UB, FG_NL323F, Vitaru Urban Mini, FG_MAN Double).
-- **Fermuda**: several buses plus crossover cars.
-- **Bus Services / SPAD**: various SPAD-registered fleets.
+- **Fermuda**: பல பஸ்கள் கூட குரோஸ்ஓவர் கார்கள்.
+- **Bus Services / SPAD**: பல்வேறு SPAD-பதிவு செய்யப்பட்ட கார வளைகள்.
 
-### Tips
+### குறிப்புகள்
 
-- **Drivers ride free.** If you're in the driver seat, no fare is charged.
-- **Commuters use CAG cards** — they may or may not have one. If not, the fare is debt; that's between them and the kiosk, not you.
-- **Don't skip stops to get lunch.** Roleplay integrity counts.
+- **ஓட்டுநர்கள் இலவசமாக பயணிக்கிறார்கள்.** நீங்கள் ஓட்டுநர் இருக்கையில் இருந்தால், கட்டணம் வசூலிக்கப்படாது.
+- **பயணிகள் CAG கார்டுகளை பயன்படுத்துகிறார்கள்** — அவர்களிடம் இருக்கலாம் அல்லது இல்லாமல் இருக்கலாம். இல்லாவிட்டால், கட்டணம் கடன் ஆகும்; அது அவர்களுக்கும் kiosk-க்கும் இடையிலானது, உங்களுக்கு அல்ல.
+- **மதிய உணவுக்கு ஸ்டாப்புகளை தவிர்க்காதீர்கள்.** ரோல்பிளே நம்பகத்தன்மை முக்கியம்.
 
 ---
 
-## Job comparison
+## வேலை ஒப்பீடு
 
-| Job | Barrier to entry | BR per hour (rough) | Roleplay depth |
+| வேலை | நுழைவு தடை | ஒரு மணி நேரத்திற்கு BR (தோராயமாக) | ரோல்பிளே ஆழம் |
 | --- | --- | --- | --- |
-| **POS** | None | Moderate, steady | Low — delivery loop |
-| **Taxi** | 150 R$ or group | Variable, high with volume | High — passengers + traffic |
-| **Tow** | Group | High per action, but sparse | Medium |
-| **Bus** | Group | Route-dependent | High — fixed routes, traffic |
+| **POS** | இல்லை | மிதமான, நிலையான | குறைந்தது — டெலிவரி சுழற்சி |
+| **Taxi** | 150 R$ அல்லது group | மாறுபடும், அளவு அதிகமாக இருக்கும்போது அதிகமாக | அதிக — பயணிகள் + ட்ராஃபிக் |
+| **Tow** | Group | ஒரு செயலுக்கு அதிகம், ஆனால் அரிது | நடுத்தர |
+| **Bus** | Group | வழித்தடத்தை பொறுத்தது | அதிக — நிலையான வழித்தடங்கள், ட்ராஃபிக் |
 
-With **HCC gamepass** your per-action BR goes up across all of these.
+**HCC gamepass**-உடன் இவை அனைத்திலும் உங்கள் ஒரு செயலுக்கான BR அதிகரிக்கிறது.
 
-## See also
+## மேலும் பார்க்க
 
-- [Economy](/bandaraya/economy) — full earning/spending reference
+- [பொருளாதாரம்](/bandaraya/economy) — முழு சம்பாதிப்பு/செலவு குறிப்பு
 - [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC
-- [Teams](/bandaraya/teams) — transport team access
-- [Vehicles](/bandaraya/vehicles) — spawning, fuel, dealership
-- [Tablet](/bandaraya/tablet) — MyTow and Vehicle Management apps
+- [Teams](/bandaraya/teams) — போக்குவரத்து team அணுகல்
+- [வாகனங்கள்](/bandaraya/vehicles) — spawning, எரிபொருள், டீலர்ஷிப்
+- [Tablet](/bandaraya/tablet) — MyTow மற்றும் Vehicle Management ஆப்புகள்

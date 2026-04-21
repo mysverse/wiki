@@ -1,188 +1,189 @@
 ---
-title: Vehicles
-description: 'Cars, boats, ambulances, spawners, and customization in Sumaya.'
+title: வாகனங்கள்
+description: >-
+  Sumaya-வில் கார்கள், படகுகள், ஆம்புலன்ஸ்கள், ஸ்பானர்கள், மற்றும்
+  தனிப்பயனாக்கம்.
 lang: ta
 translated_from_hash: 2a82838f
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வாகனங்கள்
 
-# Vehicles
+சுமாயாவில் ஒரு பெரிய வாகனப் பட்டியல் உள்ளது: பொதுமக்கள் கார்கள் (இலவசம் மற்றும் பிரீமியம்), மீன்பிடி ட்ரோலர்கள், போலீஸ் கார்கள், தீயணைப்பு வண்டிகள் மற்றும் ஆம்புலன்ஸ்கள். அவற்றை எவ்வாறு ஸ்பான் செய்வது, விலைகளுடன் கூடிய முழு பட்டியல் மற்றும் அவற்றை எவ்வாறு தனிப்பயனாக்குவது மற்றும் பராமரிப்பது என்பதை இந்தப் பக்கம் விவரிக்கிறது.
 
-Sumaya has a large vehicle catalog: civilian cars (free and premium), fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalog with prices, and how to customize and care for them.
+## வாகனத்தை எவ்வாறு ஸ்பான் செய்வது
 
-## How to spawn a vehicle
+நகரத்தைச் சுற்றி **வாகன ஸ்பானர் கியோஸ்க்குகளை** தேடுங்கள். அவை தெரு மூலைகள், காட்சியகங்கள் மற்றும் நிலையங்களில் தொடர்பு தூண்டல்களாகத் தோன்றுகின்றன.
 
-Look for **vehicle spawner kiosks** around town. They show up as interactive prompts on street corners, dealerships, and at stations.
+1. ஒரு ஸ்பானரை நோக்கி நடந்து, தொடர்பு தூண்டலை அழுத்தவும்.
+2. ஒரு வாகன மெனு திறக்கப்படும், உங்களுக்கு கிடைக்கும் கார்களைக் காட்டுகிறது.
+3. ஒன்றைத் தேர்ந்தெடுக்கவும். அதன் பெயர், விலை மற்றும் தேவைகளை நீங்கள் காண்பீர்கள்.
+4. **வாடகைக்கு எடு** அல்லது **வாங்கு** என்பதைத் தேர்ந்தெடுக்கவும்:
+   - **வாடகைக்கு எடு**: சிறிய ஒருமுறை செலவை செலுத்துங்கள், நீங்கள் ரீஸ்பான் செய்யும்போது, லாக் அவுட் செய்யும்போது அல்லது வேறு ஒன்றை ஸ்பான் செய்யும்போது வாகனம் மறைந்துவிடும்.
+   - **வாங்கு**: முழு விலையை செலுத்துங்கள், வாகனம் நிரந்தரமாக உங்களுடையது (மற்றும் அமர்வுகளில் தொடர்கிறது).
 
-1. Walk up to a spawner and press the interact prompt.
-2. A vehicle menu opens, showing cars available to you.
-3. Pick one. You'll see its name, price, and requirements.
-4. Choose **rent** or **buy**:
-   - **Rent**: pay a smaller one-time cost, the vehicle disappears when you respawn, log out, or spawn a different one.
-   - **Buy**: pay the full price, the vehicle is yours permanently (and persists across sessions).
+### ஒரு வாகனம் சாம்பல் நிறத்தில் இருந்தால் என்ன செய்வது?
 
-### What if a vehicle is grayed out?
+ஒரு வாகனத்தை நீங்கள் ஸ்பான் செய்ய முடியாவிட்டால், ஸ்பானர் காரணத்தைச் சொல்லும். பொதுவாக இது இவற்றில் ஒன்று:
 
-If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of:
+- **பிளேயர் நிலை மிகவும் குறைவானது** (உங்களுக்கு அதிக பிளேயர் நிலை தேவை).
+- **துறை நிலை மிகவும் குறைவானது** (குழு வாகனங்களுக்கு, எ.கா. பொம்பா சானிகா டேங்கர் துறை நிலை 65-இல்).
+- **தவறான குழு** (போலீஸ் கார்களுக்கு போலிஸ் குழு தேவை, போன்றவை).
+- **உங்களிடம் ஏற்கனவே ஒரு வேலை வாகனம் வெளியே உள்ளது** (எ.கா. மீன்பிடிக்கும் போது ஒரு ட்ரோலர்).
 
-- **Player level too low** (you need a higher player level).
-- **Sector level too low** (for team vehicles, e.g. Bomba Sanica Tanker at sector level 65).
-- **Wrong team** (police cars require POLIS team, etc.).
-- **You already have a job vehicle out** (e.g. a trawler while fishing).
+பொதுமக்கள் வாகன ஸ்பானர்கள் பொதுமக்கள் கார்களை மட்டுமே காட்டுகின்றன, குழு ஸ்பானர்கள் குழு வாகனங்களை மட்டுமே காட்டுகின்றன, மீன்பிடி படகு ஸ்பானர்கள் ட்ரோலர்களை மட்டுமே காட்டுகின்றன.
 
-Civilian vehicle spawners show only civilian cars, team spawners show only team vehicles, fishing-boat spawners show only trawlers.
+## பொதுமக்கள் கார்கள்
 
-## Civilian cars
+பெரும்பாலான பொதுமக்கள் கார்கள் **இலவசமாக** ஸ்பான் ஆகின்றன (அவற்றுக்கு விலை நிர்ணயிக்கப்படவில்லை). சில பிரீமியம் ஆகும். அனைத்து பொதுமக்கள் கார்களும் **பிளேயர் நிலை 1**-இல் உள்ளன - நிலை தடை இல்லை - ஆனால் பணம் செலுத்தப்பட்டவைகளுக்கு ரிங்கிட் செலவாகும்.
 
-Most civilian cars spawn **free** (they don't have a price set). A few are premium. All civilian cars are at **player level 1** - no level gate - but the paid ones cost Ringgit.
+### இலவச பொதுமக்கள் கார்கள்
 
-### Free civilian cars
+இவை விலை இல்லாமல் ஸ்பான் ஆகின்றன. நீங்கள் எப்போது வேண்டுமானாலும் வெளியே எடுக்கலாம்:
 
-These spawn without a price. You can take them out any time:
+- பெரோசாடு ஆக்ஸியா (கூம்பிய ஹாட்ச்பேக்)
+- பெரோசாடு மைவி (ஹாட்ச்பேக்)
+- பெரோசாடு பெஸ்ஸா (செடான்)
+- பெரோசாடு அல்ஸா (MPV)
+- பெரோசாடு ஆட்டிவா (கூம்பிய SUV)
+- பெரோசாடு அருஸ் (SUV)
+- புரோட்டான் விரா (கூம்பிய செடான்)
+- புரோட்டான் விரா ஏரோபேக் (ஹாட்ச்பேக்)
+- புரோட்டான் புத்ரா (ஸ்போர்ட் கூப்)
+- புரோட்டான் வாஜா (செடான்)
+- புரோட்டான் ப்ரீவ் (செடான்)
+- புரோட்டான் சாகா (கூம்பிய செடான்)
+- புரோட்டான் பெர்சோனா (நவீன செடான்)
+- புரோட்டான் எக்சோரா (MPV)
+- ஹந்தாய் சிட்டி (MPV)
+- ஹந்தாய் சிவிக் (MPV)
+- புரோட்டான் S70 (செடான்)
+- புரோட்டான் X70 (SUV)
 
-- Perosatu Axia (compact hatchback)
-- Perosatu Myvi (hatchback)
-- Perosatu Bezza (sedan)
-- Perosatu Alza (MPV)
-- Perosatu Ativa (compact SUV)
-- Perosatu Aruz (SUV)
-- Protan Wira (compact sedan)
-- Protan Wira Aeroback (hatchback)
-- Protan Putra (sport coupe)
-- Protan Waja (sedan)
-- Protan Preve (sedan)
-- Protan Saga (compact sedan)
-- Protan Persona (modern sedan)
-- Protan Exora (MPV)
-- Handai City (MPV)
-- Handai Civic (MPV)
-- Protan S70 (sedan)
-- Protan X70 (SUV)
+### பிரீமியம் பொதுமக்கள் கார்கள்
 
-### Premium civilian cars
+| வாகனம் | வாடகை | வாங்கு |
+|--------|-------|--------|
+| புரோட்டான் X50 (கூம்பிய SUV) | 2,000 ரிங்கிட் | 10,000 ரிங்கிட் |
+| மெர்ஸ்டா மியாட்டா (ரோட்ஸ்டர்) | 2,400 ரிங்கிட் | 12,000 ரிங்கிட் |
+| நிசுன் S15 சில்வியா | 2,400 ரிங்கிட் | 20,000 ரிங்கிட் |
+| ஜோகுவார் XJ308 R | 2,400 ரிங்கிட் | 29,000 ரிங்கிட் |
 
-| Vehicle | Rent | Buy |
-|---------|------|-----|
-| Protan X50 (compact SUV) | 2,000 Ringgit | 10,000 Ringgit |
-| Merzda Miata (roadster) | 2,400 Ringgit | 12,000 Ringgit |
-| Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
-| Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
+ஜோகுவார் XJ308 R என்பது விளையாட்டில் மிகவும் விலையுயர்ந்த பொதுமக்கள் வாகனம்.
 
-The Joguar XJ308 R is the most expensive civilian vehicle in the game.
+## மீன்பிடி ட்ரோலர்கள்
 
-## Fishing trawlers
+ட்ரோலர்கள் துறைமுகங்களில் உள்ள மீன்பிடி படகு ஸ்பானர்களில் ஸ்பான் ஆகின்றன, நீங்கள் **மீன்வளத் துறையில்** பணிக்குச் சேர்ந்திருந்தால் மட்டுமே தோன்றும். [மீன்பிடித்தல்](/sumaya/jobs-fishing) பார்க்கவும்.
 
-Trawlers spawn at fishing-boat spawners at docks, and only appear if you're clocked in to the **Fishing Sector**. See [Fishing](/sumaya/jobs-fishing).
+| ட்ரோலர் | விலை |
+|---------|------|
+| நிலை 1 ட்ரோலர் | இலவசம் (நீங்கள் மீன்பிடி ஷிப்ட்டில் இருக்கும் வரை) |
+| நிலை 2 ட்ரோலர் | 25,000 ரிங்கிட் |
+| நிலை 3 ட்ரோலர் | 37,000 ரிங்கிட் |
 
-| Trawler | Price |
-|---------|-------|
-| Tier 1 Trawler | Free (as long as you're on a fishing shift) |
-| Tier 2 Trawler | 25,000 Ringgit |
-| Tier 3 Trawler | 37,000 Ringgit |
+உயர் நிலைகள் அதிக மீன்களை எடுத்துச் செல்கின்றன.
 
-Higher tiers carry more fish.
+## போலீஸ் வாகனங்கள் (POLIS மட்டும்)
 
-## Police vehicles (POLIS only)
+நீங்கள் போலிஸ் குழுவில் இருந்தால் மட்டுமே கிடைக்கும். **பிளேயர் நிலை** மற்றும் **துறை நிலை** (POLIS துறை) ஆகியவற்றின் கலவையால் வரம்புக்கு உட்பட்டது.
 
-Available only if you're on the POLIS team. Gated by a mix of **player level** and **sector level** (POLIS sector).
+| வாகனம் | பிளேயர் நிலை | துறை நிலை | விலை |
+|--------|--------------|-----------|------|
+| புரோட்டான் விரா MPV போலிஸ் | 1 | 1 | இலவசம் |
+| புரோட்டான் வாஜா MPV போலிஸ் | 15 | - | 6,500 ரிங்கிட் |
+| ஹந்தாய் சிட்டி MPV போலிஸ் | 1 | 35 | 12,000 ரிங்கிட் |
+| ஹந்தாய் சிவிக் MPV போலிஸ் | 1 | 55 | 15,000 ரிங்கிட் |
 
-| Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
-| Protan Wira MPV Polis | 1 | 1 | Free |
-| Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
-| Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
-| Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
+விரா என்பது உங்கள் தொடக்க ரோந்து கார். சிவிக் என்பது உச்சநிலை.
 
-The Wira is your starter patrol car. The Civic is the top-tier.
+## பொம்பா வாகனங்கள் (BOMBA மட்டும்)
 
-## Bomba vehicles (BOMBA only)
+பொம்பா குழுவில் மட்டுமே கிடைக்கும். பொம்பா துறை நிலை மூலம் வரம்புக்கு உட்பட்டது.
 
-Available only on the BOMBA team. Gated by Bomba sector level.
+| வாகனம் | துறை நிலை | விலை |
+|--------|-----------|------|
+| மெர்ஸ் ஆடிகோ LFRT | 1 | இலவசம் |
+| சானிகா 94D LFRT | 20 | 9,000 ரிங்கிட் |
+| தயோடி ஹயேஸ் (பொம்பா) | 40 | 12,000 ரிங்கிட் |
+| சானிகா P310 FRT | 40 | 13,000 ரிங்கிட் |
+| சானிகா P360 டேங்கர் | 65 | 20,000 ரிங்கிட் |
 
-| Vehicle | Sector level | Price |
-|---------|--------------|-------|
-| Merze Atego LFRT | 1 | Free |
-| Sanica 94D LFRT | 20 | 9,000 Ringgit |
-| Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
-| Sanica P310 FRT | 40 | 13,000 Ringgit |
-| Sanica P360 Tanker | 65 | 20,000 Ringgit |
+LFRT = Light Fire Rescue Tender (இலகுரக தீயணைப்பு மீட்பு வண்டி). FRT = Fire Rescue Tender (தீயணைப்பு மீட்பு வண்டி). P360 டேங்கர் என்பது பொம்பாவின் கனரக பயன்பாட்டிற்கான உச்சக்கட்ட வாகனம், தனது சொந்த நீர் விநியோகத்தை எடுத்துச் செல்கிறது.
 
-LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. The P360 Tanker is the heavy-utility apex Bomba vehicle, carrying its own water supply.
+## ஆம்புலன்ஸ்கள் (கெசிஹாடான் மட்டும்)
 
-## Ambulances (Kesihatan only)
+கெசிஹாடான் குழுவில் மட்டுமே கிடைக்கும். கெசிஹாடான் துறை நிலை மூலம் வரம்புக்கு உட்பட்டது.
 
-Available only on the Kesihatan team. Gated by Kesihatan sector level.
+| வாகனம் | துறை நிலை | விலை |
+|--------|-----------|------|
+| தயோடி ஹயேஸ் KKN ஆம்புலன்ஸ் | 1 | இலவசம் |
+| தயோடி ஹைலக்ஸ் KKN ஆம்புலன்ஸ் | 20 | 8,000 ரிங்கிட் |
+| ஹந்தாய் சிட்டி KKN ஆம்புலன்ஸ் | 45 | 12,000 ரிங்கிட் |
 
-| Vehicle | Sector level | Price |
-|---------|--------------|-------|
-| Tayoti Hiace KKN Ambulance | 1 | Free |
-| Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
-| Handai City KKN Ambulance | 45 | 12,000 Ringgit |
+"KKN" என்பது **Kementerian Kesihatan Nasional** (தேசிய சுகாதார அமைச்சகம்) என்பதைக் குறிக்கிறது. ஒவ்வொரு ஆம்புலன்ஸிலும் ஸ்ட்ரெச்சருக்கான சரக்கு இடம் உள்ளது.
 
-"KKN" stands for **Kementerian Kesihatan Nasional** (National Ministry of Health). Each ambulance has cargo room for the stretcher.
+## அவசர சைரன்கள் (ELS)
 
-## Emergency sirens (ELS)
+போலிஸ், பொம்பா மற்றும் கெசிஹாடான் வாகனங்கள் அனைத்திலும் **Emergency Lighting System (ELS)** உள்ளது. சைரன் ஆன் செய்யப்பட்ட நிலையில் அவசர வாகனத்தை ஓட்டும்போது:
 
-Polis, Bomba, and Kesihatan vehicles all have an **Emergency Lighting System (ELS)**. While driving an emergency vehicle with the siren on:
+- உங்களிடம் **சிவப்பு/நீலம்/வெள்ளை ஒளிகள் ஒளிரும்**.
+- நீங்கள் **குற்றங்களிலிருந்து விலக்கு அளிக்கப்படுகிறீர்கள்** - வேகமாக ஓட்டுதல் மற்றும் விபத்துகள் கணக்கில் கொள்ளப்படாது.
+- நீங்கள் வருகிறீர்கள் என்பதை மற்ற பிளேயர்கள் ஒலி/காட்சி எச்சரிக்கை பெறுகின்றனர்.
 
-- You have **flashing red/blue/white lights**.
-- You're **exempt from offences** - speeding and crashes don't count.
-- Other players get audio/visual warning that you're coming.
+நீங்கள் பார்க் செய்யும்போது சைரனை அணைக்கவும். சைரன் செயலில் இருக்கும் போது செயலில் ஓட்டும்போது மட்டுமே விலக்கு பொருந்தும்.
 
-Turn the siren off when you park. The exemption only applies while actively driving with the siren active.
+## தனிப்பயனாக்கம்
 
-## Customization
+பொதுமக்கள் வாகனங்கள் நிற தனிப்பயனாக்கத்தை ஆதரிக்கின்றன. ஒரு வாகனத்தை ஸ்பான் செய்யும்போது அல்லது உங்கள் வாகன சுயவிவரத்திலிருந்து **Paint / Customize** விருப்பத்தைத் தேடுங்கள். நீங்கள் மாற்றலாம்:
 
-Civilian vehicles support color customization. Look for the **Paint / Customize** option when you spawn a vehicle, or from your vehicle profile. You can change:
+- **உடல் நிறம்** (முதன்மை மற்றும் இரண்டாம் நிலை).
+- **ஜன்னல் டின்ட்** (வெளிச்சம், நடுத்தரம், இருண்டது).
 
-- **Body color** (primary and secondary).
-- **Window tint** (light, medium, dark).
+பெரும்பாலான பொதுமக்கள் கார்கள் தனிப்பயனாக்கக்கூடியவை. குழு வாகனங்கள் பொதுவாக இல்லை.
 
-Most civilian cars are customizable. Team vehicles usually are not.
+## எரிபொருள்
 
-## Fuel
+சுமாயாவில் தற்போது எரிபொருள் உண்மையில் **வரம்பற்றது** - நீங்கள் தீர்ந்து போவது அல்லது எரிபொருள் நிலையங்களில் மறுநிரப்பல் செய்வது பற்றி கவலைப்பட தேவையில்லை. படகுகளின் எரிபொருள் அளவீடு ஒரு ஷிப்ட்க்கு கண்காணிக்கப்படுகிறது (மீன்பிடி ட்ரோலர்களுக்கு), ஆனால் கார்கள் எரிபொருள் வரம்புகள் இல்லாமல் இயங்குகின்றன.
 
-Fuel is effectively **unlimited** in Sumaya right now - you don't need to worry about running out or refueling at gas stations. The fuel gauge on boats is tracked per-shift (for fishing trawlers), but cars run without fuel limits.
+## மோதல் மாற்றம்
 
-## Collision toggle
+உங்கள் **Phone > Collision** ஆப்பிலிருந்து, நீங்கள் வாகன மோதல்களை ஆன் அல்லது ஆஃப் செய்யலாம். மோதல்கள் ஆஃப் செய்யப்பட்டிருக்கும்போது:
 
-From your **Phone > Collision** app, you can toggle vehicle collisions on or off. With collisions off:
+- உங்கள் வாகனம் மற்ற வாகனங்களின் வழியாக **ஊடுருவுகிறது**.
+- இறுக்கமான பார்க்கிங்கிலிருந்து வெளியேற அல்லது மற்றொரு பிளேயர் உங்களை மோதும்போது பயனுள்ளதாக இருக்கும்.
+- நீங்கள் சாதாரணமாக ஓட்ட விரும்பினால் மோதல்களை மீண்டும் ஆன் செய்யவும்.
 
-- Your vehicle **phases through** other vehicles.
-- Useful for getting out of tight parking or when another player rams you.
-- Turn collisions back on when you want to drive normally.
+Collision ஆப் பற்றி மேலும் அறிய [போன் மற்றும் UI](/sumaya/phone) பார்க்கவும்.
 
-See [Phone and UI](/sumaya/phone) for more on the Collision app.
+## உரிமை மற்றும் நிலைத்தன்மை
 
-## Ownership and persistence
+- நீங்கள் ரீஸ்பான், லாக் அவுட் அல்லது வேறு ஒன்றை ஸ்பான் செய்யும்போது **வாடகைக்கு எடுக்கப்பட்ட வாகனங்கள்** மறைந்துவிடும்.
+- **வாங்கப்பட்ட வாகனங்கள்** நிரந்தரமாக உங்களுடையதாக இருக்கும். அவை உங்கள் சுயவிவரத்தின் சொந்த வாகனங்கள் பட்டியலில் காட்டப்படும்.
+- நீங்கள் ஒரு வாகனத்தை வாங்கி பின்னர் அதை விற்க விரும்பினால், ஸ்பானரை சரிபார்க்கவும் - சில வாகனங்கள் பகுதி திரும்பப்பெறுவதற்கு விற்கக்கூடியதாக இருக்கலாம் (இது மாறுபடுகிறது).
+- உங்கள் சொந்த வாகனம் வேறு யாராவது **carjack செய்யப்பட்டால்**, அது தகடு தரவுத்தளத்தில் திருடப்பட்டதாக குறிக்கப்படுகிறது, மற்றும் போலிஸ் அதை மீட்டெடுக்கலாம்.
 
-- **Rented vehicles** disappear when you respawn, log out, or spawn a different one.
-- **Bought vehicles** stay yours permanently. They show up in your profile's Owned Vehicles list.
-- If you buy a vehicle and later want to sell it, check the spawner - some vehicles may be sellable for partial refund (this varies).
-- If your owned vehicle is **carjacked** by someone else, it's marked stolen in the plate database, and Polis can recover it.
+## தகடுகள் மற்றும் பதிவு
 
-## Plates and registration
+ஒவ்வொரு வாகனத்திற்கும் ஒரு **உரிம தகடு** உள்ளது. நீங்கள் ஒரு வாகனத்தை ஸ்பான் செய்யும்போது:
 
-Every vehicle has a **license plate**. When you spawn a vehicle:
+- தகடு பதிவு செய்யப்பட்ட உரிமையாளராக உங்கள் பயனர் ID உடன் இணைக்கப்பட்டுள்ளது.
+- POLIS, யார் ஒரு வாகனத்தை சொந்தமாக்கிக் கொண்டிருக்கிறார் என்பதைப் பார்க்க MDT-யிலிருந்து எந்த தகட்டையும் தேடலாம்.
+- உங்கள் வாகனம் திருடப்பட்டால், தகடு நிலை அதை கொடியிடுகிறது.
 
-- The plate is tied to your user ID as the registered owner.
-- POLIS can look up any plate from the MDT to see who owns a vehicle.
-- If your vehicle is stolen, the plate status flags it.
+## குறிப்புகள்
 
-## Tips
+- **வாங்குவதற்கு முன் வாடகைக்கு எடுங்கள்.** 10,000+ ரிங்கிட் செலவு செய்வதற்கு முன் ஒரு காரை வாடகை விலையில் முதலில் முயற்சிக்கவும்.
+- **நீங்கள் நிலை உயரும்போது உங்கள் குழு வாகனத்தை மேம்படுத்தவும்.** உயர்-நிலை பொம்பா மற்றும் போலிஸ் கார்கள் வேகமாகவும் கடினமாகவும் உள்ளன.
+- **காவல்துறையினர் மற்றும் தீயணைப்பு வீரர்களுக்கான சைரன்கள் = டிக்கெட்டுகள் இல்லை.** நீங்கள் பதில் அளிக்கும்போது எப்போதும் உங்கள் சைரனை ஆன் செய்யவும், எனவே நீங்கள் உங்களையே மேற்கோள் காட்ட வேண்டாம்.
+- **போக்குவரத்து பாதைகளில் பார்க் செய்ய வேண்டாம்.** விட்டுச் செல்லப்பட்ட பொதுமக்கள் கார்களை carjack செய்யலாம்; நீங்கள் அதை சொந்தமாக்கினால் மற்றும் திருடப்பட விரும்பவில்லை என்றால், அமைதியான இடத்தில் பார்க் செய்யுங்கள்.
+- **பார்க்கிங்கிற்கான ஊடுருவல் பயன்முறை.** யாராவது உங்களை தடுத்து வைத்திருந்தால், அவர்கள் வழியாக ஓட்ட மோதல் மாற்றத்தை இயக்கவும்.
+- **நிலை 2 அல்லது 3 ட்ரோலருக்கு சேமியுங்கள்.** நீங்கள் மீன்பிடிக்கப் பொறுப்பேற்றால், பெரிய படகுகள் விரைவில் தங்களையே செலுத்திக் கொள்ளும்.
 
-- **Rent before buying.** Try a car at rent price first before dropping 10,000+ Ringgit.
-- **Upgrade your team vehicle as you level.** The higher-tier Bomba and Polis cars are faster and tougher.
-- **Sirens for cops and fire crews = no tickets.** Always flip your siren on when responding so you don't cite yourself.
-- **Don't park in traffic lanes.** Left-behind civilian cars can be carjacked; if you own it and don't want it stolen, park somewhere quieter.
-- **Phasing mode for parking.** If someone's blocking you in, enable collision toggle to drive through them.
-- **Save for a Tier 2 or 3 trawler.** If you're committing to fishing, the bigger boats pay for themselves quickly.
+## அடுத்து என்ன?
 
-## What next?
-
-- [Crime and Law](/sumaya/crime-and-law) for how carjacking works in detail.
-- [Polis](/sumaya/polis) for the police vehicle catalog.
-- [Bomba](/sumaya/bomba) for fire truck details.
-- [Kesihatan](/sumaya/kesihatan) for ambulance details.
-- [Phone and UI](/sumaya/phone) for the Collision and Profile apps.
+- carjacking எவ்வாறு விரிவாக வேலை செய்கிறது என்பதற்கான [குற்றம் மற்றும் சட்டம்](/sumaya/crime-and-law).
+- போலிஸ் வாகன பட்டியலுக்கான [போலிஸ்](/sumaya/polis).
+- தீயணைப்பு வண்டி விவரங்களுக்கான [பொம்பா](/sumaya/bomba).
+- ஆம்புலன்ஸ் விவரங்களுக்கான [கெசிஹாடான்](/sumaya/kesihatan).
+- Collision மற்றும் Profile ஆப்ஸுக்கான [போன் மற்றும் UI](/sumaya/phone).

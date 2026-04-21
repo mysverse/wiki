@@ -87,13 +87,26 @@ The highway connects all three regions. Notable stops:
 | Police help | Any Balai Polis (Bandar Seri Putra, Kampung Merbang) |
 | Fire / rescue | Any Balai Bomba (Bandar Seri Putra, Jersik) |
 | Medical | Klinik Kesihatan Bandar Seri Putra |
-| Vehicle repairs | Gravstone Workshop |
+| Vehicle repairs | Any of the 10 repair zones around the map |
+| Vehicle paint / body work | Gravstone Workshop (requires Workshop gamepass) |
 | Post your mail | Pos Nasional Jersik |
 | Start a bus route | Depoh Bas Bandar Seri Putra |
 | Race | Jersik Race Track |
 | Fish | Fishing Port |
 | Pray | Masjid Kampung Merbang or Masjid Bandar Seri Putra |
 | Hang out | RnR rest stops or Dus Doffee |
+
+## Weather and time of day
+
+Lebuhraya has a live day-night cycle and random rainfall.
+
+**Time cycle**: in-game time advances by **1 minute every real-world second**, so a full in-game day takes 24 real minutes. Streetlights and billboard lights turn on automatically at **6:00 PM** and remain on until **6:40 AM**. Drive with headlights during those hours for visibility — and respect the atmosphere; some roads are meaningfully darker at night.
+
+**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a screen rain effect while it's active. Roads don't become slippery, but visibility drops. Admins can toggle rain on/off with chat commands `!rainon` / `!rainoff` during events.
+
+## Traffic lights and junctions
+
+Junction traffic lights at intersections coordinate across multiple signal groups (e.g. the `BSP_Main` junction in Bandar Seri Putra has two alternating phases). Standalone lights cycle Green → Yellow → Red independently. Stopping at red is enforced by the anti-cheat system — see *Speed traps and tolls* below for details on the **Red Light** offence.
 
 ## Speed traps and tolls
 

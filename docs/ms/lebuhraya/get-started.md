@@ -1,15 +1,14 @@
 ---
-title: Getting Started
+title: Mula
 description: >-
-  Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and
-  hit the highway.
+  10 minit pertama anda di Lebuhraya — hasilkan kenderaan, peroleh BR, naik
+  taraf, dan pandu di lebuh raya.
 lang: ms
 translated_from_hash: 1e15992a
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Mula dengan Lebuhraya
+# Mula
 
 Selamat datang ke Lebuhraya! Panduan ini akan membantu anda mengambil langkah pertama dalam pengalaman memandu dan roleplay bertemakan Malaysia ini.
 

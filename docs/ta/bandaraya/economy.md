@@ -1,104 +1,103 @@
 ---
-title: Economy
+title: பொருளாதாரம்
 description: >-
-  How the Bandaraya Ringgit (BR) economy works — earning, banking, transferring
-  BR, and developer products.
+  Bandar Ringgit (BR) பொருளாதாரம் எவ்வாறு வேலை செய்கிறது — சம்பாதித்தல், வங்கி,
+  BR பரிமாற்றம், மற்றும் டெவலப்பர் பொருட்கள்.
 lang: ta
 translated_from_hash: ae4fab89
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# பொருளாதாரம்
 
-# Economy
-
-Bandaraya runs on **BR (Bandar Ringgit)**. You earn it working, spend it on shops, services, and vehicles. Robux can also buy BR via developer products, or unlock permanent perks via gamepasses.
+Bandaraya **BR (Bandar Ringgit)** அடிப்படையில் இயங்குகிறது. நீங்கள் வேலை செய்து அதை சம்பாதிக்கிறீர்கள், கடைகள், சேவைகள் மற்றும் வாகனங்களில் செலவழிக்கிறீர்கள். Robux-ஐ டெவலப்பர் பொருட்கள் மூலம் BR-ஆக வாங்கலாம், அல்லது gamepass மூலம் நிரந்தர சலுகைகளை திறக்கலாம்.
 
 ## TL;DR
 
-- The main currency is **BR** — your "cash" wallet.
-- A second wallet, the **CAG card**, is stored-value only for **buses, MRT, and tolls**. See [Getting Around](/bandaraya/getting-around). You can't cash out from CAG.
-- Earn BR via jobs (POS, Taxi, Tow, Bus), police/emergency response, or by buying BR with Robux.
-- Spend BR at shops, the dealership, TapNGo gates, clamp removals, and summons.
+- முக்கிய நாணயம் **BR** — உங்கள் "ரொக்க" பணப்பை.
+- இரண்டாவது பணப்பை, **CAG அட்டை**, **பேருந்துகள், MRT, மற்றும் சுங்கங்களுக்கு** மட்டுமே சேமிக்கப்பட்ட-மதிப்பு வகை. [சுற்றுலாவுக்கு](/bandaraya/getting-around) பார்க்கவும். CAG-லிருந்து ரொக்கமாக எடுக்க முடியாது.
+- வேலைகள் (POS, டாக்ஸி, இழுப்பு, பேருந்து), போலீஸ்/அவசர பதில், அல்லது Robux-ஐ கொண்டு BR வாங்குவதன் மூலம் BR-ஐ சம்பாதிக்கவும்.
+- கடைகள், டீலர்ஷிப், TapNGo வாயில்கள், கிளாம்ப் அகற்றல்கள், மற்றும் சம்மன்களில் BR-ஐ செலவழிக்கவும்.
 
 ---
 
-## Your two wallets
+## உங்கள் இரு பணப்பைகள்
 
-| Wallet | For | How to top up |
+| பணப்பை | எதற்காக | எப்படி நிரப்புவது |
 | --- | --- | --- |
-| **BR cash** | Shops, dealership, fuel, tolls, summons, clamps — everything. | Jobs, BR developer products (Robux), transfers. |
-| **CAG card** | Buses (5 BR flat), MRT/Monorail (discounted), TapNGo (20% off). | Top-ups at CAG kiosks, 20 / 50 / 100 / 200 / 500 BR at a time. Max 2000 BR. |
+| **BR ரொக்கம்** | கடைகள், டீலர்ஷிப், எரிபொருள், சுங்கங்கள், சம்மன்கள், கிளாம்ப்கள் — எல்லாம். | வேலைகள், BR டெவலப்பர் பொருட்கள் (Robux), பரிமாற்றங்கள். |
+| **CAG அட்டை** | பேருந்துகள் (சமமான 5 BR), MRT/மோனோரயில் (தள்ளுபடி), TapNGo (20% தள்ளுபடி). | CAG கியோஸ்க்களில் நிரப்புதல், ஒரு முறைக்கு 20 / 50 / 100 / 200 / 500 BR. அதிகபட்சம் 2000 BR. |
 
-One-way rule: **you can't convert CAG back to cash.** Top up what you'll use.
+ஒருவழி விதி: **CAG-ஐ மீண்டும் ரொக்கமாக மாற்ற முடியாது.** நீங்கள் பயன்படுத்தப் போவதை மட்டும் நிரப்புங்கள்.
 
 ---
 
-## Earning BR
+## BR சம்பாதித்தல்
 
-| Source | Team / requirement | Earnings |
+| மூலம் | குழு / தேவை | வருவாய் |
 | --- | --- | --- |
-| **Postal Service (POS)** | Any | **70 BR** at Level 1, **260 BR** at Level 20 (max). See [Jobs](/bandaraya/jobs#postal-service-pos). |
-| **Taxi Driver** | Taxi Services team **or** Taxi Driver gamepass (150 R$) | Per completed trip. See [Jobs](/bandaraya/jobs#taxi-driver). |
-| **Towing Services** | Towing Services team | Clamp fees, tow jobs. See [Jobs](/bandaraya/jobs#towing). |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services | Per route. Drivers ride free. |
-| **Developer products** | Any | Robux → BR. See table below. |
-| **Gift from another player** | Any | Via in-game **MyPay** phone app. See [Phone](/bandaraya/phone#mypay--send-br-to-another-player). |
+| **Postal Service (POS)** | யாராக இருந்தாலும் | நிலை 1-ல் **70 BR**, நிலை 20 (அதிகபட்சம்)-ல் **260 BR**. [வேலைகள்](/bandaraya/jobs#postal-service-pos) பார்க்கவும். |
+| **டாக்ஸி ஓட்டுநர்** | Taxi Services குழு **அல்லது** Taxi Driver gamepass (150 R$) | முடிக்கப்பட்ட ஒவ்வொரு பயணத்திற்கும். [வேலைகள்](/bandaraya/jobs#taxi-driver) பார்க்கவும். |
+| **இழுப்பு சேவைகள்** | Towing Services குழு | கிளாம்ப் கட்டணங்கள், இழுப்பு வேலைகள். [வேலைகள்](/bandaraya/jobs#towing) பார்க்கவும். |
+| **பேருந்து ஓட்டுதல்** | MyTransit / FirstGroup / Fermuda / Bus Services | ஒரு பாதைக்கு. ஓட்டுநர்கள் இலவசமாகப் பயணிக்கிறார்கள். |
+| **டெவலப்பர் பொருட்கள்** | யாராக இருந்தாலும் | Robux → BR. கீழே உள்ள அட்டவணையைப் பார்க்கவும். |
+| **மற்றொரு வீரரிடமிருந்து பரிசு** | யாராக இருந்தாலும் | விளையாட்டுக்குள் **MyPay** ஃபோன் செயலி மூலம். [ஃபோன்](/bandaraya/phone#mypay--send-br-to-another-player) பார்க்கவும். |
 
-HCC gamepass provides an **income boost** on top of the above.
+HCC gamepass மேற்கூறியவற்றின் மேல் **வருவாய் ஊக்கத்தை** வழங்குகிறது.
 
-For non-job earnings — police, BOMBA, KKM, SJAM, MAF — the point is roleplay, not BR farming. Those teams don't pay a direct salary; they get operational tools and vehicles.
+வேலை அல்லாத வருவாய்க்கு — POLIS, BOMBA, KKM, SJAM, MAF — நோக்கம் ரோல்பிளே, BR சேகரிப்பு அல்ல. அந்த குழுக்கள் நேரடியாக சம்பளம் கொடுக்காது; அவற்றிற்கு செயல்பாட்டு கருவிகள் மற்றும் வாகனங்கள் கிடைக்கும்.
 
 ---
 
-## Spending BR
+## BR செலவிடல்
 
-### Shops (NPC shops around KL)
+### கடைகள் (KL-ஐச் சுற்றியுள்ள NPC கடைகள்)
 
-| Shop | What they sell | Cooldown |
+| கடை | எதை விற்கின்றனர் | குளிர்வு நேரம் |
 | --- | --- | --- |
-| **Ammulaysia** | Firearms | 5-minute cooldown between purchases. Requires **Firearms Licence** gamepass (1,250 R$). |
-| **Illegal Dealer (Hacker)** | Black market items | 5-minute cooldown, and also 5 min after you reset/rejoin. |
-| **Vastrix** | Clothing, accessories | — |
-| **Convenience Store** | General items | — |
-| **Tehlife** | Ice cream, milk | — |
-| **Lickers** | Drinks | — |
-| **Costume** | Outfits | — |
-| **Toolkit** | Tools | — |
-| **Art** | Art items | — |
-| **Bartender** | Drinks | — |
-| **Kilo's Kebabs** | Food | — |
-| **KeluargaMart** | General items | — |
-| **Signs** | Signs | — |
+| **Ammulaysia** | துப்பாக்கிகள் | வாங்குதல்களுக்கு இடையில் 5-நிமிட குளிர்வு. **Firearms Licence** gamepass (1,250 R$) தேவை. |
+| **Illegal Dealer (Hacker)** | கருப்பு சந்தை பொருட்கள் | 5-நிமிட குளிர்வு, மேலும் நீங்கள் ரீசெட்/மீண்டும் சேர்ந்த பிறகும் 5 நிமிடங்கள். |
+| **Vastrix** | ஆடைகள், அணிகலன்கள் | — |
+| **Convenience Store** | பொது பொருட்கள் | — |
+| **Tehlife** | ஐஸ்கிரீம், பால் | — |
+| **Lickers** | பானங்கள் | — |
+| **Costume** | ஆடை அணிகள் | — |
+| **Toolkit** | கருவிகள் | — |
+| **Art** | கலை பொருட்கள் | — |
+| **Bartender** | பானங்கள் | — |
+| **Kilo's Kebabs** | உணவு | — |
+| **KeluargaMart** | பொது பொருட்கள் | — |
+| **Signs** | பலகைகள் | — |
 
-Walk up to the shop, the UI opens, pick an item, confirm.
+கடையை நோக்கி நடங்கள், UI திறக்கும், ஒரு பொருளை தேர்ந்தெடுத்து, உறுதிப்படுத்துங்கள்.
 
-### Dealership
+### டீலர்ஷிப்
 
-The **Classic Car Dealer** sells civilian cars: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, and more. Prices vary per model. See [Vehicles](/bandaraya/vehicles#dealership).
+**Classic Car Dealer** சாதாரண காரை விற்கின்றனர்: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi மற்றும் பல. மாடலுக்கு ஏற்ப விலைகள் மாறுபடும். [வாகனங்கள்](/bandaraya/vehicles#dealership) பார்க்கவும்.
 
-- **Buy** — permanent. Saved to your account and auto-saves every 30 seconds.
-- **Rent** — temporary use.
-- **Paint** — colour customization, glossy or matte.
+- **வாங்கு** — நிரந்தரம். உங்கள் கணக்கில் சேமிக்கப்பட்டு ஒவ்வொரு 30 வினாடிகளுக்கும் தானாக சேமிக்கப்படும்.
+- **வாடகை** — தற்காலிக பயன்பாடு.
+- **பெயிண்ட்** — நிற தனிப்பயனாக்கம், பளபளப்பு அல்லது மேட்.
 
-### Transport & services
+### போக்குவரத்து & சேவைகள்
 
-| Service | Cost |
+| சேவை | செலவு |
 | --- | --- |
-| **TapNGo highway gate** | 15 BR cash / 12 BR with CAG card (20% off). |
-| **Bus boarding** | 5 BR cash-equivalent (always charged to CAG if you have one; free with monthly pass). |
-| **MRT / Monorail fast travel** | Varies by route. CAG card gets 30% off, 50% with monthly pass. |
-| **Clamp removal** | **500 BR**. Happens after a tow operator clamps your vehicle. |
-| **Summons (Saman)** | Variable — a police officer issues an on-screen summons with a BR fine. |
+| **TapNGo நெடுஞ்சாலை வாயில்** | 15 BR ரொக்கம் / CAG அட்டையுடன் 12 BR (20% தள்ளுபடி). |
+| **பேருந்தில் ஏறுதல்** | 5 BR ரொக்க-சமம் (உங்களிடம் CAG இருந்தால் எப்போதும் CAG-லிருந்து கழிக்கப்படும்; மாத பாஸ் மூலம் இலவசம்). |
+| **MRT / மோனோரயில் விரைவு பயணம்** | பாதைக்கு ஏற்ப மாறுபடும். CAG அட்டைக்கு 30% தள்ளுபடி, மாத பாஸுடன் 50%. |
+| **கிளாம்ப் அகற்றல்** | **500 BR**. இழுப்பு ஆபரேட்டர் உங்கள் வாகனத்தை கிளாம்ப் செய்த பிறகு நடக்கும். |
+| **சம்மன் (Saman)** | மாறுபடும் — போலீஸ் அதிகாரி BR அபராதத்துடன் திரையில் ஒரு சம்மனை வழங்குகிறார். |
 
-See [Getting Around](/bandaraya/getting-around) for transit pricing.
+போக்குவரத்து விலைக்கு [சுற்றுலா](/bandaraya/getting-around) பார்க்கவும்.
 
 ---
 
-## Developer products (buy BR with Robux)
+## டெவலப்பர் பொருட்கள் (Robux-ஐக் கொண்டு BR வாங்கவும்)
 
-Open via the Robux shop / in-game purchase prompts.
+Robux கடை / விளையாட்டுக்குள் வாங்கும் அறிவிப்புகள் மூலம் திறக்கவும்.
 
-| Product | Robux | BR |
+| பொருள் | Robux | BR |
 | --- | --- | --- |
 | BR 5,000 | R$ 50 | 5,000 |
 | BR 10,000 | R$ 100 | 10,000 |
@@ -106,38 +105,38 @@ Open via the Robux shop / in-game purchase prompts.
 | BR 40,000 | R$ 400 | 40,000 |
 | BR 80,000 | R$ 800 | 80,000 |
 
-These are consumable. Buy them when you want to skip the grind for a specific big purchase (a car, a CAG monthly pass, ammunition).
+இவை நுகர்வோர் பொருட்கள். ஒரு குறிப்பிட்ட பெரிய வாங்குதலுக்கு (கார், CAG மாத பாஸ், வெடிமருந்து) நீங்கள் கடுமையான வேலையை தவிர்க்க விரும்பும்போது அவற்றை வாங்கவும்.
 
 ---
 
-## Gamepasses (one-time unlocks)
+## Gamepass (ஒரு-முறை திறப்புகள்)
 
-See the dedicated [Gamepasses](/bandaraya/gamepasses) page for the full breakdown. Quick list:
+முழு பிரிவினைக்கு குறிப்பிட்ட [Gamepasses](/bandaraya/gamepasses) பக்கத்தைப் பார்க்கவும். விரைவு பட்டியல்:
 
-| Gamepass | Robux | What you get |
+| Gamepass | Robux | உங்களுக்கு கிடைப்பது |
 | --- | --- | --- |
-| **Car Radio** | 100 | Play music in your vehicle. |
-| **Firearms Licence** | 1,250 | Buy at Ammulaysia. |
-| **High Class Citizen** | 3,000 | Income boost, luxury cars, HCC team. |
-| **Taxi Driver** | 150 | Drive taxis, join Taxi Services team. |
+| **Car Radio** | 100 | உங்கள் வாகனத்தில் இசையை இயக்கவும். |
+| **Firearms Licence** | 1,250 | Ammulaysia-வில் வாங்கவும். |
+| **High Class Citizen** | 3,000 | வருவாய் ஊக்கம், ஆடம்பர கார்கள், HCC குழு. |
+| **Taxi Driver** | 150 | டாக்ஸி ஓட்டுங்கள், Taxi Services குழுவில் சேருங்கள். |
 
-Gamepasses stay with you across sessions.
+Gamepass-கள் session-களுக்கு இடையே உங்களுடன் நிலைத்திருக்கும்.
 
 ---
 
-## Tips & gotchas
+## குறிப்புகள் & எச்சரிக்கைகள்
 
-- **Don't stockpile CAG.** The money is stuck there. Put cash in, ride.
-- **Got summoned? Pay it.** Unpaid fines still sit in the summons viewer. And no, you can't judicial-review your way out.
-- **Bought a car? It auto-saves.** Colour, plate, and ownership persist across sessions.
-- **HCC is a big BR multiplier** if you do any jobs at all — worth the Robux if you're a long-term player.
-- **POS levels up slowly but reliably.** Level 20 is the cap (260 BR per delivery). Good long-term grind.
-- **Gun-store cooldown resets on rejoin.** You can't dodge the 5-minute timer by leaving.
+- **CAG-ஐ சேமித்து வைக்காதீர்கள்.** பணம் அங்கே மாட்டிக் கொள்ளும். ரொக்கத்தை போட்டு, பயணிக்கவும்.
+- **சம்மன் வந்ததா? கட்டிவிடுங்கள்.** கட்டாத அபராதங்கள் இன்னும் சம்மன் பார்வையாளரில் இருக்கும். மேலும் இல்லை, நீதித்துறை மறுஆய்வின் மூலம் தப்ப முடியாது.
+- **காரை வாங்கினீர்களா? அது தானாக சேமிக்கப்படும்.** நிறம், பிளேட் மற்றும் உரிமை session-களுக்கு இடையே நிலைத்திருக்கும்.
+- **நீங்கள் எந்த வேலையையும் செய்தால் HCC ஒரு பெரிய BR பெருக்கி** — நீங்கள் நீண்ட-காலப் பிளேயராக இருந்தால் Robux-க்கு மதிப்புள்ளது.
+- **POS மெதுவாக ஆனால் நம்பகமாக நிலை உயர்கிறது.** நிலை 20 உச்சம் (ஒரு டெலிவரிக்கு 260 BR). நல்ல நீண்ட-கால கடுமையான வேலை.
+- **துப்பாக்கிக் கடை குளிர்வு மீண்டும் சேர்வதில் ரீசெட் ஆகும்.** வெளியேறுவதன் மூலம் 5-நிமிட டைமரை தவிர்க்க முடியாது.
 
-## See also
+## மேலும் பார்க்கவும்
 
-- [Jobs](/bandaraya/jobs) — earning BR
-- [Gamepasses](/bandaraya/gamepasses) — HCC, Firearms Licence, etc.
-- [Vehicles](/bandaraya/vehicles) — dealership + fuel
-- [Getting Around](/bandaraya/getting-around) — CAG card, transit fares
-- [Arrest & Law](/bandaraya/arrest-and-law) — summons
+- [வேலைகள்](/bandaraya/jobs) — BR சம்பாதித்தல்
+- [Gamepass](/bandaraya/gamepasses) — HCC, Firearms Licence, போன்றவை.
+- [வாகனங்கள்](/bandaraya/vehicles) — டீலர்ஷிப் + எரிபொருள்
+- [சுற்றுலா](/bandaraya/getting-around) — CAG அட்டை, போக்குவரத்து கட்டணங்கள்
+- [கைது & சட்டம்](/bandaraya/arrest-and-law) — சம்மன்கள்

@@ -1,174 +1,173 @@
 ---
-title: Economy
-description: 'Ringgit (SR), wallet vs bank mechanics, and earning in Sumaya.'
+title: 经济
+description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
 translated_from_hash: 44e97ed3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 经济
 
-# Economy
+Sumaya 的货币是 **Ringgit**，在 UI 中缩写为 **SR**（Sumaya Ringgit）。此页面介绍如何赚取、储存和花费它。
 
-Sumaya's currency is the **Ringgit**, abbreviated **SR** (Sumaya Ringgit) in the UI. This page covers how to earn, store, and spend it.
+## 你的初始余额
 
-## Your starting balance
+每位新玩家开始时拥有：
 
-Every new player begins with:
+- **钱包**里有 **100 Ringgit**。
+- **银行**里有 **1,000 Ringgit**。
 
-- **100 Ringgit** in the **wallet**.
-- **1,000 Ringgit** in the **bank**.
+这足以租用一些入门车辆、购买一间 Tier 1 房屋（200 SR）以及购买一些商店物品。一开始要明智地花费。
 
-That's enough to rent some starter vehicles, buy a Tier 1 house (200 SR), and grab a few shop items. Spend wisely at first.
+## 钱包 vs 银行
 
-## Wallet vs bank
+你拥有两个独立的余额：
 
-You have two separate balances:
+### 钱包
 
-### Wallet
+- 随身携带。
+- **上限为 500 Ringgit**。ATM 会拒绝任何会使你的钱包超过 500 的提款，而玩家之间的转账会被限制在接收方钱包的剩余空间内。
+- 用于即时购买（商店物品、一些车辆租赁）。
+- 可能通过扒窃被 **偷走**（每次 80-300 Ringgit，在 8 stud 范围内）。
+- 大多数工作奖励（Bomba/Polis/Kesihatan 按行动支付、钓鱼、雷达捕获）直接支付到钱包 - 如果钱包已满，溢出部分会被丢弃。请计划定期存入银行。
 
-- Carried on your person.
-- **Capped at 500 Ringgit**. ATMs refuse withdrawals that would push your wallet over 500, and player-to-player transfers are clamped to the receiving wallet's headroom.
-- What you spend on immediate purchases (shop items, some vehicle rentals).
-- Can be **stolen** via pickpocketing (80-300 Ringgit at a time, within 8 studs).
-- Most job rewards (Bomba/Polis/Kesihatan per-action pay, fishing, radar captures) are paid directly to the wallet - if it's full, overflow is dropped. Plan to deposit into the bank periodically.
+### 银行
 
-### Bank
-
-- Secured in your account.
-- Not vulnerable to pickpocketing.
-- Where career earnings (palm oil, carjack sales, animal trafficking) land by default.
-- Required for big purchases (houses, Tier 2/3 trawlers, premium vehicles).
-- Accessed via an **ATM** - see below.
+- 在你的账户中受到保护。
+- 不会受到扒窃影响。
+- 职业收入（棕油、抢车销售、动物走私）默认存入此处。
+- 大额购买所必需（房屋、Tier 2/3 拖网渔船、高级车辆）。
+- 通过 **ATM** 访问 - 见下文。
 
 ## ATM
 
-ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you can:
+ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你可以：
 
-- **Withdraw** from bank to your wallet. Can't withdraw an amount that would push your wallet over the 500 Ringgit cap.
-- **Deposit** from wallet to bank. No limit.
-- **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
+- **提款** 从银行到钱包。不能提取会使钱包超过 500 Ringgit 上限的金额。
+- **存款** 从钱包到银行。无限制。
+- **转账** 给其他玩家，使用他们的 **用户名**（不是用户 ID）。ATM 转账仅限 **银行到银行**。
 
-## Paying another player in person (Sadaqa / Donate)
+## 当面付款给其他玩家（Sadaqa / 捐赠）
 
-For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
+对于随意的交接，装备你的 **Wallet** 工具并走向另一位玩家。当你在离他们 **10 stud** 范围内时，会出现 **"Sadaqa to User?"** 提示（Sadaqa 是马来语 / 阿拉伯语中慈善捐赠的术语）。
 
-- **Wallet-to-wallet** transfer (not bank).
-- The receiver's wallet cap of 500 SR still applies - overfull wallets reject the donation.
-- Negative-amount transfers are blocked and flagged by the anti-cheat system, so don't try.
+- **钱包到钱包** 转账（非银行）。
+- 接收者 500 SR 的钱包上限仍适用 - 过满的钱包会拒绝捐赠。
+- 负数金额的转账会被反作弊系统阻止并标记，所以不要尝试。
 
-Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new player. For larger transfers, use the **ATM Transfer** (bank-to-bank by username).
+使用 Sadaqa 进行快速的角色扮演赠礼、分摊账单或帮助新玩家。对于较大金额的转账，请使用 **ATM Transfer**（按用户名进行银行到银行）。
 
-## Earning Ringgit
+## 赚取 Ringgit
 
-### From jobs
+### 来自工作
 
-Per-action payouts. Totals depend on how long you work.
+按行动支付。总额取决于你工作了多久。
 
-| Source | Ringgit |
-|--------|---------|
-| Rod fishing (per species sold) | 8 SR to wallet |
-| Trawl fishing (per fish) | 0.5 SR, paid as end-of-shift paycheck |
-| Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
-| Fast Food (per customer) | 25 SR to bank, +150 every 10, -20 wrong-order |
-| Palm oil (per harvest) | Banked at end-of-shift, level-scaled |
-| Bomba (per fire block) | 15 SR to wallet |
-| Bomba (milestone every 15 blocks) | +150 SR bonus |
-| Kesihatan (bandage) | 100 SR to wallet |
-| Kesihatan (splint) | 200 SR to wallet |
-| Kesihatan (milestone every 10 treatments) | +150 SR bonus |
-| Polis (arrest, per star) | 150 / 300 / 500 / 800 / 1200 SR to wallet |
-| Polis (milestone every 5 arrests) | +200 SR bonus |
-| Polis (radar capture) | 50 SR to wallet |
+| 来源 | Ringgit |
+|------|---------|
+| 钓竿钓鱼（每售出一个物种） | 8 SR 到钱包 |
+| 拖网捕鱼（每条鱼） | 0.5 SR，作为班次结束时的薪水支付 |
+| Mamak（每位顾客） | 30 SR 到银行，每 10 位 +180，点错单 -25 |
+| 快餐（每位顾客） | 25 SR 到银行，每 10 位 +150，点错单 -20 |
+| 棕油（每次收成） | 班次结束时存入银行，按等级缩放 |
+| Bomba（每个火焰方块） | 15 SR 到钱包 |
+| Bomba（每 15 个方块里程碑） | +150 SR 奖金 |
+| Kesihatan（绷带） | 100 SR 到钱包 |
+| Kesihatan（夹板） | 200 SR 到钱包 |
+| Kesihatan（每 10 次治疗里程碑） | +150 SR 奖金 |
+| Polis（逮捕，每颗星） | 150 / 300 / 500 / 800 / 1200 SR 到钱包 |
+| Polis（每 5 次逮捕里程碑） | +200 SR 奖金 |
+| Polis（雷达捕获） | 50 SR 到钱包 |
 
-### From crime
+### 来自犯罪
 
-Higher risk, higher reward. Rewards go to your bank.
+风险更高，回报更高。奖励进入你的银行。
 
-| Crime | Ringgit |
-|-------|---------|
-| Carjacking drop-off | 500 - 1,200 SR (random) to bank |
-| Pickpocket (player) | 80 - 300 SR to wallet (from victim) |
-| Pickpocket (NPC) | 50 - 200 SR per NPC |
-| Illegal Turtle Egg trafficking | 400 SR to bank |
-| Illegal Pangolin trafficking | 1,000 SR to bank |
-| Illegal Hornbill trafficking | 2,000 SR to bank |
+| 犯罪 | Ringgit |
+|------|---------|
+| 抢车送达 | 500 - 1,200 SR（随机）到银行 |
+| 扒窃（玩家） | 80 - 300 SR 到钱包（来自受害者） |
+| 扒窃（NPC） | 每个 NPC 50 - 200 SR |
+| 非法海龟蛋走私 | 400 SR 到银行 |
+| 非法穿山甲走私 | 1,000 SR 到银行 |
+| 非法犀鸟走私 | 2,000 SR 到银行 |
 
-### From quests
+### 来自任务
 
-The 12-quest chain pays a total of **2,900 Ringgit** from individual quest rewards plus a **1,500 Ringgit finale bonus**, for a total of **4,400 Ringgit** to your bank if you complete the whole chain. See [Quests](/sumaya/quests).
+12 任务链从各个任务奖励中总共支付 **2,900 Ringgit**，加上 **1,500 Ringgit 的完结奖金**，如果你完成整个任务链，总共 **4,400 Ringgit** 到你的银行。请见 [任务](/sumaya/quests)。
 
-## Biggest earners (ranked)
+## 最大收入来源（排名）
 
-Roughly, from highest per-hour to lowest, assuming you stay busy:
+大致上，从每小时最高到最低，假设你一直很忙：
 
-1. **Polis 5-star arrests** - 1,200 SR each. If criminals are online, this is gold.
-2. **Animal trafficking (Hornbill)** - 2,000 SR per run. 5-min cooldown though.
-3. **Bomba fires** - 15 SR per block + milestone bonus every 15 blocks. Group of firefighters = fast.
-4. **Carjacking** - 500-1,200 SR per job. Once per 5 min, risky.
-5. **Kesihatan splints** - 200 SR per splint + milestone bonus.
-6. **Pickpocket NPCs** - 50-200 SR per pick, low risk, steady.
-7. **Palm oil shifts** - steady, level-dependent, end-of-shift banking.
-8. **Service sector orders** - steady, scales with level.
-9. **Rod fishing** - quick SR, player XP only, best for casual play.
-10. **Trawl fishing** - slower SR but the only way to level the fishing sector.
+1. **Polis 5 星逮捕** - 每次 1,200 SR。如果有罪犯在线，这是金矿。
+2. **动物走私（犀鸟）** - 每次 2,000 SR。不过冷却时间 5 分钟。
+3. **Bomba 火灾** - 每个方块 15 SR + 每 15 个方块的里程碑奖金。一群消防员 = 快。
+4. **抢车** - 每次工作 500-1,200 SR。每 5 分钟一次，有风险。
+5. **Kesihatan 夹板** - 每个夹板 200 SR + 里程碑奖金。
+6. **扒窃 NPC** - 每次 50-200 SR，低风险，稳定。
+7. **棕油班次** - 稳定，取决于等级，班次结束时存入银行。
+8. **服务业订单** - 稳定，随等级缩放。
+9. **钓竿钓鱼** - 快速的 SR，仅玩家 XP，最适合休闲游戏。
+10. **拖网捕鱼** - SR 较慢，但这是提升渔业领域等级的唯一方法。
 
-## Spending Ringgit
+## 花费 Ringgit
 
-### Vehicles
+### 车辆
 
-Where most of your money will go.
+你大部分的钱都会花在这里。
 
-- **Free civilian cars** - dozens available at player level 1. Just rent and drive.
-- **Premium civilian cars** - 2,000-29,000 Ringgit. The Joguar XJ308 R is the cap.
-- **Fishing trawlers** - Tier 1 free, Tier 2 25,000, Tier 3 37,000.
-- **Team vehicles** - 6,500-20,000 Ringgit, gated by sector level.
+- **免费平民车** - 玩家等级 1 时有数十辆可用。只需租用并驾驶。
+- **高级平民车** - 2,000-29,000 Ringgit。Joguar XJ308 R 是上限。
+- **钓鱼拖网渔船** - Tier 1 免费，Tier 2 25,000，Tier 3 37,000。
+- **团队车辆** - 6,500-20,000 Ringgit，由领域等级限制。
 
-See [Vehicles](/sumaya/vehicles).
+请见 [车辆](/sumaya/vehicles)。
 
-### Housing
+### 房屋
 
-- **Plot**: free (one per player).
-- **Tier 1 house** (Small Bornean): 200 Ringgit.
-- **Tier 2 house**: 500-700 Ringgit.
-- **Tier 3 house** (Modern Terrace): 1,200 Ringgit.
-- **Furniture**: per-item prices, typically 50-500 Ringgit each.
+- **地块**：免费（每位玩家一块）。
+- **Tier 1 房屋**（Small Bornean）：200 Ringgit。
+- **Tier 2 房屋**：500-700 Ringgit。
+- **Tier 3 房屋**（Modern Terrace）：1,200 Ringgit。
+- **家具**：按物品定价，通常每件 50-500 Ringgit。
 
-See [Housing](/sumaya/housing).
+请见 [房屋](/sumaya/housing)。
 
-### Shops
+### 商店
 
-Prices vary widely. A rough range:
+价格差异很大。大致范围：
 
-- **Food items** from food stalls: 1-5 SR (cosmetic / roleplay tools, don't actually restore hunger in the current build).
-- **Gas cans** for boats: 75-125 SR. Red adds +25 fuel (75 SR), Green adds +50 fuel (100 SR), Black adds +75 fuel (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** - trying to top off an already-high boat does nothing and doesn't consume the can.
-- **Tools** (Slim Jim, Pickpocket Knife, etc.): 50-500 SR.
-- **Cosmetic items**: variable.
+- **食物物品** 来自食品摊：1-5 SR（化妆 / 角色扮演工具，在当前版本中实际上不会恢复饥饿）。
+- **油罐** 给船只：75-125 SR。红色增加 +25 燃料（75 SR），绿色增加 +50 燃料（100 SR），黑色增加 +75 燃料（125 SR）。船只燃料最大为 100；溢出部分被限制。**只有当前燃料低于 75 时加油才有效** - 尝试给已经很高的船只加满不会做任何事情，也不会消耗油罐。
+- **工具**（Slim Jim、Pickpocket Knife 等）：50-500 SR。
+- **化妆物品**：可变。
 
-Shops are scattered across Sumaya. The minimap marks each one.
+商店散布在 Sumaya 各处。小地图标记了每一个。
 
-## Milestone bonuses (stack these)
+## 里程碑奖金（叠加这些）
 
-Remember:
+记住：
 
-- Bomba: **+150 SR every 15 blocks**.
-- Kesihatan: **+150 SR every 10 treatments**.
-- Polis: **+200 SR every 5 arrests**.
+- Bomba：**每 15 个方块 +150 SR**。
+- Kesihatan：**每 10 次治疗 +150 SR**。
+- Polis：**每 5 次逮捕 +200 SR**。
 
-These stack on top of per-action payouts. Plan your session to hit milestones, not just end arbitrarily.
+这些会在按行动支付的基础上叠加。计划你的游戏时段以达到里程碑，而不仅仅是任意结束。
 
-## Tips
+## 小贴士
 
-- **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
-- **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
-- **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Don't spend every Ringgit on cars when a nice tier-3 house is only 1,200 SR away.
-- **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
-- **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
-- **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
+- **把大部分 Ringgit 存入银行。** 钱包用于花费，银行用于储蓄。永远不要在钱包里携带超过你能承受失去的金额。
+- **5 星逮捕是头奖。** 如果你是 Polis 而某人有 120+ 违规点数，守住他们。
+- **走私价值高但风险高。** 犀鸟的 2,000 SR 很棒，但你身上会有星星。为此做好计划。
+- **买之前先储蓄。** 当一间不错的 tier-3 房屋仅差 1,200 SR 时，不要把每一个 Ringgit 都花在车上。
+- **拖网渔船会自己回本。** Tier 2 在 25,000 SR 感觉很贵，但如果你致力于钓鱼，额外的容量会收回成本。
+- **团队协同。** 同一区域的 Bomba + Kesihatan 队友 = 你们双方都赚钱。医疗获得病人（烧伤受害者），Bomba 在火灾附近获得队友，每位 10 XP。
+- **不要忽视 999 应用。** 平民呼叫为应急团队提供轻松的报酬 - 派遣他们，你可能会获得与奖励相关的互动。
 
-## What next?
+## 接下来呢？
 
-- [Progression](/sumaya/progression) for how XP and Ringgit interact.
-- [Vehicles](/sumaya/vehicles) for the price catalog.
-- [Housing](/sumaya/housing) for house prices.
-- [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.
+- [进展](/sumaya/progression) 了解 XP 和 Ringgit 如何互动。
+- [车辆](/sumaya/vehicles) 获取价格目录。
+- [房屋](/sumaya/housing) 获取房屋价格。
+- [犯罪与法律](/sumaya/crime-and-law) 了解经济的犯罪面。

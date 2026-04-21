@@ -1,15 +1,14 @@
 ---
-title: Getting Started
+title: தொடங்கு
 description: >-
-  Start playing Sumaya — main menu, team pick, controls, and the first five
-  minutes in town.
+  Sumaya விளையாட தொடங்குங்கள் — முதன்மை மெனு, அணி தேர்வு, கட்டுப்பாடுகள்,
+  மற்றும் நகரில் முதல் ஐந்து நிமிடங்கள்.
 lang: ta
 translated_from_hash: 5045a92c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Sumaya-வில் தொடங்குங்கள்
+# தொடங்கு
 
 ![Sumaya](/images/sumaya/sumaya_feature.webp)
 

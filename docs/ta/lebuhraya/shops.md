@@ -1,111 +1,110 @@
 ---
-title: Shops
-description: 'Food, snack, and utility shops across Lebuhraya.'
+title: கடைகள்
+description: 'Lebuhraya முழுவதும் உணவு, சிற்றுண்டி, மற்றும் பயன்பாட்டுக் கடைகள்.'
 lang: ta
 translated_from_hash: 5e14cc5a
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# கடைகள்
 
-# Shops
+Lebuhraya-வில் வரைபடம் முழுவதும் சிதறிக் கிடக்கும் **12 கடைகள்** உள்ளன. பெரும்பாலானவை tool-ஆக வாங்கக்கூடிய உணவுப் பொருட்களை விற்கின்றன (சிறிய விளையாட்டு விளைவுக்காக சாப்பிடலாம் அல்லது roleplay-க்காக பயன்படுத்தலாம்). சில கடைகள் jerrycan மற்றும் tech tools போன்ற சிறப்பு உபகரணங்களை விற்கின்றன. ஒவ்வொரு கடையும் என்ன விற்கிறது என்பதையும், அவற்றை எங்கே காணலாம் என்பதையும் இந்தப் பக்கம் பட்டியலிடுகிறது.
 
-Lebuhraya has **12 shops** scattered across the map. Most sell food items you can buy as tools (eat them for a small gameplay effect or use them for roleplay). A couple sell specialised gear like jerrycans and tech tools. This page lists what each shop sells and points you to where you'll find them.
+> **கடைகள் தற்போது இலவசம்.** பொருட்களின் விலை நிர்ணயம் தற்காலிகமாக முடக்கப்பட்டுள்ளது — ஒரு கடைக்கு நடந்து சென்று ஒரு பொருளைத் தேர்வு செய்தால், BR கழிக்கப்படாமல் அது உங்களுக்குக் கொடுக்கப்படும். எதிர்கால புதுப்பிப்பில் இது மாறக்கூடும். Jerrycan Shop **ஒரு வீரருக்கு 2 jerrycan வரம்பையும்** **ஒரு வீரருக்கு 1 toolkit வரம்பையும்** அமல்படுத்துகிறது; மற்ற கடைகள் பொதுவாக கொள்முதல்களுக்கு வரம்பு வைப்பதில்லை.
 
-> **Shops are currently free.** Item pricing is temporarily disabled — walking up to a shop and selecting an item gives it to you without deducting BR. This may change in a future update. The Jerrycan Shop enforces a **2-per-player jerrycan limit** and a **1-per-player toolkit limit**; other shops generally do not cap purchases.
-
-## Food shops
+## உணவுக் கடைகள்
 
 ### Kedai Nasi Campur Long Kee
 
-Traditional Malaysian mixed-rice stall. Classic lunchtime stop.
+பாரம்பரிய மலேசிய nasi campur கடை. மதிய உணவுக்கான கிளாசிக் இடம்.
 
 ### Clash's Indonesian Cuisine
 
-Indonesian dishes.
+இந்தோனேசிய உணவுகள்.
 
-**Sells**: Bakso (meatball soup), Nasi Rendang (beef rendang rice), Sate Ayam (chicken satay).
+**விற்பனை**: Bakso (இறைச்சி உருண்டை சூப்), Nasi Rendang (மாட்டிறைச்சி rendang சாதம்), Sate Ayam (கோழி satay).
 
 ### Masakan Pantai Timur
 
-East-coast Malaysian cooking. Expect items from Kelantan and Terengganu traditions.
+கிழக்குக் கடற்கரை மலேசிய சமையல். கிளந்தான் மற்றும் திரெங்கானு பாரம்பரியங்களிலிருந்து பொருட்களை எதிர்பார்க்கலாம்.
 
 ### Selera Kak Rinasmol
 
-Home-style cooking by "Kak Rinasmol" — another local-flavor lunch option.
+"Kak Rinasmol" அவர்களின் வீட்டு வகை சமையல் — மற்றொரு உள்ளூர் சுவை மதிய உணவு விருப்பம்.
 
 ### Pingu Pepper Lunch
 
-Pepper-lunch-style hotplate dishes. Fun, no-fuss comfort food.
+Pepper-lunch பாணி hotplate உணவுகள். வேடிக்கையான, தொந்தரவில்லாத ஆறுதல் உணவு.
 
 ### Inspector Y's Fries
 
-Fast-food fries and sides.
+துரித உணவு பொறியல்கள் மற்றும் பக்க உணவுகள்.
 
 ### Encik Yang's Epic Snack
 
-Snacks — sweet and savoury, good for grabbing on the go.
+சிற்றுண்டிகள் — இனிப்பு மற்றும் உப்பு, பயணத்தில் எடுத்துச் செல்ல ஏற்றது.
 
 ### Max Beef
 
-Beef-focused menu.
+மாட்டிறைச்சி-மையமான மெனு.
 
 ### Beetro Smoothies
 
-Smoothies and drinks.
+Smoothie-கள் மற்றும் பானங்கள்.
 
-## Convenience
+## வசதிக் கடை
 
 ### Kedai Runcit Modern Makcik Yash
 
-A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice cream.
+ஒரு கிளாசிக் மலேசிய kedai runcit. ஒரு பானம், ஒரு சாக்லேட் பார், அல்லது ஒரு ஐஸ்க்ரீம் எடுத்துச் செல்லுங்கள்.
 
-**Sells** (sample menu):
+**விற்பனை** (மாதிரி மெனு):
 
-- **Drinks**: 100Plus, Pepsi, Kickapoo
-- **Snacks & chocolate**: Apollo Chocolate, Chipsmore, Crunch, Pocky, Mickey Mouse (biscuits)
-- **Ice cream**: Asteroid, Solero, IcyGrape
-- **Savoury**: Potato (chips), Pandan (cake)
+- **பானங்கள்**: 100Plus, Pepsi, Kickapoo
+- **சிற்றுண்டிகள் & சாக்லேட்**: Apollo Chocolate, Chipsmore, Crunch, Pocky, Mickey Mouse (பிஸ்கட்)
+- **ஐஸ்க்ரீம்**: Asteroid, Solero, IcyGrape
+- **உப்பு வகை**: Potato (சிப்ஸ்), Pandan (கேக்)
 
-## Specialised shops
+## சிறப்புக் கடைகள்
 
 ### Abang' Frik Tech Tools
 
-A small tech vendor.
+ஒரு சிறிய tech விற்பனையாளர்.
 
-**Sells**: Lantern, Recon Drone.
+**விற்பனை**: Lantern, Recon Drone.
 
 ### Jerrycan Shop
 
-The go-to for keeping your car fuelled when you can't reach a station.
+நிலையத்திற்கு செல்ல முடியாதபோது உங்கள் காரின் எரிபொருளை நிரப்பி வைக்க செல்லும் இடம்.
 
-**Sells**:
+**விற்பனை**:
 
-- **Jerrycan** (limit 2 per player) — 10 L capacity
-- **Toolkit** (limit 1 per player)
+- **Jerrycan** (ஒரு வீரருக்கு வரம்பு 2) — 10 L கொள்ளளவு
+- **Toolkit** (ஒரு வீரருக்கு வரம்பு 1)
 
 ## KeluargaMart
 
-A full-size supermarket experience. You can walk the aisles, pick items off shelves, and check out at the cashier. A good roleplay location for the Checkout job (Malaysians community team).
+முழு அளவிலான பல்பொருள் அங்காடி அனுபவம். நீங்கள் வரிசைகளில் நடக்கலாம், அலமாரிகளிலிருந்து பொருட்களை எடுக்கலாம், மற்றும் காசாளரிடம் பணம் செலுத்தி வெளியேறலாம். Checkout வேலைக்கு (Malaysians community team) ஒரு சிறந்த roleplay இடம்.
 
-## Food Delivery interactions
+## Food Delivery தொடர்புகள்
 
-Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
+மேலே உள்ள பெரும்பாலான உணவுக் கடைகள் **Food Delivery** வேலையின் pickup இடங்களாகவும் செயல்படுகின்றன. நீங்கள் Food Delivery rider-ஆகப் பணியில் இருக்கும்போது, உங்கள் waypoint உங்களை ஒரு order எடுத்துச் செல்ல இந்தக் கடைகளில் ஒன்றுக்கு அனுப்பும், பின்னர் ஒரு வாடிக்கையாளரிடம் வெளியே அனுப்பும்.
 
-See [Jobs](/lebuhraya/jobs) for the delivery flow.
+டெலிவரி ஓட்டத்திற்கு [வேலைகள்](/lebuhraya/jobs) பார்க்கவும்.
 
-## Buying mechanics
+## வாங்கும் முறை
 
-- Walk up to the shop NPC or counter.
-- A ProximityPrompt appears — interact to open the shop menu.
-- Select the item; BR is deducted from your balance.
-- The item appears in your inventory as a tool. Equip it to use / eat / display it.
+- கடை NPC அல்லது கவுண்டருக்கு நடந்து செல்லுங்கள்.
+- ஒரு ProximityPrompt தோன்றும் — கடை மெனுவைத் திறக்க தொடர்பு கொள்ளுங்கள்.
+- பொருளைத் தேர்ந்தெடுக்கவும்; உங்கள் இருப்பிலிருந்து BR கழிக்கப்படும்.
+- அந்தப் பொருள் உங்கள் inventory-ல் ஒரு tool-ஆக தோன்றும். அதைப் பயன்படுத்த / சாப்பிட / காண்பிக்க அதை equip செய்யுங்கள்.
 
-## Where to find them
+## அவற்றை எங்கே காண்பது
 
-Shops are spread across Bandar Seri Putra and Jersik. The map waypoint system (in the MyPod menu or topbar) will route you to any shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
+கடைகள் Bandar Seri Putra மற்றும் Jersik முழுவதும் பரவியுள்ளன. வரைபட waypoint அமைப்பு (MyPod மெனு அல்லது topbar-ல்) நீங்கள் தேர்ந்தெடுக்கும் எந்தக் கடைக்கும் உங்களை வழிநடத்தும். பிராந்திய அமைப்புக்கு [உலகம் மற்றும் வரைபடம்](/lebuhraya/map) பார்க்கவும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [World and Map](/lebuhraya/map) — Where each shop is physically located
-- [Jobs → Food Delivery](/lebuhraya/jobs#food-delivery) — Earning XP from these shops
-- [Housing](/lebuhraya/housing) — Furniture, which you'll need to actually use your kitchen items
+- [உலகம் மற்றும் வரைபடம்](/lebuhraya/map) — ஒவ்வொரு கடையும் உடல் ரீதியாக எங்கே அமைந்துள்ளது
+- [வேலைகள் → Food Delivery](/lebuhraya/jobs#food-delivery) — இந்தக் கடைகளிலிருந்து XP சம்பாதித்தல்
+- [வீட்டுவசதி](/lebuhraya/housing) — மரச்சாமான்கள், உங்கள் சமையலறை பொருட்களை உண்மையில் பயன்படுத்த உங்களுக்குத் தேவைப்படும்

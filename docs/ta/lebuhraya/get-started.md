@@ -1,15 +1,14 @@
 ---
-title: Getting Started
+title: தொடங்கு
 description: >-
-  Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and
-  hit the highway.
+  Lebuhraya-வில் உங்கள் முதல் 10 நிமிடங்கள் — வாகனத்தை உருவாக்கவும், BR
+  சம்பாதிக்கவும், நிலை உயர்த்தவும், நெடுஞ்சாலையை அடையவும்.
 lang: ta
 translated_from_hash: 1e15992a
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Lebuhraya இல் தொடங்குதல்
+# தொடங்கு
 
 Lebuhraya க்கு வரவேற்கிறோம்! இந்த மலேசியன் கருப்பொருள் ஓட்டுநர் மற்றும் பாத்திர விளையாட்டு அனுபவத்தில் உங்கள் முதல் அடிகளை எடுக்க இந்த வழிகாட்டி உதவும்.
 

@@ -1,246 +1,245 @@
 ---
-title: Combat & Health
-description: 'Weapons, armor, injuries, and the medical system in Bandaraya.'
+title: போர் & சுகாதாரம்
+description: 'Bandaraya-வில் ஆயுதங்கள், கவசம், காயங்கள், மற்றும் மருத்துவ அமைப்பு.'
 lang: ta
 translated_from_hash: b70f1d8e
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# போர் & சுகாதாரம்
 
-# Combat & Health
-
-Bandaraya uses **ACS (Advanced Combat System)** for weapons and a detailed health system (internal name: **Saude**, Portuguese for "health"). This page explains what happens when bullets fly and when blood runs — from both sides.
+Bandaraya ஆயுதங்களுக்கு **ACS (Advanced Combat System)**-ஐயும் விரிவான சுகாதார அமைப்பையும் பயன்படுத்துகிறது (உள் பெயர்: **Saude**, போர்ச்சுகீஸில் "சுகாதாரம்" என்ற பொருள்). தோட்டாக்கள் பறக்கும்போதும் ரத்தம் சிந்தும்போதும் என்ன நடக்கிறது என்பதை இந்தப் பக்கம் இரு பக்கங்களிலிருந்தும் விளக்குகிறது.
 
 ## TL;DR
 
-- Most civilians can't carry guns. You need the **Firearms Licence gamepass** (1,250 R$), or you need to be on a team that issues them (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
-- Bullets pass through transparent / non-colliding / **Glass / Ignorable** parts. They stop at **Armor / EShield** parts. Some vehicles are bulletproof.
-- When injured: you lose **blood** (Sangue) and gain **pain** (Dor). Bleed, splint, bandage. Medics (KKM / SJAM) can stabilise you.
-- **Reset button disables at or below 75 HP** — you can't suicide out of a sticky situation.
-- **Bleedout timer is 5 minutes when KKM or SJAM are online.** Passive HP regen is also disabled while medics are on-shift. If no medic saves you in time, you respawn.
+- பெரும்பாலான சிவிலியன்கள் துப்பாக்கிகளை எடுத்துச் செல்ல முடியாது. உங்களுக்கு **Firearms Licence gamepass** (1,250 R$) தேவை, அல்லது அவற்றை வழங்கும் அணியில் (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan) நீங்கள் இருக்க வேண்டும்.
+- தோட்டாக்கள் ஒளிபுகும் / மோதாத / **Glass / Ignorable** பாகங்கள் வழியாக செல்கின்றன. அவை **Armor / EShield** பாகங்களில் நிற்கின்றன. சில வாகனங்கள் தோட்டா தடுப்பவை.
+- காயமடையும்போது: நீங்கள் **ரத்தத்தை** (Sangue) இழக்கிறீர்கள் மற்றும் **வலியை** (Dor) பெறுகிறீர்கள். ரத்தம் பெருகுகிறது, ஸ்பிளிண்ட், கட்டு. மருத்துவர்கள் (KKM / SJAM) உங்களை நிலைப்படுத்த முடியும்.
+- **Reset பட்டன் 75 HP அல்லது அதற்கு கீழ் முடக்கப்படும்** — கடினமான சூழ்நிலையிலிருந்து தற்கொலை செய்து தப்பிக்க முடியாது.
+- **KKM அல்லது SJAM ஆன்லைனில் இருக்கும்போது Bleedout டைமர் 5 நிமிடங்கள்.** மருத்துவர்கள் கடமையில் இருக்கும்போது பாசிவ் HP ரீஜென் முடக்கப்படும். உங்களை சரியான நேரத்தில் எந்த மருத்துவரும் காப்பாற்றவில்லை என்றால், நீங்கள் respawn செய்வீர்கள்.
 
 ---
 
-## Weapons
+## ஆயுதங்கள்
 
-### How to get a weapon
+### ஆயுதத்தை எப்படி பெறுவது
 
-| Source | Requirement |
+| ஆதாரம் | தேவை |
 | --- | --- |
-| **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass (1,250 R$). Legal, above-board. 5-minute cooldown between purchases. |
-| **Illegal Dealer (Hacker)** | Black-market. 5-minute cooldown (also resets if you reset/rejoin). |
-| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (various), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
-| **Armoury** | Team-gated armouries at IPD Dang Wangi and other bases. |
+| **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass (1,250 R$). சட்டபூர்வமானது, மேலோட்டமானது. வாங்குதல்களுக்கு இடையில் 5-நிமிட cooldown. |
+| **Illegal Dealer (Hacker)** | கருப்புச் சந்தை. 5-நிமிட cooldown (நீங்கள் reset/rejoin செய்தால் மீட்டமைக்கப்படும்). |
+| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (பல்வேறு), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
+| **Armoury** | IPD Dang Wangi மற்றும் பிற தளங்களில் அணி-கட்டுப்படுத்தப்பட்ட armoury-கள். |
 
-Civilians can't walk around with rifles. The Firearms Licence unlocks Ammulaysia for sidearms; teams get duty weapons.
+சிவிலியன்கள் ரைஃபிள்களுடன் சுற்றி நடக்க முடியாது. Firearms Licence sidearm-களுக்கு Ammulaysia-ஐ திறக்கிறது; அணிகள் கடமை ஆயுதங்களை பெறுகின்றன.
 
-### Shooting (ACS basics)
+### சுடுதல் (ACS அடிப்படைகள்)
 
-- **Left-click** to fire.
-- **R** to reload.
-- **B** (or tool-specific) to holster.
-- Recoil, spread, and rate-of-fire vary by weapon.
-- Running fire is less accurate than aimed shots.
+- சுட **Left-click**.
+- ரீலோடு செய்ய **R**.
+- ஹோல்ஸ்டர் செய்ய **B** (அல்லது tool-குறிப்பிட்டது).
+- Recoil, பரவல், மற்றும் சுடும் வீதம் ஆயுதத்திற்கு ஆயுதம் மாறுபடும்.
+- ஓடும்போது சுடுவது இலக்கு கொண்ட ஷாட்களை விட குறைவான துல்லியமானது.
 
-ACS has been battle-tested — normal DPS is up to ~1500 with legit weapons, peak ~3000. The anti-cheat has been tuned to allow real combat without kicking legit players.
+ACS போர்-சோதிக்கப்பட்டுள்ளது — சட்டபூர்வமான ஆயுதங்களுடன் சாதாரண DPS ~1500 வரை, உச்சம் ~3000. சட்டபூர்வமான வீரர்களை kick செய்யாமல் உண்மையான போரை அனுமதிக்க anti-cheat டியூன் செய்யப்பட்டுள்ளது.
 
-### Bullet penetration
+### தோட்டா ஊடுருவல்
 
-Bullets passing through parts depend on what the part is:
+பாகங்கள் வழியாக தோட்டாக்கள் செல்வது பாகம் என்னவென்பதைப் பொறுத்தது:
 
-- **Passes through** any part that is:
+- பின்வருவனவற்றில் எந்தப் பாகத்தின் வழியாகவும் **ஊடுருவும்**:
   - **Transparent**
   - **Non-colliding**
-  - Named **Glass** or **Ignorable**
-- **Stops at** any part named:
-  - **Armor** — always blocks bullets
-  - **EShield** — energy shield, blocks bullets
+  - **Glass** அல்லது **Ignorable** என்று பெயரிடப்பட்டது
+- பெயரிடப்பட்ட எந்தப் பாகத்திலும் **நிற்கும்**:
+  - **Armor** — எப்போதும் தோட்டாக்களைத் தடுக்கிறது
+  - **EShield** — ஆற்றல் கவசம், தோட்டாக்களைத் தடுக்கிறது
 
-This matters for cover: a chest-high wall might not stop a round if it's transparent; a wooden fence will stop one if it's collidable.
+இது தற்காப்புக்கு முக்கியம்: மார்பளவு சுவர் ஒளிபுகுவதாக இருந்தால் ஒரு ரவுண்டை நிறுத்தாமல் இருக்கலாம்; மரவேலி மோதக்கூடியதாக இருந்தால் ஒன்றை நிறுத்தும்.
 
-### Bulletproof vehicles
+### தோட்டா தடுப்பு வாகனங்கள்
 
-Some vehicles have `Armor` parts placed around the cabin — they're **fully bulletproof** inside.
+சில வாகனங்களில் கேபின் சுற்றி `Armor` பாகங்கள் வைக்கப்பட்டுள்ளன — அவை உள்ளே **முழுமையாக தோட்டா தடுப்பவை**.
 
-- **AV4** (PDRM) — 29 armour parts around the cabin
+- **AV4** (PDRM) — கேபின் சுற்றி 29 கவசப் பாகங்கள்
 - **V150** (PDRM)
-- **UTK Hilux variants** — bulletproof cabin
+- **UTK Hilux வேறுபாடுகள்** — தோட்டா தடுப்பு கேபின்
 
-Regular civilian cars are **not** bulletproof. A Proton Persona will not stop a round.
+வழக்கமான சிவிலியன் கார்கள் தோட்டா **தடுப்பவை அல்ல**. Proton Persona ஒரு ரவுண்டை நிறுத்தாது.
 
 ---
 
-## Armour you wear
+## நீங்கள் அணியும் கவசம்
 
-Body armour is modelled via `Protecao` (Portuguese for "protection"):
+உடல் கவசம் `Protecao` மூலம் மாடல் செய்யப்படுகிறது (போர்ச்சுகீஸில் "பாதுகாப்பு" என்ற பொருள்):
 
-| Item | What it does |
+| பொருள் | அது என்ன செய்கிறது |
 | --- | --- |
-| **Vest** | Torso protection. Durability + damage reduction per hit. |
-| **Helmet** | Head protection. Without a helmet, headshots are lethal immediately. |
-| **Blast protection** | Reduces explosion damage (both vest and helmet have blast stats). |
+| **Vest** | உடற்பகுதி பாதுகாப்பு. நீடித்துழைப்பு + ஒவ்வொரு அடிக்கும் சேதம் குறைப்பு. |
+| **Helmet** | தலை பாதுகாப்பு. Helmet இல்லாமல், headshot-கள் உடனடியாக கொல்லும். |
+| **Blast protection** | வெடிப்பு சேதத்தை குறைக்கிறது (vest மற்றும் helmet இரண்டிலும் blast stats உள்ளன). |
 
-**Tip:** motorcycles used to insta-kill you without a helmet. That's been removed, but helmets are still worth wearing for headshot protection.
+**குறிப்பு:** முன்பு helmet இல்லாமல் motorcycle-கள் உங்களை உடனடியாக கொல்லும். அது அகற்றப்பட்டது, ஆனால் headshot பாதுகாப்புக்கு helmet-கள் அணிவது இன்னும் மதிப்பு வாய்ந்தது.
 
-Armour wears down with hits; get it replaced at an armoury or staging area.
+அடிகளுடன் கவசம் தேய்கிறது; armoury அல்லது staging area-வில் மாற்றப்படுகிறது.
 
 ---
 
-## Taking damage
+## சேதம் பெறுதல்
 
-Bandaraya models health as three dimensions, not just HP:
+Bandaraya சுகாதாரத்தை வெறும் HP அல்ல, மூன்று பரிமாணங்களாக மாடல் செய்கிறது:
 
-| Stat | What it is | When it matters |
+| Stat | அது என்ன | எப்போது முக்கியம் |
 | --- | --- | --- |
-| **Sangue** (Blood) | Blood level, 0–100 | Drops as you bleed. At 0 you flatline. |
-| **Dor** (Pain) | Pain level | High pain blurs your screen and slows you. |
-| **HP** (Humanoid) | Standard Roblox health | Dropping to 0 kills you outright. |
+| **Sangue** (ரத்தம்) | ரத்த அளவு, 0–100 | நீங்கள் ரத்தம் பெருகும்போது குறைகிறது. 0-இல் நீங்கள் flatline. |
+| **Dor** (வலி) | வலி நிலை | அதிக வலி உங்கள் திரையை மங்கச் செய்து உங்களை மெதுவாக்குகிறது. |
+| **HP** (Humanoid) | நிலையான Roblox ஹெல்த் | 0-இற்கு குறைவது உங்களை உடனடியாகக் கொல்கிறது. |
 
-Plus stamina, oxygen, and a host of stances (running, surrendered, cuffed, bleeding, downed, etc.).
+அத்துடன் stamina, ஆக்ஸிஜன், மற்றும் ஏராளமான நிலைகள் (ஓடுதல், சரணடைதல், கட்டப்பட்டது, ரத்தம் பெருகுதல், விழுந்தது, போன்றவை).
 
-### States you can enter
+### நீங்கள் நுழையக்கூடிய நிலைகள்
 
-| State | What it means | How you got there |
+| நிலை | இதன் பொருள் | நீங்கள் அங்கு எப்படி வந்தீர்கள் |
 | --- | --- | --- |
-| **Ferido** (Injured) | Below full health | Any damage |
-| **Sangrando** (Bleeding) | Actively losing blood | Gunshot, major trauma |
-| **Caido** (Downed) | Incapacitated, not dead | Serious damage; can be revived |
-| **Balloonbleed / bbleeding** | Critical bleeding | Compound wounds |
-| **Dead** | RIP | Caido too long, or HP 0 |
+| **Ferido** (காயம்) | முழு ஹெல்த்திற்கு கீழே | எந்த சேதமும் |
+| **Sangrando** (ரத்தம் பெருகுதல்) | தீவிரமாக ரத்தத்தை இழத்தல் | துப்பாக்கி வெடி, பெரிய அதிர்ச்சி |
+| **Caido** (விழுந்தது) | இயலாமை, இறக்கவில்லை | தீவிர சேதம்; உயிர்ப்பிக்க முடியும் |
+| **Balloonbleed / bbleeding** | கடுமையான ரத்தப்போக்கு | கூட்டுக் காயங்கள் |
+| **Dead** | RIP | Caido மிகவும் நீண்ட நேரம், அல்லது HP 0 |
 
-### Visual effects when hurt
+### காயமடையும்போது காட்சி விளைவுகள்
 
-| Effect | When it kicks in |
+| விளைவு | எப்போது தொடங்குகிறது |
 | --- | --- |
-| Blur | Pain / injury |
-| Colour correction desaturation | Blood loss |
-| Vignette (corners darken) | Low health |
-| Dirty overlay | Injury / combat damage |
+| Blur | வலி / காயம் |
+| Colour correction desaturation | ரத்த இழப்பு |
+| Vignette (மூலைகள் இருட்டாகும்) | குறைந்த ஹெல்த் |
+| அழுக்கு overlay | காயம் / போர் சேதம் |
 
 ---
 
-## Medical kit items
+## மருத்துவ கிட் பொருட்கள்
 
-Located in your kit if you have the right team/tool access. Full list:
+சரியான அணி/கருவி அணுகல் உங்களிடம் இருந்தால் உங்கள் கிட்டில் உள்ளது. முழுமையான பட்டியல்:
 
-### Pain & stimulants
+### வலி & ஊக்கிகள்
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
-| **Morfina** | Morphine — pain relief |
-| **Epinefrina** | Epinephrine — stimulant, helps revive |
-| **Aspirina** | Aspirin — mild pain relief |
+| **Morfina** | Morphine — வலி நிவாரணம் |
+| **Epinefrina** | Epinephrine — ஊக்கி, உயிர்ப்பிக்க உதவுகிறது |
+| **Aspirina** | Aspirin — லேசான வலி நிவாரணம் |
 | **Energetico** | Energy drink — stamina |
 
-### Blood & IV
+### ரத்தம் & IV
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
-| **SacoDeSangue** | Blood bag — restores blood volume |
+| **SacoDeSangue** | Blood bag — ரத்த அளவை மீட்டமைக்கிறது |
 | **Catheter** | IV catheter |
 
-### Wound care
+### காய பராமரிப்பு
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
-| **Bandagem** | Bandage — dresses wounds, slows bleeding |
-| **Tourniquet** | Full tourniquet — stops bleeding in a limb |
-| **Splint** | Stabilises fractures |
-| **Prolene / Nylon** | Suture materials |
+| **Bandagem** | கட்டு — காயங்களை கட்டுகிறது, ரத்தப்போக்கை மெதுவாக்குகிறது |
+| **Tourniquet** | முழு tourniquet — உறுப்பில் ரத்தப்போக்கை நிறுத்துகிறது |
+| **Splint** | முறிவுகளை நிலைப்படுத்துகிறது |
+| **Prolene / Nylon** | தையல் பொருட்கள் |
 
-### Airway (advanced, KKM)
+### மூச்சுக்குழாய் (மேம்பட்டது, KKM)
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
 | **ETube** | Endotracheal tube |
 | **NPA** | Nasopharyngeal airway |
 | **BVM** | Bag valve mask |
 | **NRB** | Non-rebreather mask |
-| **O2** | Oxygen supply |
-| **Suction** | Clear airway |
+| **O2** | ஆக்ஸிஜன் விநியோகம் |
+| **Suction** | மூச்சுக்குழாயை சுத்தம் செய்யவும் |
 
-### Surgical (advanced, KKM)
+### அறுவை சிகிச்சை (மேம்பட்டது, KKM)
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
-| **Scalpel** | Cut |
-| **Clamp** | Surgical clamp |
-| **Anesthetic** | Anaesthesia |
-| **Skit** | Surgical kit |
+| **Scalpel** | வெட்டு |
+| **Clamp** | அறுவை சிகிச்சை கிளாம்ப் |
+| **Anesthetic** | மயக்க மருந்து |
+| **Skit** | அறுவை சிகிச்சை கிட் |
 
-### Other
+### மற்றவை
 
-| Item | Purpose |
+| பொருள் | நோக்கம் |
 | --- | --- |
-| **Defib** | Defibrillator — restart flatlined heart |
+| **Defib** | Defibrillator — flatlined இதயத்தை மறுதொடக்கம் செய்யவும் |
 
 ---
 
-## Getting healed
+## குணமடைதல்
 
-### Self-heal (civilians)
+### சுய-குணம் (சிவிலியன்கள்)
 
-- **Passive regen:** 1% of max HP per second (applied in 3-second ticks of 3% each) when not actively being healed (`TraumaKitHealing` pauses it) and not bleeding.
-- **Bandage yourself** — slows bleed, adds some HP.
-- **Drink / food** — minor boost.
+- **பாசிவ் ரீஜென்:** செகண்டுக்கு அதிகபட்ச HP-இல் 1% (3-செகண்ட் tick-களில் 3% ஒவ்வொன்றும் பயன்படுத்தப்படுகிறது) நீங்கள் தீவிரமாக குணப்படுத்தப்படவில்லை (`TraumaKitHealing` அதை இடைநிறுத்துகிறது) மற்றும் ரத்தம் பெருகவில்லை.
+- **உங்களை கட்டு போடவும்** — ரத்தப்போக்கை மெதுவாக்குகிறது, சில HP-ஐ சேர்க்கிறது.
+- **பானம் / உணவு** — சிறிய ஊக்கம்.
 
-### Medic-heal (KKM / SJAM)
+### மருத்துவ-குணம் (KKM / SJAM)
 
-A medic can:
+ஒரு மருத்துவர் இவற்றைச் செய்ய முடியும்:
 
-1. **Stop the bleed** with a tourniquet or bandage.
-2. **Restore blood** with a blood bag.
-3. **Relieve pain** with morphine.
-4. **Defib** if your heart stopped.
-5. **Perform surgery** (KKM only) — scalpel, anaesthetic, suture.
+1. Tourniquet அல்லது கட்டு கொண்டு **ரத்தப்போக்கை நிறுத்துதல்**.
+2. Blood bag கொண்டு **ரத்தத்தை மீட்டமைத்தல்**.
+3. Morphine கொண்டு **வலியை போக்குதல்**.
+4. உங்கள் இதயம் நின்று விட்டால் **Defib**.
+5. **அறுவை சிகிச்சை செய்தல்** (KKM மட்டும்) — scalpel, மயக்க மருந்து, தையல்.
 
-Sit tight and don't run away.
+நிலையாக உட்கார்ந்து ஓடாதீர்கள்.
 
-### Bleedout timer
+### Bleedout டைமர்
 
-- **KKM or SJAM online** (teams: Institutional white / Forest green): 5-minute bleedout window once downed. Passive regen is disabled — medics have to save you.
-- **No medics online:** you can respawn whenever (the game doesn't hold you hostage if there's no medic).
+- **KKM அல்லது SJAM ஆன்லைன்** (அணிகள்: Institutional white / Forest green): விழுந்த பிறகு 5-நிமிட bleedout சாளரம். பாசிவ் ரீஜென் முடக்கப்பட்டுள்ளது — மருத்துவர்கள் உங்களை காப்பாற்ற வேண்டும்.
+- **எந்த மருத்துவர்களும் ஆன்லைனில் இல்லை:** நீங்கள் எப்போது வேண்டுமானாலும் respawn செய்யலாம் (மருத்துவர் இல்லை என்றால் விளையாட்டு உங்களை பிணைக்கைதியாக வைத்திருக்காது).
 
-### Reset button
+### Reset பட்டன்
 
-The reset button is **disabled at 75 HP or below** — this is to stop **RTAA** (resetting to avoid arrest). If you're injured, fight through it or wait for a medic.
+Reset பட்டன் **75 HP அல்லது அதற்கு கீழ் முடக்கப்பட்டுள்ளது** — இது **RTAA**-ஐ (கைதை தவிர்க்க reset செய்வது) தடுக்க. நீங்கள் காயமடைந்திருந்தால், அதன் வழியாக போரிடுங்கள் அல்லது மருத்துவருக்கு காத்திருங்கள்.
 
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
-
----
-
-## Hardpoint — capture / raid gamemode
-
-**Hardpoint** is a capture-point gamemode reserved almost entirely for **OCG vs OCG** group events. It's not an everyday feature — it runs when an OCG leader triggers a raid.
-
-How it works (verified):
-
-- An OCG leader (rank 150+ in the main OCG group) types **`:startraid <Defenders> <Hostiles>`** in chat, picking two of: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
-- The **Point** (a capture trigger in `Workspace.HardPoints`) activates — becomes visible, trigger goes solid.
-- Players in the designated defender / hostile groups touch the trigger to capture for their team. Dead players can't capture (`DeathCap = false`).
-- **Timer:** 300 seconds on the active point. Teams accumulate score while they hold it.
-- **Win threshold:** 1250 points, or an OCG admin types **`:cancelraid`**.
-- **HardpointUI** shows two progress bars (Home / Away) + announcement frame + score + timer.
-
-If you're not OCG, you can watch but not score. PDRM / KPTD / BOMBA / KKM don't participate.
+[Arrest & Law](/bandaraya/arrest-and-law#rtaa) பார்க்கவும்.
 
 ---
 
-## Tips & gotchas
+## Hardpoint — capture / raid கேம்மோட்
 
-- **Cover is not obvious.** Transparent parts don't stop bullets. Crouch behind something solid and named.
-- **Helmets save heads.** If you're going into a firefight, wear one.
-- **KKM or SJAM online means 5-minute bleedouts.** If no medic team is online, you can respawn faster.
-- **Reset is anti-RTAA at or below 75 HP.** Don't try.
-- **Your pain stat persists until healed.** Blur and slowdown stick around.
-- **Don't shoot first as a public service team.** It's a severe violation.
-- **Gun shop cooldowns.** 5 minutes between purchases at Ammulaysia and Illegal Dealer. The cooldown also resets on rejoin to stop abuse.
+**Hardpoint** என்பது ஒரு capture-point கேம்மோட் ஆகும், இது கிட்டத்தட்ட முழுவதுமாக **OCG vs OCG** குழு நிகழ்வுகளுக்கு ஒதுக்கப்பட்டுள்ளது. இது ஒரு தினசரி அம்சம் அல்ல — OCG தலைவர் ஒரு raid-ஐ தூண்டும்போது இது இயங்குகிறது.
 
-## See also
+இது எப்படி வேலை செய்கிறது (உறுதிப்படுத்தப்பட்டது):
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — detainment, arrest mechanics, LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM roles
-- [Economy](/bandaraya/economy) — Ammulaysia and Illegal Dealer shops
+- ஒரு OCG தலைவர் (முக்கிய OCG குழுவில் rank 150+) chat-இல் **`:startraid <Defenders> <Hostiles>`** என்று type செய்கிறார், இவற்றில் இரண்டைத் தேர்ந்தெடுக்கிறார்: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
+- **Point** (`Workspace.HardPoints`-இல் உள்ள capture trigger) செயல்படுத்தப்படுகிறது — காணக்கூடியதாகிறது, trigger திடமாகிறது.
+- நியமிக்கப்பட்ட defender / hostile குழுக்களில் உள்ள வீரர்கள் தங்கள் அணிக்காக capture செய்ய trigger-ஐ தொடுகிறார்கள். இறந்த வீரர்கள் capture செய்ய முடியாது (`DeathCap = false`).
+- **டைமர்:** செயலில் உள்ள point-இல் 300 செகண்டுகள். அவர்கள் அதை வைத்திருக்கும்போது அணிகள் ஸ்கோரை குவிக்கின்றன.
+- **வெற்றி வரம்பு:** 1250 புள்ளிகள், அல்லது ஒரு OCG admin **`:cancelraid`** என்று type செய்கிறார்.
+- **HardpointUI** இரண்டு progress bar-களை (Home / Away) + announcement frame + ஸ்கோர் + டைமரை காட்டுகிறது.
+
+நீங்கள் OCG அல்ல என்றால், பார்க்கலாம் ஆனால் score செய்ய முடியாது. PDRM / KPTD / BOMBA / KKM பங்கேற்கவில்லை.
+
+---
+
+## குறிப்புகள் & பிடிப்புகள்
+
+- **தற்காப்பு தெளிவாக இல்லை.** ஒளிபுகும் பாகங்கள் தோட்டாக்களை நிறுத்தாது. திடமான மற்றும் பெயரிடப்பட்ட ஏதோ ஒன்றின் பின்னால் குனிந்துகொள்ளுங்கள்.
+- **Helmet-கள் தலைகளை காப்பாற்றுகின்றன.** நீங்கள் துப்பாக்கி சண்டைக்குச் சென்றால், ஒன்றை அணியுங்கள்.
+- **KKM அல்லது SJAM ஆன்லைன் என்றால் 5-நிமிட bleedout-கள்.** எந்த மருத்துவ அணியும் ஆன்லைனில் இல்லை என்றால், நீங்கள் வேகமாக respawn செய்யலாம்.
+- **Reset 75 HP அல்லது அதற்கு கீழ் anti-RTAA.** முயற்சி செய்ய வேண்டாம்.
+- **குணமாகும் வரை உங்கள் வலி stat நிலைத்திருக்கும்.** Blur மற்றும் slowdown தங்கியிருக்கும்.
+- **பொது சேவை அணியாக முதலில் சுடவேண்டாம்.** இது ஒரு கடுமையான மீறல்.
+- **துப்பாக்கி கடை cooldown-கள்.** Ammulaysia மற்றும் Illegal Dealer-இல் வாங்குதல்களுக்கு இடையில் 5 நிமிடங்கள். தவறான பயன்பாட்டை நிறுத்த rejoin-இல் cooldown-ம் மீட்டமைக்கப்படும்.
+
+## இதையும் பார்க்கவும்
+
+- [Arrest & Law](/bandaraya/arrest-and-law) — தடுப்புக்காவல், கைது இயக்கவியல், LTAA / RTAA
+- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM பாத்திரங்கள்
+- [Economy](/bandaraya/economy) — Ammulaysia மற்றும் Illegal Dealer கடைகள்
 - [Gamepasses](/bandaraya/gamepasses) — Firearms Licence
-- [Vehicles](/bandaraya/vehicles) — bulletproof vehicle list
-- [Rules](/bandaraya/rules) — combat etiquette and severe violations
+- [Vehicles](/bandaraya/vehicles) — தோட்டா தடுப்பு வாகன பட்டியல்
+- [Rules](/bandaraya/rules) — போர் நடத்தை மற்றும் கடுமையான மீறல்கள்

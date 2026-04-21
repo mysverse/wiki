@@ -1,233 +1,232 @@
 ---
-title: Getting Around Bandaraya — Public Transport Guide
+title: Bandaraya-வில் பயணிக்க — பொதுப் போக்குவரத்து வழிகாட்டி
 description: >-
-  Public transport in Bandaraya — MRT, LRT, monorail, buses, CAG card,
-  e-hailing, and TapNGo tolls.
+  Bandaraya-வில் பொதுப் போக்குவரத்து — MRT, LRT, மோனோரயில், பேருந்துகள், CAG
+  கார்டு, இ-ஹெயிலிங், மற்றும் TapNGo டோல்கள்.
 lang: ta
 translated_from_hash: 6f4b75c6
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Bandaraya-வில் பயணிக்க — பொதுப் போக்குவரத்து வழிகாட்டி
 
-# Getting Around Bandaraya — Public Transport Guide
+கோலாலம்பூரைச் சுற்றி நகர்வதற்கான ஒரு வீரர் வழிகாட்டி: பேருந்துகள், MRT, மோனோரயில், நெடுஞ்சாலை டோல்கள், மற்றும் இவை அனைத்தையும் இணைக்கும் **CAG கார்டு**.
 
-A player's guide to moving around Kuala Lumpur: buses, MRT, Monorail, highway tolls, and the **CAG card** that ties it all together.
+எல்லா விலைகளும் **BR (Bandar Ringgit)**-இல் உள்ளன.
 
-All prices are in **BR (Bandar Ringgit)**.
+## விரைவு குறிப்பு
 
-## Quick reference
-
-| What | Cost (cash) | With CAG card | With CAG + monthly pass |
+| எது | கட்டணம் (பணம்) | CAG கார்டுடன் | CAG + மாதாந்தர பாஸுடன் |
 | --- | --- | --- | --- |
-| Bus ride (flat fare) | 5 BR | 5 BR (from card) | **Free** |
-| MRT / Monorail fast travel | Full price | **30 % off** | **50 % off** |
-| TapNGo highway gate | 15 BR | **20 % off** (12 BR) | 20 % off (12 BR) |
-| CAG card (one-time purchase) | 100 BR | — | — |
-| Monthly pass | 500 BR | — | Lasts 30 days |
+| பேருந்து பயணம் (நிலைக் கட்டணம்) | 5 BR | 5 BR (கார்டிலிருந்து) | **இலவசம்** |
+| MRT / மோனோரயில் fast travel | முழு விலை | **30 % தள்ளுபடி** | **50 % தள்ளுபடி** |
+| TapNGo நெடுஞ்சாலை கேட் | 15 BR | **20 % தள்ளுபடி** (12 BR) | 20 % தள்ளுபடி (12 BR) |
+| CAG கார்டு (ஒரு முறை வாங்குதல்) | 100 BR | — | — |
+| மாதாந்தர பாஸ் | 500 BR | — | 30 நாட்கள் நீடிக்கும் |
 
-**TL;DR:** If you use public transport more than a few times, buy a CAG card. If you use it every day, get the monthly pass.
+**சுருக்கமாக:** நீங்கள் பொதுப் போக்குவரத்தை சில தடவைகளுக்கு மேல் பயன்படுத்தினால், ஒரு CAG கார்டு வாங்குங்கள். தினமும் பயன்படுத்தினால், மாதாந்தர பாஸ் வாங்கிவிடுங்கள்.
 
 ---
 
-## The network
+## பிணையம்
 
-### MRT Kajang Line
-Three stations; walk-in fast travel between them.
+### MRT Kajang பாதை
+மூன்று நிலையங்கள்; அவற்றிற்கிடையே நடந்து சென்று fast travel செய்யலாம்.
 
 - **Conlay**
 - **Persiaran KLCC**
 - **Ampang Park**
 
-### KL Monorail Line
-Three more stations on a separate line.
+### KL மோனோரயில் பாதை
+தனியான பாதையில் மேலும் மூன்று நிலையங்கள்.
 
 - **Bukit Bintang**
 - **Raja Chulan**
 - **Bukit Nanas**
 
-### Buses
-Run by several operators around the city — **MyTransit**, **FirstGroup**, and **Fermuda**. Look for passenger seats on tagged bus models; fare is charged automatically when you sit down.
+### பேருந்துகள்
+நகரைச் சுற்றி பல இயக்குநர்களால் இயக்கப்படுகின்றன — **MyTransit**, **FirstGroup**, மற்றும் **Fermuda**. குறியிடப்பட்ட பேருந்து மாடல்களில் பயணியர் இருக்கைகளைத் தேடுங்கள்; நீங்கள் அமரும்போது கட்டணம் தானாகவே கழிக்கப்படுகிறது.
 
-### Highways
-Some highway routes pass through **TapNGo toll gates**. Your vehicle is charged 15 BR per gate, or 12 BR if you hold a CAG card.
+### நெடுஞ்சாலைகள்
+சில நெடுஞ்சாலை வழித்தடங்கள் **TapNGo டோல் கேட்கள்** வழியாகச் செல்கின்றன. ஒவ்வொரு கேட்டுக்கும் உங்கள் வாகனம் 15 BR கழிக்கப்படும், அல்லது CAG கார்டு வைத்திருந்தால் 12 BR.
 
 ---
 
-## Fast travel (MRT & Monorail)
+## Fast travel (MRT & மோனோரயில்)
 
-1. Walk up to any MRT or Monorail station.
-2. A fast-travel panel opens showing the other stations on your line.
-3. Pick a destination. The price shown depends on whether you hold a CAG card:
-   - **No card:** full BR price charged from your wallet.
-   - **CAG card:** 30 % off, charged from your card balance.
-   - **CAG card + active monthly pass:** 50 % off, still from card balance.
-4. Screen fades to black; you arrive at the destination station.
+1. எந்த MRT அல்லது மோனோரயில் நிலையத்தையும் அணுகுங்கள்.
+2. உங்கள் பாதையில் உள்ள மற்ற நிலையங்களைக் காட்டும் ஒரு fast travel பலகம் திறக்கும்.
+3. இலக்கைத் தேர்ந்தெடுக்கவும். காட்டப்படும் விலை நீங்கள் CAG கார்டு வைத்திருக்கிறீர்களா என்பதைப் பொறுத்தது:
+   - **கார்டு இல்லை:** உங்கள் வாலட்டிலிருந்து முழு BR விலை கழிக்கப்படும்.
+   - **CAG கார்டு:** 30 % தள்ளுபடி, உங்கள் கார்டு இருப்பிலிருந்து கழிக்கப்படும்.
+   - **CAG கார்டு + செயலில் உள்ள மாதாந்தர பாஸ்:** 50 % தள்ளுபடி, இன்னும் கார்டு இருப்பிலிருந்தே.
+4. திரை கருப்பாக மங்கும்; நீங்கள் இலக்கு நிலையத்தில் வந்திறங்குவீர்கள்.
 
-If your CAG balance is too low to cover the discounted fare, the system falls back to charging full BR from your wallet — the UI shows a hint reminding you to top up.
+உங்கள் CAG இருப்பு தள்ளுபடி கட்டணத்தை ஈடுகட்ட மிகவும் குறைவாக இருந்தால், கணினி உங்கள் வாலட்டிலிருந்து முழு BR-ஐ வசூலிக்கத் திரும்பும் — UI டாப்-அப் செய்ய நினைவூட்டும் குறிப்பைக் காட்டுகிறது.
 
-### What it costs
+### எவ்வளவு செலவாகும்
 
-Fare scales with how many hops you take (base + per-hop):
+நீங்கள் எடுக்கும் ஹாப்களின் எண்ணிக்கைக்கு ஏற்ப கட்டணம் அளவாகிறது (அடிப்படை + ஒரு ஹாப்):
 
-| Trip | Cash | With CAG (30% off) | With CAG + pass (50% off) |
+| பயணம் | பணம் | CAG உடன் (30% தள்ளுபடி) | CAG + பாஸ் (50% தள்ளுபடி) |
 | --- | --- | --- | --- |
-| 1 hop (neighbour station) | 150 BR | 105 BR | 75 BR |
-| 2 hops (end of the line) | 200 BR | 140 BR | 100 BR |
+| 1 ஹாப் (அண்டை நிலையம்) | 150 BR | 105 BR | 75 BR |
+| 2 ஹாப் (பாதையின் கடை) | 200 BR | 140 BR | 100 BR |
 
-Formula: `100 + 50 × hops`. A full monthly pass ride pays for itself after about 7 trips.
-
----
-
-## Buses
-
-Buses operate across the city. There's no ticket to buy or button to press — just **board and sit**.
-
-- **Fare:** 5 BR per boarding, flat.
-- **Paid via CAG card** if you have one; deducted automatically when you sit in a passenger seat.
-- **No card, or card empty?** The fare becomes **debt**. You still ride, but your next top-up settles the debt before adding to your balance.
-- **Monthly pass holders:** rides are **free** — the "Saved with CAG" counter tracks the value anyway.
-- **Bus drivers are not charged** — the driver seat is exempt.
-- **Debt cap:** 200 BR. Reach it and further rides are refused until you top up.
-
-**Exit handling is forgiving.** Whether you stand up normally, get kicked from the seat, die, disconnect, or the bus despawns under you, the fare is charged exactly once for that boarding.
+சூத்திரம்: `100 + 50 × ஹாப்கள்`. ஒரு முழு மாதாந்தர பாஸ் பயணம் சுமார் 7 பயணங்களுக்குப் பிறகு மறுபடி ஈட்டிக் கொடுக்கும்.
 
 ---
 
-## TapNGo highway gates
+## பேருந்துகள்
 
-When your vehicle reaches a TapNGo gate:
+பேருந்துகள் நகரம் முழுவதும் இயக்கப்படுகின்றன. டிக்கெட் வாங்க வேண்டாம் அல்லது பொத்தான் அழுத்த வேண்டாம் — **ஏறி அமருங்கள்** என்பது மட்டுமே.
 
-1. The gate deducts **15 BR** from your wallet (or **12 BR** if you own a CAG card — 20 % off, paid from card balance with fallback to cash).
-2. The gate opens.
-3. Drive through.
+- **கட்டணம்:** ஒவ்வொரு ஏற்றத்திற்கும் 5 BR, நிலையம்.
+- உங்களிடம் இருந்தால் **CAG கார்டு வழியாக செலுத்தப்படும்**; நீங்கள் பயணியர் இருக்கையில் அமரும்போது தானாகவே கழிக்கப்படும்.
+- **கார்டு இல்லை, அல்லது கார்டு காலியா?** கட்டணம் **கடனாக** மாறும். நீங்கள் இன்னும் பயணிக்கலாம், ஆனால் உங்கள் அடுத்த டாப்-அப் உங்கள் இருப்பில் சேர்ப்பதற்கு முன்பு கடனை நிறைவேற்றும்.
+- **மாதாந்தர பாஸ் வைத்திருப்பவர்கள்:** பயணங்கள் **இலவசம்** — "Saved with CAG" எண்ணிக்கையாளர் என்றபோதும் மதிப்பைக் கண்காணிக்கிறது.
+- **பேருந்து ஓட்டுநர்களுக்குக் கட்டணம் வசூலிக்கப்படுவதில்லை** — ஓட்டுநர் இருக்கை விலக்கப்பட்டுள்ளது.
+- **கடன் வரம்பு:** 200 BR. இதை அடைந்தால், நீங்கள் டாப்-அப் செய்யும் வரை மேலதிக பயணங்கள் மறுக்கப்படும்.
 
-A vehicle that has already paid a specific gate won't be double-charged on the way out.
+**வெளியேறுதல் கையாளுதல் மன்னிப்புடையது.** நீங்கள் சாதாரணமாக எழுந்தாலும், இருக்கையிலிருந்து உதைத்தாலும், இறந்தாலும், துண்டிக்கப்பட்டாலும், அல்லது பேருந்து உங்கள் கீழே despawn ஆனாலும், அந்த ஏற்றத்திற்கு சரியாக ஒரு முறை மட்டுமே கட்டணம் வசூலிக்கப்படுகிறது.
 
 ---
 
-# The CAG (Click And Go) card
+## TapNGo நெடுஞ்சாலை கேட்கள்
 
-The **CAG card** is Bandaraya's stored-value transit card — modelled on Malaysia's real-life Touch n Go. Load it up once, tap automatically across buses, MRT, Monorail, and highway gates.
+உங்கள் வாகனம் ஒரு TapNGo கேட்டை அடையும்போது:
 
-## How to buy one
+1. கேட் உங்கள் வாலட்டிலிருந்து **15 BR** கழிக்கிறது (அல்லது நீங்கள் CAG கார்டு வைத்திருந்தால் **12 BR** — 20 % தள்ளுபடி, கார்டு இருப்பிலிருந்து செலுத்தப்படுகிறது, பின்வாங்கலாக பணத்திற்கு).
+2. கேட் திறக்கிறது.
+3. ஓட்டிச் செல்லுங்கள்.
 
-1. Find a **CAG kiosk** — one next to every MRT and Monorail station, plus a central kiosk in the city.
-2. Interact with the kiosk (line of sight required — the prompt won't work through walls).
-3. Pick **Buy Card** on the kiosk panel. Confirm the **100 BR** charge.
-4. You'll receive a **CAG Card** tool in your backpack. Equip it to see a compact balance badge above the card; activate it (click while held) to open your wallet UI.
+ஒரு குறிப்பிட்ட கேட்டில் ஏற்கனவே செலுத்திய வாகனம் வெளியேறும்போது இரட்டிப்பாக வசூலிக்கப்படாது.
 
-Once you own a card, the tool is automatically granted to you on every spawn.
+---
 
-## Topping up
+# CAG (Click And Go) கார்டு
 
-At any kiosk:
+**CAG கார்டு** என்பது Bandaraya-வின் சேமிப்பு-மதிப்புப் போக்குவரத்து கார்டு — மலேசியாவின் நிஜ-வாழ்க்கை Touch n Go-வை மாதிரியாகக் கொண்டது. ஒரு முறை லோட் செய்யுங்கள், பேருந்துகள், MRT, மோனோரயில், மற்றும் நெடுஞ்சாலை கேட்களில் தானாகவே டேப் செய்யுங்கள்.
 
-1. Choose **Top Up**.
-2. Pick a denomination: **20 / 50 / 100 / 200 / 500 BR**.
-3. Confirm. Large top-ups (200 BR+) prompt for confirmation to prevent misclicks.
+## எப்படி வாங்குவது
 
-- **Max balance:** 2 000 BR stored at once.
-- **Debt settles first.** If you have unpaid bus fare debt, the top-up clears that before adding to your available balance.
-- **Top-up buttons grey out** with a "(max)" tag when the denomination would exceed the cap.
+1. ஒரு **CAG kiosk**-ஐக் கண்டறியவும் — ஒவ்வொரு MRT மற்றும் மோனோரயில் நிலையத்திற்கு அருகிலும் ஒன்று, மேலும் நகரில் ஒரு மத்திய kiosk.
+2. kiosk-உடன் தொடர்பு கொள்ளுங்கள் (பார்வைக் கோடு தேவை — சுவர்களின் வழியாக prompt வேலை செய்யாது).
+3. kiosk பலகத்தில் **Buy Card**-ஐத் தேர்ந்தெடுக்கவும். **100 BR** கட்டணத்தை உறுதிப்படுத்தவும்.
+4. உங்கள் backpack-இல் **CAG Card** என்ற ஒரு கருவியைப் பெறுவீர்கள். கார்டுக்கு மேலே ஒரு சுருக்கமான இருப்பு பேட்ஜைக் காண அதை அணிந்து கொள்ளுங்கள்; உங்கள் வாலட் UI-ஐத் திறக்க அதை செயல்படுத்துங்கள் (பிடித்துக்கொண்டிருக்கும்போது கிளிக் செய்யுங்கள்).
 
-## The monthly pass
+நீங்கள் ஒரு கார்டைச் சொந்தமாக்கிய பிறகு, ஒவ்வொரு spawn-இலும் கருவி தானாகவே உங்களுக்கு வழங்கப்படுகிறது.
 
-- **Price:** 500 BR at any kiosk.
-- **Duration:** 30 days from purchase.
-- **Perks:**
-  - **Free bus rides** for the whole period.
-  - **MRT / Monorail discount doubles** from 30 % to **50 %**.
-- Shown in the wallet UI with a `[v]` active indicator and a green status pill.
+## டாப்-அப் செய்தல்
 
-Breaks even around 100 bus rides (500 BR ÷ 5 BR) — plus whatever MRT savings you stack on top. If you commute daily, it pays for itself fast.
+எந்த kiosk-இலும்:
 
-## Opening your wallet
+1. **Top Up**-ஐத் தேர்ந்தெடுக்கவும்.
+2. ஒரு மதிப்பைத் தேர்ந்தெடுக்கவும்: **20 / 50 / 100 / 200 / 500 BR**.
+3. உறுதிப்படுத்தவும். பெரிய டாப்-அப்கள் (200 BR மற்றும் அதற்கு மேற்பட்டவை) தவறான கிளிக்குகளைத் தடுக்க உறுதிப்படுத்தலைக் கேட்கிறது.
 
-Three ways to open the wallet UI:
+- **அதிகபட்ச இருப்பு:** ஒரே நேரத்தில் 2 000 BR சேமிக்கப்படும்.
+- **கடன் முதலில் தீர்க்கப்படும்.** செலுத்தப்படாத பேருந்து கட்டணக் கடன் இருந்தால், டாப்-அப் உங்கள் கிடைக்கக்கூடிய இருப்பில் சேர்ப்பதற்கு முன் அதை அழிக்கிறது.
+- மதிப்பு வரம்பை மீறும் எனில், **டாப்-அப் பொத்தான்கள் சாம்பல் நிறமாக மாறி** "(max)" டேக் காட்டப்படும்.
 
-- **Equip and activate** the CAG Card tool (click while holding it).
-- **Press Ctrl + W** anywhere, any time.
-- **Open the CAG eWallet app** on your in-game Phone.
-- **Press Escape** to close.
+## மாதாந்தர பாஸ்
 
-## Inside the wallet
+- **விலை:** எந்த kiosk-இலும் 500 BR.
+- **காலம்:** வாங்கியதிலிருந்து 30 நாட்கள்.
+- **சலுகைகள்:**
+  - முழு காலத்திற்கும் **இலவச பேருந்து பயணங்கள்**.
+  - **MRT / மோனோரயில் தள்ளுபடி இரண்டு மடங்காகிறது** 30 %-இலிருந்து **50 %** வரை.
+- வாலட் UI-இல் `[v]` செயலில் காட்டி மற்றும் பச்சை நிலை பில்லுடன் காட்டப்படுகிறது.
 
-Five tabs:
+சுமார் 100 பேருந்து பயணங்களில் (500 BR ÷ 5 BR) சமநிலை அடைகிறது — மேலும் நீங்கள் மேல் அடுக்கும் எந்த MRT சேமிப்புகளும். நீங்கள் தினமும் பயணம் செய்தால், இது விரைவில் மறுபடி ஈட்டிக் கொடுக்கிறது.
 
-| Tab | What you'll find |
+## உங்கள் வாலட்டைத் திறப்பது
+
+வாலட் UI-ஐத் திறக்க மூன்று வழிகள்:
+
+- CAG Card கருவியை **அணிந்து செயல்படுத்தவும்** (பிடித்துக்கொண்டிருக்கும்போது கிளிக் செய்யுங்கள்).
+- எந்த நேரத்திலும், எங்கும் **Ctrl + W அழுத்துங்கள்**.
+- உங்கள் விளையாட்டுக்குள் Phone-இல் **CAG eWallet app-ஐத் திறக்கவும்**.
+- மூட **Escape-ஐ அழுத்தவும்**.
+
+## வாலட்டுக்குள்
+
+ஐந்து டேப்கள்:
+
+| டேப் | நீங்கள் என்ன காண்பீர்கள் |
 | --- | --- |
-| **Buy Card** | Purchase a card if you don't have one yet (hidden once owned). |
-| **Top Up** | Grid of denomination buttons. |
-| **Pass** | Status of your monthly pass; buy or renew. |
-| **Designs** | Browse and equip card designs (see below). |
-| **History** | Your last 20 transactions + lifetime stats (bus trips, MRT trips, BR spent, BR saved, card age). |
+| **Buy Card** | உங்களிடம் இன்னும் இல்லை என்றால் கார்டு வாங்கவும் (சொந்தமாக்கிய பிறகு மறைக்கப்படும்). |
+| **Top Up** | மதிப்பு பொத்தான்களின் கட்டம். |
+| **Pass** | உங்கள் மாதாந்தர பாஸின் நிலை; வாங்கவும் அல்லது புதுப்பிக்கவும். |
+| **Designs** | கார்டு டிசைன்களை உலாவி அணிந்து கொள்ளவும் (கீழே பார்க்கவும்). |
+| **History** | உங்கள் கடைசி 20 பரிவர்த்தனைகள் + வாழ்நாள் புள்ளிவிவரங்கள் (பேருந்து பயணங்கள், MRT பயணங்கள், செலவழித்த BR, சேமித்த BR, கார்டு வயது). |
 
 ---
 
-## Card designs
+## கார்டு டிசைன்கள்
 
-Your card has a **visual design** — the colour and art that show on the tool badge, wallet preview, and Phone app. The **Classic** design is free with every card; others are unlockable:
+உங்கள் கார்டுக்கு ஒரு **காட்சி டிசைன்** உள்ளது — கருவி பேட்ஜ், வாலட் முன்னோட்டம், மற்றும் Phone app-இல் காட்டப்படும் நிறமும் கலையும். **Classic** டிசைன் ஒவ்வொரு கார்டுடனும் இலவசமாகிறது; மற்றவை அன்லாக் செய்யக்கூடியவை:
 
-- **Shop** — buy them outright at kiosks.
-- **Achievements** — earn them by using the card:
-  - **100 bus trips**
-  - **50 MRT trips**
-  - **10 000 BR lifetime spend via CAG**
-- **Seasonal** — special designs offered during **Deepavali, Merdeka, and Raya** windows; miss the window, wait until next year.
+- **Shop** — kiosk-இல் நேரடியாக வாங்கவும்.
+- **Achievements** — கார்டைப் பயன்படுத்தி சம்பாதிக்கவும்:
+  - **100 பேருந்து பயணங்கள்**
+  - **50 MRT பயணங்கள்**
+  - **CAG வழியாக 10 000 BR வாழ்நாள் செலவு**
+- **Seasonal** — **தீபாவளி, Merdeka, மற்றும் ராயா** காலகட்டங்களில் வழங்கப்படும் சிறப்பு டிசைன்கள்; கால விண்டோவைத் தவறவிட்டால், அடுத்த ஆண்டு வரை காத்திருக்கவும்.
 
-Change your active design from the **Designs** tab. You keep every design you've ever unlocked — they're saved to your account.
+**Designs** டேப்பிலிருந்து உங்கள் செயலில் உள்ள டிசைனை மாற்றவும். நீங்கள் எப்போதாவது அன்லாக் செய்த ஒவ்வொரு டிசைனையும் வைத்திருப்பீர்கள் — அவை உங்கள் கணக்கில் சேமிக்கப்படுகின்றன.
 
 ---
 
-## The CAG eWallet (Phone app)
+## CAG eWallet (Phone app)
 
-On your in-game Phone, the **CAG eWallet** app gives you a browse-only view of your card without needing to hold the tool or press Ctrl + W.
+உங்கள் விளையாட்டுக்குள் Phone-இல், **CAG eWallet** app கருவியைப் பிடித்திருக்கவோ அல்லது Ctrl + W அழுத்தவோ தேவையில்லாமல் உங்கள் கார்டை உலாவிக்-காண்பதற்கு மட்டுமான பார்வையைத் தருகிறது.
 
-Five tabs at the bottom:
+கீழே ஐந்து டேப்கள்:
 
-| Tab | Purpose |
+| டேப் | நோக்கம் |
 | --- | --- |
-| **Home** | Balance card with your active design, quick-action shortcuts (Reload, Tap, Pass, Designs), last 2 transactions. |
-| **Trips** | Full history with colour-coded chips (bus / mrt / gate / topup) and a stats strip at the top. |
-| **Tap** | An explainer screen with a tilted card preview and live discount numbers — handy refresher on what the card gets you. |
-| **Pass** | Pass status as a yellow ticket card with usage summary and savings. |
-| **Me** | Your active design hero + designs grid (owned vs. locked), plus lifetime stats. |
+| **Home** | உங்கள் செயலில் உள்ள டிசைனுடன் கூடிய இருப்பு கார்டு, விரைவு-செயல் குறுக்குவழிகள் (Reload, Tap, Pass, Designs), கடைசி 2 பரிவர்த்தனைகள். |
+| **Trips** | நிறக்-குறியிடப்பட்ட சிப்களுடன் (bus / mrt / gate / topup) மற்றும் மேலே ஒரு புள்ளிவிவரப் பட்டையுடன் முழு வரலாறு. |
+| **Tap** | சாய்த்த கார்டு முன்னோட்டம் மற்றும் நேரடி தள்ளுபடி எண்களுடன் ஒரு விளக்கத் திரை — கார்டு உங்களுக்கு என்ன தருகிறது என்பது பற்றிய கைநேர்த்திப் புத்தாக்கம். |
+| **Pass** | பயன்பாட்டு சுருக்கம் மற்றும் சேமிப்புகளுடன் ஒரு மஞ்சள் டிக்கெட் கார்டாகப் பாஸ் நிலை. |
+| **Me** | உங்கள் செயலில் உள்ள டிசைன் ஹீரோ + டிசைன்ஸ் கட்டம் (சொந்தமாக்கியது vs. பூட்டப்பட்டது), மேலும் வாழ்நாள் புள்ளிவிவரங்கள். |
 
-**Important:** all purchase buttons in the app (Reload, Buy/Renew Pass, Change Design) **deep-link** to the nearest kiosk. If you're close enough (within 24 studs), the kiosk UI opens automatically. If not, you get a toast telling you which kiosk is nearest and how far away it is — head there to complete the action. The kiosk is the single source of truth for transactions.
-
----
-
-## Tips & gotchas
-
-- **Buy the card before your first trip.** It pays for itself in ~7 MRT rides or ~7 tolls.
-- **Keep a small balance on the card.** You don't need to max it out — bus fares are tiny.
-- **Debt is silent but real.** If your card is empty, buses still let you ride but record the fare as debt. Top up to clear it; you'll hit the 200 BR debt cap eventually.
-- **You can't cash out.** Money on the card is one-way — spend it on transport, don't store savings there. (This matches the real Touch n Go.)
-- **Monthly pass stacks with MRT discount**, but not with the bus fare — pass = free buses, not discounted buses.
-- **Kiosk prompts require line of sight** — if you can't see the kiosk, you can't interact with it. Walk around the obstacle.
-- **Kiosk sessions time out after 60 seconds.** If you step away, just interact again.
-- **Tools rate-limit.** Spamming buttons in the wallet UI briefly locks you out. Click once and wait for the action to process (the button shows "…" while busy).
-- **Taxis and e-hailing are NOT on CAG.** They use their own BR-based fares — carry cash for those.
-- **If CAG gets disabled** (maintenance / event): all kiosks hide their prompts, the card is unequipped, and transport falls back to plain BR charges. Your wallet balance, designs, and pass are preserved for when it comes back on.
+**முக்கியம்:** app-இல் உள்ள அனைத்து வாங்கும் பொத்தான்களும் (Reload, Buy/Renew Pass, Change Design) அருகிலுள்ள kiosk-க்கு **deep-link** செய்கின்றன. நீங்கள் போதுமான தூரத்தில் இருந்தால் (24 studs உள்ளே), kiosk UI தானாகவே திறக்கிறது. இல்லையெனில், எந்த kiosk அருகில் உள்ளது மற்றும் எவ்வளவு தொலைவில் உள்ளது என்பதைச் சொல்லும் ஒரு டோஸ்ட் கிடைக்கும் — செயலை முடிக்க அங்கு செல்லுங்கள். பரிவர்த்தனைகளுக்கு kiosk ஒரே உண்மை ஆதாரமாகும்.
 
 ---
 
-## Feature availability
+## குறிப்புகள் & கவனிக்க வேண்டியவை
 
-The entire CAG system can be toggled off by staff via an admin flag. When that happens:
-
-- Kiosks show no interact prompt.
-- Your card is temporarily removed from your backpack.
-- The Phone app shows a "CAG eWallet is currently unavailable" screen.
-- Buses, MRT, and TapNGo charge the full BR price from your wallet with no discount.
-- **Nothing is lost** — your balance, designs, and pass resume the moment the flag is turned back on.
+- **உங்கள் முதல் பயணத்திற்கு முன் கார்டு வாங்குங்கள்.** இது சுமார் 7 MRT பயணங்கள் அல்லது 7 டோல்களில் தன்னைத் தானே ஈட்டிக் கொடுக்கிறது.
+- **கார்டில் ஒரு சிறிய இருப்பை வைத்திருங்கள்.** அதை அதிகபட்சமாக்க வேண்டியதில்லை — பேருந்து கட்டணங்கள் சிறியவை.
+- **கடன் அமைதியானது ஆனால் நிஜமானது.** உங்கள் கார்டு காலியாக இருந்தாலும், பேருந்துகள் உங்களை பயணிக்க அனுமதிக்கும், ஆனால் கட்டணத்தை கடனாகப் பதிவு செய்கின்றன. அதை அழிக்க டாப்-அப் செய்யுங்கள்; நீங்கள் இறுதியில் 200 BR கடன் வரம்பை அடைவீர்கள்.
+- **உங்களால் cash out செய்ய முடியாது.** கார்டில் உள்ள பணம் ஒரு வழிப்பாதை — அதை போக்குவரத்தில் செலவு செய்யுங்கள், அதில் சேமிப்புகளைச் சேமிக்க வேண்டாம். (இது நிஜ Touch n Go-வுடன் பொருந்துகிறது.)
+- **மாதாந்தர பாஸ் MRT தள்ளுபடியுடன் அடுக்கிக்கொள்கிறது**, ஆனால் பேருந்து கட்டணத்துடன் அல்ல — பாஸ் = இலவச பேருந்துகள், தள்ளுபடி பேருந்துகள் அல்ல.
+- **kiosk prompts-க்கு பார்வைக் கோடு தேவை** — kiosk-ஐ உங்களால் பார்க்க முடியவில்லை என்றால், அதனுடன் தொடர்பு கொள்ள முடியாது. தடைக்கல்லைச் சுற்றி நடந்து செல்லுங்கள்.
+- **kiosk அமர்வுகள் 60 வினாடிகளுக்குப் பிறகு காலாவதியாகின்றன.** நீங்கள் விலகிச் சென்றால், மீண்டும் தொடர்பு கொள்ளுங்கள்.
+- **கருவிகளுக்கு விகித-வரம்பு உள்ளது.** வாலட் UI-இல் பொத்தான்களை ஸ்பாம் செய்வது உங்களைச் சுருக்கமாகப் பூட்டிவிடும். ஒரு முறை கிளிக் செய்து, செயல் செயலாக்கப்பட காத்திருங்கள் (பிஸியாக இருக்கும்போது பொத்தான் "…" காட்டுகிறது).
+- **டாக்ஸி மற்றும் இ-ஹெயிலிங் CAG-இல் இல்லை.** அவர்கள் தங்களுடைய சொந்த BR-அடிப்படையிலான கட்டணங்களைப் பயன்படுத்துகிறார்கள் — அவற்றுக்குப் பணம் எடுத்துச் செல்லுங்கள்.
+- **CAG முடக்கப்பட்டால்** (பராமரிப்பு / நிகழ்வு): அனைத்து kiosks தங்கள் prompts-ஐ மறைக்கின்றன, கார்டு கழற்றப்படுகிறது, மற்றும் போக்குவரத்து சாதாரண BR கட்டணங்களுக்குத் திரும்பும். உங்கள் வாலட் இருப்பு, டிசைன்கள், மற்றும் பாஸ் அது திரும்பும்போது பாதுகாக்கப்படுகின்றன.
 
 ---
 
-## See also
+## அம்ச கிடைக்கும் தன்மை
 
-- [Rules](/bandaraya/rules)
-- [Economy](/bandaraya/economy) — currency, shops, gamepasses
-- [Map](/bandaraya/locations) — where stations and terminals are
-- [Jobs](/bandaraya/jobs) — bus-driving, taxis
-- [Glossary](/bandaraya/glossary) — CAG, TapNGo, MRT
+முழு CAG கணினியும் ஒரு admin கொடி வழியாக ஊழியர்களால் ஆஃப் செய்யப்படலாம். அது நடக்கும்போது:
+
+- kiosks எந்த தொடர்பு prompt-ஐயும் காட்டுவதில்லை.
+- உங்கள் கார்டு உங்கள் backpack-இலிருந்து தற்காலிகமாக அகற்றப்படுகிறது.
+- Phone app ஒரு "CAG eWallet is currently unavailable" திரையைக் காட்டுகிறது.
+- பேருந்துகள், MRT, மற்றும் TapNGo உங்கள் வாலட்டிலிருந்து எந்த தள்ளுபடியும் இல்லாமல் முழு BR விலையையும் வசூலிக்கின்றன.
+- **எதுவும் இழக்கப்படவில்லை** — கொடி மீண்டும் இயக்கப்படும் தருணத்தில் உங்கள் இருப்பு, டிசைன்கள், மற்றும் பாஸ் மீண்டும் தொடங்கும்.
+
+---
+
+## இதையும் பார்க்கவும்
+
+- [விதிகள்](/bandaraya/rules)
+- [பொருளாதாரம்](/bandaraya/economy) — நாணயம், கடைகள், gamepasses
+- [வரைபடம்](/bandaraya/locations) — நிலையங்கள் மற்றும் முனையங்கள் எங்குள்ளன
+- [வேலைகள்](/bandaraya/jobs) — பேருந்து ஓட்டுதல், டாக்ஸிகள்
+- [சொற்களஞ்சியம்](/bandaraya/glossary) — CAG, TapNGo, MRT

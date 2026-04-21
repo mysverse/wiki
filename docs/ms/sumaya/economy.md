@@ -1,174 +1,173 @@
 ---
-title: Economy
-description: 'Ringgit (SR), wallet vs bank mechanics, and earning in Sumaya.'
+title: Ekonomi
+description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
 translated_from_hash: 44e97ed3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Ekonomi
 
-# Economy
+Mata wang Sumaya ialah **Ringgit**, disingkat sebagai **SR** (Sumaya Ringgit) dalam UI. Halaman ini menerangkan cara memperoleh, menyimpan, dan membelanjakannya.
 
-Sumaya's currency is the **Ringgit**, abbreviated **SR** (Sumaya Ringgit) in the UI. This page covers how to earn, store, and spend it.
+## Baki permulaan anda
 
-## Your starting balance
+Setiap pemain baharu bermula dengan:
 
-Every new player begins with:
+- **100 Ringgit** dalam **dompet**.
+- **1,000 Ringgit** dalam **bank**.
 
-- **100 Ringgit** in the **wallet**.
-- **1,000 Ringgit** in the **bank**.
+Itu sudah cukup untuk menyewa beberapa kenderaan permulaan, membeli rumah Tier 1 (200 SR), dan mengambil beberapa barangan kedai. Berbelanja dengan bijak pada permulaan.
 
-That's enough to rent some starter vehicles, buy a Tier 1 house (200 SR), and grab a few shop items. Spend wisely at first.
+## Dompet lawan bank
 
-## Wallet vs bank
+Anda mempunyai dua baki berasingan:
 
-You have two separate balances:
+### Dompet
 
-### Wallet
-
-- Carried on your person.
-- **Capped at 500 Ringgit**. ATMs refuse withdrawals that would push your wallet over 500, and player-to-player transfers are clamped to the receiving wallet's headroom.
-- What you spend on immediate purchases (shop items, some vehicle rentals).
-- Can be **stolen** via pickpocketing (80-300 Ringgit at a time, within 8 studs).
-- Most job rewards (Bomba/Polis/Kesihatan per-action pay, fishing, radar captures) are paid directly to the wallet - if it's full, overflow is dropped. Plan to deposit into the bank periodically.
+- Dibawa pada diri anda.
+- **Dihadkan pada 500 Ringgit**. ATM menolak pengeluaran yang akan menolak dompet anda melebihi 500, dan pemindahan pemain ke pemain dihadkan kepada ruang kosong dompet penerima.
+- Apa yang anda belanjakan untuk pembelian segera (barangan kedai, beberapa sewa kenderaan).
+- Boleh **dicuri** melalui seluk saku (80-300 Ringgit pada satu masa, dalam jarak 8 stud).
+- Kebanyakan ganjaran pekerjaan (bayaran setiap tindakan Bomba/Polis/Kesihatan, memancing, tangkapan radar) dibayar terus ke dompet - jika penuh, lebihan akan digugurkan. Rancang untuk mendepositkan ke bank secara berkala.
 
 ### Bank
 
-- Secured in your account.
-- Not vulnerable to pickpocketing.
-- Where career earnings (palm oil, carjack sales, animal trafficking) land by default.
-- Required for big purchases (houses, Tier 2/3 trawlers, premium vehicles).
-- Accessed via an **ATM** - see below.
+- Terjamin dalam akaun anda.
+- Tidak terdedah kepada seluk saku.
+- Tempat pendapatan kerjaya (kelapa sawit, jualan rampasan kereta, penyeludupan haiwan) mendarat secara lalai.
+- Diperlukan untuk pembelian besar (rumah, bot tunda Tier 2/3, kenderaan premium).
+- Diakses melalui **ATM** - lihat di bawah.
 
 ## ATM
 
-ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you can:
+ATM bertaburan di sekitar Sumaya (biasanya berhampiran kedai dan bank). Di ATM, anda boleh:
 
-- **Withdraw** from bank to your wallet. Can't withdraw an amount that would push your wallet over the 500 Ringgit cap.
-- **Deposit** from wallet to bank. No limit.
-- **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
+- **Keluarkan** dari bank ke dompet anda. Tidak boleh mengeluarkan jumlah yang akan menolak dompet anda melebihi had 500 Ringgit.
+- **Deposit** dari dompet ke bank. Tiada had.
+- **Pindah** kepada pemain lain mengikut **nama pengguna** mereka (bukan ID pengguna). Pemindahan ATM adalah **bank ke bank** sahaja.
 
-## Paying another player in person (Sadaqa / Donate)
+## Membayar pemain lain secara bersemuka (Sadaqa / Derma)
 
-For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
+Untuk penyerahan santai, lengkapkan alat **Wallet** anda dan dekati pemain lain. Gesaan **"Sadaqa to User?"** muncul apabila anda berada dalam jarak **10 stud** dari mereka (Sadaqa ialah istilah Melayu / Arab untuk pemberian amal).
 
-- **Wallet-to-wallet** transfer (not bank).
-- The receiver's wallet cap of 500 SR still applies - overfull wallets reject the donation.
-- Negative-amount transfers are blocked and flagged by the anti-cheat system, so don't try.
+- Pemindahan **dompet ke dompet** (bukan bank).
+- Had dompet penerima sebanyak 500 SR masih terpakai - dompet terlebih penuh akan menolak derma.
+- Pemindahan jumlah negatif disekat dan ditanda oleh sistem anti-penipuan, jadi jangan cuba.
 
-Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new player. For larger transfers, use the **ATM Transfer** (bank-to-bank by username).
+Gunakan Sadaqa untuk hadiah lakonan peranan pantas, berkongsi bil, atau membantu pemain baharu. Untuk pemindahan yang lebih besar, gunakan **ATM Transfer** (bank ke bank mengikut nama pengguna).
 
-## Earning Ringgit
+## Memperoleh Ringgit
 
-### From jobs
+### Daripada pekerjaan
 
-Per-action payouts. Totals depend on how long you work.
+Bayaran setiap tindakan. Jumlah bergantung pada berapa lama anda bekerja.
 
-| Source | Ringgit |
+| Sumber | Ringgit |
 |--------|---------|
-| Rod fishing (per species sold) | 8 SR to wallet |
-| Trawl fishing (per fish) | 0.5 SR, paid as end-of-shift paycheck |
-| Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
-| Fast Food (per customer) | 25 SR to bank, +150 every 10, -20 wrong-order |
-| Palm oil (per harvest) | Banked at end-of-shift, level-scaled |
-| Bomba (per fire block) | 15 SR to wallet |
-| Bomba (milestone every 15 blocks) | +150 SR bonus |
-| Kesihatan (bandage) | 100 SR to wallet |
-| Kesihatan (splint) | 200 SR to wallet |
-| Kesihatan (milestone every 10 treatments) | +150 SR bonus |
-| Polis (arrest, per star) | 150 / 300 / 500 / 800 / 1200 SR to wallet |
-| Polis (milestone every 5 arrests) | +200 SR bonus |
-| Polis (radar capture) | 50 SR to wallet |
+| Memancing joran (setiap spesies dijual) | 8 SR ke dompet |
+| Memancing tunda (setiap ikan) | 0.5 SR, dibayar sebagai gaji akhir syif |
+| Mamak (setiap pelanggan) | 30 SR ke bank, +180 setiap 10, -25 pesanan salah |
+| Makanan Segera (setiap pelanggan) | 25 SR ke bank, +150 setiap 10, -20 pesanan salah |
+| Kelapa sawit (setiap tuaian) | Dibankkan pada akhir syif, berskala mengikut tahap |
+| Bomba (setiap blok api) | 15 SR ke dompet |
+| Bomba (pencapaian setiap 15 blok) | +150 SR bonus |
+| Kesihatan (pembalut) | 100 SR ke dompet |
+| Kesihatan (anduh) | 200 SR ke dompet |
+| Kesihatan (pencapaian setiap 10 rawatan) | +150 SR bonus |
+| Polis (tangkapan, setiap bintang) | 150 / 300 / 500 / 800 / 1200 SR ke dompet |
+| Polis (pencapaian setiap 5 tangkapan) | +200 SR bonus |
+| Polis (tangkapan radar) | 50 SR ke dompet |
 
-### From crime
+### Daripada jenayah
 
-Higher risk, higher reward. Rewards go to your bank.
+Risiko lebih tinggi, ganjaran lebih tinggi. Ganjaran masuk ke bank anda.
 
-| Crime | Ringgit |
-|-------|---------|
-| Carjacking drop-off | 500 - 1,200 SR (random) to bank |
-| Pickpocket (player) | 80 - 300 SR to wallet (from victim) |
-| Pickpocket (NPC) | 50 - 200 SR per NPC |
-| Illegal Turtle Egg trafficking | 400 SR to bank |
-| Illegal Pangolin trafficking | 1,000 SR to bank |
-| Illegal Hornbill trafficking | 2,000 SR to bank |
+| Jenayah | Ringgit |
+|---------|---------|
+| Penghantaran rampasan kereta | 500 - 1,200 SR (rawak) ke bank |
+| Seluk saku (pemain) | 80 - 300 SR ke dompet (daripada mangsa) |
+| Seluk saku (NPC) | 50 - 200 SR setiap NPC |
+| Penyeludupan Telur Penyu haram | 400 SR ke bank |
+| Penyeludupan Tenggiling haram | 1,000 SR ke bank |
+| Penyeludupan Enggang haram | 2,000 SR ke bank |
 
-### From quests
+### Daripada misi
 
-The 12-quest chain pays a total of **2,900 Ringgit** from individual quest rewards plus a **1,500 Ringgit finale bonus**, for a total of **4,400 Ringgit** to your bank if you complete the whole chain. See [Quests](/sumaya/quests).
+Rantaian 12-misi membayar sejumlah **2,900 Ringgit** daripada ganjaran misi individu ditambah **bonus penamat 1,500 Ringgit**, dengan jumlah keseluruhan **4,400 Ringgit** ke bank anda jika anda menyelesaikan seluruh rantaian. Lihat [Misi](/sumaya/quests).
 
-## Biggest earners (ranked)
+## Pendapatan terbesar (disusun)
 
-Roughly, from highest per-hour to lowest, assuming you stay busy:
+Secara kasar, dari tertinggi sejam ke terendah, dengan andaian anda sentiasa sibuk:
 
-1. **Polis 5-star arrests** - 1,200 SR each. If criminals are online, this is gold.
-2. **Animal trafficking (Hornbill)** - 2,000 SR per run. 5-min cooldown though.
-3. **Bomba fires** - 15 SR per block + milestone bonus every 15 blocks. Group of firefighters = fast.
-4. **Carjacking** - 500-1,200 SR per job. Once per 5 min, risky.
-5. **Kesihatan splints** - 200 SR per splint + milestone bonus.
-6. **Pickpocket NPCs** - 50-200 SR per pick, low risk, steady.
-7. **Palm oil shifts** - steady, level-dependent, end-of-shift banking.
-8. **Service sector orders** - steady, scales with level.
-9. **Rod fishing** - quick SR, player XP only, best for casual play.
-10. **Trawl fishing** - slower SR but the only way to level the fishing sector.
+1. **Tangkapan Polis 5 bintang** - 1,200 SR setiap satu. Jika penjenayah dalam talian, ini ialah emas.
+2. **Penyeludupan haiwan (Enggang)** - 2,000 SR setiap kali. Tetapi cooldown 5 minit.
+3. **Kebakaran Bomba** - 15 SR setiap blok + bonus pencapaian setiap 15 blok. Kumpulan anggota bomba = pantas.
+4. **Rampasan kereta** - 500-1,200 SR setiap kerja. Sekali setiap 5 minit, berisiko.
+5. **Anduh Kesihatan** - 200 SR setiap anduh + bonus pencapaian.
+6. **Seluk saku NPC** - 50-200 SR setiap seluk, risiko rendah, stabil.
+7. **Syif kelapa sawit** - stabil, bergantung pada tahap, pembankkan akhir syif.
+8. **Pesanan sektor perkhidmatan** - stabil, berskala dengan tahap.
+9. **Memancing joran** - SR pantas, XP pemain sahaja, terbaik untuk permainan santai.
+10. **Memancing tunda** - SR lebih perlahan tetapi satu-satunya cara untuk menaikkan tahap sektor perikanan.
 
-## Spending Ringgit
+## Membelanjakan Ringgit
 
-### Vehicles
+### Kenderaan
 
-Where most of your money will go.
+Di mana kebanyakan wang anda akan pergi.
 
-- **Free civilian cars** - dozens available at player level 1. Just rent and drive.
-- **Premium civilian cars** - 2,000-29,000 Ringgit. The Joguar XJ308 R is the cap.
-- **Fishing trawlers** - Tier 1 free, Tier 2 25,000, Tier 3 37,000.
-- **Team vehicles** - 6,500-20,000 Ringgit, gated by sector level.
+- **Kereta awam percuma** - berpuluh-puluh tersedia pada tahap pemain 1. Hanya sewa dan pandu.
+- **Kereta awam premium** - 2,000-29,000 Ringgit. Joguar XJ308 R ialah had tertinggi.
+- **Bot tunda memancing** - Tier 1 percuma, Tier 2 25,000, Tier 3 37,000.
+- **Kenderaan pasukan** - 6,500-20,000 Ringgit, dipagari oleh tahap sektor.
 
-See [Vehicles](/sumaya/vehicles).
+Lihat [Kenderaan](/sumaya/vehicles).
 
-### Housing
+### Perumahan
 
-- **Plot**: free (one per player).
-- **Tier 1 house** (Small Bornean): 200 Ringgit.
-- **Tier 2 house**: 500-700 Ringgit.
-- **Tier 3 house** (Modern Terrace): 1,200 Ringgit.
-- **Furniture**: per-item prices, typically 50-500 Ringgit each.
+- **Plot**: percuma (satu setiap pemain).
+- **Rumah Tier 1** (Small Bornean): 200 Ringgit.
+- **Rumah Tier 2**: 500-700 Ringgit.
+- **Rumah Tier 3** (Modern Terrace): 1,200 Ringgit.
+- **Perabot**: harga setiap item, biasanya 50-500 Ringgit setiap satu.
 
-See [Housing](/sumaya/housing).
+Lihat [Perumahan](/sumaya/housing).
 
-### Shops
+### Kedai
 
-Prices vary widely. A rough range:
+Harga berbeza-beza. Julat kasar:
 
-- **Food items** from food stalls: 1-5 SR (cosmetic / roleplay tools, don't actually restore hunger in the current build).
-- **Gas cans** for boats: 75-125 SR. Red adds +25 fuel (75 SR), Green adds +50 fuel (100 SR), Black adds +75 fuel (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** - trying to top off an already-high boat does nothing and doesn't consume the can.
-- **Tools** (Slim Jim, Pickpocket Knife, etc.): 50-500 SR.
-- **Cosmetic items**: variable.
+- **Item makanan** dari gerai makanan: 1-5 SR (alat kosmetik / lakonan peranan, tidak memulihkan kelaparan dalam binaan semasa).
+- **Tin minyak** untuk bot: 75-125 SR. Merah menambah +25 minyak (75 SR), Hijau menambah +50 minyak (100 SR), Hitam menambah +75 minyak (125 SR). Minyak bot maksimum ialah 100; lebihan dihadkan. **Isian semula hanya berfungsi apabila minyak semasa di bawah 75** - cuba mengisi penuh bot yang sudah tinggi tidak melakukan apa-apa dan tidak menggunakan tin tersebut.
+- **Alat** (Slim Jim, Pickpocket Knife, dll.): 50-500 SR.
+- **Item kosmetik**: pelbagai.
 
-Shops are scattered across Sumaya. The minimap marks each one.
+Kedai bertaburan di seluruh Sumaya. Minimap menandakan setiap satu.
 
-## Milestone bonuses (stack these)
+## Bonus pencapaian (susun ini)
 
-Remember:
+Ingat:
 
-- Bomba: **+150 SR every 15 blocks**.
-- Kesihatan: **+150 SR every 10 treatments**.
-- Polis: **+200 SR every 5 arrests**.
+- Bomba: **+150 SR setiap 15 blok**.
+- Kesihatan: **+150 SR setiap 10 rawatan**.
+- Polis: **+200 SR setiap 5 tangkapan**.
 
-These stack on top of per-action payouts. Plan your session to hit milestones, not just end arbitrarily.
+Ini bertimbun di atas bayaran setiap tindakan. Rancang sesi anda untuk mencapai pencapaian, bukan sekadar berhenti secara sewenang-wenangnya.
 
-## Tips
+## Petua
 
-- **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
-- **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
-- **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Don't spend every Ringgit on cars when a nice tier-3 house is only 1,200 SR away.
-- **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
-- **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
-- **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
+- **Bankkan sebahagian besar Ringgit anda.** Dompet adalah untuk berbelanja, bank adalah untuk menyimpan. Jangan sekali-kali membawa lebih daripada yang anda mampu hilangkan dalam dompet.
+- **Tangkapan 5 bintang ialah jackpot.** Jika anda Polis dan seseorang di 120+ mata kesalahan, kem mereka.
+- **Penyeludupan bernilai tinggi tetapi berisiko tinggi.** 2,000 SR untuk Enggang adalah hebat, tetapi anda akan mendapat bintang pada diri anda. Rancang untuk ini.
+- **Simpan sebelum anda beli.** Jangan belanjakan setiap Ringgit pada kereta apabila rumah tier-3 yang bagus hanya berjauhan 1,200 SR.
+- **Bot tunda membayar balik sendiri.** Tier 2 pada 25,000 SR terasa mahal, tetapi jika anda komited untuk memancing, kapasiti tambahan memulihkan kosnya.
+- **Sinergi pasukan.** Rakan sepasukan Bomba + Kesihatan di kawasan yang sama = anda berdua memperoleh. Perubatan mendapat pesakit (mangsa terbakar), Bomba mendapat rakan sepasukan berhampiran kebakaran untuk 10 XP setiap satu.
+- **Jangan abaikan aplikasi 999.** Panggilan awam memberi pasukan kecemasan bayaran mudah - hantar mereka dan anda mungkin mendapat interaksi berdekatan ganjaran.
 
-## What next?
+## Apa seterusnya?
 
-- [Progression](/sumaya/progression) for how XP and Ringgit interact.
-- [Vehicles](/sumaya/vehicles) for the price catalog.
-- [Housing](/sumaya/housing) for house prices.
-- [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.
+- [Kemajuan](/sumaya/progression) untuk bagaimana XP dan Ringgit berinteraksi.
+- [Kenderaan](/sumaya/vehicles) untuk katalog harga.
+- [Perumahan](/sumaya/housing) untuk harga rumah.
+- [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk sisi jenayah ekonomi.

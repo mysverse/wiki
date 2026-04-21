@@ -1,32 +1,31 @@
 ---
-title: Fishing
-description: 'Fishing in Sumaya — spots, fish types, prices, and progression.'
+title: 捕鱼
+description: Sumaya 的捕鱼 — 钓点、鱼种、价格和职业晋升。
 lang: zh
 translated_from_hash: 3f6d4e33
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 捕鱼
 
-# Fishing
+捕鱼是 Sumaya 三个平民职业之一。你可以用两种方式捕鱼:在码头用**鱼竿**(快速、休闲),或在水上用**拖网渔船**(大规模、职业级的磨练)。这两个系统的报酬不同,升级的内容也不同。
 
-Fishing is one of Sumaya's three civilian careers. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
+## 开始
 
-## Getting started
+1. 打开手机并点击 **Careers** 应用。
+2. 选择 **Fishing Sector**。
+3. 前往钓鱼点 - Careers 应用和导引光束会指向最近的码头或栈桥。
+4. 按下 **clock in** 提示。
 
-1. Open your phone and tap the **Careers** app.
-2. Pick **Fishing Sector**.
-3. Head to a fishing spot - the Careers app and the guidance beam will point you to the nearest dock or pier.
-4. Press the **clock in** prompt.
+当你开始上班后,你的背包里会有一支鱼竿,钓鱼 HUD 也会显示出来。
 
-Once you're on shift, you'll get a fishing rod in your backpack and the fishing HUD appears.
+## 鱼竿钓鱼(休闲)
 
-## Rod fishing (casual)
+装备鱼竿,瞄准 **80 studs** 范围内的水面,然后抛竿。每次抛竿大约有**三分之一的机率**钓到鱼。把钓到的鱼收线拉上来。
 
-Equip the rod, aim at water within **80 studs**, and cast. There's roughly a **1-in-3 chance** of a catch per cast. Reel in what you hook.
+Sumaya 有**5 种**鱼可以用鱼竿钓到:
 
-Sumaya has **5 species** of fish you can catch with the rod:
-
-| Fish | XP | Ringgit |
+| 鱼 | XP | Ringgit |
 |------|-----|---------|
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
@@ -34,76 +33,76 @@ Sumaya has **5 species** of fish you can catch with the rod:
 | Pelian | 15 | 8 |
 | Tapah | 15 | 8 |
 
-XP and Ringgit payouts are applied when you **sell** the fish at the dock.
+XP 和 Ringgit 奖励会在你于码头**出售**鱼时发放。
 
-**Important:** rod fishing XP only levels your **player account** (global XP), not your fishing sector level. If you want to climb the fishing sector ladder and unlock better trawlers, you need to trawl.
+**重要:**鱼竿钓鱼的 XP 只会提升你的**玩家账号**(全局 XP),不会提升你的捕鱼职业等级。如果你想爬上捕鱼职业的阶梯并解锁更好的拖网渔船,你就必须使用拖网。
 
-## Trawl fishing (sector grind)
+## 拖网捕鱼(职业磨练)
 
-The big earner is **trawl fishing** with a boat. You spawn a trawler from a water-side vehicle spawner, drive out, and pull fish in bulk.
+大笔收入来自用船进行**拖网捕鱼**。你从水边的载具生成器生成一艘拖网渔船,驶出海,然后大量捕鱼。
 
-### Per-fish rewards
+### 每条鱼的奖励
 
-Trawling is flat-rate:
+拖网是定额的:
 
-- **2 XP** per fish (both player and fishing sector)
-- **0.5 Ringgit** per fish
+- 每条鱼 **2 XP**(玩家和捕鱼职业都算)
+- 每条鱼 **0.5 Ringgit**
 
-The numbers look small, but trawlers hold a lot of fish, and sector XP lets you afford bigger boats.
+数字看起来不大,但拖网渔船可以装很多鱼,而职业 XP 让你能买更大的船。
 
-### Trawler boats
+### 拖网渔船
 
-| Tier | Price | How to get |
+| 级别 | 价格 | 如何取得 |
 |------|-------|------------|
-| Tier 1 Trawler | Free while you're on a fishing shift | Spawn at any fishing-boat spawner |
-| Tier 2 Trawler | 25,000 Ringgit to buy | Earn and save up |
-| Tier 3 Trawler | 37,000 Ringgit to buy | For serious fishing enthusiasts |
+| Tier 1 Trawler | 捕鱼班期间免费 | 在任何捕鱼船生成器生成 |
+| Tier 2 Trawler | 25,000 Ringgit 购买 | 赚钱存下 |
+| Tier 3 Trawler | 37,000 Ringgit 购买 | 给认真的捕鱼爱好者 |
 
-Each tier up gives you more capacity. The Tier 1 trawler is free every shift, so you can start trawl fishing immediately - you only pay for the nicer boats.
+每升一级都会给你更多容量。Tier 1 拖网渔船每班都免费,所以你可以立即开始拖网捕鱼 - 你只需为更好的船付钱。
 
-Trawlers can run out of fuel on long trips. Keep an eye on the fuel gauge on your HelmGui (fuel is tracked per-shift for the captain, not per-vehicle purchase). Trawlers start with the fuel stored against your last shift's remaining balance (or the default if first shift).
+拖网渔船在长途航行中可能会耗尽燃油。留意 HelmGui 上的油表(燃油是按班次追踪船长的,不是按载具购买)。拖网渔船开始时会使用你上一班剩余的燃油(或者首次上班时的默认值)。
 
-**Refueling:** Buy a **Gas Can** from the Boat Gas Can shop - Red (+25 fuel, 75 SR), Green (+50 fuel, 100 SR), or Black (+75 fuel, 125 SR). Equip it and use the trawler's interact prompt. Note: fuel caps at 100, and **refill only works when your current fuel is below 75** - you can't top off a mostly-full tank.
+**加油:**从 Boat Gas Can 商店购买 **Gas Can** - 红色(+25 燃油,75 SR)、绿色(+50 燃油,100 SR)或黑色(+75 燃油,125 SR)。装备它并使用拖网渔船的互动提示。注意:燃油上限为 100,**只有当你当前燃油低于 75 时才可加油** - 你不能给快满的油箱加油。
 
-### How to trawl fish
+### 如何拖网捕鱼
 
-1. Clock in to the fishing sector.
-2. Walk up to a fishing boat spawner at a dock.
-3. Spawn a trawler.
-4. Drive the boat out to open water.
-5. Use the trawl to pull in fish.
-6. Come back to the dock to sell and/or unload.
+1. Clock in 到捕鱼职业。
+2. 走到码头的捕鱼船生成器。
+3. 生成一艘拖网渔船。
+4. 把船开到公海。
+5. 使用拖网捕鱼。
+6. 回到码头出售和/或卸货。
 
-## Clocking out and selling
+## 下班和出售
 
-When you clock out, your total trawl earnings are paid to you as a single paycheck. You'll see a **Nelayan Sdn. Bhd.** ("Fisherman Co.") pay slip when the shift ends.
+当你 clock out 时,你的全部拖网收入会作为一张薪水单发给你。班次结束时,你会看到一张 **Nelayan Sdn. Bhd.**(渔夫公司)的薪水单。
 
-Rod-fished fish are sold individually at a shop prompt instead of waiting for end-of-shift.
+用鱼竿钓的鱼是在商店提示处逐条出售,而不是等到班次结束。
 
-## Leveling up
+## 升级
 
-The fishing sector goes up to **level 100**. Only **trawl fishing** earns sector XP - rod fishing pays player XP only.
+捕鱼职业最高可达**第 100 级**。只有**拖网捕鱼**会赚取职业 XP - 鱼竿钓鱼只给玩家 XP。
 
-Higher sector level doesn't directly increase your per-fish rewards. What it does:
+较高的职业等级不会直接增加每条鱼的奖励。它的作用是:
 
-- Better rank titles (nothing mechanical, just prestige).
-- Unlocks the `Token_Keli` token at **level 50**, which is the threshold for unlocking the **Service sector** (Mamak / Fast Food).
+- 更好的职阶头衔(没有机制作用,只是威望)。
+- 在**第 50 级**解锁 `Token_Keli` 代币,这是解锁**服务业**(Mamak / Fast Food)的门槛。
 
-## Unlocking the service sector
+## 解锁服务业
 
-Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unlock the ability to work in the **service sector** (Mamak / Fast Food). See [Service sector](/sumaya/jobs-service).
+在捕鱼职业(或农业 / 棕油)达到**第 50 级**,你就会解锁在**服务业**(Mamak / Fast Food)工作的能力。请参阅[服务业](/sumaya/jobs-service)。
 
-## Tips
+## 小贴士
 
-- **Rod for fast player XP, trawl for sector grind.** If you want to level the fishing sector, trawl - rod fishing doesn't touch it.
-- **Stack with the Kesihatan +15% boost.** It applies to player XP on both rod and trawl.
-- **Fish-and-chat.** Trawling is almost a background activity - you can chat, AFK slightly, drive back to a dock between runs.
-- **Watch the fuel on boats.** Don't go far out if your gauge is low - you'll coast back empty.
-- **Dock respawn.** If you die while fishing, your shift ends. Just re-clock in.
-- **Multiplier cap is 5.** Rod rewards can be multiplied up to 5x by in-world bonuses; beyond that the server caps it.
+- **鱼竿快速刷玩家 XP,拖网刷职业等级。**如果你想提升捕鱼职业等级,就去拖网 - 鱼竿钓鱼不会算在内。
+- **叠加 Kesihatan +15% 加成。**它适用于鱼竿和拖网的玩家 XP。
+- **边钓鱼边聊天。**拖网几乎是一项背景活动 - 你可以聊天、稍微挂机,或在两次出海之间开回码头。
+- **注意船的燃油。**如果油表低就不要开太远 - 你会没油漂回来。
+- **码头复活。**如果你在钓鱼时死亡,你的班次就结束了。再次 clock in 即可。
+- **倍数上限为 5。**鱼竿奖励可以被世界内加成最多乘以 5x;超过后服务器就会上限。
 
-## What next?
+## 接下来做什么?
 
-- [Service sector](/sumaya/jobs-service) once you're fishing sector level 50.
-- [Palm oil](/sumaya/jobs-palm-oil) if you want higher payouts.
-- [Vehicles](/sumaya/vehicles) for the trawler spawner details.
+- [服务业](/sumaya/jobs-service),在你达到捕鱼职业第 50 级后。
+- [棕油](/sumaya/jobs-palm-oil),如果你想要更高报酬。
+- [载具](/sumaya/vehicles),关于拖网渔船生成器的详情。

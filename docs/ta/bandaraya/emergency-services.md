@@ -1,276 +1,275 @@
 ---
-title: Emergency Services
+title: அவசர சேவைகள்
 description: >-
-  PDRM, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security
-  services of Bandaraya.
+  PDRM, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD — Bandaraya-வின் அவசர மற்றும்
+  பாதுகாப்பு சேவைகள்.
 lang: ta
 translated_from_hash: 01ab80d6
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# அவசர சேவைகள்
 
-# Emergency Services
+பொது சேவைப் பாத்திரத்தை ஏற்று நடிப்பது — காவல்துறை, தீயணைப்பு, மருத்துவம், ராணுவம் — Bandaraya-வின் ரோல்பிளேயின் இதயம். ஒவ்வொரு குழுவும் என்ன செய்கிறது, அவர்களுக்கு என்ன கருவிகள் வழங்கப்படுகின்றன, மற்றும் சீருடை அணிபவர்களிடமிருந்து என்ன எதிர்பார்க்கப்படுகிறது என்பதை இந்தப் பக்கம் விளக்குகிறது.
 
-Playing a public service role — police, fire, medical, military — is the heart of Bandaraya's roleplay. This page covers what each team does, what tools they're given, and what's expected of the people who wear the uniform.
+## சுருக்கம்
 
-## TL;DR
-
-| Team | What you do | Arrest power | Big tools |
+| குழு | நீங்கள் என்ன செய்கிறீர்கள் | கைது அதிகாரம் | முக்கிய கருவிகள் |
 | --- | --- | --- | --- |
-| **PDRM** | Patrol, respond to crime, detain, arrest | Yes | X26P taser, cuff, saman, fingerprint scanner |
-| **BOMBA** | Fight fires, medical carry, rescue | No | Fire hose, searchlight, carry |
-| **KKM** | Treat injured players, staff hospital | No | Medical placeables, torchlight |
-| **SJAM** | Volunteer ambulance | No | Torchlight only (basic) |
-| **RELA** | Volunteer policing support | Limited | Wooden baton, search, torchlight |
-| **MAF / KPTD** | Military, parade, ceremonial; MP arrests | KPTD: yes | Various military equipment |
+| **PDRM** | ரோந்து, குற்றத்திற்குப் பதிலளித்தல், தடுப்பு, கைது | உண்டு | X26P டேசர், விலங்கு, saman, கைரேகை ஸ்கேனர் |
+| **BOMBA** | தீ அணைத்தல், மருத்துவச் சுமத்தல், மீட்பு | இல்லை | தீயணைப்புக் குழாய், தேடல் விளக்கு, சுமத்தல் |
+| **KKM** | காயமடைந்த வீரர்களுக்குச் சிகிச்சை, மருத்துவமனைப் பணி | இல்லை | மருத்துவ placeables, மின்சார விளக்கு |
+| **SJAM** | தன்னார்வ ஆம்புலன்ஸ் | இல்லை | மின்சார விளக்கு மட்டும் (அடிப்படை) |
+| **RELA** | தன்னார்வ காவல்துறை ஆதரவு | வரையறுக்கப்பட்டது | மரத் தடி, தேடல், மின்சார விளக்கு |
+| **MAF / KPTD** | ராணுவம், அணிவகுப்பு, சடங்கு; MP கைது | KPTD: உண்டு | பல்வேறு ராணுவ உபகரணங்கள் |
 
 ---
 
-## PDRM (Polis Diraja Malaysia) — The Police
+## PDRM (Polis Diraja Malaysia) — காவல்துறை
 
-Group: 1182710, 3048630. Any rank.
+குழு: 1182710, 3048630. எந்த தரமும்.
 
-### What you do
+### நீங்கள் என்ன செய்கிறீர்கள்
 
-- Patrol KL in marked units (Civic MPV, Inspira, X70, Hilux).
-- Respond to 999 calls (fire, crime, accidents).
-- Detain and arrest suspects. See [Arrest & Law](/bandaraya/arrest-and-law).
-- Issue summons (saman) for traffic violations.
-- Use the **MDT tablet app** to check BGs, run BOLOs, alert other officers.
-- Staff **IPD Dang Wangi** — the main police station (CID, JSPT, Ops Room, Armoury).
+- குறியிடப்பட்ட அலகுகளில் KL-ஐ ரோந்துசெய்யவும் (Civic MPV, Inspira, X70, Hilux).
+- 999 அழைப்புகளுக்குப் பதிலளிக்கவும் (தீ, குற்றம், விபத்துகள்).
+- சந்தேகத்திற்கு உள்ளானவர்களைத் தடுத்து கைது செய்யவும். [கைது & சட்டம்](/bandaraya/arrest-and-law)-ஐப் பார்க்கவும்.
+- போக்குவரத்து மீறல்களுக்கு saman வழங்கவும்.
+- BG-களைச் சரிபார்க்க, BOLO-களை இயக்க, மற்ற அதிகாரிகளை எச்சரிக்க **MDT டேப்லெட் பயன்பாட்டை** பயன்படுத்தவும்.
+- **IPD Dang Wangi**-ல் பணிபுரியவும் — முக்கிய காவல் நிலையம் (CID, JSPT, Ops Room, Armoury).
 
-### Tools
+### கருவிகள்
 
-| Tool | Use |
+| கருவி | பயன் |
 | --- | --- |
-| **X26P** | Taser — non-lethal suspect subdue |
-| **T-Baton** | Melee |
-| **Cuff** | Handcuff a detained suspect |
-| **Search** | Request search consent from player |
-| **Saman** | Issue a summons / fine |
-| **CL2** | Pepper spray |
-| **RadarGun** | Speed detection |
-| **Torchlight** | Illuminate dark areas |
-| **FingerPrint Scanner** | ID verification |
-| **Clamp** | Wheel-clamp illegally parked vehicles |
-| **Traffic Wand** | Direct traffic |
-| **Whistle** | Traffic control / alert |
-| **Police Tape** | Cordon scenes |
-| **PDRM Placeables** | Cones, signs, barriers |
+| **X26P** | டேசர் — கொல்லாத வகையில் சந்தேகநபரை அடக்குதல் |
+| **T-Baton** | நெருக்கமான போர் |
+| **Cuff** | தடுக்கப்பட்ட சந்தேகநபருக்கு கைவிலங்கு |
+| **Search** | வீரரிடமிருந்து தேடல் ஒப்புதல் கோருதல் |
+| **Saman** | samman / அபராதம் வழங்குதல் |
+| **CL2** | மிளகு தெளிப்பான் |
+| **RadarGun** | வேகம் கண்டறிதல் |
+| **Torchlight** | இருண்ட பகுதிகளை ஒளிரச் செய்தல் |
+| **FingerPrint Scanner** | ID சரிபார்ப்பு |
+| **Clamp** | சட்டவிரோதமாக நிறுத்தப்பட்ட வாகனங்களுக்கு சக்கர-விலங்கு |
+| **Traffic Wand** | போக்குவரத்தை இயக்குதல் |
+| **Whistle** | போக்குவரத்து கட்டுப்பாடு / எச்சரிக்கை |
+| **Police Tape** | குற்றச் சம்பவத்தை மூடுதல் |
+| **PDRM Placeables** | கூம்புகள், அறிகுறிகள், தடைகள் |
 
-### Vehicles (70+)
+### வாகனங்கள் (70+)
 
-PDRM have the biggest fleet:
+PDRM மிகப்பெரிய கடற்படையைக் கொண்டுள்ளது:
 
-- **Patrol / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, Toyota Hilux variants, Perodua Aruz/Bezza
-- **HPV** (High Performance) — Civic Type R, Outlander, CX-5, Lancer Evo X
-- **Escort** — Inspira 1.8, Civic Type R, Volvo S90 T5
-- **UTK** (Special Tactics) — Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
+- **ரோந்து / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, Toyota Hilux வகைகள், Perodua Aruz/Bezza
+- **HPV** (உயர் செயல்திறன்) — Civic Type R, Outlander, CX-5, Lancer Evo X
+- **அணிவகுப்பு** — Inspira 1.8, Civic Type R, Volvo S90 T5
+- **UTK** (சிறப்புத் தந்திரங்கள்) — Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
 - **CID** — CID K9, CID Hilux, CID Bike
-- **Unmarked** — Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
-- **Transport** — Hiace variants, HICOM Handalan II, Hilux cargo
-- **Tow** — Isuzu Tow Truck, Hino/Fuso Tow
-- **Riot** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
-- **Motorcycles** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
-- **Armoured** — **AV4** and **V150** (bulletproof)
+- **குறியிடப்படாத** — Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
+- **போக்குவரத்து** — Hiace வகைகள், HICOM Handalan II, Hilux சரக்கு
+- **இழுப்பு** — Isuzu Tow Truck, Hino/Fuso Tow
+- **கலகம்** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
+- **மோட்டார்சைக்கிள்கள்** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
+- **கவசமிட்ட** — **AV4** மற்றும் **V150** (தோட்டாத் தாங்கும்)
 
-### Helicopters
+### ஹெலிகாப்டர்கள்
 
-PDRM has a **PDRMHeliSpawner** — aerial policing. Spawn from station ViewportFrame picker.
+PDRM-க்கு ஒரு **PDRMHeliSpawner** உள்ளது — வானிலிருந்து காவல்துறை. நிலைய ViewportFrame தேர்வாளரிலிருந்து spawn செய்யவும்.
 
-### Expectations
+### எதிர்பார்ப்புகள்
 
-- **Going rogue as PDRM is a severe violation.** Police committing crimes = ban.
-- Follow roleplay protocols — announce yourself, state the charge, give the suspect a chance to comply.
-- Use tablet MDT to BOLO suspects; other officers will get a badge + sound + toast alert.
+- **PDRM-ஆக rogue ஆவது கடுமையான மீறல்.** காவல்துறை குற்றங்களைச் செய்தல் = ban.
+- ரோல்பிளே நெறிமுறைகளைப் பின்பற்றவும் — உங்களை அறிமுகப்படுத்தவும், குற்றத்தை குறிப்பிடவும், சந்தேகநபருக்கு இணங்க ஒரு வாய்ப்பளிக்கவும்.
+- சந்தேகநபர்களை BOLO செய்ய டேப்லெட் MDT-யைப் பயன்படுத்தவும்; மற்ற அதிகாரிகள் badge + ஒலி + toast எச்சரிக்கையைப் பெறுவார்கள்.
 
-See [Arrest & Law](/bandaraya/arrest-and-law) for the full arrest flow.
-
----
-
-## BOMBA (Jabatan Bomba dan Penyelamat) — Fire & Rescue
-
-Group: 2957304. Any rank.
-
-### What you do
-
-- Respond to **fire incidents** that spawn around KL (10-minute incidents until extinguished).
-- Operate **hydrants** and **fire hoses**.
-- **Carry** injured civilians or fellow firefighters.
-- Use **Thermal Imaging Camera** for smoke-filled scenes.
-- Staff the BOMBA station.
-
-### Tools
-
-| Tool | Use |
-| --- | --- |
-| **Searchlight** | Illuminate scenes |
-| **Bomba Placeables** | Cones, signs, barriers at incidents |
-| **Bomba Tape** | Cordon scenes |
-| **Traffic Wand** | Direct traffic at scenes |
-| **Carry** | Pick up downed civilians |
-| **Fire Hose** (attached to hydrant) | Extinguish fires |
-
-### Vehicles (14+)
-
-- **Fire engines**: P310 FRT, 94D LFRT, Mercedes-Atego LFRT
-- **Specialist**: P310 Hazmat, P310 ALP, Hiace MTV (EMRS)
-- **Motorcycles**: BMW R1250RT (MOTO FIRE, MOTO MEDIC)
-- **Transport**: HICOM Handalan II Transport, HICOM + Sampan (boat), Mitsubishi Triton Emergency, Westar Maxus V80 Forensic, STORM Hilux
-- **Utility**: Mazda CX-5 2022, Triton Utility
-
-### Helicopters
-
-**BOMBAHeliSpawner** — aerial firefighting/rescue.
-
-### Fire incidents
-
-Fires spawn around the map when **at least one BOMBA member is online**. Your client gets an alert (map pin + sound + tablet notification) when you're on BOMBA. Drive to the incident, get water flowing on the fire blocks, put it out.
-
-- **Duration cap**: 10 minutes per incident — if not extinguished in time, the incident is force-cleaned.
-- **Cooldown**: 5 minutes after an incident ends before a new one can spawn.
-- **Require BOMBA online**: if all BOMBA leave duty mid-incident, the fire is automatically cleaned up.
-- **Late joiners**: if you switch to BOMBA mid-incident, your client asks the server for the current state and the map pin shows up immediately.
-- **5 hydrants** across the map — place yourself strategically.
-- **Auto-sign** — joining BOMBA automatically clocks you in for duty tracking (Discord webhook per session).
+முழுமையான கைது ஓட்டத்திற்கு [கைது & சட்டம்](/bandaraya/arrest-and-law)-ஐப் பார்க்கவும்.
 
 ---
 
-## KKM (Kementerian Kesihatan) — Health Ministry
+## BOMBA (Jabatan Bomba dan Penyelamat) — தீ & மீட்பு
 
-Group: 5760632. Any rank.
+குழு: 2957304. எந்த தரமும்.
 
-### What you do
+### நீங்கள் என்ன செய்கிறீர்கள்
 
-- Treat **downed / injured players**. When any medic team is on duty (KKM or SJAM), the global bleedout timer is 5 minutes (gives medics time to arrive) and passive regen is suspended.
-- Staff the **KKM Ampang Clinic** and **Prince Court Medical Centre**.
-- Use medical kit items to manage injuries (bandage, morphine, tourniquet, bag of blood, IV catheter, O2, etc.).
-- Log medical actions via the **KKM Logger** tablet app.
+- KL-ஐச் சுற்றி spawn ஆகும் **தீ சம்பவங்களுக்குப்** பதிலளிக்கவும் (அணைக்கப்படும் வரை 10-நிமிட சம்பவங்கள்).
+- **தீயணைப்பு நீர்க்குழாய்கள்** மற்றும் **தீயணைப்புக் குழாய்களை** இயக்கவும்.
+- காயமடைந்த பொதுமக்கள் அல்லது சக தீயணைப்பு வீரர்களை **சுமக்கவும்**.
+- புகை நிறைந்த காட்சிகளுக்கு **வெப்ப பிம்ப கேமராவை** பயன்படுத்தவும்.
+- BOMBA நிலையத்தில் பணிபுரியவும்.
 
-### Tools
+### கருவிகள்
 
-| Tool | Use |
+| கருவி | பயன் |
 | --- | --- |
-| **Torchlight** | Illuminate |
-| **KKM Placeables** | Medical scene placeables |
-| **Traffic Wand** | At scenes |
-| **Carry** | Move injured players |
-| **Full medical kit** (from armoury) | See [Combat & Health](/bandaraya/combat-and-health#medical-kit-items) |
+| **Searchlight** | சம்பவ இடங்களை ஒளிரச் செய்தல் |
+| **Bomba Placeables** | சம்பவங்களில் கூம்புகள், அறிகுறிகள், தடைகள் |
+| **Bomba Tape** | சம்பவ இடங்களை மூடுதல் |
+| **Traffic Wand** | சம்பவ இடங்களில் போக்குவரத்தை இயக்குதல் |
+| **Carry** | விழுந்த பொதுமக்களை தூக்குதல் |
+| **Fire Hose** (தீயணைப்பு நீர்க்குழாயுடன் இணைக்கப்பட்டது) | தீ அணைத்தல் |
 
-### Vehicles
+### வாகனங்கள் (14+)
 
-KKM have ambulances, RRVs (Rapid Response Vehicles), and utility. Includes KKM Mercedes Sprinter, Iveco Ambulance, RRV Honda City, RRV Proton Inspira, Toyota Hiace Passenger Van.
+- **தீயணைப்பு வண்டிகள்**: P310 FRT, 94D LFRT, Mercedes-Atego LFRT
+- **சிறப்பு**: P310 Hazmat, P310 ALP, Hiace MTV (EMRS)
+- **மோட்டார்சைக்கிள்கள்**: BMW R1250RT (MOTO FIRE, MOTO MEDIC)
+- **போக்குவரத்து**: HICOM Handalan II Transport, HICOM + Sampan (படகு), Mitsubishi Triton Emergency, Westar Maxus V80 Forensic, STORM Hilux
+- **பயன்பாடு**: Mazda CX-5 2022, Triton Utility
 
-### Healing a player
+### ஹெலிகாப்டர்கள்
 
-1. Arrive at the downed player.
-2. Use kit items — bandage (stop bleeding), morphine (pain), blood bag (blood loss), etc.
-3. Use **defib** if they flatlined.
-4. Their state recovers over time.
+**BOMBAHeliSpawner** — வான் வழி தீயணைப்பு/மீட்பு.
 
-See [Combat & Health](/bandaraya/combat-and-health) for the full kit breakdown.
+### தீ சம்பவங்கள்
+
+**குறைந்தது ஒரு BOMBA உறுப்பினர் ஆன்லைனில் இருக்கும்போது** வரைபடத்தைச் சுற்றி தீ spawn ஆகும். நீங்கள் BOMBA-வில் இருக்கும்போது உங்கள் கிளையண்ட் ஒரு எச்சரிக்கையைப் பெறுகிறது (வரைபட பின் + ஒலி + டேப்லெட் அறிவிப்பு). சம்பவத்திற்கு ஓட்டிச் செல்லவும், தீ தொகுதிகளில் நீர் ஓட செய்யவும், அதை அணைக்கவும்.
+
+- **கால வரம்பு**: ஒரு சம்பவத்திற்கு 10 நிமிடங்கள் — நேரத்தில் அணைக்கப்படாவிட்டால், சம்பவம் வலுக்கட்டாயமாக அழிக்கப்படுகிறது.
+- **Cooldown**: ஒரு சம்பவம் முடிந்த பிறகு, புதிய ஒன்று spawn ஆவதற்கு முன் 5 நிமிடங்கள்.
+- **BOMBA ஆன்லைனில் தேவை**: சம்பவத்தின் நடுவில் அனைத்து BOMBA உறுப்பினர்களும் பணியை விட்டால், தீ தானாகவே அழிக்கப்படும்.
+- **தாமதமாக சேருபவர்கள்**: சம்பவத்தின் நடுவில் நீங்கள் BOMBA-க்கு மாறினால், உங்கள் கிளையண்ட் தற்போதைய நிலைக்காக server-ஐக் கேட்கிறது மற்றும் வரைபட பின் உடனடியாகத் தோன்றுகிறது.
+- வரைபடத்தில் **5 தீயணைப்பு நீர்க்குழாய்கள்** — உத்திசார்ந்து உங்களை நிலைப்படுத்தவும்.
+- **Auto-sign** — BOMBA-வில் சேருவது தானாகவே பணிக் கண்காணிப்பிற்காக உங்களை உள்ளே நுழைக்கிறது (ஒவ்வொரு session-க்கும் Discord webhook).
+
+---
+
+## KKM (Kementerian Kesihatan) — சுகாதார அமைச்சகம்
+
+குழு: 5760632. எந்த தரமும்.
+
+### நீங்கள் என்ன செய்கிறீர்கள்
+
+- **விழுந்த / காயமடைந்த வீரர்களுக்கு** சிகிச்சை அளிக்கவும். எந்தவொரு மருத்துவர் குழுவும் பணியில் இருக்கும்போது (KKM அல்லது SJAM), உலகளாவிய bleedout டைமர் 5 நிமிடங்கள் (மருத்துவர்கள் வந்து சேர நேரம் கொடுக்கிறது) மற்றும் செயலற்ற regen இடைநிறுத்தப்படுகிறது.
+- **KKM Ampang கிளினிக்** மற்றும் **Prince Court மருத்துவ மையத்தில்** பணிபுரியவும்.
+- காயங்களை நிர்வகிக்க மருத்துவக் கருவிப்பெட்டி பொருட்களைப் பயன்படுத்தவும் (கட்டு, மார்ஃபின், tourniquet, இரத்தப் பை, IV கத்தீடர், O2, முதலியன).
+- **KKM Logger** டேப்லெட் பயன்பாட்டின் மூலம் மருத்துவ நடவடிக்கைகளை பதிவு செய்யவும்.
+
+### கருவிகள்
+
+| கருவி | பயன் |
+| --- | --- |
+| **Torchlight** | ஒளிரச் செய்தல் |
+| **KKM Placeables** | மருத்துவ சம்பவ placeables |
+| **Traffic Wand** | சம்பவ இடங்களில் |
+| **Carry** | காயமடைந்த வீரர்களை நகர்த்துதல் |
+| **முழு மருத்துவக் கருவிப்பெட்டி** (armoury-லிருந்து) | [போர் & உடல்நலம்](/bandaraya/combat-and-health#medical-kit-items)-ஐப் பார்க்கவும் |
+
+### வாகனங்கள்
+
+KKM-இடம் ஆம்புலன்ஸ்கள், RRV-கள் (விரைவு பதில் வாகனங்கள்) மற்றும் பயன்பாட்டு வாகனங்கள் உள்ளன. KKM Mercedes Sprinter, Iveco Ambulance, RRV Honda City, RRV Proton Inspira, Toyota Hiace Passenger Van ஆகியவை அடங்கும்.
+
+### ஒரு வீரரைக் குணப்படுத்துதல்
+
+1. விழுந்த வீரரிடம் வந்து சேருங்கள்.
+2. கருவிப்பெட்டி பொருட்களைப் பயன்படுத்தவும் — கட்டு (இரத்தப்போக்கை நிறுத்த), மார்ஃபின் (வலி), இரத்தப் பை (இரத்த இழப்பு), முதலியன.
+3. அவர்கள் flatline ஆகியிருந்தால் **defib**-ஐப் பயன்படுத்தவும்.
+4. காலப்போக்கில் அவர்களின் நிலை மீட்கப்படும்.
+
+முழு கருவிப்பெட்டி விவரங்களுக்கு [போர் & உடல்நலம்](/bandaraya/combat-and-health)-ஐப் பார்க்கவும்.
 
 ---
 
 ## SJAM (St. John Ambulans Malaysia)
 
-Group: 3027933, rank 2+.
+குழு: 3027933, தரம் 2+.
 
-Volunteer ambulance. Basic toolkit — torchlight for now. Works alongside KKM for civilian medical response, especially at events.
+தன்னார்வ ஆம்புலன்ஸ். அடிப்படை கருவிப்பெட்டி — இப்போதைக்கு மின்சார விளக்கு. பொதுமக்கள் மருத்துவ பதிலுக்காக KKM-உடன் இணைந்து செயல்படுகிறது, குறிப்பாக நிகழ்வுகளில்.
 
 ---
 
 ## RELA Corps
 
-Group: 2855852. Any rank.
+குழு: 2855852. எந்த தரமும்.
 
-Volunteer police corps. Tools:
+தன்னார்வ காவல்துறை படை. கருவிகள்:
 
 - Wooden Baton
 - Search
 - Torchlight
 
-Limited mandate — supporting PDRM at scenes, crowd control. No direct arrest powers.
+வரையறுக்கப்பட்ட அதிகாரம் — சம்பவ இடங்களில் PDRM-க்கு ஆதரவு, கூட்டக் கட்டுப்பாடு. நேரடி கைது அதிகாரங்கள் இல்லை.
 
 ---
 
-## MAF (Malaysian Armed Forces) — Military
+## MAF (Malaysian Armed Forces) — ராணுவம்
 
-Groups: 2817130, 2849945, 2817134. Rank 3+.
+குழுக்கள்: 2817130, 2849945, 2817134. தரம் 3+.
 
-### What you do
+### நீங்கள் என்ன செய்கிறீர்கள்
 
-- Base operations out of **Kem Wardieburn**.
-- Parade events, ceremonial duties.
-- Special operations (GGK — special forces subgroup).
+- **Kem Wardieburn**-இலிருந்து தள செயல்பாடுகள்.
+- அணிவகுப்பு நிகழ்வுகள், சடங்குக் கடமைகள்.
+- சிறப்பு நடவடிக்கைகள் (GGK — சிறப்புப் படை துணைக் குழு).
 
-### Tools
+### கருவிகள்
 
 - **Torchlight**
-- **Cuff** (limited arrest powers)
+- **Cuff** (வரையறுக்கப்பட்ட கைது அதிகாரங்கள்)
 
-MAF previously had baton and cuffs; the current setup is more limited by design.
+MAF-இடம் முன்பு தடி மற்றும் விலங்குகள் இருந்தன; தற்போதைய அமைப்பு வடிவமைப்பின்படி மிகவும் வரையறுக்கப்பட்டுள்ளது.
 
-### Vehicles (40+)
+### வாகனங்கள் (40+)
 
-Big fleet of military kit:
+ராணுவ கருவிகளின் பெரிய கடற்படை:
 
-- **Armour**: PT-91M Pendekar (MBT), ACV-300 Adnan (IFV), K-200 KIFV, Tarantula HMAV, AV-8 Gempita, Glover Webb Hornet
-- **URO Vamtac** (various armament configs)
-- **Cendana Auto SOV** (with M2HB, Mk19, OMTAS weapons)
-- **GGK** (special forces): dirt bikes, Hilux operational/patrol, superbike
-- **Transport**: HICOM Handalan II, Hilux TLDM / PROVOS / KPTD
-- **Patrol / MPV**: Civic, X70, Inspira variants
+- **கவசம்**: PT-91M Pendekar (MBT), ACV-300 Adnan (IFV), K-200 KIFV, Tarantula HMAV, AV-8 Gempita, Glover Webb Hornet
+- **URO Vamtac** (பல்வேறு ஆயுத கட்டமைப்புகள்)
+- **Cendana Auto SOV** (M2HB, Mk19, OMTAS ஆயுதங்களுடன்)
+- **GGK** (சிறப்புப் படை): டர்ட் பைக்குகள், Hilux செயல்பாட்டு/ரோந்து, superbike
+- **போக்குவரத்து**: HICOM Handalan II, Hilux TLDM / PROVOS / KPTD
+- **ரோந்து / MPV**: Civic, X70, Inspira வகைகள்
 
-### Aircraft
+### விமானம்
 
-Parade aircraft + rotorcraft are available for ceremonial / operational setups.
+அணிவகுப்பு விமானங்கள் + ரோட்டார்கிராஃப்ட் சடங்கு / செயல்பாட்டு அமைப்புகளுக்குக் கிடைக்கின்றன.
 
 ---
 
-## Military Police (KPTD) — Kor Polis Tentera Diraja
+## ராணுவ போலீஸ் (KPTD) — Kor Polis Tentera Diraja
 
-Group: 2817141. Any rank.
+குழு: 2817141. எந்த தரமும்.
 
-The military's own police wing. Has arrest powers like PDRM, but only over MAF personnel typically (by roleplay convention).
+ராணுவத்தின் சொந்த போலீஸ் பிரிவு. PDRM போல கைது அதிகாரங்களைக் கொண்டுள்ளது, ஆனால் பொதுவாக MAF பணியாளர்கள் மீது மட்டுமே (ரோல்பிளே வழக்கத்தின் மூலம்).
 
-### Tools
+### கருவிகள்
 
-- **X26P TAC** (tactical taser)
+- **X26P TAC** (தந்திர டேசர்)
 - **Straightstick Baton**
 - **Cuff**, **Search**, **Saman**
 - **FingerPrint Scanner**
 - **KPTD Placeables**
 - **Torchlight, Traffic Wand**
 
-### Vehicles
+### வாகனங்கள்
 
-Dedicated KPTD patrol cars — X70 KPTD, Preve KPTD, Civic KPTD, etc. + bikes.
+பிரத்யேக KPTD ரோந்து கார்கள் — X70 KPTD, Preve KPTD, Civic KPTD, முதலியன + பைக்குகள்.
 
 ---
 
-## Combined operations
+## ஒருங்கிணைந்த நடவடிக்கைகள்
 
-Emergency services often work together:
+அவசர சேவைகள் அடிக்கடி ஒன்றிணைந்து பணிபுரிகின்றன:
 
-- **Multi-vehicle response** at major incidents — PDRM + BOMBA + KKM.
-- **BOMBA call-outs** fire the `IncidentEvent` that BOMBA clients listen for; others can self-dispatch.
-- **MDT BOLOs** from PDRM notify all on-duty officers (sound + toast + badge).
-- **KKM** stabilises downed civilians; PDRM can continue their arrest post-stabilisation.
+- முக்கிய சம்பவங்களில் **பல வாகன பதில்** — PDRM + BOMBA + KKM.
+- **BOMBA call-out** BOMBA கிளையண்ட்கள் கேட்கும் `IncidentEvent`-ஐ தூண்டுகிறது; மற்றவர்கள் தாங்களாகவே dispatch செய்யலாம்.
+- PDRM-இலிருந்து **MDT BOLO**-க்கள் பணியில் உள்ள அனைத்து அதிகாரிகளுக்கும் அறிவிக்கின்றன (ஒலி + toast + badge).
+- **KKM** விழுந்த பொதுமக்களை நிலைப்படுத்துகிறது; PDRM நிலைப்படுத்தலுக்குப் பிறகு தங்கள் கைதைத் தொடரலாம்.
 
-## Tips & gotchas
+## குறிப்புகள் & பொறிகள்
 
-- **Play to your team.** PDRM doesn't shoot first; BOMBA doesn't arrest; KKM doesn't engage suspects.
-- **Going rogue = severe ban.** On any public services team, crime = immediate moderation action. See [Rules](/bandaraya/rules#severe-violations).
-- **Use your tablet.** MDT, MyEmergency, Vehicle Management, MyTow, KKM Logger — all free tools. See [Tablet](/bandaraya/tablet).
-- **Armour = Armor part.** Vehicles with `Armor` parts inside are bulletproof (e.g., AV4). See [Vehicles](/bandaraya/vehicles#bulletproofing).
-- **Spawners are team-gated.** If your team can't access a spawner, the UI won't show.
+- **உங்கள் குழுவிற்கு விளையாடுங்கள்.** PDRM முதலில் சுடாது; BOMBA கைது செய்யாது; KKM சந்தேகநபர்களுடன் ஈடுபடாது.
+- **Rogue ஆதல் = கடுமையான ban.** எந்தவொரு பொது சேவை குழுவிலும், குற்றம் = உடனடி மிதப்படுத்தல் நடவடிக்கை. [விதிகள்](/bandaraya/rules#severe-violations)-ஐப் பார்க்கவும்.
+- **உங்கள் டேப்லெட்டைப் பயன்படுத்தவும்.** MDT, MyEmergency, வாகன மேலாண்மை, MyTow, KKM Logger — அனைத்தும் இலவச கருவிகள். [டேப்லெட்](/bandaraya/tablet)-ஐப் பார்க்கவும்.
+- **Armour = Armor part.** உள்ளே `Armor` பாகங்கள் உள்ள வாகனங்கள் தோட்டாத் தாங்கும் (எ.கா., AV4). [வாகனங்கள்](/bandaraya/vehicles#bulletproofing)-ஐப் பார்க்கவும்.
+- **Spawner-கள் குழுவினால் வாயிலிடப்படுகின்றன.** உங்கள் குழு ஒரு spawner-ஐ அணுக முடியாவிட்டால், UI காட்டப்படாது.
 
-## See also
+## மேலும் காண்க
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — the PDRM arrest flow
-- [Combat & Health](/bandaraya/combat-and-health) — weapons, armor, injuries, medical kit
-- [Tablet](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
-- [Vehicles](/bandaraya/vehicles) — emergency fleet
-- [Map](/bandaraya/locations) — IPD Dang Wangi, BOMBA station, KKM clinic, Kem Wardieburn
-- [Teams](/bandaraya/teams) — access requirements
+- [கைது & சட்டம்](/bandaraya/arrest-and-law) — PDRM கைது ஓட்டம்
+- [போர் & உடல்நலம்](/bandaraya/combat-and-health) — ஆயுதங்கள், கவசம், காயங்கள், மருத்துவக் கருவிப்பெட்டி
+- [டேப்லெட்](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
+- [வாகனங்கள்](/bandaraya/vehicles) — அவசர கடற்படை
+- [வரைபடம்](/bandaraya/locations) — IPD Dang Wangi, BOMBA நிலையம், KKM கிளினிக், Kem Wardieburn
+- [குழுக்கள்](/bandaraya/teams) — அணுகல் தேவைகள்

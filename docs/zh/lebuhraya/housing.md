@@ -1,49 +1,48 @@
 ---
-title: Housing
-description: Claim a plot and build your home in Lebuhraya.
+title: 房屋
+description: 在 Lebuhraya 认领地块并建造自己的房屋。
 lang: zh
 translated_from_hash: d0036913
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 房屋
 
-# Housing
+Lebuhraya 设有**住宅系统**,你可以认领地块、放置房屋、用家具装饰它,并将它作为自己的基地。这是游戏中最具社交性的功能之一 —— 邀请朋友过来、锁上门、举办一场甘榜风格的聚会。
 
-Lebuhraya has a **residence system** where you can claim a plot, place a house, decorate it with furniture, and use it as your own base. It's one of the game's most social features — invite friends over, lock the doors, throw a kampung-style gathering.
+## 认领地块
 
-## Claiming a plot
+地块位于 Bandar Seri Putra 内的 **Pangsapuri Seri Putra**。可供认领的地块总数由 server 决定;如果所有地块都被认领,你会看到 **0 available** 的指示。
 
-Plots are located at **Pangsapuri Seri Putra** in Bandar Seri Putra. The total number of available plots is set by the server; if all plots are taken, you'll see a **0 available** indicator.
+1. 驾车前往 Pangsapuri Seri Putra。
+2. 走到空置的地块标记旁。
+3. 与认领提示互动。
+4. 选择一个房屋模板(见下文)。
 
-1. Drive to Pangsapuri Seri Putra.
-2. Walk up to an empty plot marker.
-3. Interact with the claim prompt.
-4. Choose a house template (see below).
+你的地块与账户绑定。离开 server 后你的房屋依然保留;再次回来时它仍在那里。
 
-Your plot is tied to your account. Leave the server and your house persists; come back and it's still there.
+## 房屋模板
 
-## House templates
+认领地块时,你可以从四种模板中选择:
 
-You pick from four templates when you claim a plot:
+- **Kampung_House_1** —— 传统马来西亚甘榜风格住宅
+- **Kampung_House_2** —— 另一款甘榜变体,布局不同
+- **Kampung_House_3** —— 第三款甘榜变体
+- **Modern_Terrace_1** —— 现代排屋 / 联排住宅风格
 
-- **Kampung_House_1** — Traditional Malaysian kampung-style home
-- **Kampung_House_2** — Another kampung variant, different layout
-- **Kampung_House_3** — Third kampung variant
-- **Modern_Terrace_1** — Modern terrace / townhouse style
+每个模板的室内面积相同,但外观各具特色。选择一款符合你角色扮演风格的吧。
 
-Each template has the same interior footprint but different exterior character. Pick the one that fits your roleplay.
+## 自定义
 
-## Customising
+房屋放置后,你可以:
 
-Once your house is placed, you can:
+### 油漆
 
-### Paint
+更改房屋外墙的油漆颜色。
 
-Change the paint colour of the house exterior.
+### 家具
 
-### Furniture
-
-Add items from the furniture catalog. Available pieces include:
+从家具目录中添加物品。现有物品包括:
 
 - **Bookshelf**
 - **Single Bed**
@@ -52,32 +51,32 @@ Add items from the furniture catalog. Available pieces include:
 - **Chairs**
 - **Mirror**
 
-Place items inside your house; move and rotate them until the layout feels right. Furniture costs BR per piece — check the in-game placement menu for prices.
+将物品放入屋内;移动并旋转它们,直到布局让你满意。每件家具需花费 BR —— 在游戏内的放置菜单中查看价格。
 
-### Doors
+### 门
 
-Doors can be **locked** or **unlocked**. A locked door keeps other players out, including friends — unlock it when you want company.
+门可以**上锁**或**解锁**。上锁的门会挡住其他玩家,包括朋友 —— 想要有人陪伴时记得解锁。
 
-### Lights
+### 灯
 
-Toggle interior lighting on or off. Useful for setting the mood at night.
+切换室内灯光的开关。适合在夜晚营造氛围。
 
-## Who can enter?
+## 谁可以进入?
 
-- **You** — always.
-- **Other players** — only if your doors are unlocked.
-- **Team-mates** — no special access by default; same rules apply.
+- **你** —— 永远可以。
+- **其他玩家** —— 仅在门未上锁时。
+- **队友** —— 默认无特殊权限;同样规则适用。
 
-## Leaving or moving
+## 离开或搬迁
 
-If you want to abandon your plot to claim a different one, use the housing menu's **release** option. Your current house and furniture are removed when you release the plot. Consider saving your layout design in a screenshot before you release — there's no automatic restore.
+如果你想放弃当前地块以认领另一块,请使用住宅菜单中的 **release** 选项。当你释放地块时,现有的房屋和家具都会被移除。在释放前,建议先用截图保存你的布局设计 —— 系统没有自动恢复功能。
 
-## A note on prices and counts
+## 关于价格和数量的说明
 
-The exact BR cost for each house and furniture piece, and the total number of plots available server-side, depend on the live game state. The in-game menu is always the source of truth for these numbers.
+每栋房屋和每件家具的确切 BR 价格,以及 server 端可用地块总数,取决于实时游戏状态。游戏内菜单始终是这些数字的权威来源。
 
-## Next steps
+## 下一步
 
-- [World and Map](/lebuhraya/map) — How to get to Pangsapuri Seri Putra
-- [Economy and XP](/lebuhraya/economy) — Saving up BR for that Modern Terrace
-- [Social Features](/lebuhraya/social-features) — Hosting friends via convoy
+- [World and Map](/lebuhraya/map) —— 如何前往 Pangsapuri Seri Putra
+- [Economy and XP](/lebuhraya/economy) —— 为那栋 Modern Terrace 储蓄 BR
+- [Social Features](/lebuhraya/social-features) —— 通过车队款待朋友

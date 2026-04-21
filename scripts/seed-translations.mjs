@@ -20,6 +20,9 @@ import { computeEnHashes, walkEnPages } from "./hash-en-pages.mjs";
 const LOCALES = ["ms", "zh", "ta"];
 const TODAY = new Date().toISOString().slice(0, 10);
 const dryRun = process.argv.includes("--dry-run");
+// When an existing locale file has a stale hash, replace its body with the
+// current EN body. Use this after re-migrating drifted EN pages.
+const refreshStale = process.argv.includes("--refresh-stale");
 
 let created = 0;
 let updated = 0;
@@ -41,13 +44,21 @@ for (const enPath of walkEnPages()) {
     if (existsSync(localePath)) {
       existed = true;
       const existing = matter(readFileSync(localePath, "utf8"));
-      // Preserve whatever body is already there (it may be a real translation).
-      localeBody = existing.content;
 
       // If hashes already match, the file is fresh — skip.
       if (existing.data.translated_from_hash === enHash) {
         unchanged++;
         continue;
+      }
+
+      // Stale: decide whether to preserve the existing body or replace with EN.
+      if (refreshStale) {
+        // Replace body with current EN — used after source drift to surface
+        // the newest content in all locales with needs_review: true.
+        localeBody = enBody;
+      } else {
+        // Default: preserve whatever body is there (existing translation).
+        localeBody = existing.content;
       }
     }
 

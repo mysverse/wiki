@@ -1,121 +1,131 @@
 ---
-title: World and Map
-description: >-
-  Bandar Seri Putra, Jersik, Kampung Merbang, and 29 key locations across
-  Lebuhraya.
+title: Dunia & Peta
+description: 'Bandar Seri Putra, Jersik, Kampung Merbang, dan 29 lokasi utama di Lebuhraya.'
 lang: ms
-translated_from_hash: f459b4c8
+translated_from_hash: df211658
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Dunia & Peta
 
-# World and Map
+Lebuhraya berlatarkan satu bentangan lebuhraya Malaysia dengan tiga kawasan utama yang dihubungkan oleh plaza tol dan tempat rehat. Halaman ini memetakan lokasi setiap perkara.
 
-Lebuhraya is set on a stretch of Malaysian highway with three main regions connected by toll plazas and rest stops. This page maps out where everything is.
-
-## The regions
+## Kawasan-kawasan
 
 ### Bandar Seri Putra
 
-The largest settlement — your main hub for jobs, services, and commerce. If you're new, you'll spend most of your first hours here.
+Penempatan terbesar — hab utama anda untuk pekerjaan, perkhidmatan, dan perdagangan. Jika anda baharu, kebanyakan jam pertama anda akan dihabiskan di sini.
 
-**Key buildings**:
-- **Balai Polis Bandar Seri Putra** — Police station
-- **Balai Bomba Bandar Seri Putra** — Fire station
-- **Klinik Kesihatan Bandar Seri Putra** — Health clinic / hospital
-- **Depoh Bas Bandar Seri Putra** — Bus depot (start of Bus Driver routes)
-- **Radtrol Petrol Station Bandar Seri Putra** — Refuelling
-- **Stesen Insinerasi Bandar Seri Putra** — Waste disposal drop-off
-- **Gravstone Workshop Bandar Seri Putra** — Vehicle repairs
-- **Pangsapuri Seri Putra** — Apartment complex / housing plots
-- **Masjid Bandar Seri Putra** — Mosque
-- **KTN Bandar Seri Putra** — KTN branch
-- **Dus Doffee Bandar Seri Putra** — Coffee shop
+**Bangunan utama**:
+- **Balai Polis Bandar Seri Putra** — Balai polis
+- **Balai Bomba Bandar Seri Putra** — Balai bomba
+- **Klinik Kesihatan Bandar Seri Putra** — Klinik kesihatan / hospital
+- **Depoh Bas Bandar Seri Putra** — Depoh bas (permulaan rut Pemandu Bas)
+- **Radtrol Petrol Station Bandar Seri Putra** — Mengisi minyak
+- **Stesen Insinerasi Bandar Seri Putra** — Tempat pelupusan sampah
+- **Gravstone Workshop Bandar Seri Putra** — Pembaikan kenderaan
+- **Pangsapuri Seri Putra** — Kompleks pangsapuri / plot perumahan
+- **Masjid Bandar Seri Putra** — Masjid
+- **KTN Bandar Seri Putra** — Cawangan KTN
+- **Dus Doffee Bandar Seri Putra** — Kedai kopi
 
 ### Jersik
 
-A secondary town with industrial zones and the racetrack.
+Bandar sekunder dengan zon perindustrian dan litar lumba.
 
-**Key buildings**:
-- **Balai Bomba Jersik** — Fire station
-- **Pos Nasional Jersik** — Post office (start of Post Office job)
-- **Plaza Tol Jersik** — Toll plaza
-- **Jersik Race Track** — The home track for racing
-- **Stesen Insinerasi Jersik** — Waste disposal drop-off
-- **H Plantation Jersik** — Agricultural estate (lumberjack / forestry)
-- **Kompleks Petroliam dan Gas Radtrol** — Large refuelling complex
+**Bangunan utama**:
+- **Balai Bomba Jersik** — Balai bomba
+- **Pos Nasional Jersik** — Pejabat pos (permulaan kerja Pejabat Pos)
+- **Plaza Tol Jersik** — Plaza tol
+- **Jersik Race Track** — Litar utama untuk perlumbaan
+- **Stesen Insinerasi Jersik** — Tempat pelupusan sampah
+- **H Plantation Jersik** — Estet pertanian (pembalak / perhutanan)
+- **Kompleks Petroliam dan Gas Radtrol** — Kompleks mengisi minyak yang besar
 
-*Jersik doesn't have its own police station — the nearest Balai Polis is in Kampung Merbang.*
+*Jersik tidak mempunyai balai polisnya sendiri — Balai Polis terdekat berada di Kampung Merbang.*
 
 ### Kampung Merbang
 
-A quieter rural village.
+Sebuah kampung luar bandar yang lebih tenang.
 
-**Key buildings**:
-- **Balai Polis Kampung Merbang** — Police station
-- **Masjid Kampung Merbang** — Mosque
-- Highway rest stops nearby (see below)
+**Bangunan utama**:
+- **Balai Polis Kampung Merbang** — Balai polis
+- **Masjid Kampung Merbang** — Masjid
+- Tempat rehat lebuhraya berdekatan (lihat di bawah)
 
 ### Taman Mahkota / Putra Mahkota
 
-A plaza / neighbourhood zone.
+Zon plaza / kejiranan.
 
-**Key buildings**:
-- **Plaza Tol Putra Mahkota** — Second major toll plaza
-- **Taman Mahkota** — Housing / residential zone
+**Bangunan utama**:
+- **Plaza Tol Putra Mahkota** — Plaza tol utama kedua
+- **Taman Mahkota** — Zon perumahan / kediaman
 
-## Highway landmarks
+## Mercu tanda lebuhraya
 
-The highway connects all three regions. Notable stops:
+Lebuhraya menghubungkan ketiga-tiga kawasan. Hentian penting:
 
-- **PETROMAS Petrol Station Northbound** — Fuel stop heading north
-- **PETROMAS Petrol Station Southbound** — Fuel stop heading south
-- **RnR Sungai Merbang Northbound** — Rest & Relax stop with food
-- **RnR Sungai Merbang Southbound** — Rest & Relax stop with food
-- **Plaza Tol Jersik** — Toll collection
-- **Plaza Tol Putra Mahkota** — Toll collection
+- **PETROMAS Petrol Station Northbound** — Hentian minyak ke arah utara
+- **PETROMAS Petrol Station Southbound** — Hentian minyak ke arah selatan
+- **RnR Sungai Merbang Northbound** — Hentian Rest & Relax dengan makanan
+- **RnR Sungai Merbang Southbound** — Hentian Rest & Relax dengan makanan
+- **Plaza Tol Jersik** — Pungutan tol
+- **Plaza Tol Putra Mahkota** — Pungutan tol
 
-## Other points of interest
+## Tempat menarik lain
 
-- **SMK MYS II** — Secondary school
-- **Fishing Port** — Malaysians-team fishing location
-- **Haunted House** — An easter egg / roleplay spot; explore at your own risk
+- **SMK MYS II** — Sekolah menengah
+- **Fishing Port** — Lokasi memancing pasukan Malaysians
+- **Haunted House** — Tempat easter egg / roleplay; jelajah atas risiko sendiri
 
-## Where to go when you need…
+## Ke mana hendak pergi apabila anda perlukan…
 
-| What you need | Where to go |
+| Apa yang anda perlukan | Ke mana hendak pergi |
 |---|---|
-| Fuel (Petrol) | PETROMAS NB or SB, or Radtrol |
-| Fuel (Diesel) | Kompleks Petroliam dan Gas Radtrol, PETROMAS stations |
-| Fuel (Electric) | Radtrol in Bandar Seri Putra (electric chargers) |
-| Food & snacks | Any of the 12 shops — see [Shops](/lebuhraya/shops) |
-| A jerrycan | Jerrycan Shop |
-| Police help | Any Balai Polis (Bandar Seri Putra, Kampung Merbang) |
-| Fire / rescue | Any Balai Bomba (Bandar Seri Putra, Jersik) |
-| Medical | Klinik Kesihatan Bandar Seri Putra |
-| Vehicle repairs | Gravstone Workshop |
-| Post your mail | Pos Nasional Jersik |
-| Start a bus route | Depoh Bas Bandar Seri Putra |
-| Race | Jersik Race Track |
-| Fish | Fishing Port |
-| Pray | Masjid Kampung Merbang or Masjid Bandar Seri Putra |
-| Hang out | RnR rest stops or Dus Doffee |
+| Bahan api (Petrol) | PETROMAS NB atau SB, atau Radtrol |
+| Bahan api (Diesel) | Kompleks Petroliam dan Gas Radtrol, stesen PETROMAS |
+| Bahan api (Elektrik) | Radtrol di Bandar Seri Putra (pengecas elektrik) |
+| Makanan & snek | Mana-mana antara 12 kedai — lihat [Kedai](/lebuhraya/shops) |
+| Tin minyak | Jerrycan Shop |
+| Bantuan polis | Mana-mana Balai Polis (Bandar Seri Putra, Kampung Merbang) |
+| Bomba / penyelamat | Mana-mana Balai Bomba (Bandar Seri Putra, Jersik) |
+| Perubatan | Klinik Kesihatan Bandar Seri Putra |
+| Pembaikan kenderaan | Mana-mana antara 10 zon pembaikan di sekitar peta |
+| Cat kenderaan / kerja badan | Gravstone Workshop (memerlukan gamepass Workshop) |
+| Hantar mel anda | Pos Nasional Jersik |
+| Mulakan rut bas | Depoh Bas Bandar Seri Putra |
+| Berlumba | Jersik Race Track |
+| Memancing | Fishing Port |
+| Solat | Masjid Kampung Merbang atau Masjid Bandar Seri Putra |
+| Berkumpul | Hentian RnR atau Dus Doffee |
 
-## Speed traps and tolls
+## Cuaca dan masa siang
 
-Selected highway stretches have **speed traps** that measure your vehicle's speed as you pass through.
+Lebuhraya mempunyai kitaran siang-malam langsung dan hujan rawak.
 
-- **Above 110 studs/s**: a HUD readout flashes your recorded speed. Your personal best is saved to the **Speed Trap** leaderstat — try to beat it!
-- **Above 200 studs/s without emergency lights (ELS)**: you're logged for a **Speeding** offence, which can trigger enforcement from Polis Trafik. Emergency team vehicles on active ELS are exempt.
+**Kitaran masa**: masa dalam permainan bergerak **1 minit setiap saat dunia sebenar**, jadi satu hari penuh dalam permainan mengambil masa 24 minit sebenar. Lampu jalan dan lampu papan iklan menyala secara automatik pada **6:00 PM** dan kekal menyala sehingga **6:40 AM**. Pandulah dengan lampu utama pada waktu tersebut untuk penglihatan — dan hormatilah suasana; sesetengah jalan adalah lebih gelap pada waktu malam.
 
-**Toll plazas** — Plaza Tol Jersik and Plaza Tol Putra Mahkota — currently accept payment through a CnG scan with a 12-stud proximity prompt. Tolls in this version of the game are **free to pass** (the scan opens the gate but doesn't deduct BR). Your first toll-pass is credited to the *Bayar Tol* discovery challenge (+25 XP one-time reward). Vehicles with an RFID tag on the driver seat can pass automatically without scanning.
+**Hujan**: hujan berkala muncul secara rawak. Secara purata, hujan bermula setiap **30–60 minit** dan berlangsung selama **5–10 minit**. Anda akan mendengar bunyi hujan dan melihat kesan hujan pada skrin sewaktu ia aktif. Jalan tidak menjadi licin, tetapi penglihatan berkurangan. Admin boleh menghidupkan/mematikan hujan dengan arahan sembang `!rainon` / `!rainoff` semasa acara.
 
-## Navigation
+## Lampu isyarat dan persimpangan
 
-Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to any POI. A glowing beam will guide you there. You can also use **Fast Travel** (from the FastTravel menu) to teleport to select locations — but note that fast-travelling pauses your XP-from-distance accumulation for 5 minutes to prevent XP farming.
+Lampu isyarat persimpangan di simpang menyelaraskan beberapa kumpulan isyarat (cth. persimpangan `BSP_Main` di Bandar Seri Putra mempunyai dua fasa berselang-seli). Lampu berdiri sendiri berputar Hijau → Kuning → Merah secara bebas. Berhenti pada lampu merah dikuatkuasakan oleh sistem anti-cheat — lihat *Perangkap kelajuan dan tol* di bawah untuk butiran tentang kesalahan **Red Light**.
 
-## Next steps
+## Perangkap kelajuan dan tol
 
-- [Shops](/lebuhraya/shops) — What each shop sells
-- [Jobs](/lebuhraya/jobs) — Which buildings belong to which job
-- [Housing](/lebuhraya/housing) — Claim a plot at Pangsapuri Seri Putra
+Bahagian lebuhraya yang dipilih mempunyai **perangkap kelajuan** yang mengukur kelajuan kenderaan anda semasa anda melaluinya.
+
+- **Melebihi 110 stud/s**: bacaan HUD memancarkan kelajuan anda yang dirakam. Pencapaian terbaik peribadi anda disimpan ke leaderstat **Speed Trap** — cuba pecahkan rekod anda!
+- **Melebihi 200 stud/s tanpa lampu kecemasan (ELS)**: anda dilog untuk kesalahan **Speeding**, yang boleh mencetuskan tindakan penguatkuasaan daripada Polis Trafik. Kenderaan pasukan kecemasan dengan ELS aktif dikecualikan.
+
+**Plaza tol** — Plaza Tol Jersik dan Plaza Tol Putra Mahkota — pada masa ini menerima bayaran melalui imbasan CnG dengan prom kedekatan 12 stud. Tol dalam versi permainan ini adalah **percuma untuk dilalui** (imbasan membuka pintu tetapi tidak menolak BR). Pelaluan tol pertama anda dikreditkan kepada cabaran penemuan *Bayar Tol* (ganjaran sekali sahaja +25 XP). Kenderaan dengan tag RFID pada tempat duduk pemandu boleh melalui secara automatik tanpa imbasan.
+
+## Navigasi
+
+Gunakan sistem **GPS** (boleh diakses dari topbar / telefon) untuk menetapkan titik laluan ke mana-mana POI. Pancaran bercahaya akan memandu anda ke sana. Anda juga boleh menggunakan **Fast Travel** (dari menu FastTravel) untuk teleport ke lokasi pilihan — tetapi ambil perhatian bahawa fast-travelling menjeda pengumpulan XP-dari-jarak anda selama 5 minit untuk mencegah XP farming.
+
+## Langkah seterusnya
+
+- [Kedai](/lebuhraya/shops) — Apa yang dijual setiap kedai
+- [Pekerjaan](/lebuhraya/jobs) — Bangunan mana milik pekerjaan mana
+- [Perumahan](/lebuhraya/housing) — Tuntut plot di Pangsapuri Seri Putra

@@ -1,15 +1,14 @@
 ---
-title: Getting Started
+title: Bandaraya-வில் தொடங்குங்கள்
 description: >-
-  Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit
-  (BR), pick a team, and explore Kuala Lumpur.
+  Bandaraya-வில் உங்கள் பயணத்தைத் தொடங்குங்கள் — மெனுக்களில் செல்லுங்கள், Bandar
+  Ringgit (BR) சம்பாதியுங்கள், அணியை தேர்ந்தெடுங்கள், கோலாலம்பூரை ஆராயுங்கள்.
 lang: ta
 translated_from_hash: efebfc95
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# பந்தராயாவுடன் தொடங்குங்கள்
+# Bandaraya-வில் தொடங்குங்கள்
 
 **பந்தராயா**விற்கு வரவேற்கிறோம்! இந்த வழிகாட்டியைப் பின்பற்றி உங்கள் பயணத்தைத் தொடங்குங்கள்—மெனுக்களை வழிசெய்தல் முதல் உங்கள் முதல் பந்தராயா ரிங்கிட் (BR) சம்பாதிப்பது வரை.
 

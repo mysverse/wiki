@@ -1,204 +1,203 @@
 ---
-title: Crime and Law
-description: 'Carjacking, pickpocketing, wanted stars, and jail in Sumaya.'
+title: குற்றம் & சட்டம்
+description: 'Sumaya-வில் கார் திருட்டு, பைதிருட்டு, வான்ட் நட்சத்திரங்கள், மற்றும் சிறை.'
 lang: ta
-translated_from_hash: 878338d5
+translated_from_hash: 13412ce8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# குற்றம் & சட்டம்
 
-# Crime and Law
+நீங்கள் விரும்பினால் Sumaya-வில் குற்றவாளியாகவும் விளையாடலாம். இந்தப் பக்கம் விளையாட்டாளர்களுக்குக் கிடைக்கும் மூன்று முக்கிய குற்றங்கள், குற்றம் மற்றும் வான்ட் நட்சத்திர முறை எப்படி வேலை செய்கிறது, மற்றும் பிடிபட்டால் என்ன நடக்கும் என்பதை உள்ளடக்கியது.
 
-Sumaya lets you play the criminal side if you want. This page covers the three main crimes available to players, how the offence and wanted-star system works, and what happens if you get caught.
+**கவனிக்கவும்:** அவசர சேவை விளையாட்டாளர்கள் (POLIS, BOMBA, Kesihatan) குற்றம் செய்யும்போது தானாகவே பதவியிறக்கம் செய்ய கேம் கம்பியிடப்பட்டுள்ளது, ஆனால் அந்த பதவியிறக்க நிகழ்வுக்கான listener தற்போது நேரடி பதிப்பில் இணைக்கப்படவில்லை. நடைமுறையில், ஒருவரைக் கார் திருடும் காவலர் அல்லது தீயணைப்பு வீரர் தன்னுடைய அணியிலேயே தொடர்வார் - தானியங்கி பதவியிறக்கம் உண்மையில் உங்களைத் தூக்கிவிடாது. அப்படியிருந்தாலும், குற்றக் கருவிகளை வைத்திருக்கும் கடமையிலுள்ள அதிகாரிகள் தானாகவே passive mode-லிருந்து வெளியேறுகிறார்கள், மேலும் Polis அணி passive-ஐப் பயன்படுத்தவே முடியாது, எனவே கடமையில் இருக்கும்போது குற்றம் செய்வது நடைமுறைக்கு ஒவ்வாதது மற்றும் roleplay-க்குப் பொருத்தமில்லாதது. நீங்கள் குற்றவாளியாக இருக்க விரும்பினால் முதலில் Visitors அல்லது Malaysians-க்கு மாறவும்.
 
-**Important:** If you're on an emergency-service team (POLIS, BOMBA, Kesihatan), committing a crime **auto-demotes you** off the team the moment you cross into 1-star wanted. Switch to Visitors or Malaysians first if you want to be a criminal.
+## குற்ற முறை
 
-## The offence system
+நீங்கள் செய்யும் ஒவ்வொரு குற்றமும் **offence புள்ளிகளை** சேர்க்கிறது. அதிக புள்ளிகள் இருந்தால், அதிக **வான்ட் நட்சத்திரங்கள்** கிடைக்கும், இது போலீஸ் உங்களுக்கு எப்படி பதிலளிக்கும் என்பதையும், கைது செய்யப்பட்டால் சிறையில் எத்தனை நேரம் இருப்பீர்கள் என்பதையும் பாதிக்கிறது.
 
-Every crime you commit adds **offence points**. The more points, the more **wanted stars** you get, which affects how police respond to you and how long you'll sit in jail if arrested.
+### வான்ட் நட்சத்திர வரம்புகள்
 
-### Wanted star thresholds
-
-| Offence points | Wanted stars |
+| Offence புள்ளிகள் | வான்ட் நட்சத்திரங்கள் |
 |----------------|--------------|
-| 0-9 | None |
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| 0-9 | இல்லை |
+| 10-24 | 1 நட்சத்திரம் |
+| 25-49 | 2 நட்சத்திரங்கள் |
+| 50-79 | 3 நட்சத்திரங்கள் |
+| 80-119 | 4 நட்சத்திரங்கள் |
+| 120+ | 5 நட்சத்திரங்கள் |
 
 ### Wanted decay
 
-If you manage to lay low (no new offences) for **5 minutes straight**, your wanted status fully resets. A short decay timer means committing one big crime and hiding can be enough to avoid a chase.
+நீங்கள் **5 நிமிடங்கள் தொடர்ச்சியாக** மறைந்திருக்க (புதிய குற்றங்கள் இல்லாமல்) முடிந்தால், உங்கள் wanted நிலை முழுவதும் ரீசெட் ஆகும். குறுகிய decay டைமர் என்பது ஒரு பெரிய குற்றம் செய்து மறைந்துகொள்வதே துரத்தலைத் தவிர்க்கப் போதுமானது என்று அர்த்தம்.
 
-## Crimes you can commit
+## நீங்கள் செய்யக்கூடிய குற்றங்கள்
 
-### Carjacking
+### கார்ஜாக்கிங்
 
-Steal someone else's parked vehicle.
+மற்றவருடைய நிறுத்தப்பட்ட வாகனத்தைத் திருடுங்கள்.
 
-**What you need:**
-- A **Slim Jim** tool (free from the **Abang Samseng (Carjack)** NPC - find him on the map and hold the proximity prompt). The Slim Jim is **consumed** on use, so you'll need to go back for another one per carjack.
-- You can't be on a law-enforcement team.
-- You can't be in passive mode, arrested, or detained.
+**உங்களுக்குத் தேவையானவை:**
+- ஒரு **Slim Jim** கருவி (**Abang Samseng (Carjack)** NPC-யிடமிருந்து இலவசம் - வரைபடத்தில் அவரைக் கண்டுபிடித்து proximity prompt-ஐப் பிடித்துக்கொள்ளுங்கள்). Slim Jim பயன்படுத்தியதும் **செலவழிக்கப்படுகிறது**, எனவே ஒவ்வொரு carjack-க்கும் மீண்டும் ஒன்றை எடுத்துக்கொண்டு வர வேண்டும்.
+- நீங்கள் சட்டம்-அமலாக்க அணியில் இருக்க முடியாது.
+- நீங்கள் passive mode-லோ, கைது செய்யப்பட்டிருக்கவோ, அல்லது தடுப்புக்காவலில் இருக்கவோ முடியாது.
 
-**How it works:**
-1. Approach a parked, unoccupied vehicle with the Slim Jim equipped.
-2. Hold F (or the mobile equivalent) for **3 seconds** within 15 studs of the driver's seat.
-3. The vehicle is now stolen - yours to drive.
-4. A **drop-off zone** is assigned to you randomly (shown on the minimap).
-5. Drive the stolen vehicle to the drop-off zone to sell it.
+**இது எப்படி வேலை செய்கிறது:**
+1. Slim Jim-ஐ பொருத்திக்கொண்டு நிறுத்தப்பட்ட, யாரும் இல்லாத வாகனத்தை நெருங்குங்கள்.
+2. ஓட்டுநர் இருக்கையிலிருந்து 15 studs-க்குள் F (அல்லது mobile சமமான பொத்தான்) **3 வினாடிகள்** பிடித்துக்கொள்ளுங்கள்.
+3. வாகனம் இப்போது திருடப்பட்டுவிட்டது - உங்களுக்கு ஓட்டுவதற்கு.
+4. உங்களுக்கு ஒரு **drop-off zone** தோராயமாக நியமிக்கப்படுகிறது (minimap-இல் காட்டப்படும்).
+5. திருடிய வாகனத்தை drop-off zone-க்கு ஓட்டிச் சென்று விற்கவும்.
 
-**Reward:** **500 to 1,200 Ringgit** (random, paid to your bank account).
+**வெகுமதி:** **500 முதல் 1,200 Ringgit** (தோராயமானது, உங்கள் வங்கிக் கணக்கில் செலுத்தப்படும்).
 
-**Limits:**
-- Stolen vehicles auto-despawn after **5 minutes**. You'll get warnings at 60 seconds and 10 seconds remaining.
-- You can only have **one stolen vehicle at a time**.
-- After carjacking once, you're on a **5-minute personal cooldown** before you can carjack again.
-- The Slim Jim is **consumed** on use - you'll need a new one for the next carjack.
-- You can't steal your own vehicle (the system knows who owns it via the plate).
+**வரம்புகள்:**
+- திருடப்பட்ட வாகனங்கள் **5 நிமிடங்களுக்குப் பிறகு** தானாகவே மறைந்துவிடும். 60 வினாடிகள் மற்றும் 10 வினாடிகள் மீதமிருக்கும்போது எச்சரிக்கைகள் கிடைக்கும்.
+- உங்களிடம் ஒரே நேரத்தில் **ஒரே ஒரு திருடப்பட்ட வாகனம்** மட்டுமே இருக்க முடியும்.
+- ஒரு முறை carjack செய்தபின், மீண்டும் carjack செய்ய முடியும் முன் **5-நிமிட தனிப்பட்ட cooldown** இருக்கும்.
+- Slim Jim பயன்படுத்தியதும் **செலவழிக்கப்படுகிறது** - அடுத்த carjack-க்கு உங்களுக்குப் புதியது ஒன்று தேவை.
+- உங்களுடைய சொந்த வாகனத்தை திருட முடியாது (plate மூலம் யார் உரிமையாளர் என்று system-க்குத் தெரியும்).
 
-**Offence:** +25 points (will hit 2 stars if you had nothing else going).
+**Offence:** +25 புள்ளிகள் (வேறு எதுவும் இல்லாதிருந்தால் 2 நட்சத்திரங்களை அடையும்).
 
-### Pickpocketing
+### பைதிருட்டு
 
-Steal Ringgit directly from another player's wallet.
+மற்றொரு விளையாட்டாளரின் wallet-லிருந்து நேரடியாக Ringgit-ஐ திருடுங்கள்.
 
-**What you need:**
-- A **Pickpocket Knife** tool (free from the **Abang Samseng (Pickpocket)** NPC - hold the proximity prompt to "Take Pickpocket Knife", ~1.5 seconds).
+**உங்களுக்குத் தேவையானவை:**
+- ஒரு **Pickpocket Knife** கருவி (**Abang Samseng (Pickpocket)** NPC-யிடமிருந்து இலவசம் - "Take Pickpocket Knife"-க்கு proximity prompt-ஐ ~1.5 வினாடிகள் பிடித்துக்கொள்ளுங்கள்).
 
-**How it works:**
-1. Equip the **Pickpocket Knife** tool.
-2. Get within **8 studs** of your target.
-3. Hold the action for **2 seconds** without being spotted.
-4. A random amount of Ringgit is transferred from their wallet to yours.
+**இது எப்படி வேலை செய்கிறது:**
+1. **Pickpocket Knife** கருவியை பொருத்தவும்.
+2. உங்கள் இலக்கிலிருந்து **8 studs**-க்குள் வாருங்கள்.
+3. கண்டுபிடிக்கப்படாமல் **2 வினாடிகள்** action-ஐ பிடித்துக்கொள்ளுங்கள்.
+4. தோராயமான Ringgit தொகை அவர்களின் wallet-லிருந்து உங்கள் wallet-க்கு மாற்றப்படும்.
 
-**Reward:** **80 to 300 Ringgit** (random amount, from the victim's wallet).
+**வெகுமதி:** **80 முதல் 300 Ringgit** (தோராய தொகை, பாதிக்கப்பட்டவரின் wallet-லிருந்து).
 
-**Limits:**
-- Once you pickpocket someone, there's a **30-second cooldown** before you can pickpocket again.
-- The victim has a **60-second cooldown** where they can't be pickpocketed again.
-- There's a **180-second recovery window** where the victim may be able to report / reclaim.
+**வரம்புகள்:**
+- ஒருவரை pickpocket செய்தவுடன், மீண்டும் pickpocket செய்ய முடியும் முன் **30-வினாடி cooldown** இருக்கும்.
+- பாதிக்கப்பட்டவருக்கு **60-வினாடி cooldown** இருக்கும், அப்போது அவர்களை மீண்டும் pickpocket செய்ய முடியாது.
+- பாதிக்கப்பட்டவர் புகார் அளிக்கவோ / மீட்கவோ முடியும் **180-வினாடி recovery window** உள்ளது.
 
-**Offence:** +20 points.
+**Offence:** +20 புள்ளிகள்.
 
 #### NPC pickpocketing
 
-You can also pickpocket **civilian NPCs** that walk around the map:
+வரைபடத்தைச் சுற்றி நடக்கும் **குடிமக்கள் NPC-களையும்** நீங்கள் pickpocket செய்யலாம்:
 
-- Up to 5 NPCs are out at a time.
-- Each carries between 50 and 200 Ringgit.
-- NPCs respawn 2 minutes after they're pickpocketed.
+- ஒரே நேரத்தில் 5 NPC-கள் வரை வெளியே இருப்பார்கள்.
+- ஒவ்வொருவரும் 50 முதல் 200 Ringgit-க்கு இடையில் எடுத்துச் செல்கிறார்கள்.
+- NPC-கள் pickpocket செய்யப்பட்ட 2 நிமிடங்களுக்குப் பிறகு மீண்டும் தோன்றுகிறார்கள்.
 
-NPC pickpocketing also costs offence points, but NPCs can't chase or report you, so it's a lower-risk way to farm.
+NPC pickpocketing-க்கும் offence புள்ளிகள் செலவாகும், ஆனால் NPC-கள் உங்களைத் துரத்தவோ புகார் அளிக்கவோ முடியாது, எனவே இது குறைந்த-ஆபத்து farm செய்யும் வழி.
 
-### Animal trafficking
+### விலங்கு கடத்தல்
 
-Smuggle illegal wildlife across Sumaya for a cash payout.
+பண பரிசுக்காக Sumaya முழுவதும் சட்டவிரோத வனவிலங்குகளை கடத்துங்கள்.
 
-**How it works:**
-1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 5 minutes - look for the highlighted spawn).
-2. Accept the job through the prompt.
-3. An illegal animal tool is given to you.
-4. You're told the **destination** (a specific drop-off part).
-5. Transport the animal to the destination to get paid.
+**இது எப்படி வேலை செய்கிறது:**
+1. "criminal part"-இல் நிற்கும் **criminal NPC**-ஐக் கண்டுபிடியுங்கள் (ஒவ்வொரு 5 நிமிடங்களுக்கும் வரைபடத்தைச் சுற்றிச் சுழல்கிறது - highlight செய்யப்பட்ட spawn-ஐத் தேடுங்கள்).
+2. Prompt மூலம் வேலையை ஏற்றுக்கொள்ளுங்கள்.
+3. உங்களுக்கு ஒரு சட்டவிரோத விலங்கு கருவி கொடுக்கப்படுகிறது.
+4. உங்களுக்கு **destination** (ஒரு குறிப்பிட்ட drop-off part) சொல்லப்படுகிறது.
+5. பணம் பெற விலங்கை destination-க்கு கொண்டுசெல்லுங்கள்.
 
-**Animals available:**
+**கிடைக்கும் விலங்குகள்:**
 
-| Animal | Payout (to bank) |
+| விலங்கு | பணம் (வங்கிக்கு) |
 |--------|------------------|
 | Illegal Turtle Egg | 400 Ringgit |
 | Illegal Pangolin | 1,000 Ringgit |
 | Illegal Hornbill | 2,000 Ringgit |
 
-The animal you get is random.
+நீங்கள் பெறும் விலங்கு தோராயமானது.
 
-**Limits:**
-- 5-minute cooldown between jobs.
-- You need to get the animal to the destination - can't drop it or get arrested mid-way.
+**வரம்புகள்:**
+- வேலைகளுக்கு இடையில் 5-நிமிட cooldown.
+- விலங்கை destination-க்கு நீங்கள் கொண்டுசெல்ல வேண்டும் - இடையில் அதைக் கைவிடவோ, கைது செய்யப்படவோ முடியாது.
 
-**Offence:** +50 points - that's 1 star in a single action. Keep committing more and you'll ramp fast.
+**Offence:** +50 புள்ளிகள் - ஒரே action-இல் அது 1 நட்சத்திரம். மேலும் தொடர்ந்து செய்து கொண்டிருந்தால் வேகமாக உயர்வீர்கள்.
 
-### Other offences
+### பிற offences
 
-A few other actions add offence points even if they're not really "crime sprees":
+"crime sprees" என்று சரியாகச் சொல்ல முடியாவிட்டாலும் வேறு சில actions-ம் offence புள்ளிகளை சேர்க்கின்றன:
 
-| Offence | Points | Passive lock |
+| Offence | புள்ளிகள் | Passive lock |
 |---------|--------|--------------|
-| Vehicle crash (hitting another player or parked car) | 5 | 30 seconds |
-| Speeding inside a speed trap zone | 10 | 60 seconds |
+| வாகன விபத்து (மற்றொரு விளையாட்டாளர் அல்லது நிறுத்தப்பட்ட காரை இடிப்பது) | 5 | 30 வினாடிகள் |
+| Speed trap zone-க்குள் அதிவேகமாக ஓட்டுவது | 10 | 60 வினாடிகள் |
 
-"Passive lock" means your passive-mode toggle is disabled for a period after the offence - so you can't instantly go invulnerable.
+"Passive lock" என்றால் offence-க்குப் பிறகு சில காலத்திற்கு உங்கள் passive-mode toggle முடக்கப்படுகிறது - எனவே நீங்கள் உடனடியாக invulnerable ஆக முடியாது.
 
-## Exemptions
+## விலக்குகள்
 
-You **can't be cited** for speeding or crashes if:
+பின்வருவனவாக இருந்தால் அதிவேகம் அல்லது விபத்துக்களுக்காக உங்களுக்கு **குற்றச்சாட்டு பதிவு செய்ய முடியாது**:
 
-- You're in an **emergency vehicle** (Polis, Bomba, Kesihatan) with the **siren active**. This is how on-duty responders avoid penalty on their way to a call.
-- You're currently in **passive mode** when you crash. Passive drivers don't accumulate crash offence points. (You'll still take injury damage if the injury system is on, though — passive protects from PvP and offence tickets, not crash physics.)
+- நீங்கள் **siren active** ஆக இருக்கும் **அவசர வாகனத்தில்** (Polis, Bomba, Kesihatan) இருக்கிறீர்கள். ஒரு call-க்குச் செல்லும் வழியில் கடமையிலுள்ள responders தண்டனையைத் தவிர்க்கும் முறை இதுதான்.
+- விபத்து ஏற்படும்போது நீங்கள் **passive mode**-ல் இருக்கிறீர்கள். Passive ஓட்டுநர்கள் crash offence புள்ளிகளை சேர்க்காது. (Injury system இயக்கத்தில் இருந்தால் நீங்கள் இன்னும் injury damage எடுப்பீர்கள் — passive PvP மற்றும் offence tickets-லிருந்து பாதுகாக்கிறது, crash physics-லிருந்து அல்ல.)
 
-Outside of that, everyone is fair game.
+இதற்கு வெளியே, எல்லோரும் சட்டபூர்வமான இலக்கு.
 
-## Getting arrested
+## கைது செய்யப்படுதல்
 
-If a POLIS player successfully uses handcuffs on you while you're wanted, you're **arrested** and sent to jail.
+நீங்கள் wanted-ஆக இருக்கும்போது ஒரு POLIS விளையாட்டாளர் உங்கள் மீது handcuffs-ஐ வெற்றிகரமாகப் பயன்படுத்தினால், நீங்கள் **கைது செய்யப்பட்டு** சிறைக்கு அனுப்பப்படுவீர்கள்.
 
-### Jail duration
+### சிறை காலம்
 
-| Wanted stars at arrest | Jail time |
+| கைதின்போது wanted நட்சத்திரங்கள் | சிறை நேரம் |
 |------------------------|-----------|
-| 1 | 30 seconds |
-| 2 | 1 minute |
-| 3 | 2 minutes |
-| 4 | 3 minutes |
-| 5 | 5 minutes |
+| 1 | 30 வினாடிகள் |
+| 2 | 1 நிமிடம் |
+| 3 | 2 நிமிடங்கள் |
+| 4 | 3 நிமிடங்கள் |
+| 5 | 5 நிமிடங்கள் |
 
-### While in jail
+### சிறையில் இருக்கும்போது
 
-- A jail HUD shows your remaining time.
-- You can't switch teams.
-- When the timer ends, you're released and your offences reset.
+- ஒரு jail HUD உங்கள் மீதமிருக்கும் நேரத்தைக் காட்டுகிறது.
+- நீங்கள் அணிகளை மாற்ற முடியாது.
+- டைமர் முடிவடையும்போது, நீங்கள் விடுவிக்கப்பட்டு உங்கள் offences ரீசெட் ஆகும்.
 
-### Surrendering
+### சரணாகதி அடைதல்
 
-Instead of running from the cops, you can walk up to a **surrender prompt** (usually near police stations or public locations) and turn yourself in. This cuts your jail time roughly in half:
+காவலர்களிடமிருந்து ஓடுவதற்குப் பதிலாக, நீங்கள் ஒரு **surrender prompt**-க்கு (பொதுவாக காவல் நிலையங்கள் அல்லது பொது இடங்களுக்கு அருகில்) நடந்து சென்று சரணடையலாம். இது உங்கள் சிறை நேரத்தை கிட்டத்தட்ட பாதியாகக் குறைக்கிறது:
 
-| Stars | Jail time if surrendered | Passive lock after release |
+| நட்சத்திரங்கள் | சரணடைந்தால் சிறை நேரம் | விடுவிப்புக்குப் பின் passive lock |
 |-------|---------------------------|----------------------------|
-| 1 | 15 seconds | 1 minute |
-| 2 | 30 seconds | 2 minutes |
-| 3 | 1 minute | 4 minutes |
-| 4 | 90 seconds | 6 minutes |
-| 5 | 150 seconds | 10 minutes |
+| 1 | 15 வினாடிகள் | 1 நிமிடம் |
+| 2 | 30 வினாடிகள் | 2 நிமிடங்கள் |
+| 3 | 1 நிமிடம் | 4 நிமிடங்கள் |
+| 4 | 90 வினாடிகள் | 6 நிமிடங்கள் |
+| 5 | 150 வினாடிகள் | 10 நிமிடங்கள் |
 
-Passive lock means you can't toggle passive mode for that duration after release - so the cops still have a window to catch you if you restart.
+Passive lock என்றால் விடுவிப்புக்குப் பிறகு அந்த காலத்திற்கு passive mode-ஐ toggle செய்ய முடியாது - எனவே நீங்கள் மீண்டும் தொடங்கினால் காவலர்களுக்கு உங்களைப் பிடிக்க இன்னும் ஒரு window உள்ளது.
 
-### Leaving mid-offence
+### Offence நடுவே வெளியேறுதல்
 
-If you log out while wanted, you'll serve **more** jail time on your next session:
+நீங்கள் wanted-ஆக இருக்கும்போது log out செய்தால், அடுத்த session-இல் **அதிக** சிறை நேரத்தை அனுபவிப்பீர்கள்:
 
-| Stars | LTAA jail time |
+| நட்சத்திரங்கள் | LTAA சிறை நேரம் |
 |-------|----------------|
-| 1 | 45 seconds |
-| 2 | 90 seconds |
-| 3 | 150 seconds |
-| 4 | 4 minutes |
-| 5 | 6 minutes |
+| 1 | 45 வினாடிகள் |
+| 2 | 90 வினாடிகள் |
+| 3 | 150 வினாடிகள் |
+| 4 | 4 நிமிடங்கள் |
+| 5 | 6 நிமிடங்கள் |
 
-(LTAA = "Leave To Avoid Arrest".) Quitting doesn't save you.
+(LTAA = "Leave To Avoid Arrest".) வெளியேறுவது உங்களைக் காப்பாற்றாது.
 
-## Tips
+## குறிப்புகள்
 
-- **Plan your routes.** Before you carjack, check where the drop-off zone is - if it's on the other side of town and you can't get there in 5 minutes, you've lost the car.
-- **Don't commit crimes in passive mode.** You can't carjack, pickpocket, or traffic while in passive mode - the system blocks it.
-- **Watch offence points vs stars.** At 25 points you're a 2-star target; police reward for arresting you just doubled. Time to lay low and let decay kick in.
-- **Pickpocket NPCs for safe grinding.** Lower risk than player pickpocket, similar reward. Good for grinding offence-tracking achievements if any.
-- **Animal trafficking is 50 points per run.** One run = 1 star minimum. Two runs without decay = 3 stars. Don't get greedy.
-- **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimizes downtime.
+- **உங்கள் பாதைகளைத் திட்டமிடுங்கள்.** Carjack செய்வதற்கு முன், drop-off zone எங்கே என்று சரிபார்க்கவும் - அது ஊரின் மறுபுறத்தில் இருந்து 5 நிமிடங்களில் சென்றடைய முடியாவிட்டால், கார் இழந்துவிடுவீர்கள்.
+- **Passive mode-ல் குற்றங்கள் செய்யாதீர்கள்.** Passive mode-ல் நீங்கள் carjack, pickpocket அல்லது traffic செய்ய முடியாது - system அதைத் தடுக்கிறது.
+- **Offence புள்ளிகள் vs நட்சத்திரங்களை கண்காணியுங்கள்.** 25 புள்ளிகளில் நீங்கள் 2-நட்சத்திர இலக்கு; உங்களைக் கைது செய்வதற்கான காவல் வெகுமதி இப்போதுதான் இரட்டிப்பானது. மறைந்து decay-ஐ வர விடவேண்டிய நேரம்.
+- **பாதுகாப்பான grinding-க்கு NPC-களை pickpocket செய்யுங்கள்.** Player pickpocket-ஐ விட குறைவான ஆபத்து, இதேபோன்ற வெகுமதி. Offence-tracking achievements எதாவது இருந்தால் grind செய்ய நல்லது.
+- **விலங்கு கடத்தல் ஒரு run-க்கு 50 புள்ளிகள்.** ஒரு run = குறைந்தது 1 நட்சத்திரம். Decay இல்லாமல் இரண்டு runs = 3 நட்சத்திரங்கள். பேராசை கொள்ளாதீர்கள்.
+- **5 நட்சத்திரங்களுக்கு முன் சரணடையுங்கள்.** உங்களிடம் ஏற்கனவே Hornbill பணம் வங்கியில் இருந்தால், சரணடைவது உங்கள் offence-ஐ clear-ஆக வைத்திருக்கும் மற்றும் downtime-ஐ குறைக்கும்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Polis](/sumaya/polis) to see the other side.
-- [Phone and UI](/sumaya/phone) for the Passive Mode toggle and the MDT app.
-- [Vehicles](/sumaya/vehicles) for what you can steal (anyone's parked ride that isn't yours).
+- மறுபக்கத்தைப் பார்க்க [Polis](/sumaya/polis).
+- Passive Mode toggle மற்றும் MDT app-க்கு [Phone and UI](/sumaya/phone).
+- நீங்கள் எதைத் திருடலாம் (உங்களுடையதல்லாத யாரது நிறுத்தப்பட்ட வாகனமும்) என்பதற்கு [Vehicles](/sumaya/vehicles).

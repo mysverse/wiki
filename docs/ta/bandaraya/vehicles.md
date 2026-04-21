@@ -1,159 +1,160 @@
 ---
-title: Vehicles
-description: 'Spawning, driving, fuel, and buying or renting vehicles in Bandaraya.'
+title: வாகனங்கள்
+description: >-
+  Bandaraya-வில் வாகனங்களை உருவாக்குதல், ஓட்டுதல், எரிபொருள் நிரப்புதல்,
+  வாங்குதல் அல்லது வாடகைக்கு எடுத்தல்.
 lang: ta
 translated_from_hash: a0f91fad
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வாகனங்கள்
 
-# Vehicles
+Bandaraya-வில் 25+ அமைப்புகளில் 200+ வாகனங்கள் உள்ளன — PDRM MPV-கள் மற்றும் கவச வாகனங்கள், தீயணைப்பு வண்டிகள், ராணுவ கவசம், ஹெலிகாப்டர்கள், பஸ்கள், மோட்டார் சைக்கிள்கள், மற்றும் Proton, Perodua, Toyota போன்றவற்றைக் கொண்ட பொதுமக்கள் கடற்படை. ஒன்றில் ஏறி அதை இயங்க வைப்பது எப்படி என்பதை இந்தப் பக்கம் விவரிக்கிறது.
 
-Bandaraya has 200+ vehicles across 25+ organisations — police MPVs and armoured vehicles, fire trucks, military armour, helicopters, buses, motorcycles, and a civilian fleet of Protons, Peroduas, Toyotas, and more. This page covers how to get into one and keep it running.
+## சுருக்கம்
 
-## TL;DR
-
-- **Spawn** at a team-appropriate spawner. Civilians use the **Classic Car Dealer** for dealership cars.
-- **Drive** with W/A/S/D, Space for handbrake, **F1** toggles mouse steering.
-- **Fuel** matters. Fill up at **Radtrol Gas Station @ Jalan Pinang** or charge at **Community Retail**.
-- **Crash damage** is real — don't use your civic as a battering ram.
-- **Dealership** cars are yours forever once bought.
+- உங்கள் அணிக்கு ஏற்ற ஸ்பாவ்னரில் **ஸ்பாவ்ன்** செய்யவும். பொதுமக்கள் டீலர்ஷிப் கார்களுக்கு **Classic Car Dealer**-ஐப் பயன்படுத்துகின்றனர்.
+- W/A/S/D-ஆல் **ஓட்டவும்**, Space கைப்பிரேக், **F1** மவுஸ் ஸ்டீரிங்கை மாற்றுகிறது.
+- **எரிபொருள்** முக்கியம். **Radtrol Gas Station @ Jalan Pinang**-ல் நிரப்பவும் அல்லது **Community Retail**-ல் சார்ஜ் செய்யவும்.
+- **விபத்து சேதம்** உண்மையானது — உங்கள் civic-ஐ மோதும் வண்டியாகப் பயன்படுத்த வேண்டாம்.
+- **டீலர்ஷிப்** கார்கள் வாங்கியபின் என்றென்றும் உங்களுடையதே.
 
 ---
 
-## Spawning a vehicle
+## வாகனத்தை ஸ்பாவ்ன் செய்தல்
 
-Each team has its own set of spawners. You can only use the ones your team is allowed to use.
+ஒவ்வொரு அணிக்கும் அதன் சொந்த ஸ்பாவ்னர்கள் உள்ளன. உங்கள் அணிக்கு அனுமதிக்கப்பட்டவற்றை மட்டுமே நீங்கள் பயன்படுத்த முடியும்.
 
-1. Walk to a vehicle spawner (PDRM spawners outside IPD Dang Wangi, BOMBA spawners at the fire station, MyTransit at the depot, Classic Car Dealer for civilian rentals/purchases, etc.).
-2. Press **E** (or the proximity button).
-3. A panel with a 3-D preview of each available vehicle opens.
-4. Browse with **A / D / arrow keys** or the nav buttons.
-5. **Space / Enter** to spawn. **Escape** to close.
-6. Your vehicle appears at the spawn pad. Sit in the driver seat to drive.
+1. ஒரு வாகன ஸ்பாவ்னருக்கு நடந்து செல்லவும் (IPD Dang Wangi வெளியே PDRM ஸ்பாவ்னர்கள், தீயணைப்பு நிலையத்தில் BOMBA ஸ்பாவ்னர்கள், டிப்போவில் MyTransit, பொதுமக்கள் வாடகை/வாங்குதலுக்கான Classic Car Dealer, முதலியன).
+2. **E** (அல்லது அருகாமை பொத்தான்) அழுத்தவும்.
+3. ஒவ்வொரு கிடைக்கக்கூடிய வாகனத்தின் 3-D முன்னோட்டத்துடன் ஒரு பேனல் திறக்கும்.
+4. **A / D / அம்பு விசைகள்** அல்லது நேவ் பொத்தான்களுடன் உலாவவும்.
+5. ஸ்பாவ்ன் செய்ய **Space / Enter**. மூட **Escape**.
+6. உங்கள் வாகனம் ஸ்பாவ்ன் பேடில் தோன்றும். ஓட்டுவதற்கு ஓட்டுநர் இருக்கையில் அமரவும்.
 
-If the spawner isn't letting you through, you probably don't meet the team requirements. See [Teams](/bandaraya/teams).
+ஸ்பாவ்னர் உங்களை அனுமதிக்கவில்லை என்றால், நீங்கள் அணி தேவைகளைப் பூர்த்தி செய்யவில்லை என்பதால் இருக்கலாம். [அணிகள்](/bandaraya/teams) பார்க்கவும்.
 
-## Driving
+## ஓட்டுதல்
 
-Bandaraya uses the **A-Chassis** physics engine. Controls:
+Bandaraya **A-Chassis** இயற்பியல் என்ஜினைப் பயன்படுத்துகிறது. கட்டுப்பாடுகள்:
 
-| Key | Action |
+| விசை | செயல் |
 | --- | --- |
-| **W / S** | Accelerate / brake |
-| **A / D** | Steer |
-| **Space** | Handbrake |
-| **Shift** | Clutch / boost (varies by vehicle) |
-| **F1** | Toggle mouse-based steering |
-| **C** / **V** | Camera toggle / cycle (some vehicles) |
-| On-screen buttons | Horn, siren, lights, doors, windows — emergency vehicles have many |
+| **W / S** | முடுக்கு / பிரேக் |
+| **A / D** | திருப்பு |
+| **Space** | கைப்பிரேக் |
+| **Shift** | கிளட்ச் / பூஸ்ட் (வாகனத்திற்கேற்ப மாறும்) |
+| **F1** | மவுஸ் அடிப்படையிலான ஸ்டீரிங்கை மாற்று |
+| **C** / **V** | கேமரா மாற்று / சுழற்சி (சில வாகனங்கள்) |
+| திரையிலான பொத்தான்கள் | ஹார்ன், சைரன், விளக்குகள், கதவுகள், ஜன்னல்கள் — அவசர வாகனங்களில் பல உள்ளன |
 
-### Mouse steering
-**F1** is the important one. With mouse-steer on, your mouse position controls wheel angle — much finer than keyboard-only. Most experienced drivers use it.
+### மவுஸ் ஸ்டீரிங்
+**F1** முக்கியமானது. மவுஸ்-ஸ்டீர் இயக்கத்தில், உங்கள் மவுஸ் நிலை சக்கர கோணத்தைக் கட்டுப்படுத்துகிறது — விசைப்பலகை மட்டுமே பயன்படுத்துவதை விட மிகவும் நுணுக்கமானது. பெரும்பாலான அனுபவம் வாய்ந்த ஓட்டுநர்கள் இதைப் பயன்படுத்துகிறார்கள்.
 
-### Tips for driving
+### ஓட்டுவதற்கான குறிப்புகள்
 
-- **Ease off the throttle.** Cars will oversteer at high speeds, especially in the rain.
-- **Use handbrake for drifts.** Press Space mid-corner.
-- **Indicators matter** for roleplay realism, especially on public services.
-- **Don't crash intentionally** — you'll take damage and (if civilian) pay to replace the car.
+- **ஆக்ஸிலரேட்டரை தளர்த்துங்கள்.** அதிக வேகத்தில், குறிப்பாக மழையில், கார்கள் அதிகமாக திருப்பப்படும்.
+- **ட்ரிஃப்ட்டிற்கு கைப்பிரேக்கைப் பயன்படுத்தவும்.** வளைவின் நடுவில் Space அழுத்தவும்.
+- **சமிக்ஞைகள் முக்கியம்** roleplay யதார்த்தத்திற்கு, குறிப்பாக பொது சேவைகளில்.
+- **வேண்டுமென்றே மோத வேண்டாம்** — நீங்கள் சேதம் அடைவீர்கள் மற்றும் (பொதுமக்கள் என்றால்) காரை மாற்ற பணம் செலுத்த வேண்டும்.
 
-## Fuel
+## எரிபொருள்
 
-Vehicles burn fuel as you drive. Check your fuel gauge — it'll warn you before running dry.
+நீங்கள் ஓட்டும்போது வாகனங்கள் எரிபொருளை எரிக்கின்றன. உங்கள் எரிபொருள் கேஜைச் சரிபார்க்கவும் — தீர்ந்து போவதற்கு முன்பு அது எச்சரிக்கும்.
 
-| Fuel type | Fill at |
+| எரிபொருள் வகை | நிரப்பும் இடம் |
 | --- | --- |
-| **Petrol / Diesel** | **Radtrol Gas Station @ Jalan Pinang** |
-| **Electric** | **2× Charging Stations @ Community Retail** |
+| **பெட்ரோல் / டீசல்** | **Radtrol Gas Station @ Jalan Pinang** |
+| **மின்சாரம்** | **Community Retail-ல் 2× சார்ஜிங் ஸ்டேஷன்கள்** |
 
-To refuel:
+எரிபொருள் நிரப்புவதற்கு:
 
-1. Drive onto the pump / charger.
-2. Exit the vehicle.
-3. Interact with the pump. Pay BR.
-4. Wait for the fuel bar to fill.
+1. பம்ப் / சார்ஜருக்கு ஓட்டிச் செல்லவும்.
+2. வாகனத்திலிருந்து வெளியேறுங்கள்.
+3. பம்புடன் தொடர்பு கொள்ளவும். BR செலுத்தவும்.
+4. எரிபொருள் பார் நிரம்புவதற்காக காத்திருக்கவும்.
 
-You can also carry a **jerry can** for emergency refuels.
+நீங்கள் அவசர எரிபொருள் நிரப்புதலுக்காக **ஜெர்ரி கேனையும்** எடுத்துச் செல்லலாம்.
 
-## Vehicle health & crash damage
+## வாகன ஆரோக்கியம் & விபத்து சேதம்
 
-Every vehicle has a health pool:
+ஒவ்வொரு வாகனத்திற்கும் ஒரு ஆரோக்கிய தொகுப்பு உள்ளது:
 
-| Class | Health |
+| வகுப்பு | ஆரோக்கியம் |
 | --- | --- |
-| Superior (armoured, heavy-duty) | 500 |
-| Standard civilian cars | 100 |
-| Motorcycles | 50 |
+| மேம்பட்டவை (கவசம், கனரக) | 500 |
+| நிலையான பொதுமக்கள் கார்கள் | 100 |
+| மோட்டார் சைக்கிள்கள் | 50 |
 
-When you crash:
+நீங்கள் மோதும்போது:
 
-- **Into another vehicle** (rear-end, side-swipe, PIT manoeuvre): damage scales with the relative speed.
-- **Into walls / static objects**: damage scales with your closing speed. Scraping along a wall doesn't damage you (good for tight corners).
+- **மற்றொரு வாகனத்துடன்** (பின்புற மோதல், பக்கவாட்டு மோதல், PIT சூழ்ச்சி): சேதம் தொடர்புடைய வேகத்திற்கு ஏற்ப அளவிடப்படுகிறது.
+- **சுவர்கள் / நிலையான பொருட்களுடன்**: உங்கள் நெருங்கும் வேகத்திற்கு ஏற்ப சேதம் அளவிடப்படுகிறது. சுவருடன் தேய்ப்பது உங்களை சேதப்படுத்தாது (குறுகிய வளைவுகளுக்கு நல்லது).
 
-**Anti-cheat trivia:** a previous bug let some vehicles (HCC GTRs, FLAXIM Vellfire) ignore PIT damage. Fixed. Police chases are back to working properly.
+**ஆன்டி-சீட் சிறு தகவல்:** முந்தைய பிழை சில வாகனங்களை (HCC GTR-கள், FLAXIM Vellfire) PIT சேதத்தை புறக்கணிக்க அனுமதித்தது. சரி செய்யப்பட்டது. போலீஸ் துரத்தல்கள் சரியாக மீண்டும் வேலை செய்கின்றன.
 
-## Vehicle registration
+## வாகனப் பதிவு
 
-Every spawned vehicle gets a plate. You can look up plates in the **Vehicle Management** tablet app (see [Tablet](/bandaraya/tablet)).
+ஒவ்வொரு ஸ்பாவ்ன் செய்யப்பட்ட வாகனத்திற்கும் ஒரு ப்ளேட் கிடைக்கிறது. நீங்கள் **Vehicle Management** டேப்லெட் அப்ளிகேஷனில் ப்ளேட்டைத் தேடலாம் ([Tablet](/bandaraya/tablet) பார்க்கவும்).
 
-Ownership registration is automatic — the plate is tied to the person who spawned the car. PDRM use this for traffic stops.
+உரிமைப் பதிவு தானாகவே செயல்படுகிறது — ப்ளேட் காரை ஸ்பாவ்ன் செய்தவருடன் இணைக்கப்பட்டுள்ளது. போக்குவரத்து நிறுத்தங்களுக்கு PDRM இதைப் பயன்படுத்துகிறது.
 
-## Bulletproofing
+## தோட்டாக்கள் தாங்கும் தன்மை
 
-Some vehicles are armoured. Look for:
+சில வாகனங்கள் கவசமாக்கப்பட்டுள்ளன. தேடுங்கள்:
 
-- **AV4** — PDRM armoured vehicle (29 armour plates in the cabin). Proper bulletproof.
-- **V150** — PDRM armoured vehicle.
-- **UTK Hilux variants** — bulletproof around the cabin.
+- **AV4** — PDRM கவச வாகனம் (கேபினில் 29 கவசத் தகடுகள்). சரியான தோட்டாக்கள் தாங்கும்.
+- **V150** — PDRM கவச வாகனம்.
+- **UTK Hilux மாறுபாடுகள்** — கேபினைச் சுற்றி தோட்டாக்கள் தாங்கும்.
 
-Regular civilian cars are **not** bulletproof. Don't assume your Proton will stop a round.
+சாதாரண பொதுமக்கள் கார்கள் தோட்டாக்கள் தாங்குவது **இல்லை**. உங்கள் Proton ஒரு தோட்டாவை நிறுத்தும் என்று எண்ண வேண்டாம்.
 
-## Dealership (Classic Car Dealer)
+## டீலர்ஷிப் (Classic Car Dealer)
 
-The civilian dealership. Walk up, pick a model, configure, pay.
+பொதுமக்கள் டீலர்ஷிப். நடந்து செல்லவும், ஒரு மாடலைத் தேர்ந்தெடுக்கவும், கட்டமைக்கவும், செலுத்தவும்.
 
-### Brands
+### பிராண்டுகள்
 
 - **Proton**: Saga, Persona, Preve, X70, Inspira
 - **Perodua**: Myvi, Bezza, Aruz
 - **Toyota**: Vellfire, Hilux
 - **Honda**: Civic, City
 - **Ford**: Mustang
-- **BMW / Mitsubishi** and more
+- **BMW / Mitsubishi** மற்றும் இன்னும் பல
 
-### Options
+### விருப்பங்கள்
 
-- **Buy** — permanent. Saved to your account. Auto-saves every 30 seconds.
-- **Rent** — temporary session-based use.
-- **Paint** — pick from a set of colours per model, glossy or matte.
+- **வாங்குதல்** — நிரந்தரம். உங்கள் கணக்கில் சேமிக்கப்படுகிறது. ஒவ்வொரு 30 வினாடிகளுக்கும் தானாக சேமிக்கப்படுகிறது.
+- **வாடகை** — தற்காலிக அமர்வு-அடிப்படையிலான பயன்பாடு.
+- **வண்ணம்** — ஒவ்வொரு மாடலுக்கும் ஒரு வண்ணத் தொகுப்பிலிருந்து தேர்ந்தெடுக்கவும், மினுமினுப்பு அல்லது மேட்.
 
-Example colour set (Perodua Myvi): Granite Grey, Peppermint Green, Lava Red, Glittering Silver, Ivory White, Sunflower Yellow.
+எடுத்துக்காட்டு வண்ணத் தொகுப்பு (Perodua Myvi): Granite Grey, Peppermint Green, Lava Red, Glittering Silver, Ivory White, Sunflower Yellow.
 
-### HCC vehicles
-If you own the **High Class Citizen gamepass**, luxury vehicles (BMW i7, Volvo XC90, Mercedes C300) are available at the dealership as well.
+### HCC வாகனங்கள்
+நீங்கள் **High Class Citizen gamepass** வைத்திருந்தால், ஆடம்பர வாகனங்கள் (BMW i7, Volvo XC90, Mercedes C300) டீலர்ஷிப்பிலும் கிடைக்கின்றன.
 
-## Helicopters
+## ஹெலிகாப்டர்கள்
 
-PDRM and BOMBA have helicopter spawners at their stations. Team-specific — civilians can't spawn them.
+PDRM மற்றும் BOMBA தங்கள் நிலையங்களில் ஹெலிகாப்டர் ஸ்பாவ்னர்களை வைத்திருக்கின்றன. அணி-குறிப்பிட்டது — பொதுமக்கள் அவற்றை ஸ்பாவ்ன் செய்ய முடியாது.
 
-- Spawn via the on-screen **ViewportFrame** picker.
-- A spawned helicopter regenerates 8 seconds after destruction.
+- திரையிலான **ViewportFrame** தேர்வியின் மூலம் ஸ்பாவ்ன் செய்யவும்.
+- அழிக்கப்பட்ட 8 வினாடிகளுக்குப் பிறகு ஸ்பாவ்ன் செய்யப்பட்ட ஹெலிகாப்டர் மீண்டும் உருவாகிறது.
 
-Don't crash a helicopter into a building.
+ஒரு ஹெலிகாப்டரை ஒரு கட்டிடத்தில் மோத வேண்டாம்.
 
-## Tips & gotchas
+## குறிப்புகள் & சிக்கல்கள்
 
-- **Your vehicle disappears when you die.** Well, actually, it'll still be on the street — but controls won't work without the driver. Come back and get in.
-- **Some vehicles have team-specific body children** (lights, sirens, reverse, hazards, drag racing hud). Not every car has all of them. If a button doesn't do anything, that vehicle doesn't support it.
-- **Kickstands work on motorcycles.** Dismount and the bike parks itself properly (that was a long-standing bug, now fixed).
-- **Streaming is disabled for vehicles.** That's why they always render at range — but it costs a little extra performance.
-- **Abusing vehicles to grief** (glitching another player's car, spawn-ramming civilians) is a banable offence. See [Rules](/bandaraya/rules).
+- **நீங்கள் இறக்கும்போது உங்கள் வாகனம் மறைந்துவிடும்.** உண்மையில், அது இன்னும் தெருவில் இருக்கும் — ஆனால் ஓட்டுநர் இல்லாமல் கட்டுப்பாடுகள் செயல்படாது. திரும்பி வந்து ஏறுங்கள்.
+- **சில வாகனங்களில் அணி-குறிப்பிட்ட body children உள்ளன** (விளக்குகள், சைரன்கள், ரிவர்ஸ், ஹாசர்ட்ஸ், drag racing hud). ஒவ்வொரு காரிலும் அனைத்தும் இல்லை. ஒரு பொத்தான் எதுவும் செய்யவில்லை என்றால், அந்த வாகனம் அதை ஆதரிக்கவில்லை.
+- **கிக்ஸ்டாண்ட்கள் மோட்டார் சைக்கிள்களில் வேலை செய்கின்றன.** இறங்கினால் பைக் தானாக சரியாக நிறுத்தப்படும் (அது நீண்டகால பிழை, இப்போது சரிசெய்யப்பட்டது).
+- **வாகனங்களுக்கு streaming முடக்கப்பட்டுள்ளது.** அதனால்தான் அவை எப்போதும் தூரத்தில் ரெண்டர் செய்யப்படுகின்றன — ஆனால் இது கொஞ்சம் கூடுதல் செயல்திறனை செலவழிக்கிறது.
+- **தொந்தரவு செய்வதற்காக வாகனங்களை துஷ்பிரயோகம் செய்வது** (மற்றொரு பிளேயரின் காரை குழப்புதல், ஸ்பாவ்ன்-ராம்மிங் பொதுமக்கள்) தடை செய்யக்கூடிய குற்றமாகும். [விதிகள்](/bandaraya/rules) பார்க்கவும்.
 
-## See also
+## மேலும் பார்க்கவும்
 
-- [Economy](/bandaraya/economy) — dealership pricing, fuel costs
-- [Jobs](/bandaraya/jobs) — Taxi, Tow, Bus driving
-- [Emergency Services](/bandaraya/emergency-services) — PDRM / BOMBA / MAF vehicle access
-- [Map](/bandaraya/locations) — where to find fuel, charging, the dealership
-- [Tablet](/bandaraya/tablet) — Vehicle Management app
+- [பொருளாதாரம்](/bandaraya/economy) — டீலர்ஷிப் விலை, எரிபொருள் செலவுகள்
+- [வேலைகள்](/bandaraya/jobs) — டாக்ஸி, டவ், பஸ் ஓட்டுதல்
+- [அவசர சேவைகள்](/bandaraya/emergency-services) — PDRM / BOMBA / MAF வாகன அணுகல்
+- [வரைபடம்](/bandaraya/locations) — எரிபொருள், சார்ஜிங், டீலர்ஷிப்பை எங்கு காண வேண்டும்
+- [Tablet](/bandaraya/tablet) — Vehicle Management ஆப்

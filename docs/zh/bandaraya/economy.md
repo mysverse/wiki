@@ -1,104 +1,101 @@
 ---
-title: Economy
-description: >-
-  How the Bandaraya Ringgit (BR) economy works — earning, banking, transferring
-  BR, and developer products.
+title: 经济
+description: Bandar Ringgit（BR）经济体系介绍 — 赚钱、银行操作、转账 BR 以及开发者商品。
 lang: zh
 translated_from_hash: ae4fab89
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 经济
 
-# Economy
-
-Bandaraya runs on **BR (Bandar Ringgit)**. You earn it working, spend it on shops, services, and vehicles. Robux can also buy BR via developer products, or unlock permanent perks via gamepasses.
+Bandaraya 以 **BR（Bandar Ringgit）** 作为货币运作。你通过工作赚取 BR,在商店、服务和车辆上消费。Robux 也可以通过开发者商品购买 BR,或通过 gamepass 解锁永久福利。
 
 ## TL;DR
 
-- The main currency is **BR** — your "cash" wallet.
-- A second wallet, the **CAG card**, is stored-value only for **buses, MRT, and tolls**. See [Getting Around](/bandaraya/getting-around). You can't cash out from CAG.
-- Earn BR via jobs (POS, Taxi, Tow, Bus), police/emergency response, or by buying BR with Robux.
-- Spend BR at shops, the dealership, TapNGo gates, clamp removals, and summons.
+- 主要货币是 **BR** — 你的"现金"钱包。
+- 第二个钱包是 **CAG 卡**,属于储值性质,仅供 **巴士、MRT 和过路费** 使用。参见 [交通](/bandaraya/getting-around)。CAG 无法提现。
+- 通过工作(POS、德士、拖车、巴士)、警察/紧急响应,或用 Robux 购买 BR 来赚取 BR。
+- 在商店、车行、TapNGo 闸口、拆夹车锁和罚单支付上消费 BR。
 
 ---
 
-## Your two wallets
+## 你的两个钱包
 
-| Wallet | For | How to top up |
+| 钱包 | 用途 | 如何充值 |
 | --- | --- | --- |
-| **BR cash** | Shops, dealership, fuel, tolls, summons, clamps — everything. | Jobs, BR developer products (Robux), transfers. |
-| **CAG card** | Buses (5 BR flat), MRT/Monorail (discounted), TapNGo (20% off). | Top-ups at CAG kiosks, 20 / 50 / 100 / 200 / 500 BR at a time. Max 2000 BR. |
+| **BR 现金** | 商店、车行、燃油、过路费、罚单、夹车锁 — 一切。 | 工作、BR 开发者商品(Robux)、转账。 |
+| **CAG 卡** | 巴士(统一 5 BR)、MRT/单轨(优惠价)、TapNGo(八折)。 | 在 CAG 自助终端充值,每次 20 / 50 / 100 / 200 / 500 BR。最高 2000 BR。 |
 
-One-way rule: **you can't convert CAG back to cash.** Top up what you'll use.
+单向规则:**CAG 无法兑换回现金。** 只充值你会用到的数额。
 
 ---
 
-## Earning BR
+## 赚取 BR
 
-| Source | Team / requirement | Earnings |
+| 来源 | 团队 / 要求 | 收入 |
 | --- | --- | --- |
-| **Postal Service (POS)** | Any | **70 BR** at Level 1, **260 BR** at Level 20 (max). See [Jobs](/bandaraya/jobs#postal-service-pos). |
-| **Taxi Driver** | Taxi Services team **or** Taxi Driver gamepass (150 R$) | Per completed trip. See [Jobs](/bandaraya/jobs#taxi-driver). |
-| **Towing Services** | Towing Services team | Clamp fees, tow jobs. See [Jobs](/bandaraya/jobs#towing). |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services | Per route. Drivers ride free. |
-| **Developer products** | Any | Robux → BR. See table below. |
-| **Gift from another player** | Any | Via in-game **MyPay** phone app. See [Phone](/bandaraya/phone#mypay--send-br-to-another-player). |
+| **邮政服务 (POS)** | 任何人 | 第 1 级 **70 BR**,第 20 级(最高) **260 BR**。参见 [工作](/bandaraya/jobs#postal-service-pos)。 |
+| **德士司机** | Taxi Services 团队 **或** Taxi Driver gamepass(150 R$) | 每完成一趟。参见 [工作](/bandaraya/jobs#taxi-driver)。 |
+| **拖车服务** | Towing Services 团队 | 夹车锁费用、拖车任务。参见 [工作](/bandaraya/jobs#towing)。 |
+| **巴士驾驶** | MyTransit / FirstGroup / Fermuda / Bus Services | 按路线计费。司机免费乘搭。 |
+| **开发者商品** | 任何人 | Robux → BR。参见下方表格。 |
+| **其他玩家赠送** | 任何人 | 通过游戏内的 **MyPay** 手机应用。参见 [手机](/bandaraya/phone#mypay--send-br-to-another-player)。 |
 
-HCC gamepass provides an **income boost** on top of the above.
+HCC gamepass 在上述基础上提供 **收入加成**。
 
-For non-job earnings — police, BOMBA, KKM, SJAM, MAF — the point is roleplay, not BR farming. Those teams don't pay a direct salary; they get operational tools and vehicles.
+对于非工作性收入 — 警察、BOMBA、KKM、SJAM、MAF — 重点是角色扮演,而不是刷 BR。这些团队不直接发薪;他们获得的是作业工具和车辆。
 
 ---
 
-## Spending BR
+## 消费 BR
 
-### Shops (NPC shops around KL)
+### 商店(吉隆坡各处的 NPC 商店)
 
-| Shop | What they sell | Cooldown |
+| 商店 | 出售什么 | 冷却 |
 | --- | --- | --- |
-| **Ammulaysia** | Firearms | 5-minute cooldown between purchases. Requires **Firearms Licence** gamepass (1,250 R$). |
-| **Illegal Dealer (Hacker)** | Black market items | 5-minute cooldown, and also 5 min after you reset/rejoin. |
-| **Vastrix** | Clothing, accessories | — |
-| **Convenience Store** | General items | — |
-| **Tehlife** | Ice cream, milk | — |
-| **Lickers** | Drinks | — |
-| **Costume** | Outfits | — |
-| **Toolkit** | Tools | — |
-| **Art** | Art items | — |
-| **Bartender** | Drinks | — |
-| **Kilo's Kebabs** | Food | — |
-| **KeluargaMart** | General items | — |
-| **Signs** | Signs | — |
+| **Ammulaysia** | 枪械 | 两次购买之间 5 分钟冷却。需要 **Firearms Licence** gamepass(1,250 R$)。 |
+| **Illegal Dealer (Hacker)** | 黑市物品 | 5 分钟冷却,重置/重新加入后也需等待 5 分钟。 |
+| **Vastrix** | 服装、配饰 | — |
+| **Convenience Store** | 日用品 | — |
+| **Tehlife** | 冰淇淋、牛奶 | — |
+| **Lickers** | 饮料 | — |
+| **Costume** | 装扮 | — |
+| **Toolkit** | 工具 | — |
+| **Art** | 艺术物品 | — |
+| **Bartender** | 饮料 | — |
+| **Kilo's Kebabs** | 食物 | — |
+| **KeluargaMart** | 日用品 | — |
+| **Signs** | 招牌 | — |
 
-Walk up to the shop, the UI opens, pick an item, confirm.
+走到商店前,UI 打开,选择物品,确认。
 
-### Dealership
+### 车行
 
-The **Classic Car Dealer** sells civilian cars: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, and more. Prices vary per model. See [Vehicles](/bandaraya/vehicles#dealership).
+**Classic Car Dealer** 出售民用车:Proton、Perodua、Toyota、Honda、Ford Mustang、BMW、Mitsubishi 等等。价格因型号而异。参见 [车辆](/bandaraya/vehicles#dealership)。
 
-- **Buy** — permanent. Saved to your account and auto-saves every 30 seconds.
-- **Rent** — temporary use.
-- **Paint** — colour customization, glossy or matte.
+- **购买** — 永久。保存到你的账户,每 30 秒自动保存。
+- **租用** — 临时使用。
+- **喷漆** — 颜色定制,亮面或哑光。
 
-### Transport & services
+### 交通与服务
 
-| Service | Cost |
+| 服务 | 费用 |
 | --- | --- |
-| **TapNGo highway gate** | 15 BR cash / 12 BR with CAG card (20% off). |
-| **Bus boarding** | 5 BR cash-equivalent (always charged to CAG if you have one; free with monthly pass). |
-| **MRT / Monorail fast travel** | Varies by route. CAG card gets 30% off, 50% with monthly pass. |
-| **Clamp removal** | **500 BR**. Happens after a tow operator clamps your vehicle. |
-| **Summons (Saman)** | Variable — a police officer issues an on-screen summons with a BR fine. |
+| **TapNGo 高速闸口** | 现金 15 BR / CAG 卡 12 BR(八折)。 |
+| **上巴士** | 等值 5 BR 现金(若有 CAG 一律从卡扣;月票免费)。 |
+| **MRT / 单轨快速旅行** | 因路线而异。CAG 卡享七折,月票五折。 |
+| **拆夹车锁** | **500 BR**。在拖车操作员给你的车辆上锁后发生。 |
+| **罚单 (Saman)** | 不定 — 警察会在屏幕上发出带有 BR 罚款的罚单。 |
 
-See [Getting Around](/bandaraya/getting-around) for transit pricing.
+交通价格参见 [交通](/bandaraya/getting-around)。
 
 ---
 
-## Developer products (buy BR with Robux)
+## 开发者商品(用 Robux 购买 BR)
 
-Open via the Robux shop / in-game purchase prompts.
+通过 Robux 商店/游戏内购提示打开。
 
-| Product | Robux | BR |
+| 商品 | Robux | BR |
 | --- | --- | --- |
 | BR 5,000 | R$ 50 | 5,000 |
 | BR 10,000 | R$ 100 | 10,000 |
@@ -106,38 +103,38 @@ Open via the Robux shop / in-game purchase prompts.
 | BR 40,000 | R$ 400 | 40,000 |
 | BR 80,000 | R$ 800 | 80,000 |
 
-These are consumable. Buy them when you want to skip the grind for a specific big purchase (a car, a CAG monthly pass, ammunition).
+这些是消耗品。当你想跳过刷钱阶段去做特定大笔消费(买车、CAG 月票、弹药)时购买。
 
 ---
 
-## Gamepasses (one-time unlocks)
+## Gamepass(一次性解锁)
 
-See the dedicated [Gamepasses](/bandaraya/gamepasses) page for the full breakdown. Quick list:
+完整详情请参见专门的 [Gamepasses](/bandaraya/gamepasses) 页面。简表:
 
-| Gamepass | Robux | What you get |
+| Gamepass | Robux | 你得到什么 |
 | --- | --- | --- |
-| **Car Radio** | 100 | Play music in your vehicle. |
-| **Firearms Licence** | 1,250 | Buy at Ammulaysia. |
-| **High Class Citizen** | 3,000 | Income boost, luxury cars, HCC team. |
-| **Taxi Driver** | 150 | Drive taxis, join Taxi Services team. |
+| **Car Radio** | 100 | 在车内播放音乐。 |
+| **Firearms Licence** | 1,250 | 在 Ammulaysia 购买。 |
+| **High Class Citizen** | 3,000 | 收入加成、豪车、HCC 团队。 |
+| **Taxi Driver** | 150 | 驾驶德士,加入 Taxi Services 团队。 |
 
-Gamepasses stay with you across sessions.
+Gamepass 跨 session 保留。
 
 ---
 
-## Tips & gotchas
+## 提示与注意事项
 
-- **Don't stockpile CAG.** The money is stuck there. Put cash in, ride.
-- **Got summoned? Pay it.** Unpaid fines still sit in the summons viewer. And no, you can't judicial-review your way out.
-- **Bought a car? It auto-saves.** Colour, plate, and ownership persist across sessions.
-- **HCC is a big BR multiplier** if you do any jobs at all — worth the Robux if you're a long-term player.
-- **POS levels up slowly but reliably.** Level 20 is the cap (260 BR per delivery). Good long-term grind.
-- **Gun-store cooldown resets on rejoin.** You can't dodge the 5-minute timer by leaving.
+- **别囤积 CAG。** 钱卡在里面出不来。充够现金,上车就走。
+- **收到罚单?就付款。** 未缴罚单仍会留在罚单查看器里。而且不,你无法通过司法复核来脱身。
+- **买了车?自动保存。** 颜色、车牌和所有权跨 session 保留。
+- **HCC 是一个很大的 BR 倍增器**,如果你会做任何工作 — 长期玩家很值得花这个 Robux。
+- **POS 升级缓慢但稳定。** 第 20 级是顶(每次配送 260 BR)。良好的长期刷取项目。
+- **枪店冷却在重新加入时重置。** 你无法通过离开来躲避 5 分钟计时器。
 
-## See also
+## 另见
 
-- [Jobs](/bandaraya/jobs) — earning BR
-- [Gamepasses](/bandaraya/gamepasses) — HCC, Firearms Licence, etc.
-- [Vehicles](/bandaraya/vehicles) — dealership + fuel
-- [Getting Around](/bandaraya/getting-around) — CAG card, transit fares
-- [Arrest & Law](/bandaraya/arrest-and-law) — summons
+- [工作](/bandaraya/jobs) — 赚取 BR
+- [Gamepass](/bandaraya/gamepasses) — HCC、Firearms Licence 等。
+- [车辆](/bandaraya/vehicles) — 车行 + 燃油
+- [交通](/bandaraya/getting-around) — CAG 卡、交通费
+- [逮捕与法律](/bandaraya/arrest-and-law) — 罚单

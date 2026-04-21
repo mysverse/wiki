@@ -1,159 +1,158 @@
 ---
-title: Vehicles
-description: 'Spawning, driving, fuel, and buying or renting vehicles in Bandaraya.'
+title: 车辆
+description: 在 Bandaraya 生成、驾驶、加油以及购买或租赁车辆的完整指南。
 lang: zh
 translated_from_hash: a0f91fad
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 车辆
 
-# Vehicles
+Bandaraya 拥有 200 多辆车,涵盖 25 多个组织 — PDRM 多用途车和装甲车、消防车、军用装甲、直升机、巴士、摩托车,以及由 Proton、Perodua、Toyota 等组成的民用车队。本页介绍如何上车以及如何保养车辆。
 
-Bandaraya has 200+ vehicles across 25+ organisations — police MPVs and armoured vehicles, fire trucks, military armour, helicopters, buses, motorcycles, and a civilian fleet of Protons, Peroduas, Toyotas, and more. This page covers how to get into one and keep it running.
+## 简要概览
 
-## TL;DR
-
-- **Spawn** at a team-appropriate spawner. Civilians use the **Classic Car Dealer** for dealership cars.
-- **Drive** with W/A/S/D, Space for handbrake, **F1** toggles mouse steering.
-- **Fuel** matters. Fill up at **Radtrol Gas Station @ Jalan Pinang** or charge at **Community Retail**.
-- **Crash damage** is real — don't use your civic as a battering ram.
-- **Dealership** cars are yours forever once bought.
+- 在适合你团队的生成器处**生成**车辆。平民使用 **Classic Car Dealer** 购买经销车。
+- 使用 W/A/S/D **驾驶**,Space 是手刹,**F1** 切换鼠标转向。
+- **燃料**很重要。在 **Radtrol Gas Station @ Jalan Pinang** 加油,或在 **Community Retail** 充电。
+- **碰撞伤害**是真实的 — 不要把你的 civic 当作撞锤。
+- 从**经销店**购买的车辆购买后永远归你所有。
 
 ---
 
-## Spawning a vehicle
+## 生成车辆
 
-Each team has its own set of spawners. You can only use the ones your team is allowed to use.
+每个团队都有自己的生成器组。你只能使用你团队被允许使用的生成器。
 
-1. Walk to a vehicle spawner (PDRM spawners outside IPD Dang Wangi, BOMBA spawners at the fire station, MyTransit at the depot, Classic Car Dealer for civilian rentals/purchases, etc.).
-2. Press **E** (or the proximity button).
-3. A panel with a 3-D preview of each available vehicle opens.
-4. Browse with **A / D / arrow keys** or the nav buttons.
-5. **Space / Enter** to spawn. **Escape** to close.
-6. Your vehicle appears at the spawn pad. Sit in the driver seat to drive.
+1. 走到车辆生成器旁(PDRM 生成器位于 IPD Dang Wangi 外、BOMBA 生成器位于消防局、MyTransit 位于车站、Classic Car Dealer 供平民租用/购买等)。
+2. 按 **E**(或接近按钮)。
+3. 一个带有每辆可用车辆 3D 预览的面板会打开。
+4. 使用 **A / D / 方向键**或导航按钮浏览。
+5. **Space / Enter** 生成。**Escape** 关闭。
+6. 你的车辆会出现在生成台。坐在驾驶座上以驾驶。
 
-If the spawner isn't letting you through, you probably don't meet the team requirements. See [Teams](/bandaraya/teams).
+如果生成器不让你通过,你可能不符合团队要求。参见 [团队](/bandaraya/teams)。
 
-## Driving
+## 驾驶
 
-Bandaraya uses the **A-Chassis** physics engine. Controls:
+Bandaraya 使用 **A-Chassis** 物理引擎。控制:
 
-| Key | Action |
+| 按键 | 动作 |
 | --- | --- |
-| **W / S** | Accelerate / brake |
-| **A / D** | Steer |
-| **Space** | Handbrake |
-| **Shift** | Clutch / boost (varies by vehicle) |
-| **F1** | Toggle mouse-based steering |
-| **C** / **V** | Camera toggle / cycle (some vehicles) |
-| On-screen buttons | Horn, siren, lights, doors, windows — emergency vehicles have many |
+| **W / S** | 加速 / 刹车 |
+| **A / D** | 转向 |
+| **Space** | 手刹 |
+| **Shift** | 离合器 / 加速(因车而异) |
+| **F1** | 切换基于鼠标的转向 |
+| **C** / **V** | 切换 / 循环镜头(某些车辆) |
+| 屏幕按钮 | 喇叭、警笛、灯光、车门、车窗 — 紧急车辆有很多 |
 
-### Mouse steering
-**F1** is the important one. With mouse-steer on, your mouse position controls wheel angle — much finer than keyboard-only. Most experienced drivers use it.
+### 鼠标转向
+**F1** 是重点。开启鼠标转向后,你的鼠标位置控制车轮角度 — 比仅用键盘精细得多。大多数有经验的司机都会使用它。
 
-### Tips for driving
+### 驾驶提示
 
-- **Ease off the throttle.** Cars will oversteer at high speeds, especially in the rain.
-- **Use handbrake for drifts.** Press Space mid-corner.
-- **Indicators matter** for roleplay realism, especially on public services.
-- **Don't crash intentionally** — you'll take damage and (if civilian) pay to replace the car.
+- **松一松油门。** 汽车在高速时会转向过度,尤其是在雨天。
+- **用手刹漂移。** 在转弯中按 Space。
+- **指示灯很重要**,可增加 roleplay 真实感,尤其是公共服务车辆。
+- **不要故意撞车** — 你会受损,(若为平民)还需付费换车。
 
-## Fuel
+## 燃料
 
-Vehicles burn fuel as you drive. Check your fuel gauge — it'll warn you before running dry.
+车辆在你驾驶时会消耗燃料。检查你的油表 — 它会在耗尽前警告你。
 
-| Fuel type | Fill at |
+| 燃料类型 | 加注地点 |
 | --- | --- |
-| **Petrol / Diesel** | **Radtrol Gas Station @ Jalan Pinang** |
-| **Electric** | **2× Charging Stations @ Community Retail** |
+| **汽油 / 柴油** | **Radtrol Gas Station @ Jalan Pinang** |
+| **电动** | **Community Retail 的 2× 充电站** |
 
-To refuel:
+加油步骤:
 
-1. Drive onto the pump / charger.
-2. Exit the vehicle.
-3. Interact with the pump. Pay BR.
-4. Wait for the fuel bar to fill.
+1. 开到油泵 / 充电器旁。
+2. 下车。
+3. 与油泵互动。支付 BR。
+4. 等待燃料条充满。
 
-You can also carry a **jerry can** for emergency refuels.
+你也可以携带**油桶**作紧急加油之用。
 
-## Vehicle health & crash damage
+## 车辆生命值 & 碰撞伤害
 
-Every vehicle has a health pool:
+每辆车都有一个生命值池:
 
-| Class | Health |
+| 类别 | 生命值 |
 | --- | --- |
-| Superior (armoured, heavy-duty) | 500 |
-| Standard civilian cars | 100 |
-| Motorcycles | 50 |
+| 高级(装甲、重型) | 500 |
+| 标准民用车 | 100 |
+| 摩托车 | 50 |
 
-When you crash:
+当你撞车时:
 
-- **Into another vehicle** (rear-end, side-swipe, PIT manoeuvre): damage scales with the relative speed.
-- **Into walls / static objects**: damage scales with your closing speed. Scraping along a wall doesn't damage you (good for tight corners).
+- **撞到另一辆车**(追尾、侧撞、PIT 操作):伤害按相对速度计算。
+- **撞到墙 / 静态物体**:伤害按你的接近速度计算。沿着墙刮不会让你受伤(适合狭窄转弯)。
 
-**Anti-cheat trivia:** a previous bug let some vehicles (HCC GTRs, FLAXIM Vellfire) ignore PIT damage. Fixed. Police chases are back to working properly.
+**反作弊小知识:**此前有个 bug 让某些车辆(HCC GTR、FLAXIM Vellfire)忽略 PIT 伤害。已修复。警方追逐恢复正常运作。
 
-## Vehicle registration
+## 车辆登记
 
-Every spawned vehicle gets a plate. You can look up plates in the **Vehicle Management** tablet app (see [Tablet](/bandaraya/tablet)).
+每辆生成的车辆都会获得车牌。你可以在 **Vehicle Management** 平板应用中查询车牌(参见 [Tablet](/bandaraya/tablet))。
 
-Ownership registration is automatic — the plate is tied to the person who spawned the car. PDRM use this for traffic stops.
+所有权登记是自动的 — 车牌与生成车辆的人绑定。PDRM 使用此功能进行交通拦截。
 
-## Bulletproofing
+## 防弹
 
-Some vehicles are armoured. Look for:
+某些车辆是装甲的。寻找:
 
-- **AV4** — PDRM armoured vehicle (29 armour plates in the cabin). Proper bulletproof.
-- **V150** — PDRM armoured vehicle.
-- **UTK Hilux variants** — bulletproof around the cabin.
+- **AV4** — PDRM 装甲车(舱内有 29 块装甲板)。真正防弹。
+- **V150** — PDRM 装甲车。
+- **UTK Hilux 变体** — 舱周防弹。
 
-Regular civilian cars are **not** bulletproof. Don't assume your Proton will stop a round.
+普通民用车**不**防弹。别以为你的 Proton 能挡子弹。
 
-## Dealership (Classic Car Dealer)
+## 经销店 (Classic Car Dealer)
 
-The civilian dealership. Walk up, pick a model, configure, pay.
+民用经销店。走过去、挑选型号、配置、付款。
 
-### Brands
+### 品牌
 
-- **Proton**: Saga, Persona, Preve, X70, Inspira
-- **Perodua**: Myvi, Bezza, Aruz
-- **Toyota**: Vellfire, Hilux
-- **Honda**: Civic, City
+- **Proton**: Saga、Persona、Preve、X70、Inspira
+- **Perodua**: Myvi、Bezza、Aruz
+- **Toyota**: Vellfire、Hilux
+- **Honda**: Civic、City
 - **Ford**: Mustang
-- **BMW / Mitsubishi** and more
+- **BMW / Mitsubishi** 等
 
-### Options
+### 选项
 
-- **Buy** — permanent. Saved to your account. Auto-saves every 30 seconds.
-- **Rent** — temporary session-based use.
-- **Paint** — pick from a set of colours per model, glossy or matte.
+- **购买** — 永久。保存到你的账户。每 30 秒自动保存。
+- **租赁** — 临时的、按会话使用。
+- **喷漆** — 从每款车的颜色套装中挑选,亮光或哑光。
 
-Example colour set (Perodua Myvi): Granite Grey, Peppermint Green, Lava Red, Glittering Silver, Ivory White, Sunflower Yellow.
+颜色套装示例 (Perodua Myvi):Granite Grey、Peppermint Green、Lava Red、Glittering Silver、Ivory White、Sunflower Yellow。
 
-### HCC vehicles
-If you own the **High Class Citizen gamepass**, luxury vehicles (BMW i7, Volvo XC90, Mercedes C300) are available at the dealership as well.
+### HCC 车辆
+如果你拥有 **High Class Citizen gamepass**,经销店还提供豪华车辆(BMW i7、Volvo XC90、Mercedes C300)。
 
-## Helicopters
+## 直升机
 
-PDRM and BOMBA have helicopter spawners at their stations. Team-specific — civilians can't spawn them.
+PDRM 和 BOMBA 在各自的站点有直升机生成器。团队专属 — 平民无法生成。
 
-- Spawn via the on-screen **ViewportFrame** picker.
-- A spawned helicopter regenerates 8 seconds after destruction.
+- 通过屏幕上的 **ViewportFrame** 选择器生成。
+- 生成的直升机在摧毁后 8 秒会重新生成。
 
-Don't crash a helicopter into a building.
+不要把直升机撞进建筑物。
 
-## Tips & gotchas
+## 提示 & 陷阱
 
-- **Your vehicle disappears when you die.** Well, actually, it'll still be on the street — but controls won't work without the driver. Come back and get in.
-- **Some vehicles have team-specific body children** (lights, sirens, reverse, hazards, drag racing hud). Not every car has all of them. If a button doesn't do anything, that vehicle doesn't support it.
-- **Kickstands work on motorcycles.** Dismount and the bike parks itself properly (that was a long-standing bug, now fixed).
-- **Streaming is disabled for vehicles.** That's why they always render at range — but it costs a little extra performance.
-- **Abusing vehicles to grief** (glitching another player's car, spawn-ramming civilians) is a banable offence. See [Rules](/bandaraya/rules).
+- **你死后你的车辆会消失。** 其实,它还会在街上 — 但没有司机的话控制不会生效。回来上车。
+- **某些车辆有团队专属的 body children**(灯光、警笛、倒车、危险灯、drag racing hud)。并非每辆车都拥有全部。如果某个按钮没反应,说明该车不支持。
+- **摩托车的侧撑可以使用。** 下车后摩托车会自己停稳(那是个长期 bug,现已修复)。
+- **车辆的 streaming 已被禁用。** 这就是它们总能在远距离渲染的原因 — 但会多耗一点性能。
+- **滥用车辆进行骚扰**(卡 bug 破坏他人车辆、生成时撞击平民)是可被封禁的行为。参见 [规则](/bandaraya/rules)。
 
-## See also
+## 另请参阅
 
-- [Economy](/bandaraya/economy) — dealership pricing, fuel costs
-- [Jobs](/bandaraya/jobs) — Taxi, Tow, Bus driving
-- [Emergency Services](/bandaraya/emergency-services) — PDRM / BOMBA / MAF vehicle access
-- [Map](/bandaraya/locations) — where to find fuel, charging, the dealership
-- [Tablet](/bandaraya/tablet) — Vehicle Management app
+- [经济](/bandaraya/economy) — 经销店价格、燃料费用
+- [工作](/bandaraya/jobs) — 出租车、拖车、巴士驾驶
+- [紧急服务](/bandaraya/emergency-services) — PDRM / BOMBA / MAF 车辆使用权
+- [地图](/bandaraya/locations) — 哪里可以找到燃料、充电、经销店
+- [Tablet](/bandaraya/tablet) — Vehicle Management 应用

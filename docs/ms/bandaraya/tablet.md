@@ -1,8 +1,8 @@
 ---
 title: Tablet
 description: >-
-  The team-gated tablet tool in Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
-  and other apps.
+  Alat tablet khas pasukan di Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
+  dan aplikasi lain.
 lang: ms
 translated_from_hash: 0b131099
 translated_on: '2026-04-21'
@@ -11,129 +11,129 @@ needs_review: true
 
 # Tablet
 
-The in-game **tablet** is a multi-app device that surfaces extra features to your team. Apps are unlocked based on your team colour — a PDRM officer sees the MDT, a tow operator sees MyTow, and so on.
+**Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda — pegawai PDRM nampak MDT, operator tunda nampak MyTow, dan sebagainya.
 
-> **Tablet ≠ Phone.** The [Phone](/bandaraya/phone) is a universal topbar app surface (MyPay, e-hailing, CAG, 999, MyCar, etc.). The Tablet is a team-gated **tool** you equip from your backpack.
+> **Tablet ≠ Telefon.** [Telefon](/bandaraya/phone) ialah permukaan aplikasi topbar universal (MyPay, e-hailing, CAG, 999, MyCar, dan lain-lain). Tablet pula ialah **alat** khas pasukan yang anda lengkapkan daripada backpack anda.
 
 ## TL;DR
 
-- Equip your **tablet tool** to open the device.
-- Apps appear based on your team.
-- Tablets also display notifications and alerts.
-- The topbar gets an icon for quick toggling.
+- Lengkapkan **alat tablet** anda untuk membuka peranti.
+- Aplikasi muncul berdasarkan pasukan anda.
+- Tablet juga memaparkan notifikasi dan amaran.
+- Topbar mendapat ikon untuk togol pantas.
 
 ---
 
-## Using the tablet
+## Menggunakan tablet
 
-1. Open your backpack.
-2. Equip the **Tablet** tool (given if your team qualifies).
-3. The tablet UI opens.
-4. Click an app icon to enter that app.
-5. Equip a different tool or press the toggle icon to close.
+1. Buka backpack anda.
+2. Lengkapkan alat **Tablet** (diberi jika pasukan anda layak).
+3. UI tablet akan terbuka.
+4. Klik ikon aplikasi untuk masuk ke aplikasi tersebut.
+5. Lengkapkan alat lain atau tekan ikon togol untuk menutup.
 
-The topbar gets an icon tied to the tablet — tap it to toggle open/closed without equipping.
+Topbar mendapat ikon yang terikat dengan tablet — ketik ikon itu untuk togol buka/tutup tanpa perlu lengkapkan.
 
 ---
 
-## Apps
+## Aplikasi
 
 ### MDT — Mobile Data Terminal (PDRM)
 
-The police information terminal. Police-authentic UI with Polis branding, horizontal tabs, monospace data fields.
+Terminal maklumat polis. UI autentik polis dengan jenama Polis, tab mendatar, medan data monospace.
 
 #### BG Check
-Look up any player:
-- Team and rank
-- Active BOLO status
-- Last arrest record
-- Their current position
+Semak mana-mana pemain:
+- Pasukan dan pangkat
+- Status BOLO aktif
+- Rekod tangkapan terakhir
+- Kedudukan semasa mereka
 
-Useful for deciding whether to stop someone.
+Berguna untuk membuat keputusan sama ada mahu memberhentikan seseorang.
 
-#### BOLO List
-See all active BOLOs (Be On the LookOut alerts) in real time. A BOLO is automatically cleared when the suspect is arrested.
+#### Senarai BOLO
+Lihat semua BOLO aktif (amaran Be On the LookOut) secara masa nyata. BOLO akan dibatalkan secara automatik apabila suspek ditangkap.
 
-#### Add BOLO
-Put a player on BOLO with a reason:
-- All on-duty officers get notified with a badge, sound, and toast alert.
-- Broadcasts across the PDRM team in real time.
+#### Tambah BOLO
+Letakkan pemain dalam BOLO dengan sebab:
+- Semua pegawai bertugas akan dimaklumkan dengan lencana, bunyi, dan amaran toast.
+- Disiarkan kepada seluruh pasukan PDRM secara masa nyata.
 
-PDRM-only; other teams see a greyed-out tab.
+Khas PDRM sahaja; pasukan lain akan nampak tab yang dikelabukan.
 
 ### MyEmergency
 
-Emergency services coordination app — for emergency teams (PDRM, BOMBA, KKM, SJAM). Manage incident calls, coordinate multi-team responses.
+Aplikasi koordinasi perkhidmatan kecemasan — untuk pasukan kecemasan (PDRM, BOMBA, KKM, SJAM). Uruskan panggilan insiden, selaraskan respons berbilang pasukan.
 
 ### Vehicle Management
 
-General-purpose vehicle app — anyone with the tablet can use it for basics. Features include:
-- **Plate lookup** — find a vehicle's registration info
-- **Registration management** — register vehicles you own
-- **Spawn tracking** — see vehicles you've spawned
+Aplikasi kenderaan serbaguna — sesiapa yang ada tablet boleh guna untuk kegunaan asas. Ciri-ciri termasuk:
+- **Carian plat** — cari maklumat pendaftaran kenderaan
+- **Pengurusan pendaftaran** — daftar kenderaan yang anda miliki
+- **Penjejakan spawn** — lihat kenderaan yang telah anda spawn
 
 ### MyTow
 
-Tow operator app:
-- View active tows
-- Request a tow job
-- Manage clamps remotely (remove a clamp from the tablet, no need to walk back)
+Aplikasi operator tunda:
+- Lihat tundaan aktif
+- Mohon kerja tunda
+- Urus klem dari jauh (buka klem daripada tablet, tanpa perlu berjalan balik)
 
 ### KKM Logger
 
-Health ministry app:
-- Log medical actions
-- Track patient treatments
-- Incident reporting for medical audits
+Aplikasi kementerian kesihatan:
+- Log tindakan perubatan
+- Jejaki rawatan pesakit
+- Laporan insiden untuk audit perubatan
 
-KKM-only.
+Khas KKM sahaja.
 
 ### Developer App
 
-Developer tools and diagnostics. Devs only.
+Alat dan diagnostik pembangun. Pembangun sahaja.
 
 ---
 
-## Notifications
+## Notifikasi
 
-Tablets receive notifications via two event channels:
+Tablet menerima notifikasi melalui dua saluran acara:
 
-- **Tablet notifications** — global alerts (fire callouts, 999 calls, BOLOs, admin announcements).
-- **App-specific notifications** — within a given app's context (e.g., new booking for taxi drivers, MDT alerts for PDRM).
+- **Notifikasi tablet** — amaran global (panggilan kebakaran, panggilan 999, BOLO, pengumuman admin).
+- **Notifikasi khusus aplikasi** — dalam konteks aplikasi tertentu (contoh: tempahan baharu untuk pemandu teksi, amaran MDT untuk PDRM).
 
-When a notification arrives, the tablet icon on the topbar gets a visual indicator, and the relevant app pulses.
+Apabila notifikasi tiba, ikon tablet pada topbar akan mendapat penunjuk visual, dan aplikasi yang berkaitan akan berdenyut.
 
 ---
 
-## Team restrictions
+## Sekatan pasukan
 
-Which apps you see depends on your team's `TeamColor`:
+Aplikasi yang anda nampak bergantung pada `TeamColor` pasukan anda:
 
-| Team | Apps available |
+| Pasukan | Aplikasi tersedia |
 | --- | --- |
 | **PDRM, KPTD, Polis Bantuan** | MDT, MyEmergency, Vehicle Management |
 | **BOMBA** | MyEmergency, Vehicle Management |
 | **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
 | **MyTransit, Bus Services** | Vehicle Management |
-| **Developers** | Developer App + all others |
-| **Civilians (Visitors, Malaysians)** | Vehicle Management only (basic plate lookup) |
+| **Developers** | Developer App + semua lain |
+| **Awam (Visitors, Malaysians)** | Vehicle Management sahaja (carian plat asas) |
 
-If an app you expect isn't there, check your team.
+Jika aplikasi yang anda jangkakan tiada di situ, semak pasukan anda.
 
 ---
 
-## Tips & gotchas
+## Tip & perkara penting
 
-- **Tablet tool persists across spawns** — you don't lose it when you die.
-- **Topbar toggle is faster than equipping** for quick peeks.
-- **MDT BG Check updates live** — the target's location is current.
-- **BOLO auto-clears on arrest** — no manual cleanup needed.
-- **Plate lookup works for anyone** — you don't need PDRM to search a vehicle plate.
+- **Alat tablet kekal merentasi spawn** — anda tidak akan hilangnya apabila mati.
+- **Togol topbar lebih pantas daripada melengkapkan** untuk tinjauan cepat.
+- **MDT BG Check dikemas kini secara langsung** — lokasi sasaran adalah terkini.
+- **BOLO dibatalkan automatik apabila ditangkap** — tiada pembersihan manual diperlukan.
+- **Carian plat berfungsi untuk semua orang** — anda tidak perlu jadi PDRM untuk mencari plat kenderaan.
 
-## See also
+## Lihat juga
 
-- [Emergency Services](/bandaraya/emergency-services) — PDRM / BOMBA / KKM roles that use the tablet
-- [Arrest & Law](/bandaraya/arrest-and-law) — how BOLOs / BG checks fit into arrests
-- [Jobs](/bandaraya/jobs) — MyTow for tow operators
-- [Vehicles](/bandaraya/vehicles) — registration and plate lookup
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan PDRM / BOMBA / KKM yang menggunakan tablet
+- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) — bagaimana BOLO / BG check berfungsi dalam tangkapan
+- [Pekerjaan](/bandaraya/jobs) — MyTow untuk operator tunda
+- [Kenderaan](/bandaraya/vehicles) — pendaftaran dan carian plat

@@ -1,13 +1,14 @@
 ---
-title: Teams
-description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+title: அணிகள்
+description: >-
+  Sumaya-வின் ஐந்து அணிகள் — Visitors, Malaysians, POLIS, BOMBA, மற்றும்
+  Kesihatan.
 lang: ta
 translated_from_hash: 00882afa
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Sumaya-வில் அணிகள்
+# அணிகள்
 
 Sumaya-வில் ஐந்து அணிகள் உள்ளன, ஒவ்வொன்றும் தனித்துவமான பாத்திரங்கள், கருவிகள் மற்றும் பொறுப்புகளைக் கொண்டுள்ளன. முதன்மை மெனுவின் **அணிகள்** தாவல் மூலம் எப்போது வேண்டுமானாலும் அணியை மாற்றலாம்.
 

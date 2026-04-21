@@ -1,15 +1,12 @@
 ---
-title: Map & Locations
-description: >-
-  Landmarks, buildings, streets, stations, hospitals, and shops across
-  Bandaraya.
+title: 地图与地点
+description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
 translated_from_hash: f228f901
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Bandaraya 的地点与地标
+# 地图与地点
 
 Bandaraya 是吉隆坡市中心的精细还原，涵盖标志性的真实地标、政府建筑、酒店和设施。本指南介绍您可以探索的重要地点。
 

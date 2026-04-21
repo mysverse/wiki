@@ -1,87 +1,86 @@
 ---
-title: Bomba (Fire Brigade)
-description: 'Playing BOMBA (fire brigade) in Sumaya — tenders, hydrants, and fires.'
+title: 消防
+description: 在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。
 lang: zh
 translated_from_hash: c822a3e4
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 消防
 
-# Bomba (Fire Brigade)
+**BOMBA** 是马来西亚的消防队。如果你在主菜单选择 BOMBA,你就以消防员身份执勤。
 
-**Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
+## 入门
 
-## Getting started
+在主菜单选择 **BOMBA**。你会带着 **灭火器** 出生在背包里,屏幕上显示 BombaGui — 无需打卡。**消防水带** 本身不是初始工具:你抵达事故现场后,从消防车或消火栓上的水带接口取用。
 
-Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen — no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
+前往消防局取用车辆,或等待小地图上弹出火警警报。
 
-Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
+## 火灾如何运作
 
-## How fires work
+只要服务器上至少有一名 BOMBA 玩家在线,Sumaya 内大约 **每 6 分钟** 就会出现一场火灾。当火灾开始时:
 
-Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
+- 一个大型警报会出现在你的小地图和任务卡上。
+- 火灾由许多独立的 **火焰方块** 组成,每一个都需要被扑灭。
+- 红色引导光束会指向事故地点。
 
-- A large alert appears on your minimap and in your task card.
-- The fire is made of many individual **fire blocks**, each of which needs to be put out.
-- The red guidance beam points you to the incident.
+服务器上同一时间只有一场进行中的火灾。一旦火灾被扑灭(或超时),新的火灾就可以出现。
 
-Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
+## 扑灭火灾
 
-## Putting out fires
+### 水带
 
-### The hose
+1. 装备你的消防水带。
+2. 找到水源 - 可以是 **消火栓**(镇上散布几个 — 寻找红/黄色立柱模型)或 **运水罐车**。
+3. 将水带末端连接到水源提示。
+4. 瞄准火焰方块并喷水。
 
-1. Equip your fire hose.
-2. Find a water source - either a **hydrant** (a few placed around town — look for the red/yellow pillar models) or a **tanker truck**.
-3. Connect the hose end to the water source prompt.
-4. Aim at fire blocks and spray.
+每个火焰方块需要水带约 **10 次喷击** 才能完全熄灭。水带可达 **256 stud** - 这对大多数事故来说绰绰有余,并让你可以保持安全距离。
 
-Each fire block needs about **10 hits** from the hose before it's fully out. The hose reaches up to **256 studs** - that's plenty for most incidents, and lets you stand at a safe distance.
+### 消火栓
 
-### Hydrants
+消火栓固定在地图各处,位于 `Workspace.HydrantConnections` 内。当前地图只有少量消火栓模型 — 不足以覆盖整个城镇,因此请围绕它们规划路线。每个消火栓支持两个水带接口,所以两名消防员可以共用一个。
 
-Hydrants are fixed around the map inside `Workspace.HydrantConnections`. The current map has a handful of hydrant models — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
+### 罐车(区域等级 65)
 
-### Tankers (sector level 65)
+一旦你达到区域等级 65,就可以生成 **Sanica P360 Tanker** 罐车。罐车让你能在任何与道路相连的地方扑灭火灾,即使附近没有消火栓 - 对乡村事故非常实用。
 
-Once you reach sector level 65, you can spawn the **Sanica P360 Tanker** truck. Tankers let you fight fires anywhere connected to a road, even without a hydrant nearby - very useful for rural incidents.
+## 奖励
 
-## Rewards
+每扑灭一个火焰方块可获得:
 
-Every fire block you extinguish pays:
+- **5 XP**(玩家和区域均得)
+- **15 Ringgit**(钱包)
 
-- **5 XP** (both player and sector)
-- **15 Ringgit** (wallet)
+加上里程碑奖金:
 
-Plus milestone bonuses:
+- 每扑灭 **15 个方块** 获得 **+150 Ringgit** 奖金。
 
-- **+150 Ringgit** bonus every **15 blocks** you extinguish.
+**其他 EMS**(Polis 或 Kesihatan)在火灾中协助可获得 **每个方块 10 XP**,但没有 Ringgit 奖励。他们因到场而获奖,但灭火的主要收入是你的。
 
-**Other EMS** (Polis or Kesihatan) who help out on a fire get **10 XP per block** but no Ringgit reward. They're rewarded for showing up, but the firefighting bread-and-butter is yours.
+奖励仅在火焰方块熄灭时你处于其 **512 stud** 范围内才计算 - 所以坚守事故现场,不要走开。
 
-Rewards only count when you're within **512 studs** of the fire block when it's extinguished - so stick with the incident, don't wander off.
+## 车辆
 
-## Vehicles
+Bomba 车辆随着你的区域等级提升而解锁。
 
-Bomba vehicles unlock as your sector level rises.
-
-| Vehicle | Sector level required | Price |
+| 车辆 | 所需区域等级 | 价格 |
 |---------|----------------------|-------|
-| Merze Atego LFRT | 1 | Free |
+| Merze Atego LFRT | 1 | 免费 |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
 | Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
-Each truck has different capacity and handling. The Atego is the nimble starter; the Tanker is the heavy utility. LFRT stands for "Light Fire Rescue Tender", FRT for "Fire Rescue Tender".
+每辆车的容量和操控性各不相同。Atego 是灵活的入门车型;Tanker 是重型实用车。LFRT 代表 "Light Fire Rescue Tender",FRT 代表 "Fire Rescue Tender"。
 
-See [Vehicles](/sumaya/vehicles) for how to spawn them.
+请参阅 [Vehicles](/sumaya/vehicles) 了解如何生成它们。
 
-## Ranks
+## 阶级
 
-Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia). Your title updates automatically as your sector level rises.
+Bomba 拥有 13 个阶级,基于现实中的马来西亚消防与拯救局(Jabatan Bomba dan Penyelamat Malaysia)。你的头衔会随着区域等级提升而自动更新。
 
-| Level | Rank |
+| 等级 | 阶级 |
 |-------|------|
 | 1 | Fire Officer (PB) |
 | 6 | Senior Fire Officer (PBK) |
@@ -97,20 +96,20 @@ Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Ja
 | 65 | Deputy Fire Commissioner (TPjB) |
 | 76 | Fire Commissioner (PjB) |
 
-The rank bracket abbreviations follow the real-world Bomba insignia scheme. From level 76 onward you're the top - no more rank changes even as you push toward the level 100 cap.
+阶级括号缩写遵循现实中的 Bomba 徽章体系。从等级 76 起你已是顶级 - 即使你冲向等级 100 的上限,也不会再有阶级变化。
 
-## Tips
+## 小贴士
 
-- **Work as a team.** Two firefighters on a fire means blocks get cleared faster, meaning milestone bonuses come around faster, meaning more Ringgit per minute.
-- **Position matters.** Find a spot where multiple blocks are in hose range and don't keep switching. Steady, not frantic.
-- **Stay within 512 studs.** If you wander away from the fire to refill or drive, you stop counting for rewards on the blocks extinguished while you're out of range.
-- **Sirens = offence-exempt.** Got stuck behind a speeding ticket? Flip your ELS siren while driving a Bomba vehicle to avoid being cited.
-- **Save for the Tanker.** Until you hit level 65, you'll rely on hydrants. The Tanker is a game-changer because you bring the water with you.
-- **Watch your health.** Standing too close to fire damages you over time. If you see your health dropping, step back and hose from further.
+- **团队合作。** 两名消防员同时灭火意味着方块清得更快,意味着里程碑奖金来得更快,意味着每分钟更多的 Ringgit。
+- **位置很重要。** 找一个多个方块都在水带范围内的位置,不要不停换位。稳扎稳打,不要慌乱。
+- **保持在 512 stud 内。** 如果你为了补水或开车而离开火灾现场,在你超出范围期间扑灭的方块就不再计入你的奖励。
+- **警笛 = 免罚。** 被超速罚单缠上了?驾驶 Bomba 车辆时打开你的 ELS 警笛即可避免被开罚单。
+- **为 Tanker 储钱。** 在你达到等级 65 之前,你都得依靠消火栓。Tanker 是改变格局的车辆,因为你能把水随身带着走。
+- **注意你的健康值。** 离火太近会随时间损伤你。如果你看到健康值下降,请退后并从更远处喷水。
 
-## What next?
+## 接下来呢?
 
-- [Kesihatan](/sumaya/kesihatan) if you're curious about the medical side.
-- [Polis](/sumaya/polis) for law enforcement.
-- [Vehicles](/sumaya/vehicles) for the full Bomba vehicle list.
-- [Progression](/sumaya/progression) for how XP works across services.
+- [Kesihatan](/sumaya/kesihatan) 如果你对医疗方面感兴趣。
+- [Polis](/sumaya/polis) 了解执法。
+- [Vehicles](/sumaya/vehicles) 查看完整的 Bomba 车辆列表。
+- [Progression](/sumaya/progression) 了解 XP 在各服务间的运作方式。

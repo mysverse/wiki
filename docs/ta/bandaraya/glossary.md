@@ -1,65 +1,64 @@
 ---
-title: Glossary — Malaysian Terms & Game Acronyms
+title: சொற்களஞ்சியம் — மலேசிய சொற்கள் & விளையாட்டு சுருக்கங்கள்
 description: >-
-  Malaysian acronyms and in-game terms explained — PDRM, BOMBA, KKM, CAG, LTAA,
-  RTAA, MRT, and more.
+  மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் — PDRM, BOMBA,
+  KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.
 lang: ta
 translated_from_hash: '11e95588'
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# சொற்களஞ்சியம் — மலேசிய சொற்கள் & விளையாட்டு சுருக்கங்கள்
 
-# Glossary — Malaysian Terms & Game Acronyms
+Bandaraya உண்மையான மலேசிய பெயர்களை அதிகமாகப் பயன்படுத்துகிறது. நீங்கள் மலேசியாவைச் சேர்ந்தவர் இல்லையென்றால் (அல்லது இந்தச் சுருக்கத்தை இதுவரை பார்த்திராவிட்டால்), இங்கே தேடிப் பாருங்கள்.
 
-Bandaraya leans hard on real Malaysian names. If you're not from Malaysia (or haven't seen the acronym yet), look it up here.
+## நாணயங்கள் & பணம்
 
-## Currencies & money
-
-| Term | Meaning |
+| சொல் | பொருள் |
 | --- | --- |
-| **BR** | **Bandar Ringgit** — the in-game currency. Think of it as the game's ringgit (RM). |
-| **CAG** | **Click And Go** — in-game stored-value transit card (Bandaraya's take on Malaysia's Touch n Go). |
+| **BR** | **Bandar Ringgit** — விளையாட்டுக்குள் உள்ள நாணயம். இதை விளையாட்டின் ரிங்கிட் (RM) ஆக எண்ணிக் கொள்ளுங்கள். |
+| **CAG** | **Click And Go** — விளையாட்டுக்குள் உள்ள முன்பணப் போக்குவரத்து அட்டை (மலேசியாவின் Touch n Go-க்கு Bandaraya-வின் பதிப்பு). |
 
-## Organisations (teams)
+## அமைப்புகள் (அணிகள்)
 
-| Acronym | Full name | What it is |
+| சுருக்கம் | முழுப் பெயர் | இது என்ன |
 | --- | --- | --- |
-| **PDRM** | Polis Diraja Malaysia | Royal Malaysia Police. |
-| **BOMBA** | Jabatan Bomba dan Penyelamat | Fire & Rescue Department. |
-| **KKM** | Kementerian Kesihatan Malaysia | Ministry of Health (doctors, medics). |
-| **SJAM** | St. John Ambulans Malaysia | Volunteer ambulance service. |
-| **RELA** | Ikatan Relawan Rakyat | Volunteer police corps. |
-| **MAF** | Malaysian Armed Forces | Army. |
-| **KPTD** | Kor Polis Tentera Diraja | Royal Military Police (military police branch). |
-| **JIM** | Jabatan Imigresen Malaysia | Immigration Department. |
-| **NWS** | National Wire Services | In-game state news agency. |
-| **OCG** | Organised Crime Group | Criminal roleplay team. |
-| **HCC** | High Class Citizen | Paid premium team (gamepass). |
-| **PB** | Polis Bantuan | Auxiliary transit police (MyTransit). |
-| **MyTransit** | — | In-game bus operator (the big one). |
-| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | — | Other in-game transport / e-hailing companies. |
-| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | Land Public Transport Commission — licences bus operators in-game. |
+| **PDRM** | Polis Diraja Malaysia | மலேசிய அரச காவல்துறை. |
+| **BOMBA** | Jabatan Bomba dan Penyelamat | தீயணைப்பு & மீட்புத் துறை. |
+| **KKM** | Kementerian Kesihatan Malaysia | சுகாதார அமைச்சகம் (மருத்துவர்கள், மருத்துவப் பணியாளர்கள்). |
+| **SJAM** | St. John Ambulans Malaysia | தன்னார்வ ஆம்புலன்ஸ் சேவை. |
+| **RELA** | Ikatan Relawan Rakyat | தன்னார்வ காவல் படை. |
+| **MAF** | Malaysian Armed Forces | இராணுவம். |
+| **KPTD** | Kor Polis Tentera Diraja | அரச இராணுவ காவல்துறை (இராணுவ காவல் பிரிவு). |
+| **JIM** | Jabatan Imigresen Malaysia | குடிவரவுத் துறை. |
+| **NWS** | National Wire Services | விளையாட்டுக்குள் உள்ள மாநிலச் செய்தி நிறுவனம். |
+| **OCG** | Organised Crime Group | குற்றவியல் ரோல்பிளே அணி. |
+| **HCC** | High Class Citizen | கட்டணம் செலுத்தும் premium அணி (gamepass). |
+| **PB** | Polis Bantuan | போக்குவரத்து துணைக் காவல்துறை (MyTransit). |
+| **MyTransit** | — | விளையாட்டுக்குள் உள்ள பேருந்து இயக்குநர் (முக்கியமானது). |
+| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | — | விளையாட்டுக்குள் உள்ள பிற போக்குவரத்து / e-hailing நிறுவனங்கள். |
+| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | தரைப் பொதுப் போக்குவரத்து ஆணையம் — விளையாட்டுக்குள் பேருந்து இயக்குநர்களுக்கு உரிமம் வழங்குகிறது. |
 
-## Places
+## இடங்கள்
 
-| Term | Meaning |
+| சொல் | பொருள் |
 | --- | --- |
-| **IPD** | **Ibu Pejabat Polis Daerah** — District Police HQ. IPD Dang Wangi is the main police station in-game. |
-| **Kem Wardieburn** | MAF military camp. |
-| **KLBT** / **Bandar Bus Terminal** | Kuala Lumpur Bus Terminal. |
-| **Hazbank** | In-game bank (yes, you can try to rob it). |
+| **IPD** | **Ibu Pejabat Polis Daerah** — மாவட்ட காவல் தலைமையகம். IPD Dang Wangi தான் விளையாட்டுக்குள் உள்ள முக்கிய காவல் நிலையம். |
+| **Kem Wardieburn** | MAF இராணுவ முகாம். |
+| **KLBT** / **Bandar Bus Terminal** | கோலாலம்பூர் பேருந்து நிலையம். |
+| **Hazbank** | விளையாட்டுக்குள் உள்ள வங்கி (ஆம், நீங்கள் கொள்ளை அடிக்க முயற்சி செய்யலாம்). |
 
-## Gameplay & systems
+## விளையாட்டு முறை & அமைப்புகள்
 
-| Term | Meaning |
+| சொல் | பொருள் |
 | --- | --- |
-| **LTAA** | **Leave To Avoid Arrest** — disconnecting while detained. Auto-arrests you for 3 minutes when you come back. Don't. |
-| **RTAA** | **Reset To Avoid Arrest** — using the reset button to escape. The reset button disables at 75 HP or below to stop this. |
-| **Saman** | Malay for **summons / fine**. Police issue them. Pay up. |
-| **BOLO** | **Be On the LookOut** — a police alert put out on a suspect. |
-| **MDT** | **Mobile Data Terminal** — police tablet app with BG Check, BOLO list, and alerting. |
-| **TapNGo** | Highway toll gate in-game (15 BR cash / 12 BR with CAG card). |
-| **Ammulaysia** | Licensed gun dealer. Requires the Firearms Licence gamepass. |
-| **MRT** | **Mass Rapid Transit** — the Kajang Line fast-travel train. |
-| **ACS** | **Advanced Combat System** — the weapon engine (handles shooting, reloading, damage). |
-| **Saude** | Portuguese for "health". The health system's internal name. You'll never see the word in UI, but it's helpful to know. |
+| **LTAA** | **Leave To Avoid Arrest** — தடுத்து வைக்கப்பட்டிருக்கும் போது இணைப்பை துண்டிப்பது. நீங்கள் திரும்பி வரும்போது 3 நிமிடங்களுக்கு தானாகவே கைது செய்யப்படுவீர்கள். இதைச் செய்யாதீர்கள். |
+| **RTAA** | **Reset To Avoid Arrest** — தப்பிக்க reset பொத்தானைப் பயன்படுத்துவது. இதைத் தடுக்க reset பொத்தான் 75 HP அல்லது அதற்குக் கீழ் செயலிழக்கிறது. |
+| **Saman** | மலாய் மொழியில் **சம்மன் / அபராதம்** என்று பொருள். காவலர்கள் வழங்குவார்கள். கட்டிவிடுங்கள். |
+| **BOLO** | **Be On the LookOut** — ஒரு சந்தேக நபர் மீது வெளியிடப்படும் காவல்துறை எச்சரிக்கை. |
+| **MDT** | **Mobile Data Terminal** — BG Check, BOLO பட்டியல், எச்சரிக்கை ஆகியவற்றுடன் கூடிய காவல்துறை டேப்லட் பயன்பாடு. |
+| **TapNGo** | விளையாட்டுக்குள் உள்ள நெடுஞ்சாலை கட்டண நுழைவாயில் (பண 15 BR / CAG அட்டையுடன் 12 BR). |
+| **Ammulaysia** | உரிமம் பெற்ற துப்பாக்கி வியாபாரி. Firearms Licence gamepass தேவை. |
+| **MRT** | **Mass Rapid Transit** — Kajang Line fast-travel ரயில். |
+| **ACS** | **Advanced Combat System** — ஆயுத என்ஜின் (சுடுதல், மறுபடியும் ஏற்றுதல், சேதம் ஆகியவற்றைக் கையாளுகிறது). |
+| **Saude** | போர்ச்சுகீஸ் மொழியில் "health" (உடல்நலம்) என்று பொருள். உடல்நல அமைப்பின் உள் பெயர். நீங்கள் UI-இல் இந்தச் சொல்லை எப்போதும் பார்க்க மாட்டீர்கள், ஆனால் தெரிந்துகொள்வது நல்லது. |

@@ -1,49 +1,48 @@
 ---
-title: Housing
-description: Claim a plot and build your home in Lebuhraya.
+title: வீடு
+description: Lebuhraya-வில் மனையை உரிமையாக்கி உங்கள் வீட்டைக் கட்டுங்கள்.
 lang: ta
 translated_from_hash: d0036913
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# வீடு
 
-# Housing
+லெபுஹ்ராயாவில் ஒரு **குடியிருப்பு அமைப்பு** உள்ளது, அதில் நீங்கள் ஒரு மனையை உரிமையாக்கலாம், வீட்டை அமைக்கலாம், தளவாடங்களால் அலங்கரிக்கலாம், மற்றும் அதை உங்கள் சொந்த தளமாகப் பயன்படுத்தலாம். இது விளையாட்டின் மிகவும் சமூகப் பண்புகள் கொண்ட அம்சங்களில் ஒன்றாகும் — நண்பர்களை அழைக்கவும், கதவுகளைப் பூட்டவும், கம்போங் பாணியிலான கூட்டத்தை நடத்தவும்.
 
-Lebuhraya has a **residence system** where you can claim a plot, place a house, decorate it with furniture, and use it as your own base. It's one of the game's most social features — invite friends over, lock the doors, throw a kampung-style gathering.
+## மனையை உரிமையாக்குதல்
 
-## Claiming a plot
+மனைகள் பண்டார் ஸ்ரீ புத்ராவில் உள்ள **Pangsapuri Seri Putra**-வில் அமைந்துள்ளன. கிடைக்கக்கூடிய மனைகளின் மொத்த எண்ணிக்கை server-ஆல் அமைக்கப்படுகிறது; அனைத்து மனைகளும் எடுக்கப்பட்டிருந்தால், **0 available** என்ற குறிகாட்டியைக் காண்பீர்கள்.
 
-Plots are located at **Pangsapuri Seri Putra** in Bandar Seri Putra. The total number of available plots is set by the server; if all plots are taken, you'll see a **0 available** indicator.
+1. Pangsapuri Seri Putra-விற்கு ஓட்டிச் செல்லுங்கள்.
+2. காலியான மனை அடையாளத்திற்கு நடந்து செல்லுங்கள்.
+3. உரிமை கோருதல் செய்தியுடன் தொடர்புகொள்ளுங்கள்.
+4. வீட்டு வார்ப்புருவைத் தேர்வுசெய்யுங்கள் (கீழே காண்க).
 
-1. Drive to Pangsapuri Seri Putra.
-2. Walk up to an empty plot marker.
-3. Interact with the claim prompt.
-4. Choose a house template (see below).
+உங்கள் மனை உங்கள் கணக்குடன் இணைக்கப்பட்டுள்ளது. server-ஐ விட்டு வெளியேறினாலும் உங்கள் வீடு நிலைத்திருக்கும்; திரும்பி வரும்போது அது அங்கேயே இருக்கும்.
 
-Your plot is tied to your account. Leave the server and your house persists; come back and it's still there.
+## வீட்டு வார்ப்புருக்கள்
 
-## House templates
+மனையை உரிமையாக்கும்போது நான்கு வார்ப்புருக்களிலிருந்து நீங்கள் ஒன்றைத் தேர்வுசெய்கிறீர்கள்:
 
-You pick from four templates when you claim a plot:
+- **Kampung_House_1** — பாரம்பரிய மலேசிய கம்போங் பாணியிலான வீடு
+- **Kampung_House_2** — மற்றொரு கம்போங் வகை, வேறுபட்ட அமைப்பு
+- **Kampung_House_3** — மூன்றாவது கம்போங் வகை
+- **Modern_Terrace_1** — நவீன டெர்ரஸ் / டவுன்ஹவுஸ் பாணி
 
-- **Kampung_House_1** — Traditional Malaysian kampung-style home
-- **Kampung_House_2** — Another kampung variant, different layout
-- **Kampung_House_3** — Third kampung variant
-- **Modern_Terrace_1** — Modern terrace / townhouse style
+ஒவ்வொரு வார்ப்புருவும் ஒரே உள்ளக பரப்பளவைக் கொண்டுள்ளன, ஆனால் வேறுபட்ட வெளிப்புற தன்மைகளைக் கொண்டுள்ளன. உங்கள் ரோல்ப்ளேக்கு ஏற்ற ஒன்றைத் தேர்வுசெய்யுங்கள்.
 
-Each template has the same interior footprint but different exterior character. Pick the one that fits your roleplay.
+## தனிப்பயனாக்கம்
 
-## Customising
+உங்கள் வீடு வைக்கப்பட்டவுடன், நீங்கள் கீழ்க்கண்டவற்றை செய்யலாம்:
 
-Once your house is placed, you can:
+### வண்ணம்
 
-### Paint
+வீட்டின் வெளிப்புற வண்ணப்பூச்சை மாற்றவும்.
 
-Change the paint colour of the house exterior.
+### தளவாடங்கள்
 
-### Furniture
-
-Add items from the furniture catalog. Available pieces include:
+தளவாடப் பட்டியலிலிருந்து பொருட்களைச் சேர்க்கவும். கிடைக்கக்கூடிய பொருட்கள் பின்வருமாறு:
 
 - **Bookshelf**
 - **Single Bed**
@@ -52,32 +51,32 @@ Add items from the furniture catalog. Available pieces include:
 - **Chairs**
 - **Mirror**
 
-Place items inside your house; move and rotate them until the layout feels right. Furniture costs BR per piece — check the in-game placement menu for prices.
+பொருட்களை உங்கள் வீட்டிற்குள் வைக்கவும்; அமைப்பு சரியாக உணரும் வரை அவற்றை நகர்த்தி சுழற்றவும். ஒவ்வொரு தளவாடமும் BR செலவாகும் — விலைகளுக்கு விளையாட்டினுள் உள்ள இடம் நிர்ணயிப்பு மெனுவைச் சரிபார்க்கவும்.
 
-### Doors
+### கதவுகள்
 
-Doors can be **locked** or **unlocked**. A locked door keeps other players out, including friends — unlock it when you want company.
+கதவுகளை **பூட்டியதாக** அல்லது **திறந்ததாக** வைக்கலாம். பூட்டிய கதவு நண்பர்கள் உட்பட பிற விளையாட்டாளர்களை உள்ளே அனுமதிக்காது — நீங்கள் விருந்தினர்களை வரவேற்க விரும்பும்போது அதைத் திறக்கவும்.
 
-### Lights
+### விளக்குகள்
 
-Toggle interior lighting on or off. Useful for setting the mood at night.
+உள்ளக விளக்குகளை ஆன் அல்லது ஆஃப் செய்யவும். இரவு நேர சூழலை அமைக்க பயனுள்ளது.
 
-## Who can enter?
+## யார் உள்ளே நுழையலாம்?
 
-- **You** — always.
-- **Other players** — only if your doors are unlocked.
-- **Team-mates** — no special access by default; same rules apply.
+- **நீங்கள்** — எப்போதும்.
+- **மற்ற விளையாட்டாளர்கள்** — உங்கள் கதவுகள் திறந்திருந்தால் மட்டுமே.
+- **அணி உறுப்பினர்கள்** — முன்னிருப்பாக சிறப்பு அணுகல் இல்லை; அதே விதிகள் பொருந்தும்.
 
-## Leaving or moving
+## வெளியேறுதல் அல்லது இடம் மாற்றுதல்
 
-If you want to abandon your plot to claim a different one, use the housing menu's **release** option. Your current house and furniture are removed when you release the plot. Consider saving your layout design in a screenshot before you release — there's no automatic restore.
+வேறு மனையை உரிமையாக்க உங்கள் தற்போதைய மனையை கைவிட விரும்பினால், வீட்டு மெனுவின் **release** விருப்பத்தைப் பயன்படுத்தவும். மனையை விடுவிக்கும்போது உங்கள் தற்போதைய வீடும் தளவாடங்களும் நீக்கப்படுகின்றன. விடுவிக்கும் முன் உங்கள் அமைப்பு வடிவமைப்பை ஸ்கிரீன்ஷாட்டாக சேமிப்பதைக் கருத்தில் கொள்ளுங்கள் — தானியங்கி மீட்டமைவு எதுவும் இல்லை.
 
-## A note on prices and counts
+## விலைகள் மற்றும் எண்ணிக்கை குறித்த குறிப்பு
 
-The exact BR cost for each house and furniture piece, and the total number of plots available server-side, depend on the live game state. The in-game menu is always the source of truth for these numbers.
+ஒவ்வொரு வீடு மற்றும் தளவாடத்திற்கான சரியான BR விலை, மற்றும் server-பக்கத்தில் கிடைக்கக்கூடிய மொத்த மனைகளின் எண்ணிக்கை, நேரடி விளையாட்டு நிலையைச் சார்ந்துள்ளன. இந்த எண்களுக்கு விளையாட்டினுள் உள்ள மெனுவே எப்போதும் உண்மையின் ஆதாரமாகும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [World and Map](/lebuhraya/map) — How to get to Pangsapuri Seri Putra
-- [Economy and XP](/lebuhraya/economy) — Saving up BR for that Modern Terrace
-- [Social Features](/lebuhraya/social-features) — Hosting friends via convoy
+- [World and Map](/lebuhraya/map) — Pangsapuri Seri Putra-விற்கு எப்படிச் செல்வது
+- [Economy and XP](/lebuhraya/economy) — அந்த Modern Terrace-க்காக BR சேமித்தல்
+- [Social Features](/lebuhraya/social-features) — கான்வாய் வழியாக நண்பர்களை வரவேற்றல்

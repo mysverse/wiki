@@ -1,96 +1,97 @@
 ---
-title: Careers Overview
-description: 'The three civilian career sectors in Sumaya — fishing, service, and palm oil.'
+title: Gambaran Kerjaya
+description: >-
+  Tiga sektor kerjaya awam di Sumaya — memancing, perkhidmatan, dan kelapa
+  sawit.
 lang: ms
 translated_from_hash: c613dd75
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Gambaran Kerjaya
 
-# Careers Overview
+Kerjaya di Sumaya ialah pekerjaan awam yang boleh anda lakukan untuk memperoleh Ringgit dan XP. Terdapat tiga **sektor** kerjaya, setiap satu dengan tangga pangkat dan ganjaran tersendiri.
 
-Careers in Sumaya are the civilian jobs you can do to earn Ringgit and XP. There are three career **sectors**, each with its own rank ladder and rewards.
+Halaman ini merangkumi cara kerjaya berfungsi secara umum. Setiap sektor mempunyai halaman tersendiri:
 
-This page covers how careers work in general. Individual sectors have their own pages:
+- [Memancing](/sumaya/jobs-fishing)
+- [Sektor perkhidmatan: Mamak dan Makanan Segera](/sumaya/jobs-service)
+- [Kelapa sawit (pertanian)](/sumaya/jobs-palm-oil)
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+## Apakah "sektor"?
 
-## What's a "sector"?
+Sektor ialah kategori kerja. Setiap sektor mempunyai:
 
-A sector is a category of work. Each sector has:
+- Satu **nama** (cth. "Sektor Memancing", "Sektor Pertanian").
+- Satu **tahap maksimum**, yang anda kumpulkan dengan memperoleh XP.
+- Satu **tangga pangkat** - apabila tahap sektor anda meningkat, gelaran dalam permainan anda berubah.
+- Mungkin **kandungan terhad tahap** - kenderaan atau alatan yang hanya terbuka pada tahap sektor tertentu.
 
-- A **name** (e.g. "Fishing Sector", "Agricultural Sector").
-- A **maximum level**, which you grind by earning XP.
-- A **rank ladder** - as your sector level goes up, your in-game title changes.
-- Possibly **level-gated content** - vehicles or tools that only unlock at a certain sector level.
+Terdapat tiga **sektor awam** yang boleh anda pilih dari awal:
 
-There are three **civilian sectors** you can pick from the start:
-
-| Sector | What you do | Max level | Start requirement |
+| Sektor | Apa anda lakukan | Tahap maksimum | Syarat permulaan |
 |--------|-------------|-----------|-------------------|
-| Fishing | Rod on the pier or trawl on a boat | 100 | None |
-| Service (Mamak / Fast Food) | Serve food, take orders | 100 | Reach sector level 50 in fishing or agro |
-| Agriculture (palm oil) | Harvest palm fruit bunches | 25 | None (available immediately) |
+| Memancing | Joran di jeti atau pukat di bot | 100 | Tiada |
+| Perkhidmatan (Mamak / Makanan Segera) | Menghidang makanan, mengambil pesanan | 100 | Capai tahap sektor 50 dalam memancing atau pertanian |
+| Pertanian (kelapa sawit) | Menuai tandan buah sawit | 25 | Tiada (tersedia serta-merta) |
 
-The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown in the civilian careers app - you join them by picking the matching team from the main menu. See [Emergency Services overview](/sumaya/emergency-services).
+Tiga **sektor perkhidmatan kecemasan** (Bomba, Kesihatan, Polis) tidak ditunjukkan dalam aplikasi kerjaya awam - anda menyertai mereka dengan memilih pasukan yang sepadan dari menu utama. Lihat [Gambaran Perkhidmatan Kecemasan](/sumaya/emergency-services).
 
-## How to start a career
+## Cara memulakan kerjaya
 
-1. Open your **phone** and tap the **Careers** app.
-2. Pick a sector. If it's locked, the app will tell you why.
-3. Walk up to the matching **career station** in the world (a fishing dock, a mamak stall, a palm plantation). The Careers app and the quest guidance beam will point you there.
-4. Press the **interact** prompt to clock in.
+1. Buka **telefon** anda dan ketik aplikasi **Careers**.
+2. Pilih sektor. Jika ia dikunci, aplikasi akan memberitahu anda sebabnya.
+3. Berjalan ke **stesen kerjaya** yang sepadan di dunia (jeti memancing, gerai mamak, ladang sawit). Aplikasi Careers dan pancaran panduan misi akan menunjuk anda ke sana.
+4. Tekan gesaan **interact** untuk masuk kerja.
 
-Once you're clocked in:
+Setelah anda masuk kerja:
 
-- A sector-specific HUD shows up.
-- Relevant tools spawn in your backpack (fishing rod, palm hook, etc.).
-- You start earning XP and Ringgit for actions you complete.
+- HUD khusus sektor akan muncul.
+- Alatan berkaitan akan muncul di beg galas anda (joran pancing, cangkuk sawit, dll.).
+- Anda mula memperoleh XP dan Ringgit untuk tindakan yang anda selesaikan.
 
-## Clocking out
+## Keluar kerja
 
-Open the Careers app and tap the active job to stop. Some sectors (like palm oil) pay out your earnings only **when you clock out**, so don't forget to finish your shift.
+Buka aplikasi Careers dan ketik kerja aktif untuk berhenti. Sesetengah sektor (seperti kelapa sawit) membayar pendapatan anda hanya **apabila anda keluar kerja**, jadi jangan lupa selesaikan syif anda.
 
-You'll also stop automatically if:
+Anda juga akan berhenti secara automatik jika:
 
-- Your character respawns (any death ends the shift).
-- You switch teams.
+- Watak anda respawn (sebarang kematian menamatkan syif).
+- Anda bertukar pasukan.
 
-## Civilian XP and rewards, in brief
+## XP awam dan ganjaran, secara ringkas
 
-Every action pays you two things:
+Setiap tindakan memberi anda dua perkara:
 
-1. **Player XP** - levels up your global account. Max player level is 300.
-2. **Sector XP** - levels up the specific sector you're working in.
+1. **XP Pemain** - meningkatkan tahap akaun global anda. Tahap maksimum pemain ialah 300.
+2. **XP Sektor** - meningkatkan tahap sektor khusus yang anda bekerja di dalamnya.
 
-Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fishing pays 15 XP per species - player XP only, no sector XP). Service sector pays per order and scales by level. Palm oil banks your earnings and pays a 50 XP bonus at the end of the shift.
+Bayaran tindakan bergantung pada sektor. Memancing pukat memberi 2 XP setiap tangkapan (memancing joran membayar 15 XP setiap spesies - XP pemain sahaja, tiada XP sektor). Sektor perkhidmatan membayar setiap pesanan dan berskala mengikut tahap. Kelapa sawit menyimpan pendapatan anda dan membayar bonus 50 XP pada penghujung syif.
 
-See each sector page for the numbers, and [Progression](/sumaya/progression) for how XP converts to levels.
+Lihat halaman setiap sektor untuk angka-angkanya, dan [Perkembangan](/sumaya/progression) untuk cara XP ditukar menjadi tahap.
 
-## Which career should I pick first?
+## Kerjaya mana patut saya pilih dahulu?
 
-Rough guide:
+Panduan kasar:
 
-- **Want fast, steady cash with no stress?** Go fishing. Calm, low-pressure, and boats get better as you level up.
-- **Like repetitive task-clearing?** Mamak or Fast Food in the service sector. Take orders, prepare items, serve customers.
-- **Want the best payout per shift?** Palm oil. Harvests pile up and pay at end-of-shift, with a 50 XP bonus on top.
-- **Just want to explore?** Skip civilian work for now, grab a free car from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
+- **Mahu duit pantas, stabil tanpa tekanan?** Pergi memancing. Tenang, tekanan rendah, dan bot menjadi lebih baik apabila anda naik tahap.
+- **Suka membersihkan tugas berulang?** Mamak atau Makanan Segera dalam sektor perkhidmatan. Ambil pesanan, sediakan barangan, hidangkan pelanggan.
+- **Mahu bayaran terbaik setiap syif?** Kelapa sawit. Hasil tuaian bertimbun dan dibayar pada penghujung syif, dengan bonus 50 XP sebagai tambahan.
+- **Cuma mahu meneroka?** Lupakan kerja awam buat masa ini, ambil kereta percuma dari [vehicle spawner](/sumaya/vehicles), dan memandu sekeliling. Datang semula apabila anda mahu Ringgit.
 
-## Cross-sector tips
+## Petua merentasi sektor
 
-- **You can only work one job at a time.** If you clock in to fishing, you need to clock out before you can start mamak.
-- **Sector level and player level rise together.** Every XP you earn on a job boosts both - so grinding one sector also levels your global account.
-- **Emergency-service sectors are uniform.** Bomba, Polis, and Kesihatan all go up to level 100 with similar reward curves. Civilian sectors differ more.
-- **Kesihatan's injury system gives a +15% player-XP boost to everyone on the server** while it's active. If you see the boost active, it's a good time to grind.
+- **Anda hanya boleh bekerja satu pekerjaan pada satu masa.** Jika anda masuk kerja memancing, anda perlu keluar kerja sebelum boleh memulakan mamak.
+- **Tahap sektor dan tahap pemain naik bersama-sama.** Setiap XP yang anda peroleh pada kerja meningkatkan kedua-duanya - jadi mengumpul satu sektor juga menaikkan tahap akaun global anda.
+- **Sektor perkhidmatan kecemasan adalah seragam.** Bomba, Polis, dan Kesihatan semua naik sehingga tahap 100 dengan lengkung ganjaran yang serupa. Sektor awam lebih berbeza.
+- **Sistem kecederaan Kesihatan memberi rangsangan +15% XP pemain kepada semua orang di server** semasa ia aktif. Jika anda melihat rangsangan aktif, itu masa yang baik untuk mengumpul.
 
-## What next?
+## Apa seterusnya?
 
-Pick a sector to read about in detail:
+Pilih sektor untuk dibaca secara terperinci:
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- [Memancing](/sumaya/jobs-fishing)
+- [Sektor perkhidmatan: Mamak dan Makanan Segera](/sumaya/jobs-service)
+- [Kelapa sawit (pertanian)](/sumaya/jobs-palm-oil)
 
-Or read [Progression](/sumaya/progression) to understand how XP and levels work across the whole game.
+Atau baca [Perkembangan](/sumaya/progression) untuk memahami cara XP dan tahap berfungsi di seluruh permainan.

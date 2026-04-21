@@ -1,75 +1,74 @@
 ---
-title: Service Sector (Mamak and Fast Food)
-description: Mamak and fast-food service careers in Sumaya.
+title: 服务业（Mamak 与快餐）
+description: Sumaya 的 mamak 与快餐服务业职业介绍。
 lang: zh
 translated_from_hash: 72d00afe
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 服务业（Mamak 与快餐）
 
-# Service Sector (Mamak and Fast Food)
+服务业涵盖 Sumaya 两种面向顾客的餐饮工作：**Mamak**（经典的马来西亚印裔穆斯林餐馆）和**快餐**（汉堡式快捷服务餐厅）。两者都是节奏快、接单型的工作，并共用同一套行业 XP 与职级阶梯。
 
-The service sector covers Sumaya's two customer-facing food jobs: **Mamak** (the classic Malaysian Indian-Muslim eatery) and **Fast Food** (a burger-style quick-service restaurant). Both are fast-paced, order-taking jobs, and both share the same sector XP and rank ladder.
+## 解锁条件
 
-## Unlock requirement
+服务业会在**你在另一个平民行业（捕鱼或棕油）达到 50 级**后解锁。这是「中期游戏」的职业选项。在此之前你仍可以顾客身份光顾这些摊位 - 只是还不能在那里工作。
 
-The service sector is unlocked **once you reach level 50 in another civilian sector** (fishing or palm oil). It's the "mid-game" career option. You can still visit the stalls as a customer before then - you just can't work there.
+## 开始上手
 
-## Getting started
+1. 在[捕鱼](/sumaya/jobs-fishing)或[棕油](/sumaya/jobs-palm-oil)达到行业 50 级。
+2. 打开手机上的 **Careers** 应用程序。
+3. 选择 **Service Sector**。
+4. 走到 Mamak 摊位或快餐柜台前（Careers 应用程序会指引你过去）。
+5. 按下 **clock in** 提示。
 
-1. Reach sector level 50 in [fishing](/sumaya/jobs-fishing) or [palm oil](/sumaya/jobs-palm-oil).
-2. Open the **Careers** app on your phone.
-3. Pick **Service Sector**.
-4. Walk up to a Mamak stall or Fast Food counter (the Careers app will point you there).
-5. Press the **clock in** prompt.
+## 订单运作方式
 
-## How orders work
+开始值班后：
 
-Once you're on shift:
+- 顾客（NPC）会走过来下单。
+- HUD 会显示他们要的东西。
+- 前往准备区（冷冻柜、柜台、饮料机等）来组装该品项。
+- 把完成的订单送回给顾客。
 
-- Customers (NPCs) walk up and place an order.
-- The HUD shows you what they want.
-- Go to the prep area (freezer, counter, drinks machine, etc.) to assemble the item.
-- Bring the finished order back to the customer.
+节奏很稳定 - 顾客会定期到来，每完成一单都会发放 XP 和 Ringgit。
 
-The pace is steady - customers arrive regularly, and each completed order pays XP and Ringgit.
+## 酬劳
 
-## Payout
+你 clock out 或完成顾客后，款项会以 “Mamak Sdn. Bhd.” 或对应的快餐工资名目汇入你的**银行账户**（不是钱包）。
 
-Payments go into your **bank account** (not wallet) under "Mamak Sdn. Bhd." or the equivalent Fast Food paycheck when you clock out or complete customers.
-
-| Venue | Per customer | Bonus (every 10 customers) | Wrong-order penalty |
-|-------|--------------|----------------------------|---------------------|
+| 店家 | 每位顾客 | 奖金（每 10 位顾客） | 出错订单罚款 |
+|------|----------|----------------------|--------------|
 | Mamak | 30 Ringgit | +180 Ringgit | -25 Ringgit |
-| Fast Food | 25 Ringgit | +150 Ringgit | -20 Ringgit |
+| 快餐 | 25 Ringgit | +150 Ringgit | -20 Ringgit |
 
-Mamak pays slightly better per customer, but both venues are roughly equivalent over a shift since customer flow tends to be similar. If your final total ever goes below zero (too many penalties), it's floored at 0 - you won't actually owe the game money.
+Mamak 每位顾客的报酬稍高一些，但由于客流量大致相似，整轮班下来两家的收入相差不大。如果你的最终总额跌破零（罚款太多），系统会以 0 为下限 - 你其实不会欠游戏钱。
 
-Action XP scales with your **sector level** (base ~5 XP per task at level 1, growing via a 1.1x per-level multiplier - so late-game service workers earn several times more XP per customer than starters).
+动作 XP 会随你的**行业等级**提升（1 级时基础约为每项任务 5 XP，透过每级 1.1 倍的乘数成长 - 所以后期的服务业工作者每位顾客所赚的 XP 会是新手的数倍）。
 
-Tips:
+小贴士：
 
-- **Fast Food vs Mamak**: mechanically similar - pick whichever is closer or has better decor to your taste, or Mamak for slightly better pay per customer.
-- **Read orders carefully.** Wrong-order penalties subtract from your paycheck - repeat failures can wipe out the per-customer pay.
-- **Bonus at every 10 served**: aim for multiples of 10 before clocking out.
+- **快餐 vs Mamak**：机制上类似 - 挑选距离较近或装潢更合你口味的那家，或者选 Mamak 以获得每位顾客稍高一些的报酬。
+- **仔细阅读订单。** 出错订单的罚款会从你的工资里扣除 - 反复出错可能会抵消掉每位顾客的报酬。
+- **每服务 10 人一次奖金**：clock out 前尽量凑到 10 的倍数。
 
-## Leveling up
+## 升级
 
-The service sector goes up to **level 100**, same as the other civilian sectors. The per-level XP multiplier means later levels progress more per task than early levels.
+服务业最高可升到**100 级**，和其他平民行业一样。每级的 XP 乘数意味着后期的每项任务进度比前期更多。
 
-## Clocking out
+## Clock out
 
-Open the Careers app and stop your shift. Earnings accumulate as you go, so you don't lose progress by clocking out mid-shift - you've already been paid.
+打开 Careers 应用程序并结束你的班次。收入会随着你工作持续累积，所以中途 clock out 并不会让你损失进度 - 钱已经付给你了。
 
-## Tips
+## 小贴士
 
-- **Multiple players can work the same venue.** If a friend is also a service worker, you both earn independently for the orders you handle.
-- **Don't leave a customer waiting too long.** If an NPC waits past a certain threshold, they might walk off - no payout.
-- **Watch the prep area.** Some ingredients regenerate slowly; if the freezer is empty, the next order might stall briefly.
-- **Learn the venue layout.** The difference between a fast shift and a slow one is whether you know where every item lives.
+- **多位玩家可以在同一家店工作。** 如果朋友也是服务业工作者,你们各自处理的订单各自拿报酬,互不影响。
+- **不要让顾客等太久。** 如果 NPC 等超过某个门槛,他们可能会掉头走人 - 就没有报酬了。
+- **留意准备区。** 某些食材会慢慢补货;如果冷冻柜空了,下一单可能会短暂卡顿。
+- **熟悉店内布局。** 班次顺不顺手,关键就在你是否清楚每样物品摆在哪里。
 
-## What next?
+## 接下来呢?
 
-- [Fishing](/sumaya/jobs-fishing) if you want a calmer alternative.
-- [Palm oil](/sumaya/jobs-palm-oil) for higher-single-action payouts.
-- [Progression](/sumaya/progression) for how sector level affects your rewards.
+- [捕鱼](/sumaya/jobs-fishing) 如果你想要更轻松的选择。
+- [棕油](/sumaya/jobs-palm-oil) 可获得更高的单次动作报酬。
+- [进度](/sumaya/progression) 了解行业等级如何影响你的奖励。

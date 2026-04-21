@@ -108,7 +108,7 @@ Any civilian can dial 999 from this app. It:
 
 - Opens a dispatch screen where you pick which service(s) you need, the reason, and (optionally) a custom note up to 140 characters.
 - Notifies all on-duty POLIS, BOMBA, or Kesihatan players via their MDT.
-- Attaches your location automatically (resolved to the nearest landmark name).
+- Attaches your location automatically - resolved to the nearest of **8 named landmarks**: Town Centre, Kampung North, Kampung South, Pasaram, Mamak Row, Police Station, Fire Station, Hospital.
 - Has a **10-second cooldown** per caller before you can submit another call - don't spam.
 
 Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so roleplay scenarios that end up un-responded don't clutter the MDT forever.

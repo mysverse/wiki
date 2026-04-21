@@ -1,65 +1,64 @@
 ---
-title: Glossary — Malaysian Terms & Game Acronyms
+title: Glosari — Istilah Malaysia & Akronim Permainan
 description: >-
-  Malaysian acronyms and in-game terms explained — PDRM, BOMBA, KKM, CAG, LTAA,
-  RTAA, MRT, and more.
+  Akronim Malaysia dan istilah dalam permainan — PDRM, BOMBA, KKM, CAG, LTAA,
+  RTAA, MRT, dan banyak lagi.
 lang: ms
 translated_from_hash: '11e95588'
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Glosari — Istilah Malaysia & Akronim Permainan
 
-# Glossary — Malaysian Terms & Game Acronyms
+Bandaraya banyak bergantung pada nama Malaysia sebenar. Kalau anda bukan dari Malaysia (atau belum pernah lihat akronim tersebut), rujuk di sini.
 
-Bandaraya leans hard on real Malaysian names. If you're not from Malaysia (or haven't seen the acronym yet), look it up here.
+## Mata wang & duit
 
-## Currencies & money
-
-| Term | Meaning |
+| Istilah | Maksud |
 | --- | --- |
-| **BR** | **Bandar Ringgit** — the in-game currency. Think of it as the game's ringgit (RM). |
-| **CAG** | **Click And Go** — in-game stored-value transit card (Bandaraya's take on Malaysia's Touch n Go). |
+| **BR** | **Bandar Ringgit** — mata wang dalam permainan. Anggap ia sebagai ringgit (RM) dalam permainan. |
+| **CAG** | **Click And Go** — kad transit nilai tersimpan dalam permainan (versi Bandaraya untuk Touch n Go Malaysia). |
 
-## Organisations (teams)
+## Organisasi (pasukan)
 
-| Acronym | Full name | What it is |
+| Akronim | Nama penuh | Apa itu |
 | --- | --- | --- |
-| **PDRM** | Polis Diraja Malaysia | Royal Malaysia Police. |
-| **BOMBA** | Jabatan Bomba dan Penyelamat | Fire & Rescue Department. |
-| **KKM** | Kementerian Kesihatan Malaysia | Ministry of Health (doctors, medics). |
-| **SJAM** | St. John Ambulans Malaysia | Volunteer ambulance service. |
-| **RELA** | Ikatan Relawan Rakyat | Volunteer police corps. |
-| **MAF** | Malaysian Armed Forces | Army. |
-| **KPTD** | Kor Polis Tentera Diraja | Royal Military Police (military police branch). |
-| **JIM** | Jabatan Imigresen Malaysia | Immigration Department. |
-| **NWS** | National Wire Services | In-game state news agency. |
-| **OCG** | Organised Crime Group | Criminal roleplay team. |
-| **HCC** | High Class Citizen | Paid premium team (gamepass). |
-| **PB** | Polis Bantuan | Auxiliary transit police (MyTransit). |
-| **MyTransit** | — | In-game bus operator (the big one). |
-| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | — | Other in-game transport / e-hailing companies. |
-| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | Land Public Transport Commission — licences bus operators in-game. |
+| **PDRM** | Polis Diraja Malaysia | Polis Diraja Malaysia. |
+| **BOMBA** | Jabatan Bomba dan Penyelamat | Jabatan Bomba dan Penyelamat. |
+| **KKM** | Kementerian Kesihatan Malaysia | Kementerian Kesihatan (doktor, paramedik). |
+| **SJAM** | St. John Ambulans Malaysia | Perkhidmatan ambulans sukarela. |
+| **RELA** | Ikatan Relawan Rakyat | Kor polis sukarela. |
+| **MAF** | Malaysian Armed Forces | Tentera. |
+| **KPTD** | Kor Polis Tentera Diraja | Polis Tentera Diraja (cabang polis tentera). |
+| **JIM** | Jabatan Imigresen Malaysia | Jabatan Imigresen. |
+| **NWS** | National Wire Services | Agensi berita negeri dalam permainan. |
+| **OCG** | Organised Crime Group | Pasukan roleplay jenayah. |
+| **HCC** | High Class Citizen | Pasukan premium berbayar (gamepass). |
+| **PB** | Polis Bantuan | Polis bantuan transit (MyTransit). |
+| **MyTransit** | — | Pengendali bas dalam permainan (yang utama). |
+| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | — | Syarikat pengangkutan / e-hailing lain dalam permainan. |
+| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | Suruhanjaya Pengangkutan Awam Darat — mengeluarkan lesen kepada pengendali bas dalam permainan. |
 
-## Places
+## Tempat
 
-| Term | Meaning |
+| Istilah | Maksud |
 | --- | --- |
-| **IPD** | **Ibu Pejabat Polis Daerah** — District Police HQ. IPD Dang Wangi is the main police station in-game. |
-| **Kem Wardieburn** | MAF military camp. |
-| **KLBT** / **Bandar Bus Terminal** | Kuala Lumpur Bus Terminal. |
-| **Hazbank** | In-game bank (yes, you can try to rob it). |
+| **IPD** | **Ibu Pejabat Polis Daerah** — Ibu Pejabat Polis Daerah. IPD Dang Wangi ialah balai polis utama dalam permainan. |
+| **Kem Wardieburn** | Kem tentera MAF. |
+| **KLBT** / **Bandar Bus Terminal** | Terminal Bas Kuala Lumpur. |
+| **Hazbank** | Bank dalam permainan (ya, anda boleh cuba rompak). |
 
-## Gameplay & systems
+## Gameplay & sistem
 
-| Term | Meaning |
+| Istilah | Maksud |
 | --- | --- |
-| **LTAA** | **Leave To Avoid Arrest** — disconnecting while detained. Auto-arrests you for 3 minutes when you come back. Don't. |
-| **RTAA** | **Reset To Avoid Arrest** — using the reset button to escape. The reset button disables at 75 HP or below to stop this. |
-| **Saman** | Malay for **summons / fine**. Police issue them. Pay up. |
-| **BOLO** | **Be On the LookOut** — a police alert put out on a suspect. |
-| **MDT** | **Mobile Data Terminal** — police tablet app with BG Check, BOLO list, and alerting. |
-| **TapNGo** | Highway toll gate in-game (15 BR cash / 12 BR with CAG card). |
-| **Ammulaysia** | Licensed gun dealer. Requires the Firearms Licence gamepass. |
-| **MRT** | **Mass Rapid Transit** — the Kajang Line fast-travel train. |
-| **ACS** | **Advanced Combat System** — the weapon engine (handles shooting, reloading, damage). |
-| **Saude** | Portuguese for "health". The health system's internal name. You'll never see the word in UI, but it's helpful to know. |
+| **LTAA** | **Leave To Avoid Arrest** — putuskan sambungan semasa ditahan. Akan menahan anda secara automatik selama 3 minit bila anda balik. Jangan buat. |
+| **RTAA** | **Reset To Avoid Arrest** — guna butang reset untuk lari. Butang reset akan dilumpuhkan pada 75 HP atau ke bawah untuk halang ini. |
+| **Saman** | Bahasa Melayu untuk **saman / denda**. Dikeluarkan oleh polis. Bayar sahaja. |
+| **BOLO** | **Be On the LookOut** — amaran polis yang dikeluarkan terhadap seorang suspek. |
+| **MDT** | **Mobile Data Terminal** — aplikasi tablet polis dengan BG Check, senarai BOLO dan amaran. |
+| **TapNGo** | Pintu tol lebuh raya dalam permainan (15 BR tunai / 12 BR dengan kad CAG). |
+| **Ammulaysia** | Peniaga senjata api berlesen. Memerlukan gamepass Firearms Licence. |
+| **MRT** | **Mass Rapid Transit** — kereta api Kajang Line untuk fast-travel. |
+| **ACS** | **Advanced Combat System** — enjin senjata (kendalikan tembakan, muat semula, kerosakan). |
+| **Saude** | Bahasa Portugis untuk "kesihatan". Nama dalaman sistem kesihatan. Anda tak akan nampak perkataan ini dalam UI, tapi baik untuk tahu. |

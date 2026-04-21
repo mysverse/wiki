@@ -1,72 +1,71 @@
 ---
-title: Gamepasses
+title: Gamepass
 description: >-
-  Every Bandaraya gamepass explained — Taxi Driver, Firearms Licence, HCC, Car
-  Radio, and more.
+  Setiap gamepass Bandaraya dijelaskan — Pemandu Teksi, Lesen Senjata Api, HCC,
+  Radio Kereta, dan banyak lagi.
 lang: ms
 translated_from_hash: 6f4cfc8f
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Gamepass
 
-# Gamepasses
+Gamepass ialah pembelian Robux sekali sahaja yang membuka kunci sesuatu ciri, pasukan, atau faedah secara kekal pada akaun anda. Terdapat empat jenis.
 
-Gamepasses are one-time Robux purchases that unlock a feature, team, or perk forever on your account. Four exist.
+## Ringkasan
 
-## TL;DR
-
-- **Taxi Driver (150 R$)** — cheap, good if you want to do the taxi job.
-- **Car Radio (100 R$)** — cheapest, pure vibes.
-- **Firearms Licence (1,250 R$)** — unlocks the gun shop. Only if you want to shoot.
-- **High Class Citizen (3,000 R$)** — priciest, best if you play a lot (income boost + luxury cars).
+- **Taxi Driver (150 R$)** — murah, sesuai jika anda mahu buat kerja teksi.
+- **Car Radio (100 R$)** — paling murah, sekadar untuk suasana.
+- **Firearms Licence (1,250 R$)** — membuka kunci kedai senjata. Hanya jika anda mahu menembak.
+- **High Class Citizen (3,000 R$)** — paling mahal, terbaik jika anda kerap bermain (tambahan pendapatan + kereta mewah).
 
 ---
 
-## Full list
+## Senarai penuh
 
-| Gamepass | Robux | What it does |
+| Gamepass | Robux | Fungsinya |
 | --- | --- | --- |
-| **Car Radio** | R$ 100 | Play music through your vehicle's radio while driving. Separate from team radio (which is free + uses TextChatService with voice STT/TTS). |
-| **Firearms Licence** | R$ 1,250 | Unlocks **Ammulaysia** (the licensed gun dealer). Civilian firearms are otherwise inaccessible. |
-| **High Class Citizen (HCC)** | R$ 3,000 | Increased BR income, access to luxury cars (BMW i7, Volvo XC90, Mercedes C300), HCC team membership. |
-| **Taxi Driver** | R$ 150 | Drive taxis and earn per trip without needing a Taxi Services group. Lets you join the Taxi Services team. |
+| **Car Radio** | R$ 100 | Mainkan muzik melalui radio kenderaan anda semasa memandu. Berasingan daripada radio pasukan (yang percuma + menggunakan TextChatService dengan STT/TTS suara). |
+| **Firearms Licence** | R$ 1,250 | Membuka kunci **Ammulaysia** (penjual senjata berlesen). Senjata api awam tidak boleh diakses selain melalui ini. |
+| **High Class Citizen (HCC)** | R$ 3,000 | Pendapatan BR lebih tinggi, akses kepada kereta mewah (BMW i7, Volvo XC90, Mercedes C300), keahlian pasukan HCC. |
+| **Taxi Driver** | R$ 150 | Memandu teksi dan memperoleh bayaran setiap perjalanan tanpa perlu kumpulan Taxi Services. Membolehkan anda menyertai pasukan Taxi Services. |
 
 ---
 
-## Which to buy first
+## Yang mana patut dibeli dahulu
 
-### "I want to chill and drive"
-**Car Radio.** 100 R$ gets you music everywhere. Cheapest and most universally useful.
+### "Saya nak santai dan memandu"
+**Car Radio.** 100 R$ memberi anda muzik di mana-mana. Paling murah dan paling berguna secara menyeluruh.
 
-### "I want to earn money"
-**Taxi Driver** (150 R$) — instant job access, low friction. Pair with Car Radio for maximum vibe.
+### "Saya nak cari duit"
+**Taxi Driver** (150 R$) — akses kerja serta-merta, tanpa leceh. Pasangkan dengan Car Radio untuk suasana maksimum.
 
-### "I want to roleplay with guns"
-**Firearms Licence** (1,250 R$). The only civilian way to a weapon — **unless** you're on a team that gets them issued (PDRM, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Be aware shops have a **5-minute cooldown** between purchases.
+### "Saya nak roleplay dengan senjata"
+**Firearms Licence** (1,250 R$). Satu-satunya cara awam untuk memiliki senjata — **melainkan** anda berada dalam pasukan yang dikeluarkan senjata (PDRM, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Ambil perhatian bahawa kedai mempunyai **cooldown 5 minit** antara setiap pembelian.
 
-### "I want to min-max"
-**High Class Citizen** (3,000 R$). Income boost that pays for itself if you play regularly. Comes with luxury vehicles and exclusive team access. If you only play casually, skip — the Robux is better spent on BR developer products.
+### "Saya nak min-max"
+**High Class Citizen** (3,000 R$). Tambahan pendapatan yang akan membayar balik dirinya jika anda bermain dengan kerap. Disertakan dengan kenderaan mewah dan akses pasukan eksklusif. Jika anda hanya bermain sambil lewa, langkau sahaja — Robux itu lebih baik dibelanjakan pada developer products BR.
 
-### "I want to play a lot"
-HCC first, then Taxi Driver for extra side income, then Car Radio for vibes. Firearms Licence only if combat roleplay is your thing.
+### "Saya nak main banyak-banyak"
+HCC dahulu, kemudian Taxi Driver untuk pendapatan sampingan tambahan, kemudian Car Radio untuk suasana. Firearms Licence hanya jika roleplay pertempuran minat anda.
 
-## Gamepasses vs. developer products
+## Gamepass vs. developer products
 
-- **Gamepasses** are one-time, permanent unlocks.
-- **Developer products** (see [Economy](/bandaraya/economy#developer-products-buy-br-with-robux)) are consumable BR top-ups.
+- **Gamepass** ialah buka kunci kekal sekali sahaja.
+- **Developer products** (lihat [Ekonomi](/bandaraya/economy#developer-products-buy-br-with-robux)) ialah tambah nilai BR yang boleh digunakan sekali.
 
-If you want a specific expensive car once, a BR developer product is cheaper. If you want a perk that pays off across every session, buy a gamepass.
+Jika anda mahu kereta mahal tertentu sekali sahaja, developer product BR lebih murah. Jika anda mahu faedah yang berbaloi sepanjang setiap sesi, beli gamepass.
 
-## Tips & gotchas
+## Petua & perkara penting
 
-- **Gamepasses can't be refunded** once purchased. Robux back takes >3 days from Roblox anyway.
-- **Check your account first.** You already own a gamepass? Don't pay twice.
-- **Team access is automatic.** The moment you own the Taxi Driver gamepass, the Taxi Services team appears in your team menu.
-- **HCC stacks with jobs.** If you do POS or Taxi with HCC, your per-delivery / per-trip earnings go up.
+- **Gamepass tidak boleh dibatalkan** setelah dibeli. Pemulangan Robux daripada Roblox mengambil masa lebih 3 hari pun.
+- **Semak akaun anda dahulu.** Anda sudah miliki gamepass itu? Jangan bayar dua kali.
+- **Akses pasukan adalah automatik.** Sebaik sahaja anda memiliki gamepass Taxi Driver, pasukan Taxi Services akan muncul dalam menu pasukan anda.
+- **HCC bertindan dengan kerja.** Jika anda buat POS atau Taxi dengan HCC, pendapatan setiap penghantaran / setiap perjalanan akan meningkat.
 
-## See also
+## Lihat juga
 
-- [Economy](/bandaraya/economy) — full BR economy
-- [Teams](/bandaraya/teams#special-teams) — HCC and Taxi Services team details
-- [Jobs](/bandaraya/jobs) — POS, Taxi, Tow
-- [Combat & Health](/bandaraya/combat-and-health) — weapons
+- [Ekonomi](/bandaraya/economy) — ekonomi BR penuh
+- [Pasukan](/bandaraya/teams#special-teams) — butiran pasukan HCC dan Taxi Services
+- [Pekerjaan](/bandaraya/jobs) — POS, Taxi, Tow
+- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) — senjata

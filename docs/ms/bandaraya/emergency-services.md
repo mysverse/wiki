@@ -1,276 +1,275 @@
 ---
-title: Emergency Services
+title: Perkhidmatan Kecemasan
 description: >-
-  PDRM, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security
-  services of Bandaraya.
+  PDRM, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan
+  keselamatan di Bandaraya.
 lang: ms
 translated_from_hash: 01ab80d6
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Perkhidmatan Kecemasan
 
-# Emergency Services
+Memainkan peranan perkhidmatan awam — polis, bomba, perubatan, tentera — adalah inti pati roleplay Bandaraya. Halaman ini merangkumi apa yang dilakukan oleh setiap pasukan, alat yang diberikan kepada mereka, dan apa yang diharapkan daripada mereka yang memakai uniform.
 
-Playing a public service role — police, fire, medical, military — is the heart of Bandaraya's roleplay. This page covers what each team does, what tools they're given, and what's expected of the people who wear the uniform.
+## Ringkasan
 
-## TL;DR
-
-| Team | What you do | Arrest power | Big tools |
+| Pasukan | Apa yang anda lakukan | Kuasa tangkap | Alat utama |
 | --- | --- | --- | --- |
-| **PDRM** | Patrol, respond to crime, detain, arrest | Yes | X26P taser, cuff, saman, fingerprint scanner |
-| **BOMBA** | Fight fires, medical carry, rescue | No | Fire hose, searchlight, carry |
-| **KKM** | Treat injured players, staff hospital | No | Medical placeables, torchlight |
-| **SJAM** | Volunteer ambulance | No | Torchlight only (basic) |
-| **RELA** | Volunteer policing support | Limited | Wooden baton, search, torchlight |
-| **MAF / KPTD** | Military, parade, ceremonial; MP arrests | KPTD: yes | Various military equipment |
+| **PDRM** | Meronda, menangani jenayah, menahan, menangkap | Ya | X26P taser, gari, saman, pengimbas cap jari |
+| **BOMBA** | Memadam kebakaran, membawa kecemasan perubatan, menyelamat | Tidak | Hos bomba, lampu carian, pembawa |
+| **KKM** | Merawat pemain cedera, bertugas di hospital | Tidak | Placeables perubatan, lampu suluh |
+| **SJAM** | Ambulans sukarelawan | Tidak | Lampu suluh sahaja (asas) |
+| **RELA** | Sokongan polis sukarelawan | Terhad | Baton kayu, geledah, lampu suluh |
+| **MAF / KPTD** | Tentera, perbarisan, istiadat; tangkapan MP | KPTD: ya | Pelbagai peralatan tentera |
 
 ---
 
-## PDRM (Polis Diraja Malaysia) — The Police
+## PDRM (Polis Diraja Malaysia) — Pihak Polis
 
-Group: 1182710, 3048630. Any rank.
+Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 
-### What you do
+### Apa yang anda lakukan
 
-- Patrol KL in marked units (Civic MPV, Inspira, X70, Hilux).
-- Respond to 999 calls (fire, crime, accidents).
-- Detain and arrest suspects. See [Arrest & Law](/bandaraya/arrest-and-law).
-- Issue summons (saman) for traffic violations.
-- Use the **MDT tablet app** to check BGs, run BOLOs, alert other officers.
-- Staff **IPD Dang Wangi** — the main police station (CID, JSPT, Ops Room, Armoury).
+- Meronda KL dalam unit bertanda (Civic MPV, Inspira, X70, Hilux).
+- Menjawab panggilan 999 (kebakaran, jenayah, kemalangan).
+- Menahan dan menangkap suspek. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law).
+- Mengeluarkan saman untuk kesalahan lalu lintas.
+- Gunakan **apl tablet MDT** untuk memeriksa BG, menjalankan BOLO, memberi amaran kepada pegawai lain.
+- Bertugas di **IPD Dang Wangi** — balai polis utama (CID, JSPT, Bilik Ops, Armori).
 
-### Tools
+### Alat
 
-| Tool | Use |
+| Alat | Kegunaan |
 | --- | --- |
-| **X26P** | Taser — non-lethal suspect subdue |
-| **T-Baton** | Melee |
-| **Cuff** | Handcuff a detained suspect |
-| **Search** | Request search consent from player |
-| **Saman** | Issue a summons / fine |
-| **CL2** | Pepper spray |
-| **RadarGun** | Speed detection |
-| **Torchlight** | Illuminate dark areas |
-| **FingerPrint Scanner** | ID verification |
-| **Clamp** | Wheel-clamp illegally parked vehicles |
-| **Traffic Wand** | Direct traffic |
-| **Whistle** | Traffic control / alert |
-| **Police Tape** | Cordon scenes |
-| **PDRM Placeables** | Cones, signs, barriers |
+| **X26P** | Taser — menundukkan suspek secara tidak membawa maut |
+| **T-Baton** | Senjata tangan |
+| **Cuff** | Menggari suspek yang ditahan |
+| **Search** | Meminta kebenaran geledah daripada pemain |
+| **Saman** | Mengeluarkan saman / denda |
+| **CL2** | Semburan lada |
+| **RadarGun** | Pengesanan kelajuan |
+| **Torchlight** | Menerangi kawasan gelap |
+| **FingerPrint Scanner** | Pengesahan ID |
+| **Clamp** | Mengapit roda kenderaan yang diletakkan secara haram |
+| **Traffic Wand** | Mengawal lalu lintas |
+| **Whistle** | Kawalan lalu lintas / amaran |
+| **Police Tape** | Mengepung tempat kejadian |
+| **PDRM Placeables** | Kon, papan tanda, penghadang |
 
-### Vehicles (70+)
+### Kenderaan (70+)
 
-PDRM have the biggest fleet:
+PDRM mempunyai armada terbesar:
 
-- **Patrol / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, Toyota Hilux variants, Perodua Aruz/Bezza
-- **HPV** (High Performance) — Civic Type R, Outlander, CX-5, Lancer Evo X
-- **Escort** — Inspira 1.8, Civic Type R, Volvo S90 T5
-- **UTK** (Special Tactics) — Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
+- **Ronda / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, varian Toyota Hilux, Perodua Aruz/Bezza
+- **HPV** (Prestasi Tinggi) — Civic Type R, Outlander, CX-5, Lancer Evo X
+- **Pengiring** — Inspira 1.8, Civic Type R, Volvo S90 T5
+- **UTK** (Taktikal Khas) — Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
 - **CID** — CID K9, CID Hilux, CID Bike
-- **Unmarked** — Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
-- **Transport** — Hiace variants, HICOM Handalan II, Hilux cargo
-- **Tow** — Isuzu Tow Truck, Hino/Fuso Tow
-- **Riot** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
-- **Motorcycles** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
-- **Armoured** — **AV4** and **V150** (bulletproof)
+- **Tidak Bertanda** — Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
+- **Pengangkutan** — varian Hiace, HICOM Handalan II, Hilux kargo
+- **Tunda** — Isuzu Tow Truck, Hino/Fuso Tow
+- **Rusuhan** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
+- **Motosikal** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
+- **Berperisai** — **AV4** dan **V150** (kalis peluru)
 
-### Helicopters
+### Helikopter
 
-PDRM has a **PDRMHeliSpawner** — aerial policing. Spawn from station ViewportFrame picker.
+PDRM mempunyai **PDRMHeliSpawner** — polis udara. Spawn dari pemilih ViewportFrame balai.
 
-### Expectations
+### Jangkaan
 
-- **Going rogue as PDRM is a severe violation.** Police committing crimes = ban.
-- Follow roleplay protocols — announce yourself, state the charge, give the suspect a chance to comply.
-- Use tablet MDT to BOLO suspects; other officers will get a badge + sound + toast alert.
+- **Menjadi rogue sebagai PDRM adalah pelanggaran yang serius.** Polis yang melakukan jenayah = ban.
+- Ikuti protokol roleplay — perkenalkan diri, nyatakan tuduhan, beri suspek peluang untuk mematuhi.
+- Gunakan MDT tablet untuk BOLO suspek; pegawai lain akan mendapat lencana + bunyi + amaran toast.
 
-See [Arrest & Law](/bandaraya/arrest-and-law) for the full arrest flow.
-
----
-
-## BOMBA (Jabatan Bomba dan Penyelamat) — Fire & Rescue
-
-Group: 2957304. Any rank.
-
-### What you do
-
-- Respond to **fire incidents** that spawn around KL (10-minute incidents until extinguished).
-- Operate **hydrants** and **fire hoses**.
-- **Carry** injured civilians or fellow firefighters.
-- Use **Thermal Imaging Camera** for smoke-filled scenes.
-- Staff the BOMBA station.
-
-### Tools
-
-| Tool | Use |
-| --- | --- |
-| **Searchlight** | Illuminate scenes |
-| **Bomba Placeables** | Cones, signs, barriers at incidents |
-| **Bomba Tape** | Cordon scenes |
-| **Traffic Wand** | Direct traffic at scenes |
-| **Carry** | Pick up downed civilians |
-| **Fire Hose** (attached to hydrant) | Extinguish fires |
-
-### Vehicles (14+)
-
-- **Fire engines**: P310 FRT, 94D LFRT, Mercedes-Atego LFRT
-- **Specialist**: P310 Hazmat, P310 ALP, Hiace MTV (EMRS)
-- **Motorcycles**: BMW R1250RT (MOTO FIRE, MOTO MEDIC)
-- **Transport**: HICOM Handalan II Transport, HICOM + Sampan (boat), Mitsubishi Triton Emergency, Westar Maxus V80 Forensic, STORM Hilux
-- **Utility**: Mazda CX-5 2022, Triton Utility
-
-### Helicopters
-
-**BOMBAHeliSpawner** — aerial firefighting/rescue.
-
-### Fire incidents
-
-Fires spawn around the map when **at least one BOMBA member is online**. Your client gets an alert (map pin + sound + tablet notification) when you're on BOMBA. Drive to the incident, get water flowing on the fire blocks, put it out.
-
-- **Duration cap**: 10 minutes per incident — if not extinguished in time, the incident is force-cleaned.
-- **Cooldown**: 5 minutes after an incident ends before a new one can spawn.
-- **Require BOMBA online**: if all BOMBA leave duty mid-incident, the fire is automatically cleaned up.
-- **Late joiners**: if you switch to BOMBA mid-incident, your client asks the server for the current state and the map pin shows up immediately.
-- **5 hydrants** across the map — place yourself strategically.
-- **Auto-sign** — joining BOMBA automatically clocks you in for duty tracking (Discord webhook per session).
+Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) untuk aliran tangkapan penuh.
 
 ---
 
-## KKM (Kementerian Kesihatan) — Health Ministry
+## BOMBA (Jabatan Bomba dan Penyelamat) — Kebakaran & Penyelamatan
 
-Group: 5760632. Any rank.
+Kumpulan: 2957304. Mana-mana pangkat.
 
-### What you do
+### Apa yang anda lakukan
 
-- Treat **downed / injured players**. When any medic team is on duty (KKM or SJAM), the global bleedout timer is 5 minutes (gives medics time to arrive) and passive regen is suspended.
-- Staff the **KKM Ampang Clinic** and **Prince Court Medical Centre**.
-- Use medical kit items to manage injuries (bandage, morphine, tourniquet, bag of blood, IV catheter, O2, etc.).
-- Log medical actions via the **KKM Logger** tablet app.
+- Menjawab **insiden kebakaran** yang spawn di sekitar KL (insiden 10 minit sehingga dipadamkan).
+- Mengendalikan **pili bomba** dan **hos bomba**.
+- **Membawa** orang awam yang cedera atau rakan anggota bomba.
+- Menggunakan **Kamera Pengimejan Terma** untuk tempat kejadian yang dipenuhi asap.
+- Bertugas di balai BOMBA.
 
-### Tools
+### Alat
 
-| Tool | Use |
+| Alat | Kegunaan |
 | --- | --- |
-| **Torchlight** | Illuminate |
-| **KKM Placeables** | Medical scene placeables |
-| **Traffic Wand** | At scenes |
-| **Carry** | Move injured players |
-| **Full medical kit** (from armoury) | See [Combat & Health](/bandaraya/combat-and-health#medical-kit-items) |
+| **Searchlight** | Menerangi tempat kejadian |
+| **Bomba Placeables** | Kon, papan tanda, penghadang di insiden |
+| **Bomba Tape** | Mengepung tempat kejadian |
+| **Traffic Wand** | Mengawal lalu lintas di tempat kejadian |
+| **Carry** | Mengangkat orang awam yang tumbang |
+| **Fire Hose** (dipasang pada pili bomba) | Memadam kebakaran |
 
-### Vehicles
+### Kenderaan (14+)
 
-KKM have ambulances, RRVs (Rapid Response Vehicles), and utility. Includes KKM Mercedes Sprinter, Iveco Ambulance, RRV Honda City, RRV Proton Inspira, Toyota Hiace Passenger Van.
+- **Jentera bomba**: P310 FRT, 94D LFRT, Mercedes-Atego LFRT
+- **Pakar**: P310 Hazmat, P310 ALP, Hiace MTV (EMRS)
+- **Motosikal**: BMW R1250RT (MOTO FIRE, MOTO MEDIC)
+- **Pengangkutan**: HICOM Handalan II Transport, HICOM + Sampan (bot), Mitsubishi Triton Emergency, Westar Maxus V80 Forensic, STORM Hilux
+- **Utiliti**: Mazda CX-5 2022, Triton Utility
 
-### Healing a player
+### Helikopter
 
-1. Arrive at the downed player.
-2. Use kit items — bandage (stop bleeding), morphine (pain), blood bag (blood loss), etc.
-3. Use **defib** if they flatlined.
-4. Their state recovers over time.
+**BOMBAHeliSpawner** — pemadaman kebakaran / penyelamatan udara.
 
-See [Combat & Health](/bandaraya/combat-and-health) for the full kit breakdown.
+### Insiden kebakaran
+
+Kebakaran spawn di sekitar peta apabila **sekurang-kurangnya seorang ahli BOMBA dalam talian**. Klien anda mendapat amaran (pin peta + bunyi + pemberitahuan tablet) apabila anda dalam BOMBA. Pandu ke insiden, alirkan air ke atas blok api, padamkannya.
+
+- **Had tempoh**: 10 minit setiap insiden — jika tidak dipadamkan dalam masa yang ditetapkan, insiden tersebut dibersihkan secara paksa.
+- **Cooldown**: 5 minit selepas insiden tamat sebelum satu baharu boleh spawn.
+- **Memerlukan BOMBA dalam talian**: jika semua BOMBA meninggalkan tugas di tengah-tengah insiden, kebakaran tersebut dibersihkan secara automatik.
+- **Penyertaan lewat**: jika anda bertukar ke BOMBA di tengah-tengah insiden, klien anda meminta server untuk keadaan semasa dan pin peta akan muncul dengan serta-merta.
+- **5 pili bomba** di seluruh peta — tempatkan diri anda secara strategik.
+- **Auto-sign** — menyertai BOMBA secara automatik mendaftarkan anda untuk penjejakan tugas (Discord webhook setiap sesi).
+
+---
+
+## KKM (Kementerian Kesihatan) — Kementerian Kesihatan
+
+Kumpulan: 5760632. Mana-mana pangkat.
+
+### Apa yang anda lakukan
+
+- Merawat **pemain tumbang / cedera**. Apabila mana-mana pasukan medik bertugas (KKM atau SJAM), pemasa bleedout global ialah 5 minit (memberi masa kepada medik untuk tiba) dan regen pasif digantung.
+- Bertugas di **Klinik KKM Ampang** dan **Pusat Perubatan Prince Court**.
+- Gunakan barangan kit perubatan untuk menguruskan kecederaan (pembalut, morfin, tourniquet, beg darah, kateter IV, O2, dll.).
+- Log tindakan perubatan melalui apl tablet **KKM Logger**.
+
+### Alat
+
+| Alat | Kegunaan |
+| --- | --- |
+| **Torchlight** | Menerangi |
+| **KKM Placeables** | Placeables tempat kejadian perubatan |
+| **Traffic Wand** | Di tempat kejadian |
+| **Carry** | Memindahkan pemain yang cedera |
+| **Kit perubatan lengkap** (dari armori) | Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health#medical-kit-items) |
+
+### Kenderaan
+
+KKM mempunyai ambulans, RRV (Kenderaan Tindakan Cepat), dan utiliti. Termasuk KKM Mercedes Sprinter, Iveco Ambulance, RRV Honda City, RRV Proton Inspira, Toyota Hiace Passenger Van.
+
+### Menyembuhkan pemain
+
+1. Tiba di pemain yang tumbang.
+2. Gunakan barangan kit — pembalut (menghentikan pendarahan), morfin (sakit), beg darah (kehilangan darah), dll.
+3. Gunakan **defib** jika mereka flatline.
+4. Keadaan mereka pulih dari masa ke masa.
+
+Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health) untuk pecahan kit penuh.
 
 ---
 
 ## SJAM (St. John Ambulans Malaysia)
 
-Group: 3027933, rank 2+.
+Kumpulan: 3027933, pangkat 2+.
 
-Volunteer ambulance. Basic toolkit — torchlight for now. Works alongside KKM for civilian medical response, especially at events.
-
----
-
-## RELA Corps
-
-Group: 2855852. Any rank.
-
-Volunteer police corps. Tools:
-
-- Wooden Baton
-- Search
-- Torchlight
-
-Limited mandate — supporting PDRM at scenes, crowd control. No direct arrest powers.
+Ambulans sukarelawan. Kit alat asas — lampu suluh buat masa ini. Bekerja bersama KKM untuk tindak balas perubatan awam, terutamanya di acara.
 
 ---
 
-## MAF (Malaysian Armed Forces) — Military
+## Kor RELA
 
-Groups: 2817130, 2849945, 2817134. Rank 3+.
+Kumpulan: 2855852. Mana-mana pangkat.
 
-### What you do
+Kor polis sukarelawan. Alat:
 
-- Base operations out of **Kem Wardieburn**.
-- Parade events, ceremonial duties.
-- Special operations (GGK — special forces subgroup).
+- Baton Kayu
+- Geledah
+- Lampu Suluh
 
-### Tools
-
-- **Torchlight**
-- **Cuff** (limited arrest powers)
-
-MAF previously had baton and cuffs; the current setup is more limited by design.
-
-### Vehicles (40+)
-
-Big fleet of military kit:
-
-- **Armour**: PT-91M Pendekar (MBT), ACV-300 Adnan (IFV), K-200 KIFV, Tarantula HMAV, AV-8 Gempita, Glover Webb Hornet
-- **URO Vamtac** (various armament configs)
-- **Cendana Auto SOV** (with M2HB, Mk19, OMTAS weapons)
-- **GGK** (special forces): dirt bikes, Hilux operational/patrol, superbike
-- **Transport**: HICOM Handalan II, Hilux TLDM / PROVOS / KPTD
-- **Patrol / MPV**: Civic, X70, Inspira variants
-
-### Aircraft
-
-Parade aircraft + rotorcraft are available for ceremonial / operational setups.
+Mandat terhad — menyokong PDRM di tempat kejadian, kawalan orang ramai. Tiada kuasa tangkap secara langsung.
 
 ---
 
-## Military Police (KPTD) — Kor Polis Tentera Diraja
+## MAF (Angkatan Tentera Malaysia) — Tentera
 
-Group: 2817141. Any rank.
+Kumpulan: 2817130, 2849945, 2817134. Pangkat 3+.
 
-The military's own police wing. Has arrest powers like PDRM, but only over MAF personnel typically (by roleplay convention).
+### Apa yang anda lakukan
 
-### Tools
+- Operasi pangkalan dari **Kem Wardieburn**.
+- Acara perbarisan, tugas istiadat.
+- Operasi khas (GGK — subkumpulan pasukan khas).
 
-- **X26P TAC** (tactical taser)
+### Alat
+
+- **Lampu Suluh**
+- **Gari** (kuasa tangkap terhad)
+
+MAF dahulunya mempunyai baton dan gari; persediaan semasa lebih terhad secara reka bentuk.
+
+### Kenderaan (40+)
+
+Armada besar kit tentera:
+
+- **Perisai**: PT-91M Pendekar (MBT), ACV-300 Adnan (IFV), K-200 KIFV, Tarantula HMAV, AV-8 Gempita, Glover Webb Hornet
+- **URO Vamtac** (pelbagai konfigurasi persenjataan)
+- **Cendana Auto SOV** (dengan senjata M2HB, Mk19, OMTAS)
+- **GGK** (pasukan khas): motosikal dirt, Hilux operasi/ronda, superbike
+- **Pengangkutan**: HICOM Handalan II, Hilux TLDM / PROVOS / KPTD
+- **Ronda / MPV**: Civic, X70, varian Inspira
+
+### Pesawat
+
+Pesawat perbarisan + rotorcraft tersedia untuk persediaan istiadat / operasi.
+
+---
+
+## Polis Tentera (KPTD) — Kor Polis Tentera Diraja
+
+Kumpulan: 2817141. Mana-mana pangkat.
+
+Sayap polis tentera sendiri. Mempunyai kuasa tangkap seperti PDRM, tetapi biasanya hanya ke atas anggota MAF (mengikut konvensyen roleplay).
+
+### Alat
+
+- **X26P TAC** (taser taktikal)
 - **Straightstick Baton**
 - **Cuff**, **Search**, **Saman**
 - **FingerPrint Scanner**
 - **KPTD Placeables**
 - **Torchlight, Traffic Wand**
 
-### Vehicles
+### Kenderaan
 
-Dedicated KPTD patrol cars — X70 KPTD, Preve KPTD, Civic KPTD, etc. + bikes.
+Kereta ronda KPTD khusus — X70 KPTD, Preve KPTD, Civic KPTD, dll. + motosikal.
 
 ---
 
-## Combined operations
+## Operasi gabungan
 
-Emergency services often work together:
+Perkhidmatan kecemasan sering bekerjasama:
 
-- **Multi-vehicle response** at major incidents — PDRM + BOMBA + KKM.
-- **BOMBA call-outs** fire the `IncidentEvent` that BOMBA clients listen for; others can self-dispatch.
-- **MDT BOLOs** from PDRM notify all on-duty officers (sound + toast + badge).
-- **KKM** stabilises downed civilians; PDRM can continue their arrest post-stabilisation.
+- **Tindak balas pelbagai kenderaan** di insiden besar — PDRM + BOMBA + KKM.
+- **Panggilan BOMBA** mencetuskan `IncidentEvent` yang didengari oleh klien BOMBA; yang lain boleh dispatch sendiri.
+- **MDT BOLO** dari PDRM memberitahu semua pegawai yang bertugas (bunyi + toast + lencana).
+- **KKM** menstabilkan orang awam yang tumbang; PDRM boleh meneruskan tangkapan mereka selepas penstabilan.
 
-## Tips & gotchas
+## Petua & jerangkap
 
-- **Play to your team.** PDRM doesn't shoot first; BOMBA doesn't arrest; KKM doesn't engage suspects.
-- **Going rogue = severe ban.** On any public services team, crime = immediate moderation action. See [Rules](/bandaraya/rules#severe-violations).
-- **Use your tablet.** MDT, MyEmergency, Vehicle Management, MyTow, KKM Logger — all free tools. See [Tablet](/bandaraya/tablet).
-- **Armour = Armor part.** Vehicles with `Armor` parts inside are bulletproof (e.g., AV4). See [Vehicles](/bandaraya/vehicles#bulletproofing).
-- **Spawners are team-gated.** If your team can't access a spawner, the UI won't show.
+- **Main mengikut pasukan anda.** PDRM tidak menembak dahulu; BOMBA tidak menangkap; KKM tidak terlibat dengan suspek.
+- **Menjadi rogue = ban teruk.** Pada mana-mana pasukan perkhidmatan awam, jenayah = tindakan moderasi serta-merta. Lihat [Peraturan](/bandaraya/rules#severe-violations).
+- **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger — semua alat percuma. Lihat [Tablet](/bandaraya/tablet).
+- **Armour = bahagian Armor.** Kenderaan dengan bahagian `Armor` di dalamnya adalah kalis peluru (cth. AV4). Lihat [Kenderaan](/bandaraya/vehicles#bulletproofing).
+- **Spawner adalah team-gated.** Jika pasukan anda tidak boleh mengakses spawner, UI tidak akan muncul.
 
-## See also
+## Lihat juga
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — the PDRM arrest flow
-- [Combat & Health](/bandaraya/combat-and-health) — weapons, armor, injuries, medical kit
+- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — aliran tangkapan PDRM
+- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) — senjata, perisai, kecederaan, kit perubatan
 - [Tablet](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
-- [Vehicles](/bandaraya/vehicles) — emergency fleet
-- [Map](/bandaraya/locations) — IPD Dang Wangi, BOMBA station, KKM clinic, Kem Wardieburn
-- [Teams](/bandaraya/teams) — access requirements
+- [Kenderaan](/bandaraya/vehicles) — armada kecemasan
+- [Peta](/bandaraya/locations) — IPD Dang Wangi, balai BOMBA, klinik KKM, Kem Wardieburn
+- [Pasukan](/bandaraya/teams) — keperluan akses

@@ -1,120 +1,117 @@
 ---
-title: Phone
-description: >-
-  The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
-  messages, and more apps.
+title: 手机
+description: Bandaraya 的游戏内手机 — MyPay、电召车、999、MyCar、MyTow、短信和更多应用。
 lang: zh
 translated_from_hash: 089fa7dc
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 手机
 
-# Phone
+Bandaraya 里每一位玩家都携带一部**游戏内手机** — 顶栏上的一个图标,点击即可打开多应用装置。它与**平板**(Tablet,仅团队使用的工具)不同;手机是通用的。
 
-Every player in Bandaraya carries an **in-game Phone** — a topbar icon that opens a multi-app device. Different from the **Tablet** (which is a team-only tool); the Phone is universal.
+## 简要总结
 
-## TL;DR
-
-- Tap the phone icon on your topbar.
-- Tap an app to open it.
-- Many apps; the most useful ones in Bandaraya are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
+- 点击顶栏上的手机图标。
+- 点击应用来打开它。
+- 应用众多;在 Bandaraya 最实用的是 **MyPay**、**e-hailing**、**CAG eWallet**、**999**、**MyCar** 和 **MyTow**。
 
 ---
 
-## How to open it
+## 如何打开
 
-The phone lives on your topbar. Tap the icon. On mobile, the topbar icons are at the top of the screen; on desktop, same place. The phone overlay slides in.
+手机位于你的顶栏上。点击图标即可。在手机设备上,顶栏图标位于屏幕顶部;在桌面端也是同样的位置。手机浮层会滑入显示。
 
-## Apps — universal (all MYSverse games)
+## 应用 — 通用(所有 MYSverse 游戏)
 
-| App | What it does |
+| 应用 | 功能 |
 | --- | --- |
-| **MYSair** | Airline bookings / travel between experiences. |
-| **Elections** | MYSverse elections — vote, view campaigns. |
-| **Blog** | Read community blog posts. |
-| **NWS** | National Wire Services — official in-game news feed. |
-| **Parlimen** | View Parlimen (parliament) proceedings. |
-| **Message** | Peer-to-peer chat ("wasap"). |
-| **Camera** | Take in-game photos. |
-| **Settings** | Phone settings — background image, etc. |
-| **Rafahia** | Clothing brand app — browse catalog. |
+| **MYSair** | 航空公司订票 / 在不同体验之间旅行。 |
+| **Elections** | MYSverse 选举 — 投票、查看竞选活动。 |
+| **Blog** | 阅读社区博客文章。 |
+| **NWS** | National Wire Services — 官方游戏内新闻推送。 |
+| **Parlimen** | 查看 Parlimen(国会)议事。 |
+| **Message** | 玩家之间的聊天("wasap")。 |
+| **Camera** | 拍摄游戏内照片。 |
+| **Settings** | 手机设置 — 背景图片等。 |
+| **Rafahia** | 服装品牌应用 — 浏览目录。 |
 
-## Apps — Bandaraya-only
+## 应用 — 仅限 Bandaraya
 
-These apps are added when you're in Bandaraya. They don't appear in Lebuhraya or other experiences.
+这些应用仅在你身处 Bandaraya 时才会添加。它们不会在 Lebuhraya 或其他体验中出现。
 
-### MyPay — send BR to another player
+### MyPay — 给其他玩家转账 BR
 
-Peer-to-peer BR transfer. Like Malaysia's real-world MyPay / DuitNow.
+玩家之间的 BR 转账。类似马来西亚现实中的 MyPay / DuitNow。
 
-1. Open **MyPay**.
-2. **Search** for a player by name.
-3. Pick them from the list.
-4. Enter an amount (fractional BR supported — rounded to 2 decimals), or tap a **quick-amount** preset.
-5. Tap **Send**.
+1. 打开 **MyPay**。
+2. 按名称**搜索**玩家。
+3. 从列表中选择。
+4. 输入金额(支持小数 BR — 四舍五入到 2 位小数),或点击**快捷金额**预设。
+5. 点击 **Send**。
 
-The recipient gets a notification on their own phone with **Accept / Deny** buttons. If they accept, the BR moves. If denied or ignored, nothing happens.
+接收方会在他们自己的手机上收到带有 **Accept / Deny** 按钮的通知。如果他们接受,BR 就会转移。如果拒绝或忽略,则不会发生任何事。
 
-**Balance** is shown on the send screen so you know what you have to spend. Transfers require:
-- Both players to be **in the same server** (you can't send across servers)
-- Neither player to be on the **fraud blocklist** (rare — only if an admin has flagged an account)
-- You to actually have the BR — the debit is checked before credit
+**余额**会显示在发送界面,让你知道可以花费多少。转账需要:
+- 双方玩家都**在同一 server 内**(不能跨 server 转账)
+- 双方玩家都不在**诈骗屏蔽名单**上(罕见 — 仅当管理员标记账户时)
+- 你确实拥有这些 BR — 扣款会在入账前先检查
 
-If MyPay is temporarily disabled (admin toggles `MyPayEnabled`), you'll see a "disabled" screen instead — the app is grey and no transfers go through.
+如果 MyPay 暂时停用(管理员切换 `MyPayEnabled`),你会看到"已停用"的界面 — 应用会变灰,任何转账都无法进行。
 
-Each completed transfer is logged to the game's Discord (for moderation visibility).
+每次完成的转账都会记录到游戏的 Discord(供管理审查)。
 
-### e-hailing — book a taxi
+### e-hailing — 预订出租车
 
-Book a ride without walking up to a physical taxi company desk.
+无需走到实体出租车公司柜台即可预订车程。
 
-1. Open **e-hailing**.
-2. Enter your **destination** and (optional) **description**.
-3. Pick a driver from the available list.
-4. Wait for them to accept, then get picked up.
+1. 打开 **e-hailing**。
+2. 输入你的**目的地**和(可选)**描述**。
+3. 从可用列表中选择司机。
+4. 等待他们接受,然后被接载。
 
-Fare is based on distance × company rate (see [Jobs — Taxi Driver](/bandaraya/jobs#how-the-fare-is-calculated)).
+车费根据距离 × 公司费率计算(见 [工作 — 出租车司机](/bandaraya/jobs#how-the-fare-is-calculated))。
 
 ### CAG eWallet
 
-Browse-only view of your Click And Go transit card. Balance, trips, monthly pass, designs, lifetime stats. **Purchase buttons deep-link to the nearest physical kiosk** — you can't buy from the phone directly. See [Getting Around](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+你的 Click And Go 交通卡仅供浏览的视图。余额、行程、月票、设计、累计统计。**购买按钮会直接跳转到最近的实体 kiosk** — 你无法直接从手机购买。见 [出行](/bandaraya/getting-around#the-cag-ewallet-phone-app)。
 
-### 999 — emergency reporting
+### 999 — 紧急报案
 
-Report a crime, fire, medical emergency, or accident.
+报告犯罪、火警、医疗紧急情况或事故。
 
-1. Open **999**.
-2. Fill in the **nature** (what's happening) and **description** (details).
-3. Submit.
+1. 打开 **999**。
+2. 填写**性质**(发生了什么)和**描述**(详情)。
+3. 提交。
 
-The alert pings the relevant emergency team (PDRM for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
+警报会通知相关紧急小组(犯罪通知 PDRM、火警通知 BOMBA、医疗通知 KKM)。请勿滥用 — 虚假通报浪费救援人员时间。
 
-Also available in Lebuhraya.
+也可在 Lebuhraya 使用。
 
-### MyCar — control your spawned vehicle
+### MyCar — 遥控你召唤出的车辆
 
-Remote-control your vehicle without sitting in it — lights, horn, emergency signals, door locks.
+无需坐在车内即可远程控制车辆 — 灯光、喇叭、紧急信号、车门锁。
 
 ### MyTow
 
-Same MyTow as the Tablet app, but on your phone. Report the need for a tow, or track your tow job. Useful if you're a civilian who got clamped and want to contact a tow operator.
+与 Tablet 应用上的 MyTow 相同,但在你的手机上。报告拖车需求,或跟踪你的拖车任务。如果你是一名被夹车的平民并想联系拖车运营商,这很有用。
 
-## How apps appear / disappear
+## 应用如何出现 / 消失
 
-Apps with a "place" restriction only show in that place. For example, **e-hailing** only appears in Bandaraya; **Rules** only appears in Lebuhraya. When you travel to a different MYSverse experience (via MYSair), your app grid changes.
+带有"地点"限制的应用只会在该地点显示。例如,**e-hailing** 仅出现在 Bandaraya;**Rules** 仅出现在 Lebuhraya。当你前往不同的 MYSverse 体验时(通过 MYSair),你的应用网格会改变。
 
-## Tips & gotchas
+## 小贴士与注意事项
 
-- **Mobile text input** was fixed in v3.15.3 — if you find any phone text field unresponsive on mobile, report it as a regression.
-- **Phone ≠ Tablet.** The Tablet is a tool you equip from your backpack (team-gated). The Phone is a universal topbar app surface.
-- **MyPay requires the recipient to accept** — don't try to force-pay someone. They must be online.
-- **999 goes to real players** (officers on duty), not NPCs. Be patient.
-- **CAG eWallet on the phone is read-only** — to buy / top up / change pass you must visit a kiosk. The phone just shows you your info.
+- **手机文字输入**已在 v3.15.3 中修复 — 如果你发现任何手机文字栏位在移动设备上无反应,请作为回归问题报告。
+- **手机 ≠ 平板。** 平板是你从 backpack 装备的工具(限定团队)。手机是通用的顶栏应用界面。
+- **MyPay 需要接收方接受** — 不要试图强行付款给某人。他们必须在线。
+- **999 会通知真实玩家**(执勤警官),而非 NPC。请耐心等待。
+- **手机上的 CAG eWallet 是只读的** — 要购买 / 充值 / 更换月票,你必须前往 kiosk。手机只显示你的信息。
 
-## See also
+## 另见
 
-- [Tablet](/bandaraya/tablet) — team-gated tool with different apps (MDT, MyEmergency, etc.)
-- [Getting Around](/bandaraya/getting-around) — CAG eWallet (on the phone)
-- [Jobs](/bandaraya/jobs) — e-hailing books bookings for Taxi Driver roles
-- [Economy](/bandaraya/economy) — BR currency (MyPay transfers)
-- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty PDRM/BOMBA/KKM
+- [平板](/bandaraya/tablet) — 团队限定工具,配备不同的应用(MDT、MyEmergency 等)
+- [出行](/bandaraya/getting-around) — CAG eWallet(手机上的)
+- [工作](/bandaraya/jobs) — e-hailing 为出租车司机角色预订行程
+- [经济](/bandaraya/economy) — BR 货币(MyPay 转账)
+- [紧急服务](/bandaraya/emergency-services) — 999 通话会转到执勤的 PDRM/BOMBA/KKM

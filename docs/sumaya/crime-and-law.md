@@ -7,7 +7,7 @@ description: "Carjacking, pickpocketing, wanted stars, and jail in Sumaya."
 
 Sumaya lets you play the criminal side if you want. This page covers the three main crimes available to players, how the offence and wanted-star system works, and what happens if you get caught.
 
-**Important:** If you're on an emergency-service team (POLIS, BOMBA, Kesihatan), committing a crime **auto-demotes you** off the team the moment you cross into 1-star wanted. Switch to Visitors or Malaysians first if you want to be a criminal.
+**Heads up:** The game is wired to auto-demote emergency-service players (POLIS, BOMBA, Kesihatan) when they commit crimes, but the listener for that demotion event isn't currently connected in the live build. In practice, a cop or firefighter who carjacks someone stays on their team - the auto-demote doesn't actually fire you. Even so, on-duty officers who hold crime tools drop out of passive mode automatically, and the Polis team still can't use passive at all, so committing crimes while on duty is impractical and roleplay-inappropriate. Switch to Visitors or Malaysians first if you want to be a criminal.
 
 ## The offence system
 

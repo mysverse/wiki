@@ -102,9 +102,12 @@ See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
 
 Yes — **Hazbank** is a robbery target in-game. But note:
 
-- PDRM will respond.
-- You're a civilian committing a crime — expect arrest.
-- OCG (Organised Crime Group) does this in organised events.
+- **Server needs at least 10 players** online for a robbery to start.
+- You have to decode the vault (time-based mini-interaction at the Decoder device).
+- Once in, you stand at a random money-collector point — your character is anchored while the count-down runs (so you can't just grab and bolt).
+- PDRM can **lock the vault down manually** mid-robbery — the shutter drops and you're trapped.
+- An alert fires to all PDRM / active responders when the robbery starts.
+- Expect arrest. OCG (Organised Crime Group) does this in organised events; civilians attempting solo usually get caught.
 - Going rogue as a public-services team member if you're on one = severe violation.
 
 ### What's a BOLO?

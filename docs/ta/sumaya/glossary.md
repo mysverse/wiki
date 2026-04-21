@@ -1,134 +1,133 @@
 ---
-title: Glossary
-description: Malay words and in-game terms explained for Sumaya players.
+title: சொற்களஞ்சியம்
+description: Sumaya வீரர்களுக்கு மலாய் சொற்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம்.
 lang: ta
 translated_from_hash: 37586c2d
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# சொற்களஞ்சியம்
 
-# Glossary
+மலேசிய (மலாய்) சொற்கள் மற்றும் Sumaya-சார்ந்த விளையாட்டு சொற்களின் குறிப்புப் பட்டியல்.
 
-A reference list of Malaysian (Malay) words and Sumaya-specific game terms.
+## மலேசிய சொற்கள்
 
-## Malaysian words
+இவை அன்றாட மலேசிய/மலாய் சொற்களஞ்சியத்திலிருந்து வருகின்றன. விளையாட்டு முழுவதும் நீங்கள் இவற்றைப் பார்ப்பீர்கள்.
 
-These come from everyday Malaysian/Malay vocabulary. You'll see them throughout the game.
-
-| Term | Meaning | Game usage |
+| சொல் | பொருள் | விளையாட்டில் பயன்பாடு |
 |------|---------|------------|
-| **Ringgit** | The Malaysian currency (real-world: MYR). | Sumaya's in-game currency. Abbreviated **SR** in the UI (Sumaya Ringgit). |
-| **Bomba** | Fire brigade (from the Portuguese-origin Malay). | One of the emergency-service teams - firefighters. |
-| **Kesihatan** | Health / medical. | The medical / paramedic emergency-service team. |
-| **Polis** | Police. | The law-enforcement emergency-service team. Abbreviated POLIS. |
-| **Jom** | "Let's go" (informal). | The button to enter the world from the main menu. |
-| **Daerah** | District / region. | Regions of Sumaya's map. |
-| **Mamak** | Indian-Muslim restaurant, a Malaysian institution. | One of the two service-sector venues (the other being fast food). |
-| **Kedai** | Shop / store. | Generic shop signage. |
-| **Kampung** | Village. | Residential neighborhoods in Sumaya; also the name for the traditional stilted wooden house template ("Bornean" houses are kampung-style). |
-| **Pasaram** | Market / bazaar. | Marketplace location. |
-| **Abang Samseng** | "Gangster brother" - a street tough, petty criminal. | Crime-quest NPCs you talk to when starting illegal work (e.g. animal trafficking). |
-| **Sadaqa** | Charitable giving / almsgiving (from Arabic, widely used in Malay). | Label on the player-to-player donation prompt on the Wallet tool. |
-| **Nelayan** | Fisherman. | "Nelayan Sdn. Bhd." is the fishing-career paycheck provider (meaning "Fisherman Co. Ltd."). |
-| **Sdn. Bhd.** | Abbreviation for "Sendirian Berhad" - the Malaysian equivalent of "Ltd." or "Pte Ltd". | Appears on paycheck notifications. |
-| **Jabatan** | Department / authority. | Used in the real-world rank titles e.g. "Jabatan Bomba dan Penyelamat" (Fire and Rescue Department). |
-| **Kementerian** | Ministry. | "KKN" stands for **Kementerian Kesihatan Nasional** - the ambulance insignia on Kesihatan vehicles. |
-| **Jalan** | Road / street. | Appears in street names like "Jalan Triden", "Jalan Bawang". |
-| **Lorong** | Lane / alley. | Smaller streets like "Lorong Pais", "Lorong Kicai". |
+| **Ringgit** | மலேசியாவின் நாணயம் (நிஜ உலகம்: MYR). | Sumaya-வின் விளையாட்டுக்குள் நாணயம். UI-இல் **SR** என சுருக்கப்படுகிறது (Sumaya Ringgit). |
+| **Bomba** | தீயணைப்புப் படை (போர்த்துகீசிய மூலம் கொண்ட மலாய்). | அவசரகால-சேவைக் குழுக்களில் ஒன்று - தீயணைப்பு வீரர்கள். |
+| **Kesihatan** | ஆரோக்கியம் / மருத்துவம். | மருத்துவ / பாராமெடிக் அவசரகால-சேவைக் குழு. |
+| **Polis** | காவல்துறை. | சட்ட-அமலாக்க அவசரகால-சேவைக் குழு. POLIS என சுருக்கப்படுகிறது. |
+| **Jom** | "போகலாம்" (முறைசாரா). | முதன்மை மெனுவிலிருந்து உலகிற்குள் நுழைய பொத்தான். |
+| **Daerah** | மாவட்டம் / பிராந்தியம். | Sumaya-வின் வரைபடத்தின் பிராந்தியங்கள். |
+| **Mamak** | இந்திய-முஸ்லிம் உணவகம், ஒரு மலேசிய நிறுவனம். | இரண்டு சேவைத் துறை இடங்களில் ஒன்று (மற்றொன்று விரைவு உணவு). |
+| **Kedai** | கடை / ஸ்டோர். | பொதுவான கடை அடையாளம். |
+| **Kampung** | கிராமம். | Sumaya-வில் குடியிருப்புப் பகுதிகள்; பாரம்பரிய ஸ்டில்ட் மரவீட்டு டெம்ப்ளேட்டின் பெயரும் கூட ("போர்னியன்" வீடுகள் kampung பாணி). |
+| **Pasaram** | சந்தை / கடைத்தெரு. | சந்தை இருப்பிடம். |
+| **Abang Samseng** | "ரௌடி அண்ணன்" - தெரு ரௌடி, சிறு குற்றவாளி. | சட்டவிரோத வேலையைத் தொடங்கும்போது நீங்கள் பேசும் குற்ற-பணி NPC-க்கள் (எ.கா. விலங்கு கடத்தல்). |
+| **Sadaqa** | தர்மம் கொடுத்தல் / பிச்சை கொடுத்தல் (அரபியிலிருந்து, மலாயில் பரவலாக பயன்படுத்தப்படுகிறது). | Wallet கருவியில் வீரர்-க்கு-வீரர் நன்கொடை அழைப்பில் உள்ள லேபிள். |
+| **Nelayan** | மீனவர். | "Nelayan Sdn. Bhd." என்பது மீன்பிடி தொழில் சம்பள வழங்குநர் ("Fisherman Co. Ltd." என பொருள்). |
+| **Sdn. Bhd.** | "Sendirian Berhad"-க்கான சுருக்கம் - "Ltd." அல்லது "Pte Ltd"-க்கு சமமான மலேசிய வடிவம். | சம்பள அறிவிப்புகளில் தோன்றுகிறது. |
+| **Jabatan** | துறை / ஆணையம். | நிஜ-உலக பதவி தலைப்புகளில் பயன்படுத்தப்படுகிறது எ.கா. "Jabatan Bomba dan Penyelamat" (தீயணைப்பு மற்றும் மீட்பு துறை). |
+| **Kementerian** | அமைச்சகம். | "KKN" என்பது **Kementerian Kesihatan Nasional** - Kesihatan வாகனங்களில் உள்ள ஆம்புலன்ஸ் சின்னம். |
+| **Jalan** | சாலை / தெரு. | "Jalan Triden", "Jalan Bawang" போன்ற தெரு பெயர்களில் தோன்றுகிறது. |
+| **Lorong** | சந்து / ஒடுங்கிய சாலை. | "Lorong Pais", "Lorong Kicai" போன்ற சிறிய தெருக்கள். |
 
-### Malaysian rank abbreviations
+### மலேசிய பதவி சுருக்கங்கள்
 
-These appear in Bomba ranks:
+இவை Bomba பதவிகளில் தோன்றுகின்றன:
 
-| Abbreviation | Meaning |
+| சுருக்கம் | பொருள் |
 |--------------|---------|
-| PB | Pegawai Bomba (Fire Officer) |
-| PBK | Pegawai Bomba Kanan (Senior Fire Officer) |
-| PBT | Pegawai Bomba Tinggi (Leading Fire Officer) |
-| PPgB | Penolong Penguasa Bomba (Assistant Fire Superintendent) |
-| PKPgB | Penolong Kanan Penguasa Bomba (Senior Assistant Fire Superintendent) |
-| TPgB | Timbalan Penguasa Bomba (Deputy Fire Superintendent) |
-| PgB | Penguasa Bomba (Fire Superintendent) |
-| PgKB | Penguasa Kanan Bomba (Senior Fire Superintendent) |
-| PPjB | Penolong Penjaga Bomba (Assistant Fire Commissioner) |
-| PKPjB | Penolong Kanan Penjaga Bomba (Senior Assistant Fire Commissioner) |
-| TPjB | Timbalan Penjaga Bomba (Deputy Fire Commissioner) |
-| PjB | Penjaga Bomba (Fire Commissioner) |
+| PB | Pegawai Bomba (தீயணைப்பு அதிகாரி) |
+| PBK | Pegawai Bomba Kanan (மூத்த தீயணைப்பு அதிகாரி) |
+| PBT | Pegawai Bomba Tinggi (முன்னணி தீயணைப்பு அதிகாரி) |
+| PPgB | Penolong Penguasa Bomba (உதவி தீயணைப்பு கண்காணிப்பாளர்) |
+| PKPgB | Penolong Kanan Penguasa Bomba (மூத்த உதவி தீயணைப்பு கண்காணிப்பாளர்) |
+| TPgB | Timbalan Penguasa Bomba (துணை தீயணைப்பு கண்காணிப்பாளர்) |
+| PgB | Penguasa Bomba (தீயணைப்பு கண்காணிப்பாளர்) |
+| PgKB | Penguasa Kanan Bomba (மூத்த தீயணைப்பு கண்காணிப்பாளர்) |
+| PPjB | Penolong Penjaga Bomba (உதவி தீயணைப்பு ஆணையர்) |
+| PKPjB | Penolong Kanan Penjaga Bomba (மூத்த உதவி தீயணைப்பு ஆணையர்) |
+| TPjB | Timbalan Penjaga Bomba (துணை தீயணைப்பு ஆணையர்) |
+| PjB | Penjaga Bomba (தீயணைப்பு ஆணையர்) |
 
-For Polis, the abbreviations are based on Royal Malaysia Police (PDRM) rank initials:
+Polis-க்கு, சுருக்கங்கள் மலேசிய ராயல் காவல்துறை (PDRM) பதவி முதலெழுத்துக்களை அடிப்படையாகக் கொண்டவை:
 
-| Abbreviation | Meaning |
+| சுருக்கம் | பொருள் |
 |--------------|---------|
-| L/Cpl | Lance Corporal |
-| Cpl | Corporal |
-| Sgt | Sergeant |
-| SM | Sergeant Major |
-| SI | Sub-Inspector |
-| P/Insp | Probationary Inspector |
-| Insp | Inspector |
-| C/Insp | Chief Inspector |
-| ASP | Assistant Superintendent of Police |
-| DSP | Deputy Superintendent of Police |
-| SUPT | Superintendent of Police |
-| ACP | Assistant Commissioner of Police |
-| SAC | Senior Assistant Commissioner of Police |
-| DCP | Deputy Commissioner of Police |
-| CP | Commissioner of Police |
+| L/Cpl | லான்ஸ் கார்ப்பரல் |
+| Cpl | கார்ப்பரல் |
+| Sgt | சார்ஜென்ட் |
+| SM | சார்ஜென்ட் மேஜர் |
+| SI | சப்-இன்ஸ்பெக்டர் |
+| P/Insp | பரிசோதனை இன்ஸ்பெக்டர் |
+| Insp | இன்ஸ்பெக்டர் |
+| C/Insp | தலைமை இன்ஸ்பெக்டர் |
+| ASP | காவல்துறை உதவி கண்காணிப்பாளர் |
+| DSP | காவல்துறை துணை கண்காணிப்பாளர் |
+| SUPT | காவல்துறை கண்காணிப்பாளர் |
+| ACP | காவல்துறை உதவி ஆணையர் |
+| SAC | காவல்துறை மூத்த உதவி ஆணையர் |
+| DCP | காவல்துறை துணை ஆணையர் |
+| CP | காவல்துறை ஆணையர் |
 
-## Game-specific terms
+## விளையாட்டு-சார்ந்த சொற்கள்
 
-| Term | Definition |
+| சொல் | வரையறை |
 |------|------------|
-| **SR** | Sumaya Ringgit - the in-game currency abbreviation. Same as "Ringgit". |
-| **Wallet** | Your immediately-accessible cash. Can be stolen via pickpocket. |
-| **Bank** | Your secure savings. Cannot be pickpocketed. Accessed via ATM. |
-| **Offence points** | Points that accumulate from crimes. Total determines your wanted stars. |
-| **Wanted stars** | Your criminal status, 1 to 5. Higher = more severe. |
-| **Wanted decay** | Losing all your offence points by committing no new crimes for 5 minutes. |
-| **Passive mode** | A toggleable state where you can't be damaged and can't commit crimes. |
-| **Passive lock** | A temporary disable on passive-mode toggling, applied after certain offences. |
-| **LTAA** | "Leave To Avoid Arrest" - the extra jail time you get for logging out mid-offence. |
-| **Team** | Your role (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
-| **Sector** | A job type: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
-| **Rank** | Your prestige title within a sector (e.g. "Fire Officer"). Cosmetic only. |
-| **Token** | Internal name for a sector (e.g. "Token_Bomba"). You rarely see this in-game. |
-| **Plot** | A piece of land in a neighborhood where you can build a house. One per player. |
-| **Tier** (house) | House quality level: Tier 1 (cheap), Tier 2 (mid), Tier 3 (premium). |
-| **Tier** (trawler) | Fishing boat quality: Tier 1 (free), Tier 2 (25k), Tier 3 (37k). |
-| **ELS** | Emergency Lighting System - the lights and siren on emergency vehicles. |
-| **LFRT** | Light Fire Rescue Tender - smaller fire truck. |
-| **FRT** | Fire Rescue Tender - heavier fire truck. |
-| **MPV** | Multi-Purpose Vehicle - the body style of some police cars. |
-| **MDT** | Mobile Data Terminal - the police/emergency dispatch app on your phone. |
-| **999** | Malaysian emergency services phone number (like 911 or 999 in the UK). Civilians dial it in the Emergency999 app. |
-| **Minimap** | The top-right HUD map showing your area. |
-| **Task card** | The top-left HUD panel showing your current objective. |
-| **Waypoint** | A marked location on the minimap. Can be game-set (quest, MDT call) or custom (long-press to place). |
-| **Guidance beam** | The colored 3D beam pointing from your character to your active waypoint. |
-| **Stud** | Roblox's unit of distance. Roughly 1 foot / 30 cm. |
-| **KKN** | Kementerian Kesihatan Nasional - National Ministry of Health. Seen on ambulances. |
-| **Slim Jim** | A tool used for carjacking. One-use. |
-| **Pickpocket Knife** | A tool used for pickpocketing players. |
-| **Stolen plate** | A vehicle's plate is flagged when carjacked. POLIS can look up plates via the MDT. |
-| **Paycheck** | End-of-shift Ringgit payout from a career, delivered with a notification. |
-| **Injury system** | The medical mechanic that lets players suffer non-lethal injuries requiring Kesihatan treatment. When active, gives everyone +15% player-XP. |
-| **TBI** | Traumatic Brain Injury - the most serious injury type, requiring bed rest. |
-| **Drop-off zone** | Location where a carjacker delivers a stolen vehicle to sell, or where animal traffickers deliver their illegal goods. |
-| **Nearby officer bonus** | 50% of an arrest's reward given to any POLIS player within 50 studs of the arresting officer. |
+| **SR** | Sumaya Ringgit - விளையாட்டுக்குள் நாணய சுருக்கம். "Ringgit"-க்கு சமம். |
+| **Wallet** | உடனடியாக அணுகக்கூடிய உங்கள் பணம். பாக்கெட் அடிப்பதன் மூலம் திருடப்படலாம். |
+| **Bank** | உங்கள் பாதுகாப்பான சேமிப்பு. பாக்கெட் அடிக்க முடியாது. ATM மூலம் அணுகப்படுகிறது. |
+| **Offence points** | குற்றங்களிலிருந்து சேரும் புள்ளிகள். மொத்தம் உங்கள் வாண்டட் நட்சத்திரங்களைத் தீர்மானிக்கிறது. |
+| **Wanted stars** | உங்கள் குற்றவாளி நிலை, 1 முதல் 5. அதிகம் = மிகவும் கடுமையானது. |
+| **Wanted decay** | 5 நிமிடங்களுக்கு புதிய குற்றங்கள் எதுவும் செய்யாமல் உங்கள் அனைத்து offence points-ஐயும் இழப்பது. |
+| **Passive mode** | உங்களை பாதிக்க முடியாத மற்றும் குற்றங்கள் செய்ய முடியாத மாறக்கூடிய நிலை. |
+| **Passive lock** | சில குற்றங்களுக்குப் பிறகு passive-mode மாற்றுதலில் ஒரு தற்காலிக முடக்கம். |
+| **LTAA** | "Leave To Avoid Arrest" - குற்றத்தின் நடுவே லாக் அவுட் செய்ததற்காக நீங்கள் பெறும் கூடுதல் சிறை நேரம். |
+| **Team** | உங்கள் பங்கு (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
+| **Sector** | ஒரு வேலை வகை: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
+| **Rank** | ஒரு sector-க்குள் உங்கள் கௌரவப் பட்டம் (எ.கா. "Fire Officer"). அழகு மட்டுமே. |
+| **Token** | ஒரு sector-க்கான உள் பெயர் (எ.கா. "Token_Bomba"). விளையாட்டில் இதை நீங்கள் அரிதாகவே பார்ப்பீர்கள். |
+| **Plot** | நீங்கள் ஒரு வீடு கட்டக்கூடிய அக்கம்பக்கத்தில் ஒரு நிலத்துண்டு. ஒரு வீரருக்கு ஒன்று. |
+| **Tier** (வீடு) | வீட்டு தர நிலை: Tier 1 (மலிவானது), Tier 2 (நடுத்தரம்), Tier 3 (பிரீமியம்). |
+| **Tier** (trawler) | மீன்பிடி படகு தரம்: Tier 1 (இலவசம்), Tier 2 (25k), Tier 3 (37k). |
+| **ELS** | Emergency Lighting System - அவசரகால வாகனங்களில் உள்ள விளக்குகள் மற்றும் சைரன். |
+| **LFRT** | Light Fire Rescue Tender - சிறிய தீ லாரி. |
+| **FRT** | Fire Rescue Tender - கனமான தீ லாரி. |
+| **MPV** | Multi-Purpose Vehicle - சில காவல் கார்களின் உடல் பாணி. |
+| **MDT** | Mobile Data Terminal - உங்கள் போனில் காவல்துறை/அவசரகால அனுப்புகை ஆப். |
+| **999** | மலேசிய அவசரகால சேவைகள் தொலைபேசி எண் (அமெரிக்காவில் 911 அல்லது UK-இல் 999 போன்றது). பொதுமக்கள் Emergency999 ஆப்பில் இதை டயல் செய்கிறார்கள். |
+| **Minimap** | உங்கள் பகுதியைக் காட்டும் மேல்-வலது HUD வரைபடம். |
+| **Task card** | உங்கள் தற்போதைய இலக்கைக் காட்டும் மேல்-இடது HUD பலகம். |
+| **Waypoint** | minimap-இல் ஒரு குறிக்கப்பட்ட இடம். விளையாட்டால் அமைக்கப்படலாம் (quest, MDT அழைப்பு) அல்லது தனிப்பயனாக (வைக்க நீண்ட அழுத்தம்). |
+| **Guidance beam** | உங்கள் பாத்திரத்திலிருந்து உங்கள் செயலில் உள்ள waypoint-ஐ சுட்டிக்காட்டும் வண்ணமயமான 3D பீம். |
+| **Stud** | Roblox-இன் தூர அலகு. தோராயமாக 1 அடி / 30 செ.மீ. |
+| **KKN** | Kementerian Kesihatan Nasional - தேசிய சுகாதார அமைச்சகம். ஆம்புலன்ஸ்களில் காணப்படுகிறது. |
+| **Slim Jim** | கார்ஜாக்கிங்-க்கு பயன்படுத்தப்படும் ஒரு கருவி. ஒரு முறை பயன்பாடு. |
+| **Pickpocket Knife** | வீரர்களின் பாக்கெட் அடிக்க பயன்படுத்தப்படும் ஒரு கருவி. |
+| **Stolen plate** | கார்ஜாக் செய்யப்படும்போது வாகனத்தின் பிளேட் குறிக்கப்படுகிறது. POLIS MDT மூலம் பிளேட்களைத் தேடலாம். |
+| **Paycheck** | ஒரு தொழிலிலிருந்து ஷிப்ட்-முடிவு Ringgit பணம், ஒரு அறிவிப்புடன் வழங்கப்படுகிறது. |
+| **Injury system** | வீரர்கள் Kesihatan சிகிச்சை தேவைப்படும் உயிருக்கு ஆபத்தில்லாத காயங்களை அடைய அனுமதிக்கும் மருத்துவ இயக்கம். செயலில் இருக்கும்போது, எல்லோருக்கும் +15% வீரர்-XP அளிக்கிறது. |
+| **TBI** | Traumatic Brain Injury - மிகவும் தீவிர காய வகை, படுக்கை ஓய்வு தேவை. |
+| **Drop-off zone** | கார்ஜாக்கர் திருடிய வாகனத்தை விற்க வழங்கும் இடம், அல்லது விலங்கு கடத்தல்காரர்கள் தங்கள் சட்டவிரோத பொருட்களை வழங்கும் இடம். |
+| **Nearby officer bonus** | கைது செய்யும் அதிகாரியிலிருந்து 50 studs-க்குள் உள்ள எந்தவொரு POLIS வீரருக்கும் கைது வெகுமதியில் 50% வழங்கப்படுகிறது. |
 
-## Abbreviations commonly seen
+## பொதுவாக காணப்படும் சுருக்கங்கள்
 
-| Abbrev | Meaning |
+| சுருக்கம் | பொருள் |
 |--------|---------|
-| SR | Sumaya Ringgit (currency) |
-| XP | Experience points |
-| POI | Point of Interest (on minimap) |
+| SR | Sumaya Ringgit (நாணயம்) |
+| XP | அனுபவ புள்ளிகள் |
+| POI | Point of Interest (minimap-இல்) |
 | HUD | Heads-Up Display |
-| NPC | Non-Player Character |
-| PvP | Player vs Player |
-| ATM | Automated Teller Machine |
+| NPC | வீரர்-அல்லாத பாத்திரம் |
+| PvP | வீரர் vs வீரர் |
+| ATM | தானியங்கி பணப் பரிமாற்ற இயந்திரம் |
 
-## What next?
+## அடுத்து என்ன?
 
-- [Getting Started](/) if you're new.
-- Any of the specific sections (see the [README](/) for the full TOC).
+- [Getting Started](/) நீங்கள் புதியவராக இருந்தால்.
+- குறிப்பிட்ட பிரிவுகளில் ஏதேனும் ஒன்று (முழு TOC-க்கு [README](/)-ஐப் பார்க்கவும்).

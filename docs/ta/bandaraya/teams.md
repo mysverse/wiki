@@ -1,15 +1,14 @@
 ---
-title: Teams
+title: அணிகள்
 description: >-
-  Complete guide to every team in Bandaraya — emergency services, military,
-  transport, civilian, government, and more.
+  Bandaraya-வில் உள்ள அனைத்து அணிகளுக்கான முழுமையான வழிகாட்டி — அவசர சேவைகள்,
+  இராணுவம், போக்குவரத்து, குடிமக்கள், அரசு மற்றும் பல.
 lang: ta
 translated_from_hash: 9333a74c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# பந்தராயாவில் அணிகள்
+# அணிகள்
 
 பந்தராயாவில் பல்வேறு அணிகள் உள்ளன, ஒவ்வொன்றும் தனித்துவமான விளையாட்டு அனுபவங்கள், வாகனங்கள், கருவிகள் மற்றும் பொறுப்புகளை வழங்குகின்றன. அணிகள் முதன்மை மெனு வழியாக அணுகப்படுகின்றன, மேலும் Roblox குழு உறுப்பினர், gamepass-கள் அல்லது சிறப்பு அனுமதிகள் தேவைப்படலாம்.
 

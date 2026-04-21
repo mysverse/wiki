@@ -1,15 +1,12 @@
 ---
-title: Getting Started
-description: >-
-  Start playing Sumaya — main menu, team pick, controls, and the first five
-  minutes in town.
+title: 入门
+description: 开始玩 Sumaya — 主菜单、队伍选择、操作以及你进城的头五分钟。
 lang: zh
 translated_from_hash: 5045a92c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# 开始体验 Sumaya
+# 入门
 
 ![Sumaya](/images/sumaya/sumaya_feature.webp)
 

@@ -1,133 +1,132 @@
 ---
-title: Social Features
-description: 'Convoy, 999 Emergency, and the in-game phone in Lebuhraya.'
+title: Ciri Sosial
+description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
 translated_from_hash: 2d565d74
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Ciri Sosial
 
-# Social Features
-
-Lebuhraya has a few systems designed to make the game better when you play with others — the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
+Lebuhraya mempunyai beberapa sistem yang direka untuk menjadikan permainan lebih seronok apabila anda bermain dengan orang lain — sistem **Convoy** untuk memperoleh ganjaran bersama, sistem **999 Emergency** untuk roleplay yang dipacu pemain, **Phone** untuk apl dan komunikasi, serta **Tokens** untuk peningkatan sementara.
 
 ## Convoy
 
-Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
+Memandu bersama, raih lebih banyak. Convoy memberi ganjaran kepada permainan yang diselaraskan dengan pengganda XP yang bertindan.
 
-### Creating a convoy
+### Mencipta convoy
 
-1. Open the convoy menu (from the Main Menu or topbar).
-2. Select **Create convoy** — you become the leader.
-3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
+1. Buka menu convoy (dari Main Menu atau topbar).
+2. Pilih **Create convoy** — anda menjadi ketua.
+3. Sama ada jemput pemain tertentu atau tetapkan convoy sebagai awam supaya pemain lain dalam lingkungan 500 stud boleh memohon untuk menyertai.
 
-### Joining a convoy
+### Menyertai convoy
 
-- **By invite**: The leader sends you an invitation; accept it within 30 seconds.
-- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to accept.
+- **Melalui jemputan**: Ketua menghantar jemputan kepada anda; terima dalam masa 30 saat.
+- **Melalui permohonan**: Buka menu convoy, lihat convoy awam dalam lingkungan 500 stud, dan mohon untuk menyertai. Ketua mempunyai 30 saat untuk menerima.
 
-### Convoy rules
+### Peraturan convoy
 
-- **Maximum size**: 6 members
-- **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
-- **Leader**: Sets invite rules and can remove members
+- **Saiz maksimum**: 6 anggota
+- **Jarak**: Anda mesti kekal dalam lingkungan **200 stud** dari anggota convoy lain agar bonus terpakai
+- **Ketua**: Menetapkan peraturan jemputan dan boleh mengeluarkan anggota
 
-### How the bonus stacks
+### Cara bonus bertindan
 
-The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
+Bonus convoy ditambah ke timbunan pengganda XP sedia ada anda (lihat [Ekonomi dan XP](/lebuhraya/economy#the-xp-multiplier-stack)).
 
-| Component | Value |
+| Komponen | Nilai |
 |---|---|
-| Base convoy bonus | +15% |
-| Per additional member (after two) | +5% each |
-| Friend in the convoy | +10% |
-| Same-team member in the convoy | +10% |
-| Streak bonus (time convoying) | +2% per minute, capped at +10% |
-| **Maximum total convoy bonus** | **+50%** |
+| Bonus asas convoy | +15% |
+| Setiap anggota tambahan (selepas dua) | +5% setiap satu |
+| Rakan dalam convoy | +10% |
+| Anggota pasukan yang sama dalam convoy | +10% |
+| Bonus streak (masa berkonvoi) | +2% per minit, dihadkan pada +10% |
+| **Jumlah bonus convoy maksimum** | **+50%** |
 
-Passengers in a convoy vehicle get half the driver's bonus.
+Penumpang dalam kenderaan convoy mendapat separuh bonus pemandu.
 
-A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
+Convoy 6 orang yang dikonfigurasi dengan baik (rakan, pasukan sama, memandu bersama selama 5+ minit) mencapai had +50% secara konsisten.
 
-## 999 Emergency System
+## Sistem Kecemasan 999
 
-Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
+Perkhidmatan kecemasan Lebuhraya dipacu oleh pemain. Mana-mana pemain boleh menghubungi 999; pemain pasukan kecemasan akan bertindak balas.
 
-### Calling 999
+### Menghubungi 999
 
-1. Open your **Phone** (topbar icon).
-2. Tap the **999** app.
-3. Select the incident type:
+1. Buka **Phone** anda (ikon topbar).
+2. Tekan apl **999**.
+3. Pilih jenis kejadian:
    - **Car Crash**
    - **Injured Person**
-4. Your call is broadcast to all on-duty emergency responders.
+4. Panggilan anda disiarkan kepada semua responden kecemasan yang sedang bertugas.
 
-Each active incident shows on responders' pagers with your location.
+Setiap kejadian aktif dipaparkan pada pager responden bersama lokasi anda.
 
-### Responding (emergency teams)
+### Memberi respons (pasukan kecemasan)
 
-If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
+Jika anda dalam pasukan **Bomba**, **Polis Trafik**, **Undercover Police**, atau **Kesihatan**:
 
-1. Equip your **Pager** tool.
-2. View the active incidents panel.
-3. Tap to accept an incident — it becomes your assigned case.
-4. Drive to the location.
-5. Resolve the incident according to its type:
-   - **Car Crash** — Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
-   - **Injured Person** — Stabilise and transport to the hospital (Kesihatan).
-6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
+1. Lengkapkan alat **Pager** anda.
+2. Lihat panel kejadian aktif.
+3. Tekan untuk menerima kejadian — ia menjadi kes yang ditugaskan kepada anda.
+4. Pandu ke lokasi.
+5. Selesaikan kejadian mengikut jenisnya:
+   - **Car Crash** — Gunakan spreader/chainsaw untuk membebaskan pemandu yang terperangkap (Bomba), tampal kecederaan (Kesihatan), uruskan tempat kejadian (Polis).
+   - **Injured Person** — Stabilkan dan bawa ke hospital (Kesihatan).
+6. Setelah anda berada di tempat kejadian dan tempoh respons minimum (**30 saat**) telah berlalu, selesaikan kejadian untuk mendapat ganjaran.
 
-### Limits
+### Had
 
-- Up to **10 active incidents** can exist at once.
-- The caller has a cooldown on repeated 999 calls.
-- If you change teams mid-incident, your assignment is cancelled.
+- Sehingga **10 kejadian aktif** boleh wujud pada satu masa.
+- Pemanggil mempunyai cooldown untuk panggilan 999 berulang.
+- Jika anda menukar pasukan di tengah-tengah kejadian, tugasan anda dibatalkan.
 
-## The Phone
+## Phone
 
-Every player has a phone accessible from the topbar.
+Setiap pemain mempunyai telefon yang boleh diakses dari topbar.
 
-### Built-in features
+### Ciri terbina dalam
 
 - **999 Emergency**
-- **GPS navigation** — set a waypoint to any POI
-- **System clock** showing in-game time
+- **GPS navigation** — tetapkan waypoint ke mana-mana POI
+- **Jam sistem** menunjukkan masa dalam permainan
 
-### Apps
+### Apl
 
-- **Rafahia App v3.0** — The MYSverse community's unified social app (messaging, profiles, cross-experience features).
+- **Rafahia App v3.0** — Apl sosial bersepadu komuniti MYSverse (pemesejan, profil, ciri merentas pengalaman).
 
-More phone apps may appear over time as the MYSverse platform adds features.
+Lebih banyak apl telefon mungkin akan muncul dari semasa ke semasa apabila platform MYSverse menambah ciri.
 
-## Tokens and Boosts
+## Token dan Boost
 
-Some temporary advantages come from **tokens** — consumable boost items in your inventory.
+Sesetengah kelebihan sementara datang daripada **token** — item boost boleh guna habis dalam inventori anda.
 
-| Token | Effect |
+| Token | Kesan |
 |---|---|
-| **2× XP Boost** | Doubles your XP multiplier for a set duration |
-| **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
-| **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
+| **2× XP Boost** | Menggandakan pengganda XP anda untuk tempoh yang ditetapkan |
+| **2× Season Pass Boost** | Menggandakan kemajuan XP Season Pass (apabila musim aktif) |
+| **Team Access Pass** | Memberi akses sementara kepada pasukan yang dikawal gamepass tanpa memiliki gamepass tersebut |
 
-### How to get tokens
+### Cara mendapatkan token
 
-- Career tier rewards (ranking up in a branch)
-- Season Pass tier rewards
-- Promotional events
-- Sometimes bundled with gamepasses
+- Ganjaran tahap kerjaya (naik pangkat dalam cabang)
+- Ganjaran tahap Season Pass
+- Acara promosi
+- Kadangkala digabungkan dengan gamepass
 
-### How to use tokens
+### Cara menggunakan token
 
-Open the **Active Tokens HUD** (a ScreenGui on your HUD when at least one token is active). Tap a token in your inventory to activate it — the duration starts counting down immediately and applies to your next XP gains.
+Buka **Active Tokens HUD** (ScreenGui pada HUD anda apabila sekurang-kurangnya satu token aktif). Tekan token dalam inventori anda untuk mengaktifkannya — tempoh mula mengira detik dengan serta-merta dan terpakai pada perolehan XP anda yang seterusnya.
 
-> Tokens are **consumed on activation** — you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
+> Token **digunakan apabila diaktifkan** — anda tidak boleh menjeda token setelah ia bermula. Simpan untuk sesi di mana anda akan terus memperoleh ganjaran.
 
-## Chat and messaging
+## Sembang dan pemesejan
 
-The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly — keep chat clean and respect MYSverse's community rules.
+Sembang Roblox standard tersedia melalui **/** (slash). Sembang pasukan adalah pilihan jika anda hanya mahu bercakap dengan pasukan semasa anda. Mesra roleplay — kekalkan sembang yang bersih dan hormati peraturan komuniti MYSverse.
 
-## Next steps
+## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) — Where the convoy multiplier fits in
-- [Jobs](/lebuhraya/jobs) — Emergency-team job details
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — Gamepasses vs tokens
+- [Ekonomi dan XP](/lebuhraya/economy) — Di mana pengganda convoy diletakkan
+- [Pekerjaan](/lebuhraya/jobs) — Butiran pekerjaan pasukan kecemasan
+- [Pas dan Boost](/lebuhraya/passes-and-boosts) — Gamepass berbanding token

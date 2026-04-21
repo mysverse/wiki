@@ -1,189 +1,187 @@
 ---
-title: Arrest & Law
-description: >-
-  How arrests work in Bandaraya — LTAA, RTAA, summons, jail time, and suspect
-  rights.
+title: 逮捕与法律
+description: Bandaraya 逮捕机制介绍 — LTAA、RTAA、传票、监禁时长和嫌疑人权利。
 lang: zh
-translated_from_hash: 112b29c5
+translated_from_hash: 61b784e3
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 逮捕与法律
 
-# Arrest & Law
-
-How arrests work in Bandaraya — from both the officer's and the suspect's perspective.
+Bandaraya 的逮捕机制如何运作 — 从警员和嫌疑人的角度来看。
 
 ## TL;DR
 
-- **Who can arrest**: PDRM (any rank), KPTD (any rank), Polis Bantuan (rank 2+). Yang di-Pertuan Persekutuan also has arrest tools.
-- **Arrest flow**: detain → drag → cuff → arrest. Suspect goes to Arrested team, 3-minute release timer.
-- **LTAA** (leave to avoid arrest): disconnect while detained → auto-arrested for 3 minutes on return.
-- **RTAA** (reset to avoid arrest): reset button disabled at 75 HP or below.
-- **Summons** (Saman): on-the-spot fines from officers.
-- **Appeals**: via Malaysia community server moderators.
+- **谁可以逮捕**:PDRM(任何级别)、KPTD(任何级别)、Polis Bantuan(级别 2+)。Yang di-Pertuan Persekutuan 也有逮捕工具。
+- **逮捕流程**:拘留 → 拖拉 → 上铐 → 逮捕。嫌疑人进入 Arrested 队伍,3 分钟释放计时。
+- **LTAA**(leave to avoid arrest):被拘留时断线 → 回来后自动被逮捕 3 分钟。
+- **RTAA**(reset to avoid arrest):HP 75 或以下时 reset 按钮被禁用。
+- **传票**(Saman):警员当场开出的罚单。
+- **申诉**:通过 Malaysia community server 的 moderator 处理。
 
 ---
 
-## Who can arrest
+## 谁可以逮捕
 
-Not everyone can put you in cuffs. Arrest powers are limited to:
+不是每个人都能给你上铐。逮捕权仅限于:
 
-| Team | Group | Rank | Notes |
+| 队伍 | Group | 级别 | 备注 |
 | --- | --- | --- | --- |
-| **PDRM** | 1182710 | Any | Standard police |
-| **KPTD (Military Police)** | 2817141 | Any | Any-rank — enforces across MAF and civilians |
-| **Polis Bantuan** | 6563708 | 2+ | Technically any-scope, but typically roleplayed as transit-scoped |
+| **PDRM** | 1182710 | 任何 | 标准警察 |
+| **KPTD(军事警察)** | 2817141 | 任何 | 任何级别 — 对 MAF 和平民都可执法 |
+| **Polis Bantuan** | 6563708 | 2+ | 技术上范围不限,但通常以交通相关角色扮演 |
 
-**Yang di-Pertuan Persekutuan** (MYSverse rank 220+) carries an `Arrest` tool in their loadout for ceremonial roleplay, but the game's arrest code doesn't recognise them as having arrest powers — they can't actually process an arrest. For real arrests, involve PDRM or KPTD.
+**Yang di-Pertuan Persekutuan**(MYSverse 级别 220+)在其 loadout 中携带 `Arrest` 工具用于仪式性角色扮演,但游戏的逮捕代码并不认可他们拥有逮捕权 — 他们实际上无法完成逮捕流程。真正的逮捕需要 PDRM 或 KPTD 参与。
 
-RELA, BOMBA, KKM, MAF rank-and-file, SJAM, civilians: **no arrest powers**. They can witness, call in, or search with consent, but not arrest.
-
----
-
-## The arrest flow (officer perspective)
-
-### 1. Detain
-
-- Approach the suspect.
-- Use the **Detain** action (via cuffEvents).
-- The suspect is held in a detained state — their character plays a surrender animation, movement is restricted.
-
-### 2. Drag (optional)
-
-- You can drag a detained suspect to your vehicle or a holding area.
-- Useful when arresting multiple people — keep them in a group.
-
-### 3. Ground (optional, multiple offenders)
-
-- Lay a detained player down on the ground.
-- Stack several like this when dealing with multiple suspects at once.
-
-### 4. Cuff
-
-- Use the **Cuff** tool on the detained suspect.
-- Handcuff animation plays.
-- Suspect is now cuffed — can't draw tools, can't run.
-
-### 5. Arrest
-
-- Use the Arrest action (via cuffEvents or radial menu).
-- Suspect's team changes to **Arrested**.
-- A **3-minute release timer** starts.
-- **Arrest record** is created with:
-  - Officer ID
-  - Time of arrest
-  - Location (X, Y, Z)
-  - A **reference number** like `KL-{UserId}-{Index}`
-  - Arrest description
-  - OCG flag (if suspect was on OCG team)
-
-Discord webhook fires to log the arrest.
-
-### Distance-based arrest
-
-Officers can use `ArrestPlayerByDistance` — arrest someone within a range without cuffing them physically. Used for situations where the suspect is already downed or compliant at range.
+RELA、BOMBA、KKM、MAF 普通成员、SJAM、平民:**没有逮捕权**。他们可以作为证人、报案或在获得同意的情况下搜查,但不能逮捕。
 
 ---
 
-## What it's like to be arrested (suspect perspective)
+## 逮捕流程(警员角度)
 
-- Your team changes to **Arrested** (Bright violet).
-- A **BlindedLayer** covers your screen (you're blindfolded).
-- An **ArrestedGUI** shows:
-  - The arresting officer's info
-  - The 3-minute countdown to release
-  - Your reference number
-- Movement restricted; tools disabled.
+### 1. 拘留
 
-After 3 minutes, the game releases you automatically and you can pick a team again.
+- 接近嫌疑人。
+- 使用 **Detain** 动作(通过 cuffEvents)。
+- 嫌疑人进入拘留状态 — 角色播放投降动画,移动受限。
+
+### 2. 拖拉(可选)
+
+- 你可以将已拘留的嫌疑人拖到你的车辆或拘留区。
+- 在逮捕多人时很有用 — 把他们集中在一起。
+
+### 3. 按倒在地(可选,多名嫌疑人)
+
+- 将已拘留的玩家按倒在地。
+- 在同时处理多名嫌疑人时,可以这样叠在一起。
+
+### 4. 上铐
+
+- 对已拘留的嫌疑人使用 **Cuff** 工具。
+- 播放上铐动画。
+- 嫌疑人现在被上铐 — 无法拿出工具,无法奔跑。
+
+### 5. 逮捕
+
+- 使用 Arrest 动作(通过 cuffEvents 或径向菜单)。
+- 嫌疑人的队伍变为 **Arrested**。
+- 启动 **3 分钟释放计时**。
+- 创建 **逮捕记录**,包含:
+  - 警员 ID
+  - 逮捕时间
+  - 位置(X, Y, Z)
+  - 类似 `KL-{UserId}-{Index}` 的 **参考编号**
+  - 逮捕描述
+  - OCG 标记(如果嫌疑人属于 OCG 队伍)
+
+Discord webhook 会触发以记录此次逮捕。
+
+### 基于距离的逮捕
+
+警员可以使用 `ArrestPlayerByDistance` — 在一定范围内逮捕某人而无需实际上铐。用于嫌疑人已被击倒或远距离配合的情况。
+
+---
+
+## 被逮捕是什么感觉(嫌疑人角度)
+
+- 你的队伍变为 **Arrested**(Bright violet)。
+- **BlindedLayer** 覆盖你的屏幕(你被蒙上眼睛)。
+- **ArrestedGUI** 显示:
+  - 逮捕警员的资料
+  - 距离释放的 3 分钟倒计时
+  - 你的参考编号
+- 移动受限;工具被禁用。
+
+3 分钟后,游戏会自动释放你,你可以再次选择队伍。
 
 ---
 
 ## LTAA — Leave To Avoid Arrest
 
-**Disconnecting while detained** is called LTAA, and it's enforced:
+**在被拘留时断线** 称为 LTAA,并且会被强制执行:
 
-- The game detects that you left while detained or downed.
-- Your arrest is **auto-applied** — 3-minute timer starts.
-- The arrest record is saved to the game's database.
-- When you rejoin — even minutes later, even in a different session — you come back in jail with the remaining time.
+- 游戏会检测到你在被拘留或击倒时离开。
+- 你的逮捕 **自动生效** — 3 分钟计时开始。
+- 逮捕记录保存到游戏数据库。
+- 当你重新加入时 — 即使几分钟后,即使在不同的 session — 你会带着剩余时间回到监狱。
 
-Don't rage-quit during an arrest. It'll follow you.
+不要在被逮捕时 rage-quit。它会跟着你。
 
-**Also applies if injured and leaving.** If someone took you down and you quit, the LTAA tracker catches it.
+**受伤后离开也适用。** 如果有人把你击倒而你退出,LTAA 追踪器会捕捉到。
 
 ---
 
 ## RTAA — Reset To Avoid Arrest
 
-**Resetting your character** to escape a detain / arrest was a known exploit. Now:
+**Reset 你的角色** 以逃避拘留 / 逮捕曾是一个已知的漏洞。现在:
 
-- The **reset button is automatically disabled** when your HP is at 75 or below.
-- You physically can't reset until you regen or get healed.
+- 当你的 HP 为 75 或以下时,**reset 按钮会自动禁用**。
+- 在你恢复或得到治疗之前,你实际上无法 reset。
 
-This removes the RTAA escape hatch entirely.
-
----
-
-## Summons (Saman)
-
-Police can issue **summons** — on-the-spot fines for traffic or minor offences.
-
-- The officer uses the **Saman** tool.
-- You receive a summons notification.
-- The fine amount and reason appear in your **SummonsView** GUI.
-- You can browse received summons (with pagination for history).
-
-Pay up. Unpaid summons stay on your record.
+这完全消除了 RTAA 的逃脱途径。
 
 ---
 
-## Searches
+## 传票(Saman)
 
-Officers can request to search you with the **Search** tool:
+警察可以开出 **传票** — 针对交通或轻微违规的当场罚款。
 
-- You get a **consent popup** (Searchee GUI) with Yes / No buttons.
-- If you consent, the officer sees your backpack / pockets.
-- If you decline, the officer can't see inside (unless they had probable cause — roleplay rules).
+- 警员使用 **Saman** 工具(需要 PDRM 任何级别,或 Polis Bantuan 级别 2+)。
+- 罚款 **立即从你的 BR 余额中扣除**(每张传票最高罚款:**1,000 BR**)。
+- 你会收到弹出的 toast 通知。
+- 罚款金额、原因和参考编号出现在你的 **SummonsView** GUI 中 — 可通过分页浏览完整历史。
+- 警员的开单频率限制为每 **10 秒** 一张。
 
----
-
-## Fingerprinting
-
-**FingerPrint Scanner** tool — identifies you. Shows up in the officer's UI.
-
-## Getting out of trouble
-
-- **Wait out the 3 minutes.**
-- **Appeal** via the Malaysia community server — moderators handle disputes and bans.
-- **Stay in character** — pleading with an officer, offering bribes (in roleplay), or just accepting the arrest are all valid.
-
-## What NOT to do
-
-Per [Rules](/bandaraya/rules), the following will get you banned beyond the arrest:
-
-- **LTAA** (leave to avoid arrest) — general violation
-- **RTAA** (reset to avoid arrest) — general violation, though the reset button is now anti-RTAA
-- **Glitching through walls / escaping restricted areas** — general violation
-- **Glitching or abusing tools whilst detained or arrested** — general violation
-- **Going rogue as a public service team** — severe violation
+你无法争辩或拒绝 — 已经付款了。如果你认为某张传票不公正,请通过 community server 申诉(由 moderator 审核)。
 
 ---
 
-## Tips & gotchas
+## 搜查
 
-- **Cooperate.** You will be released in 3 minutes. Fighting an arrest roleplay-wise will make it worse.
-- **Don't LTAA.** The timer persists across sessions. You're not escaping anything.
-- **Officers, log your actions.** Arrest records are tracked; keep descriptions short and factual (they go into the record permanently).
-- **OCG members get flagged** — arrest records carry an `IsOCG` flag. Officers see this in MDT.
-- **Use MDT** — the police tablet app lets you BG-check a suspect, check BOLOs, and issue BOLOs of your own. See [Tablet](/bandaraya/tablet).
-- **Appeals exist** — if you think you were wrongly arrested, pursue it in the community server. The game's moderation team handles it.
+警员可以使用 **Search** 工具请求搜查你:
 
-## See also
+- 你会看到一个 **同意弹窗**(Searchee GUI),带有 是 / 否 按钮。
+- 如果你同意,警员会看到你的 backpack / 口袋。
+- 如果你拒绝,警员无法查看内部(除非他们有合理的怀疑 — 角色扮演规则)。
 
-- [Emergency Services](/bandaraya/emergency-services) — PDRM tools and flow
-- [Tablet](/bandaraya/tablet) — MDT app for officers
-- [Rules](/bandaraya/rules) — full rule text, LTAA/RTAA consequences
-- [Combat & Health](/bandaraya/combat-and-health) — reset-disabled at low HP
-- [Teams](/bandaraya/teams) — which teams get arrest powers
-- [Glossary](/bandaraya/glossary) — LTAA, RTAA, MDT, BOLO
+---
+
+## 指纹识别
+
+**FingerPrint Scanner** 工具 — 识别你的身份。显示在警员的 UI 中。
+
+## 摆脱麻烦
+
+- **熬过这 3 分钟。**
+- 通过 Malaysia community server **申诉** — moderator 处理纠纷和封禁。
+- **保持角色** — 向警员求情、(在角色扮演中)行贿,或干脆接受逮捕都是合理的。
+
+## 不要做什么
+
+根据 [规则](/bandaraya/rules),以下行为会让你在逮捕之外还被封禁:
+
+- **LTAA**(leave to avoid arrest) — 一般违规
+- **RTAA**(reset to avoid arrest) — 一般违规,尽管 reset 按钮现在具有 anti-RTAA 功能
+- **穿墙 / 逃离限制区域** — 一般违规
+- **在被拘留或逮捕时 glitching 或滥用工具** — 一般违规
+- **作为公共服务队伍叛变** — 严重违规
+
+---
+
+## 贴士与陷阱
+
+- **配合。** 你将在 3 分钟内被释放。在角色扮演中反抗逮捕只会让事情变得更糟。
+- **不要 LTAA。** 计时会跨 session 持续。你什么都逃不掉。
+- **警员,记录你的行动。** 逮捕记录会被追踪;描述保持简短和事实化(它们会永久进入记录)。
+- **OCG 成员会被标记** — 逮捕记录带有 `IsOCG` 标记。警员在 MDT 中看得到。
+- **使用 MDT** — 警察 tablet 应用可让你对嫌疑人进行 BG-check、查看 BOLO,并发布自己的 BOLO。请参阅 [Tablet](/bandaraya/tablet)。
+- **申诉是存在的** — 如果你认为自己被错误逮捕,请在 community server 中跟进。游戏的 moderation 团队会处理。
+
+## 另请参阅
+
+- [紧急服务](/bandaraya/emergency-services) — PDRM 工具和流程
+- [Tablet](/bandaraya/tablet) — 警员专用 MDT 应用
+- [规则](/bandaraya/rules) — 完整规则文本,LTAA/RTAA 后果
+- [战斗与健康](/bandaraya/combat-and-health) — 低 HP 时 reset 被禁用
+- [队伍](/bandaraya/teams) — 哪些队伍拥有逮捕权
+- [术语表](/bandaraya/glossary) — LTAA、RTAA、MDT、BOLO

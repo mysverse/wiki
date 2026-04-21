@@ -1,222 +1,224 @@
 ---
-title: FAQ — Frequently Asked Questions
-description: Common new-player questions in Bandaraya.
+title: அடிக்கடி கேட்கப்படும் கேள்விகள்
+description: Bandaraya-வில் புதிய வீரர்களின் பொதுவான கேள்விகள்.
 lang: ta
-translated_from_hash: 8950eabb
+translated_from_hash: 363b6477
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# அடிக்கடி கேட்கப்படும் கேள்விகள்
 
-# FAQ — Frequently Asked Questions
-
-Questions new players ask, answered fast. For deeper info on any topic, follow the links.
-
----
-
-## Getting started
-
-### How do I earn BR fast?
-
-Start with **Postal Service (POS)** — no requirements, ~70 BR per delivery at Level 1 scaling to 260 BR at Level 20. Alternate routes:
-
-- **Taxi Driver** (gamepass 150 R$) — faster BR per minute if bookings are active.
-- **Bus driving** (group-based) — steady if you like route work.
-- **Towing** (group-based) — 500 BR per clamp if you find illegally parked cars.
-
-With the **HCC gamepass**, all job income goes up.
-
-See [Jobs](/bandaraya/jobs).
-
-### How do I become a police officer?
-
-Join **PDRM group 1182710 or 3048630** on Roblox. Any rank qualifies you for the PDRM team. Most groups have trial/training flows — attend those to progress in rank.
-
-See [Teams](/bandaraya/teams#emergency-services).
-
-### What's CAG and do I need it?
-
-**CAG** (Click And Go) is Bandaraya's stored-value transit card — the in-game Touch n Go. Buy it at a kiosk for 100 BR, top up as needed. You need it if you:
-
-- Ride buses (automatic 5 BR fare)
-- Use MRT / Monorail fast travel (30% / 50% off with pass)
-- Drive through TapNGo highway gates (20% off)
-
-If you're not a regular transit user, skip it. If you are, the **monthly pass (500 BR)** pays for itself fast.
-
-See [Getting Around](/bandaraya/getting-around).
-
-### Why does the reset button not work?
-
-It's **disabled at 75 HP or below** to prevent RTAA (Reset To Avoid Arrest). If you're injured, you can't reset your way out. Wait for a medic, fight through, or let the arrest play out.
-
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+புதிய வீரர்கள் கேட்கும் கேள்விகள், விரைவாக பதிலளிக்கப்படுகின்றன. எந்தவொரு தலைப்பிலும் ஆழமான தகவலுக்கு, இணைப்புகளைப் பின்பற்றவும்.
 
 ---
 
-## Money & shops
+## தொடங்குதல்
 
-### How do I buy a car?
+### நான் BR-ஐ வேகமாக எப்படி சம்பாதிப்பது?
 
-Go to **Classic Car Dealer**. Browse, pick a model, pick a colour, buy (permanent) or rent (temporary). Permanent purchases auto-save every 30 seconds and carry across sessions.
+**Postal Service (POS)**-ல் தொடங்குங்கள் — எந்த தேவைகளும் இல்லை, Level 1-ல் ஒரு டெலிவரிக்கு ~70 BR, Level 20-ல் 260 BR வரை அதிகரிக்கும். மாற்று வழிகள்:
 
-See [Vehicles](/bandaraya/vehicles#dealership).
+- **Taxi Driver** (gamepass 150 R$) — புக்கிங்குகள் செயலில் இருந்தால் நிமிடத்திற்கு விரைவான BR.
+- **பஸ் ஓட்டுதல்** (குரூப் அடிப்படையிலானது) — வழி வேலையை விரும்பினால் நிலையானது.
+- **டோயிங்** (குரூப் அடிப்படையிலானது) — சட்டவிரோதமாக நிறுத்தப்பட்ட கார்களைக் கண்டால் ஒவ்வொரு க்ளாம்பிற்கு 500 BR.
 
-### How do I get a gun?
+**HCC gamepass**-உடன், அனைத்து வேலை வருமானமும் அதிகரிக்கும்.
 
-You need one of:
+[வேலைகள்](/bandaraya/jobs) பார்க்கவும்.
 
-- **Firearms Licence gamepass** (1,250 R$) → unlocks Ammulaysia.
-- A team that issues weapons (PDRM, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF armoury access).
-- **Illegal Dealer (Hacker)** for black-market items (5-minute cooldown).
+### நான் போலீஸ் அதிகாரியாக எப்படி ஆவது?
 
-Note: Ammulaysia has a 5-minute cooldown between purchases too.
+Roblox-ல் **PDRM குரூப் 1182710 அல்லது 3048630**-ல் சேருங்கள். எந்தவொரு தரமும் உங்களை PDRM டீமிற்குத் தகுதியாக்குகிறது. பெரும்பாலான குரூப்புகளுக்கு சோதனை/பயிற்சி ஓட்டங்கள் உள்ளன — தரத்தில் முன்னேற அவற்றில் கலந்துகொள்ளுங்கள்.
 
-See [Combat & Health](/bandaraya/combat-and-health#weapons) and [Gamepasses](/bandaraya/gamepasses).
+[டீம்கள்](/bandaraya/teams#emergency-services) பார்க்கவும்.
 
-### Where do I get fuel?
+### CAG என்றால் என்ன, அது எனக்குத் தேவையா?
 
-- **Petrol / Diesel**: Radtrol Gas Station @ Jalan Pinang.
-- **Electric**: 2 charging stations at Community Retail.
+**CAG** (Click And Go) என்பது Bandaraya-வின் சேமிக்கப்பட்ட-மதிப்பு போக்குவரத்து அட்டை — விளையாட்டுக்குள் Touch n Go. கியோஸ்க்கில் 100 BR-க்கு வாங்கவும், தேவைக்கேற்ப டாப் அப் செய்யவும். நீங்கள் இவற்றைச் செய்தால் இது தேவை:
 
-Drive onto the pump, exit the vehicle, interact with the pump, pay BR.
+- பஸ்களில் பயணிக்கிறீர்கள் (தானாக 5 BR கட்டணம்)
+- MRT / Monorail விரைவு பயணத்தைப் பயன்படுத்துகிறீர்கள் (பாஸுடன் 30% / 50% தள்ளுபடி)
+- TapNGo ஹைவே கேட்டுகள் வழியாக ஓட்டுகிறீர்கள் (20% தள்ளுபடி)
 
-See [Vehicles](/bandaraya/vehicles#fuel).
+நீங்கள் வழக்கமான போக்குவரத்து பயனர் இல்லை என்றால், தவிர்க்கவும். இருந்தால், **மாத பாஸ் (500 BR)** விரைவில் தனது விலையை திரும்பப் பெற்றுக்கொள்ளும்.
 
-### I bought a car but it's gone. Where is it?
+[சுற்றுதல்](/bandaraya/getting-around) பார்க்கவும்.
 
-Bought cars auto-save to your account every 30 seconds. Respawn at Classic Car Dealer and re-spawn your vehicle from the owned-vehicles menu. Your colour customization persists.
+### ஏன் reset பட்டன் வேலை செய்யவில்லை?
 
----
+RTAA (Reset To Avoid Arrest)-ஐத் தடுக்க **75 HP அல்லது அதற்குக் கீழ் அது முடக்கப்பட்டுள்ளது**. நீங்கள் காயமடைந்திருந்தால், reset செய்து தப்பிக்க முடியாது. ஒரு மருத்துவருக்காகக் காத்திருங்கள், போராடுங்கள், அல்லது கைதை நடைபெறச் செய்யுங்கள்.
 
-## Arrests & rules
-
-### How do I get out of jail?
-
-Wait the **3-minute release timer**. After that, you can pick a team again.
-
-If you think you were wrongly arrested, appeal via the Malaysia community server (see [Rules](/bandaraya/rules#appeals)).
-
-### I left while detained and now I'm auto-arrested. Why?
-
-That's **LTAA (Leave To Avoid Arrest)** enforcement. The 3-minute timer persists across sessions — you can't escape arrest by rage-quitting.
-
-See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
-
-### Can I rob the bank?
-
-Yes — **Hazbank** is a robbery target in-game. But note:
-
-- PDRM will respond.
-- You're a civilian committing a crime — expect arrest.
-- OCG (Organised Crime Group) does this in organised events.
-- Going rogue as a public-services team member if you're on one = severe violation.
-
-### What's a BOLO?
-
-**Be On the LookOut.** A police alert that flags a suspect so all on-duty officers are notified (sound, badge, toast). See [Tablet](/bandaraya/tablet) for how PDRM issue BOLOs via MDT.
-
-### Can I drive a fire truck as a civilian?
-
-**No.** BOMBA vehicles spawn from BOMBA-team-gated spawners. Same for PDRM, MAF, KKM, SJAM, etc.
-
-If you're on BOMBA, you can drive the full fleet. See [Emergency Services](/bandaraya/emergency-services#bomba-jabatan-bomba-dan-penyelamat).
+[கைது & சட்டம்](/bandaraya/arrest-and-law#rtaa) பார்க்கவும்.
 
 ---
 
-## Teams
+## பணம் & கடைகள்
 
-### What's the difference between MyTransit and Bus Services?
+### நான் ஒரு காரை எப்படி வாங்குவது?
 
-Both run buses, but different groups:
+**Classic Car Dealer**-க்குச் செல்லுங்கள். உலாவுங்கள், மாடலைத் தேர்ந்தெடுங்கள், நிறத்தைத் தேர்ந்தெடுங்கள், வாங்குங்கள் (நிரந்தரம்) அல்லது வாடகைக்கு எடுங்கள் (தற்காலிகம்). நிரந்தர வாங்குதல்கள் ஒவ்வொரு 30 விநாடிகளுக்கும் தானாக சேமிக்கப்படும் மற்றும் session-கள் கடந்து கொண்டு செல்லப்படும்.
 
-- **MyTransit** (groups 5032738, 10394166) — the main in-game bus operator.
-- **Bus Services** (groups 12143635, 32663011, 11122768, 33328642) — SPAD-registered private bus operators.
+[வாகனங்கள்](/bandaraya/vehicles#dealership) பார்க்கவும்.
 
-They roleplay as different companies. Vehicle fleets are different. See [Teams](/bandaraya/teams#transport) and [Jobs](/bandaraya/jobs#bus-driving).
+### நான் ஒரு துப்பாக்கியை எப்படிப் பெறுவது?
 
-### I'm on Visitors but I want to join PDRM. How?
+இவற்றில் ஒன்று உங்களுக்குத் தேவை:
 
-Join the PDRM Roblox group (1182710 or 3048630), get accepted (may require application/training), then open the team menu in-game and pick PDRM. You'll need to switch teams and respawn.
+- **Firearms Licence gamepass** (1,250 R$) → Ammulaysia-ஐ அன்லாக் செய்கிறது.
+- ஆயுதங்களை வழங்கும் ஒரு டீம் (PDRM, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF ஆயுதக் கிடங்கு அணுகல்).
+- கருப்புச் சந்தை பொருட்களுக்கு **Illegal Dealer (Hacker)** (5 நிமிட cooldown).
 
-See [Teams](/bandaraya/teams).
+குறிப்பு: Ammulaysia-விலும் வாங்குதல்களுக்கு இடையில் 5 நிமிட cooldown உள்ளது.
 
-### A team disappeared from the team menu. Is this a bug?
+[போர் & ஆரோக்கியம்](/bandaraya/combat-and-health#weapons) மற்றும் [Gamepasses](/bandaraya/gamepasses) பார்க்கவும்.
 
-No. Teams with no players are **automatically removed** from the list to keep the menu tidy. They reappear the moment someone joins. The only exceptions are Visitors, Malaysians, and Arrested (always persistent).
+### எரிபொருளை எங்கே பெறுவது?
 
----
+- **பெட்ரோல் / டீசல்**: Radtrol Gas Station @ Jalan Pinang.
+- **மின்சாரம்**: Community Retail-ல் 2 சார்ஜிங் நிலையங்கள்.
 
-## Technical
+பம்பிற்கு ஓட்டிச் செல்லுங்கள், வாகனத்திலிருந்து இறங்குங்கள், பம்புடன் தொடர்பு கொள்ளுங்கள், BR-ல் செலுத்துங்கள்.
 
-### I got kicked for cheating but I wasn't. What do I do?
+[வாகனங்கள்](/bandaraya/vehicles#fuel) பார்க்கவும்.
 
-The anti-cheat has been tuned to allow real combat, but false positives can happen. Look at the kick message — it includes a tag:
+### நான் ஒரு காரை வாங்கினேன் ஆனால் அது போய்விட்டது. அது எங்கே?
 
-- **RL** — rate limiting
-- **MV** — movement check
-- **WM** — weapon monitor
-
-Take that tag to the community moderators. Anti-cheat false positives during legit combat, at lifts, during searches, and during CCTV operation have all been specifically patched in recent updates.
-
-See [Rules](/bandaraya/rules#tips--gotchas).
-
-### How do I get the Punch tool?
-
-It's a quest reward at **Level 25**. You have to grind to level 25 through whatever the quest targets (roleplay activity). Currently the only quest in-game.
-
-### What's the game version?
-
-**v3.15.5** (as of April 2026). See the in-game changelog for the full version history.
-
-### Why is my vehicle glowing weird after a collision?
-
-Crash damage shows visually. Heavy crashes produce smoke and wear. Reset the vehicle (respawn it) to restore full health.
-
-See [Vehicles](/bandaraya/vehicles#vehicle-health--crash-damage).
-
-### What's Saude?
-
-Portuguese for "health". It's the internal name for Bandaraya's health system (blood, pain, injuries, medical kit). You won't see the word "Saude" as a player — it's just the dev term for the system. See [Combat & Health](/bandaraya/combat-and-health).
-
-### My taxi "Start" button gave an error. Is that my fault?
-
-Nope — that was a bug in R15 rigs, fixed in v3.15.5. Retry.
+வாங்கப்பட்ட கார்கள் ஒவ்வொரு 30 விநாடிகளுக்கும் உங்கள் கணக்கில் தானாகச் சேமிக்கப்படுகின்றன. Classic Car Dealer-ல் ரீஸ்பான் செய்து, owned-vehicles மெனுவிலிருந்து உங்கள் வாகனத்தை மீண்டும் ஸ்பான் செய்யுங்கள். உங்கள் நிற தனிப்பயனாக்கம் தொடர்ந்து இருக்கும்.
 
 ---
 
-## Edge cases
+## கைதுகள் & விதிகள்
 
-### Can I play on mobile?
+### நான் ஜெயிலிலிருந்து எப்படி வெளியேறுவது?
 
-Yes, with some caveats:
+**3-நிமிட விடுதலை டைமருக்காக** காத்திருங்கள். அதற்குப் பிறகு, நீங்கள் மீண்டும் ஒரு டீமைத் தேர்ந்தெடுக்கலாம்.
 
-- Vehicle spawners have mobile-friendly UIs.
-- Touch input is supported.
-- Some interactions (combat, long text inputs) are harder on mobile; recent updates fixed several mobile bugs (phone input fields unresponsive).
-- Claiming bus fares via tapping works fine.
+நீங்கள் தவறாகக் கைது செய்யப்பட்டதாக நினைத்தால், Malaysia சமூக server வழியாக முறையீடு செய்யுங்கள் ([விதிகள்](/bandaraya/rules#appeals) பார்க்கவும்).
 
-### Can I play with a friend?
+### நான் தடுத்து வைக்கப்பட்டிருந்த போது வெளியேறினேன், இப்போது தானாகக் கைது செய்யப்பட்டேன். ஏன்?
 
-Yes — invite them to the same server. The team system allows mixed-team parties (you can have PDRM and BOMBA on the same server). OCG and MAF parties are common too.
+அது **LTAA (Leave To Avoid Arrest)** அமலாக்கம். 3-நிமிட டைமர் session-கள் கடந்து தொடர்கிறது — நீங்கள் கோபத்துடன் வெளியேறி கைதை தப்பிக்க முடியாது.
 
-### Does it ever rain?
+[கைது & சட்டம்](/bandaraya/arrest-and-law#ltaa) பார்க்கவும்.
 
-Yes, but rain is **admin-toggled** — the developers turn it on and off via chat commands. It's not a persistent weather cycle. When rain is on, 3D particles fall around you and screen droplets appear on the camera; otherwise the weather is clear. Your game performance is unaffected when rain is off.
+### நான் வங்கியைக் கொள்ளையடிக்கலாமா?
 
-### I don't speak Malay. Will I be lost?
+ஆம் — **Hazbank** என்பது விளையாட்டில் ஒரு கொள்ளை இலக்கு. ஆனால் கவனிக்கவும்:
 
-You'll recognise most things. Our [glossary](/bandaraya/glossary) covers every acronym (PDRM, BOMBA, KKM, LTAA, RTAA, CAG, MRT, etc.). Common Malay words: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
+- கொள்ளை தொடங்க **server-ல் குறைந்தது 10 வீரர்கள்** ஆன்லைனில் தேவை.
+- நீங்கள் வால்ட்டை டிகோட் செய்ய வேண்டும் (Decoder சாதனத்தில் நேர-அடிப்படையிலான மினி-தொடர்பு).
+- உள்ளே ஒருமுறை, நீங்கள் சீரற்ற பண-சேகரிப்பாளர் புள்ளியில் நிற்கிறீர்கள் — கவுண்ட்-டவுன் ஓடும்போது உங்கள் கதாபாத்திரம் நங்கூரமிடப்பட்டிருக்கும் (எனவே நீங்கள் எடுத்துவிட்டு ஓட முடியாது).
+- கொள்ளையின் நடுவில் PDRM **கையெழுத்தாக வால்ட்டை பூட்டலாம்** — ஷட்டர் இறங்கி நீங்கள் சிக்கிக் கொள்கிறீர்கள்.
+- கொள்ளை தொடங்கும்போது அனைத்து PDRM / செயலில் பதிலளிப்பவர்களுக்கும் எச்சரிக்கை அனுப்பப்படுகிறது.
+- கைதை எதிர்பார்க்கவும். OCG (Organised Crime Group) இதை ஒழுங்கமைக்கப்பட்ட நிகழ்வுகளில் செய்கிறது; தனியாக முயற்சிக்கும் குடிமக்கள் பொதுவாகப் பிடிபடுவார்கள்.
+- நீங்கள் ஒரு பொது-சேவை டீம் உறுப்பினராக இருந்தால், துரோகி செய்வது = கடுமையான மீறல்.
 
-### How old do I need to be?
+### BOLO என்றால் என்ன?
 
-You need at least **60 days of Roblox account age** to join Bandaraya. This is a bot / fresh-account mitigation (set in v3.9.0).
+**Be On the LookOut.** ஒரு சந்தேக நபரை கொடியேற்றும் போலீஸ் எச்சரிக்கை, இதனால் அனைத்து பணியில் உள்ள அதிகாரிகளுக்கும் அறிவிக்கப்படுகிறது (ஒலி, பேட்ஜ், toast). MDT வழியாக PDRM BOLO-களை எப்படி வெளியிடுகிறது என்பதற்கு [Tablet](/bandaraya/tablet) பார்க்கவும்.
+
+### குடிமகனாக என்னால் ஒரு தீயணைப்பு வாகனத்தை ஓட்ட முடியுமா?
+
+**இல்லை.** BOMBA வாகனங்கள் BOMBA-டீம்-கேட்டட் ஸ்பானர்களிலிருந்து ஸ்பான் ஆகின்றன. PDRM, MAF, KKM, SJAM போன்றவைகளுக்கும் இதே.
+
+நீங்கள் BOMBA-வில் இருந்தால், முழு கடற்படையை ஓட்டலாம். [அவசர சேவைகள்](/bandaraya/emergency-services#bomba-jabatan-bomba-dan-penyelamat) பார்க்கவும்.
 
 ---
 
-## See also
+## டீம்கள்
 
-- [Welcome](/bandaraya/get-started)
-- [Getting Started](/bandaraya/get-started)
-- [Glossary](/bandaraya/glossary)
-- [Rules](/bandaraya/rules)
-- [README](/) — full table of contents
+### MyTransit-க்கும் Bus Services-க்கும் இடையிலான வேறுபாடு என்ன?
+
+இரண்டும் பஸ்கள் ஓட்டுகின்றன, ஆனால் வெவ்வேறு குரூப்புகள்:
+
+- **MyTransit** (குரூப்கள் 5032738, 10394166) — விளையாட்டில் முக்கிய பஸ் ஆபரேட்டர்.
+- **Bus Services** (குரூப்கள் 12143635, 32663011, 11122768, 33328642) — SPAD-பதிவு செய்யப்பட்ட தனியார் பஸ் ஆபரேட்டர்கள்.
+
+அவர்கள் வெவ்வேறு நிறுவனங்களாக பாத்திர-விளையாட்டு செய்கிறார்கள். வாகன கடற்படைகள் வேறுபட்டவை. [டீம்கள்](/bandaraya/teams#transport) மற்றும் [வேலைகள்](/bandaraya/jobs#bus-driving) பார்க்கவும்.
+
+### நான் Visitors-ல் இருக்கிறேன் ஆனால் PDRM-ல் சேர விரும்புகிறேன். எப்படி?
+
+PDRM Roblox குரூப்பில் சேருங்கள் (1182710 அல்லது 3048630), ஏற்றுக்கொள்ளப்படுங்கள் (விண்ணப்பம்/பயிற்சி தேவைப்படலாம்), பின்னர் விளையாட்டில் டீம் மெனுவைத் திறந்து PDRM-ஐத் தேர்ந்தெடுங்கள். நீங்கள் டீம்களை மாற்றி ரீஸ்பான் செய்ய வேண்டும்.
+
+[டீம்கள்](/bandaraya/teams) பார்க்கவும்.
+
+### டீம் மெனுவிலிருந்து ஒரு டீம் மறைந்துவிட்டது. இது bug-ஆ?
+
+இல்லை. வீரர்கள் இல்லாத டீம்கள் மெனுவை நேர்த்தியாக வைக்க **பட்டியலிலிருந்து தானாக அகற்றப்படுகின்றன**. யாராவது சேர்ந்தவுடன் அவை மீண்டும் தோன்றும். ஒரே விதிவிலக்குகள் Visitors, Malaysians மற்றும் Arrested (எப்போதும் நிலையானவை).
+
+---
+
+## தொழில்நுட்பம்
+
+### நான் ஏமாற்றுவதற்காக கிக் செய்யப்பட்டேன் ஆனால் நான் ஏமாற்றவில்லை. நான் என்ன செய்வது?
+
+ஆன்டி-சீட் உண்மையான போரை அனுமதிக்க டியூன் செய்யப்பட்டுள்ளது, ஆனால் தவறான போசிட்டிவ்கள் நிகழலாம். கிக் செய்தியைப் பாருங்கள் — அதில் ஒரு டேக் உள்ளது:
+
+- **RL** — விகித வரம்பு
+- **MV** — இயக்க சரிபார்ப்பு
+- **WM** — ஆயுத மானிட்டர்
+
+அந்த டேகை சமூக மாடரேட்டர்களிடம் எடுத்துச் செல்லுங்கள். சட்டப்பூர்வ போர், லிப்ட்களில், தேடுதல்களின் போது, மற்றும் CCTV செயல்பாட்டின் போது நிகழும் ஆன்டி-சீட் தவறான போசிட்டிவ்கள் அனைத்தும் சமீபத்திய புதுப்பிப்புகளில் குறிப்பாக பேட்ச் செய்யப்பட்டுள்ளன.
+
+[விதிகள்](/bandaraya/rules#tips--gotchas) பார்க்கவும்.
+
+### Punch கருவியை எப்படிப் பெறுவது?
+
+அது **Level 25**-ல் ஒரு கொரக வெகுமதி. quest குறிக்கோள்கள் (roleplay செயல்பாடு) என்ன என்பதன் மூலம் நீங்கள் level 25 வரை grind செய்ய வேண்டும். தற்போது விளையாட்டில் உள்ள ஒரே quest இதுவாகும்.
+
+### விளையாட்டு பதிப்பு என்ன?
+
+**v3.15.5** (ஏப்ரல் 2026 நிலவரப்படி). முழு பதிப்பு வரலாற்றிற்கு விளையாட்டில் உள்ள changelog பார்க்கவும்.
+
+### மோதலுக்குப் பிறகு என் வாகனம் ஏன் விசித்திரமாக ஒளிர்கிறது?
+
+மோதல் சேதம் பார்வையில் காட்டப்படுகிறது. கடுமையான மோதல்கள் புகை மற்றும் தேய்மானத்தை உருவாக்குகின்றன. முழு ஆரோக்கியத்தை மீட்டெடுக்க வாகனத்தை reset செய்யுங்கள் (மீண்டும் ஸ்பான் செய்யுங்கள்).
+
+[வாகனங்கள்](/bandaraya/vehicles#vehicle-health--crash-damage) பார்க்கவும்.
+
+### Saude என்றால் என்ன?
+
+போர்ச்சுகீசிய "ஆரோக்கியம்". இது Bandaraya-வின் ஆரோக்கிய அமைப்பின் (இரத்தம், வலி, காயங்கள், மருத்துவக் கருவி) உள்ளக பெயர். வீரராக நீங்கள் "Saude" என்ற வார்த்தையைப் பார்க்க மாட்டீர்கள் — அது அமைப்பிற்கான dev சொல் மட்டுமே. [போர் & ஆரோக்கியம்](/bandaraya/combat-and-health) பார்க்கவும்.
+
+### என் டேக்ஸியின் "Start" பட்டன் ஒரு பிழையைக் கொடுத்தது. அது என் தவறா?
+
+இல்லை — அது R15 rig-களில் ஒரு bug, v3.15.5-ல் சரிசெய்யப்பட்டது. மீண்டும் முயற்சிக்கவும்.
+
+---
+
+## விளிம்பு வழக்குகள்
+
+### நான் மொபைலில் விளையாடலாமா?
+
+ஆம், சில நிபந்தனைகளுடன்:
+
+- வாகன ஸ்பானர்களுக்கு மொபைல்-நட்பு UI-கள் உள்ளன.
+- தொடு உள்ளீடு ஆதரிக்கப்படுகிறது.
+- சில தொடர்புகள் (போர், நீண்ட உரை உள்ளீடுகள்) மொபைலில் கடினமானவை; சமீபத்திய புதுப்பிப்புகள் பல மொபைல் bug-களை சரிசெய்துள்ளன (போன் உள்ளீட்டு புலங்கள் பதிலளிக்காதவை).
+- தட்டுவதன் மூலம் பஸ் கட்டணங்களைக் கோருவது நன்றாக வேலை செய்கிறது.
+
+### நான் நண்பருடன் விளையாடலாமா?
+
+ஆம் — அவர்களை அதே server-க்கு அழைக்கவும். டீம் அமைப்பு கலப்பு-டீம் பார்ட்டிகளை அனுமதிக்கிறது (நீங்கள் ஒரே server-ல் PDRM மற்றும் BOMBA-வை வைத்திருக்கலாம்). OCG மற்றும் MAF பார்ட்டிகளும் பொதுவானவை.
+
+### அது எப்போதாவது மழை பெய்கிறதா?
+
+ஆம், ஆனால் மழை **admin-டாக்கிள் செய்யப்படுகிறது** — டெவலப்பர்கள் chat commands வழியாக அதை ஆன் மற்றும் ஆஃப் செய்கிறார்கள். இது தொடர்ச்சியான வானிலை சுழற்சி அல்ல. மழை ஆன் இருக்கும்போது, 3D துகள்கள் உங்களைச் சுற்றி விழுகின்றன மற்றும் கேமராவில் திரை நீர்த்துளிகள் தோன்றும்; இல்லையெனில் வானிலை தெளிவாக உள்ளது. மழை ஆஃப் இருக்கும்போது உங்கள் விளையாட்டு செயல்திறன் பாதிக்கப்படாது.
+
+### நான் மலாய் பேசமாட்டேன். நான் தொலைந்து போவேனா?
+
+நீங்கள் பெரும்பாலான விஷயங்களை அடையாளம் கண்டுகொள்வீர்கள். எங்கள் [சொற்களஞ்சியம்](/bandaraya/glossary) ஒவ்வொரு சுருக்கத்தையும் உள்ளடக்கியது (PDRM, BOMBA, KKM, LTAA, RTAA, CAG, MRT, முதலியன). பொதுவான மலாய் வார்த்தைகள்: **Polis** (போலீஸ்), **Saman** (சம்மன்/அபராதம்), **Bomba** (தீயணைப்புப் படை), **Kesihatan** (ஆரோக்கியம்).
+
+### எனக்கு எவ்வளவு வயது வேண்டும்?
+
+Bandaraya-வில் சேர உங்களுக்கு குறைந்தது **60 நாட்கள் Roblox கணக்கு வயது** தேவை. இது bot / புதிய-கணக்கு தணிப்பாகும் (v3.9.0-ல் அமைக்கப்பட்டது).
+
+---
+
+## மேலும் பார்க்க
+
+- [வரவேற்பு](/bandaraya/get-started)
+- [தொடங்குதல்](/bandaraya/get-started)
+- [சொற்களஞ்சியம்](/bandaraya/glossary)
+- [விதிகள்](/bandaraya/rules)
+- [README](/) — முழு உள்ளடக்க அட்டவணை

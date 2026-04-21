@@ -1,120 +1,119 @@
 ---
-title: Phone
+title: Telefon
 description: >-
-  The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
-  messages, and more apps.
+  Telefon dalam permainan di Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
+  mesej, dan aplikasi lain.
 lang: ms
 translated_from_hash: 089fa7dc
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Telefon
 
-# Phone
+Setiap pemain di Bandaraya membawa **Telefon dalam permainan** — ikon pada topbar yang membuka peranti berbilang aplikasi. Berbeza dengan **Tablet** (yang merupakan alat khusus pasukan); Telefon adalah universal.
 
-Every player in Bandaraya carries an **in-game Phone** — a topbar icon that opens a multi-app device. Different from the **Tablet** (which is a team-only tool); the Phone is universal.
+## Ringkasan
 
-## TL;DR
-
-- Tap the phone icon on your topbar.
-- Tap an app to open it.
-- Many apps; the most useful ones in Bandaraya are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
+- Ketuk ikon telefon pada topbar anda.
+- Ketuk aplikasi untuk membukanya.
+- Banyak aplikasi tersedia; yang paling berguna di Bandaraya ialah **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, dan **MyTow**.
 
 ---
 
-## How to open it
+## Cara membukanya
 
-The phone lives on your topbar. Tap the icon. On mobile, the topbar icons are at the top of the screen; on desktop, same place. The phone overlay slides in.
+Telefon berada pada topbar anda. Ketuk ikon tersebut. Pada mudah alih, ikon topbar berada di bahagian atas skrin; pada desktop, di tempat yang sama. Overlay telefon akan muncul masuk.
 
-## Apps — universal (all MYSverse games)
+## Aplikasi — universal (semua permainan MYSverse)
 
-| App | What it does |
+| Aplikasi | Fungsinya |
 | --- | --- |
-| **MYSair** | Airline bookings / travel between experiences. |
-| **Elections** | MYSverse elections — vote, view campaigns. |
-| **Blog** | Read community blog posts. |
-| **NWS** | National Wire Services — official in-game news feed. |
-| **Parlimen** | View Parlimen (parliament) proceedings. |
-| **Message** | Peer-to-peer chat ("wasap"). |
-| **Camera** | Take in-game photos. |
-| **Settings** | Phone settings — background image, etc. |
-| **Rafahia** | Clothing brand app — browse catalog. |
+| **MYSair** | Tempahan penerbangan / perjalanan antara pengalaman. |
+| **Elections** | Pilihan raya MYSverse — mengundi, melihat kempen. |
+| **Blog** | Membaca siaran blog komuniti. |
+| **NWS** | National Wire Services — suapan berita rasmi dalam permainan. |
+| **Parlimen** | Melihat prosiding Parlimen. |
+| **Message** | Sembang rakan ke rakan ("wasap"). |
+| **Camera** | Mengambil foto dalam permainan. |
+| **Settings** | Tetapan telefon — imej latar belakang, dan lain-lain. |
+| **Rafahia** | Aplikasi jenama pakaian — melayari katalog. |
 
-## Apps — Bandaraya-only
+## Aplikasi — khusus Bandaraya
 
-These apps are added when you're in Bandaraya. They don't appear in Lebuhraya or other experiences.
+Aplikasi ini ditambah apabila anda berada di Bandaraya. Ia tidak muncul di Lebuhraya atau pengalaman lain.
 
-### MyPay — send BR to another player
+### MyPay — hantar BR kepada pemain lain
 
-Peer-to-peer BR transfer. Like Malaysia's real-world MyPay / DuitNow.
+Pemindahan BR rakan ke rakan. Seperti MyPay / DuitNow dunia sebenar Malaysia.
 
-1. Open **MyPay**.
-2. **Search** for a player by name.
-3. Pick them from the list.
-4. Enter an amount (fractional BR supported — rounded to 2 decimals), or tap a **quick-amount** preset.
-5. Tap **Send**.
+1. Buka **MyPay**.
+2. **Cari** pemain mengikut nama.
+3. Pilih mereka daripada senarai.
+4. Masukkan jumlah (BR pecahan disokong — dibundarkan kepada 2 perpuluhan), atau ketuk prasetel **jumlah pantas**.
+5. Ketuk **Send**.
 
-The recipient gets a notification on their own phone with **Accept / Deny** buttons. If they accept, the BR moves. If denied or ignored, nothing happens.
+Penerima akan mendapat pemberitahuan pada telefon mereka sendiri dengan butang **Accept / Deny**. Jika mereka menerima, BR akan berpindah. Jika ditolak atau diabaikan, tiada apa yang berlaku.
 
-**Balance** is shown on the send screen so you know what you have to spend. Transfers require:
-- Both players to be **in the same server** (you can't send across servers)
-- Neither player to be on the **fraud blocklist** (rare — only if an admin has flagged an account)
-- You to actually have the BR — the debit is checked before credit
+**Baki** ditunjukkan pada skrin hantar supaya anda tahu berapa yang boleh dibelanjakan. Pemindahan memerlukan:
+- Kedua-dua pemain berada **dalam server yang sama** (anda tidak boleh hantar merentasi server)
+- Kedua-dua pemain tidak berada dalam **senarai sekatan penipuan** (jarang berlaku — hanya jika admin telah menandakan akaun)
+- Anda benar-benar memiliki BR tersebut — debit disemak sebelum kredit
 
-If MyPay is temporarily disabled (admin toggles `MyPayEnabled`), you'll see a "disabled" screen instead — the app is grey and no transfers go through.
+Jika MyPay dilumpuhkan buat sementara waktu (admin mengalih `MyPayEnabled`), anda akan melihat skrin "dilumpuhkan" sebaliknya — aplikasi akan kelabu dan tiada pemindahan akan berlaku.
 
-Each completed transfer is logged to the game's Discord (for moderation visibility).
+Setiap pemindahan yang selesai direkodkan ke Discord permainan (untuk keterlihatan moderasi).
 
-### e-hailing — book a taxi
+### e-hailing — tempah teksi
 
-Book a ride without walking up to a physical taxi company desk.
+Tempah perjalanan tanpa perlu berjalan ke meja syarikat teksi fizikal.
 
-1. Open **e-hailing**.
-2. Enter your **destination** and (optional) **description**.
-3. Pick a driver from the available list.
-4. Wait for them to accept, then get picked up.
+1. Buka **e-hailing**.
+2. Masukkan **destinasi** anda dan (pilihan) **keterangan**.
+3. Pilih pemandu daripada senarai yang tersedia.
+4. Tunggu mereka menerima, kemudian diambil.
 
-Fare is based on distance × company rate (see [Jobs — Taxi Driver](/bandaraya/jobs#how-the-fare-is-calculated)).
+Tambang dikira berdasarkan jarak × kadar syarikat (lihat [Pekerjaan — Pemandu Teksi](/bandaraya/jobs#how-the-fare-is-calculated)).
 
 ### CAG eWallet
 
-Browse-only view of your Click And Go transit card. Balance, trips, monthly pass, designs, lifetime stats. **Purchase buttons deep-link to the nearest physical kiosk** — you can't buy from the phone directly. See [Getting Around](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+Paparan baca sahaja bagi kad transit Click And Go anda. Baki, perjalanan, pas bulanan, reka bentuk, statistik seumur hidup. **Butang pembelian akan membawa terus ke kiosk fizikal terdekat** — anda tidak boleh membeli terus dari telefon. Lihat [Pergerakan](/bandaraya/getting-around#the-cag-ewallet-phone-app).
 
-### 999 — emergency reporting
+### 999 — laporan kecemasan
 
-Report a crime, fire, medical emergency, or accident.
+Laporkan jenayah, kebakaran, kecemasan perubatan, atau kemalangan.
 
-1. Open **999**.
-2. Fill in the **nature** (what's happening) and **description** (details).
-3. Submit.
+1. Buka **999**.
+2. Isi **jenis** (apa yang sedang berlaku) dan **keterangan** (butiran).
+3. Hantar.
 
-The alert pings the relevant emergency team (PDRM for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
+Amaran akan memberitahu pasukan kecemasan yang berkaitan (PDRM untuk jenayah, BOMBA untuk kebakaran, KKM untuk perubatan). Jangan salah guna ini — panggilan palsu membazir masa responden.
 
-Also available in Lebuhraya.
+Juga tersedia di Lebuhraya.
 
-### MyCar — control your spawned vehicle
+### MyCar — kawal kenderaan yang anda spawn
 
-Remote-control your vehicle without sitting in it — lights, horn, emergency signals, door locks.
+Kawal kenderaan anda dari jauh tanpa duduk di dalamnya — lampu, hon, isyarat kecemasan, kunci pintu.
 
 ### MyTow
 
-Same MyTow as the Tablet app, but on your phone. Report the need for a tow, or track your tow job. Useful if you're a civilian who got clamped and want to contact a tow operator.
+MyTow yang sama seperti aplikasi Tablet, tetapi pada telefon anda. Laporkan keperluan untuk tunda, atau jejak tugas tunda anda. Berguna jika anda seorang awam yang kereta dikepit dan ingin menghubungi pengendali tunda.
 
-## How apps appear / disappear
+## Cara aplikasi muncul / hilang
 
-Apps with a "place" restriction only show in that place. For example, **e-hailing** only appears in Bandaraya; **Rules** only appears in Lebuhraya. When you travel to a different MYSverse experience (via MYSair), your app grid changes.
+Aplikasi dengan sekatan "tempat" hanya muncul di tempat tersebut. Sebagai contoh, **e-hailing** hanya muncul di Bandaraya; **Rules** hanya muncul di Lebuhraya. Apabila anda mengembara ke pengalaman MYSverse yang berbeza (melalui MYSair), grid aplikasi anda akan berubah.
 
-## Tips & gotchas
+## Petua & perkara perlu diketahui
 
-- **Mobile text input** was fixed in v3.15.3 — if you find any phone text field unresponsive on mobile, report it as a regression.
-- **Phone ≠ Tablet.** The Tablet is a tool you equip from your backpack (team-gated). The Phone is a universal topbar app surface.
-- **MyPay requires the recipient to accept** — don't try to force-pay someone. They must be online.
-- **999 goes to real players** (officers on duty), not NPCs. Be patient.
-- **CAG eWallet on the phone is read-only** — to buy / top up / change pass you must visit a kiosk. The phone just shows you your info.
+- **Input teks mudah alih** telah dibetulkan dalam v3.15.3 — jika anda mendapati mana-mana medan teks telefon tidak bertindak balas pada mudah alih, laporkan sebagai regresi.
+- **Telefon ≠ Tablet.** Tablet ialah alat yang anda lengkapkan daripada backpack anda (terhad pasukan). Telefon ialah permukaan aplikasi topbar universal.
+- **MyPay memerlukan penerima menerima** — jangan cuba memaksa bayaran kepada seseorang. Mereka mesti dalam talian.
+- **999 pergi kepada pemain sebenar** (pegawai bertugas), bukan NPC. Bersabarlah.
+- **CAG eWallet pada telefon adalah baca sahaja** — untuk membeli / tambah nilai / tukar pas anda mesti melawat kiosk. Telefon hanya menunjukkan maklumat anda.
 
-## See also
+## Lihat juga
 
-- [Tablet](/bandaraya/tablet) — team-gated tool with different apps (MDT, MyEmergency, etc.)
-- [Getting Around](/bandaraya/getting-around) — CAG eWallet (on the phone)
-- [Jobs](/bandaraya/jobs) — e-hailing books bookings for Taxi Driver roles
-- [Economy](/bandaraya/economy) — BR currency (MyPay transfers)
-- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty PDRM/BOMBA/KKM
+- [Tablet](/bandaraya/tablet) — alat terhad pasukan dengan aplikasi berbeza (MDT, MyEmergency, dan lain-lain)
+- [Pergerakan](/bandaraya/getting-around) — CAG eWallet (pada telefon)
+- [Pekerjaan](/bandaraya/jobs) — e-hailing menempah tempahan untuk peranan Pemandu Teksi
+- [Ekonomi](/bandaraya/economy) — mata wang BR (pemindahan MyPay)
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — panggilan 999 pergi kepada PDRM/BOMBA/KKM bertugas

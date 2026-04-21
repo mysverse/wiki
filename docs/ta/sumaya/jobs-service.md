@@ -1,75 +1,74 @@
 ---
-title: Service Sector (Mamak and Fast Food)
-description: Mamak and fast-food service careers in Sumaya.
+title: சேவைத் துறை (Mamak & துரித உணவு)
+description: Sumaya-வில் mamak மற்றும் துரித உணவு சேவைத் தொழில்கள்.
 lang: ta
 translated_from_hash: 72d00afe
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# சேவைத் துறை (Mamak & துரித உணவு)
 
-# Service Sector (Mamak and Fast Food)
+சேவைத் துறை Sumaya-வின் வாடிக்கையாளர் முகம் கொண்ட இரண்டு உணவு வேலைகளை உள்ளடக்கியது: **Mamak** (உன்னதமான மலேசிய இந்திய முஸ்லிம் உணவகம்) மற்றும் **துரித உணவு** (பர்கர் பாணியிலான விரைவு சேவை உணவகம்). இரண்டுமே வேகமான, ஆர்டர் எடுக்கும் வேலைகள், மேலும் இரண்டுமே ஒரே துறை XP மற்றும் தரவரிசை ஏணியைப் பகிர்ந்து கொள்கின்றன.
 
-The service sector covers Sumaya's two customer-facing food jobs: **Mamak** (the classic Malaysian Indian-Muslim eatery) and **Fast Food** (a burger-style quick-service restaurant). Both are fast-paced, order-taking jobs, and both share the same sector XP and rank ladder.
+## திறப்புத் தேவை
 
-## Unlock requirement
+மற்றொரு பொதுமக்கள் துறையில் (மீன்பிடித்தல் அல்லது பாமாயில்) **நீங்கள் நிலை 50-ஐ அடைந்தவுடன்** சேவைத் துறை திறக்கப்படுகிறது. இது "நடு-ஆட்ட" தொழில் விருப்பம். அதற்கு முன் நீங்கள் வாடிக்கையாளராக கடைகளுக்கு இன்னும் செல்லலாம் - அங்கு வேலை மட்டுமே செய்ய முடியாது.
 
-The service sector is unlocked **once you reach level 50 in another civilian sector** (fishing or palm oil). It's the "mid-game" career option. You can still visit the stalls as a customer before then - you just can't work there.
+## தொடங்குதல்
 
-## Getting started
+1. [மீன்பிடித்தலில்](/sumaya/jobs-fishing) அல்லது [பாமாயிலில்](/sumaya/jobs-palm-oil) துறை நிலை 50-ஐ அடையுங்கள்.
+2. உங்கள் போனில் **Careers** பயன்பாட்டைத் திறக்கவும்.
+3. **Service Sector**-ஐத் தேர்ந்தெடுக்கவும்.
+4. ஒரு Mamak கடை அல்லது துரித உணவு கவுண்டரை நோக்கி நடக்கவும் (Careers பயன்பாடு உங்களை அங்கு வழிகாட்டும்).
+5. **clock in** தூண்டுதலை அழுத்தவும்.
 
-1. Reach sector level 50 in [fishing](/sumaya/jobs-fishing) or [palm oil](/sumaya/jobs-palm-oil).
-2. Open the **Careers** app on your phone.
-3. Pick **Service Sector**.
-4. Walk up to a Mamak stall or Fast Food counter (the Careers app will point you there).
-5. Press the **clock in** prompt.
+## ஆர்டர்கள் எப்படி செயல்படுகின்றன
 
-## How orders work
+நீங்கள் பணியில் இருக்கும்போது:
 
-Once you're on shift:
+- வாடிக்கையாளர்கள் (NPC-கள்) அருகில் வந்து ஆர்டர் செய்கிறார்கள்.
+- அவர்கள் என்ன விரும்புகிறார்கள் என்பதை HUD காட்டுகிறது.
+- உருப்படியை தயார் செய்ய தயாரிப்பு பகுதிக்கு (ஃப்ரீசர், கவுண்டர், பானங்கள் இயந்திரம் போன்றவை) செல்லுங்கள்.
+- முடிக்கப்பட்ட ஆர்டரை வாடிக்கையாளரிடம் திரும்பக் கொண்டு வாருங்கள்.
 
-- Customers (NPCs) walk up and place an order.
-- The HUD shows you what they want.
-- Go to the prep area (freezer, counter, drinks machine, etc.) to assemble the item.
-- Bring the finished order back to the customer.
+வேகம் நிலையானது - வாடிக்கையாளர்கள் தொடர்ந்து வருகிறார்கள், மற்றும் முடிக்கப்பட்ட ஒவ்வொரு ஆர்டரும் XP மற்றும் Ringgit-ஐ செலுத்துகிறது.
 
-The pace is steady - customers arrive regularly, and each completed order pays XP and Ringgit.
+## சம்பளம்
 
-## Payout
+நீங்கள் clock out செய்யும்போது அல்லது வாடிக்கையாளர்களை முடிக்கும்போது, கட்டணம் "Mamak Sdn. Bhd." அல்லது அதற்குரிய துரித உணவு சம்பளச் சீட்டின் கீழ் உங்கள் **வங்கி கணக்கில்** (பணப்பையில் அல்ல) செல்கிறது.
 
-Payments go into your **bank account** (not wallet) under "Mamak Sdn. Bhd." or the equivalent Fast Food paycheck when you clock out or complete customers.
-
-| Venue | Per customer | Bonus (every 10 customers) | Wrong-order penalty |
-|-------|--------------|----------------------------|---------------------|
+| இடம் | ஒரு வாடிக்கையாளருக்கு | போனஸ் (ஒவ்வொரு 10 வாடிக்கையாளர்களுக்கு) | தவறான ஆர்டர் அபராதம் |
+|------|----------------------|-----------------------------------------|----------------------|
 | Mamak | 30 Ringgit | +180 Ringgit | -25 Ringgit |
-| Fast Food | 25 Ringgit | +150 Ringgit | -20 Ringgit |
+| துரித உணவு | 25 Ringgit | +150 Ringgit | -20 Ringgit |
 
-Mamak pays slightly better per customer, but both venues are roughly equivalent over a shift since customer flow tends to be similar. If your final total ever goes below zero (too many penalties), it's floored at 0 - you won't actually owe the game money.
+Mamak ஒரு வாடிக்கையாளருக்கு சற்று சிறந்த சம்பளம் தருகிறது, ஆனால் வாடிக்கையாளர் ஓட்டம் ஒரே மாதிரி இருப்பதால் ஒரு ஷிஃப்ட்டின் போது இரு இடங்களும் ஏறக்குறைய சமமானவை. உங்கள் இறுதி மொத்தம் பூஜ்ஜியத்திற்கு கீழே சென்றால் (அதிகப்படியான அபராதங்கள்), அது 0 என தள்ளுபடி செய்யப்படுகிறது - நீங்கள் உண்மையில் விளையாட்டிற்கு பணம் கடன்பட்டிருக்க மாட்டீர்கள்.
 
-Action XP scales with your **sector level** (base ~5 XP per task at level 1, growing via a 1.1x per-level multiplier - so late-game service workers earn several times more XP per customer than starters).
+செயல் XP உங்கள் **துறை நிலையுடன்** அளவிடுகிறது (நிலை 1-இல் ஒரு பணிக்கு அடிப்படை ~5 XP, ஒவ்வொரு நிலைக்கும் 1.1x பெருக்கியின் மூலம் வளர்கிறது - எனவே பிற்பகுதி-ஆட்ட சேவை ஊழியர்கள் ஆரம்பநிலையாளர்களைவிட ஒரு வாடிக்கையாளருக்கு பல மடங்கு அதிக XP சம்பாதிக்கிறார்கள்).
 
-Tips:
+குறிப்புகள்:
 
-- **Fast Food vs Mamak**: mechanically similar - pick whichever is closer or has better decor to your taste, or Mamak for slightly better pay per customer.
-- **Read orders carefully.** Wrong-order penalties subtract from your paycheck - repeat failures can wipe out the per-customer pay.
-- **Bonus at every 10 served**: aim for multiples of 10 before clocking out.
+- **துரித உணவு vs Mamak**: இயந்திரவியல் ரீதியாக ஒரே மாதிரி - எது நெருக்கமாக உள்ளதோ அல்லது உங்கள் ரசனைக்கு சிறந்த அலங்காரம் கொண்டதை தேர்ந்தெடுக்கவும், அல்லது ஒரு வாடிக்கையாளருக்கு சற்று சிறந்த சம்பளத்திற்கு Mamak.
+- **ஆர்டர்களைக் கவனமாக வாசிக்கவும்.** தவறான ஆர்டர் அபராதங்கள் உங்கள் சம்பளத்தில் இருந்து கழிக்கப்படுகின்றன - மீண்டும் மீண்டும் தோல்விகள் ஒரு வாடிக்கையாளருக்கான சம்பளத்தை அழித்துவிடக்கூடும்.
+- **ஒவ்வொரு 10 பேருக்கு சேவை செய்ததற்கும் போனஸ்**: clock out செய்யும் முன் 10-இன் பெருக்கங்களை இலக்காக வைக்கவும்.
 
-## Leveling up
+## நிலை உயர்த்துதல்
 
-The service sector goes up to **level 100**, same as the other civilian sectors. The per-level XP multiplier means later levels progress more per task than early levels.
+சேவைத் துறை மற்ற பொதுமக்கள் துறைகளைப் போலவே **நிலை 100** வரை செல்கிறது. ஒவ்வொரு நிலைக்குமான XP பெருக்கி என்பது பிற்பகுதி நிலைகள் ஆரம்ப நிலைகளைவிட ஒரு பணிக்கு அதிக முன்னேற்றம் அடைகின்றன என்பதாகும்.
 
-## Clocking out
+## Clock out
 
-Open the Careers app and stop your shift. Earnings accumulate as you go, so you don't lose progress by clocking out mid-shift - you've already been paid.
+Careers பயன்பாட்டைத் திறந்து உங்கள் ஷிஃப்ட்டை நிறுத்தவும். நீங்கள் செல்லும்போது சம்பாத்தியம் சேர்ந்து கொண்டே வருகிறது, எனவே ஷிஃப்ட்-இன் நடுவில் clock out செய்வதால் முன்னேற்றத்தை இழக்க மாட்டீர்கள் - உங்களுக்கு ஏற்கனவே பணம் செலுத்தப்பட்டிருக்கும்.
 
-## Tips
+## குறிப்புகள்
 
-- **Multiple players can work the same venue.** If a friend is also a service worker, you both earn independently for the orders you handle.
-- **Don't leave a customer waiting too long.** If an NPC waits past a certain threshold, they might walk off - no payout.
-- **Watch the prep area.** Some ingredients regenerate slowly; if the freezer is empty, the next order might stall briefly.
-- **Learn the venue layout.** The difference between a fast shift and a slow one is whether you know where every item lives.
+- **பல வீரர்கள் ஒரே இடத்தில் வேலை செய்யலாம்.** ஒரு நண்பரும் சேவை ஊழியராக இருந்தால், நீங்கள் கையாளும் ஆர்டர்களுக்கு இருவரும் தனித்தனியாக சம்பாதிக்கிறீர்கள்.
+- **ஒரு வாடிக்கையாளரை அதிக நேரம் காத்திருக்க விடாதீர்கள்.** ஒரு NPC குறிப்பிட்ட வரம்பைத் தாண்டி காத்திருந்தால், அவர்கள் வெளியேறிவிடக்கூடும் - சம்பளம் இல்லை.
+- **தயாரிப்பு பகுதியை கவனிக்கவும்.** சில பொருட்கள் மெதுவாக மீள்கின்றன; ஃப்ரீசர் காலியாக இருந்தால், அடுத்த ஆர்டர் சிறிது நேரம் தாமதிக்கக்கூடும்.
+- **இடத்தின் அமைப்பைக் கற்றுக்கொள்ளுங்கள்.** வேகமான ஷிஃப்ட்டுக்கும் மெதுவான ஷிஃப்ட்டுக்கும் இடையேயான வேறுபாடு, ஒவ்வொரு உருப்படியும் எங்கே உள்ளது என்பதை நீங்கள் அறிவீர்களா என்பதுதான்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Fishing](/sumaya/jobs-fishing) if you want a calmer alternative.
-- [Palm oil](/sumaya/jobs-palm-oil) for higher-single-action payouts.
-- [Progression](/sumaya/progression) for how sector level affects your rewards.
+- அமைதியான மாற்று வழியை விரும்பினால் [மீன்பிடித்தல்](/sumaya/jobs-fishing).
+- உயர்-ஒற்றை-செயல் சம்பளத்திற்கு [பாமாயில்](/sumaya/jobs-palm-oil).
+- துறை நிலை உங்கள் வெகுமதிகளை எவ்வாறு பாதிக்கிறது என்பதற்கு [முன்னேற்றம்](/sumaya/progression).

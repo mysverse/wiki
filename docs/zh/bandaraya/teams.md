@@ -1,15 +1,12 @@
 ---
-title: Teams
-description: >-
-  Complete guide to every team in Bandaraya — emergency services, military,
-  transport, civilian, government, and more.
+title: 队伍
+description: Bandaraya 所有队伍的完整指南 — 紧急服务、军事、交通、平民、政府等。
 lang: zh
 translated_from_hash: 9333a74c
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Bandaraya 中的队伍
+# 队伍
 
 Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体验、车辆、工具和职责。队伍可通过主菜单访问，可能需要加入 Roblox 群组、购买 gamepass 或获得特殊权限。
 

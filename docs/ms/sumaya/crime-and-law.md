@@ -1,204 +1,203 @@
 ---
-title: Crime and Law
-description: 'Carjacking, pickpocketing, wanted stars, and jail in Sumaya.'
+title: Jenayah & Undang-Undang
+description: 'Rompakan kereta, mencopet, bintang dicari, dan penjara di Sumaya.'
 lang: ms
-translated_from_hash: 878338d5
+translated_from_hash: 13412ce8
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Jenayah & Undang-Undang
 
-# Crime and Law
+Sumaya membenarkan anda bermain sebagai penjenayah jika anda mahu. Halaman ini merangkumi tiga jenayah utama yang tersedia untuk pemain, cara sistem kesalahan dan bintang dicari berfungsi, dan apa yang berlaku jika anda ditangkap.
 
-Sumaya lets you play the criminal side if you want. This page covers the three main crimes available to players, how the offence and wanted-star system works, and what happens if you get caught.
+**Perhatian:** Permainan ini disambungkan untuk menurunkan pangkat secara automatik pemain perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan) apabila mereka melakukan jenayah, tetapi pendengar bagi acara penurunan pangkat tersebut tidak disambungkan pada binaan langsung sekarang. Dalam praktiknya, seorang polis atau anggota bomba yang merompak kereta seseorang kekal dalam pasukannya - penurunan pangkat automatik sebenarnya tidak memecat anda. Walaupun begitu, pegawai yang sedang bertugas yang memegang alat jenayah akan keluar dari mod pasif secara automatik, dan pasukan Polis masih tidak boleh menggunakan pasif langsung, jadi melakukan jenayah semasa bertugas adalah tidak praktikal dan tidak sesuai untuk roleplay. Tukar ke Visitors atau Malaysians dahulu jika anda mahu menjadi penjenayah.
 
-**Important:** If you're on an emergency-service team (POLIS, BOMBA, Kesihatan), committing a crime **auto-demotes you** off the team the moment you cross into 1-star wanted. Switch to Visitors or Malaysians first if you want to be a criminal.
+## Sistem kesalahan
 
-## The offence system
+Setiap jenayah yang anda lakukan menambah **mata kesalahan**. Lebih banyak mata, lebih banyak **bintang dicari** yang anda dapat, yang mempengaruhi bagaimana polis bertindak balas kepada anda dan berapa lama anda akan duduk di penjara jika ditangkap.
 
-Every crime you commit adds **offence points**. The more points, the more **wanted stars** you get, which affects how police respond to you and how long you'll sit in jail if arrested.
+### Ambang bintang dicari
 
-### Wanted star thresholds
-
-| Offence points | Wanted stars |
+| Mata kesalahan | Bintang dicari |
 |----------------|--------------|
-| 0-9 | None |
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| 0-9 | Tiada |
+| 10-24 | 1 bintang |
+| 25-49 | 2 bintang |
+| 50-79 | 3 bintang |
+| 80-119 | 4 bintang |
+| 120+ | 5 bintang |
 
-### Wanted decay
+### Pereputan status dicari
 
-If you manage to lay low (no new offences) for **5 minutes straight**, your wanted status fully resets. A short decay timer means committing one big crime and hiding can be enough to avoid a chase.
+Jika anda berjaya bersembunyi (tiada kesalahan baharu) selama **5 minit berturut-turut**, status dicari anda akan ditetapkan semula sepenuhnya. Pemasa pereputan yang pendek bermakna melakukan satu jenayah besar dan bersembunyi boleh mencukupi untuk mengelak daripada dikejar.
 
-## Crimes you can commit
+## Jenayah yang boleh anda lakukan
 
-### Carjacking
+### Merompak kereta
 
-Steal someone else's parked vehicle.
+Curi kenderaan letak orang lain.
 
-**What you need:**
-- A **Slim Jim** tool (free from the **Abang Samseng (Carjack)** NPC - find him on the map and hold the proximity prompt). The Slim Jim is **consumed** on use, so you'll need to go back for another one per carjack.
-- You can't be on a law-enforcement team.
-- You can't be in passive mode, arrested, or detained.
+**Apa yang anda perlukan:**
+- Alat **Slim Jim** (percuma daripada NPC **Abang Samseng (Carjack)** - cari dia di peta dan tekan dan tahan gesaan jarak dekat). Slim Jim akan **habis digunakan** selepas diguna, jadi anda perlu kembali untuk mengambil satu lagi bagi setiap rompakan kereta.
+- Anda tidak boleh berada dalam pasukan penguatkuasa undang-undang.
+- Anda tidak boleh berada dalam mod pasif, ditangkap, atau ditahan.
 
-**How it works:**
-1. Approach a parked, unoccupied vehicle with the Slim Jim equipped.
-2. Hold F (or the mobile equivalent) for **3 seconds** within 15 studs of the driver's seat.
-3. The vehicle is now stolen - yours to drive.
-4. A **drop-off zone** is assigned to you randomly (shown on the minimap).
-5. Drive the stolen vehicle to the drop-off zone to sell it.
+**Cara ia berfungsi:**
+1. Dekati kenderaan yang diletakkan dan tidak berpenghuni dengan Slim Jim dilengkapkan.
+2. Tekan dan tahan F (atau setara mudah alih) selama **3 saat** dalam lingkungan 15 stud dari tempat duduk pemandu.
+3. Kenderaan itu kini dicuri - milik anda untuk dipandu.
+4. Satu **zon penghantaran** akan ditetapkan kepada anda secara rawak (ditunjukkan pada peta mini).
+5. Pandu kenderaan curi itu ke zon penghantaran untuk menjualnya.
 
-**Reward:** **500 to 1,200 Ringgit** (random, paid to your bank account).
+**Ganjaran:** **500 hingga 1,200 Ringgit** (rawak, dibayar ke akaun bank anda).
 
-**Limits:**
-- Stolen vehicles auto-despawn after **5 minutes**. You'll get warnings at 60 seconds and 10 seconds remaining.
-- You can only have **one stolen vehicle at a time**.
-- After carjacking once, you're on a **5-minute personal cooldown** before you can carjack again.
-- The Slim Jim is **consumed** on use - you'll need a new one for the next carjack.
-- You can't steal your own vehicle (the system knows who owns it via the plate).
+**Had:**
+- Kenderaan curi akan hilang secara automatik selepas **5 minit**. Anda akan menerima amaran pada 60 saat dan 10 saat yang berbaki.
+- Anda hanya boleh mempunyai **satu kenderaan curi pada satu masa**.
+- Selepas merompak kereta sekali, anda akan berada dalam **tempoh sejuk peribadi 5 minit** sebelum anda boleh merompak kereta lagi.
+- Slim Jim akan **habis digunakan** selepas diguna - anda perlu mendapat yang baharu untuk rompakan kereta seterusnya.
+- Anda tidak boleh mencuri kenderaan anda sendiri (sistem tahu siapa pemiliknya melalui plat).
 
-**Offence:** +25 points (will hit 2 stars if you had nothing else going).
+**Kesalahan:** +25 mata (akan mencapai 2 bintang jika anda tiada apa-apa lain sebelumnya).
 
-### Pickpocketing
+### Mencopet
 
-Steal Ringgit directly from another player's wallet.
+Curi Ringgit terus dari dompet pemain lain.
 
-**What you need:**
-- A **Pickpocket Knife** tool (free from the **Abang Samseng (Pickpocket)** NPC - hold the proximity prompt to "Take Pickpocket Knife", ~1.5 seconds).
+**Apa yang anda perlukan:**
+- Alat **Pickpocket Knife** (percuma daripada NPC **Abang Samseng (Pickpocket)** - tekan dan tahan gesaan jarak dekat untuk "Take Pickpocket Knife", ~1.5 saat).
 
-**How it works:**
-1. Equip the **Pickpocket Knife** tool.
-2. Get within **8 studs** of your target.
-3. Hold the action for **2 seconds** without being spotted.
-4. A random amount of Ringgit is transferred from their wallet to yours.
+**Cara ia berfungsi:**
+1. Lengkapkan alat **Pickpocket Knife**.
+2. Berada dalam lingkungan **8 stud** daripada sasaran anda.
+3. Tekan dan tahan tindakan selama **2 saat** tanpa dikesan.
+4. Jumlah Ringgit rawak akan dipindahkan dari dompet mereka ke dompet anda.
 
-**Reward:** **80 to 300 Ringgit** (random amount, from the victim's wallet).
+**Ganjaran:** **80 hingga 300 Ringgit** (jumlah rawak, dari dompet mangsa).
 
-**Limits:**
-- Once you pickpocket someone, there's a **30-second cooldown** before you can pickpocket again.
-- The victim has a **60-second cooldown** where they can't be pickpocketed again.
-- There's a **180-second recovery window** where the victim may be able to report / reclaim.
+**Had:**
+- Sebaik sahaja anda mencopet seseorang, terdapat **tempoh sejuk 30 saat** sebelum anda boleh mencopet lagi.
+- Mangsa mempunyai **tempoh sejuk 60 saat** di mana mereka tidak boleh dicopet lagi.
+- Terdapat **tetingkap pemulihan 180 saat** di mana mangsa mungkin boleh melaporkan / menuntut kembali.
 
-**Offence:** +20 points.
+**Kesalahan:** +20 mata.
 
-#### NPC pickpocketing
+#### Mencopet NPC
 
-You can also pickpocket **civilian NPCs** that walk around the map:
+Anda juga boleh mencopet **NPC awam** yang berjalan di sekitar peta:
 
-- Up to 5 NPCs are out at a time.
-- Each carries between 50 and 200 Ringgit.
-- NPCs respawn 2 minutes after they're pickpocketed.
+- Sehingga 5 NPC akan keluar pada satu masa.
+- Setiap satu membawa antara 50 dan 200 Ringgit.
+- NPC akan muncul semula 2 minit selepas dicopet.
 
-NPC pickpocketing also costs offence points, but NPCs can't chase or report you, so it's a lower-risk way to farm.
+Mencopet NPC juga menambah mata kesalahan, tetapi NPC tidak boleh mengejar atau melaporkan anda, jadi ia adalah cara berisiko rendah untuk mengumpul wang.
 
-### Animal trafficking
+### Pemerdagangan haiwan
 
-Smuggle illegal wildlife across Sumaya for a cash payout.
+Selundupkan hidupan liar haram melintasi Sumaya untuk pembayaran tunai.
 
-**How it works:**
-1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 5 minutes - look for the highlighted spawn).
-2. Accept the job through the prompt.
-3. An illegal animal tool is given to you.
-4. You're told the **destination** (a specific drop-off part).
-5. Transport the animal to the destination to get paid.
+**Cara ia berfungsi:**
+1. Cari **NPC penjenayah** yang berdiri di "criminal part" (berpusing di sekitar peta setiap 5 minit - cari titik kemunculan yang diserlahkan).
+2. Terima kerja melalui gesaan.
+3. Alat haiwan haram akan diberikan kepada anda.
+4. Anda akan diberitahu **destinasi** (bahagian penghantaran tertentu).
+5. Angkut haiwan itu ke destinasi untuk dibayar.
 
-**Animals available:**
+**Haiwan yang tersedia:**
 
-| Animal | Payout (to bank) |
+| Haiwan | Bayaran (ke bank) |
 |--------|------------------|
 | Illegal Turtle Egg | 400 Ringgit |
 | Illegal Pangolin | 1,000 Ringgit |
 | Illegal Hornbill | 2,000 Ringgit |
 
-The animal you get is random.
+Haiwan yang anda dapat adalah rawak.
 
-**Limits:**
-- 5-minute cooldown between jobs.
-- You need to get the animal to the destination - can't drop it or get arrested mid-way.
+**Had:**
+- Tempoh sejuk 5 minit antara kerja.
+- Anda perlu membawa haiwan itu ke destinasi - tidak boleh menjatuhkannya atau ditangkap di tengah jalan.
 
-**Offence:** +50 points - that's 1 star in a single action. Keep committing more and you'll ramp fast.
+**Kesalahan:** +50 mata - iaitu 1 bintang dalam satu tindakan sahaja. Terus melakukan lebih banyak dan anda akan meningkat dengan cepat.
 
-### Other offences
+### Kesalahan lain
 
-A few other actions add offence points even if they're not really "crime sprees":
+Beberapa tindakan lain menambah mata kesalahan walaupun ia bukan "rentetan jenayah":
 
-| Offence | Points | Passive lock |
+| Kesalahan | Mata | Kunci pasif |
 |---------|--------|--------------|
-| Vehicle crash (hitting another player or parked car) | 5 | 30 seconds |
-| Speeding inside a speed trap zone | 10 | 60 seconds |
+| Langgar kenderaan (melanggar pemain lain atau kereta yang diletakkan) | 5 | 30 saat |
+| Memandu laju dalam zon perangkap kelajuan | 10 | 60 saat |
 
-"Passive lock" means your passive-mode toggle is disabled for a period after the offence - so you can't instantly go invulnerable.
+"Kunci pasif" bermaksud togol mod pasif anda dilumpuhkan untuk satu tempoh selepas kesalahan - jadi anda tidak boleh menjadi tidak boleh cedera serta-merta.
 
-## Exemptions
+## Pengecualian
 
-You **can't be cited** for speeding or crashes if:
+Anda **tidak boleh disaman** untuk memandu laju atau langgar kenderaan jika:
 
-- You're in an **emergency vehicle** (Polis, Bomba, Kesihatan) with the **siren active**. This is how on-duty responders avoid penalty on their way to a call.
-- You're currently in **passive mode** when you crash. Passive drivers don't accumulate crash offence points. (You'll still take injury damage if the injury system is on, though — passive protects from PvP and offence tickets, not crash physics.)
+- Anda berada dalam **kenderaan kecemasan** (Polis, Bomba, Kesihatan) dengan **siren aktif**. Inilah cara responden yang sedang bertugas mengelak penalti semasa mereka menuju ke panggilan.
+- Anda sedang berada dalam **mod pasif** apabila anda langgar. Pemandu pasif tidak mengumpul mata kesalahan langgar. (Anda masih akan mengalami kerosakan kecederaan jika sistem kecederaan dihidupkan, walaupun — pasif melindungi daripada PvP dan tiket kesalahan, bukan fizik langgar.)
 
-Outside of that, everyone is fair game.
+Di luar itu, semua orang adalah sasaran yang sah.
 
-## Getting arrested
+## Ditangkap
 
-If a POLIS player successfully uses handcuffs on you while you're wanted, you're **arrested** and sent to jail.
+Jika seorang pemain POLIS berjaya menggunakan gari pada anda semasa anda dicari, anda **ditangkap** dan dihantar ke penjara.
 
-### Jail duration
+### Tempoh penjara
 
-| Wanted stars at arrest | Jail time |
+| Bintang dicari semasa ditangkap | Masa penjara |
 |------------------------|-----------|
-| 1 | 30 seconds |
-| 2 | 1 minute |
-| 3 | 2 minutes |
-| 4 | 3 minutes |
-| 5 | 5 minutes |
+| 1 | 30 saat |
+| 2 | 1 minit |
+| 3 | 2 minit |
+| 4 | 3 minit |
+| 5 | 5 minit |
 
-### While in jail
+### Semasa di penjara
 
-- A jail HUD shows your remaining time.
-- You can't switch teams.
-- When the timer ends, you're released and your offences reset.
+- HUD penjara menunjukkan masa anda yang berbaki.
+- Anda tidak boleh menukar pasukan.
+- Apabila pemasa tamat, anda akan dibebaskan dan kesalahan anda akan ditetapkan semula.
 
-### Surrendering
+### Menyerah diri
 
-Instead of running from the cops, you can walk up to a **surrender prompt** (usually near police stations or public locations) and turn yourself in. This cuts your jail time roughly in half:
+Daripada lari daripada polis, anda boleh berjalan ke **gesaan menyerah** (biasanya berhampiran balai polis atau lokasi awam) dan menyerahkan diri. Ini mengurangkan masa penjara anda kira-kira separuh:
 
-| Stars | Jail time if surrendered | Passive lock after release |
+| Bintang | Masa penjara jika menyerah | Kunci pasif selepas pembebasan |
 |-------|---------------------------|----------------------------|
-| 1 | 15 seconds | 1 minute |
-| 2 | 30 seconds | 2 minutes |
-| 3 | 1 minute | 4 minutes |
-| 4 | 90 seconds | 6 minutes |
-| 5 | 150 seconds | 10 minutes |
+| 1 | 15 saat | 1 minit |
+| 2 | 30 saat | 2 minit |
+| 3 | 1 minit | 4 minit |
+| 4 | 90 saat | 6 minit |
+| 5 | 150 saat | 10 minit |
 
-Passive lock means you can't toggle passive mode for that duration after release - so the cops still have a window to catch you if you restart.
+Kunci pasif bermaksud anda tidak boleh togol mod pasif untuk tempoh tersebut selepas pembebasan - jadi polis masih mempunyai tetingkap untuk menangkap anda jika anda mula semula.
 
-### Leaving mid-offence
+### Keluar di tengah-tengah kesalahan
 
-If you log out while wanted, you'll serve **more** jail time on your next session:
+Jika anda log keluar semasa dicari, anda akan menjalani masa penjara **lebih lama** pada sesi anda yang seterusnya:
 
-| Stars | LTAA jail time |
+| Bintang | Masa penjara LTAA |
 |-------|----------------|
-| 1 | 45 seconds |
-| 2 | 90 seconds |
-| 3 | 150 seconds |
-| 4 | 4 minutes |
-| 5 | 6 minutes |
+| 1 | 45 saat |
+| 2 | 90 saat |
+| 3 | 150 saat |
+| 4 | 4 minit |
+| 5 | 6 minit |
 
-(LTAA = "Leave To Avoid Arrest".) Quitting doesn't save you.
+(LTAA = "Leave To Avoid Arrest".) Keluar tidak menyelamatkan anda.
 
-## Tips
+## Petua
 
-- **Plan your routes.** Before you carjack, check where the drop-off zone is - if it's on the other side of town and you can't get there in 5 minutes, you've lost the car.
-- **Don't commit crimes in passive mode.** You can't carjack, pickpocket, or traffic while in passive mode - the system blocks it.
-- **Watch offence points vs stars.** At 25 points you're a 2-star target; police reward for arresting you just doubled. Time to lay low and let decay kick in.
-- **Pickpocket NPCs for safe grinding.** Lower risk than player pickpocket, similar reward. Good for grinding offence-tracking achievements if any.
-- **Animal trafficking is 50 points per run.** One run = 1 star minimum. Two runs without decay = 3 stars. Don't get greedy.
-- **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimizes downtime.
+- **Rancang laluan anda.** Sebelum anda merompak kereta, periksa di mana zon penghantaran - jika ia di seberang bandar dan anda tidak boleh sampai ke sana dalam 5 minit, anda telah kehilangan kereta.
+- **Jangan lakukan jenayah dalam mod pasif.** Anda tidak boleh merompak kereta, mencopet, atau menyeludup semasa dalam mod pasif - sistem menghalangnya.
+- **Perhatikan mata kesalahan vs bintang.** Pada 25 mata anda adalah sasaran 2 bintang; ganjaran polis untuk menangkap anda baru sahaja berganda. Masa untuk bersembunyi dan biarkan pereputan bermula.
+- **Copet NPC untuk mengumpul wang dengan selamat.** Risiko lebih rendah daripada mencopet pemain, ganjaran serupa. Bagus untuk mengumpul pencapaian penjejakan kesalahan jika ada.
+- **Pemerdagangan haiwan ialah 50 mata setiap larian.** Satu larian = 1 bintang minimum. Dua larian tanpa pereputan = 3 bintang. Jangan tamak.
+- **Menyerah sebelum 5 bintang.** Jika anda sudah menyimpan wang Hornbill di bank, menyerah mengekalkan kesalahan anda bersih dan meminimumkan masa tidak aktif.
 
-## What next?
+## Apa seterusnya?
 
-- [Polis](/sumaya/polis) to see the other side.
-- [Phone and UI](/sumaya/phone) for the Passive Mode toggle and the MDT app.
-- [Vehicles](/sumaya/vehicles) for what you can steal (anyone's parked ride that isn't yours).
+- [Polis](/sumaya/polis) untuk melihat sisi yang satu lagi.
+- [Phone and UI](/sumaya/phone) untuk togol Mod Pasif dan aplikasi MDT.
+- [Vehicles](/sumaya/vehicles) untuk apa yang anda boleh curi (tunggangan letak sesiapa sahaja yang bukan milik anda).

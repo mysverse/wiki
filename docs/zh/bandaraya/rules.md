@@ -1,151 +1,150 @@
 ---
-title: Rules
-description: 'What behaviour gets you banned in Bandaraya, and how appeals work.'
+title: 规则
+description: Bandaraya 中可能导致封禁的行为，以及申诉的方式。
 lang: zh
 translated_from_hash: 521a0951
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# 规则
 
-# Rules
+Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守。否则你会被封禁。
 
-Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
-
-The canonical rule text lives in the game (`infoModules.GameRules`). This page is a player-friendly summary.
+官方规则文本在游戏内（`infoModules.GameRules`）。本页是方便玩家阅读的摘要。
 
 ## TL;DR
 
-- Don't exploit, glitch, or hack. Instant ban.
-- Don't go rogue on a public-services team. Instant ban.
-- Don't LTAA (leave to avoid arrest) or RTAA (reset to avoid arrest).
-- Stay in character. Respect roleplay.
-- Don't harass people, spawn-kill civilians, or violate Roblox TOS.
+- 不要 exploit、glitch 或 hack。立即封禁。
+- 不要在公共服务队伍中 rogue 叛变。立即封禁。
+- 不要 LTAA（离开以逃避逮捕）或 RTAA（重置以逃避逮捕）。
+- 保持角色扮演状态。尊重 roleplay。
+- 不要骚扰他人、spawn-kill 平民，或违反 Roblox TOS。
 
 ---
 
-## General violations
+## 一般违规
 
-You can be **server-banned** for any of the following:
+以下任何一项都可能使你被 **server 封禁**：
 
-### 1. Spam the chat
+### 1. 聊天刷屏
 
-Filling chat with repeated or meaningless text. Don't.
+在聊天中重复发送或发送无意义的文字。不要这样做。
 
 ### 2. LTAA — Leave To Avoid Arrest
 
-Disconnecting while detained or being arrested. The game auto-applies a 3-minute arrest when you rejoin, and LTAA is still treated as a rule violation on top. See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
+在被拘留或逮捕过程中断开连接。你重新加入时游戏会自动施加 3 分钟逮捕，而 LTAA 本身仍会被视为额外的违规行为。参见 [逮捕与法律](/bandaraya/arrest-and-law#ltaa)。
 
 ### 3. RTAA — Reset To Avoid Arrest
 
-Using the reset button to escape. The game now disables reset at 75 HP or below to stop this. Attempts still count. See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+使用重置按钮逃脱。游戏现在会在 75 HP 或以下时禁用重置，以阻止此类行为。任何尝试仍会被计算。参见 [逮捕与法律](/bandaraya/arrest-and-law#rtaa)。
 
-### 4. Glitch abuse
+### 4. 滥用 glitch
 
-- Glitching through walls or restricted areas
-- Glitching any vehicle (making it behave unnaturally to gain advantage)
-- Glitching or abusing tools whilst detained, injured, or being arrested
-- Any other glitches as determined by a moderator or administrator
+- 穿墙或进入限制区域的 glitch
+- 对任何车辆使用 glitch（使其表现异常以获得优势）
+- 在被拘留、受伤或正被逮捕时使用 glitch 或滥用工具
+- 由 moderator 或管理员判定的任何其他 glitch
 
-### 5. Trolling / harassment
+### 5. 恶作剧 / 骚扰
 
-- Following and continuously harassing a person
-- Intentionally glitching or breaking another player's vehicle
-- Any other harassment as determined by a moderator or administrator
+- 跟踪并持续骚扰某人
+- 故意对其他玩家的车辆使用 glitch 或将其破坏
+- 由 moderator 或管理员判定的任何其他骚扰
 
 ### 6. Spawn-kill
 
-Applies only to civilians. Killing people as they spawn is banable.
+仅适用于平民。在玩家 spawn 时杀害他们会被封禁。
 
-### 7. Abuse job-related teams
+### 7. 滥用职业相关队伍
 
-Using transport, postal, tow, or other job teams to commit criminal or terrorist activities.
+利用交通、邮政、拖车或其他职业队伍从事犯罪或恐怖活动。
 
-### 8. Interrupting roleplay or admin scenarios
+### 8. 打断 roleplay 或管理员场景
 
-Don't walk into someone's arrest scene and start screaming. Don't interrupt a mod scene.
+不要闯入他人的逮捕场景大声喊叫。不要打断 mod 场景。
 
-### 9. Harass administrators
+### 9. 骚扰管理员
 
-Don't abuse or harass a mod while they're moderating.
+不要在 mod 进行管理时对其进行辱骂或骚扰。
 
 ---
 
-## Severe violations
+## 严重违规
 
-You can be **banned for an extended period or permanently** for any of these:
+以下任何一项都可能使你被 **长期或永久封禁**：
 
-### 1. Using exploits
+### 1. 使用 exploit
 
-Client-side cheats, aimbots, speed hacks, weapon-damage multipliers. The anti-cheat will catch and kick you. Persistent attempts = permanent ban.
+客户端作弊、aimbot、速度外挂、武器伤害倍增器。anti-cheat 将会检测并将你 kick 出。持续尝试 = 永久封禁。
 
-### 2. Repeated general violations
+### 2. 反复一般违规
 
-Keep doing small things wrong? Severe ban.
+持续犯小错？严重封禁。
 
-### 3. Going rogue on public services
+### 3. 在公共服务中 rogue 叛变
 
-If you're on **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
+如果你在 **PDRM、BOMBA、KKM、SJAM、MAF、KPTD、RELA** 或任何其他公共服务队伍中并实施犯罪行为，这属于严重违规。穿着制服，就要扮演好角色。
 
-### 4. Ban evasion
+### 4. 规避封禁
 
-- Using an alternative account to avoid a ban
-- Playing under someone else's login after you've been banned
+- 使用另一个账号以规避封禁
+- 在被封禁后使用他人的账号登录游戏
 
-Ban evasion is taken very seriously.
+规避封禁行为会被严肃处理。
 
-### 5. Sharing personal information
+### 5. 分享个人信息
 
-Don't dox. Don't share anyone's personal details — yours or others'.
+不要 dox。不要分享任何人的个人详情 — 无论是你自己的还是他人的。
 
-### 6. Violate Roblox Terms of Service
+### 6. 违反 Roblox 服务条款
 
-- **Racism** — including coded racism
-- **Discussing topics of sensitive nature**
-- **NSFW** content of any kind
+- **种族主义** — 包括暗语形式的种族主义
+- **讨论敏感话题**
+- **任何形式的 NSFW 内容**
 - **Online-dating**
-- Any other messages, symbols, or media deemed inappropriate
+- 任何其他被认为不当的讯息、符号或媒体
 
-If Roblox itself wouldn't allow it, Bandaraya doesn't allow it.
-
----
-
-## Roleplay etiquette
-
-These aren't formal rules, but they keep the game fun:
-
-- **Stay in character.** Use roleplay dialogue, not OOC chatter during scenes.
-- **Respect scenes.** If police are arresting someone, don't interrupt unless you're part of the roleplay.
-- **Drive like it matters.** You're in KL, not Rocket League.
-- **Use radio for in-character communication.** The radio module supports STT/TTS for immersion.
-- **Don't metagame.** Don't use knowledge your character wouldn't have (e.g., seeing a player's team from out-of-character info).
-- **Don't mix OOC and IC.** Out-of-character discussions belong in OOC-tagged messages or Discord, not IC chat.
+如果 Roblox 本身不允许，Bandaraya 也不允许。
 
 ---
 
-## Appeals
+## Roleplay 礼仪
 
-Any ban, permanent or temporary, can be appealed.
+这些不是正式规则，但能让游戏保持有趣：
 
-1. Join the **Malaysia community server**.
-2. Contact a moderator or administrator.
-3. Appeals go through the **Moderation server**.
-
-**Note:** bans are **NOT appealable by way of judicial review.** Moderators have the final call.
+- **保持角色扮演状态。** 在场景中使用 roleplay 对话，而不是 OOC 闲聊。
+- **尊重场景。** 如果警察正在逮捕某人，除非你是 roleplay 的一部分，否则不要打断。
+- **认真驾驶。** 你在吉隆坡，不是 Rocket League。
+- **使用无线电进行角色内通讯。** 无线电模块支持 STT/TTS 以增强沉浸感。
+- **不要 metagame。** 不要使用你角色不应该拥有的信息（例如从角色外信息中得知玩家所属的队伍）。
+- **不要混合 OOC 与 IC。** 角色外的讨论应该以带 OOC 标签的讯息或 Discord 发表，而不是在 IC 聊天中。
 
 ---
 
-## Tips & gotchas
+## 申诉
 
-- **The anti-cheat has been tuned.** Legitimate combat won't kick you (weapon DPS threshold is 3000+; fire rate tolerance is up to 40 shots/sec). If you get kicked unfairly, the kick message includes a tag (RL, MV, WM) — take that to moderators for a quick resolution.
-- **Legitimate teleports and lifts are whitelisted** — you won't get kicked for using the Aries Hotel lift or IPD Dang Wangi's elevators.
-- **Discord logging tracks most actions** — tow clamps, arrests, damage events. Don't try to exploit and cover your tracks.
-- **The game logs kills** for moderation review (added in v3.12.15).
-- **Account-age gate:** you need at least 60 days of Roblox account age to play (set in v3.9.0 to combat bot/new-account abuse).
-- **Stay safe, play fair.** That's it.
+任何封禁，无论是永久或暂时，都可以申诉。
 
-## See also
+1. 加入 **Malaysia 社群 server**。
+2. 联系 moderator 或管理员。
+3. 申诉通过 **Moderation server** 处理。
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
-- [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
-- [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: `infoModules.GameRules` (in-game)
+**注意：** 封禁 **不可通过司法复核方式申诉。** moderator 的决定为最终决定。
+
+---
+
+## 小贴士与需要注意的事项
+
+- **anti-cheat 已经过调校。** 合法的战斗不会将你 kick 出（武器 DPS 阈值为 3000+；射速容差最高为每秒 40 发）。如果你被不公平地 kick 出，kick 讯息会包含一个标签（RL、MV、WM）— 将它交给 moderator 以便快速处理。
+- **合法的 teleport 与电梯已在白名单中** — 使用 Aries Hotel 的电梯或 IPD Dang Wangi 的升降机不会将你 kick 出。
+- **Discord 日志记录大多数操作** — 拖车夹、逮捕、伤害事件。不要试图 exploit 并掩盖痕迹。
+- **游戏会记录击杀** 以便进行管理审查（在 v3.12.15 中新增）。
+- **账号年龄门槛：** 你需要至少 60 天的 Roblox 账号年龄才能游玩（在 v3.9.0 中设定，以对抗 bot/新账号滥用）。
+- **保持安全，公平游玩。** 就这样。
+
+## 另见
+
+- [逮捕与法律](/bandaraya/arrest-and-law) — LTAA / RTAA 机制
+- [紧急服务](/bandaraya/emergency-services) — rogue 叛变的后果
+- [常见问题](/bandaraya/faq) — 关于规则的常见问题
+- 官方规则文本：`infoModules.GameRules`（游戏内）

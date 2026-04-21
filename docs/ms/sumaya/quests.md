@@ -1,173 +1,172 @@
 ---
-title: Quests
-description: The 12-step discovery quest chain in Sumaya.
+title: Misi
+description: Rantaian misi penemuan 12 langkah di Sumaya.
 lang: ms
 translated_from_hash: 24fc88b2
 translated_on: '2026-04-21'
 needs_review: true
 ---
+# Misi
 
-# Quests
+Sumaya mempunyai **rantaian penemuan 12 misi** yang membimbing anda melalui mekanik teras permainan sambil membayar XP dan Ringgit sepanjang perjalanan. Setiap pemain baharu dimulakan secara automatik padanya - tiada tindakan diperlukan.
 
-Sumaya has a **12-quest discovery chain** that walks you through the game's core mechanics while paying out XP and Ringgit as you go. Every new player is automatically started on it - no action needed.
+Halaman ini menyenaraikan setiap misi, apa yang perlu anda lakukan, dan apa yang anda dapat.
 
-This page lists every quest, what you need to do, and what you get.
+## Cara misi berfungsi
 
-## How quests work
+- Rantaian ini **bermula secara automatik** pada penyertaan pertama anda.
+- Setiap misi mempunyai satu atau lebih langkah. Selesaikan langkah-langkah itu, dapatkan ganjaran, dan misi seterusnya akan terbuka secara automatik.
+- Langkah misi aktif anda dipaparkan pada **kad tugas** (bahagian kiri atas skrin anda).
+- Penanda misi muncul pada **peta mini** dan sebagai **pancaran panduan merah** yang menghala ke lokasi berkaitan.
+- Anda boleh melihat kemajuan anda dalam aplikasi **Quest** pada telefon anda.
 
-- The chain **starts automatically** on your first join.
-- Each quest has one or more steps. Complete the steps, get the reward, and the next quest auto-unlocks.
-- Your active quest step is shown in the **task card** (top-left of your screen).
-- Quest markers appear on the **minimap** and as a **red guidance beam** pointing you to the relevant location.
-- You can view your progress in the **Quest** app on your phone.
+Kebanyakan misi adalah **satu langkah** - buat perkara itu, dapatkan ganjaran. Dua daripadanya (misi "lore" terakhir) mempunyai **langkah tersusun** yang mesti dilakukan mengikut urutan.
 
-Most quests are **one-step** - do the thing, get the reward. Two of them (the final "lore" quests) have **ordered steps** that must be done in sequence.
+## Rantaian penemuan
 
-## The discovery chain
-
-All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, and to your global player XP.
+Kesemua 12 misi mengikut urutan. Ganjaran dibayar ke **akaun bank** anda untuk Ringgit, dan ke XP pemain global anda.
 
 ### 1. Welcome to Sumaya!
 
-- **Goal:** Spend 10 seconds in the world.
-- **Reward:** 100 XP, 50 Ringgit.
+- **Matlamat:** Luangkan 10 saat dalam dunia ini.
+- **Ganjaran:** 100 XP, 50 Ringgit.
 
-A warmup quest - you get this one just by existing for 10 seconds after you spawn.
+Misi pemanasan - anda mendapatnya hanya dengan wujud selama 10 saat selepas anda spawn.
 
 ### 2. Check Your Phone
 
-- **Goal:** Open your phone at least once.
-- **Reward:** 100 XP, 50 Ringgit.
+- **Matlamat:** Buka telefon anda sekurang-kurangnya sekali.
+- **Ganjaran:** 100 XP, 50 Ringgit.
 
-Teaches you where the phone is. Tap the icon.
+Mengajar anda di mana telefon itu berada. Ketik ikon tersebut.
 
 ### 3. On the Road
 
-- **Goal:** Spawn any vehicle.
-- **Waypoint:** nearest vehicle spawner.
-- **Reward:** 150 XP, 100 Ringgit.
+- **Matlamat:** Spawn mana-mana kenderaan.
+- **Titik laluan:** spawner kenderaan terdekat.
+- **Ganjaran:** 150 XP, 100 Ringgit.
 
-Introduces the vehicle spawner system. Most civilian cars are free to spawn.
+Memperkenalkan sistem spawner kenderaan. Kebanyakan kereta awam adalah percuma untuk dispawn.
 
 ### 4. Your First Purchase
 
-- **Goal:** Buy any item from a shop.
-- **Waypoint:** nearest shop.
-- **Reward:** 150 XP, 100 Ringgit.
+- **Matlamat:** Beli mana-mana item dari kedai.
+- **Titik laluan:** kedai terdekat.
+- **Ganjaran:** 150 XP, 100 Ringgit.
 
-Teaches shopping. Any cheap item works - food, a tool, anything.
+Mengajar membeli-belah. Mana-mana item murah boleh - makanan, alat, apa sahaja.
 
 ### 5. Pick a Career
 
-- **Goal:** Start any civilian job (Fishing, Service, or Agro).
-- **Waypoint:** nearest career station.
-- **Reward:** 200 XP, 150 Ringgit.
+- **Matlamat:** Mulakan mana-mana kerja awam (Fishing, Service, atau Agro).
+- **Titik laluan:** stesen kerjaya terdekat.
+- **Ganjaran:** 200 XP, 150 Ringgit.
 
-Gets you into the career system. Clock in at any civilian career station.
+Memasukkan anda ke dalam sistem kerjaya. Clock in di mana-mana stesen kerjaya awam.
 
 ### 6. Leveling Up
 
-- **Goal:** Reach player level 2.
-- **Reward:** 300 XP, 200 Ringgit.
+- **Matlamat:** Capai tahap pemain 2.
+- **Ganjaran:** 300 XP, 200 Ringgit.
 
-You'll hit level 2 just by completing the earlier quests or doing a short career shift.
+Anda akan mencapai tahap 2 hanya dengan menyelesaikan misi-misi terdahulu atau melakukan syif kerjaya yang singkat.
 
 ### 7. Retail Therapy
 
-- **Goal:** Buy 3 items from any shops.
-- **Waypoint:** any shop.
-- **Reward:** 250 XP, 200 Ringgit.
+- **Matlamat:** Beli 3 item dari mana-mana kedai.
+- **Titik laluan:** mana-mana kedai.
+- **Ganjaran:** 250 XP, 200 Ringgit.
 
-You can buy from the same shop or different ones. 3 total purchases required.
+Anda boleh beli dari kedai yang sama atau berbeza. 3 pembelian keseluruhan diperlukan.
 
 ### 8. Jack of All Trades
 
-- **Goal:** Work all 3 civilian sectors (Fishing, Service, Agro) at least once.
-- **Reward:** 400 XP, 300 Ringgit.
+- **Matlamat:** Bekerja dalam kesemua 3 sektor awam (Fishing, Service, Agro) sekurang-kurangnya sekali.
+- **Ganjaran:** 400 XP, 300 Ringgit.
 
-Each start counts once. Clock in at fishing, then service (if you've unlocked it at level 50 - otherwise skip this step via palm oil), then palm oil. Note: the service sector unlocks at level 50 in another sector, so you may need to grind a bit first.
+Setiap permulaan dikira sekali. Clock in di fishing, kemudian service (jika anda telah membukanya pada tahap 50 - jika tidak, langkau langkah ini melalui minyak sawit), kemudian minyak sawit. Nota: sektor service dibuka pada tahap 50 dalam sektor lain, jadi anda mungkin perlu mengasah sedikit dahulu.
 
 ### 9. Rising Star
 
-- **Goal:** Reach player level 5.
-- **Reward:** 500 XP, 400 Ringgit.
+- **Matlamat:** Capai tahap pemain 5.
+- **Ganjaran:** 500 XP, 400 Ringgit.
 
-A level milestone. Do any grind - fishing, palm oil, or emergency service - until you hit 5.
+Pencapaian tahap. Lakukan mana-mana grind - fishing, minyak sawit, atau perkhidmatan kecemasan - sehingga anda mencapai 5.
 
 ### 10. Old Hand
 
-- **Goal:** Reach player level 10.
-- **Reward:** 800 XP, 700 Ringgit.
+- **Matlamat:** Capai tahap pemain 10.
+- **Ganjaran:** 800 XP, 700 Ringgit.
 
-Another level milestone. Bigger payout.
+Pencapaian tahap lain. Pembayaran yang lebih besar.
 
 ### 11. A Day in Sumaya
 
-- **Goal:** Live a typical day (ordered steps):
-  1. Check phone for morning news.
-  2. Commute to work (spawn a vehicle).
-  3. Clock in for a shift (start any civilian job).
-  4. Treat yourself (buy an item from a shop).
-- **Reward:** 300 XP, 250 Ringgit.
+- **Matlamat:** Jalani hari biasa (langkah tersusun):
+  1. Semak telefon untuk berita pagi.
+  2. Berulang-alik ke tempat kerja (spawn kenderaan).
+  3. Clock in untuk syif (mulakan mana-mana kerja awam).
+  4. Layan diri anda (beli item dari kedai).
+- **Ganjaran:** 300 XP, 250 Ringgit.
 
-The steps must be done **in that order**. You can't spawn a vehicle before checking your phone, etc.
+Langkah-langkah mesti dilakukan **mengikut urutan itu**. Anda tidak boleh spawn kenderaan sebelum menyemak telefon anda, dan seterusnya.
 
 ### 12. The Ringgit Grind (FINAL)
 
-- **Goal:** Hustle your way up (ordered steps):
-  1. Clock in to any civilian job.
-  2. Reach player level 3 (after clocking in).
-  3. Spend Ringgit at a shop.
-  4. Spawn / afford a vehicle (after all the above).
-- **Reward:** 500 XP, 400 Ringgit, **PLUS a one-time finale bonus of 2,000 XP and 1,500 Ringgit**.
+- **Matlamat:** Berusaha naik (langkah tersusun):
+  1. Clock in ke mana-mana kerja awam.
+  2. Capai tahap pemain 3 (selepas clock in).
+  3. Belanja Ringgit di kedai.
+  4. Spawn / mampu kenderaan (selepas semua perkara di atas).
+- **Ganjaran:** 500 XP, 400 Ringgit, **TAMBAH bonus kemuncak sekali sahaja sebanyak 2,000 XP dan 1,500 Ringgit**.
 
-The finale. Must be done in order. By the time you finish this, you'll have sampled almost everything the game offers. The finale bonus only pays out for this quest.
+Kemuncak. Mesti dilakukan mengikut urutan. Pada masa anda selesai, anda telah mencuba hampir semua yang permainan tawarkan. Bonus kemuncak hanya dibayar untuk misi ini.
 
-## Total rewards
+## Jumlah ganjaran
 
-If you complete the entire chain:
+Jika anda menyelesaikan keseluruhan rantaian:
 
-- **5,750 XP** in player-level experience (3,750 from individual quests + 2,000 finale bonus).
-- **4,400 Ringgit** to your bank account (2,900 from individual quests + 1,500 finale bonus).
+- **5,750 XP** pengalaman peringkat pemain (3,750 dari misi individu + 2,000 bonus kemuncak).
+- **4,400 Ringgit** ke akaun bank anda (2,900 dari misi individu + 1,500 bonus kemuncak).
 
-That's enough XP to push past player level 10, and enough Ringgit to buy a Tier 3 house, a mid-range trawler, or most civilian vehicles outright.
+Itu cukup XP untuk menolak melepasi tahap pemain 10, dan cukup Ringgit untuk membeli rumah Tier 3, pukat laut pertengahan, atau kebanyakan kenderaan awam secara langsung.
 
-## Viewing quest progress
+## Melihat kemajuan misi
 
-Open the **Quest** app on your phone:
+Buka aplikasi **Quest** pada telefon anda:
 
-- **Active quest** - the one you're currently working on.
-- **Step list** - with checkboxes for completed steps.
-- **Locked quests** - greyed out until earlier ones are done.
-- **Completed quests** - with a badge.
+- **Misi aktif** - yang anda sedang usahakan.
+- **Senarai langkah** - dengan kotak semak untuk langkah yang telah selesai.
+- **Misi terkunci** - dikelabukan sehingga misi terdahulu selesai.
+- **Misi selesai** - dengan lencana.
 
-## Quest waypoints
+## Titik laluan misi
 
-The game automatically sets minimap waypoints for quest steps that need a specific location:
+Permainan menetapkan titik laluan peta mini secara automatik untuk langkah misi yang memerlukan lokasi tertentu:
 
-- "Spawn a vehicle" - points to the nearest vehicle spawner.
-- "Buy something" - points to the nearest shop.
-- "Clock in" - points to the nearest career station.
-- "Start fishing specifically" - points to a fishing dock.
+- "Spawn a vehicle" - menghala ke spawner kenderaan terdekat.
+- "Buy something" - menghala ke kedai terdekat.
+- "Clock in" - menghala ke stesen kerjaya terdekat.
+- "Start fishing specifically" - menghala ke dok memancing.
 
-The waypoint auto-clears when you complete the step.
+Titik laluan dibersihkan secara automatik apabila anda menyelesaikan langkah.
 
-## Dismissing the task card
+## Menutup kad tugas
 
-If the task card in the top-left is blocking your view (especially on mobile while driving), tap the **chevron (^)** button to collapse it. Your quest progress continues in the background.
+Jika kad tugas di bahagian kiri atas menghalang pandangan anda (terutamanya pada mudah alih semasa memandu), ketik butang **chevron (^)** untuk menguncupkannya. Kemajuan misi anda diteruskan di latar belakang.
 
-The task card auto-returns when you open a new quest or complete a step.
+Kad tugas akan kembali secara automatik apabila anda membuka misi baharu atau menyelesaikan langkah.
 
-## Tips
+## Petua
 
-- **Do quests in order for max efficiency.** They cascade - a step for Quest 3 might also count for Quest 11's first step.
-- **The ordered lore quests need patience.** If you mess up the order (e.g. you spawn a vehicle before opening your phone for Quest 11), that step won't count. Just do it in the right order.
-- **Reach level 50 in a civilian sector to unlock Service for the "Jack of All Trades" quest.** Otherwise it may remain incomplete.
-- **Quest Ringgit goes to the bank, not your wallet.** Makes sense - you've earned it, it's savings.
-- **You can complete quests passively while doing other activities.** Don't focus-grind them; just play, and they'll tick off naturally.
+- **Lakukan misi mengikut urutan untuk kecekapan maksimum.** Ia berturutan - satu langkah untuk Misi 3 mungkin juga dikira untuk langkah pertama Misi 11.
+- **Misi lore tersusun memerlukan kesabaran.** Jika anda silap urutan (contoh: anda spawn kenderaan sebelum membuka telefon untuk Misi 11), langkah itu tidak akan dikira. Lakukan sahaja mengikut urutan yang betul.
+- **Capai tahap 50 dalam sektor awam untuk membuka Service bagi misi "Jack of All Trades".** Jika tidak, ia mungkin kekal tidak lengkap.
+- **Ringgit misi masuk ke bank, bukan dompet anda.** Masuk akal - anda telah memperolehnya, ia adalah simpanan.
+- **Anda boleh menyelesaikan misi secara pasif semasa melakukan aktiviti lain.** Jangan fokus-grind; bermain sahaja, dan ia akan tercapai secara semula jadi.
 
-## What next?
+## Apa seterusnya?
 
-- [Getting Started](/sumaya/get-started) for the rest of the onboarding.
-- [Phone and UI](/sumaya/phone) for the Quest app interface.
-- [Progression](/sumaya/progression) for how the XP converts to levels.
+- [Getting Started](/sumaya/get-started) untuk selebihnya proses onboarding.
+- [Phone and UI](/sumaya/phone) untuk antara muka aplikasi Quest.
+- [Progression](/sumaya/progression) untuk bagaimana XP bertukar kepada tahap.

@@ -1,15 +1,12 @@
 ---
-title: Getting Started
-description: >-
-  Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and
-  hit the highway.
+title: 入门
+description: 你在 Lebuhraya 的前 10 分钟 — 生成车辆、赚取 BR、升级，然后上高速。
 lang: zh
 translated_from_hash: 1e15992a
 translated_on: '2026-04-21'
 needs_review: true
 ---
-
-# Lebuhraya 入门指南
+# 入门
 
 欢迎来到 Lebuhraya！本指南将帮助你迈出在这个马来西亚主题驾驶与角色扮演体验中的第一步。
 
