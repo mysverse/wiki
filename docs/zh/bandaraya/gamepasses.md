@@ -2,7 +2,7 @@
 title: 游戏通行证
 description: Bandaraya 全部游戏通行证说明 — 出租车司机、枪支执照、HCC、车载电台等。
 lang: zh
-translated_from_hash: 6f4cfc8f
+translated_from_hash: 983acf92
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -39,7 +39,7 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 **Taxi Driver**(150 R$)— 即时上岗,门槛低。搭配 Car Radio 获得最大氛围感。
 
 ### “我想拿枪角色扮演”
-**Firearms Licence**(1,250 R$)。平民唯一合法取得武器的途径 — **除非**你加入会配发武器的队伍(PDRM、KPTD、MAF、Moderation、Developers、Yang di-Pertuan Persekutuan)。请注意商店每次购买之间有 **5 分钟的冷却时间**。
+**Firearms Licence**(1,250 R$)。平民唯一合法取得武器的途径 — **除非**你加入会配发武器的队伍(POLIS、KPTD、MAF、Moderation、Developers、Yang di-Pertuan Persekutuan)。请注意商店每次购买之间有 **5 分钟的冷却时间**。
 
 ### “我想极致优化”
 **High Class Citizen**(3,000 R$)。若你常玩,收入加成会自己回本。附带豪车与专属队伍访问权。若你只是偶尔玩,就别买 — 那些 Robux 拿来买 BR developer products 更划算。

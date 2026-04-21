@@ -108,17 +108,23 @@ The **Challenges** system (accessible from the Main Menu → Challenges) rewards
 
 ### Daily challenges (reset every 24 h)
 
-- **Traveller** — drive a distance target
-- **Fishing** — catch a number of fish
+All three are currently active:
+
+- **Daily Driver** (traveller) — drive a distance target
+- **Weekend Fisherman** (fishing) — catch a number of fish
 - **Konvoi Harian** — spend time in convoy
 
 ### Weekly challenges (reset every 7 days)
 
-- **Traveller** — longer distance target
-- **Fishing** — weekly fish quota
-- **Konvoi Mingguan** — weekly convoy time
-- **Quiz** + **Quiz Advanced** — answer quiz questions
-- **Laptime** + **Laptime Advanced** — post race times under a threshold
+Five of the seven weekly modules are currently active; two are disabled for this season:
+
+- **Endurance Driver** (traveller)
+- **Successful Fisherman** (fishing)
+- **Konvoi Mingguan**
+- **Quiz Master (Advanced)** — quiz_adv
+- **Lap Time Legend** — laptime
+- *Quiz Master (basic) — currently disabled*
+- *Lap Time Legend (Advanced) — currently disabled*
 
 ### Discovery / achievements (one-time, permanent)
 

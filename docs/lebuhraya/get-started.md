@@ -17,7 +17,7 @@ The name "Lebuhraya" means "highway" in Malay.
 
 When you join for the first time you spawn on the **Visitors** team with:
 
-- **1000 BR** (Ringgit) starting balance
+- **1000 BR** (Ringgit) starting balance — **tracked but not yet used**. The currency system is planned, not live (see [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) for details). For now, everything is free.
 - **Level 1**, 0 XP
 - No vehicle (you'll spawn one from the menu)
 
@@ -28,8 +28,6 @@ Look around the HUD:
 - **Bottom**: the Settings and Main Menu icons
 
 ## Spawning your first vehicle
-
-![Main Menu](/images/lebuhraya/main-menu.png)
 
 1. Open the **MyPod** menu (the vehicle spawner). On desktop, the icon is on the topbar; on mobile, it's in the top-right cluster.
 2. Browse the vehicle list. Free starter vehicles are available to everyone.

@@ -109,7 +109,7 @@ The "Jack of All Trades" quest asks you to sample all three civilian sectors. Se
 
 ### +15% XP boost benefits everyone
 
-When Kesihatan activates the injury system, **all players** on the server get +15% player-level XP for as long as it's active. The boost doesn't affect sector XP. If you see the boost active, it's a great time to grind.
+The injury system auto-activates the moment a Kesihatan player joins the server, and **all players** get +15% player-level XP for as long as at least one Kesihatan is online. Deactivates when the last Kesihatan leaves. The boost doesn't affect sector XP. If you see a Kesihatan player online, your grinding time is 15% more efficient.
 
 ### TBI treatment is hands-off once bedded
 

@@ -21,7 +21,7 @@ Bandaraya has 200+ vehicles across 25+ organisations — police MPVs and armoure
 
 Each team has its own set of spawners. You can only use the ones your team is allowed to use.
 
-1. Walk to a vehicle spawner (PDRM spawners outside IPD Dang Wangi, BOMBA spawners at the fire station, MyTransit at the depot, Classic Car Dealer for civilian rentals/purchases, etc.).
+1. Walk to a vehicle spawner (POLIS spawners outside IPD Dang Wangi, BOMBA spawners at the fire station, MyTransit at the depot, Classic Car Dealer for civilian rentals/purchases, etc.).
 2. Press **E** (or the proximity button).
 3. A panel with a 3-D preview of each available vehicle opens.
 4. Browse with **A / D / arrow keys** or the nav buttons.
@@ -93,14 +93,14 @@ When you crash:
 
 Every spawned vehicle gets a plate. You can look up plates in the **Vehicle Management** tablet app (see [Tablet](/bandaraya/tablet)).
 
-Ownership registration is automatic — the plate is tied to the person who spawned the car. PDRM use this for traffic stops.
+Ownership registration is automatic — the plate is tied to the person who spawned the car. POLIS use this for traffic stops.
 
 ## Bulletproofing
 
 Some vehicles are armoured. Look for:
 
-- **AV4** — PDRM armoured vehicle (29 armour plates in the cabin). Proper bulletproof.
-- **V150** — PDRM armoured vehicle.
+- **AV4** — POLIS armoured vehicle (29 armour plates in the cabin). Proper bulletproof.
+- **V150** — POLIS armoured vehicle.
 - **UTK Hilux variants** — bulletproof around the cabin.
 
 Regular civilian cars are **not** bulletproof. Don't assume your Proton will stop a round.
@@ -131,7 +131,7 @@ If you own the **High Class Citizen gamepass**, luxury vehicles (BMW i7, Volvo X
 
 ## Helicopters
 
-PDRM and BOMBA have helicopter spawners at their stations. Team-specific — civilians can't spawn them.
+POLIS and BOMBA have helicopter spawners at their stations. Team-specific — civilians can't spawn them.
 
 - Spawn via the on-screen **ViewportFrame** picker.
 - A spawned helicopter regenerates 8 seconds after destruction.
@@ -150,6 +150,6 @@ Don't crash a helicopter into a building.
 
 - [Economy](/bandaraya/economy) — dealership pricing, fuel costs
 - [Jobs](/bandaraya/jobs) — Taxi, Tow, Bus driving
-- [Emergency Services](/bandaraya/emergency-services) — PDRM / BOMBA / MAF vehicle access
+- [Emergency Services](/bandaraya/emergency-services) — POLIS / BOMBA / MAF vehicle access
 - [Map](/bandaraya/locations) — where to find fuel, charging, the dealership
 - [Tablet](/bandaraya/tablet) — Vehicle Management app

@@ -4,7 +4,7 @@ description: >-
   Bermain sebagai Kesihatan di Sumaya — ambulans, rawatan, dan menghidupkan
   semula.
 lang: ms
-translated_from_hash: 72c697a3
+translated_from_hash: 9a0207af
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -12,69 +12,70 @@ needs_review: true
 
 **Kesihatan** ("keh-see-ha-tan") ialah perkhidmatan perubatan Sumaya. Doktor, jururawat, paramedik. Jika anda memilih Kesihatan dari menu utama, anda menjadi pekerja perubatan yang bertugas sebaik sahaja anda spawn.
 
-Kesihatan juga istimewa kerana **kerja anda memberi dorongan kepada seluruh server**. Teruskan membaca.
+Kesihatan juga istimewa kerana **tugas anda memberi boost kepada seluruh server**. Teruskan membaca.
 
-## Cara bermula
+## Bermula
 
-Pilih **Kesihatan** pada menu utama. Kit perubatan anda akan muncul dalam backpack: kit pertolongan cemas, pembalut, splint, dan lebih banyak lagi yang dibuka mengikut tahap.
+Pilih **Kesihatan** pada menu utama. Kit perubatan anda akan spawn dalam backpack: kit pertolongan cemas, pembalut, splint, dan banyak lagi yang boleh dibuka mengikut level.
 
-Pergi ke hospital untuk mendapatkan lebih banyak alatan dan peralatan, atau sambut panggilan 999 dan insiden di lapangan.
+Pergi ke hospital untuk lebih banyak alat dan kelengkapan, atau sambut panggilan 999 dan kejadian di lapangan.
 
 ## Sistem kecederaan
 
-Gameplay utama Kesihatan ialah merawat **kecederaan** - kerosakan yang dialami oleh pemain atau NPC yang tidak boleh disembuhkan hanya dengan respawn.
+Gameplay utama Kesihatan adalah merawat **kecederaan** - kerosakan yang dialami oleh pemain atau NPC yang tidak boleh disembuhkan hanya dengan respawn.
 
-### Apabila sistem kecederaan aktif
+### Bila sistem kecederaan aktif
 
-**Sistem kecederaan** seluruh server boleh diaktifkan. Apabila ia aktif:
+Sistem kecederaan **auto-aktif setiap kali sekurang-kurangnya seorang pemain Kesihatan berada di server** — sekadar berada dalam pasukan, anda sudah mengaktifkan suis untuk semua orang. Apabila ia aktif:
 
-- Pemain dan NPC boleh mengalami kecederaan sebenar dan bukannya mati serta-merta.
+- Pemain dan NPC boleh mengalami kecederaan sebenar dan bukan terus mati.
 - Kecederaan memerlukan rawatan perubatan untuk sembuh.
-- **Setiap pemain di server akan mendapat +15% XP tahap pemain** (XP sektor tidak terjejas).
+- **Setiap pemain di server mendapat +15% XP peringkat pemain** (XP sektor tidak terjejas).
+- Setiap karakter pemain membawa atribut `InjurySystemEnabled = true` semasa sistem aktif.
 
-Rangsangan XP itu sangat penting. Ia digunakan untuk setiap kerja, setiap tangkapan, setiap tuaian - jadi apabila Kesihatan aktif, seluruh server mendapat manfaat. Ini adalah sebab tunggal paling besar untuk mempunyai pemain perubatan bertugas.
+Server akan menyahaktifkan sistem kecederaan sebaik sahaja pemain Kesihatan terakhir keluar. Jadi sekadar log masuk sebagai Kesihatan sudah cukup untuk "mengaktifkan" ia — tidak perlu toggle manual. Boost +15% XP itu sangat besar: ia dikenakan pada setiap tugas, setiap tangkapan, setiap tuaian - jadi bila Kesihatan aktif, seluruh server mendapat manfaat. Inilah sebab terbesar kenapa perlu ada pemain perubatan.
 
 ### Jenis kecederaan
 
-| Kecederaan | Maksudnya | Rawatan |
+| Kecederaan | Apa itu | Rawatan |
 |--------|------------|-----------|
-| Luka kecil / lebam | Calar, luka kecil | Pembalut |
-| Tangan patah | Memperlahankan animasi tangan, menjejaskan alat tertentu | Splint |
+| Luka / lebam kecil | Calar, luka kecil | Pembalut |
+| Tangan patah | Melambatkan animasi tangan, menjejaskan alat tertentu | Splint |
 | Kaki patah | Mengurangkan kelajuan berjalan kepada 30% | Splint |
-| Kecederaan Otak Trauma (TBI) | Teruk; memerlukan rehat katil | Katil perubatan + masa |
+| Kecederaan Otak Traumatik (TBI) | Serius; memerlukan rehat di katil | Katil perubatan + masa |
 
 ### Diagnosis
 
-Anda tidak boleh merawat seseorang sehingga anda tahu apa yang tidak kena.
+Anda tidak boleh merawat seseorang sehingga anda tahu apa masalahnya.
 
-1. Lengkapkan **Kit Pertolongan Cemas**.
-2. Berdiri dalam lingkungan **10 stud** dari pesakit.
-3. Gunakan kit tersebut. Diagnosis mengambil masa kira-kira **2 saat**.
-4. Kecederaan pesakit dipaparkan.
+1. Lengkapkan **First Aid Kit**.
+2. Berdiri dalam jarak **10 stud** dari pesakit.
+3. Guna kit tersebut. Diagnosis mengambil masa kira-kira **2 saat**.
+4. Kecederaan pesakit akan dipaparkan.
 
 **Ganjaran:** 15 XP setiap diagnosis.
 
 ### Pembalut (luka kecil)
 
-1. Lengkapkan alat **Pembalut**.
-2. Berdiri dalam lingkungan 10 stud dari pesakit.
-3. Gunakan alat tersebut. Mengambil masa kira-kira 3 saat.
-4. Luka sembuh. Pembalut bertahan 5 minit pada watak, kemudian pudar.
+1. Lengkapkan alat **Bandage**.
+2. Berdiri dalam jarak 10 stud dari pesakit.
+3. Guna alat itu. Mengambil masa kira-kira 3 saat.
+4. Luka sembuh. Pembalut kekal 5 minit pada karakter, kemudian hilang.
 
 **Ganjaran:** 30 XP + 100 Ringgit.
 
 ### Splint (tulang patah)
 
 1. Lengkapkan **Splint**.
-2. Berdiri dalam lingkungan 10 stud.
-3. Kenakan. Mengambil masa kira-kira 5 saat.
+2. Berdiri dalam jarak 10 stud.
+3. Sapu. Mengambil masa kira-kira 5 saat.
 4. Kelajuan berjalan kembali normal.
 
 **Ganjaran:** 40 XP + 200 Ringgit.
 
 ### Pengimejan (X-Ray dan MRI)
 
-Untuk pengesahan diagnosis pada kecederaan serius, gunakan mesin pengimejan di hospital:
+Untuk pengesahan diagnosis bagi kecederaan serius, guna mesin pengimejan di hospital:
 
 - **Mesin X-Ray:** mengesahkan tulang patah.
 - **Mesin MRI:** mengesahkan TBI.
@@ -83,9 +84,9 @@ Mana-mana diagnosis membayar **20 XP**.
 
 ### TBI dan katil perubatan
 
-TBI ialah kecederaan yang paling serius. Rawatan memerlukan pesakit **berbaring di atas katil perubatan** selama kira-kira **30 saat** rehat katil, yang secara beransur-ansur menyembuhkannya.
+TBI ialah kecederaan paling serius. Rawatan memerlukan pesakit **berbaring di katil perubatan** selama kira-kira **30 saat** rehat katil, yang akan menyembuhkan mereka secara beransur-ansur.
 
-Hospital mempunyai beberapa katil perubatan, serta mesin X-Ray, mesin MRI, dan pengusung untuk memindahkan pesakit.
+Hospital mempunyai beberapa katil perubatan, serta mesin X-Ray, mesin MRI, dan pengusung untuk mengangkut pesakit.
 
 ## Ringkasan ganjaran
 
@@ -103,9 +104,9 @@ Tambahan:
 
 ## Kenderaan
 
-Ambulans Kesihatan dibuka apabila tahap sektor anda meningkat.
+Ambulans Kesihatan akan dibuka apabila level sektor anda meningkat.
 
-| Kenderaan | Tahap sektor diperlukan | Harga |
+| Kenderaan | Level sektor diperlukan | Harga |
 |---------|----------------------|-------|
 | Tayoti Hiace KKN Ambulance | 1 | Percuma |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
@@ -113,13 +114,13 @@ Ambulans Kesihatan dibuka apabila tahap sektor anda meningkat.
 
 KKN bermaksud Kementerian Kesihatan Nasional. Setiap ambulans mempunyai siren dan ruang kargo belakang (untuk pengusung).
 
-Lihat [Kenderaan](/sumaya/vehicles) untuk cara spawn kenderaan tersebut.
+Lihat [Vehicles](/sumaya/vehicles) untuk cara spawn mereka.
 
 ## Pangkat
 
-Kesihatan mempunyai 13 pangkat, secara longgar berdasarkan jawatan penjagaan kesihatan Malaysia sebenar. Gelaran anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
+Kesihatan mempunyai 13 pangkat, longgar berasaskan jawatan penjagaan kesihatan sebenar Malaysia. Gelaran anda akan dikemaskini secara automatik apabila level sektor anda meningkat.
 
-| Tahap | Pangkat |
+| Level | Pangkat |
 |-------|------|
 | 1 | Medical Trainee |
 | 6 | House Officer |
@@ -135,20 +136,20 @@ Kesihatan mempunyai 13 pangkat, secara longgar berdasarkan jawatan penjagaan kes
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-Dari tahap 81 dan seterusnya, anda berada di puncak. Tiada perubahan pangkat lagi sehingga anda mencapai had tahap 100.
+Dari level 81 ke atas, anda sudah di puncak. Tiada perubahan pangkat lagi selepas itu sehingga anda mencapai had level 100.
 
-## Tips
+## Tip
 
-- **Aktifkan sistem kecederaan untuk server.** Rangsangan +15% XP memberi kesan kepada semua orang, termasuk anda. Seluruh server mendapat manfaat dan akan terus kembali untuk mendapatkan rawatan.
-- **Tunggu berhampiran hospital pada awalnya.** Kebanyakan kecederaan datang melalui ambulans atau aplikasi 999. Berada dekat dengan hospital bermakna pusingan lebih cepat dan lebih banyak XP.
-- **Kaki patah ialah pendapatan mudah.** Mereka tidak boleh berjalan dengan baik, mudah dikenal pasti, dan splint membayar 200 Ringgit.
-- **TBI perlahan tetapi bernilai tinggi.** Semasa rehat katil 30 saat sedang berjalan, anda boleh mendiagnosis dan merawat pesakit lain. Jangan hanya berdiri dan menonton.
-- **Peristiwa banyak kemalangan.** Jika terdapat kemalangan atau insiden besar, beberapa mangsa bermakna beberapa pembayaran pantas. Bawa pengusung.
-- **Bekerjasama dengan Bomba.** Ahli bomba terbakar; selepas anda memadamkan api, jangkakan pelanggan pembalut.
+- **Aktifkan sistem kecederaan untuk server.** Boost +15% XP itu memberi kesan kepada semua orang, termasuk anda. Seluruh server mendapat manfaat dan akan datang semula untuk rawatan.
+- **Duduk dekat hospital awal-awal.** Kebanyakan kecederaan tiba melalui ambulans atau aplikasi 999. Berada dekat hospital bermakna giliran lebih cepat dan lebih banyak XP.
+- **Kaki patah ialah pendapatan mudah.** Mereka tak boleh berjalan elok, mudah dikesan, dan splint bayar 200 Ringgit.
+- **TBI lambat tetapi bernilai tinggi.** Semasa rehat katil 30 saat berjalan, anda boleh diagnosis dan rawat pesakit lain. Jangan cuma berdiri tengok.
+- **Kejadian mangsa ramai.** Jika ada kemalangan atau insiden besar, banyak mangsa bermakna banyak bayaran cepat. Bawa pengusung.
+- **Bekerjasama dengan Bomba.** Anggota bomba akan melecur; selepas anda padamkan kebakaran, jangkakan pelanggan pembalut.
 
 ## Apa seterusnya?
 
 - [Polis](/sumaya/polis) untuk sisi penguatkuasa undang-undang.
-- [Bomba](/sumaya/bomba) untuk rakan ahli bomba.
-- [Kenderaan](/sumaya/vehicles) untuk senarai ambulans.
-- [Kemajuan](/sumaya/progression) untuk cara XP bertambah.
+- [Bomba](/sumaya/bomba) untuk rakan anggota bomba.
+- [Vehicles](/sumaya/vehicles) untuk senarai ambulans.
+- [Progression](/sumaya/progression) untuk bagaimana XP bergabung.

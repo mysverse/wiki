@@ -130,12 +130,15 @@ Turn the siren off when you park. The exemption only applies while actively driv
 
 ## Customization
 
-Civilian vehicles support color customization. Look for the **Paint / Customize** option when you spawn a vehicle, or from your vehicle profile. You can change:
+Civilian vehicles with `Color = true` support color customization. Look for the **Paint / Customize** option when you spawn a vehicle, or from your vehicle profile. You can change:
 
-- **Body color** (primary and secondary).
-- **Window tint** (light, medium, dark).
+- **Body color** - the car's paint.
+- **Rim color** - the wheel rims, where the model has rim parts tagged.
+- **Window tint** - any `Color3`, applied to parts tagged `VehicleWindow`.
 
-Most civilian cars are customizable. Team vehicles usually are not.
+Some vehicles (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) have pre-set palettes (e.g. White, Silver, Black, Red, Beige). Other customizable vehicles accept any color.
+
+Team vehicles usually are not customizable.
 
 ## Fuel
 

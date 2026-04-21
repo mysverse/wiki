@@ -19,8 +19,10 @@ Drive together, earn more. Convoys reward coordinated play with a stacking XP mu
 
 ### Joining a convoy
 
-- **By invite**: The leader sends you an invitation; accept it within 30 seconds.
-- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to accept.
+- **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
+- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
+
+Both sides of the handshake use the same 30-second timeout — if you miss it, just re-invite or re-request.
 
 ### Convoy rules
 
@@ -94,6 +96,24 @@ Every player has a phone accessible from the topbar.
 - **Rafahia App v3.0** — The MYSverse community's unified social app (messaging, profiles, cross-experience features).
 
 More phone apps may appear over time as the MYSverse platform adds features.
+
+## The Tablet
+
+A secondary device available from the topbar. Think of it as your "career HUD" — bigger screen, more data than the phone.
+
+### Apps
+
+- **Vehicle** — View any nearby player's vehicle registration and driving licence info. Useful for roleplay scenes (spot check, insurance lookup). Licence visibility is team-gated — only certain teams (APJ, Polis) can view full licence details.
+- **Developer** *(staff only)* — Admin moderation view showing player details, BR balance, POS money, and message history.
+- **Moderator** *(staff only)* — Additional staff moderation tools.
+
+## Driving Licence
+
+Every player gets a **Driving Licence** as a Tool in their backpack. The licence number is generated from your account-joined date and the last four digits of your UserId, so it's unique per player and consistent across sessions.
+
+**APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
+
+Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence — play along.
 
 ## Tokens and Boosts
 

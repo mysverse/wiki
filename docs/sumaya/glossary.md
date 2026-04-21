@@ -27,7 +27,7 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Sadaqa** | Charitable giving / almsgiving (from Arabic, widely used in Malay). | Label on the player-to-player donation prompt on the Wallet tool. |
 | **Nelayan** | Fisherman. | "Nelayan Sdn. Bhd." is the fishing-career paycheck provider (meaning "Fisherman Co. Ltd."). |
 | **Sdn. Bhd.** | Abbreviation for "Sendirian Berhad" - the Malaysian equivalent of "Ltd." or "Pte Ltd". | Appears on paycheck notifications. |
-| **Jabatan** | Department / authority. | Used in the real-world rank titles e.g. "Jabatan Bomba dan Penyelamat" (Fire and Rescue Department). |
+| **Jabatan** | Department / authority. | Used in the real-world rank titles e.g. "Bomba MYSverse" (Fire and Rescue Department). |
 | **Kementerian** | Ministry. | "KKN" stands for **Kementerian Kesihatan Nasional** - the ambulance insignia on Kesihatan vehicles. |
 | **Jalan** | Road / street. | Appears in street names like "Jalan Triden", "Jalan Bawang". |
 | **Lorong** | Lane / alley. | Smaller streets like "Lorong Pais", "Lorong Kicai". |
@@ -51,7 +51,7 @@ These appear in Bomba ranks:
 | TPjB | Timbalan Penjaga Bomba (Deputy Fire Commissioner) |
 | PjB | Penjaga Bomba (Fire Commissioner) |
 
-For Polis, the abbreviations are based on Royal Malaysia Police (PDRM) rank initials:
+For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 
 | Abbreviation | Meaning |
 |--------------|---------|

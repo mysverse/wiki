@@ -2,7 +2,7 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: 37586c2d
+translated_from_hash: abd4659f
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -30,7 +30,7 @@ Perkataan ini datang daripada kosa kata harian Malaysia/Melayu. Anda akan meliha
 | **Sadaqa** | Pemberian amal / sedekah (daripada bahasa Arab, digunakan meluas dalam Melayu). | Label pada gesaan derma pemain-ke-pemain pada alat Wallet. |
 | **Nelayan** | Nelayan. | "Nelayan Sdn. Bhd." ialah pembekal gaji kerjaya perikanan (bermaksud "Fisherman Co. Ltd."). |
 | **Sdn. Bhd.** | Singkatan bagi "Sendirian Berhad" - setara Malaysia dengan "Ltd." atau "Pte Ltd". | Muncul pada notifikasi gaji. |
-| **Jabatan** | Jabatan / pihak berkuasa. | Digunakan dalam tajuk pangkat dunia sebenar cth. "Jabatan Bomba dan Penyelamat". |
+| **Jabatan** | Jabatan / pihak berkuasa. | Digunakan dalam tajuk pangkat dunia sebenar cth. "Bomba MYSverse". |
 | **Kementerian** | Kementerian. | "KKN" bermaksud **Kementerian Kesihatan Nasional** - lambang ambulans pada kenderaan Kesihatan. |
 | **Jalan** | Jalan raya / jalan. | Muncul dalam nama jalan seperti "Jalan Triden", "Jalan Bawang". |
 | **Lorong** | Lorong. | Jalan-jalan lebih kecil seperti "Lorong Pais", "Lorong Kicai". |
@@ -54,7 +54,7 @@ Singkatan ini muncul dalam pangkat Bomba:
 | TPjB | Timbalan Penjaga Bomba |
 | PjB | Penjaga Bomba |
 
-Untuk Polis, singkatan adalah berdasarkan huruf pangkat Polis Diraja Malaysia (PDRM):
+Untuk Polis, singkatan adalah berdasarkan huruf pangkat Polis MYSverse (POLIS):
 
 | Singkatan | Maksud |
 |--------------|---------|

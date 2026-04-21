@@ -4,7 +4,7 @@ description: >-
   PDRM, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan
   keselamatan di Bandaraya.
 lang: ms
-translated_from_hash: 01ab80d6
+translated_from_hash: beab5c89
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -16,7 +16,7 @@ Memainkan peranan perkhidmatan awam — polis, bomba, perubatan, tentera — ada
 
 | Pasukan | Apa yang anda lakukan | Kuasa tangkap | Alat utama |
 | --- | --- | --- | --- |
-| **PDRM** | Meronda, menangani jenayah, menahan, menangkap | Ya | X26P taser, gari, saman, pengimbas cap jari |
+| **POLIS** | Meronda, menangani jenayah, menahan, menangkap | Ya | X26P taser, gari, saman, pengimbas cap jari |
 | **BOMBA** | Memadam kebakaran, membawa kecemasan perubatan, menyelamat | Tidak | Hos bomba, lampu carian, pembawa |
 | **KKM** | Merawat pemain cedera, bertugas di hospital | Tidak | Placeables perubatan, lampu suluh |
 | **SJAM** | Ambulans sukarelawan | Tidak | Lampu suluh sahaja (asas) |
@@ -25,7 +25,7 @@ Memainkan peranan perkhidmatan awam — polis, bomba, perubatan, tentera — ada
 
 ---
 
-## PDRM (Polis Diraja Malaysia) — Pihak Polis
+## Polis MYSverse (POLIS) — Pihak Polis
 
 Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 
@@ -55,11 +55,11 @@ Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 | **Traffic Wand** | Mengawal lalu lintas |
 | **Whistle** | Kawalan lalu lintas / amaran |
 | **Police Tape** | Mengepung tempat kejadian |
-| **PDRM Placeables** | Kon, papan tanda, penghadang |
+| **POLIS Placeables** | Kon, papan tanda, penghadang |
 
 ### Kenderaan (70+)
 
-PDRM mempunyai armada terbesar:
+POLIS mempunyai armada terbesar:
 
 - **Ronda / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, varian Toyota Hilux, Perodua Aruz/Bezza
 - **HPV** (Prestasi Tinggi) — Civic Type R, Outlander, CX-5, Lancer Evo X
@@ -70,16 +70,16 @@ PDRM mempunyai armada terbesar:
 - **Pengangkutan** — varian Hiace, HICOM Handalan II, Hilux kargo
 - **Tunda** — Isuzu Tow Truck, Hino/Fuso Tow
 - **Rusuhan** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
-- **Motosikal** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
+- **Motosikal** — POLIS Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
 - **Berperisai** — **AV4** dan **V150** (kalis peluru)
 
 ### Helikopter
 
-PDRM mempunyai **PDRMHeliSpawner** — polis udara. Spawn dari pemilih ViewportFrame balai.
+POLIS mempunyai **PDRMHeliSpawner** — polis udara. Spawn dari pemilih ViewportFrame balai.
 
 ### Jangkaan
 
-- **Menjadi rogue sebagai PDRM adalah pelanggaran yang serius.** Polis yang melakukan jenayah = ban.
+- **Menjadi rogue sebagai POLIS adalah pelanggaran yang serius.** Polis yang melakukan jenayah = ban.
 - Ikuti protokol roleplay — perkenalkan diri, nyatakan tuduhan, beri suspek peluang untuk mematuhi.
 - Gunakan MDT tablet untuk BOLO suspek; pegawai lain akan mendapat lencana + bunyi + amaran toast.
 
@@ -87,7 +87,7 @@ Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) untuk aliran tangka
 
 ---
 
-## BOMBA (Jabatan Bomba dan Penyelamat) — Kebakaran & Penyelamatan
+## BOMBA (Bomba MYSverse) — Kebakaran & Penyelamatan
 
 Kumpulan: 2957304. Mana-mana pangkat.
 
@@ -171,7 +171,7 @@ Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health) untuk pecahan kit 
 
 ---
 
-## SJAM (St. John Ambulans Malaysia)
+## SJAM (St. John Ambulans MYSverse)
 
 Kumpulan: 3027933, pangkat 2+.
 
@@ -189,7 +189,7 @@ Kor polis sukarelawan. Alat:
 - Geledah
 - Lampu Suluh
 
-Mandat terhad — menyokong PDRM di tempat kejadian, kawalan orang ramai. Tiada kuasa tangkap secara langsung.
+Mandat terhad — menyokong POLIS di tempat kejadian, kawalan orang ramai. Tiada kuasa tangkap secara langsung.
 
 ---
 
@@ -227,11 +227,11 @@ Pesawat perbarisan + rotorcraft tersedia untuk persediaan istiadat / operasi.
 
 ---
 
-## Polis Tentera (KPTD) — Kor Polis Tentera Diraja
+## Polis Tentera (KPTD) — Kor Polis Tentera MYSverse
 
 Kumpulan: 2817141. Mana-mana pangkat.
 
-Sayap polis tentera sendiri. Mempunyai kuasa tangkap seperti PDRM, tetapi biasanya hanya ke atas anggota MAF (mengikut konvensyen roleplay).
+Sayap polis tentera sendiri. Mempunyai kuasa tangkap seperti POLIS, tetapi biasanya hanya ke atas anggota MAF (mengikut konvensyen roleplay).
 
 ### Alat
 
@@ -252,14 +252,14 @@ Kereta ronda KPTD khusus — X70 KPTD, Preve KPTD, Civic KPTD, dll. + motosikal.
 
 Perkhidmatan kecemasan sering bekerjasama:
 
-- **Tindak balas pelbagai kenderaan** di insiden besar — PDRM + BOMBA + KKM.
+- **Tindak balas pelbagai kenderaan** di insiden besar — POLIS + BOMBA + KKM.
 - **Panggilan BOMBA** mencetuskan `IncidentEvent` yang didengari oleh klien BOMBA; yang lain boleh dispatch sendiri.
-- **MDT BOLO** dari PDRM memberitahu semua pegawai yang bertugas (bunyi + toast + lencana).
-- **KKM** menstabilkan orang awam yang tumbang; PDRM boleh meneruskan tangkapan mereka selepas penstabilan.
+- **MDT BOLO** dari POLIS memberitahu semua pegawai yang bertugas (bunyi + toast + lencana).
+- **KKM** menstabilkan orang awam yang tumbang; POLIS boleh meneruskan tangkapan mereka selepas penstabilan.
 
 ## Petua & jerangkap
 
-- **Main mengikut pasukan anda.** PDRM tidak menembak dahulu; BOMBA tidak menangkap; KKM tidak terlibat dengan suspek.
+- **Main mengikut pasukan anda.** POLIS tidak menembak dahulu; BOMBA tidak menangkap; KKM tidak terlibat dengan suspek.
 - **Menjadi rogue = ban teruk.** Pada mana-mana pasukan perkhidmatan awam, jenayah = tindakan moderasi serta-merta. Lihat [Peraturan](/bandaraya/rules#severe-violations).
 - **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger — semua alat percuma. Lihat [Tablet](/bandaraya/tablet).
 - **Armour = bahagian Armor.** Kenderaan dengan bahagian `Armor` di dalamnya adalah kalis peluru (cth. AV4). Lihat [Kenderaan](/bandaraya/vehicles#bulletproofing).
@@ -267,7 +267,7 @@ Perkhidmatan kecemasan sering bekerjasama:
 
 ## Lihat juga
 
-- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — aliran tangkapan PDRM
+- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — aliran tangkapan POLIS
 - [Pertempuran & Kesihatan](/bandaraya/combat-and-health) — senjata, perisai, kecederaan, kit perubatan
 - [Tablet](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
 - [Kenderaan](/bandaraya/vehicles) — armada kecemasan

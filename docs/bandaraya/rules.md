@@ -80,7 +80,7 @@ Keep doing small things wrong? Severe ban.
 
 ### 3. Going rogue on public services
 
-If you're on **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
+If you're on **POLIS, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
 
 ### 4. Ban evasion
 

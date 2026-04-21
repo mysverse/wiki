@@ -48,7 +48,7 @@ Add items from the furniture catalog. Available pieces include:
 - **Chairs**
 - **Mirror**
 
-Place items inside your house; move and rotate them until the layout feels right. Furniture costs BR per piece — check the in-game placement menu for prices.
+Place items inside your house; move and rotate them until the layout feels right. In the current version of the game, furniture placement **does not deduct BR** — the currency system isn't live yet (see [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live)). Enjoy the free decorating while it lasts.
 
 ### Doors
 

@@ -4,13 +4,13 @@ description: >-
   Setiap kerja di Bandaraya — perkhidmatan pos, pemandu teksi, tunda, pemandu
   bas, dan kerja agensi — dengan kadar gaji dan pangkat.
 lang: ms
-translated_from_hash: 33dd3a97
+translated_from_hash: 2fdee6c4
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # Kerjaya
 
-Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan PDRM / BOMBA / KKM tiada di halaman ini — mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
+Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan POLIS / BOMBA / KKM tiada di halaman ini — mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
 
 ## Ringkasan
 
@@ -25,7 +25,7 @@ Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses o
 
 ## Postal Service (POS)
 
-Kerja pertama yang paling popular. Tiada gamepass diperlukan — tetapi anda perlu berada dalam **pasukan separa-awam**: **Visitors**, **Malaysians**, **High Class Citizen**, atau **Developers**. PDRM / BOMBA / KKM / dan lain-lain tidak boleh mula bekerja sebagai POS (permainan akan menghalang anda pada langkah mula-kerja).
+Kerja pertama yang paling popular. Tiada gamepass diperlukan — tetapi anda perlu berada dalam **pasukan separa-awam**: **Visitors**, **Malaysians**, **High Class Citizen**, atau **Developers**. POLIS / BOMBA / KKM / dan lain-lain tidak boleh mula bekerja sebagai POS (permainan akan menghalang anda pada langkah mula-kerja).
 
 ### Aliran kerja
 

@@ -52,9 +52,8 @@ If you want to work in law enforcement without a gamepass, **APJ** (level 300) i
 1. Drive to a station — **PETROMAS** on the highway, **Radtrol** in Bandar Seri Putra.
 2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
 3. An on-screen prompt appears — interact to pump / charge.
-4. BR is deducted per litre.
 
-Fuel prices: Electric 1 BR/L, Petrol 2 BR/L, Diesel 3 BR/L. A full 40-litre petrol tank costs 80 BR.
+Fuel is **currently free** in this version of the game. Config prices (Electric 1 / Petrol 2 / Diesel 3 BR per litre) are defined but not yet being charged — refuelling doesn't deduct any BR from your balance.
 
 ### My car ran out of fuel and I'm stranded. What now?
 
@@ -103,7 +102,9 @@ Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose 
 
 ### How do I fast travel?
 
-Open the **Fast Travel** menu (topbar or main menu). Select a destination and confirm. Fast-travelling **pauses your XP-from-distance accumulation for 5 minutes** to prevent exploiting — so don't fast-travel right before a long drive if you want maximum XP.
+**Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around — drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
+
+(If you ever see the FastTravel menu appear, it means you've been granted staff access.)
 
 ### I joined a convoy but I'm not getting the bonus.
 

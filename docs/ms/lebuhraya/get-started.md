@@ -4,85 +4,80 @@ description: >-
   10 minit pertama anda di Lebuhraya — hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: 1e15992a
+translated_from_hash: 3aa77d1d
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # Mula
 
-Selamat datang ke Lebuhraya! Panduan ini akan membantu anda mengambil langkah pertama dalam pengalaman memandu dan roleplay bertemakan Malaysia ini.
+Selamat datang ke Lebuhraya. Halaman ini memandu anda melalui sesi pertama anda — daripada menyertai server sehinggalah memperoleh Ringgit (BR) pertama anda dan mengambil kerja pertama.
 
-## Penyertaan Pertama
+## Apa itu Lebuhraya?
 
-![Menu Utama](/images/lebuhraya/main-menu.png)
+Lebuhraya ialah pengalaman main peranan pemanduan yang berlatarbelakangkan lebuh raya Malaysia. Pandu kereta, motosikal, lori, dan bas antara tiga kawasan utama. Ambil kerja — daripada penghantaran makanan sehinggalah memadam kebakaran — untuk memperoleh Ringgit dan naik taraf. Beli rumah, sertai konvoi bersama rakan-rakan, atau sekadar berjalan-jalan.
 
-Apabila anda pertama kali menyertai Lebuhraya (v3.0.15+), anda mungkin akan melihat video panduan permulaan pantas. Adalah idea yang baik untuk menontonnya bagi mendapatkan gambaran ringkas.
+Nama "Lebuhraya" bermaksud "highway" dalam Bahasa Melayu.
 
-## Memilih Pasukan Anda
+## Minit pertama anda
 
-Selepas menyertai, anda kemungkinan besar akan bermula sebagai **Pelawat**. Anda boleh menukar pasukan melalui menu utama.
-Sesetengah pasukan adalah percuma, sesetengah memerlukan anda menyertai kumpulan Roblox tertentu (pasukan "Malaysians"), sesetengah dibuka kunci apabila mencapai tahap tertentu dalam permainan, dan yang lain memerlukan gamepass.
+Apabila anda menyertai buat kali pertama, anda akan muncul dalam pasukan **Visitors** dengan:
 
-- **Lokasi Spawn Lalai:** Sebagai Pelawat atau Malaysian, lokasi spawn lalai anda boleh ditetapkan ke **Putra Mahkota** atau **Jersik** melalui menu utama (v3.0.11+, v3.5.8).
+- Baki permulaan **1000 BR** (Ringgit) — **dijejak tetapi belum digunakan**. Sistem mata wang ini dirancang, belum aktif (lihat [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) untuk butiran). Buat masa ini, semuanya percuma.
+- **Level 1**, 0 XP
+- Tiada kenderaan (anda perlu hasilkan satu dari menu)
 
-## Kawalan Asas & UI
+Lihat sekeliling HUD:
 
-- **Pergerakan:** Kawalan Roblox standard untuk berjalan (WASD/Thumbstick).
-- **Berlari:** Gunakan kekunci Left Shift pada papan kekunci. Untuk peranti skrin sentuh, togol larian di **⚙️ Menu Tetapan** (v3.3.26).
-- **Memandu:**
-  - Masuk/Keluar Kenderaan: Arahan interaksi standard.
-  - Pecutan, Brek, Stereng: Biasanya W/A/S/D atau kawalan pada skrin untuk mudah alih.
-  - **Kawalan Kenderaan Skrin Sentuh (v3.0.7+):** Ketik butang "^" di bahagian tengah semasa di dalam kenderaan untuk mengakses kawalan seperti:
-    - Terbalikkan Kenderaan
-    - Lampu Hadapan
-    - Lampu Kabus
-    - Lampu Hazard
-    - Lampu Isyarat (Kiri/Kanan)
-    - Mod Orang Pertama
-    - _(Nota: Ciri lampu bergantung pada kenderaan)_
-- **Menu Utama:** Akses menu utama melalui butang topbar (boleh dilakukan tanpa reset sejak v3.5.9).
-  - **Tab Kerjaya:** Menunjukkan kemajuan anda dan maklumat tentang kenderaan yang boleh dibuka kunci (v3.0.1, v3.0.13).
-  - **Menu Pasukan:** Senarai pasukan yang tersedia dan cara membuka kuncinya (v3.0.13).
-  - **Kedai:** Akses kepada gamepass dan pembelian lain.
-- **Telefon Bimbit (v3.3.12):** Akses melalui ikon 📱 telefon di topbar untuk melayari katalog RMU, mengambil swafoto, dan mengakses aplikasi pihak ketiga seperti Rafahia (v3.5.9).
-- **Tablet (v3.3.12):** Untuk pasukan Penguatkuasa Undang-undang (Polis Trafik, KEMRonda). Semak maklumat kenderaan melalui plat pendaftaran. Akses melalui ikon tablet di topbar.
-- **Peta Mini (v3.3.13, v3.3.14):**
-  - Peta mini dinamik untuk membantu navigasi.
-  - Zum masuk/keluar dengan roda tetikus atau cubit-untuk-zum (apabila dikembangkan).
-  - Menunjukkan jalan utama, jalan sekunder, dan jalan tanah.
-- **XP & Naik Tahap:**
-  - Peroleh XP dengan memandu (cth., +50 XP setiap 1000 stud setakat v3.0.5), menyelesaikan tugasan kerja, melawat mercu tanda (+100 XP, v3.0.3), menjawab kuiz sekolah dengan betul (+250 XP, v3.3.13), dan menyertai cabaran.
-  - Setiap tahap memerlukan 1,000 XP (v3.0.5).
-  - Pemberitahuan naik tahap muncul dalam chat (setiap 10 tahap untuk mengurangkan kekusutan, v3.0.4) dan apabila kenderaan baharu dibuka kunci (v3.0.13).
-  - Tahap Maksimum Semasa: **500** (v3.4.23).
+- **Kiri atas**: baki semasa, tahap, dan bar kemajuan XP anda
+- **Kanan atas**: ikon Telefon (ketik untuk buka apl dan kecemasan 999)
+- **Bawah**: ikon Tetapan dan Menu Utama
 
-## Berinteraksi dengan Dunia
+## Menghasilkan kenderaan pertama anda
 
-- **Tol:** Gunakan arahan proksimiti atau pengesan klik untuk melalui plaza tol (v3.0.10). Sesetengah kenderaan LE mempunyai MYS RFID untuk laluan automatik (v3.2.4). Masa interaksi dibuang untuk perjalanan lebih lancar (v3.3.9).
-- **Penjana Kenderaan:** Akses kenderaan berdasarkan pasukan dan tahap anda. UI dioptimumkan untuk mudah alih (v3.0.9). Penjana pasukan dikunci kepada pasukan sahaja (v3.4.14).
-- **Kedai & Perkhidmatan:**
-  - **Gravstone Workshop (Bandar Seri Putra):** Ubah suai cat kenderaan (memerlukan gamepass Vehicle Colour Picker, v3.0.13).
-  - **Stesen Minyak:** Isi semula bahan api kenderaan anda (Sistem Bahan Api Beta, v3.5.0).
-  - **Kawasan RnR (Rehat dan Rawat):** Temui kedai seperti Max Beef Lebuhraya, Zuman's Coffee, Flyers Cafe Mini (v3.3.0).
-- **Alat Boleh Letak:** Sesetengah pasukan mempunyai alat seperti kon atau papan tanda. Putaran dikaitkan dengan kamera pemain (v3.3.0). Fizik dan perlanggaran telah dilumpuhkan pada alat boleh letak untuk mengelakkan penyekatan laluan (v3.3.4).
+1. Buka menu **MyPod** (pemunculan kenderaan). Pada desktop, ikonnya berada di bar atas; pada mudah alih, ia berada di kelompok kanan atas.
+2. Semak senarai kenderaan. Kenderaan permulaan percuma tersedia untuk semua orang.
+3. Pilih satu dan klik **Spawn**. Kenderaan anda akan muncul di hadapan anda.
 
-## Perkara Penting untuk Dilakukan pada Awal
+Berjalan ke pintu pemandu dan tekan **F** (papan kekunci), **X** (gamepad), atau ketik butang **Drive** (mudah alih) untuk duduk.
 
-1. **Teroka:** Memandu di sekeliling dan lawati mercu tanda untuk memperoleh XP awal. Putra Mahkota dan Jersik adalah titik permulaan yang baik.
-2. **Pilih Kerjaya Percuma:**
-   - **Pemandu Bas:** Tiada keperluan tahap. Peroleh +1000 XP setiap laluan yang diselesaikan. Mempunyai sistem waypoint yang kelihatan.
-   - **Penghantaran Makanan:** Dibuka pada Tahap 10.
-   - **Pelupusan Sisa:** Dibuka pada Tahap 25. Pastikan Lebuhraya bersih dengan mengumpul sampah.
-   - **Pejabat Pos:** Dibuka pada Tahap 50. Hantar mel untuk +100 XP setiap bungkusan.
-   - **Logistik:** Dibuka pada Tahap 75. Hantar barangan dengan lori anda.
-   - **Power Nasional:** Dibuka pada Tahap 100. Baiki lampu jalan untuk +25 XP setiap kerja.
-   - **Penebang Kayu:** Dibuka pada Tahap 150. Tebang pokok dan jual kayu balak.
-3. **Semak Cabaran Harian/Mingguan:** Akses melalui menu dalam permainan untuk XP dan ganjaran lain (Beta, v3.3.24).
-4. **Lawati SMK MYS II (Sekolah):** Sertai kuiz untuk XP (soalan Sejarah dikemas kini dalam v3.5.6).
+## Memandu dan memperoleh XP pertama anda
 
-## Memahami Kemas Kini Permainan
+Anda memperoleh XP hanya dengan memandu. Setiap **1500 stud** yang anda tempuh dalam tempat duduk pemandu memberikan anda **50 XP**. Itu sudah cukup untuk melepasi peningkatan level 1 → 2 dalam kira-kira 20 minit pemanduan santai. Tiada penalti untuk pemanduan perlahan — pastikan kenderaan terus bergerak dan XP akan terus bertambah.
 
-- **Penunjuk Pelayan Lapuk (v3.4.7):** Menu utama dan teks debug akan menunjukkan jika anda berada di pelayan yang lapuk.
-- **Pengumuman Pelayan Langsung (v3.4.7):** Semak menu utama untuk pengumuman langsung tentang kemas kini atau mula semula yang dirancang.
+Mahu lebih pantas?
 
-Selamat meneroka Lebuhraya! Rujuk bahagian lain panduan ini untuk maklumat lebih terperinci mengenai ciri-ciri tertentu.
+- **Buat kerja** — setiap tindakan yang siap memberikan XP bonus
+- **Memandu bersama rakan** dalam konvoi — sehingga +50% bonus XP
+- **Aktifkan token XP Boost** daripada inventori anda untuk 2× XP
+- **Acara hujung minggu** sekali-sekala menggandakan XP semua orang
+
+## Memilih kerja pertama anda
+
+Anda tidak boleh memilih kerja pada hari pertama — kebanyakan kerja dibuka mengikut tahap. Pencapaian pertama anda ialah **Level 10**, yang membuka pasukan **Food Delivery**. Ia cara terpantas untuk mula memperoleh BR secara konsisten.
+
+Berikut ialah perkembangan percuma-dan-awal:
+
+| Buka | Pasukan / Ciri |
+|---|---|
+| Mula | Bus Driver, Visitors |
+| Ahli kumpulan (1143446) | Pasukan Malaysians (Fishing, Checkout) |
+| Level 10 | Food Delivery |
+| Level 25 | Waste Disposal |
+| Level 50 | Post Office |
+| Level 75 | Logistics (Trucking) |
+
+Lihat [Teams and Careers](/lebuhraya/teams) untuk senarai penuh dan [Jobs](/lebuhraya/jobs) untuk memahami apa yang setiap satu lakukan.
+
+## Apa yang berlaku apabila saya berlanggar?
+
+Kenderaan mengalami kerosakan apabila anda melanggar sesuatu. Kenderaan yang rosak teruk boleh ditunda oleh pemain **KEMRonda** atau dibaiki di **Gravstone Workshop** di Bandar Seri Putra. Jika anda tersangkut di suatu tempat, anda sentiasa boleh menyahhasilkan kenderaan anda dari menu MyPod dan menghasilkan yang baharu.
+
+## Nota tentang server ujian
+
+Jika anda menyertai **Studio test server** atau server persendirian, anda akan melihat amaran bahawa "XP will be reset to 0." Ini adalah normal — server ujian tidak menyimpan kemajuan supaya pembangun boleh menguji dengan fresh. Pada permainan langsung, XP dan BR anda disimpan secara automatik apabila anda keluar.
+
+## Langkah seterusnya
+
+- Baca [Controls](/lebuhraya/controls) untuk rujukan input penuh
+- Semak [Economy and XP](/lebuhraya/economy) untuk memahami susunan pendarab
+- Semak [Jobs](/lebuhraya/jobs) untuk merancang pasukan mana yang hendak disasarkan

@@ -4,7 +4,7 @@ description: >-
   Mercu tanda, bangunan, jalan, stesen, hospital, dan kedai di seluruh
   Bandaraya.
 lang: ms
-translated_from_hash: f228f901
+translated_from_hash: 0ec94584
 translated_on: '2026-04-21'
 needs_review: true
 ---

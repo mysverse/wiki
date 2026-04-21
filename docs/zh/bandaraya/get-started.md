@@ -2,7 +2,7 @@
 title: 开始体验 Bandaraya
 description: 在 Bandaraya 开始你的冒险 — 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。
 lang: zh
-translated_from_hash: efebfc95
+translated_from_hash: 4c561c70
 translated_on: '2026-04-21'
 needs_review: true
 ---

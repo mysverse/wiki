@@ -21,13 +21,14 @@ Kesihatan's core gameplay is treating **injuries** - damage sustained by players
 
 ### When the injury system is active
 
-A server-wide **injury system** can be toggled on. When it's on:
+The injury system **auto-activates whenever at least one Kesihatan player is on the server** — just by being on the team, you flip the switch for everyone. When it's on:
 
 - Players and NPCs can suffer proper injuries instead of insta-dying.
 - Injuries require medical treatment to heal.
 - **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
+- Each player's character carries an `InjurySystemEnabled = true` attribute while the system is live.
 
-That XP boost is a big deal. It applies to every job, every arrest, every harvest - so when Kesihatan is active, the whole server benefits. This is the single biggest reason to have medical players on.
+The server deactivates the injury system the moment the last Kesihatan player leaves. So just logging in as Kesihatan is enough to "activate" it — no manual toggle needed. That +15% XP boost is a big deal: it applies to every job, every arrest, every harvest - so when Kesihatan is on, the whole server benefits. This is the single biggest reason to have medical players on.
 
 ### Injury types
 

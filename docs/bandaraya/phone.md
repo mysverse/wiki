@@ -81,7 +81,7 @@ Report a crime, fire, medical emergency, or accident.
 2. Fill in the **nature** (what's happening) and **description** (details).
 3. Submit.
 
-The alert pings the relevant emergency team (PDRM for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
+The alert pings the relevant emergency team (POLIS for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
 
 Also available in Lebuhraya.
 
@@ -111,4 +111,4 @@ Apps with a "place" restriction only show in that place. For example, **e-hailin
 - [Getting Around](/bandaraya/getting-around) — CAG eWallet (on the phone)
 - [Jobs](/bandaraya/jobs) — e-hailing books bookings for Taxi Driver roles
 - [Economy](/bandaraya/economy) — BR currency (MyPay transfers)
-- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty PDRM/BOMBA/KKM
+- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty POLIS/BOMBA/KKM

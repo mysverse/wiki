@@ -75,7 +75,7 @@ See [Vehicles](/sumaya/vehicles) for how to spawn them.
 
 ## Ranks
 
-Bomba has 13 ranks, based on the real Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Malaysia). Your title updates automatically as your sector level rises.
+Bomba has 13 ranks, based on the real Fire and Rescue Department of MYSverse (Bomba MYSverse). Your title updates automatically as your sector level rises.
 
 | Level | Rank |
 |-------|------|

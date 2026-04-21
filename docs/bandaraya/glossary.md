@@ -1,6 +1,6 @@
 ---
 title: "Glossary — Malaysian Terms & Game Acronyms"
-description: "Malaysian acronyms and in-game terms explained — PDRM, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
+description: "Malaysian acronyms and in-game terms explained — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
 ---
 
 # Glossary — Malaysian Terms & Game Acronyms
@@ -18,14 +18,14 @@ Bandaraya leans hard on real Malaysian names. If you're not from Malaysia (or ha
 
 | Acronym | Full name | What it is |
 | --- | --- | --- |
-| **PDRM** | Polis Diraja Malaysia | Royal Malaysia Police. |
-| **BOMBA** | Jabatan Bomba dan Penyelamat | Fire & Rescue Department. |
-| **KKM** | Kementerian Kesihatan Malaysia | Ministry of Health (doctors, medics). |
-| **SJAM** | St. John Ambulans Malaysia | Volunteer ambulance service. |
+| **POLIS** | Polis MYSverse | MYSverse Police. |
+| **BOMBA** | Bomba MYSverse | Fire & Rescue Department. |
+| **KKM** | Kementerian Kesihatan MYSverse | Ministry of Health (doctors, medics). |
+| **SJAM** | St. John Ambulans MYSverse | Volunteer ambulance service. |
 | **RELA** | Ikatan Relawan Rakyat | Volunteer police corps. |
-| **MAF** | Malaysian Armed Forces | Army. |
-| **KPTD** | Kor Polis Tentera Diraja | Royal Military Police (military police branch). |
-| **JIM** | Jabatan Imigresen Malaysia | Immigration Department. |
+| **MAF** | MYSverse Armed Forces | Army. |
+| **KPTD** | Kor Polis Tentera MYSverse | Royal Military Police (military police branch). |
+| **JIM** | Jabatan Imigresen MYSverse | Immigration Department. |
 | **NWS** | National Wire Services | In-game state news agency. |
 | **OCG** | Organised Crime Group | Criminal roleplay team. |
 | **HCC** | High Class Citizen | Paid premium team (gamepass). |

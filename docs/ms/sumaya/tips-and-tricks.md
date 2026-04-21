@@ -2,85 +2,85 @@
 title: Petua & Helah
 description: 'Interaksi tersembunyi, kerenah mudah alih, dan petua pakar untuk Sumaya.'
 lang: ms
-translated_from_hash: 2c82a6a8
+translated_from_hash: 36133cf6
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # Petua & Helah
 
-Perkara-perkara yang tidak begitu jelas yang akan jimatkan masa anda atau buat anda nampak pandai. Semua yang ada di sini benar-benar wujud dari segi mekanik - bukan cerita dongeng.
+Perkara yang tidak ketara yang akan jimatkan masa anda atau buat anda nampak pandai. Semua yang ada di sini adalah benar dari segi mekanik - bukan cerita dongeng.
 
 ## Helah minimap
 
-### Tekan lama untuk letak titik laluan tersuai
+### Tekan lama untuk letak waypoint tersuai
 
-Buka **minimap skrin penuh** (klik minimap, atau tekan butang kembangkan). Kemudian **tekan lama** (kira-kira setengah saat) di mana-mana pada peta untuk letak titik laluan tersuai. Anda boleh:
+Buka **minimap skrin penuh** (klik minimap, atau ketik butang kembang). Kemudian **tekan lama** (kira-kira setengah saat) di mana-mana pada peta untuk letak waypoint tersuai. Anda boleh:
 
 - **Namakan semula** ia.
 - **Tukar warnanya**.
-- **Padamkan** ia.
+- **Padam** ia.
 
-Titik laluan **kekal merentas sesi**, jadi tandakan tempat memancing kegemaran anda sekali sahaja dan ia akan berada di situ selama-lamanya.
+Waypoint **kekal merentasi sesi**, jadi tandakan lokasi memancing kegemaran anda sekali dan ia akan berada di situ selama-lamanya.
 
-### F untuk muatkan semua titik laluan
+### F untuk muatkan semua waypoint
 
-Dalam peta skrin penuh, tekan **F** untuk zum keluar supaya **semua titik laluan anda** muat dalam pandangan serentak. Bagus untuk merancang perjalanan beberapa hentian.
+Dalam peta skrin penuh, tekan **F** untuk zum keluar bagi memuatkan **semua waypoint anda** dalam paparan serentak. Hebat untuk merancang perjalanan berbilang hentian.
 
-### Pancaran panduan mengikut titik laluan terdekat
+### Pancaran panduan mengikut waypoint terdekat
 
-Pancaran berwarna dari watak anda ialah cara permainan menunjuk kepada **titik laluan paling penting** pada masa itu - langkah kuest, kebakaran aktif, panggilan 999. Jika anda ingin menggantikannya buat sementara, tetapkan titik laluan tersuai dengan keutamaan lebih tinggi (atau abaikan sahaja).
+Pancaran berwarna dari watak anda adalah cara permainan menunjukkan **waypoint paling penting** sekarang - langkah quest, kebakaran aktif, panggilan 999. Jika anda mahu menggantikannya sementara, tetapkan waypoint tersuai dengan keutamaan lebih tinggi (atau abaikan sahaja).
 
 ## Helah telefon
 
-### Anda bermula pasif, dan alat jenayah keluarkan anda daripadanya
+### Anda mula pasif, dan alat jenayah akan keluarkan anda
 
-Pemain baru muncul **pasif secara lalai** — anda kebal sehingga anda sengaja matikan (atau ambil Slim Jim / Pickpocket Knife, yang automatik keluarkan anda daripada pasif). Menutupnya kekal tutup sehingga anda togol semula.
+Pemain baru muncul **pasif secara lalai** — anda tidak boleh dicederakan sehingga anda sengaja matikannya (atau ambil Slim Jim / Pickpocket Knife, yang akan keluarkan anda daripada pasif secara automatik). Setelah dimatikan, ia kekal mati sehingga anda toggle balik.
 
 **Anda tidak boleh aktifkan semula pasif jika:**
 - Anda memegang alat jenayah (jatuhkan dahulu).
 - Anda sedang dikehendaki (tunggu pereputan 5 minit).
-- Anda seorang pegawai POLIS (polis tidak pernah pasif — ia sifat pasukan).
-- Anda berada dalam **kunci pasif** selepas kemalangan/memandu laju/jenayah baru-baru ini (tempoh berskala dengan tahap bintang — lihat [Jenayah dan Undang-Undang](/sumaya/crime-and-law)).
+- Anda adalah pegawai POLIS (polis tidak pernah pasif — ia sifat pasukan).
+- Anda berada dalam **kunci pasif** selepas kemalangan/memandu laju/jenayah terkini (tempoh berskala dengan tahap bintang — lihat [Crime and Law](/sumaya/crime-and-law)).
 
-### Togol perlanggaran untuk melalui kereta letak
+### Toggle perlanggaran untuk menembusi kereta diparkir
 
-Tersekat di belakang kereta pemain yang diletak? Buka aplikasi **Collision** pada telefon anda dan lumpuhkan perlanggaran. Kenderaan anda kini boleh melalui orang lain. Pandu keluar, aktifkan semula perlanggaran.
+Terperangkap di belakang kereta pemain yang diparkir? Buka aplikasi **Collision** pada telefon anda dan matikan perlanggaran. Kenderaan anda kini menembusi yang lain. Pandu keluar, aktifkan semula perlanggaran.
 
-### Aplikasi kamera menangkap dalam permainan
+### Aplikasi Kamera menangkap dalam permainan
 
-Aplikasi **Camera** pada telefon anda ambil tangkapan skrin dalam dunia. Bagus untuk:
+Aplikasi **Camera** pada telefon anda mengambil tangkapan skrin dalam dunia. Sesuai untuk:
 
-- Mempamerkan rumah anda.
-- Menangkap detik lakonan peranan.
-- Merakam tangkapan 5 bintang untuk kenangan.
+- Menunjukkan rumah anda.
+- Merakam momen roleplay.
+- Merakam tangkapan 5 bintang sebagai kenangan.
 
-### Sembunyikan kad tugas
+### Tutup kad tugas
 
-Kad tugas (atas-kiri) boleh menutup kawalan pemanduan mudah alih. Tekan ikon **chevron (^)** pada kad untuk mengecilkannya ke saiz minimum. Tekan lagi untuk kembangkan semula. Kemajuan kuest diteruskan sama ada cara.
+Kad tugas (atas kiri) boleh menutupi kawalan memandu mudah alih. Ketik ikon **chevron (^)** pada kad untuk runtuhkan ia ke saiz minimum. Ketik semula untuk kembangkan. Kemajuan quest berterusan sama ada cara.
 
-## Helah pemanduan
+## Helah memandu
 
 ### Siren = tiada saman
 
-Jika anda berada dalam **kenderaan Polis, Bomba, atau Kesihatan dengan siren aktif**, anda automatik dikecualikan daripada kesalahan memandu laju dan kemalangan. Hidupkan siren apabila anda memberi respons. Matikannya apabila anda letak kereta, supaya orang lain tidak fikir anda masih bertugas.
+Jika anda berada dalam **kenderaan Polis, Bomba, atau Kesihatan dengan siren aktif**, anda secara automatik dikecualikan daripada kesalahan memandu laju dan kemalangan. Buka siren bila anda menyahut panggilan. Tutup siren bila anda parkir, supaya orang lain tidak fikir anda masih dalam tugas.
 
 ### Kereta awam percuma
 
-Kebanyakan kereta awam muncul percuma (tiada sewa, tiada harga beli). Jangan bazir Ringgit menyewa Protan Wira sedangkan kereta yang sama percuma di spawner yang sama. Semak lajur "free" sebelum bayar.
+Kebanyakan kereta awam muncul secara percuma (tiada sewa, tiada harga beli). Jangan bazir Ringgit menyewa Protan Wira bila kereta yang sama adalah percuma di spawner yang sama. Semak lajur "free" sebelum membayar.
 
-### Trawler percuma semasa syif
+### Trawler percuma ketika bertugas
 
-Trawler Tier 1 muncul percuma selagi anda masuk syif di Sektor Perikanan. Anda hanya bayar untuk trawler Tier 2 (25k) dan Tier 3 (37k) yang lebih besar.
+Trawler Tier 1 muncul percuma selagi anda clock in ke Fishing Sector. Anda hanya bayar untuk trawler Tier 2 (25k) dan Tier 3 (37k) yang lebih besar.
 
 ## Helah wang
 
-### Simpan wang besar anda di bank
+### Bank wang besar anda
 
-**Dompet** anda boleh diseluk poket (80-300 SR dicuri satu masa). **Bank** tidak boleh. Simpan mungkin 500 SR dalam dompet anda untuk kedai, simpan selebihnya.
+**Dompet** anda boleh dikutip picik (80-300 SR dicuri setiap kali). **Bank** tidak boleh. Simpan sekitar 500 SR dalam dompet untuk kedai, simpan yang lain.
 
-### Pemasaan bonus pencapaian
+### Pemasaan bonus milestone
 
-Jangan tamatkan sesi anda pada 14 kebakaran dipadam, 9 rawatan diberikan, atau 4 tangkapan dibuat. Satu tindakan lagi beri anda bonus pencapaian:
+Jangan tamatkan sesi anda pada 14 kebakaran dipadam, 9 rawatan diberi, atau 4 tangkapan dibuat. Satu lagi tindakan akan dapatkan anda bonus milestone:
 
 - Bomba: **+150 SR pada 15 blok.**
 - Kesihatan: **+150 SR pada 10 rawatan.**
@@ -88,45 +88,45 @@ Jangan tamatkan sesi anda pada 14 kebakaran dipadam, 9 rawatan diberikan, atau 4
 
 ### Bantu Bomba untuk XP pasif
 
-Jika anda POLIS atau Kesihatan dan berdiri dalam **512 studs** dari kebakaran aktif semasa pemadam Bomba memadamkan blok, anda dapat **10 XP pemain setiap blok** tanpa buat apa-apa. Bagus untuk grinding semasa menunggu penjenayah atau pesakit.
+Jika anda POLIS atau Kesihatan dan berdiri dalam **512 stud** daripada kebakaran aktif sementara ahli bomba Bomba memadam blok, anda dapat **10 XP pemain per blok** tanpa buat apa-apa. Bagus untuk grinding sambil menunggu penjenayah atau pesakit.
 
-### Tangkapan 5 bintang berbaloi dikem
+### Tangkapan 5 bintang berbaloi untuk dikepung
 
-Satu tangkapan 5 bintang = 400 XP + 1,200 Ringgit untuk pegawai yang menangkap, dan 200 XP / 600 Ringgit untuk mana-mana pegawai berdekatan. Jika seseorang mengangkut Hornbill dan menyeluk poket pemain, mereka akan kumpul bintang dengan cepat. Bersedia.
+Satu tangkapan 5 bintang = 400 XP + 1,200 Ringgit kepada pegawai yang menangkap, dan 200 XP / 600 Ringgit kepada mana-mana pegawai berdekatan. Jika seseorang menyeludup Hornbill dan mengutip picik pemain, mereka akan kumpul bintang dengan cepat. Bersedia.
 
-## Helah kuest
+## Helah quest
 
-### Kuest dicetuskan di latar belakang
+### Quest dicetuskan di latar belakang
 
-Anda tidak perlu fokus pada kuest. Ia auto-lengkap semasa anda main seperti biasa. Pastikan sahaja buka aplikasi **Quest** sekali-sekala untuk tuntut ganjaran.
+Anda tidak perlu fokus pada quest. Ia lengkap secara automatik ketika anda bermain seperti biasa. Pastikan anda buka **Quest app** sesekali untuk menuntut ganjaran.
 
-### Langkah teratur untuk kuest lore
+### Langkah berurutan untuk quest lore
 
-Dua kuest terakhir ("A Day in Sumaya", "The Ringgit Grind") mempunyai **susunan langkah yang ketat**. Jika anda spawn kenderaan sebelum semak telefon anda, langkah-kenderaan tidak akan dikira. Baca senarai langkah mengikut turutan dan buat satu per satu.
+Dua quest terakhir ("A Day in Sumaya", "The Ringgit Grind") mempunyai **susunan langkah yang ketat**. Jika anda spawn kenderaan sebelum semak telefon anda, langkah kenderaan tidak akan dikira. Baca senarai langkah mengikut urutan dan buat satu per satu.
 
-### Sektor perkhidmatan memerlukan tahap 50
+### Sektor perkhidmatan memerlukan level 50
 
-Kuest "Jack of All Trades" meminta anda cuba ketiga-tiga sektor awam. Perkhidmatan (Mamak/Makanan Segera) memerlukan **tahap 50 dalam sektor lain** untuk dibuka. Jika anda tidak dapat maju dalam kuest ini, itulah sebabnya - pergi grinding perikanan atau minyak sawit ke tahap 50 dahulu.
+Quest "Jack of All Trades" meminta anda mencuba ketiga-tiga sektor awam. Service (Mamak/Fast Food) memerlukan **level 50 dalam sektor lain** untuk dibuka. Jika anda tidak boleh maju dalam quest ini, itulah sebabnya - pergi grind memancing atau kelapa sawit ke level 50 dahulu.
 
 ## Helah Kesihatan
 
-### Peningkatan XP +15% memanfaatkan semua orang
+### Boost XP +15% memberi manfaat kepada semua
 
-Apabila Kesihatan mengaktifkan sistem kecederaan, **semua pemain** di server dapat +15% XP peringkat pemain selama ia aktif. Peningkatan tidak menjejaskan XP sektor. Jika anda lihat peningkatan aktif, itu masa yang baik untuk grinding.
+Sistem kecederaan aktif secara automatik sebaik sahaja pemain Kesihatan sertai server, dan **semua pemain** dapat +15% XP peringkat pemain selagi sekurang-kurangnya seorang Kesihatan dalam talian. Dinyahaktifkan bila Kesihatan terakhir keluar. Boost tidak menjejaskan XP sektor. Jika anda nampak pemain Kesihatan dalam talian, masa grinding anda adalah 15% lebih cekap.
 
-### Rawatan TBI tidak perlu dijaga sebaik sahaja di katil
+### Rawatan TBI tidak perlu diawasi bila sudah di katil
 
-Rawatan Kecederaan Otak Traumatik memerlukan pesakit berbaring di katil perubatan selama 30 saat. Semasa pemasa itu berjalan, **anda boleh rawat pesakit lain**. Jangan hanya berdiri memerhati.
+Rawatan Kecederaan Otak Traumatik memerlukan pesakit berbaring atas katil perubatan selama 30 saat. Semasa pemasa itu berjalan, **anda boleh rawat pesakit lain**. Jangan berdiri memerhati sahaja.
 
 ## Helah perumahan
 
-### Bayaran balik 70% semasa jual
+### Bayaran balik 70% ketika jual
 
-Anda boleh jual rumah anda untuk **70% daripada harga bayaran**. Jadi "kos mencuba" sebenar Tier 3 Modern Terrace (1,200 SR) ialah 360 SR - 30% yang permainan simpan. Bukan murah, tapi bukan membinasa juga.
+Anda boleh jual rumah anda untuk **70% daripada apa yang anda bayar**. Jadi "kos mencuba" berkesan Tier 3 Modern Terrace (1,200 SR) adalah 360 SR - 30% yang permainan simpan. Bukan murah, tetapi bukan bencana.
 
 ### Satu plot pada satu masa
 
-Sistem menguatkuasakan had **1 plot per pemain**. Jangan cuba kumpul.
+Sistem menguatkuasakan had **1 plot setiap pemain**. Jangan cuba timbun.
 
 ### Perabot disimpan secara automatik
 
@@ -134,58 +134,58 @@ Letak perabot, berjalan pergi. Ia disimpan. Tiada pengesahan diperlukan.
 
 ## Helah jenayah
 
-### Serah diri kurangkan masa penjara separuh
+### Serah diri memotong masa penjara separuh
 
-Daripada lari daripada polis, cari **prompt serah diri** (biasanya berdekatan balai polis) dan serahkan diri anda. Masa penjara anda dikurangkan kira-kira separuh:
+Daripada lari dari polis, cari **surrender prompt** (biasanya dekat balai polis) dan serah diri. Masa penjara anda dikurangkan kira-kira separuh:
 
 - Tangkapan 5 bintang: 5 minit dalam penjara.
 - Serah diri 5 bintang: 150 saat dalam penjara.
 
-Anda tetap dapat kunci pasif selepas dilepaskan, tapi ia masih lebih pendek.
+Anda masih dapat kunci pasif selepas dibebaskan, tetapi ia masih jauh lebih pendek.
 
-### Jangan log keluar semasa dikehendaki
+### Jangan log keluar ketika dikehendaki
 
-Jika anda pergi di tengah-tengah kesalahan, sistem **LTAA** (Leave To Avoid Arrest) akan kenakan anda penjara lebih panjang apabila kembali:
+Jika anda keluar di tengah-tengah kesalahan, sistem **LTAA** (Leave To Avoid Arrest) akan kenakan penjara lebih panjang bila anda kembali:
 
 - Penjara 5 bintang biasa: 5 min.
 - Penjara LTAA 5 bintang: 6 min.
 
-Berhenti tidak membantu. Jalani atau serah diri.
+Keluar tidak membantu. Jalani hukuman atau serah diri.
 
-### Pereputan jika anda sembunyi
+### Reput jika anda bersembunyi
 
-Jika anda tidak melakukan kesalahan baru selama **5 minit**, status dikehendaki anda hilang sepenuhnya. Lakukan larian Hornbill, simpan 2,000 SR di bank, kemudian merendahkan profil - jangan laju balik ke tempat kejadian jenayah terakhir anda.
+Jika anda tidak lakukan kesalahan baru selama **5 minit**, status dikehendaki anda terhapus sepenuhnya. Lakukan lari Hornbill, bank 2,000 SR, kemudian diam diri - jangan laju balik ke tempat kejadian jenayah terakhir anda.
 
 ## Petua mudah alih
 
-### Kecilkan elemen HUD
+### Runtuhkan elemen HUD
 
-Kad tugas dan telefon kedua-duanya makan ruang skrin. Kecilkan apa yang anda tidak aktif gunakan. Sangat berguna semasa urutan mengejar di mana setiap piksel penting.
+Kad tugas dan telefon kedua-duanya makan ruang skrin. Runtuhkan apa yang anda tidak guna secara aktif. Sangat membantu semasa urutan kejaran di mana setiap piksel penting.
 
-### Ketik dua kali untuk sprint
+### Dua kali ketik untuk sprint
 
-Pada kebanyakan persediaan mudah alih, ketik dua kali joystick untuk togol sprint. Jauh lebih ergonomik daripada menekan butang sprint.
+Pada kebanyakan persediaan mudah alih, dua kali ketik joystick untuk toggle sprint. Jauh lebih ergonomik daripada menekan butang sprint.
 
-### Kamera telefon tidak boleh di-zoom
+### Kamera telefon tidak boleh zum
 
-Aplikasi kamera dalam permainan ambil tangkapan skrin pada bingkai tetap. Jika anda mahu gambar sinematik, guna aplikasi **Cinematic** untuk pandangan kamera bebas bergerak, kemudian ambil tangkapan skrin secara luaran.
+Aplikasi kamera dalam permainan mengambil tangkapan skrin pada bingkai tetap. Jika anda mahu syot sinematik, guna aplikasi **Cinematic** untuk paparan kamera bebas-jelajah, kemudian tangkap skrin secara luaran.
 
-## Helah lakonan peranan
+## Helah roleplay
 
 ### Mod pasif untuk perbualan
 
-Jika anda cuba adakan perbualan lakonan peranan, hidupkan mod pasif. Tiada sesiapa boleh pukul anda, merampas kereta anda, atau seret anda ke dalam pertempuran. Matikan semula apabila anda selesai.
+Jika anda cuba mengadakan perbualan roleplay, buka mod pasif. Tiada siapa boleh pukul anda, curi kereta anda, atau heret anda ke dalam pertempuran. Tutup balik bila anda selesai.
 
 ### Panggilan 999 untuk imersi
 
-Mana-mana orang awam boleh dail 999 dan **taip mesej tersuai** menerangkan kecemasan. Pasukan kecemasan lihat panggilan anda dalam MDT dengan lokasi anda. Bagus untuk menyediakan senario lakonan peranan (laporkan rompakan, panggil kebakaran, minta pemindahan perubatan).
+Mana-mana orang awam boleh dail 999 dan **taip mesej tersuai** menerangkan kecemasan. Pasukan kecemasan nampak panggilan anda dalam MDT dengan lokasi anda. Hebat untuk menyediakan senario roleplay (laporkan rompakan, panggil kebakaran, minta pemindahan perubatan).
 
 ### Lampu dan pintu untuk suasana
 
-Rumah anda ada lampu dan pintu yang boleh ditogol. Biarkan lampu tutup untuk tangkapan skrin waktu senja. Kunci pintu apabila anda di rumah "luar tugas". Buka kunci untuk parti dalam permainan.
+Rumah anda mempunyai lampu dan pintu yang boleh ditogel. Biarkan lampu mati untuk tangkapan skrin senja. Kunci pintu bila anda di rumah "tidak bertugas". Buka kunci untuk parti dalam permainan.
 
 ## Apa seterusnya?
 
-- [Telefon dan UI](/sumaya/phone) untuk butiran lanjut pada setiap aplikasi telefon.
-- [Jenayah dan Undang-Undang](/sumaya/crime-and-law) untuk butiran serah diri, pereputan, dan kunci pasif.
-- [Perkembangan](/sumaya/progression) untuk matematik XP di sebalik peningkatan Kesihatan.
+- [Phone and UI](/sumaya/phone) untuk lebih banyak butiran mengenai setiap aplikasi telefon.
+- [Crime and Law](/sumaya/crime-and-law) untuk butiran serah diri, pereputan, dan kunci pasif.
+- [Progression](/sumaya/progression) untuk matematik XP di sebalik boost Kesihatan.

@@ -4,7 +4,7 @@ description: >-
   Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: c822a3e4
+translated_from_hash: 1fe68740
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -80,7 +80,7 @@ Lihat [Vehicles](/sumaya/vehicles) untuk cara memunculkannya.
 
 ## Pangkat
 
-Bomba mempunyai 13 pangkat, berdasarkan Jabatan Bomba dan Penyelamat Malaysia sebenar. Gelaran anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
+Bomba mempunyai 13 pangkat, berdasarkan Bomba MYSverse sebenar. Gelaran anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
 | Tahap | Pangkat |
 |-------|------|

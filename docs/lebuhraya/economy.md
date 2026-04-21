@@ -7,24 +7,34 @@ description: "Ringgit (BR), levels 1-500, XP multipliers, and the fastest ways t
 
 Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
 
-## Ringgit (BR)
+## Ringgit (BR) — tracked but not yet live
 
-Your currency. You start with **1000 BR** and you earn more by doing jobs, winning races, completing convoy runs, and redeeming rewards.
+Lebuhraya's currency system is **partially implemented**. Your account does carry a BR balance (it starts at **1000** and persists across sessions), but in the current version of the game:
 
-### Earning BR
+- **Nothing in Lebuhraya displays your BR balance.** There's no HUD readout, no leaderstat entry, no Phone app that shows it. The only script that reads your balance is a staff-only admin tool inside the Tablet app.
+- **The only active earn path is racing.** Winning races calls `Currency.Debit` and credits your account. Every other "payment" you might expect (Food Delivery, Post Office salary, tow fees, fuel sales, shop purchases, repair costs) is currently a no-op in Lebuhraya — the hooks exist but are commented out, stubbed, or bypassed.
+- **Nothing in Lebuhraya spends BR.** Shops are free. Fuel pumps don't charge. Tolls don't charge. Repair zones don't charge. Housing furniture doesn't charge. Developers have the infrastructure ready and many job systems have `rewardMode = "BR"` branches left as TODOs.
+- **Internal per-job counters are separate.** Post Office computes a `Salary` value, but it's stored in that job's own DataStore, not your BR account.
 
-- **Jobs** — Most jobs pay a flat or per-action BR amount. Food Delivery, Trucking, and Post Office are the reliable early earners. Emergency services (Bomba, Kesihatan) pay per resolved incident.
-- **Racing** — Track payouts scale with finish time and track difficulty.
-- **Convoy bonuses** — A convoy of friends earns extra BR per distance covered together.
-- **Daily / tier rewards** — Some career tiers give a BR payout when you rank up.
+**What this means for you**: don't budget your game plans around BR. Pick jobs for their XP rate, pick vehicles for how they drive (not their price tag), and enjoy everything currently for free. When BR goes live, your race-earned balance will carry forward.
 
-### Spending BR
+### What's tracked right now
 
-- **Fuel** — Prices listed in [Vehicles](/lebuhraya/vehicles). Electric is cheapest at 1 BR/litre, Diesel most expensive at 3 BR/litre.
-- **Shop items** — Food, snacks, tools, lanterns. See [Shops](/lebuhraya/shops).
-- **Housing** — Furniture and house customisation. See [Housing](/lebuhraya/housing).
-- **Vehicle repairs** — At a workshop after a crash.
-- **Gamepass access items** — Where a gamepass unlocks a team, you might also buy consumables that support that role.
+- Starting balance: **1000 BR** (shared across MYSverse Lebuhraya sessions, stored under DataStore2 key `ringgit`).
+- Active earn source: Race rewards only.
+- Active spend sources: none in Lebuhraya-specific code.
+- Shared MYSverse systems (Dealership, Tow, TapNGo) contain live spend logic that may or may not trigger in Lebuhraya — you won't see charges on-screen either way.
+
+### What will eventually use BR (planned)
+
+Based on code hints the following are planned but not currently wired up:
+
+- Fuel payments at PETROMAS / Radtrol (prices already defined: 1/2/3 BR/L)
+- Shop purchases (shop items have a `Price` field)
+- Food Delivery, Checkout, Lumberjack, Fishing — all have empty `BR` / `Both` reward branches
+- Post Office salary bridging to the real BR account
+- Vehicle dealership / purchases
+- Repair costs at repair zones
 
 ## Levels and XP
 
@@ -76,6 +86,8 @@ The total convoy multiplier is capped at **+50%**.
 - **Live game**: Level, XP, BR, vehicles, housing — all saved automatically when you leave the server. You don't need to manually save.
 - **Studio / test servers**: XP resets to 0 when you join. A warning message appears. This is normal — your live progress is not affected.
 - **Private servers**: The economy is disabled so your balance doesn't change, but nothing is lost in the main game.
+
+> If you're a staff member who uses Fast Travel, note that distance-based XP is paused for 5 minutes after each fast-travel to prevent skew. Normal players don't have access to Fast Travel, so this cooldown doesn't apply to them.
 
 ## Tips for levelling fast
 

@@ -2,180 +2,186 @@
 title: 通行证与加成
 description: Lebuhraya 的游戏通行证、XP 加成及 Premium 会员权益。
 lang: zh
-translated_from_hash: ce49308a
+translated_from_hash: 9eae0f3b
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # 通行证与加成
 
-本页汇总了你可以加速 Lebuhraya 进度的各种方式 — gamepass、Roblox Premium、Season Pass 以及特别活动。
+此页面汇总了你可以加速 Lebuhraya 进度的各种方式——gamepass、Roblox Premium、Season Pass 和特别活动。
 
 ## 团队 gamepass
 
-五个团队被锁在 gamepass 之后。购买通行证后,你将从主菜单永久获得该团队的访问权限。
+有五个团队被 gamepass 锁定。购买通行证后,你将从主菜单永久获得该团队的访问权。
 
-| 团队 | 你能获得什么 |
+| 团队 | 提供什么 |
 |---|---|
-| **Taxi Driver** | 加入 Taxi Driver 团队,通过载送 NPC 乘客赚取车费。出租车车款通过职业等级解锁。 |
-| **Bandaraya** | 套餐通行证 — 包括 Taxi Driver 访问权限和更多。 |
-| **KEMRonda** | 高速公路辅助警察访问权。拖车、路边援助工具。 |
-| **Bomba** | 消防与救援访问权。消防车、水管、扩张器、链锯。 |
-| **Polis Trafik** | 交通警察访问权。电击枪、雷达枪、警车。 |
-| **Undercover Police** | 无标识执法访问权。与 Polis Trafik 工具相同。 |
+| **Taxi Driver** | 加入 Taxi Driver 团队,通过载运 NPC 乘客赚取车费。出租车变体车款通过职业等级解锁。 |
+| **Bandaraya** | 组合通行证——包括 Taxi Driver 访问权及更多。 |
+| **KEMRonda** | 高速公路辅助警察访问权。拖车、路边救援工具。 |
+| **Bomba** | 消防救援访问权。消防车、水管、扩张器、链锯。 |
+| **Polis Trafik** | 交通警察访问权。电击枪、雷达测速枪、警车。 |
+| **Undercover Police** | 无标记执法访问权。与 Polis Trafik 相同的工具包。 |
 
-这些 gamepass 是以 Robux 一次性购买的。请在体验的 Store 选项卡或在相关机构建筑物的 NPC 处寻找。
+这些 gamepass 是以 Robux 进行的一次性购买。在体验的 Store 标签页或相关机构建筑的 NPC 处寻找它们。
 
 ## XP Boost gamepass
 
-对你所做的一切提供永久 **+50% XP**。可与所有其他 XP 倍率叠加 — Premium、车队、token、Double XP 周末。
+对你所做的一切永久 **+50% XP**。可与所有其他 XP 倍增器叠加——Premium、车队、代币、Double XP 周末。
 
-对于打算长期玩 Lebuhraya 的玩家来说,这是性价比最高的 gamepass 之一。
+对于计划长期游玩 Lebuhraya 的玩家来说,这是性价比最高的 gamepass 之一。
 
 ## Workshop gamepass
 
-解锁 Bandar Seri Putra 的 **Gravstone Workshop** 内的喷漆与车身定制菜单。有了它,你可以通过实时调色板重新上色你的车身、车窗、轮胎和轮辋。没有它,工坊会在你更改任何东西之前提示你购买。
+解锁 Bandar Seri Putra 的 **Gravstone Workshop** 的喷漆与车身定制菜单。有了它,你可以通过实时颜色选择器重新上色你的车身、车窗、轮胎和轮毂。没有它,工坊会在让你修改任何东西之前提示你购买。
 
 ## 其他 gamepass 福利
 
-可能还有较小的 gamepass 和开发者产品,涉及:
+可能存在更小的 gamepass 和开发者产品,用于:
 
 - 特殊车辆或车辆类别
 - 装饰物品
 - VIP server 设施
-- 工坊或设施访问权
+- Workshop 或设施访问权
 
-请查看游戏内 Store 获取当前列表。
+查看游戏内 Store 以获取当前列表。
 
 ## Roblox Premium
 
-Roblox Premium 订阅者在 Lebuhraya 自动获得永久 **+25% XP** — 无需激活。这与所有其他加成叠加。如果你已经订阅 Roblox Premium,你实际上始终处于 ×1.25。
+Roblox Premium 订阅者在 Lebuhraya 中自动获得永久 **+25% XP**——无需激活。这会与其他所有加成叠加。如果你已经订阅了 Roblox Premium,你实际上始终处于 ×1.25。
 
 ## Season Pass
 
-Lebuhraya 运行 **Season Pass** — 限时进度轨道,带有分级奖励。
+Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 
-### Season Pass 如何运作
+### Season Pass 的运作方式
 
-- 每个赛季持续一段固定时间(通常 5-6 周)。
-- 你通过完成任务赚取 **Season XP** — 与现有玩法活动相关的简短目标挑战。
-- 你清除的每个等级都授予一个 **奖励** — 通常是装饰物品、token,或(历史上)解锁团队的捷径。
-- **Premium Track**(通过 gamepass 购买)为每个等级解锁一条平行奖励路径。免费玩家获得免费奖励;Premium 持有者获得免费和高级奖励两者。
+- 每个赛季持续一段设定的时间(通常为 5-6 周)。
+- 你通过完成任务赚取 **Season XP**——与现有玩法活动相关联的简短目标挑战。
+- 你清除的每个等级都会授予一个**奖励**——通常是装饰物品、代币,或(历史上)解锁团队的捷径。
+- **Premium Track**(通过 gamepass 购买)为每个等级解锁一条平行的奖励路径。免费玩家获得免费奖励;Premium 持有者同时获得免费和 premium 奖励。
 
 ### 当前赛季:Season 2 "Lebuhraya"
 
-运行时间为 **2026 年 3 月 20 日 – 4 月 30 日**(UTC+8)。13 个等级。奖励集中于 XP 掉落、2× XP 和 Season Pass Boost token、徽章(如 "Season 2 Pioneer")以及可解锁的喷漆(如 "Copper Kampung")。
+运行于 **2026 年 3 月 20 日 – 4 月 30 日**(UTC+8)。13 个等级。奖励主要集中在 XP 掉落、2× XP 和 Season Pass Boost 代币、徽章(如 "Season 2 Pioneer")以及可解锁的喷漆(例如 "Copper Kampung")。
 
 ### Season 1 遗留解锁
 
-之前的 Season 1 通行证为完成它的玩家提早解锁三个团队:
+之前的 Season 1 通行证为完成它的玩家提前解锁了三个团队:
 
-- **Waste Disposal**(通常为 Level 25 — 部分游戏内 UI 仍显示 Level 50)
+- **Waste Disposal**(通常为 Level 25——某些游戏内 UI 仍显示 Level 50)
 - **Logistics**(通常为 Level 75)
 - **Lumberjack**(通常为 Level 150)
 
-在 Season 1 期间获得这些解锁的玩家将永久保留访问权限。Season 2 的奖励有所不同 — 请查看游戏内 Season 菜单获取当前等级列表。
+在 Season 1 期间获得这些解锁的玩家可永久保留访问权。Season 2 的奖励不同——查看游戏内 Season 菜单以获取当前的等级列表。
 
-## Token
+## 代币
 
-Token 是存放在你库存中的可消耗加成物品,需手动激活。完整列表请参见[社交功能 → Token 与加成](/lebuhraya/social-features#tokens-and-boosts)。
+代币是存储在你的库存中的可消耗加成物品,需手动激活。参见 [Social Features → Tokens and Boosts](/lebuhraya/social-features#tokens-and-boosts) 获取完整列表。
 
 最值得注意的:
 
-- **2× XP Boost** token — 在固定时间内 +100% XP
-- **Team Access Pass** — 临时访问 gamepass 锁定的团队
-- **2× Season Pass Boost** — Season Pass XP 收益翻倍
+- **2× XP Boost** 代币——在设定的持续时间内 +100% XP
+- **Team Access Pass**——对 gamepass 锁定团队的临时访问权
+- **2× Season Pass Boost**——使 Season Pass XP 获取量翻倍
 
 ## Double XP 周末
 
-游戏会定期举办 **Double XP Weekend** 活动。在活动期间,每位玩家的基础 XP 倍率变为 ×2。这是在所有其他加成之上的。
+游戏会定期举办 **Double XP Weekend** 活动。在活动期间,每位玩家的基础 XP 倍增器变为 ×2。这是在其他一切之上的。
 
-请关注 MYSverse 的社区频道以获取公告(Rafahia App、Discord 或游戏内横幅通知)。
+关注 MYSverse 的社区频道以获取公告(Rafahia App、Discord 或游戏内横幅通知)。
 
-## 叠加的数学
+## 叠加数学
 
-以下是一个最大化 XP 的场景:
+这是一个最大化 XP 的场景:
 
 - 基础:×1
-- Double XP Weekend:×2(这取代了基础倍率)
+- Double XP Weekend:×2(这会替换基础倍增器)
 - XP Boost gamepass:+0.5
 - Roblox Premium:+0.25
 - Token XP Boost:+1.0
-- 同一团队的好友组成完整车队:+0.5
-- **总倍率:约 ×4.25**
+- 同一团队朋友的满载车队:+0.5
+- **总倍增器:约 ×4.25**
 
-这相当于在通常达到 12 级所需的时间内升到 50 级。在认真刷经验的时候使用这些。
+这相当于通常只能达到 12 级的时间里达到 50 级。在认真的刷经验环节中使用这些。
 
 ## 挑战与成就
 
-**Challenges** 系统(可从主菜单 → Challenges 访问)奖励你参与游戏的日常活动。共有三个类别:
+**Challenges** 系统(可通过主菜单 → Challenges 访问)会因你进行游戏日常活动而奖励你。存在三个类别:
 
 ### 每日挑战(每 24 小时重置)
 
-- **Traveller** — 行驶距离目标
-- **Fishing** — 钓到一定数量的鱼
-- **Konvoi Harian** — 在车队中花费时间
+目前三项全部激活:
+
+- **Daily Driver**(traveller)——行驶目标距离
+- **Weekend Fisherman**(fishing)——钓到一定数量的鱼
+- **Konvoi Harian**——花时间在车队中
 
 ### 每周挑战(每 7 天重置)
 
-- **Traveller** — 更长的距离目标
-- **Fishing** — 每周捕鱼配额
-- **Konvoi Mingguan** — 每周车队时间
-- **Quiz** + **Quiz Advanced** — 回答测验问题
-- **Laptime** + **Laptime Advanced** — 在阈值以下提交比赛时间
+七个每周模块中有五个目前激活;本赛季有两个被禁用:
 
-### 探索 / 成就(一次性,永久)
+- **Endurance Driver**(traveller)
+- **Successful Fisherman**(fishing)
+- **Konvoi Mingguan**
+- **Quiz Master (Advanced)**——quiz_adv
+- **Lap Time Legend**——laptime
+- *Quiz Master (basic)——目前已禁用*
+- *Lap Time Legend (Advanced)——目前已禁用*
 
-涵盖基础功能与里程碑的 34 个一次性目标。亮点:
+### 发现/成就(一次性、永久)
 
-- **First Drive** — 你首次坐进车辆的瞬间
-- **Jalan Jalan** — 漫游地图
-- **Anak Murid** — 参观学校
-- **Cari Kerja** — 尝试你的第一份工作
-- **Bayar Tol** — 通过收费站
-- **Penghantar Makanan** — 完成食物配送
-- **Penebang Kayu** — 砍木材
-- **Pemandu Teksi** — 完成出租车任务
-- **Pemandu Lagenda** — 行驶距离的终局内容
+涵盖基础与里程碑的 34 个一次性目标。亮点:
 
-外加 16 个成就徽章(以 `ach_` 为前缀):道路传奇等级里程碑、马拉松司机、master angler、speed demon、pembalap(赛车手)、车队之王、jack-of-all-trades、warga sejati(真正公民)等。
+- **First Drive**——你首次坐入车辆的时刻
+- **Jalan Jalan**——漫游地图
+- **Anak Murid**——访问学校
+- **Cari Kerja**——尝试你的第一份工作
+- **Bayar Tol**——通过一个收费站
+- **Penghantar Makanan**——完成食品配送
+- **Penebang Kayu**——砍木头
+- **Pemandu Teksi**——完成出租车任务
+- **Pemandu Lagenda**——行驶距离终局
+
+外加 16 个成就徽章(前缀 `ach_`):公路传奇等级里程碑、马拉松车手、钓鱼大师、speed demon、pembalap(赛车手)、convoy king、jack-of-all-trades、warga sejati(真正的公民)等等。
 
 ## 可解锁奖励
 
-除了你的等级和职业级别之外,还有一个独立的 **42 项 unlockable** 目录追踪装饰进度。可通过 season pass、活动、代码及成就赚取。三种类型:
+除了你的等级和职业等级外,另有一份 **42 unlockables** 的独立目录追踪装饰进度。通过 season pass、活动、代码和成就获得。三种类型:
 
-- **12 种车辆喷漆** — 颜色、渐变和质感变体(如 Chrome Silver、Matte Black、Neon Green、Copper Kampung)。在拥有支持喷漆的车辆时,从车辆定制菜单中应用。
-- **17 种称号** — 头顶装饰标签(如 "Highway King")。选择一个显示在角色上方。
-- **13 个收藏徽章** — 显示在你个人资料上的装饰徽章(如 "Pemandu Season 2 Dedicated")。
+- **12 款车辆喷漆**——颜色、渐变和纹理变体(例如 Chrome Silver、Matte Black、Neon Green、Copper Kampung)。在拥有兼容喷漆的车辆时,从车辆定制菜单应用。
+- **17 款头衔**——装饰性头顶标签(例如 "Highway King")。选择一个显示在你的角色上方。
+- **13 款收藏徽章**——装饰性徽章(例如 "Pemandu Season 2 Dedicated"),显示在你的个人资料上。
 
-激活的解锁按玩家保存 — 你跨会话保留你赚取的一切。
+激活的解锁按玩家保存——你会在所有游戏会话中保留你获得的一切。
 
-## 行驶距离的 Roblox 徽章
+## 驾驶距离的 Roblox 徽章
 
-当你超越里程碑时,会自动授予四个真实的 Roblox 徽章:
+当你通过里程里程碑时,四个真正的 Roblox 徽章会自动颁发:
 
-| 行驶距离 | 徽章 |
+| 驾驶距离 | 徽章 |
 |---|---|
 | 50,000 stud | 50k Badge |
 | 100,000 stud | 100k Badge |
 | 500,000 stud | 500k Badge |
 | 1,000,000 stud | 1m Badge |
 
-徽章在你的距离计数器递增时由 server 权威授予 — 你无需领取。
+徽章随着你的距离计数器增加而由 server 权威颁发——你无需领取。
 
-竞速胜利里程碑(1、10、50、100 胜;10、50 完赛;10、100 试跑)也在内部追踪;这些的 Roblox 徽章 ID 可能会在未来更新中添加。
+比赛胜利里程碑(1、10、50、100 次胜利;10、50 次完赛;10、100 次试练)也在内部追踪;这些的 Roblox 徽章 ID 可能会在未来更新中添加。
 
-## 应该先买什么?
+## 先买什么?
 
-如果你已经玩了几天并希望投资:
+如果你已经玩了几天并想投资:
 
-1. **XP Boost gamepass** — 每元 XP 加速最佳。永久。
-2. **你喜欢的团队 gamepass** — Bomba 和 Polis Trafik 最受欢迎,因为 999 系统非常有趣。
-3. **Season Pass**(Premium Track) — 仅当你在赛季期间积极游玩并希望获得特定奖励或提早解锁工作时才值得。
+1. **XP Boost gamepass**——每美元最佳的 XP 加速。永久。
+2. **你喜欢的团队 gamepass**——Bomba 和 Polis Trafik 最受欢迎,因为 999 系统非常有趣。
+3. **Season Pass**(Premium Track)——只有在你在赛季期间积极游玩并想要特定奖励或早期职业解锁时才值得。
+4.
+如果你为其他游戏订阅了 Roblox Premium,它在这里已经为你工作——无需额外花费。
 
-如果你为其他游戏订阅了 Roblox Premium,那它在这里已经为你工作 — 无需额外消费。
+## 后续步骤
 
-## 下一步
-
-- [经济与 XP](/lebuhraya/economy) — 在情境中查看完整倍率叠加
-- [团队与职业](/lebuhraya/teams) — 哪些团队需要哪个 gamepass
-- [常见问题](/lebuhraya/faq) — 关于 gamepass 的常见问题
+- [Economy and XP](/lebuhraya/economy)——在上下文中查看完整的倍增器叠加
+- [Teams and Careers](/lebuhraya/teams)——哪些团队需要哪个 gamepass
+- [FAQ](/lebuhraya/faq)——关于 gamepass 的常见问题

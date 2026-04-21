@@ -2,7 +2,7 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: 37586c2d
+translated_from_hash: abd4659f
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -30,7 +30,7 @@ needs_review: true
 | **Sadaqa** | 慈善捐赠／施舍（源自阿拉伯语，在马来语中广泛使用）。 | Wallet 工具上玩家对玩家捐赠提示的标签。 |
 | **Nelayan** | 渔夫。 | "Nelayan Sdn. Bhd." 是捕鱼职业的薪水支付方（意为 "Fisherman Co. Ltd."）。 |
 | **Sdn. Bhd.** | "Sendirian Berhad" 的缩写 - 马来西亚相当于 "Ltd." 或 "Pte Ltd"。 | 出现在薪水通知中。 |
-| **Jabatan** | 部门／当局。 | 用于现实中的等级头衔，如 "Jabatan Bomba dan Penyelamat"（消防与救援部）。 |
+| **Jabatan** | 部门／当局。 | 用于现实中的等级头衔，如 "Bomba MYSverse"（消防与救援部）。 |
 | **Kementerian** | 部。 | "KKN" 代表 **Kementerian Kesihatan Nasional** - Kesihatan 车辆上的救护车标志。 |
 | **Jalan** | 路／街。 | 出现在街道名称中，如 "Jalan Triden"、"Jalan Bawang"。 |
 | **Lorong** | 巷／小路。 | 较小的街道，如 "Lorong Pais"、"Lorong Kicai"。 |
@@ -54,7 +54,7 @@ needs_review: true
 | TPjB | Timbalan Penjaga Bomba（副消防专员） |
 | PjB | Penjaga Bomba（消防专员） |
 
-对于 Polis，缩写基于马来西亚皇家警察（PDRM）的等级首字母：
+对于 Polis，缩写基于马来西亚皇家警察（POLIS）的等级首字母：
 
 | 缩写 | 含义 |
 |--------------|---------|

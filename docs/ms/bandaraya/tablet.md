@@ -4,14 +4,14 @@ description: >-
   Alat tablet khas pasukan di Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
   dan aplikasi lain.
 lang: ms
-translated_from_hash: 0b131099
+translated_from_hash: 1d97fc65
 translated_on: '2026-04-21'
 needs_review: true
 ---
 
 # Tablet
 
-**Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda — pegawai PDRM nampak MDT, operator tunda nampak MyTow, dan sebagainya.
+**Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda — pegawai POLIS nampak MDT, operator tunda nampak MyTow, dan sebagainya.
 
 > **Tablet ≠ Telefon.** [Telefon](/bandaraya/phone) ialah permukaan aplikasi topbar universal (MyPay, e-hailing, CAG, 999, MyCar, dan lain-lain). Tablet pula ialah **alat** khas pasukan yang anda lengkapkan daripada backpack anda.
 
@@ -38,7 +38,7 @@ Topbar mendapat ikon yang terikat dengan tablet — ketik ikon itu untuk togol b
 
 ## Aplikasi
 
-### MDT — Mobile Data Terminal (PDRM)
+### MDT — Mobile Data Terminal (POLIS)
 
 Terminal maklumat polis. UI autentik polis dengan jenama Polis, tab mendatar, medan data monospace.
 
@@ -57,13 +57,13 @@ Lihat semua BOLO aktif (amaran Be On the LookOut) secara masa nyata. BOLO akan d
 #### Tambah BOLO
 Letakkan pemain dalam BOLO dengan sebab:
 - Semua pegawai bertugas akan dimaklumkan dengan lencana, bunyi, dan amaran toast.
-- Disiarkan kepada seluruh pasukan PDRM secara masa nyata.
+- Disiarkan kepada seluruh pasukan POLIS secara masa nyata.
 
-Khas PDRM sahaja; pasukan lain akan nampak tab yang dikelabukan.
+Khas POLIS sahaja; pasukan lain akan nampak tab yang dikelabukan.
 
 ### MyEmergency
 
-Aplikasi koordinasi perkhidmatan kecemasan — untuk pasukan kecemasan (PDRM, BOMBA, KKM, SJAM). Uruskan panggilan insiden, selaraskan respons berbilang pasukan.
+Aplikasi koordinasi perkhidmatan kecemasan — untuk pasukan kecemasan (POLIS, BOMBA, KKM, SJAM). Uruskan panggilan insiden, selaraskan respons berbilang pasukan.
 
 ### Vehicle Management
 
@@ -99,7 +99,7 @@ Alat dan diagnostik pembangun. Pembangun sahaja.
 Tablet menerima notifikasi melalui dua saluran acara:
 
 - **Notifikasi tablet** — amaran global (panggilan kebakaran, panggilan 999, BOLO, pengumuman admin).
-- **Notifikasi khusus aplikasi** — dalam konteks aplikasi tertentu (contoh: tempahan baharu untuk pemandu teksi, amaran MDT untuk PDRM).
+- **Notifikasi khusus aplikasi** — dalam konteks aplikasi tertentu (contoh: tempahan baharu untuk pemandu teksi, amaran MDT untuk POLIS).
 
 Apabila notifikasi tiba, ikon tablet pada topbar akan mendapat penunjuk visual, dan aplikasi yang berkaitan akan berdenyut.
 
@@ -111,7 +111,7 @@ Aplikasi yang anda nampak bergantung pada `TeamColor` pasukan anda:
 
 | Pasukan | Aplikasi tersedia |
 | --- | --- |
-| **PDRM, KPTD, Polis Bantuan** | MDT, MyEmergency, Vehicle Management |
+| **POLIS, KPTD, Polis Bantuan** | MDT, MyEmergency, Vehicle Management |
 | **BOMBA** | MyEmergency, Vehicle Management |
 | **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
@@ -129,11 +129,11 @@ Jika aplikasi yang anda jangkakan tiada di situ, semak pasukan anda.
 - **Togol topbar lebih pantas daripada melengkapkan** untuk tinjauan cepat.
 - **MDT BG Check dikemas kini secara langsung** — lokasi sasaran adalah terkini.
 - **BOLO dibatalkan automatik apabila ditangkap** — tiada pembersihan manual diperlukan.
-- **Carian plat berfungsi untuk semua orang** — anda tidak perlu jadi PDRM untuk mencari plat kenderaan.
+- **Carian plat berfungsi untuk semua orang** — anda tidak perlu jadi POLIS untuk mencari plat kenderaan.
 
 ## Lihat juga
 
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan PDRM / BOMBA / KKM yang menggunakan tablet
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan POLIS / BOMBA / KKM yang menggunakan tablet
 - [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) — bagaimana BOLO / BG check berfungsi dalam tangkapan
 - [Pekerjaan](/bandaraya/jobs) — MyTow untuk operator tunda
 - [Kenderaan](/bandaraya/vehicles) — pendaftaran dan carian plat

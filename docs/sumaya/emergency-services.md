@@ -64,7 +64,7 @@ The game is wired to auto-demote emergency-service players (BOMBA, Kesihatan, PO
 
 ## Kesihatan's global XP boost
 
-This is unique: when Kesihatan players activate the injury system, **every player on the server gets +15% player-level XP** (sector XP is unaffected). This is a big deal if you're grinding - watch for the boost indicator before a long session.
+This is unique: the injury system **auto-activates whenever any Kesihatan player is on the server**, and **every player on the server gets +15% player-level XP** while it's on (sector XP is unaffected). Deactivates the moment the last Kesihatan player leaves. This is a big deal if you're grinding - watch for the boost indicator before a long session.
 
 ## Emergency vehicles
 

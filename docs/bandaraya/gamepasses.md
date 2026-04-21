@@ -36,7 +36,7 @@ Gamepasses are one-time Robux purchases that unlock a feature, team, or perk for
 **Taxi Driver** (150 R$) — instant job access, low friction. Pair with Car Radio for maximum vibe.
 
 ### "I want to roleplay with guns"
-**Firearms Licence** (1,250 R$). The only civilian way to a weapon — **unless** you're on a team that gets them issued (PDRM, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Be aware shops have a **5-minute cooldown** between purchases.
+**Firearms Licence** (1,250 R$). The only civilian way to a weapon — **unless** you're on a team that gets them issued (POLIS, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Be aware shops have a **5-minute cooldown** between purchases.
 
 ### "I want to min-max"
 **High Class Citizen** (3,000 R$). Income boost that pays for itself if you play regularly. Comes with luxury vehicles and exclusive team access. If you only play casually, skip — the Robux is better spent on BR developer products.

@@ -1,6 +1,6 @@
 ---
 title: "Emergency Services"
-description: "PDRM, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security services of Bandaraya."
+description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security services of Bandaraya."
 ---
 
 # Emergency Services
@@ -11,7 +11,7 @@ Playing a public service role — police, fire, medical, military — is the hea
 
 | Team | What you do | Arrest power | Big tools |
 | --- | --- | --- | --- |
-| **PDRM** | Patrol, respond to crime, detain, arrest | Yes | X26P taser, cuff, saman, fingerprint scanner |
+| **POLIS** | Patrol, respond to crime, detain, arrest | Yes | X26P taser, cuff, saman, fingerprint scanner |
 | **BOMBA** | Fight fires, medical carry, rescue | No | Fire hose, searchlight, carry |
 | **KKM** | Treat injured players, staff hospital | No | Medical placeables, torchlight |
 | **SJAM** | Volunteer ambulance | No | Torchlight only (basic) |
@@ -20,7 +20,7 @@ Playing a public service role — police, fire, medical, military — is the hea
 
 ---
 
-## PDRM (Polis Diraja Malaysia) — The Police
+## Polis MYSverse (POLIS) — The Police
 
 Group: 1182710, 3048630. Any rank.
 
@@ -50,11 +50,11 @@ Group: 1182710, 3048630. Any rank.
 | **Traffic Wand** | Direct traffic |
 | **Whistle** | Traffic control / alert |
 | **Police Tape** | Cordon scenes |
-| **PDRM Placeables** | Cones, signs, barriers |
+| **POLIS Placeables** | Cones, signs, barriers |
 
 ### Vehicles (70+)
 
-PDRM have the biggest fleet:
+POLIS have the biggest fleet:
 
 - **Patrol / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, Toyota Hilux variants, Perodua Aruz/Bezza
 - **HPV** (High Performance) — Civic Type R, Outlander, CX-5, Lancer Evo X
@@ -65,16 +65,16 @@ PDRM have the biggest fleet:
 - **Transport** — Hiace variants, HICOM Handalan II, Hilux cargo
 - **Tow** — Isuzu Tow Truck, Hino/Fuso Tow
 - **Riot** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
-- **Motorcycles** — PDRM Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
+- **Motorcycles** — POLIS Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
 - **Armoured** — **AV4** and **V150** (bulletproof)
 
 ### Helicopters
 
-PDRM has a **PDRMHeliSpawner** — aerial policing. Spawn from station ViewportFrame picker.
+POLIS has a **PDRMHeliSpawner** — aerial policing. Spawn from station ViewportFrame picker.
 
 ### Expectations
 
-- **Going rogue as PDRM is a severe violation.** Police committing crimes = ban.
+- **Going rogue as POLIS is a severe violation.** Police committing crimes = ban.
 - Follow roleplay protocols — announce yourself, state the charge, give the suspect a chance to comply.
 - Use tablet MDT to BOLO suspects; other officers will get a badge + sound + toast alert.
 
@@ -82,7 +82,7 @@ See [Arrest & Law](/bandaraya/arrest-and-law) for the full arrest flow.
 
 ---
 
-## BOMBA (Jabatan Bomba dan Penyelamat) — Fire & Rescue
+## BOMBA (Bomba MYSverse) — Fire & Rescue
 
 Group: 2957304. Any rank.
 
@@ -166,7 +166,7 @@ See [Combat & Health](/bandaraya/combat-and-health) for the full kit breakdown.
 
 ---
 
-## SJAM (St. John Ambulans Malaysia)
+## SJAM (St. John Ambulans MYSverse)
 
 Group: 3027933, rank 2+.
 
@@ -184,11 +184,11 @@ Volunteer police corps. Tools:
 - Search
 - Torchlight
 
-Limited mandate — supporting PDRM at scenes, crowd control. No direct arrest powers.
+Limited mandate — supporting POLIS at scenes, crowd control. No direct arrest powers.
 
 ---
 
-## MAF (Malaysian Armed Forces) — Military
+## MAF (MYSverse Armed Forces) — Military
 
 Groups: 2817130, 2849945, 2817134. Rank 3+.
 
@@ -222,11 +222,11 @@ Parade aircraft + rotorcraft are available for ceremonial / operational setups.
 
 ---
 
-## Military Police (KPTD) — Kor Polis Tentera Diraja
+## Military Police (KPTD) — Kor Polis Tentera MYSverse
 
 Group: 2817141. Any rank.
 
-The military's own police wing. Has arrest powers like PDRM, but only over MAF personnel typically (by roleplay convention).
+The military's own police wing. Has arrest powers like POLIS, but only over MAF personnel typically (by roleplay convention).
 
 ### Tools
 
@@ -247,14 +247,14 @@ Dedicated KPTD patrol cars — X70 KPTD, Preve KPTD, Civic KPTD, etc. + bikes.
 
 Emergency services often work together:
 
-- **Multi-vehicle response** at major incidents — PDRM + BOMBA + KKM.
+- **Multi-vehicle response** at major incidents — POLIS + BOMBA + KKM.
 - **BOMBA call-outs** fire the `IncidentEvent` that BOMBA clients listen for; others can self-dispatch.
-- **MDT BOLOs** from PDRM notify all on-duty officers (sound + toast + badge).
-- **KKM** stabilises downed civilians; PDRM can continue their arrest post-stabilisation.
+- **MDT BOLOs** from POLIS notify all on-duty officers (sound + toast + badge).
+- **KKM** stabilises downed civilians; POLIS can continue their arrest post-stabilisation.
 
 ## Tips & gotchas
 
-- **Play to your team.** PDRM doesn't shoot first; BOMBA doesn't arrest; KKM doesn't engage suspects.
+- **Play to your team.** POLIS doesn't shoot first; BOMBA doesn't arrest; KKM doesn't engage suspects.
 - **Going rogue = severe ban.** On any public services team, crime = immediate moderation action. See [Rules](/bandaraya/rules#severe-violations).
 - **Use your tablet.** MDT, MyEmergency, Vehicle Management, MyTow, KKM Logger — all free tools. See [Tablet](/bandaraya/tablet).
 - **Armour = Armor part.** Vehicles with `Armor` parts inside are bulletproof (e.g., AV4). See [Vehicles](/bandaraya/vehicles#bulletproofing).
@@ -262,7 +262,7 @@ Emergency services often work together:
 
 ## See also
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — the PDRM arrest flow
+- [Arrest & Law](/bandaraya/arrest-and-law) — the POLIS arrest flow
 - [Combat & Health](/bandaraya/combat-and-health) — weapons, armor, injuries, medical kit
 - [Tablet](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
 - [Vehicles](/bandaraya/vehicles) — emergency fleet

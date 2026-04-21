@@ -62,6 +62,20 @@ Standard Roblox controls.
 | Settings | Cogwheel in Main Menu | Cogwheel in Main Menu |
 | Close any popup | **Esc** or **Backspace** | Tap close |
 
+### Main Menu tabs
+
+Open the Main Menu to access:
+
+- **Home** — announcements and overview
+- **Teams** — pick your team / switch teams
+- **Shop** — in-game purchases (gamepass prompts, tokens)
+- **Career** — your career ranks and agency progress
+- **Job Progression** — per-branch tier bars and rewards
+- **Tokens** — your active and stored tokens / boosts
+- **Tutorials** — beginner walkthroughs
+- **Top** — leaderboards and standings
+- **Credits** — development team and contributors
+
 ## Tools (jobs equipment)
 
 When you hold a tool — axe, radar gun, taser, pager, fire hose — the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.

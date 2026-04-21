@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் உள்ள அனைத்து அணிகளுக்கான முழுமையான வழிகாட்டி — அவசர சேவைகள்,
   இராணுவம், போக்குவரத்து, குடிமக்கள், அரசு மற்றும் பல.
 lang: ta
-translated_from_hash: 9333a74c
+translated_from_hash: 6a9a6da9
 translated_on: '2026-04-21'
 needs_review: true
 ---

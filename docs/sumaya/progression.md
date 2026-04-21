@@ -70,7 +70,7 @@ The 12-quest discovery chain pays **3,750 XP** across the per-quest rewards, **p
 
 ## The Kesihatan +15% XP boost
 
-When Kesihatan players **activate the injury system**, every player on the server gets a **+15% multiplier on player XP** for the duration. The boost applies to all sources - crime, jobs, fires, anything that gives player XP.
+The injury system **auto-activates whenever any Kesihatan player is on the server**. While it's active, every player gets a **+15% multiplier on player XP**. The boost applies to all sources - crime, jobs, fires, anything that gives player XP.
 
 Sector XP is **not** boosted - only player XP. So the boost helps your global account grind, not your specific career.
 

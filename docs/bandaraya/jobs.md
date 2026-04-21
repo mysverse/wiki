@@ -20,7 +20,7 @@ The quickest ways to earn BR in Bandaraya. All of these are civilian-accessible 
 
 ## Postal Service (POS)
 
-The go-to first job. No gamepass needed — but you have to be on a **civilian-ish team**: **Visitors**, **Malaysians**, **High Class Citizen**, or **Developers**. PDRM / BOMBA / KKM / etc. cannot clock in for POS (the game stops you at the start-work step).
+The go-to first job. No gamepass needed — but you have to be on a **civilian-ish team**: **Visitors**, **Malaysians**, **High Class Citizen**, or **Developers**. POLIS / BOMBA / KKM / etc. cannot clock in for POS (the game stops you at the start-work step).
 
 ### The flow
 

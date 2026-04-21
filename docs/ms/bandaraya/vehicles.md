@@ -4,13 +4,13 @@ description: >-
   Menghasilkan, memandu, bahan api, dan membeli atau menyewa kenderaan di
   Bandaraya.
 lang: ms
-translated_from_hash: a0f91fad
+translated_from_hash: 24d3e35a
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # Kenderaan
 
-Bandaraya mempunyai 200+ kenderaan merentasi 25+ organisasi — MPV dan kenderaan berperisai PDRM, jentera bomba, perisai tentera, helikopter, bas, motosikal, dan armada awam yang terdiri daripada Proton, Perodua, Toyota, dan lain-lain. Halaman ini menerangkan cara menaiki dan mengekalkan kenderaan anda.
+Bandaraya mempunyai 200+ kenderaan merentasi 25+ organisasi — MPV dan kenderaan berperisai POLIS, jentera bomba, perisai tentera, helikopter, bas, motosikal, dan armada awam yang terdiri daripada Proton, Perodua, Toyota, dan lain-lain. Halaman ini menerangkan cara menaiki dan mengekalkan kenderaan anda.
 
 ## Ringkasan
 
@@ -26,7 +26,7 @@ Bandaraya mempunyai 200+ kenderaan merentasi 25+ organisasi — MPV dan kenderaa
 
 Setiap pasukan mempunyai set spawner tersendiri. Anda hanya boleh menggunakan yang dibenarkan untuk pasukan anda.
 
-1. Berjalan ke spawner kenderaan (spawner PDRM di luar IPD Dang Wangi, spawner BOMBA di balai bomba, MyTransit di depoh, Classic Car Dealer untuk sewa/beli orang awam, dan sebagainya).
+1. Berjalan ke spawner kenderaan (spawner POLIS di luar IPD Dang Wangi, spawner BOMBA di balai bomba, MyTransit di depoh, Classic Car Dealer untuk sewa/beli orang awam, dan sebagainya).
 2. Tekan **E** (atau butang proksimiti).
 3. Panel dengan pratonton 3-D setiap kenderaan yang tersedia akan terbuka.
 4. Layari dengan **A / D / kekunci anak panah** atau butang navigasi.
@@ -98,14 +98,14 @@ Apabila anda berlanggar:
 
 Setiap kenderaan yang di-spawn menerima plat. Anda boleh mencari plat dalam apl tablet **Vehicle Management** (lihat [Tablet](/bandaraya/tablet)).
 
-Pendaftaran pemilikan adalah automatik — plat terikat dengan orang yang men-spawn kereta. PDRM menggunakannya untuk sekatan jalan.
+Pendaftaran pemilikan adalah automatik — plat terikat dengan orang yang men-spawn kereta. POLIS menggunakannya untuk sekatan jalan.
 
 ## Kalis peluru
 
 Sesetengah kenderaan berperisai. Cari:
 
-- **AV4** — kenderaan berperisai PDRM (29 plat perisai dalam kabin). Betul-betul kalis peluru.
-- **V150** — kenderaan berperisai PDRM.
+- **AV4** — kenderaan berperisai POLIS (29 plat perisai dalam kabin). Betul-betul kalis peluru.
+- **V150** — kenderaan berperisai POLIS.
 - **Varian UTK Hilux** — kalis peluru di sekeliling kabin.
 
 Kereta awam biasa **tidak** kalis peluru. Jangan anggap Proton anda akan menahan peluru.
@@ -136,7 +136,7 @@ Jika anda memiliki **gamepass High Class Citizen**, kenderaan mewah (BMW i7, Vol
 
 ## Helikopter
 
-PDRM dan BOMBA mempunyai spawner helikopter di stesen mereka. Khusus pasukan — orang awam tidak boleh men-spawn mereka.
+POLIS dan BOMBA mempunyai spawner helikopter di stesen mereka. Khusus pasukan — orang awam tidak boleh men-spawn mereka.
 
 - Spawn melalui pemilih **ViewportFrame** pada skrin.
 - Helikopter yang di-spawn akan dijana semula 8 saat selepas pemusnahan.
@@ -155,6 +155,6 @@ Jangan langgar helikopter ke bangunan.
 
 - [Ekonomi](/bandaraya/economy) — harga pameran, kos bahan api
 - [Pekerjaan](/bandaraya/jobs) — Pemandu Teksi, Tunda, Bas
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — akses kenderaan PDRM / BOMBA / MAF
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — akses kenderaan POLIS / BOMBA / MAF
 - [Peta](/bandaraya/locations) — tempat mencari bahan api, mengecas, pameran
 - [Tablet](/bandaraya/tablet) — apl Vehicle Management

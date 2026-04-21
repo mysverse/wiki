@@ -81,6 +81,8 @@ The default tank is **40 litres**. A JerryCan carries 10 litres.
 
 Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses — if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans — pick the right fuel type before approaching the pump.
 
+> **Fuel is currently free.** The prices above (1/2/3 BR per litre) are defined in the fuel system config but the charge hook isn't active in this version. Refuelling deducts nothing from your BR balance. When the economy goes live these prices will apply.
+
 ### Where to refuel
 
 - **PETROMAS Petrol Station** — Northbound and Southbound stations on the highway
@@ -98,6 +100,13 @@ If your tank hits zero, the engine cuts out. Options:
 ## Crashing and repairs
 
 Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
+
+**Vehicle toughness**:
+- Standard civilian vehicles start with **100 Max Health**.
+- Police / law enforcement variants (Polis Trafik HPV, Polis Escort, KEMRonda Peronda Hilux, APJ Inspira/X70, Undercover) have **200 Max Health** — double the durability.
+- Emergency motorcycles (Kasaki Ninja Polis, BMY R1200RT Polis) get **180 Max Health**.
+- Every collision must exceed **30 studs/s relative velocity** to deal damage; below that you tap and bounce, above that the difference is multiplied into damage.
+- Damage-per-hit defaults to **10 points** (more for very high-speed impacts).
 
 ### Your options
 
@@ -121,11 +130,21 @@ Paints saved here are applied to your currently-spawned vehicle for the duration
 
 Vehicle customisation depends on the specific model. Common options include:
 
-- Paint colour
-- Number plates
+- Paint colour (via Gravstone Workshop — see above)
 - Body accessories
+- Number plates (see below)
 
 Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
+
+## Number plates
+
+When a vehicle spawns, its registration plate is assigned based on the region of the spawner, following the Malaysian system:
+
+- **Bandar Seri Putra** spawners issue **SL (Selangor)** plates — B% prefix.
+- **Kampung Merbang** and **Jersik** spawners issue **NS (Negeri Sembilan)** plates — N% prefix.
+- Spawners along the middle of the highway (between regions) randomly pick **50/50 between SL and NS** each time you spawn.
+
+So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next — a small detail that Malaysian players immediately notice.
 
 ## Emergency lights (ELS)
 

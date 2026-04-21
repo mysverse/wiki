@@ -4,15 +4,15 @@ description: >-
   Setiap kerja di Lebuhraya — disusun mengikut agensi (Pengangkutan dan banyak
   lagi) dengan kadar gaji.
 lang: ms
-translated_from_hash: 305c9ab3
+translated_from_hash: c5df14d2
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # Kerjaya
 
-Setiap kerja di Lebuhraya tergolong dalam satu pasukan (lihat [Pasukan dan Kerjaya](/lebuhraya/teams)). Halaman ini ialah rujukan untuk apa yang anda sebenarnya **lakukan** pada setiap kerja — cara memulakannya, gelung permainan, ganjaran lazim, dan di mana kerja itu berlangsung.
+Setiap kerja di Lebuhraya tergolong dalam sebuah pasukan (lihat [Teams and Careers](/lebuhraya/teams)). Halaman ini merupakan rujukan untuk apa yang anda sebenarnya **lakukan** dalam setiap kerja — cara memulakannya, kitaran permainan, ganjaran lazim, dan di mana kerja tersebut berlangsung.
 
-Kerja dikumpulkan mengikut **agensi** yang menganjurkannya.
+Kerjaya dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 ---
 
@@ -20,48 +20,48 @@ Kerja dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 ### Taxi Driver
 
-**Buka kunci**: gamepass Taxi Driver (atau gamepass Bandaraya, yang termasuk akses Taxi).
+**Buka kunci**: gamepass Taxi Driver (atau gamepass Bandaraya, yang turut memberikan akses Taxi).
 
-**Cara mula**: Sertai pasukan Taxi Driver dari Menu Utama. Togol status **Duty** anda kepada aktif dari TaxiGui di skrin.
+**Cara memulakan**: Sertai pasukan Taxi Driver dari Main Menu. Togol status **Duty** anda kepada aktif melalui TaxiGui pada skrin.
 
-**Apa yang anda buat**:
-1. Apabila anda bertugas, satu titik ambilan ditetapkan — pandu ke NPC yang menunggu teksi.
-2. NPC masuk ke dalam teksi anda. Pandu ke titik hantaran yang ditanda.
-3. Misi selesai apabila anda berhenti dalam jarak (kira-kira 50 stud) dari titik hantaran.
-4. Misi baru ditetapkan dengan serta-merta.
+**Apa yang anda lakukan**:
+1. Apabila anda bertugas, satu titik pengambilan akan ditetapkan — pandu ke NPC yang sedang menunggu teksi.
+2. NPC tersebut akan masuk ke dalam teksi anda. Pandu ke titik penurunan yang ditandakan.
+3. Misi selesai apabila anda berhenti dalam jarak (kira-kira 50 stud) dari titik penurunan.
+4. Misi baharu akan ditetapkan dengan serta-merta.
 
 **Ganjaran**:
-- **XP** berskala mengikut jarak: kira-kira **0.11 hingga 0.13 XP setiap stud**. Tambang sejauh 4000 stud membayar 440–520 XP.
-- **BR** dibayar setiap tambang yang selesai; berskala mengikut jarak.
+- **XP** berskala mengikut jarak: kira-kira **0.11 hingga 0.13 XP per stud**. Tambang sejauh 4000 stud membayar 440–520 XP.
+- **BR** dibayar bagi setiap tambang yang disiapkan; berskala mengikut jarak.
 
-**Kenderaan**: Mana-mana kenderaan boleh digunakan, tetapi untuk pendapatan terbaik, gunakan teksi yang dibina khas — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Pangkat Taxi Driver peringkat lebih tinggi membuka kunci model yang lebih baik (dan lebih banyak kapasiti penumpang).
+**Kenderaan**: Mana-mana kenderaan boleh digunakan, tetapi untuk pendapatan terbaik gunakan teksi yang direka khusus — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Pangkat Taxi Driver yang lebih tinggi membuka model yang lebih baik (dan kapasiti penumpang yang lebih besar).
 
 ### Bus Driver
 
-**Buka kunci**: Percuma — ini ialah salah satu daripada dua pasukan percuma.
+**Buka kunci**: Percuma — ini adalah salah satu daripada dua pasukan percuma.
 
-**Cara mula**: Sertai pasukan Bus Driver. Keluarkan bas melalui MyPod dan mulakan laluan dari **Depoh Bas** di Bandar Seri Putra.
+**Cara memulakan**: Sertai pasukan Bus Driver. Spawn sebuah bas melalui MyPod dan mulakan laluan dari **Depoh Bas** di Bandar Seri Putra.
 
-**Apa yang anda buat**: Pandu laluan bas tetap, berhenti di perhentian bas yang ditetapkan untuk mengambil dan menurunkan penumpang NPC. Setiap laluan penuh membayar XP dan BR.
+**Apa yang anda lakukan**: Pandu laluan bas yang tetap, berhenti di perhentian bas yang ditetapkan untuk mengambil dan menurunkan penumpang NPC. Laluan penuh membayar XP (pembayaran BR dirancang tetapi belum disambungkan — lihat *Economy and XP*).
 
 **Kenderaan**: Bas — Intero Citie, TKL_K230UB, TKL_Harimau Evo, varian Tayoti Hiace Passenger/Transport.
 
-**Gabungan syarikat bas**: Tiga kumpulan Roblox luar mewakili pengendali bas dalam alam semesta permainan — **FirstGroup PLC**, **Fertua Transport**, dan **Hornbill Bus**. Sertai mana-mana antaranya untuk membawa livri / penjenamaan mereka pada bas terpilih (semata-mata roleplay; kumpulan-kumpulan itu diuruskan oleh komuniti).
+**Gabungan syarikat bas**: Tiga kumpulan Roblox luaran mewakili pengendali bas dalam dunia permainan — **FirstGroup PLC**, **Fertua Transport**, dan **Hornbill Bus**. Sertai mana-mana daripada mereka untuk membawa livery / penjenamaan mereka pada bas terpilih (semata-mata main peranan; kumpulan ini dikendalikan oleh komuniti).
 
 ### Logistics (Trucking)
 
-**Buka kunci**: Aras 75, atau lebih awal dengan Season 1 Season Pass.
+**Buka kunci**: Level 75, atau lebih awal dengan Season 1 Season Pass.
 
-**Cara mula**: Sertai pasukan Logistics. Pergi ke titik kontrak pengangkutan (ProximityPrompts ditandakan di sekitar peta) dan ambil satu penghantaran.
+**Cara memulakan**: Sertai pasukan Logistics. Pergi ke titik kontrak pengangkutan (ditandakan ProximityPrompts di sekitar peta) dan ambil satu penghantaran.
 
-**Apa yang anda buat**:
-1. Cari kontraktor pengangkutan (ProximityPrompt). Terima kontrak dan sebuah lori / treler pengangkutan ditetapkan kepada anda.
-2. Gandingkan treler ke titik cangkuk dan pandu lori bermuatan ke destinasi penghantaran.
-3. Tanggalkan gandingan dan lengkapkan penghantaran.
+**Apa yang anda lakukan**:
+1. Cari kontraktor pengangkutan (ProximityPrompt). Terima kontrak dan sebuah trak / treler pengangkutan akan ditetapkan kepada anda.
+2. Kaitkan treler ke titik cangkuk dan pandu trak yang dimuat ke destinasi penghantaran.
+3. Tanggalkan dan selesaikan penghantaran.
 
-**Ganjaran**: **0.09 XP setiap meter** (~stud) yang dilalui semasa penghantaran. Penghantaran 5,000 stud membayar ~450 XP — Trucking ialah kuda pekerja XP bagi kerja jarak jauh.
+**Ganjaran**: **0.09 XP per meter** (~stud) yang dilalui semasa penghantaran. Bawaan sejauh 5,000 stud membayar ~450 XP — Trucking ialah kuda kerja XP untuk kerja jarak jauh.
 
-**Kenderaan**: Lori pengangkutan berat — Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
+**Kenderaan**: Trak muatan berat — Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
 
 ---
 
@@ -69,11 +69,11 @@ Kerja dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 ### Food Delivery
 
-**Buka kunci**: Aras 10. Ini biasanya kerja sebenar pertama anda.
+**Buka kunci**: Level 10. Ini biasanya kerja pertama sebenar anda.
 
-**Cara mula**: Sertai pasukan Food Delivery. Satu penghantaran ditetapkan kepada anda secara automatik.
+**Cara memulakan**: Sertai pasukan Food Delivery. Satu penghantaran akan ditetapkan kepada anda secara automatik.
 
-**Apa yang anda buat**:
+**Apa yang anda lakukan**:
 1. Pergi ke kedai yang ditunjukkan pada waypoint anda (salah satu daripada [12 kedai](/lebuhraya/shops)).
 2. Berinteraksi dengan NPC kedai untuk mengambil pesanan makanan (watak anda akan menerima item makanan sebagai tool).
 3. Pandu ke lokasi pelanggan pada waypoint anda.
@@ -81,41 +81,45 @@ Kerja dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 **Ganjaran**: **250 XP tetap** setiap penghantaran, ditambah BR.
 
-**Kenderaan**: Mana-mana. Motosikal (Handai EX5) selalunya paling cepat untuk jalan berliku.
+**Kenderaan**: Apa-apa sahaja. Motosikal (Handai EX5) selalunya paling laju untuk jalan berliku.
 
 ### Post Office
 
-**Buka kunci**: Aras 50.
+**Buka kunci**: Level 50.
 
-**Cara mula**: Sertai pasukan Post Office dan lawati **Pos Nasional Jersik** untuk mengambil satu laluan penghantaran.
+**Cara memulakan**: Sertai pasukan Post Office dan lawati **Pos Nasional Jersik** untuk mengambil laluan penghantaran.
 
-**Apa yang anda buat**: Kutip bungkusan dari peti pos dalam salah satu daripada empat zon pos (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), proseskannya, dan hantar ke alamat peti mel yang ditanda.
+**Apa yang anda lakukan**: Kumpul bungkusan dari peti pos di salah satu daripada empat zon pos (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), proseskannya, dan hantar ke alamat peti surat yang ditandakan.
 
-**Ganjaran**: **25 XP setiap bungkusan** ditambah gaji yang berskala mengikut **aras Post Office** anda. Kerja ini mempunyai sistem aras dalamannya sendiri, berasingan daripada aras pemain utama anda:
+**Ganjaran**: **25 XP setiap bungkusan** serta pembilang "Money" dalam kerja yang bertambah dengan setiap penghantaran. Nilai Money disimpan dalam rekod simpanan Post Office sendiri — ia **bukan** baki BR biasa anda (yang mana sistem mata wang tidak menggunakannya secara aktif buat masa ini). Kerja ini mempunyai sistem level dalamannya sendiri, berasingan daripada level pemain utama anda:
 
-- Aras Post Office maksimum: **20**
-- XP setiap aras Post Office: `100 × aras` (jadi Aras 1 memerlukan 100 XP, Aras 20 memerlukan 2,000 XP)
-- Gaji setiap bungkusan: `60 + (aras × 10)` BR — pada Aras 1 anda memperoleh 70 BR setiap penghantaran, pada Aras 20 anda memperoleh 260 BR
+- Level Post Office maksimum: **20**
+- XP setiap level Post Office: `100 × level` (jadi Level 1 perlukan 100 XP, Level 20 perlukan 2,000 XP)
+- Gaji setiap bungkusan (disimpan sebagai "Money" POS): `60 + (level × 10)` — pada Level 1 anda memperoleh 70 setiap penghantaran, pada Level 20 anda memperoleh 260
 
-Menukar zon memaksa anda menghentikan kerja semasa, jadi pilih satu zon dan berpegang kepadanya untuk sesi yang produktif.
+Apabila ekonomi BR diaktifkan, POS Money dijangka akan disambungkan ke baki BR sebenar anda. Buat masa sekarang, anggaplah ia sebagai pembilang kemajuan peribadi.
+
+Menukar zon akan memaksa anda menghentikan kerja semasa, jadi pilih satu zon dan teruskan dengannya untuk sesi yang produktif.
 
 **Kenderaan**: Handai EX5 Pos (motosikal) atau Tayoti Hilux Pos (trak).
 
 ### Waste Disposal
 
-**Buka kunci**: Aras 25 (teks permainan lama mungkin masih menyatakan 50 — aras 25 ialah nilai semasa dalam permainan).
+**Buka kunci**: Level 25 (teks permainan yang lama mungkin masih menyatakan 50 — level 25 ialah nilai semasa dalam permainan).
 
-**Cara mula**: Sertai pasukan Waste Disposal. Baca tool **Waste Disposal Guide** dalam inventori anda.
+**Cara memulakan**: Sertai pasukan Waste Disposal. Baca tool **Waste Disposal Guide** dalam inventori anda.
 
-**Apa yang anda buat**:
-1. Pandu trak sampah anda ke tong sampah. Terdapat **114 tong** yang bertaburan di seluruh peta.
-2. Berinteraksi dengan prompt "trashProx" tong itu untuk mencetuskan animasi pengangkatan. Sampah berkumpul pada trak anda.
-3. Setelah trak penuh, pandu ke salah satu daripada dua **Stesen Insinerasi** (Bandar Seri Putra dan Jersik).
-4. Lepaskan di zon insinerator untuk tunaikan. Anda akan melihat notifikasi "Pay" dengan pendapatan anda.
+**Apa yang anda lakukan**:
+1. Pandu trak sampah anda ke sebuah tong sampah. Terdapat **114 tong** bertaburan di seluruh peta.
+2. Berinteraksi dengan prompt "trashProx" tong untuk mencetuskan animasi angkatan. Sampah terkumpul di atas trak anda.
+3. Setelah trak penuh, pandu ke salah satu daripada dua **Stesen Insinerasi** (stesen pembakaran sampah — Bandar Seri Putra dan Jersik).
+4. Lupuskan di zon insinerator untuk mengeluarkan wang. Anda akan melihat notifikasi "Pay" dengan pendapatan anda.
 
-**Ganjaran**: Dibayar di insinerator, berkadaran dengan jumlah sampah yang dikumpulkan. Laluan lebih panjang dengan lebih banyak hentian membayar lebih banyak.
+**Ganjaran**: Dibayar di insinerator, berkadar dengan jumlah sampah yang dikutip. Laluan lebih panjang dengan lebih banyak perhentian membayar lebih banyak.
 
-**Kenderaan**: Trak sampah (terbitan pasukan, boleh dikeluarkan melalui MyPod).
+**Kenderaan**: Trak sampah (keluaran pasukan, boleh dipanggil melalui MyPod).
+
+**Nota mengenai bayaran**: Notifikasi "Pay" menunjukkan jumlah dalam dunia permainan, tetapi ekonomi BR belum diaktifkan — XP ialah pembayaran yang sebenarnya masuk ke akaun anda. Jumlah tersebut akan menjadi kredit BR sebenar setelah ekonomi diaktifkan.
 
 ---
 
@@ -125,61 +129,61 @@ Menukar zon memaksa anda menghentikan kerja semasa, jadi pilih satu zon dan berp
 
 **Buka kunci**: gamepass Bomba.
 
-**Cara mula**: Sertai pasukan Bomba. Lengkapkan tool **Pager** anda untuk menerima amaran kecemasan. Apabila panggilan 999 masuk (kebakaran, kemalangan), terima insiden itu.
+**Cara memulakan**: Sertai pasukan Bomba. Lengkapkan tool **Pager** anda untuk menerima makluman kecemasan. Apabila panggilan 999 masuk (kebakaran, kemalangan), terima insiden tersebut.
 
-**Apa yang anda buat**:
+**Apa yang anda lakukan**:
 - **Memadam kebakaran**: Bertindak balas terhadap kebakaran, gunakan hos dan alat pemadam api.
-- **Menyelamat**: Gunakan spreader dan gergaji rantai untuk mengeluarkan pemandu yang terperangkap.
-- **Bantuan perubatan**: Bomba bertindak balas terhadap kemalangan kereta bersama Kesihatan.
+- **Menyelamat**: Gunakan spreader dan chainsaw untuk mengeluarkan pemandu yang terperangkap.
+- **Bantuan perubatan**: Bomba bertindak balas terhadap kemalangan kereta bersama-sama Kesihatan.
 
-**Tools**: Chainsaw, Spreaders, Fire (hos), Pager.
+**Tool**: Chainsaw, Spreader, Fire (hos), Pager.
 
 **Kenderaan**: Trak bomba — Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, varian Masubi Triton, Tayoti Hiace MTV EMRS.
 
-**Ganjaran**: XP setiap insiden yang diselesaikan. Insiden lebih besar membayar lebih banyak.
+**Ganjaran**: XP setiap insiden yang diselesaikan. Insiden yang lebih besar membayar lebih banyak.
 
 ### Kesihatan (KKN Medic)
 
-**Buka kunci**: Aras 200.
+**Buka kunci**: Level 200.
 
-**Cara mula**: Sertai pasukan Kesihatan. Lengkapkan tool **Pager** anda. Terima insiden perubatan 999.
+**Cara memulakan**: Sertai pasukan Kesihatan. Lengkapkan tool **Pager** anda. Terima insiden perubatan 999.
 
-**Apa yang anda buat**:
-1. Bertindak balas ke lokasi insiden (dalam 12 stud untuk berinteraksi).
-2. **Nilai** kecederaan pesakit — jangan berlengah. Menunggu lebih daripada 60 saat sebelum menilai mengakibatkan penalti kemandirian.
-3. **Rawat** kecederaan mengikut susunan yang betul menggunakan tool anda (Splint, First Aid Kit, Bandage). Rawatan salah mengurangkan skor kemandirian pesakit sebanyak 3 setiap kesilapan.
-4. **Stabilkan** — penstabilan yang berjaya memberikan +15 kemandirian.
-5. Muatkan pesakit ke atas pengusung, kemudian ke dalam ambulans anda (mesti dalam 25 stud dari ambulans untuk memuatkan).
-6. Hantar ke **Klinik Kesihatan Bandar Seri Putra** atau zon hospital lain.
+**Apa yang anda lakukan**:
+1. Bertindak balas ke lokasi insiden (dalam jarak 12 stud untuk berinteraksi).
+2. **Nilai** kecederaan pesakit — jangan bertangguh. Menunggu lebih daripada 60 saat sebelum menilai akan mengenakan penalti survival.
+3. **Rawat** kecederaan mengikut urutan yang betul menggunakan tool anda (Splint, First Aid Kit, Bandage). Rawatan yang salah mengurangkan skor survival pesakit sebanyak 3 setiap kesilapan.
+4. **Stabilkan** — stabilisasi yang berjaya memberi +15 survival.
+5. Muat pesakit ke atas pengusung, kemudian ke dalam ambulans anda (mesti berada dalam jarak 25 stud dari ambulans untuk memuat).
+6. Bawa ke **Klinik Kesihatan Bandar Seri Putra** atau zon hospital lain.
 
 **Mekanik**:
 - Proses rawatan 6 langkah setiap pesakit.
-- Pesakit mempunyai **skor kemandirian** yang berkurang dari semasa ke semasa (secara lalai 5 setiap 30 saat, berskala mengikut keterukan kecederaan). Setiap langkah yang selesai meningkatkan kemandirian sebanyak 5.
-- Pesakit boleh Terselamat, Kritikal, atau Meninggal — keadaan akhir menentukan pengganda XP anda.
-- Tingkah laku pesakit NPC berbeza-beza — ada yang bekerjasama, ada yang agresif. Pesakit agresif berkurang lebih pantas.
-- Cooldown 5 saat antara pesakit. Pesakit tamat masa selepas 5 minit jika tidak dirawat.
+- Pesakit mempunyai **skor survival** yang reput dari masa ke masa (secara lalai 5 setiap 30 saat, berskala mengikut keterukan kecederaan). Setiap langkah yang selesai menaikkan survival sebanyak 5.
+- Pesakit boleh Survived, Critical, atau Dead — keadaan akhir menentukan pengganda XP anda.
+- Tingkah laku pesakit NPC berbeza-beza — sesetengahnya bekerjasama, sesetengahnya agresif. Pesakit agresif reput lebih cepat.
+- Jeda 5 saat antara pesakit. Pesakit tamat masa selepas 5 minit jika tidak dirawat.
 
-**Tools**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
+**Tool**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
 
 **Kenderaan**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
 
-**Ganjaran**: XP setiap langkah rawatan dan bonus pengangkutan, didarabkan dengan hasil kemandirian.
+**Ganjaran**: XP setiap langkah rawatan dan bonus pengangkutan, didarab dengan hasil survival.
 
 ---
 
 ## Polis (Police)
 
-Semua pasukan polis berkongsi penghantaran kecemasan 999 dan boleh menggunakan tool penguatkuasaan yang sama. Yang berbeza ialah tempat mereka spawn, pakaian seragam, dan livri kenderaan.
+Semua pasukan polis berkongsi dispatch kecemasan 999 dan boleh menggunakan tool penguatkuasaan yang sama. Yang berbeza ialah tempat mereka spawn, seragam, dan livery kenderaan.
 
 ### KEMRonda
 
 **Buka kunci**: gamepass KEMRonda.
 
-**Cara mula**: Sertai pasukan KEMRonda.
+**Cara memulakan**: Sertai pasukan KEMRonda.
 
-**Apa yang anda buat**: Peronda auxiliari lebuh raya — bantu pemandu yang terkandas, tarik kenderaan yang rosak, sediakan pengurusan lalu lintas (kon, tanda) di sekitar insiden.
+**Apa yang anda lakukan**: Rondaan tambahan lebuh raya — membantu pemandu yang terkandas, menunda kenderaan yang rosak, membuat pengurusan trafik (kon, papan tanda) di sekitar insiden.
 
-**Tools**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
+**Tool**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
 
 **Kenderaan**: varian KEMRonda PB Peronda Hilux, iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
 
@@ -187,32 +191,32 @@ Semua pasukan polis berkongsi penghantaran kecemasan 999 dan boleh menggunakan t
 
 **Buka kunci**: gamepass Polis Trafik.
 
-**Cara mula**: Sertai pasukan Polis Trafik.
+**Cara memulakan**: Sertai pasukan Polis Trafik.
 
-**Apa yang anda buat**: Penguatkuasaan undang-undang lalu lintas — gunakan **Radar Gun** untuk menangkap pemandu yang melebihi had laju, bertindak balas terhadap insiden 999, keluarkan saman.
+**Apa yang anda lakukan**: Penguatkuasaan undang-undang trafik — gunakan **Radar Gun** untuk menangkap pemandu yang memandu laju, bertindak balas terhadap insiden 999, keluarkan saman.
 
-**Kesalahan automatik**: Permainan mengesan dua pelanggaran lalu lintas secara automatik — **melanggar lampu merah** dan **memandu laju**. Setiap kesalahan yang dikesan:
-- Menunjukkan notifikasi merah pada skrin pemandu yang bersalah
-- Menambah satu mata ke rekod pelanggaran mereka
-- Mencetuskan "passive lock" selama 60 saat yang menghalang interaksi tertentu
+**Kesalahan automatik**: Permainan mengesan dua pelanggaran trafik secara automatik — **melanggar lampu merah** dan **memandu laju**. Setiap kesalahan yang dikesan:
+- Memaparkan notifikasi merah pada skrin pemandu yang bersalah
+- Menambah satu mata pada rekod pelanggaran mereka
+- Mencetuskan "passive lock" 60 saat yang menyekat interaksi tertentu
 
 Pemain Polis Trafik boleh dimaklumkan tentang kesalahan yang dikesan dan bertindak balas.
 
-**Tools**: Taser X26P, Radar Gun, Whistle, Torchlight, Placeables PolisCone, Placeables PolisSign, Placeables PolisUmbrella.
+**Tool**: Taser X26P, Radar Gun, Whistle, Torchlight, Placeables PolisCone, Placeables PolisSign, Placeables PolisUmbrella.
 
-**Kenderaan**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, dan pelbagai varian pengiring.
+**Kenderaan**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, dan pelbagai varian iringan.
 
 ### Undercover Police
 
 **Buka kunci**: gamepass Undercover Police.
 
-**Cara mula**: Sertai pasukan Undercover Police.
+**Cara memulakan**: Sertai pasukan Undercover Police.
 
-**Apa yang anda buat**: Peralatan yang sama seperti Polis Trafik, tetapi pada kenderaan tidak bertanda. Lebih baik untuk operasi tersembunyi dan pemerhatian.
+**Apa yang anda lakukan**: Set tool yang sama seperti Polis Trafik, tetapi pada kenderaan tanpa tanda. Lebih baik untuk operasi diskret dan pemerhatian.
 
-**Tools**: Sama seperti Polis Trafik.
+**Tool**: Sama seperti Polis Trafik.
 
-**Kenderaan**: Varian tidak bertanda — Protan Persona Taxi (ya, betul), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
+**Kenderaan**: varian tanpa tanda — Protan Persona Taxi (ya, betul), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
 
 ---
 
@@ -220,13 +224,13 @@ Pemain Polis Trafik boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 
 ### APJ
 
-**Buka kunci**: Aras 300.
+**Buka kunci**: Level 300.
 
-**Cara mula**: Sertai pasukan APJ.
+**Cara memulakan**: Sertai pasukan APJ.
 
-**Apa yang anda buat**: Agensi Pengangkutan Jalan — setara dengan Jabatan Pengangkutan Jalan Malaysia. Periksa kenderaan, kuatkuasakan peraturan pengangkutan jalan, berkoordinasi dengan polis.
+**Apa yang anda lakukan**: Agensi Pengangkutan Jalan — setara dengan Jabatan Pengangkutan Jalan Malaysia. Periksa kenderaan, kuatkuasakan peraturan pengangkutan jalan, selaraskan dengan pihak polis.
 
-**Tools**: Torchlight, Placeables SCone.
+**Tool**: Torchlight, Placeables SCone.
 
 **Kenderaan**: Protan Inspira APJ, Protan X70 APJ.
 
@@ -236,30 +240,30 @@ Pemain Polis Trafik boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 
 ### Power Nasional
 
-**Buka kunci**: Aras 100.
+**Buka kunci**: Level 100.
 
-**Cara mula**: Sertai pasukan Power Nasional.
+**Cara memulakan**: Sertai pasukan Power Nasional.
 
-**Apa yang anda buat**: Kerja kontraktor utiliti elektrik kebangsaan. Bertindak balas terhadap gangguan bekalan elektrik, periksa infrastruktur, sediakan kon keselamatan semasa bekerja.
+**Apa yang anda lakukan**: Kerja kontraktor utiliti elektrik kebangsaan. Bertindak balas terhadap gangguan kuasa, periksa infrastruktur, pasang kon keselamatan semasa bekerja.
 
-**Tools**: Placeables SCone.
+**Tool**: Placeables SCone.
 
 ### Lumberjack
 
-**Buka kunci**: Aras 150, atau lebih awal dengan Season 1 Season Pass.
+**Buka kunci**: Level 150, atau lebih awal dengan Season 1 Season Pass.
 
-**Cara mula**: Sertai pasukan Lumberjack, lengkapkan tool **Axe** anda, pergi ke zon lumberjack (berhampiran H Plantation di Jersik).
+**Cara memulakan**: Sertai pasukan Lumberjack, lengkapkan tool **Axe** anda, pergi ke zon lumberjack (berhampiran H Plantation di Jersik).
 
-**Apa yang anda buat**:
-1. Tebang pokok dengan kapak (anda mesti berada dalam 8–15 stud dari pokok).
-2. Kayu terkumpul dalam simpanan setiap pemain anda.
+**Apa yang anda lakukan**:
+1. Tebang pokok dengan kapak (anda mesti berada dalam jarak 8–15 stud dari pokok).
+2. Kayu terkumpul dalam simpanan bagi setiap pemain anda.
 3. Jual kayu di kedai untuk XP.
 
 **Ganjaran**: **3 XP setiap kilogram** kayu yang dijual.
 
-**Kapasiti simpanan bertambah dengan aras Lumberjack anda**:
+**Kapasiti simpanan bertambah mengikut level Lumberjack anda**:
 
-| Aras Pemain | Simpanan (kg) |
+| Level Pemain | Simpanan (kg) |
 |---|---|
 | 1 | 10 |
 | 50 | ~40 |
@@ -267,7 +271,7 @@ Pemain Polis Trafik boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 | 200 | ~189 |
 | 500 | ~984 |
 
-Formula: `10 + (aras-1)×0.5 + (aras-1)²×0.00197`, jadi simpanan bertambah hampir secara linear pada peringkat awal dan memecut pada aras tinggi.
+Formula: `10 + (level-1)×0.5 + (level-1)²×0.00197`, jadi simpanan bertambah hampir linear pada awalnya dan semakin pantas pada level tinggi.
 
 ---
 
@@ -275,34 +279,34 @@ Formula: `10 + (aras-1)×0.5 + (aras-1)²×0.00197`, jadi simpanan bertambah ham
 
 ### School
 
-**Cara mula**: Pergi ke **SMK MYS II** (POI sekolah menengah di lebuh raya). Masuk ke mana-mana empat zon bilik darjah — Matematik, Sains, Sejarah, Geografi.
+**Cara memulakan**: Pergi ke **SMK MYS II** (POI sekolah menengah di lebuh raya). Berjalan masuk ke mana-mana daripada empat zon bilik darjah — Matematik, Sains, Sejarah, Geografi.
 
-**Apa yang anda buat**: Kelas berjalan pada **kitaran loceng 2 minit** — loceng berbunyi apabila kelas bermula dan tamat. Semasa dalam kelas, satu kuiz bermula. Setiap soalan diberi had masa — jawab lebih pantas untuk bonus lebih besar.
+**Apa yang anda lakukan**: Kelas berjalan pada **kitaran loceng 2 minit** — loceng berbunyi apabila kelas bermula dan berakhir. Semasa berada dalam kelas, satu kuiz akan bermula. Setiap soalan mempunyai masa terhad — jawab lebih cepat untuk bonus yang lebih besar.
 
-**Pemarkahan setiap jawapan betul**:
+**Pemarkahan setiap jawapan yang betul**:
 - Skor asas: **10 mata**
-- Bonus masa: bonus penuh jika anda menjawab dalam **2.5 saat**; berkurang secara linear kepada sifar selepas itu
-- **250 XP** setiap jawapan betul (pengganda digunakan)
+- Bonus masa: sehingga bonus penuh jika anda menjawab dalam **2.5 saat**; berkurang secara linear menjadi sifar selepas itu
+- **250 XP** setiap jawapan yang betul (pengganda dikenakan)
 
-Sekolah juga mengerakkan cabaran mingguan **Quiz Master**, di mana menjawab 21 soalan dengan betul dalam 3 saat setiap satu membuka kunci **BMY M5 CS** sebagai ganjaran kenderaan (kini tidak aktif — perhatikan pelancaran semula acara).
+Sekolah juga menggerakkan cabaran mingguan: **Quiz Master (Advanced)** — jawab **28 soalan kuiz dalam masa 2 saat setiap satu** untuk **1,000 XP**. Varian asas "Quiz Master" yang lama (21 soalan × 3 saat, memberikan BMY M5 CS) kini dinyahaktifkan — jadi hanya kuiz lanjutan yang aktif.
 
-**Mengapa pergi**: XP pasif, tekanan rendah sambil anda membaca; sekolah ialah salah satu daripada sedikit tempat mesra AFK yang masih memberikan pengalaman. Bagus antara giliran kerja.
+**Mengapa pergi**: XP pasif dan bertekanan rendah sambil anda membaca; sekolah ialah salah satu daripada sedikit tempat mesra AFK yang masih memberikan pengalaman. Hebat antara syif kerja.
 
 ## Kerja komuniti (kumpulan Malaysians)
 
-Aktiviti ini tersedia kepada sesiapa sahaja dalam pasukan **Malaysians** (sertai kumpulan MYSverse pada pangkat 1+).
+Aktiviti-aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians** (sertai kumpulan MYSverse pada pangkat 1+).
 
 ### Fishing
 
-**Cara mula**: Lengkapkan joran dan pergi ke **Fishing Port** (di kawasan pantai peta) atau mana-mana air.
+**Cara memulakan**: Lengkapkan joran dan pergi ke **Fishing Port** (di kawasan pesisir pantai peta) atau mana-mana perairan.
 
-**Apa yang anda buat**:
+**Apa yang anda lakukan**:
 1. Lempar joran anda.
-2. Tunggu ikan menggigit.
-3. Goyangkan joran (ikut gesaan di skrin) untuk menarik masuk.
+2. Tunggu ikan makan umpan.
+3. Goncang joran (ikut prompt di atas skrin) untuk menggulung.
 4. Jual ikan di kedai untuk BR.
 
-**Apa yang anda boleh tangkap**: Senarai ikan semasa mempunyai 10 entri, diberi wajaran secara kasar mengikut peluang:
+**Apa yang boleh anda tangkap**: Senarai ikan semasa mempunyai 10 entri, ditimbang secara kasar mengikut peluang:
 
 | Tangkapan | Kejarangan | Nota |
 |---|---|---|
@@ -310,86 +314,103 @@ Aktiviti ini tersedia kepada sesiapa sahaja dalam pasukan **Malaysians** (sertai
 | Indian Mackerel | Peluang 55 | Sangat biasa |
 | Snapper | Peluang 45 | Biasa |
 | Pomfret | Peluang 45 | Biasa |
-| Siakap | Peluang 40 | Biasa |
-| Red Snapper | Peluang 35 | Kurang biasa |
-| Tin Can | Peluang 20 | Sampah — ditarik masuk tetapi tiada ganjaran |
-| Boot | Peluang 20 | Sampah — ditarik masuk tetapi tiada ganjaran |
+| Siakap (sea bass) | Peluang 40 | Biasa |
+| Red Snapper | Peluang 35 | Tidak biasa |
+| Tin Can | Peluang 20 | Sampah — boleh digulung tetapi tiada ganjaran |
+| Boot | Peluang 20 | Sampah — boleh digulung tetapi tiada ganjaran |
 | Yifish | **Peluang 0.5** | **Amat jarang** — legenda memancing di kalangan pemain |
 | meow | — | Easter egg berasingan, sangat jarang |
 
 **Jarak lemparan**: sehingga 80 stud dari tempat anda berdiri.
 
-**Menjual**: Ikan boleh dijual di zon kedai pelabuhan memancing. Ganjaran semasa ialah **XP sahaja** — laluan ganjaran BR belum dilaksanakan dalam modul Sell semasa. Tangkapan jarang memberikan bayaran XP lebih besar daripada ikan biasa.
+**Menjual**: Ikan boleh dijual di zon kedai pelabuhan memancing. Ganjaran semasa ialah **XP sahaja** — laluan ganjaran BR masih belum dilaksanakan dalam modul Sell semasa. Tangkapan jarang memberikan pembayaran XP yang lebih besar daripada ikan biasa.
 
 ### Checkout
 
-**Cara mula**: Masuk ke stesen juruwang di kedai makanan atau KeluargaMart.
+**Cara memulakan**: Berjalan masuk ke kaunter juruwang di kedai makanan atau KeluargaMart.
 
-**Apa yang anda buat**:
-1. Seorang pelanggan NPC spawn di kaunter. Avatar pelanggan itu **dipilih secara rawak dari senarai rakan Roblox anda** — jadi jika rakan anda juga bermain Lebuhraya, mereka mungkin muncul sebagai pelanggan anda yang seterusnya. (Memerlukan anda mempunyai sekurang-kurangnya seorang rakan untuk bermain.)
-2. Pelanggan meminta 1–4 item makanan dari menu yang tersedia.
-3. Anda mempunyai **15–20 saat** untuk memilih item yang betul dan melengkapkan pesanan.
-4. Sajikan mereka sebelum pemasa tamat atau mereka akan pergi dengan marah (tiada ganjaran).
+**Apa yang anda lakukan**:
+1. Seorang NPC pelanggan akan spawn di kaunter. Avatar pelanggan **dipilih secara rawak dari senarai kawan Roblox anda** — jadi jika kawan anda juga bermain Lebuhraya, mereka mungkin muncul sebagai pelanggan anda yang seterusnya. (Memerlukan anda mempunyai sekurang-kurangnya seorang kawan untuk bermain.)
+2. Pelanggan meminta 1–4 item makanan daripada menu yang tersedia.
+3. Anda mempunyai **15–20 saat** untuk memilih item yang betul dan menyelesaikan pesanan.
+4. Layan mereka sebelum pemasa tamat atau mereka pergi dengan marah (tiada ganjaran).
 
-**Ganjaran**: **3–8 XP rawak setiap pelanggan yang dilayan**, dikira pada akhir syif anda. Bukan kadar tertinggi setiap minit, tetapi cara sosial, tekanan rendah untuk bermain dan melihat wajah yang dikenali.
+**Ganjaran**: Rawak **3–8 XP setiap pelanggan yang dilayan**, dikira pada akhir syif anda. Bukan kadar tertinggi per minit, tetapi cara bermain yang sosial dan bertekanan rendah serta dapat melihat wajah yang dikenali.
 
-**Perhatikan**: Ganjaran ialah XP sahaja — cabang ganjaran BR belum dilaksanakan.
+**Perhatian**: Ganjaran adalah XP sahaja — cabang ganjaran BR belum dilaksanakan lagi.
 
 ---
 
-## Terbuka untuk semua
+## Terbuka kepada semua
 
 ### Racing
 
-**Cara mula**: Buka **LBHRY_RaceMenu** (bar atas). Pilih satu trek.
+**Cara memulakan**: Buka **LBHRY_RaceMenu** (topbar). Pilih satu trek.
 
-**Apa yang anda buat**:
-- **Time Trial** — berlumba sendiri melawan jam. Tetapkan rekod trek.
-- **PvP Lobby** — cipta atau sertai lobi, tunggu pemain untuk masuk, mulakan perlumbaan.
+**Apa yang anda lakukan**:
+- **Time Trial** — berlumba seorang diri melawan jam. Tetapkan rekod trek.
+- **PvP Lobby** — cipta atau sertai lobi, tunggu pemain masuk, mulakan perlumbaan.
 
-**Ganjaran**: XP dan BR berdasarkan masa penamat. Lebih pantas = bayaran lebih tinggi.
+**Bagaimana ganjaran dikira**: XP = `baseXP × difficultyMul × placementMul × (PB ? 1.25 : 1.0)`; BR = `baseRinggit × difficultyMul × placementMul + (PB ? 50 : 0)`. Sesi yang ditanda (anti-cheat) mendapat 10% XP dan sifar BR.
 
-**Trek**: Pada masa ini permainan mempunyai satu trek aktif — **Test Sprint** — gelung pembuktian 3 checkpoint, 1 pusingan yang pendek terbuka kepada mana-mana kelas kenderaan (Civ) dan mana-mana aras. Bayaran asas ialah 1,500 XP / 300 BR. Lobi PvP menyokong 2–6 pemain dengan lobi pra-perlumbaan 30 saat dan kiraan undur mula 5 saat. POI "Jersik Race Track" ialah lokasi dalam dunia di mana perlumbaan berlangsung.
+| Kedudukan dalam PvP | Pengganda |
+|---|---|
+| Pertama | 2.0× |
+| Kedua | 1.5× |
+| Ketiga | 1.2× |
+| Keempat ke atas | `max(0.3, 1.0 − 0.1 × (place − 3))` |
+| DNF | 0.15× (XP sahaja, tiada BR) |
+| Time Trial (solo) | 1.0× |
 
-Jangkakan lebih banyak trek apabila permainan dikemas kini — sistem perlumbaan menyokong lencana masa (contohnya pingat sub-30s, sub-20s) untuk trek yang dikonfigurasikan oleh pereka.
+Pengganda kesukaran: **Easy 1.0×, Medium 1.5×, Hard 2.0×** — jadi kedudukan yang sama pada trek Hard membayar dua kali ganda.
+
+Personal Best mendapat tambahan **+25% XP** dan **bonus tetap +50 BR**.
+
+**Trek**: Pada masa ini permainan mempunyai satu trek aktif — **Test Sprint** — gelung pembuktian ringkas 3 checkpoint, 1 pusingan pada kesukaran Easy, terbuka kepada kenderaan kelas Civ pada mana-mana level. Pembayaran asas: 1,500 XP / 300 BR. PB kedudukan pertama baharu dalam PvP memberikan **3,750 XP dan 650 BR**; PB Time Trial solo memberikan **1,875 XP dan 350 BR**. Sistem ini menyokong sehingga 8 pemain lobi per perlumbaan (TestSprint dihadkan kepada 6 melalui atribut trek), lobi pra-perlumbaan 30 saat, kira detik mula 5 saat, tamat masa akhir 60 saat selepas pemain pertama menamatkan.
+
+POI "Jersik Race Track" ialah lokasi dalam dunia permainan di mana perlumbaan berlangsung.
+
+**Perhatian**: Ganjaran perlumbaan memintas tumpukan pengganda XP global (ia sudah pra-skala) — jadi hujung minggu Double XP 2× atau gamepass XP Boost tidak akan bertimbun di atas pembayaran perlumbaan. Laluan XP yang lain (memandu, kerjaya) masih mendapat pengganda.
+
+Nantikan lebih banyak trek apabila permainan dikemas kini — sistem perlumbaan menyokong lencana masa (contohnya pingat sub-30s, sub-20s) untuk trek yang dikonfigurasikan oleh pereka.
 
 ### Convoy
 
-**Cara mula**: Dalam Menu Utama atau ikon convoy, cipta satu convoy (anda menjadi ketua) atau semak imbas convoy awam dalam 500 stud dan minta untuk sertai.
+**Cara memulakan**: Dalam Main Menu atau ikon konvoi, cipta sebuah konvoi (anda menjadi ketua) atau lungsuri konvoi awam dalam jarak 500 stud dan mohon untuk menyertai.
 
-**Apa yang anda buat**: Pandu dengan sehingga 6 orang dalam convoy yang sama. Kekal dalam 200 stud antara satu sama lain untuk mengekalkan bonus aktif. Lebih ramai rakan dan ahli pasukan yang sama yang anda ada, lebih tinggi pengganda XP — sehingga +50% di atas timbunan XP asas.
+**Apa yang anda lakukan**: Memandu bersama sehingga 6 orang dalam konvoi yang sama. Kekal dalam jarak 200 stud antara satu sama lain untuk mengekalkan bonus aktif. Semakin ramai kawan dan ahli pasukan yang sama yang anda ada, semakin tinggi pengganda XP — sehingga +50% di atas tumpukan XP asas.
 
-Lihat [Ciri Sosial](/lebuhraya/social-features) untuk pecahan penuh.
+Lihat [Social Features](/lebuhraya/social-features) untuk pecahan penuh.
 
 ### Housing
 
-**Cara mula**: Lawati **Pangsapuri Seri Putra** di Bandar Seri Putra untuk menuntut plot yang tersedia.
+**Cara memulakan**: Lawati **Pangsapuri Seri Putra** di Bandar Seri Putra untuk menuntut plot yang tersedia.
 
-**Apa yang anda buat**: Letakkan templat rumah (3 gaya Kampung atau 1 Modern Terrace), sesuaikan cat, tambah perabot, kunci/buka kunci pintu, togol lampu.
+**Apa yang anda lakukan**: Letakkan templat rumah (3 gaya Kampung atau 1 Modern Terrace), ubah suai cat, tambah perabot, kunci/buka pintu, togol lampu.
 
 Lihat [Housing](/lebuhraya/housing) untuk butiran.
 
 ---
 
-## Sistem Kecemasan 999
+## Sistem kecemasan 999
 
-Mana-mana pemain boleh memanggil 999 (lihat [Ciri Sosial](/lebuhraya/social-features)). Jika anda dalam pasukan kecemasan (Bomba, Polis Trafik, Undercover Police, Kesihatan), lengkapkan **Pager** anda untuk melihat insiden aktif dan menerima satu.
+Mana-mana pemain boleh memanggil 999 (lihat [Social Features](/lebuhraya/social-features)). Jika anda berada dalam pasukan kecemasan (Bomba, Polis Trafik, Undercover Police, Kesihatan), lengkapkan tool **Pager** anda untuk melihat insiden aktif dan terima satu.
 
-- Jenis insiden: **Car Crash**, **Injured Person**.
-- Sehingga **10 insiden** boleh dibuka pada satu masa.
-- Insiden yang diselesaikan mengambil masa sekurang-kurangnya **30 saat** sebelum ganjaran dibayar — ini ialah tetingkap tindak balas minimum untuk mengecewakan penanaman selesai-segera.
-- Jika insiden dibatalkan atau anda menukar pasukan, tugasan anda digugurkan.
+- Jenis insiden: **Kemalangan Kereta**, **Orang Tercedera**.
+- Sehingga **10 insiden** boleh terbuka pada satu masa.
+- Insiden yang diselesaikan mengambil masa sekurang-kurangnya **30 saat** sebelum ganjaran dibayar — ini adalah tetingkap tindak balas minimum untuk menghalang pertanian penyelesaian segera.
+- Jika insiden dibatalkan atau anda menukar pasukan, tugasan anda akan digugurkan.
 
 ---
 
 ## Kerja mana yang patut saya mulakan?
 
-- **Aras 10**: Food Delivery ialah permulaan klasik. 250 XP setiap penghantaran, laluan pendek, menggunakan mana-mana kenderaan.
-- **Dapat kumpulan MYSverse?** Fishing santai dan kadar sendiri.
-- **Mahukan aksi?** Bomba atau Polis Trafik (memerlukan gamepass) — banyak insiden 999, roleplay sosial.
-- **Mahu memandu berjam-jam?** Logistics atau Taxi (Taxi perlukan gamepass, Logistics perlukan Aras 75 atau Season 1 Pass).
+- **Level 10**: Food Delivery ialah pemula klasik. 250 XP setiap penghantaran, laluan pendek, menggunakan mana-mana kenderaan.
+- **Ada kumpulan MYSverse?** Fishing santai dan rentak sendiri.
+- **Mahukan aksi?** Bomba atau Polis Trafik (memerlukan gamepass) — banyak insiden 999, main peranan sosial.
+- **Mahu memandu berjam-jam?** Logistics atau Taxi (Taxi memerlukan gamepass, Logistics memerlukan Level 75 atau Season 1 Pass).
 
 ## Langkah seterusnya
 
-- [Pasukan dan Kerjaya](/lebuhraya/teams) — Gelaran pangkat dan kemajuan peringkat
-- [Dunia dan Peta](/lebuhraya/map) — Di mana bangunan setiap kerja terletak
+- [Teams and Careers](/lebuhraya/teams) — Gelaran pangkat dan perkembangan tier
+- [World and Map](/lebuhraya/map) — Di mana setiap bangunan kerja terletak

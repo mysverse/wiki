@@ -97,13 +97,11 @@ While you're in the world, you'll see:
 - **Task card** (top-left): shows your current objective (active quest step, current fire, patient you're treating, etc.). Tap the chevron to collapse it if it's in the way.
 - **Wallet / bank balance**: visible near the top of your screen.
 
-## Stamina and sprint
+## Sprint
 
-The only "stat" that actually affects gameplay is your **stamina**. Sprinting drains it; standing still or walking regenerates it. If you sprint until your stamina hits zero, you'll automatically drop back to walking speed until you recover.
+Hold **Left Shift** or **Left Control** to sprint. Walk speed is 10 studs/s; sprint doubles it to 20. There's no stamina gate in the current build - you can sprint as long as you want. (The game has a full hunger/stamina/hygiene system in code, but the server handler that would initialize those stats per character is currently disabled, so none of them run in live play.)
 
-You don't see a stamina bar, but you'll feel the gating if you try to sprint forever. In practice it's generous enough that casual play never runs into it.
-
-Hunger and hygiene decay quietly in the background but have almost no visible effect right now: they don't drag your stats down in any obvious way, and most "water source" and food props in the world are decorative. Your starter **cheese burger** tool does restore hunger if you use it (the only restoration that's actually wired up). Don't worry about these stats in normal play.
+Sprint toggles off automatically when you enter a vehicle seat.
 
 ## What next?
 

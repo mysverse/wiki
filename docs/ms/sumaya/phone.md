@@ -30,7 +30,7 @@ Sesuaikan rupa telefon anda:
 
 ### Camera
 
-Aplikasi kamera dalam permainan. Ambil foto apa sahaja di skrin. Sesuai untuk pameran rumah, detik indah, atau menangkap tangkapan 5 bintang.
+Aplikasi kamera dalam permainan. Ambil foto apa sahaja di skrin. Sesuai untuk pameran rumah, detik indah, atau menangkap tangkapan 5 bintang itu.
 
 ### Profile
 

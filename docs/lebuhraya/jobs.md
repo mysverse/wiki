@@ -37,7 +37,7 @@ Jobs are grouped by the **agency** that organises them.
 
 **How to start**: Join the Bus Driver team. Spawn a bus via MyPod and begin a route from the **Depoh Bas** in Bandar Seri Putra.
 
-**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Each full route pays XP and BR.
+**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Full routes pay XP (BR payouts are planned but not yet wired up — see *Economy and XP*).
 
 **Vehicle**: Buses — Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
 
@@ -86,11 +86,13 @@ Jobs are grouped by the **agency** that organises them.
 
 **What you do**: Collect packages from postboxes in one of the four postal zones (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), process them, and deliver to the marked mailbox addresses.
 
-**Rewards**: **25 XP per package** plus a salary that scales with your **Post Office level**. The job has its own internal level system, separate from your main player level:
+**Rewards**: **25 XP per package** plus an in-job "Money" counter that grows with each delivery. The Money value is stored in the Post Office's own save record — it is **not** your regular BR balance (which the currency system currently doesn't actively use). The job has its own internal level system, separate from your main player level:
 
 - Max Post Office level: **20**
 - XP per Post Office level: `100 × level` (so Level 1 needs 100 XP, Level 20 needs 2,000 XP)
-- Salary per package: `60 + (level × 10)` BR — at Level 1 you earn 70 BR per delivery, at Level 20 you earn 260 BR
+- Salary per package (stored as POS "Money"): `60 + (level × 10)` — at Level 1 you earn 70 per delivery, at Level 20 you earn 260
+
+When the BR economy goes live, POS Money is expected to bridge into your real BR balance. For now, think of it as a personal progress counter.
 
 Switching zones forces you to stop the current job, so pick a zone and stick with it for a productive session.
 
@@ -111,6 +113,8 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 **Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
 
 **Vehicle**: Rubbish truck (team-issue, spawnable via MyPod).
+
+**Note on pay**: The "Pay" notification shows an in-world amount, but the BR economy isn't live yet — XP is the payout that actually lands on your account. The amount becomes a real BR credit once the economy goes live.
 
 ---
 
@@ -279,7 +283,7 @@ Formula: `10 + (level-1)×0.5 + (level-1)²×0.00197`, so storage grows almost l
 - Time bonus: up to a full bonus if you answer within **2.5 seconds**; decays linearly to zero after that
 - **250 XP** per correct answer (multipliers apply)
 
-The school also powers the weekly **Quiz Master** challenge, where answering 21 questions correctly within 3 seconds each unlocks the **BMY M5 CS** as a vehicle reward (currently inactive — watch for event relaunches).
+The school also powers a weekly challenge: **Quiz Master (Advanced)** — answer **28 quiz questions within 2 seconds each** for **1,000 XP**. The older basic "Quiz Master" variant (21 questions × 3 seconds, rewarded a BMY M5 CS) is currently disabled — so only the advanced quiz is live.
 
 **Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
 
@@ -342,9 +346,26 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 - **Time Trial** — race alone against the clock. Set track records.
 - **PvP Lobby** — create or join a lobby, wait for players to load in, start the race.
 
-**Rewards**: XP and BR based on finish time. Faster = higher payout.
+**How rewards are calculated**: XP = `baseXP × difficultyMul × placementMul × (PB ? 1.25 : 1.0)`; BR = `baseRinggit × difficultyMul × placementMul + (PB ? 50 : 0)`. Flagged sessions (anti-cheat) get 10% XP and zero BR.
 
-**Tracks**: Currently the game has one active track — **Test Sprint** — a short 3-checkpoint, 1-lap proving loop open to any vehicle class (Civ) and any level. Base payout is 1,500 XP / 300 BR. PvP lobbies support 2–6 players with a 30-second pre-race lobby and 5-second start countdown. The "Jersik Race Track" POI is the in-world location where racing happens.
+| Placement in PvP | Multiplier |
+|---|---|
+| 1st | 2.0× |
+| 2nd | 1.5× |
+| 3rd | 1.2× |
+| 4th onwards | `max(0.3, 1.0 − 0.1 × (place − 3))` |
+| DNF | 0.15× (XP only, no BR) |
+| Time Trial (solo) | 1.0× |
+
+Difficulty multipliers: **Easy 1.0×, Medium 1.5×, Hard 2.0×** — so the same placement on a Hard track pays double.
+
+Personal Bests get an extra **+25% XP** and a **flat +50 BR bonus**.
+
+**Tracks**: Currently the game has one active track — **Test Sprint** — a short 3-checkpoint, 1-lap proving loop on Easy difficulty, open to Civ-class vehicles at any level. Base payout: 1,500 XP / 300 BR. A new 1st-place PB in PvP yields **3,750 XP and 650 BR**; a solo Time Trial PB yields **1,875 XP and 350 BR**. The system supports up to 8 lobby players per race (TestSprint is capped at 6 via its track attribute), 30-second pre-race lobby, 5-second start countdown, 60-second finish timeout after the first finisher.
+
+The "Jersik Race Track" POI is the in-world location where racing happens.
+
+**Heads up**: Race rewards bypass the global XP multiplier stack (they're already pre-scaled) — so a 2× Double XP weekend or XP Boost gamepass won't stack on top of race payouts. Other XP paths (driving, jobs) still get the multipliers.
 
 Expect more tracks as the game updates — the race system supports time badges (e.g. sub-30s, sub-20s medals) for tracks that designers configure.
 

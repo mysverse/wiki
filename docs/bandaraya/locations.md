@@ -37,7 +37,7 @@ The city is a detailed recreation of central Kuala Lumpur, including its most ic
 
 | Place | Purpose |
 | --- | --- |
-| **IPD Dang Wangi** | Main police station. Contains lobby, **CID Office**, **JSPT Office**, **Operations Room**, **Senior Officer Offices**, **District Offices**, and the **Armoury**. PDRM helicopter spawner. |
+| **IPD Dang Wangi** | Main police station. Contains lobby, **CID Office**, **JSPT Office**, **Operations Room**, **Senior Officer Offices**, **District Offices**, and the **Armoury**. POLIS helicopter spawner. |
 | **BOMBA Station** | Fire & Rescue HQ. BOMBA helicopter spawner. |
 | **KKM Ampang Clinic** | Health ministry clinic. Staffed by KKM medics. |
 | **Prince Court Medical Centre** | Hospital. Another KKM site. |
@@ -199,7 +199,7 @@ Coverage includes real-KL-inspired locations:
 - **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
 - **Traders' Hotel**
 
-CCTV is a PDRM operational asset — civilians won't interact with the feed. Building-mounted camera decals are everywhere for visual authenticity.
+CCTV is a POLIS operational asset — civilians won't interact with the feed. Building-mounted camera decals are everywhere for visual authenticity.
 
 ## Special locations
 
@@ -215,7 +215,7 @@ CCTV is a PDRM operational asset — civilians won't interact with the feed. Bui
 
 30+ vehicle spawners in the city, organised by operator:
 
-- **PDRM** — multiple (Reg, Transports, JSPT, PDRM Heli)
+- **POLIS** — multiple (Reg, Transports, JSPT, POLIS Heli)
 - **BOMBA** — Bomba Spawner, Bomba Utility, BOMBA Heli
 - **MAF** — MAF, MAF Civilian, GGK, KPTD
 - **Transport** — MyTransit, FirstGroup, Fermuda, FermudaDev, FLAXIM, FLAXIM 2, Fetch, Tompang
@@ -232,7 +232,7 @@ You can only use spawners your team is authorised for. See [Vehicles](/bandaraya
 
 50+ player spawn points organised by team (`PlayerSpawns`):
 
-- **Emergency** — PDRM, BOMBA, KKM, SJAM
+- **Emergency** — POLIS, BOMBA, KKM, SJAM
 - **Military** — MAF, KPTD
 - **Transport** — MyTransit, FirstGroup, Fermuda, Flaxim, Fetch, Bus Services, Taxi Services, Towing Services
 - **Government** — Government, Royal Family, Yang di-Pertuan Persekutuan, Foreign Rep

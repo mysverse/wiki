@@ -105,7 +105,7 @@ The **CAG card** is Bandaraya's stored-value transit card — modelled on Malays
 
 ## How to buy one
 
-1. Find a **CAG kiosk** — one next to every MRT and Monorail station, plus a central kiosk in the city.
+1. Find a **CAG kiosk** — there's one at every MRT / Monorail station, and **two** at Raja Chulan and Ampang Park (those stations have two entrances). 8 kiosks total.
 2. Interact with the kiosk (line of sight required — the prompt won't work through walls).
 3. Pick **Buy Card** on the kiosk panel. Confirm the **100 BR** charge.
 4. You'll receive a **CAG Card** tool in your backpack. Equip it to see a compact balance badge above the card; activate it (click while held) to open your wallet UI.

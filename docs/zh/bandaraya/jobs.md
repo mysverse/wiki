@@ -2,13 +2,13 @@
 title: 工作
 description: Bandaraya 的各种工作 — 邮政服务、出租车、拖车、巴士司机以及机构岗位 — 包括薪资和级别说明。
 lang: zh
-translated_from_hash: 33dd3a97
+translated_from_hash: 2fdee6c4
 translated_on: '2026-04-21'
 needs_review: true
 ---
 # 工作
 
-在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。PDRM / BOMBA / KKM 等岗位不在此页 — 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/bandaraya/emergency-services)。
+在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。POLIS / BOMBA / KKM 等岗位不在此页 — 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/bandaraya/emergency-services)。
 
 ## 简要概览
 
@@ -23,7 +23,7 @@ needs_review: true
 
 ## Postal Service (POS)
 
-最常见的首选工作。不需要 gamepass — 但你必须处于 **偏平民的队伍**： **Visitors**、 **Malaysians**、 **High Class Citizen** 或 **Developers**。PDRM / BOMBA / KKM 等等不能作为 POS 打卡上班（游戏会在开始工作那一步挡住你）。
+最常见的首选工作。不需要 gamepass — 但你必须处于 **偏平民的队伍**： **Visitors**、 **Malaysians**、 **High Class Citizen** 或 **Developers**。POLIS / BOMBA / KKM 等等不能作为 POS 打卡上班（游戏会在开始工作那一步挡住你）。
 
 ### 流程
 

@@ -11,14 +11,14 @@ The in-game currency is **BR (Bandar Ringgit)**. All prices in this wiki are in 
 
 ## What you can do
 
-- **Pick a role.** Civilian, police (PDRM), firefighter (BOMBA), doctor (KKM), soldier (MAF), bus driver, taxi driver, postie, tower. Every team has its own tools, vehicles, and stories.
+- **Pick a role.** Civilian, police (POLIS), firefighter (BOMBA), doctor (KKM), soldier (MAF), bus driver, taxi driver, postie, tower. Every team has its own tools, vehicles, and stories.
 - **Work for money.** Deliver mail (POS), drive a taxi, tow illegally-parked cars, drive a bus route — or climb the police ranks and keep the city safe.
 - **Drive.** 200+ vehicles across 25+ organisations — Proton, Perodua, Toyota, Honda, BMW, and Malaysia-specific emergency fleets.
 - **Get around.** Board a bus (sit, automatic fare), fast-travel via MRT Kajang Line or KL Monorail, or drive through TapNGo toll gates.
 - **Buy a car.** Visit the Classic Car Dealer, pick a model, choose a colour, buy or rent, and it's saved to your account.
 - **Use the CAG card.** Bandaraya's take on Touch n Go — one card for buses, MRT, and tolls, with a monthly pass option.
 - **Respond to emergencies.** Real fire incidents, real calls, real patients.
-- **Get arrested (try not to).** PDRM will detain, cuff, and arrest you. There's a 3-minute cool-off, then you're back out.
+- **Get arrested (try not to).** POLIS will detain, cuff, and arrest you. There's a 3-minute cool-off, then you're back out.
 - **Shop.** Food, clothes, tools, even a black market. Guns need a Firearms Licence gamepass.
 - **Roleplay.** The game rewards staying in character.
 
@@ -26,7 +26,7 @@ The in-game currency is **BR (Bandar Ringgit)**. All prices in this wiki are in 
 
 Bandaraya is an in-game section of **Kuala Lumpur**. You'll recognise real landmarks — **Maxis Tower**, **Grand Hyatt**, **Public Bank**, the **PETRONAS** area, **Ampang Park**, **Bukit Bintang**, and a fleshed-out MRT/Monorail network with stations at real KL locations (Conlay, Persiaran KLCC, Ampang Park; Bukit Bintang, Raja Chulan, Bukit Nanas).
 
-The teams are real Malaysian institutions: **PDRM**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. The transit card — **CAG** — is Bandaraya's Touch n Go analogue, down to debt on empty cards, monthly passes, and collectible designs tied to Deepavali, Merdeka, and Raya.
+The teams are real Malaysian institutions: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. The transit card — **CAG** — is Bandaraya's Touch n Go analogue, down to debt on empty cards, monthly passes, and collectible designs tied to Deepavali, Merdeka, and Raya.
 
 Not sure what an acronym means? The [glossary](/bandaraya/glossary) has every one of them.
 
@@ -47,7 +47,7 @@ From "I just clicked play" to "I'm driving a car around KL."
 3. Open your map with the map button (it's on the right side of the topbar).
 4. Need cash? Try [Postal Service or Taxi Driver](/bandaraya/jobs).
 5. Want to ride MRT or a bus? Read [Getting Around](/bandaraya/getting-around).
-6. Want to be a police officer? You'll need to join the [PDRM group](/bandaraya/teams#emergency-services).
+6. Want to be a police officer? You'll need to join the [POLIS group](/bandaraya/teams#emergency-services).
 
 ---
 

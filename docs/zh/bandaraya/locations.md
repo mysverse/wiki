@@ -2,7 +2,7 @@
 title: 地图与地点
 description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
-translated_from_hash: f228f901
+translated_from_hash: 0ec94584
 translated_on: '2026-04-21'
 needs_review: true
 ---

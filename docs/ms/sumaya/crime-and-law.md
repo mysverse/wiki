@@ -90,7 +90,7 @@ Anda juga boleh mencopet **NPC awam** yang berjalan di sekitar peta:
 - Setiap satu membawa antara 50 dan 200 Ringgit.
 - NPC akan muncul semula 2 minit selepas dicopet.
 
-Mencopet NPC juga menambah mata kesalahan, tetapi NPC tidak boleh mengejar atau melaporkan anda, jadi ia adalah cara berisiko rendah untuk mengumpul wang.
+Mencopet NPC juga mengenakan mata kesalahan, tetapi NPC tidak boleh mengejar atau melaporkan anda, jadi ia adalah cara berisiko rendah untuk mengumpul wang.
 
 ### Pemerdagangan haiwan
 
@@ -121,7 +121,7 @@ Haiwan yang anda dapat adalah rawak.
 
 ### Kesalahan lain
 
-Beberapa tindakan lain menambah mata kesalahan walaupun ia bukan "rentetan jenayah":
+Beberapa tindakan lain menambah mata kesalahan walaupun ia bukan benar-benar "rentetan jenayah":
 
 | Kesalahan | Mata | Kunci pasif |
 |---------|--------|--------------|

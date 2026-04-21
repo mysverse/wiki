@@ -4,7 +4,7 @@ description: >-
   Mulakan pengembaraan anda di Bandaraya — navigasi menu, peroleh Bandar Ringgit
   (BR), pilih pasukan, dan terokai Kuala Lumpur.
 lang: ms
-translated_from_hash: efebfc95
+translated_from_hash: 4c561c70
 translated_on: '2026-04-21'
 needs_review: true
 ---

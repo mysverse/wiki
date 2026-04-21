@@ -4,7 +4,7 @@ description: >-
   Telefon dalam permainan di Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
   mesej, dan aplikasi lain.
 lang: ms
-translated_from_hash: 089fa7dc
+translated_from_hash: 466708b8
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -86,7 +86,7 @@ Laporkan jenayah, kebakaran, kecemasan perubatan, atau kemalangan.
 2. Isi **jenis** (apa yang sedang berlaku) dan **keterangan** (butiran).
 3. Hantar.
 
-Amaran akan memberitahu pasukan kecemasan yang berkaitan (PDRM untuk jenayah, BOMBA untuk kebakaran, KKM untuk perubatan). Jangan salah guna ini — panggilan palsu membazir masa responden.
+Amaran akan memberitahu pasukan kecemasan yang berkaitan (POLIS untuk jenayah, BOMBA untuk kebakaran, KKM untuk perubatan). Jangan salah guna ini — panggilan palsu membazir masa responden.
 
 Juga tersedia di Lebuhraya.
 
@@ -116,4 +116,4 @@ Aplikasi dengan sekatan "tempat" hanya muncul di tempat tersebut. Sebagai contoh
 - [Pergerakan](/bandaraya/getting-around) — CAG eWallet (pada telefon)
 - [Pekerjaan](/bandaraya/jobs) — e-hailing menempah tempahan untuk peranan Pemandu Teksi
 - [Ekonomi](/bandaraya/economy) — mata wang BR (pemindahan MyPay)
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — panggilan 999 pergi kepada PDRM/BOMBA/KKM bertugas
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — panggilan 999 pergi kepada POLIS/BOMBA/KKM bertugas

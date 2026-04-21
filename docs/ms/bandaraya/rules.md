@@ -4,7 +4,7 @@ description: >-
   Kelakuan yang boleh menyebabkan anda dilarang di Bandaraya, dan cara membuat
   rayuan.
 lang: ms
-translated_from_hash: 521a0951
+translated_from_hash: 49af2eee
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -85,7 +85,7 @@ Terus melakukan kesalahan kecil? Ban berat.
 
 ### 3. Pergi rogue dalam perkhidmatan awam
 
-Jika anda dalam **PDRM, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, atau mana-mana pasukan perkhidmatan awam yang lain dan anda melakukan jenayah, itu ialah pelanggaran berat. Pakai seragam, mainkan peranan.
+Jika anda dalam **POLIS, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, atau mana-mana pasukan perkhidmatan awam yang lain dan anda melakukan jenayah, itu ialah pelanggaran berat. Pakai seragam, mainkan peranan.
 
 ### 4. Mengelak ban
 

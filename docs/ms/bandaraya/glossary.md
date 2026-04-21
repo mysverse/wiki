@@ -4,7 +4,7 @@ description: >-
   Akronim Malaysia dan istilah dalam permainan — PDRM, BOMBA, KKM, CAG, LTAA,
   RTAA, MRT, dan banyak lagi.
 lang: ms
-translated_from_hash: '11e95588'
+translated_from_hash: ad09a143
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -23,14 +23,14 @@ Bandaraya banyak bergantung pada nama Malaysia sebenar. Kalau anda bukan dari Ma
 
 | Akronim | Nama penuh | Apa itu |
 | --- | --- | --- |
-| **PDRM** | Polis Diraja Malaysia | Polis Diraja Malaysia. |
-| **BOMBA** | Jabatan Bomba dan Penyelamat | Jabatan Bomba dan Penyelamat. |
-| **KKM** | Kementerian Kesihatan Malaysia | Kementerian Kesihatan (doktor, paramedik). |
-| **SJAM** | St. John Ambulans Malaysia | Perkhidmatan ambulans sukarela. |
+| **POLIS** | Polis MYSverse | Polis MYSverse. |
+| **BOMBA** | Bomba MYSverse | Bomba MYSverse. |
+| **KKM** | Kementerian Kesihatan MYSverse | Kementerian Kesihatan (doktor, paramedik). |
+| **SJAM** | St. John Ambulans MYSverse | Perkhidmatan ambulans sukarela. |
 | **RELA** | Ikatan Relawan Rakyat | Kor polis sukarela. |
-| **MAF** | Malaysian Armed Forces | Tentera. |
-| **KPTD** | Kor Polis Tentera Diraja | Polis Tentera Diraja (cabang polis tentera). |
-| **JIM** | Jabatan Imigresen Malaysia | Jabatan Imigresen. |
+| **MAF** | MYSverse Armed Forces | Tentera. |
+| **KPTD** | Kor Polis Tentera MYSverse | Polis Tentera Diraja (cabang polis tentera). |
+| **JIM** | Jabatan Imigresen MYSverse | Jabatan Imigresen. |
 | **NWS** | National Wire Services | Agensi berita negeri dalam permainan. |
 | **OCG** | Organised Crime Group | Pasukan roleplay jenayah. |
 | **HCC** | High Class Citizen | Pasukan premium berbayar (gamepass). |

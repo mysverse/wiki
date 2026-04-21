@@ -25,7 +25,7 @@ See [Jobs](/bandaraya/jobs).
 
 ### How do I become a police officer?
 
-Join **PDRM group 1182710 or 3048630** on Roblox. Any rank qualifies you for the PDRM team. Most groups have trial/training flows — attend those to progress in rank.
+Join **POLIS group 1182710 or 3048630** on Roblox. Any rank qualifies you for the POLIS team. Most groups have trial/training flows — attend those to progress in rank.
 
 See [Teams](/bandaraya/teams#emergency-services).
 
@@ -62,7 +62,7 @@ See [Vehicles](/bandaraya/vehicles#dealership).
 You need one of:
 
 - **Firearms Licence gamepass** (1,250 R$) → unlocks Ammulaysia.
-- A team that issues weapons (PDRM, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF armoury access).
+- A team that issues weapons (POLIS, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF armoury access).
 - **Illegal Dealer (Hacker)** for black-market items (5-minute cooldown).
 
 Note: Ammulaysia has a 5-minute cooldown between purchases too.
@@ -105,20 +105,20 @@ Yes — **Hazbank** is a robbery target in-game. But note:
 - **Server needs at least 10 players** online for a robbery to start.
 - You have to decode the vault (time-based mini-interaction at the Decoder device).
 - Once in, you stand at a random money-collector point — your character is anchored while the count-down runs (so you can't just grab and bolt).
-- PDRM can **lock the vault down manually** mid-robbery — the shutter drops and you're trapped.
-- An alert fires to all PDRM / active responders when the robbery starts.
+- POLIS can **lock the vault down manually** mid-robbery — the shutter drops and you're trapped.
+- An alert fires to all POLIS / active responders when the robbery starts.
 - Expect arrest. OCG (Organised Crime Group) does this in organised events; civilians attempting solo usually get caught.
 - Going rogue as a public-services team member if you're on one = severe violation.
 
 ### What's a BOLO?
 
-**Be On the LookOut.** A police alert that flags a suspect so all on-duty officers are notified (sound, badge, toast). See [Tablet](/bandaraya/tablet) for how PDRM issue BOLOs via MDT.
+**Be On the LookOut.** A police alert that flags a suspect so all on-duty officers are notified (sound, badge, toast). See [Tablet](/bandaraya/tablet) for how POLIS issue BOLOs via MDT.
 
 ### Can I drive a fire truck as a civilian?
 
-**No.** BOMBA vehicles spawn from BOMBA-team-gated spawners. Same for PDRM, MAF, KKM, SJAM, etc.
+**No.** BOMBA vehicles spawn from BOMBA-team-gated spawners. Same for POLIS, MAF, KKM, SJAM, etc.
 
-If you're on BOMBA, you can drive the full fleet. See [Emergency Services](/bandaraya/emergency-services#bomba-jabatan-bomba-dan-penyelamat).
+If you're on BOMBA, you can drive the full fleet. See [Emergency Services](/bandaraya/emergency-services#bomba).
 
 ---
 
@@ -133,9 +133,9 @@ Both run buses, but different groups:
 
 They roleplay as different companies. Vehicle fleets are different. See [Teams](/bandaraya/teams#transport) and [Jobs](/bandaraya/jobs#bus-driving).
 
-### I'm on Visitors but I want to join PDRM. How?
+### I'm on Visitors but I want to join POLIS. How?
 
-Join the PDRM Roblox group (1182710 or 3048630), get accepted (may require application/training), then open the team menu in-game and pick PDRM. You'll need to switch teams and respawn.
+Join the POLIS Roblox group (1182710 or 3048630), get accepted (may require application/training), then open the team menu in-game and pick POLIS. You'll need to switch teams and respawn.
 
 See [Teams](/bandaraya/teams).
 
@@ -196,15 +196,15 @@ Yes, with some caveats:
 
 ### Can I play with a friend?
 
-Yes — invite them to the same server. The team system allows mixed-team parties (you can have PDRM and BOMBA on the same server). OCG and MAF parties are common too.
+Yes — invite them to the same server. The team system allows mixed-team parties (you can have POLIS and BOMBA on the same server). OCG and MAF parties are common too.
 
 ### Does it ever rain?
 
-Yes, but rain is **admin-toggled** — the developers turn it on and off via chat commands. It's not a persistent weather cycle. When rain is on, 3D particles fall around you and screen droplets appear on the camera; otherwise the weather is clear. Your game performance is unaffected when rain is off.
+Yes, but rain is **admin-toggled** — the developers turn it on and off via chat commands. It's not a persistent weather cycle. When rain is on, 3D particles fall around you, the sky clouds over, and a rain sound plays; otherwise the weather is clear. Your game performance is unaffected when rain is off.
 
 ### I don't speak Malay. Will I be lost?
 
-You'll recognise most things. Our [glossary](/bandaraya/glossary) covers every acronym (PDRM, BOMBA, KKM, LTAA, RTAA, CAG, MRT, etc.). Common Malay words: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
+You'll recognise most things. Our [glossary](/bandaraya/glossary) covers every acronym (POLIS, BOMBA, KKM, LTAA, RTAA, CAG, MRT, etc.). Common Malay words: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
 
 ### How old do I need to be?
 

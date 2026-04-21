@@ -9,7 +9,7 @@ Bandaraya uses **ACS (Advanced Combat System)** for weapons and a detailed healt
 
 ## TL;DR
 
-- Most civilians can't carry guns. You need the **Firearms Licence gamepass** (1,250 R$), or you need to be on a team that issues them (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
+- Most civilians can't carry guns. You need the **Firearms Licence gamepass** (1,250 R$), or you need to be on a team that issues them (POLIS, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
 - Bullets pass through transparent / non-colliding / **Glass / Ignorable** parts. They stop at **Armor / EShield** parts. Some vehicles are bulletproof.
 - When injured: you lose **blood** (Sangue) and gain **pain** (Dor). Bleed, splint, bandage. Medics (KKM / SJAM) can stabilise you.
 - **Reset button disables at or below 75 HP** — you can't suicide out of a sticky situation.
@@ -25,7 +25,7 @@ Bandaraya uses **ACS (Advanced Combat System)** for weapons and a detailed healt
 | --- | --- |
 | **Ammulaysia (Gun Dealer)** | Firearms Licence gamepass (1,250 R$). Legal, above-board. 5-minute cooldown between purchases. |
 | **Illegal Dealer (Hacker)** | Black-market. 5-minute cooldown (also resets if you reset/rejoin). |
-| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (various), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
+| **Team issue** | POLIS (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (various), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
 | **Armoury** | Team-gated armouries at IPD Dang Wangi and other bases. |
 
 Civilians can't walk around with rifles. The Firearms Licence unlocks Ammulaysia for sidearms; teams get duty weapons.
@@ -58,8 +58,8 @@ This matters for cover: a chest-high wall might not stop a round if it's transpa
 
 Some vehicles have `Armor` parts placed around the cabin — they're **fully bulletproof** inside.
 
-- **AV4** (PDRM) — 29 armour parts around the cabin
-- **V150** (PDRM)
+- **AV4** (POLIS) — 29 armour parts around the cabin
+- **V150** (POLIS)
 - **UTK Hilux variants** — bulletproof cabin
 
 Regular civilian cars are **not** bulletproof. A Proton Persona will not stop a round.
@@ -218,7 +218,7 @@ How it works (verified):
 - **Win threshold:** 1250 points, or an OCG admin types **`:cancelraid`**.
 - **HardpointUI** shows two progress bars (Home / Away) + announcement frame + score + timer.
 
-If you're not OCG, you can watch but not score. PDRM / KPTD / BOMBA / KKM don't participate.
+If you're not OCG, you can watch but not score. POLIS / KPTD / BOMBA / KKM don't participate.
 
 ---
 

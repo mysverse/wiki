@@ -9,7 +9,7 @@ How arrests work in Bandaraya — from both the officer's and the suspect's pers
 
 ## TL;DR
 
-- **Who can arrest**: PDRM (any rank), KPTD (any rank), Polis Bantuan (rank 2+). Yang di-Pertuan Persekutuan also has arrest tools.
+- **Who can arrest**: POLIS (any rank), KPTD (any rank), Polis Bantuan (rank 2+). Yang di-Pertuan Persekutuan also has arrest tools.
 - **Arrest flow**: detain → drag → cuff → arrest. Suspect goes to Arrested team, 3-minute release timer.
 - **LTAA** (leave to avoid arrest): disconnect while detained → auto-arrested for 3 minutes on return.
 - **RTAA** (reset to avoid arrest): reset button disabled at 75 HP or below.
@@ -24,11 +24,11 @@ Not everyone can put you in cuffs. Arrest powers are limited to:
 
 | Team | Group | Rank | Notes |
 | --- | --- | --- | --- |
-| **PDRM** | 1182710 | Any | Standard police |
+| **POLIS** | 1182710 | Any | Standard police |
 | **KPTD (Military Police)** | 2817141 | Any | Any-rank — enforces across MAF and civilians |
 | **Polis Bantuan** | 6563708 | 2+ | Technically any-scope, but typically roleplayed as transit-scoped |
 
-**Yang di-Pertuan Persekutuan** (MYSverse rank 220+) carries an `Arrest` tool in their loadout for ceremonial roleplay, but the game's arrest code doesn't recognise them as having arrest powers — they can't actually process an arrest. For real arrests, involve PDRM or KPTD.
+**Yang di-Pertuan Persekutuan** (MYSverse rank 220+) carries an `Arrest` tool in their loadout for ceremonial roleplay, but the game's arrest code doesn't recognise them as having arrest powers — they can't actually process an arrest. For real arrests, involve POLIS or KPTD.
 
 RELA, BOMBA, KKM, MAF rank-and-file, SJAM, civilians: **no arrest powers**. They can witness, call in, or search with consent, but not arrest.
 
@@ -123,7 +123,7 @@ This removes the RTAA escape hatch entirely.
 
 Police can issue **summons** — on-the-spot fines for traffic or minor offences.
 
-- The officer uses the **Saman** tool (requires PDRM any rank, or Polis Bantuan rank 2+).
+- The officer uses the **Saman** tool (requires POLIS any rank, or Polis Bantuan rank 2+).
 - The fine is **deducted immediately** from your BR balance (max fine per summons: **1,000 BR**).
 - You receive a popup toast notification.
 - The fine amount, reason, and reference number appear in your **SummonsView** GUI — browse your full history with pagination.
@@ -176,7 +176,7 @@ Per [Rules](/bandaraya/rules), the following will get you banned beyond the arre
 
 ## See also
 
-- [Emergency Services](/bandaraya/emergency-services) — PDRM tools and flow
+- [Emergency Services](/bandaraya/emergency-services) — POLIS tools and flow
 - [Tablet](/bandaraya/tablet) — MDT app for officers
 - [Rules](/bandaraya/rules) — full rule text, LTAA/RTAA consequences
 - [Combat & Health](/bandaraya/combat-and-health) — reset-disabled at low HP

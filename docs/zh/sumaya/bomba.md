@@ -2,7 +2,7 @@
 title: 消防
 description: 在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: c822a3e4
+translated_from_hash: 1fe68740
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -78,7 +78,7 @@ Bomba 车辆随着你的区域等级提升而解锁。
 
 ## 阶级
 
-Bomba 拥有 13 个阶级,基于现实中的马来西亚消防与拯救局(Jabatan Bomba dan Penyelamat Malaysia)。你的头衔会随着区域等级提升而自动更新。
+Bomba 拥有 13 个阶级,基于现实中的马来西亚消防与拯救局(Bomba MYSverse)。你的头衔会随着区域等级提升而自动更新。
 
 | 等级 | 阶级 |
 |-------|------|

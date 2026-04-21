@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் உங்கள் பயணத்தைத் தொடங்குங்கள் — மெனுக்களில் செல்லுங்கள், Bandar
   Ringgit (BR) சம்பாதியுங்கள், அணியை தேர்ந்தெடுங்கள், கோலாலம்பூரை ஆராயுங்கள்.
 lang: ta
-translated_from_hash: efebfc95
+translated_from_hash: 4c561c70
 translated_on: '2026-04-21'
 needs_review: true
 ---

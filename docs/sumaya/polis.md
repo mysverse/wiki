@@ -195,7 +195,7 @@ See [Vehicles](/sumaya/vehicles) for details.
 
 ## Ranks
 
-Polis has **16 ranks**, the most of any emergency service. Titles are based on real Royal Malaysia Police ranks (PDRM).
+Polis has **16 ranks**, the most of any emergency service. Titles are based on real MYSverse Police ranks (POLIS).
 
 | Level | Rank |
 |-------|------|

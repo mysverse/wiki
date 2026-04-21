@@ -119,7 +119,9 @@ Selected highway stretches have **speed traps** that measure your vehicle's spee
 
 ## Navigation
 
-Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to any POI. A glowing beam will guide you there. You can also use **Fast Travel** (from the FastTravel menu) to teleport to select locations — but note that fast-travelling pauses your XP-from-distance accumulation for 5 minutes to prevent XP farming.
+Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to any POI. A glowing beam will guide you there, following roads — no point-to-point teleport for regular players.
+
+Fast Travel exists in the game but is gated to **MYSverse staff only** (moderators / devs), used for event coordination. If you're not staff, you'll drive every journey — so plan routes accordingly. Every stud you drive is XP, so the scenic route is often the profitable one.
 
 ## Next steps
 

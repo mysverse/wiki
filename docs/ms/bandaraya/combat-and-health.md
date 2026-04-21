@@ -2,7 +2,7 @@
 title: Pertempuran & Kesihatan
 description: 'Senjata, perisai, kecederaan, dan sistem perubatan di Bandaraya.'
 lang: ms
-translated_from_hash: b70f1d8e
+translated_from_hash: '56782173'
 translated_on: '2026-04-21'
 needs_review: true
 ---
@@ -12,7 +12,7 @@ Bandaraya menggunakan **ACS (Advanced Combat System)** untuk senjata dan sistem 
 
 ## TL;DR
 
-- Kebanyakan orang awam tidak boleh membawa senjata api. Anda perlukan **gamepass Firearms Licence** (1,250 R$), atau anda perlu berada dalam pasukan yang mengeluarkannya (PDRM, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
+- Kebanyakan orang awam tidak boleh membawa senjata api. Anda perlukan **gamepass Firearms Licence** (1,250 R$), atau anda perlu berada dalam pasukan yang mengeluarkannya (POLIS, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
 - Peluru menembusi bahagian yang lutsinar / tidak berlanggar / **Glass / Ignorable**. Ia berhenti pada bahagian **Armor / EShield**. Sesetengah kenderaan kalis peluru.
 - Apabila cedera: anda kehilangan **darah** (Sangue) dan dapat **kesakitan** (Dor). Berdarah, bidai, balut. Paramedik (KKM / SJAM) boleh menstabilkan anda.
 - **Butang reset dilumpuhkan pada 75 HP atau lebih rendah** — anda tidak boleh bunuh diri untuk lepaskan diri daripada situasi susah.
@@ -28,7 +28,7 @@ Bandaraya menggunakan **ACS (Advanced Combat System)** untuk senjata dan sistem 
 | --- | --- |
 | **Ammulaysia (Gun Dealer)** | Gamepass Firearms Licence (1,250 R$). Sah, tidak menyalahi undang-undang. Cooldown 5 minit antara pembelian. |
 | **Illegal Dealer (Hacker)** | Pasaran gelap. Cooldown 5 minit (juga reset jika anda reset/rejoin). |
-| **Team issue** | PDRM (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (pelbagai), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
+| **Team issue** | POLIS (X26P, CL2), KPTD (X26P TAC), MAF GGK/UTK (pelbagai), Developers / Moderation (HK-P30L), Yang di-Pertuan Persekutuan (Glock 19, M4A1, MP5A3). |
 | **Armoury** | Armoury berpagar pasukan di IPD Dang Wangi dan pangkalan lain. |
 
 Orang awam tidak boleh berjalan-jalan dengan rifle. Firearms Licence membuka Ammulaysia untuk senjata sampingan; pasukan mendapat senjata bertugas.
@@ -61,8 +61,8 @@ Ini penting untuk perlindungan: dinding setinggi dada mungkin tidak menghentikan
 
 Sesetengah kenderaan mempunyai bahagian `Armor` yang diletakkan di sekeliling kabin — ia **kalis peluru sepenuhnya** di dalam.
 
-- **AV4** (PDRM) — 29 bahagian perisai di sekeliling kabin
-- **V150** (PDRM)
+- **AV4** (POLIS) — 29 bahagian perisai di sekeliling kabin
+- **V150** (POLIS)
 - **Variasi UTK Hilux** — kabin kalis peluru
 
 Kereta awam biasa **tidak** kalis peluru. Proton Persona tidak akan menghentikan peluru.
@@ -221,7 +221,7 @@ Cara ia berfungsi (disahkan):
 - **Ambang kemenangan:** 1250 mata, atau admin OCG menaip **`:cancelraid`**.
 - **HardpointUI** menunjukkan dua bar kemajuan (Home / Away) + bingkai pengumuman + skor + pemasa.
 
-Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. PDRM / KPTD / BOMBA / KKM tidak mengambil bahagian.
+Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. POLIS / KPTD / BOMBA / KKM tidak mengambil bahagian.
 
 ---
 
