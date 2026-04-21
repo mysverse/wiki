@@ -1,6 +1,12 @@
 ---
-title: "Mengatasi Larangan - Soalan Lazim"
-description: "Panduan lengkap untuk memahami dan menyelesaikan larangan dalam permainan MYSverse termasuk sekatan kumpulan, isu akaun, dan langkah penyelesaian masalah."
+title: Overcoming Bans - FAQ
+description: >-
+  Complete guide to understanding and resolving bans in MYSverse games including
+  group restrictions, account issues, and troubleshooting steps.
+lang: ms
+translated_from_hash: 1290ed71
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Mengatasi Larangan

@@ -1,6 +1,12 @@
 ---
-title: "Kedai & Ekonomi di Bandaraya"
-description: "Panduan lengkap kedai, vendor NPC, gamepass, dan sistem ekonomi Bandaraya Ringgit (BR)."
+title: Shops & Economy in Bandaraya
+description: >-
+  Complete guide to shops, NPC vendors, gamepasses, and the Bandaraya Ringgit
+  (BR) economy system.
+lang: ms
+translated_from_hash: d38c9f3b
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Kedai & Ekonomi di Bandaraya

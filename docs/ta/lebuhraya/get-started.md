@@ -1,6 +1,12 @@
 ---
-title: "Lebuhraya இல் தொடங்குதல்"
-description: "Lebuhraya இல் தொடங்குவதற்கான முழுமையான வழிகாட்டி - மலேசியன் கருப்பொருள் ஓட்டுநர் மற்றும் பாத்திர விளையாட்டு அனுபவம், குழுக்கள், அமைப்புகள் மற்றும் அம்சங்களுடன்."
+title: Getting Started
+description: >-
+  Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and
+  hit the highway.
+lang: ta
+translated_from_hash: 1e15992a
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Lebuhraya இல் தொடங்குதல்

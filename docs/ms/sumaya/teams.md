@@ -1,6 +1,10 @@
 ---
-title: "Pasukan di Sumaya"
-description: "Panduan lengkap semua pasukan di Sumaya - Pelawat, Warganegara Malaysia, POLIS, BOMBA, dan Kesihatan, termasuk peranan, alat, dan kemajuan kerjaya."
+title: Teams
+description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+lang: ms
+translated_from_hash: 00882afa
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Pasukan di Sumaya

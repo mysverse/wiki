@@ -1,6 +1,12 @@
 ---
-title: "Bandaraya 的商店与经济"
-description: "商店、NPC 商贩、gamepass 和 Bandaraya Ringgit (BR) 经济系统的完整指南。"
+title: Shops & Economy in Bandaraya
+description: >-
+  Complete guide to shops, NPC vendors, gamepasses, and the Bandaraya Ringgit
+  (BR) economy system.
+lang: zh
+translated_from_hash: d38c9f3b
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Bandaraya 的商店与经济

@@ -1,6 +1,12 @@
 ---
-title: "பந்தராயாவில் அணிகள்"
-description: "சட்ட அமலாக்கம், அவசர சேவைகள், இராணுவம், குடிமக்கள் மற்றும் போக்குவரத்து அணிகள் உட்பட பந்தராயாவில் உள்ள அனைத்து அணிகளுக்கான முழுமையான வழிகாட்டி."
+title: Teams
+description: >-
+  Complete guide to every team in Bandaraya — emergency services, military,
+  transport, civilian, government, and more.
+lang: ta
+translated_from_hash: 9333a74c
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # பந்தராயாவில் அணிகள்

@@ -1,6 +1,12 @@
 ---
-title: "Bandaraya 中的队伍"
-description: "Bandaraya 中所有队伍的完整指南，包括执法部门、紧急服务、军事、平民和交通队伍。"
+title: Teams
+description: >-
+  Complete guide to every team in Bandaraya — emergency services, military,
+  transport, civilian, government, and more.
+lang: zh
+translated_from_hash: 9333a74c
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Bandaraya 中的队伍

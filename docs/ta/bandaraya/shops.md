@@ -1,6 +1,12 @@
 ---
-title: "பந்தராயாவில் கடைகள் & பொருளாதாரம்"
-description: "கடைகள், NPC விற்பனையாளர்கள், gamepass-கள் மற்றும் Bandaraya Ringgit (BR) பொருளாதார அமைப்புக்கான முழுமையான வழிகாட்டி."
+title: Shops & Economy in Bandaraya
+description: >-
+  Complete guide to shops, NPC vendors, gamepasses, and the Bandaraya Ringgit
+  (BR) economy system.
+lang: ta
+translated_from_hash: d38c9f3b
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # பந்தராயாவில் கடைகள் & பொருளாதாரம்

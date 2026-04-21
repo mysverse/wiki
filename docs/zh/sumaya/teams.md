@@ -1,6 +1,10 @@
 ---
-title: "Sumaya 中的队伍"
-description: "Sumaya 所有队伍的完整指南 - 访客、马来西亚公民、POLIS、BOMBA 和 Kesihatan，包括角色、工具和职业发展。"
+title: Teams
+description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+lang: zh
+translated_from_hash: 00882afa
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Sumaya 中的队伍

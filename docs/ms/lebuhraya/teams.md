@@ -1,6 +1,10 @@
 ---
-title: "Pasukan di Lebuhraya"
-description: "Panduan lengkap semua pasukan di Lebuhraya termasuk Penguatkuasa Undang-undang, Perkhidmatan Kecemasan, pasukan Awam, dan kenderaan serta alat unik mereka."
+title: Teams and Careers
+description: All 18 teams in Lebuhraya and the 20-tier rank system.
+lang: ms
+translated_from_hash: f4279193
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Pasukan di Lebuhraya

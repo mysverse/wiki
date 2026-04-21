@@ -162,7 +162,7 @@ It's a quest reward at **Level 25**. You have to grind to level 25 through whate
 
 ### What's the game version?
 
-**v3.15.5** (as of April 2026). See the in-game changelog or [docs/changelog.md](../docs/changelog.md) for the full version history.
+**v3.15.5** (as of April 2026). See the in-game changelog for the full version history.
 
 ### Why is my vehicle glowing weird after a collision?
 

@@ -1,6 +1,10 @@
 ---
-title: "Sumaya-வில் அணிகள்"
-description: "Sumaya-வில் உள்ள அனைத்து அணிகளின் முழுமையான வழிகாட்டி - பார்வையாளர்கள், மலேசியர்கள், POLIS, BOMBA மற்றும் Kesihatan, பாத்திரங்கள், கருவிகள் மற்றும் வேலை முன்னேற்றம் உட்பட."
+title: Teams
+description: 'The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.'
+lang: ta
+translated_from_hash: 00882afa
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Sumaya-வில் அணிகள்

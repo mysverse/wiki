@@ -1,6 +1,12 @@
 ---
-title: "Lebuhraya 入门指南"
-description: "Lebuhraya 完整入门指南 - 马来西亚主题的驾驶与角色扮演体验，包含团队、设置和功能介绍。"
+title: Getting Started
+description: >-
+  Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and
+  hit the highway.
+lang: zh
+translated_from_hash: 1e15992a
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Lebuhraya 入门指南

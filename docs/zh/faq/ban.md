@@ -1,6 +1,12 @@
 ---
-title: "解除封禁指南 - 常见问题"
-description: "理解和解决 MYSverse 游戏中封禁问题的完整指南，包括群组限制、账户问题和故障排除步骤。"
+title: Overcoming Bans - FAQ
+description: >-
+  Complete guide to understanding and resolving bans in MYSverse games including
+  group restrictions, account issues, and troubleshooting steps.
+lang: zh
+translated_from_hash: 1290ed71
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # 解除封禁指南

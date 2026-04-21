@@ -1,6 +1,12 @@
 ---
-title: "தடையைக் கடப்பது - அடிக்கடி கேட்கப்படும் கேள்விகள்"
-description: "MYSverse விளையாட்டுகளில் தடைகளைப் புரிந்துகொள்வதற்கும் தீர்ப்பதற்கும் முழுமையான வழிகாட்டி, இதில் குழு கட்டுப்பாடுகள், கணக்குச் சிக்கல்கள் மற்றும் சரிசெய்தல் படிகள் அடங்கும்."
+title: Overcoming Bans - FAQ
+description: >-
+  Complete guide to understanding and resolving bans in MYSverse games including
+  group restrictions, account issues, and troubleshooting steps.
+lang: ta
+translated_from_hash: 1290ed71
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # தடையைக் கடப்பது

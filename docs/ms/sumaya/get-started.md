@@ -1,6 +1,12 @@
 ---
-title: "Mula dengan Sumaya"
-description: "Panduan lengkap untuk memulakan pengembaraan anda di Sumaya - dunia terbuka bertema Malaysia di mana anda boleh meneroka bandar, bekerja, menjana pendapatan, dan membina kehidupan anda."
+title: Getting Started
+description: >-
+  Start playing Sumaya — main menu, team pick, controls, and the first five
+  minutes in town.
+lang: ms
+translated_from_hash: 5045a92c
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Mula dengan Sumaya
@@ -95,7 +101,7 @@ Bandar ini juga mempunyai kitaran **siang/malam** yang dinamik dan **sistem cuac
 
 ## Langkah Seterusnya
 
-Terokai Sumaya dengan lebih mendalam dengan membaca tentang [Pasukan](./teams) dan [Ciri-ciri](./features). Sama ada anda memilih penguatkuasaan undang-undang, perkhidmatan kecemasan, atau kehidupan sivil — Sumaya ada tempat untuk anda.
+Terokai Sumaya dengan lebih mendalam dengan membaca tentang [Pasukan](./teams) dan [Kenderaan](./vehicles). Sama ada anda memilih penguatkuasaan undang-undang, perkhidmatan kecemasan, atau kehidupan sivil — Sumaya ada tempat untuk anda.
 
 ::: tip Sentiasa Dikemas Kini!
 Kerap semak bahagian **Kemaskini** di menu utama untuk perubahan permainan terkini dan ciri baharu.

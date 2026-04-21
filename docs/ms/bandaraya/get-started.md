@@ -1,6 +1,12 @@
 ---
-title: "Mula dengan Bandaraya"
-description: "Panduan lengkap untuk memulakan pengembaraan anda di Bandaraya - navigasi menu, peroleh Bandaraya Ringgit (BR), dan terokai peranan serta aktiviti."
+title: Getting Started
+description: >-
+  Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit
+  (BR), pick a team, and explore Kuala Lumpur.
+lang: ms
+translated_from_hash: efebfc95
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Mula dengan Bandaraya
@@ -89,7 +95,7 @@ Pemain mesti mematuhi peraturan permainan dan garis panduan roleplay pada setiap
 Terokai Bandaraya dengan lebih mendalam melalui panduan ini:
 
 - **[Pasukan](/ms/bandaraya/teams)** — Ketahui tentang semua pasukan yang tersedia, dari penguatkuasaan undang-undang hingga tentera dan pengangkutan.
-- **[Ciri-ciri](/ms/bandaraya/features)** — Terokai kenderaan, pertempuran, sistem metro, pemadaman api, dan banyak lagi.
+- **[Kenderaan](/ms/bandaraya/vehicles)** — Terokai kenderaan, pertempuran, sistem metro, pemadaman api, dan banyak lagi.
 - **[Lokasi](/ms/bandaraya/locations)** — Temui mercu tanda, bangunan, jalan, dan kemudahan utama.
 - **[Kedai & Ekonomi](/ms/bandaraya/shops)** — Fahami cara mendapatkan dan membelanjakan BR, cari kedai, dan gunakan perbankan.
 

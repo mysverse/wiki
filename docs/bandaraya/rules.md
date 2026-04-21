@@ -7,7 +7,7 @@ description: "What behaviour gets you banned in Bandaraya, and how appeals work.
 
 Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
 
-The canonical rule text lives in the game (`infoModules.GameRules`) and mirrored in [docs/game-rules.md](../docs/game-rules.md). This page is a player-friendly summary.
+The canonical rule text lives in the game (`infoModules.GameRules`). This page is a player-friendly summary.
 
 ## TL;DR
 
@@ -144,4 +144,4 @@ Any ban, permanent or temporary, can be appealed.
 - [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
 - [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
 - [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: [docs/game-rules.md](../docs/game-rules.md)
+- Canonical rule text: `infoModules.GameRules` (in-game)

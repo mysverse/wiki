@@ -1,6 +1,12 @@
 ---
-title: "Pasukan di Bandaraya"
-description: "Panduan lengkap semua pasukan di Bandaraya termasuk penguatkuasaan undang-undang, perkhidmatan kecemasan, tentera, awam, dan pasukan pengangkutan."
+title: Teams
+description: >-
+  Complete guide to every team in Bandaraya — emergency services, military,
+  transport, civilian, government, and more.
+lang: ms
+translated_from_hash: 9333a74c
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Pasukan di Bandaraya

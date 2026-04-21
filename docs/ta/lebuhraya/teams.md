@@ -1,6 +1,10 @@
 ---
-title: "Lebuhraya இல் குழுக்கள்"
-description: "சட்ட அமலாக்கம், அவசர சேவைகள், சிவிலியன் குழுக்கள் மற்றும் அவற்றின் தனித்துவமான வாகனங்கள் மற்றும் கருவிகள் உள்ளிட்ட Lebuhraya இல் உள்ள அனைத்து குழுக்களுக்கான முழுமையான வழிகாட்டி."
+title: Teams and Careers
+description: All 18 teams in Lebuhraya and the 20-tier rank system.
+lang: ta
+translated_from_hash: f4279193
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Lebuhraya இல் குழுக்கள்

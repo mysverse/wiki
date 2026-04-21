@@ -1,6 +1,10 @@
 ---
-title: "Lebuhraya 团队介绍"
-description: "Lebuhraya 所有团队的完整指南，包括执法部门、紧急服务、平民团队及其专属车辆和工具。"
+title: Teams and Careers
+description: All 18 teams in Lebuhraya and the 20-tier rank system.
+lang: zh
+translated_from_hash: f4279193
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Lebuhraya 团队介绍

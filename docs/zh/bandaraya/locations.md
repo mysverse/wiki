@@ -1,6 +1,12 @@
 ---
-title: "Bandaraya 的地点与地标"
-description: "探索 Bandaraya 中的所有重要地点和地标，包括标志性建筑、设施、街道和景点。"
+title: Map & Locations
+description: >-
+  Landmarks, buildings, streets, stations, hospitals, and shops across
+  Bandaraya.
+lang: zh
+translated_from_hash: f228f901
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Bandaraya 的地点与地标
@@ -202,4 +208,4 @@ Jalan Binjai、Jalan Kia Peng、Jalan Conlay、Jalan Stonor、Jalan Sultan、Jal
 
 ![中央巴士总站](/images/bandaraya/city-bus-terminal.png)
 
-Bandaraya 的功能性公共交通由 **TransitKL** 和多家私营巴士公司在全城各巴士站提供服务，同时设有**中央巴士总站**。城市中还设有以吉隆坡真实网络为蓝本的精细铁路站点模型——完整站点列表请参阅[游戏功能](/zh/bandaraya/features#公共交通)页面。
+Bandaraya 的功能性公共交通由 **TransitKL** 和多家私营巴士公司在全城各巴士站提供服务，同时设有**中央巴士总站**。城市中还设有以吉隆坡真实网络为蓝本的精细铁路站点模型——完整站点列表请参阅[公共交通](/zh/bandaraya/getting-around)页面。

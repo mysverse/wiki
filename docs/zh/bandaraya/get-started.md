@@ -1,6 +1,12 @@
 ---
-title: "开始体验 Bandaraya"
-description: "在 Bandaraya 开始冒险的完整指南 - 导航菜单、赚取 Bandaraya Ringgit（BR），探索角色和活动。"
+title: Getting Started
+description: >-
+  Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit
+  (BR), pick a team, and explore Kuala Lumpur.
+lang: zh
+translated_from_hash: efebfc95
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # 开始体验 Bandaraya
@@ -89,7 +95,7 @@ Bandaraya 提供丰富多样的体验：
 通过以下指南深入了解 Bandaraya：
 
 - **[队伍](/zh/bandaraya/teams)** — 了解所有可用队伍，从执法部门到军队和交通运输。
-- **[功能](/zh/bandaraya/features)** — 探索车辆、战斗、地铁系统、消防系统等。
+- **[车辆](/zh/bandaraya/vehicles)** — 探索车辆、战斗、地铁系统、消防系统等。
 - **[地点](/zh/bandaraya/locations)** — 发现地标、建筑、街道和重要设施。
 - **[商店与经济](/zh/bandaraya/shops)** — 了解如何赚取和消费 BR、寻找商店以及使用银行。
 

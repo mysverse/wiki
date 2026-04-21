@@ -1,6 +1,12 @@
 ---
-title: "Lokasi & Mercu Tanda di Bandaraya"
-description: "Terokai semua lokasi dan mercu tanda utama di Bandaraya termasuk bangunan ikonik, kemudahan, jalan, dan tempat menarik."
+title: Map & Locations
+description: >-
+  Landmarks, buildings, streets, stations, hospitals, and shops across
+  Bandaraya.
+lang: ms
+translated_from_hash: f228f901
+translated_on: '2026-04-21'
+needs_review: true
 ---
 
 # Lokasi & Mercu Tanda di Bandaraya
@@ -202,4 +208,4 @@ Tempat letak kereta yang ditetapkan tersedia di beberapa lokasi termasuk MATIC P
 
 ![Terminal Bas Bandar](/images/bandaraya/city-bus-terminal.png)
 
-Pengangkutan awam berfungsi di Bandaraya disediakan oleh **TransitKL** dan pelbagai syarikat bas swasta di perhentian bas di seluruh bandar, serta **terminal bas pusat**. Bandar ini juga mempunyai model stesen rel terperinci berdasarkan rangkaian sebenar Kuala Lumpur — lihat halaman [Ciri-Ciri Permainan](/ms/bandaraya/features#pengangkutan-awam) untuk senarai penuh stesen.
+Pengangkutan awam berfungsi di Bandaraya disediakan oleh **TransitKL** dan pelbagai syarikat bas swasta di perhentian bas di seluruh bandar, serta **terminal bas pusat**. Bandar ini juga mempunyai model stesen rel terperinci berdasarkan rangkaian sebenar Kuala Lumpur — lihat halaman [Pengangkutan Awam](/ms/bandaraya/getting-around) untuk senarai penuh stesen.
