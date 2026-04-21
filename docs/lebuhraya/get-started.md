@@ -1,83 +1,80 @@
 ---
-title: "Getting Started in Lebuhraya"
-description: "Your complete guide to starting in Lebuhraya - Malaysian-themed driving and roleplay experience with teams, settings, and features."
+title: "Getting Started"
+description: "Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and hit the highway."
 ---
 
-# Getting Started in Lebuhraya
+# Getting Started
 
-Welcome to Lebuhraya! This guide will help you take your first steps in this Malaysian-themed driving and roleplay experience.
+Welcome to Lebuhraya. This page walks you through your first session — from joining the server to earning your first Ringgit (BR) and picking up your first job.
 
-## First Join
+## What is Lebuhraya?
+
+Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs — from food delivery to firefighting — to earn Ringgit and level up. Buy a house, join a convoy with friends, or just cruise.
+
+The name "Lebuhraya" means "highway" in Malay.
+
+## Your first minute
+
+When you join for the first time you spawn on the **Visitors** team with:
+
+- **1000 BR** (Ringgit) starting balance
+- **Level 1**, 0 XP
+- No vehicle (you'll spawn one from the menu)
+
+Look around the HUD:
+
+- **Top-left**: your current balance, level, and XP progress bar
+- **Top-right**: the Phone icon (tap to open apps and 999 emergency)
+- **Bottom**: the Settings and Main Menu icons
+
+## Spawning your first vehicle
 
 ![Main Menu](/images/lebuhraya/main-menu.png)
 
-When you first join Lebuhraya (v3.0.15+), you might see a quick start video guide. It's a good idea to watch this for a brief overview.
+1. Open the **MyPod** menu (the vehicle spawner). On desktop, the icon is on the topbar; on mobile, it's in the top-right cluster.
+2. Browse the vehicle list. Free starter vehicles are available to everyone.
+3. Select one and click **Spawn**. Your vehicle appears in front of you.
 
-## Choosing Your Team
+Walk up to the driver door and press **F** (keyboard), **X** (gamepad), or tap the **Drive** button (mobile) to sit.
 
-Upon joining, you'll likely start as a **Visitor**. You can change your team through the main menu.
-Some teams are free, some require you to join a specific Roblox group ("Malaysians" team), some are unlocked by reaching a certain in-game level, and others require a gamepass.
+## Driving and earning your first XP
 
-- **Default Spawn:** As a Visitor or Malaysian, your default spawn location can be set to **Putra Mahkota** or **Jersik** via the main menu (v3.0.11+, v3.5.8).
+You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. That's enough to pass through a level 1 → 2 boost in about 20 minutes of casual cruising. There's no penalty for slow driving — keep the vehicle moving and the XP ticks in.
 
-## Basic Controls & UI
+Want to go faster?
 
-- **Movement:** Standard Roblox controls for walking (WASD/Thumbstick).
-- **Sprinting:** Use the Left Shift key on keyboard. For touchscreen devices, toggle sprint in the **⚙️ Settings Menu** (v3.3.26).
-- **Driving:**
-  - Enter/Exit Vehicle: Standard interaction prompts.
-  - Throttle, Brake, Steer: Typically W/A/S/D or on-screen controls for mobile.
-  - **Touchscreen Vehicle Controls (v3.0.7+):** Tap the "^" button at the center when inside a vehicle to access controls like:
-    - Flip Vehicle
-    - Headlights
-    - Foglights
-    - Hazard Lights
-    - Turn Signals (Left/Right)
-    - First Person Mode
-    - _(Note: Light features are vehicle-dependent)_
-- **Main Menu:** Access the main menu via the topbar button (can be done without resetting since v3.5.9).
-  - **Career Tab:** Shows your progression and information about unlockable vehicles (v3.0.1, v3.0.13).
-  - **Teams Menu:** Lists available teams and how to unlock them (v3.0.13).
-  - **Shop:** Access to gamepasses and other purchases.
-- **Mobile Phone (v3.3.12):** Access via the topbar 📱 phone icon to browse RMU catalogs, take selfies, and access third-party apps like Rafahia (v3.5.9).
-- **Tablet (v3.3.12):** For Law Enforcement teams (Polis Trafik, KEMRonda). Look up vehicle information by registration plate. Access via tablet topbar icon.
-- **Minimap (v3.3.13, v3.3.14):**
-  - Dynamic minimap to help navigate.
-  - Zoom in/out with mouse wheel or pinch-to-zoom (when expanded).
-  - Shows primary, secondary, and dirt roads.
-- **XP & Leveling:**
-  - Gain XP by driving (e.g., +50 XP per 1000 studs as of v3.0.5), completing job tasks, visiting landmarks (+100 XP, v3.0.3), answering school quizzes correctly (+250 XP, v3.3.13), and participating in challenges.
-  - Each level requires 1,000 XP (v3.0.5).
-  - Level up notifications appear in chat (every 10 levels to reduce clutter, v3.0.4) and when new vehicles are unlocked (v3.0.13).
-  - Current Max Level: **500** (v3.4.23).
+- **Do jobs** — each completed action awards bonus XP
+- **Drive with friends** in a convoy — up to +50% XP bonus
+- **Activate an XP Boost token** from your inventory for 2× XP
+- **Weekend events** occasionally double everyone's XP
 
-## Interacting with the World
+## Picking your first job
 
-- **Tolls:** Use proximity prompts or click detectors to pass through toll booths (v3.0.10). Some LE vehicles have MYS RFID for automatic passage (v3.2.4). Interaction time removed for smoother journeys (v3.3.9).
-- **Vehicle Spawners:** Access vehicles based on your team and level. UI optimized for mobile (v3.0.9). Team spawners are team-locked (v3.4.14).
-- **Shops & Services:**
-  - **Gravstone Workshop (Bandar Seri Putra):** Customize vehicle paint (requires Vehicle Colour Picker gamepass, v3.0.13).
-  - **Petrol Stations:** Refuel your vehicle (Fuel System Beta, v3.5.0).
-  - **RnR (Rest and Relax) Areas:** Find shops like Max Beef Lebuhraya, Zuman's Coffee, Flyers Cafe Mini (v3.3.0).
-- **Placeable Tools:** Some teams have tools like cones or signs. Rotation is linked to player camera (v3.3.0). Physics and collision were disabled on placeables to prevent blocking paths (v3.3.4).
+You can't pick a job on your first day — most jobs unlock by level. Your first milestone is **Level 10**, which unlocks the **Food Delivery** team. It's the fastest way to start earning consistent BR.
 
-## Key Things to Do Early On
+Here's the free-and-early progression:
 
-1. **Explore:** Drive around and visit landmarks to earn initial XP. Putra Mahkota and Jersik are good starting points.
-2. **Choose a Free Career:**
-   - **Bus Driver:** No level requirement. Earn +1000 XP per completed route. Has a visible waypoint system.
-   - **Food Delivery:** Unlocks at Level 10.
-   - **Waste Disposal:** Unlocks at Level 25. Keep Lebuhraya clean by collecting rubbish.
-   - **Post Office:** Unlocks at Level 50. Deliver mail for +100 XP per parcel.
-   - **Logistics:** Unlocks at Level 75. Deliver goods with your lorry.
-   - **Power Nasional:** Unlocks at Level 100. Repair streetlights for +25 XP per job.
-   - **Lumberjack:** Unlocks at Level 150. Chop trees and sell lumber.
-3. **Check Daily/Weekly Challenges:** Access these via the in-game menu for XP and other rewards (Beta, v3.3.24).
-4. **Visit SMK MYS II (School):** Participate in quizzes for XP (History/Sejarah questions refreshed in v3.5.6).
+| Unlock | Team / Feature |
+|---|---|
+| Start | Bus Driver, Visitors |
+| Group member (1143446) | Malaysians team (Fishing, Checkout) |
+| Level 10 | Food Delivery |
+| Level 25 | Waste Disposal |
+| Level 50 | Post Office |
+| Level 75 | Logistics (Trucking) |
 
-## Understanding Game Updates
+See [Teams and Careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
 
-- **Outdated Server Indicators (v3.4.7):** The main menu and debug text will show if you're on an outdated server.
-- **Live Server Announcements (v3.4.7):** Check the main menu for live announcements about planned updates or restarts.
+## What happens when I crash?
 
-Have fun exploring Lebuhraya! Refer to other sections of this guide for more detailed information on specific features.
+Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player or repaired at the **Gravstone Workshop** in Bandar Seri Putra. If you get stuck somewhere, you can always despawn your vehicle from the MyPod menu and spawn a new one.
+
+## A note about test servers
+
+If you join a **Studio test server** or a private server, you'll see a warning that "XP will be reset to 0." This is normal — test servers don't save progress so developers can test fresh. On the live game, your XP and BR are saved automatically when you leave.
+
+## Next steps
+
+- Read [Controls](/lebuhraya/controls) for the full input reference
+- Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack
+- Browse [Jobs](/lebuhraya/jobs) to plan which team to aim for

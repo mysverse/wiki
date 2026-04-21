@@ -1,205 +1,248 @@
 ---
-title: "Locations & Landmarks in Bandaraya"
-description: "Explore all key locations and landmarks in Bandaraya including iconic buildings, facilities, streets, and points of interest."
+title: "Map & Locations"
+description: "Landmarks, buildings, streets, stations, hospitals, and shops across Bandaraya."
 ---
 
-# Locations & Landmarks in Bandaraya
+# Map & Locations
 
-Bandaraya is a detailed recreation of central Kuala Lumpur, featuring iconic real-world landmarks, government buildings, hotels, and facilities. This guide covers the key locations you can explore.
+A quick reference for where things are in Bandaraya's slice of Kuala Lumpur. Use this when you need to find a clinic, a fuel station, or which tower is which.
 
-## Iconic Landmarks
+## Iconic landmarks
 
-### KLCC & KLCC Park
-
-The centrepiece of Bandaraya — the iconic Kuala Lumpur City Centre complex surrounded by a beautifully landscaped park. A must-visit landmark and a popular social gathering spot.
+The city is a detailed recreation of central Kuala Lumpur, including its most iconic skyline landmarks.
 
 ![KLCC](/images/bandaraya/klcc.png)
 
-### PAVILION
-
-A major shopping and entertainment landmark in the Bukit Bintang area.
+**KLCC & KLCC Park** — the centrepiece of Bandaraya and a popular social gathering spot.
 
 ![Pavilion](/images/bandaraya/pavilion.png)
 
-### Creator's Plaza
-
-A community-focused plaza dedicated to the creators and contributors of MYSverse.
+**PAVILION** — a major shopping and entertainment landmark in the Bukit Bintang area.
 
 ![Creator's Plaza](/images/bandaraya/creators-plaza.png)
 
-### Commonwealth Building
-
-An administrative building representing Malaysia's Commonwealth heritage.
+**Creator's Plaza** — a community-focused plaza dedicated to the creators and contributors of MYSverse.
 
 ![Commonwealth Building](/images/bandaraya/commonwealth.png)
 
-### MYS Developers Headquarters
+**Commonwealth Building** — an administrative building representing Malaysia's Commonwealth heritage.
 
-The in-game headquarters of the MYSverse development team.
-
-## Government & Institutional Buildings
-
-### Gov Building
-
-The main government administrative building in Bandaraya.
-
-### UAE Embassy
-
-The United Arab Emirates diplomatic embassy — one of the foreign diplomatic buildings in the city.
-
-### Asean Kuala Lumpur
-
-A building representing the ASEAN regional organisation.
-
-## Law Enforcement Facilities
-
-### Balai Polis Kuala Lumpur
-
-The main police station in the city. Serves as a spawn point and operational base for POLIS teams.
-
-### IPD Dang Wangi
+## Emergency services
 
 ![IPD Dang Wangi](/images/bandaraya/ipd-dang-wangi.png)
 
-The Dang Wangi district police headquarters, featuring:
-
-- **CID Office** — Criminal Investigation Department operations centre with interactive lighting systems.
-- **JSPT Office** — Traffic police (Jabatan Siasatan dan Penguatkuasaan Trafik) operations centre.
-
-## Emergency Services
-
-### Central Fire Station Kuala Lumpur
-
 ![Central Fire Station Kuala Lumpur](/images/bandaraya/central-fire-station.png)
-
-The main fire station and Bomba team headquarters. Bomba members spawn here and respond to fire incidents across the city.
-
-### KKM Ampang Clinic
-
-A health ministry clinic serving as a medical facility and KKM team base.
-
-### Prince Court Medical Centre
-
-A major medical centre in the city with dedicated parking facilities.
-
-### SJAM
-
-The St. John Ambulance MYSverse facility and landmark.
-
-## Military Facilities
-
-### Kem Wardieburn
 
 ![Kem Wardieburn](/images/bandaraya/kem-wardieburn.png)
 
-The military camp serving as the MYSverse Armed Forces (MAF) base of operations. Located within the city, this is the primary spawn point and vehicle depot for military teams.
+| Place | Purpose |
+| --- | --- |
+| **IPD Dang Wangi** | Main police station. Contains lobby, **CID Office**, **JSPT Office**, **Operations Room**, **Senior Officer Offices**, **District Offices**, and the **Armoury**. PDRM helicopter spawner. |
+| **BOMBA Station** | Fire & Rescue HQ. BOMBA helicopter spawner. |
+| **KKM Ampang Clinic** | Health ministry clinic. Staffed by KKM medics. |
+| **Prince Court Medical Centre** | Hospital. Another KKM site. |
+| **Kem Wardieburn** | Military camp. MAF operations, parade grounds. |
 
-## Hotels & Hospitality
-
-![Hotels & Hospitality](/images/bandaraya/hospitality.png)
-
-Bandaraya features numerous hotels, reflecting Kuala Lumpur's status as a major tourism destination:
-
-| Hotel                  | Notes                           |
-| ---------------------- | ------------------------------- |
-| Grand Hyatt            | Luxury hotel near KLCC          |
-| Mandarin Oriental      | Premium hotel in the KLCC area  |
-| Traders Hotel          | Part of the KLCC precinct       |
-| Intercontinental Tower | International luxury hotel      |
-| ICON Hotel             | Modern hotel in the city centre |
-| Platinum Hotel         | Located along the main streets  |
-| Ambassador Hotel       | City centre hotel               |
-| Fullman Hotel          | Located in the urban area       |
-
-## Financial & Commercial Buildings
-
-| Building                 | Description                            |
-| ------------------------ | -------------------------------------- |
-| HazBank                  | Major bank — target for robbery events |
-| BSN Bank & BSN Tower     | Bank Simpanan Nasional complex         |
-| Public Bank Tower        | One of the tallest financial towers    |
-| AmBank Tower             | Major banking institution              |
-| Hong Leong Tower         | Financial services tower               |
-| Etiqa Building           | Insurance and financial services       |
-| Tabung Haji              | Pilgrimage fund management building    |
-| ExxonMobil Tower         | Oil and gas corporate tower            |
-| Standard Chartered Tower | International banking tower            |
-| Maxis Tower              | Telecommunications headquarters        |
-| PNB Tower                | Permodalan Nasional Berhad             |
-| G Tower                  | Modern commercial tower                |
-| KH Tower                 | Corporate office building              |
-
-## Residential & Mixed-Use
-
-| Building           | Description                   |
-| ------------------ | ----------------------------- |
-| E&O Residence      | Premium residential tower     |
-| Fairview Residence | Residential complex           |
-| Binjai Condo       | Luxury condominiums near KLCC |
-| Troika             | High-end residential towers   |
-| The Avare          | Premium residence             |
-
-## Entertainment & Social
-
-### Club Kunyet
-
-A nightclub and social venue with a bartender serving drinks including Fruit Punch, Green Tea, Coffee, Citrus Splash, and more.
-
-### Ilham Gallery Building
-
-An art gallery building in the city centre.
-
-### Jaysonite Studios HQ
-
-A creative studio headquarters located in the city.
-
-### The Pencil Co.
-
-A notable commercial building.
-
-## Shops & Services
-
-![Shops & Services](/images/bandaraya/shops-and-services.png)
-
-Various shops are scattered throughout the city (see the [Shop & Economy](/bandaraya/shops) page for details):
-
-- Convenience Stores (snacks and drinks)
-- Tehlife (tea and coffee shop)
-- Keluarga Mart (grocery store)
-- Matkool (ice cream vendor)
-- Toolkit shops (vehicle repair)
-- Art shops
-- Costume shops
-
-## Streets & Roads
-
-Bandaraya features a detailed road network based on real Kuala Lumpur streets:
-
-### Major Streets
-
-- **Jalan Bukit Bintang** — The famous shopping and entertainment street
-- **Jalan Sultan Ismail** — A major arterial road through the city
-- **Jalan Ampang** — The embassy row and major commercial corridor
-- **Jalan P. Ramlee** — Named after the legendary Malaysian entertainer
-- **Jalan Tun Razak** — Major highway through the city
-- **KLCC Boulevard** — The grand boulevard around KLCC
-
-### Other Notable Streets
-
-Jalan Binjai, Jalan Kia Peng, Jalan Conlay, Jalan Stonor, Jalan Sultan, Jalan Petaling (Chinatown), Jalan Perak, Jalan Hampshire, Jalan Yap Kwan Seng, Jalan Penang, Jalan Puncak, Jalan Cendana, Jalan Mayang Sari, Jalan Saloma, and more.
-
-### Highways
-
-- **Ampang-Kuala Lumpur Elevated Highway (E12)** — Elevated expressway with slip road connections
-
-### Parking
-
-![Parking](/images/bandaraya/parking.png)
-
-Designated parking lots are available at several locations including MATIC Parking, Prince Court Medical Centre Parking, and hotel parking areas.
-
-## Public Transport
+## Transit
 
 ![City Bus Terminal](/images/bandaraya/city-bus-terminal.png)
 
-Functional public transport in Bandaraya is provided by **TransitKL** and various private bus companies at bus stops throughout the city, as well as the **central bus terminal**. The city also features detailed rail station models based on Kuala Lumpur's real network — see the [Features](/bandaraya/features#public-transport) page for the full station listing.
+![Bus Stop](/images/bandaraya/bus-stop.png)
+
+![Monorail](/images/bandaraya/monorail.png)
+
+![MRT Station](/images/bandaraya/mrt-1.png)
+
+![MRT Station](/images/bandaraya/mrt-2.png)
+
+| Place | Line / Function |
+| --- | --- |
+| **Conlay station** | MRT Kajang Line |
+| **Persiaran KLCC station** | MRT Kajang Line |
+| **Ampang Park station** | MRT Kajang Line |
+| **Bukit Bintang station** | KL Monorail Line |
+| **Raja Chulan station** | KL Monorail Line |
+| **Bukit Nanas station** | KL Monorail Line |
+| **Bus Terminal (KLBT)** | Central bus hub |
+| **MyTransit Depot** | MyTransit bus operations |
+| **Ambulance Standby Post** | At Bus Terminal |
+
+Each station has a nearby **CAG kiosk** for buying and topping up the transit card.
+
+## Shops
+
+![Shops and Services](/images/bandaraya/shops-and-services.png)
+
+### Shop Network
+
+Multiple shops across the city:
+
+| Shop | What |
+| --- | --- |
+| **Ammulaysia** (GunDealer) | Firearms (gamepass required) |
+| **Illegal Dealer (Hacker)** | Black market |
+| **Vastrix** | Clothing and accessories |
+| **Convenience Store** | General items |
+| **Tehlife** | Ice cream, milk |
+| **Lickers** | Drinks |
+| **Costume** | Outfits |
+| **Toolkit** | Tools |
+| **Art** | Art items |
+| **Bartender** | Drinks |
+| **Kilo's Kebabs** | Food |
+| **KeluargaMart** | General items |
+| **Signs** | Signs |
+| **CoffeeMaker** | Coffee |
+| **Vastrix Bank** | Deposits and banking (added in v3.8.0) |
+
+### Dealership
+
+| Place | What |
+| --- | --- |
+| **Classic Car Dealer** | Civilian vehicle dealership — buy, rent, paint. Also sells HCC luxury vehicles. |
+
+## Fuel & charging
+
+| Place | Fuel type |
+| --- | --- |
+| **Radtrol Gas Station @ Jalan Pinang** | Petrol / Diesel |
+| **Charging Stations @ Community Retail (2×)** | Electric |
+
+## Banks & security targets
+
+| Place | Notes |
+| --- | --- |
+| **Hazbank** | In-game bank. Potential robbery target. |
+| **Vastrix Bank** | Deposits, banking module |
+
+## Landmark towers
+
+These recognisable KL towers are faithfully represented:
+
+| Name | Notes |
+| --- | --- |
+| **Maxis Tower** | Flagship tower |
+| **Public Bank Tower** | |
+| **Ambank Tower** | |
+| **PNB Tower** | |
+| **Hong Leong Tower** | |
+| **BSN Tower** / **BSN Bank** | |
+| **Standard Chartered Tower** | |
+| **KH Tower** | |
+| **ExxonMobil Tower** | |
+| **Intercontinental Tower** | |
+| **T&T Tower** | |
+| **O'Tism Studios Tower** | |
+| **G Tower** | |
+| **Tabung Haji** | |
+| **Etiqa Building** | |
+| **Ilham Gallery Building** | |
+| **The Pencil Co.** | |
+| **Gov Building** | |
+
+## Hotels & residences
+
+![Hospitality](/images/bandaraya/hospitality.png)
+
+| Name | Notes |
+| --- | --- |
+| **ICON Hotel** | |
+| **Grand Hyatt** | |
+| **Mandarin Oriental** | |
+| **Traders Hotel** | |
+| **Platinum Hotel** | |
+| **Ambassador Hotel** | |
+| **Fullman Hotel** | |
+| **Fairview Residence** | |
+| **E&O Residence** | |
+| **Binjai Condo** | |
+| **The Avare** | |
+| **Aries Hotel** | Has a working lift |
+
+## Other landmarks
+
+![Parking](/images/bandaraya/parking.png)
+
+- **Asean Kuala Lumpur** — ASEAN complex
+- **AKClot** — Parking
+- **UAE Embassy**
+- **Plaza Rakyat** — promotional TV screen
+- **Community Retail (CR)** — promotional TV screen; charging stations nearby
+
+## Infrastructure
+
+- **Roads** — full road network with markings
+- **Traffic Lights** — 4-way and 3-way, with auto and manual controls
+- **RoadSigns** — signage
+- **Streetlights** — 2-way DBKL streetlight models
+- **Bus lanes** along Jalan Ampang
+- **Bike lanes** along Jalan Ampang
+
+## Vegetation & decor
+
+- **Palm trees, big trees, environmental vegetation**
+- **Deepavali 2025** decorations (seasonal)
+- **Raya 2024** decorations (seasonal)
+
+## CCTV
+
+**Orwell CCTV System** — **30 cameras** (verified) across KL, controlled from the CCTV desk inside IPD Dang Wangi. Mix of PTZ (pan-tilt-zoom), bullet cameras, and DME / HEROS-series fixed cameras.
+
+Coverage includes real-KL-inspired locations:
+- **Menara Maxis pickup** and Jalan Lorong Kuda × Jalan Stonor
+- **Pavilion Bukit Bintang** and Jalan Bukit Bintang × Jalan Sultan Ismail
+- **Ampang Road / KLBT** (both directions)
+- **Jalan Binjai × KL Boulevard** (multiple angles)
+- **Government Complex**
+- **Balai Polis lobby** (interior + exterior)
+- **Lickers**, **Ammulaysia** (AMMU), **Plaza Rakyat**
+- **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
+- **Traders' Hotel**
+
+CCTV is a PDRM operational asset — civilians won't interact with the feed. Building-mounted camera decals are everywhere for visual authenticity.
+
+## Special locations
+
+- **HardPoints** — raid / capture points for the Hardpoint gamemode
+- **Armoury** — weapon / equipment storage (team-gated)
+- **e-hailing pickup points** — scattered around the city for taxi operations
+- **Inzun Notes** — interactive notes system
+- **Waypoints** — 100+ waypoint markers used for navigation and location tracking
+- **Global Piano Connector** — interactive piano
+- **Mannequin** displays — clothing showcase
+
+## Vehicle spawn locations
+
+30+ vehicle spawners in the city, organised by operator:
+
+- **PDRM** — multiple (Reg, Transports, JSPT, PDRM Heli)
+- **BOMBA** — Bomba Spawner, Bomba Utility, BOMBA Heli
+- **MAF** — MAF, MAF Civilian, GGK, KPTD
+- **Transport** — MyTransit, FirstGroup, Fermuda, FermudaDev, FLAXIM, FLAXIM 2, Fetch, Tompang
+- **Taxi** — Taxi Spawner
+- **POS** — POS Spawner
+- **Tow** — TOW Vehicles
+- **KKM / SJAM** — StJohn Spawner (SJAM), and KKM via team
+- **Special** — OCG, DEV Vehicles, DEV Vehicles 2, ARE, SPAD, JIM
+- **Civilian** — Classic Car Dealer
+
+You can only use spawners your team is authorised for. See [Vehicles](/bandaraya/vehicles).
+
+## Player spawn points
+
+50+ player spawn points organised by team (`PlayerSpawns`):
+
+- **Emergency** — PDRM, BOMBA, KKM, SJAM
+- **Military** — MAF, KPTD
+- **Transport** — MyTransit, FirstGroup, Fermuda, Flaxim, Fetch, Bus Services, Taxi Services, Towing Services
+- **Government** — Government, Royal Family, Yang di-Pertuan Persekutuan, Foreign Rep
+- **Default** — Visitors, Malaysians, Arrested
+- **Other** — Developers, Moderation, OCG, NWS, JIM, HCC, RELA, TransitKL
+
+## See also
+
+- [Getting Around](/bandaraya/getting-around) — MRT, bus, CAG kiosks
+- [Vehicles](/bandaraya/vehicles) — spawners, dealership
+- [Emergency Services](/bandaraya/emergency-services) — IPD, BOMBA, KKM locations
+- [Economy](/bandaraya/economy) — shops and what they sell
+- [Jobs](/bandaraya/jobs) — POS postbox and mailbox locations (in-game)

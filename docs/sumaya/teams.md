@@ -1,189 +1,97 @@
 ---
-title: "Teams in Sumaya"
-description: "Complete guide to all teams in Sumaya - Visitors, Malaysians, POLIS, BOMBA, and Kesihatan, including roles, tools, and career progression."
+title: "Teams"
+description: "The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan."
 ---
 
-# Teams in Sumaya
+# Teams
 
-Sumaya features five teams, each with unique roles, tools, and responsibilities. You can switch teams at any time through the **Teams** tab in the main menu.
+Sumaya has **five teams**. Your team decides your role in the world - civilian, cop, firefighter, or paramedic. You pick a team from the main menu when you first join, and you can switch to a different team any time from the menu.
 
-## General Teams
+## The five teams
 
-### Visitors
+| Team | Colour | Role | Open to everyone? |
+|------|--------|------|-------------------|
+| Visitors | Green | Default civilian | Yes |
+| Malaysians | Orange | Civilian with group flair | Only MYSverse group members, Rank 3+ |
+| POLIS | Blue | Law enforcement | Yes |
+| BOMBA | Red | Fire brigade | Yes |
+| Kesihatan | White | Medical / paramedic | Yes |
 
-<!-- TODO: Add screenshot of Visitors team -->
-<!-- ![Visitors](/images/sumaya/teams/visitors.png) -->
+## Visitors
 
-The default team for all new players.
+The default team. If you've never played before, you get dropped here. Visitors are regular civilians:
 
-- **Colour:** Green
-- **Requirements:** None (auto-assigned on join)
-- **Tools:** Standard starter tools only
-- **Description:** Visitors can freely explore the city, use basic tools, fish, work civilian jobs, and interact with the world. This is the team you start on when you first join Sumaya.
+- Can do any civilian career: [fishing](/sumaya/jobs-fishing), [service sector (Mamak / Fast Food)](/sumaya/jobs-service), [palm oil](/sumaya/jobs-palm-oil).
+- Can commit crimes (if you're feeling wild) - [Crime and Law](/sumaya/crime-and-law).
+- Can buy and drive civilian vehicles and boats.
+- Can own a house.
 
-### Malaysians
+If you're new, start here and try a few careers before committing to an emergency-service role.
 
-- **Colour:** Orange
-- **Requirements:** Membership in the MYSverse Roblox group (minimum rank required)
-- **Tools:** Standard starter tools only
-- **Description:** A team for verified members of the MYSverse community group. Malaysians have access to additional spawn locations and serve as recognised community members.
+## Malaysians
 
-## Emergency Services
+Mechanically identical to Visitors, but restricted to members of the MYSverse Roblox group at Rank 3 or above. It's a flair team for community members.
 
-### POLIS (Police)
+If you're not in the MYSverse group, you can still do everything the Malaysians team can do - just from the Visitors team.
 
-<!-- TODO: Add screenshot of POLIS team tools or officer in action -->
-<!-- ![POLIS](/images/sumaya/teams/polis.png) -->
+## POLIS
 
-Join POLIS to serve as law enforcement and maintain order across Sumaya.
+POLIS is the police force. You're on duty from the moment you spawn.
 
-- **Colour:** Blue
-- **Requirements:** None
-- **Job Sector:** Token_Polis
-- **Career Progression:** Yes — advance through ranks to unlock new equipment and responsibilities
+- **What you do**: arrest criminals, run radar speed traps, respond to 999 calls, investigate stolen vehicles.
+- **Starting tools**: **Taser X26P**, **Radar Gun**, **Whistle**, **Handcuffs**, **Plate Finder**. More outfit and kit items unlock as you level up (see [Progression](/sumaya/progression)).
+- **Vehicles**: police cars, unlocked as you level up.
+- **Rewards**: XP and Ringgit per arrest, scaled by the criminal's wanted-star level. See [Polis](/sumaya/polis) for the full reward table.
+- **Ranks**: start as a **Police Constable**, work up to **Commissioner of Police**. 16 ranks across levels 1-89.
 
-**Tools provided:**
+POLIS is the most dynamic emergency role - there's always something happening if criminals are active. Read [Polis](/sumaya/polis) for how arrests work.
 
-| Tool | Description |
-|------|-------------|
-| **Taser X26P** | Non-lethal weapon used to subdue suspects |
-| **Radar Gun** | Monitor vehicle speeds and set up speed traps |
-| **Whistle** | Alert civilians and other officers |
-| **Handcuffs** | Arrest and detain offenders |
+## BOMBA
 
-**Responsibilities:**
+BOMBA (pronounced "bom-bah") is the Malaysian fire brigade.
 
-- Patrol the city and respond to incidents
-- Monitor traffic speeds using the Radar Gun and speed trap system
-- Arrest offenders using Handcuffs
-- Issue offences to players who violate rules
-- Coordinate with other emergency services (BOMBA and Kesihatan)
+- **What you do**: put out fires with hoses, connect to hydrants, drive fire trucks to incidents.
+- **Starting tools**: **Fire Extinguisher**. The **fire hose** isn't a starting tool - you pick it up from hose outlets on fire trucks and hydrants at the scene.
+- **Vehicles**: fire engines and water tankers, unlocked as you level up.
+- **Rewards**: 5 XP and 15 Ringgit per fire block extinguished, with a 150 Ringgit bonus every 15 blocks. See [Bomba](/sumaya/bomba).
+- **Ranks**: start as a **Fire Officer (PB)**, top out at **Fire Commissioner (PjB)**. 13 ranks across levels 1-76.
 
-POLIS members also have access to the **Speed Trap GUI**, which displays captured vehicle speeds and allows officers to identify speeding drivers.
+Fires spawn roughly every 6 minutes while BOMBA players are online. You'll see a big alert on the minimap when one starts. See [Bomba](/sumaya/bomba) for how the hose and hydrant system works.
 
-### BOMBA (Fire & Rescue)
+## Kesihatan
 
-<!-- TODO: Add screenshot of BOMBA responding to a fire -->
-<!-- ![BOMBA](/images/sumaya/teams/bomba.png) -->
+Kesihatan ("keh-see-ha-tan") is the medical service - doctors, nurses, paramedics.
 
-Join BOMBA to respond to fire incidents and protect the city.
+- **What you do**: diagnose injuries with a first aid kit, heal cuts with bandages, set broken bones with splints, take X-rays and MRI scans.
+- **Starting tools**: **First Aid Kit**, **Bandage**, **Splint**. Stretcher and imaging equipment (X-Ray, MRI) live at the hospital.
+- **Vehicles**: ambulances, unlocked as you level up.
+- **Rewards**: 15-40 XP per treatment (more for major injuries), 100-200 Ringgit per heal, with a 150 Ringgit bonus every 10 treatments.
+- **Ranks**: start as a **Medical Trainee**, top out at **Director General of Health**. 13 ranks across levels 1-81.
 
-- **Colour:** Red
-- **Requirements:** None
-- **Job Sector:** Token_Bomba
-- **Career Progression:** Yes
-- **Dedicated GUI:** Yes — BOMBA members receive a special interface for tracking and responding to fire incidents
+Kesihatan also unlocks a game-wide **+15% player-level XP bonus** when their injury system is active, which benefits everyone on the server. See [Kesihatan](/sumaya/kesihatan).
 
-**Tools provided:**
+## Switching teams
 
-| Tool | Description |
-|------|-------------|
-| **Fire Extinguisher** | Portable extinguisher for putting out small fires |
+Open the main menu again (from the phone or the pause screen) and pick a different team. Your data, money, vehicles, house, and XP carry across - teams just affect your role and appearance.
 
-**Fire Hose System:**
+A few things to know:
 
-BOMBA members also have access to a hydrant-based fire hose system:
+- You **can't switch teams while arrested or in jail**. Serve your time first, or [surrender](/sumaya/crime-and-law) to cut it short.
+- Switching to a law-enforcement team (POLIS) clears any current civilian job you were doing.
+- Your player level and sector levels **persist** across teams. If you've leveled up the Bomba sector, that rank stays put even if you switch to Visitors and come back later.
 
-1. Locate a **fire hydrant** near the incident.
-2. Connect the **supply line** from the hydrant.
-3. Use the **hose outlet** to direct water at the fire.
+## Which team should I pick?
 
-**Responsibilities:**
+Rough guide:
 
-- Respond to fire incidents that spawn across the city
-- Use extinguishers and the fire hose system to put out fires
-- Track active incidents via the dedicated BOMBA GUI
-- Coordinate with Kesihatan for injured civilians
+- **First time playing**: Visitors. Try the careers, see the town, get a feel for the economy. You can commit to a role next session.
+- **You like action**: POLIS. If there are criminals online, you'll be busy.
+- **You like teamwork**: BOMBA. Fire incidents are a group effort - multiple firefighters usually work on the same fire, and bonuses pay out faster when you have help.
+- **You like helping people**: Kesihatan. Every treatment matters, and your work boosts XP for everyone.
+- **You want a quiet session**: Any civilian team. Do some fishing, buy a house, cruise around.
 
-::: tip Placeables
-BOMBA and POLIS teams have access to placeable tools such as cones, signs, and barriers that can be placed around incident scenes.
-:::
+## What next?
 
-### Kesihatan (Health Services)
-
-<!-- TODO: Add screenshot of Kesihatan team at the hospital -->
-<!-- ![Kesihatan](/images/sumaya/teams/kesihatan.png) -->
-
-Join Kesihatan to provide medical care and respond to health emergencies.
-
-- **Colour:** White
-- **Requirements:** None
-- **Job Sector:** Token_Kesihatan
-- **Career Progression:** Yes
-
-**Tools provided:**
-
-| Tool | Description |
-|------|-------------|
-| **First Aid Kit** | Diagnose a patient's injuries on the field |
-| **Bandage** | Treat open wounds and lacerations |
-| **Splint** | Stabilise bone fractures |
-
-**Hospital Equipment:**
-
-Kesihatan members can operate the equipment at the hospital:
-
-- **MRI Machine:** Perform full-body scans to diagnose internal injuries. Uses a dedicated MRI GUI interface.
-- **X-Ray Machine:** Take targeted scans of specific body areas. Uses a dedicated X-Ray GUI interface.
-- **Hospital Beds:** Admit patients for treatment and rest. The hospital has 12 beds available.
-
-**Responsibilities:**
-
-- Respond to injured players across the city
-- Diagnose injuries using the First Aid Kit
-- Treat wounds with Bandages and fractures with Splints
-- Operate MRI and X-Ray machines at the hospital
-- Monitor the injury and crash notification systems
-
-**Injury System:**
-
-Sumaya features a vehicle crash system that can cause injuries to players. When a crash occurs:
-
-1. An **Injury Notification** is sent to nearby Kesihatan members.
-2. Kesihatan responds and uses the First Aid Kit to **diagnose** the injury.
-3. Appropriate treatment is applied (Bandage for wounds, Splint for fractures).
-4. For serious injuries, the patient may need to be brought to the **hospital** for MRI or X-Ray scans.
-
-## Team Mechanics
-
-### Switching Teams
-
-To switch teams:
-
-1. Open the **Main Menu**.
-2. Navigate to the **Teams** tab.
-3. Select the team you want to join.
-4. If you meet the requirements, you'll be respawned with the new team's colour and tools.
-
-::: warning Group Requirements
-The **Malaysians** team requires you to be a member of the MYSverse Roblox group with a minimum rank. If you don't meet the requirement, you won't be able to join this team.
-:::
-
-### Career Progression
-
-The three service teams (POLIS, BOMBA, and Kesihatan) each have their own **career progression system**:
-
-- Each career has a dedicated **Job Sector** with levels.
-- Progress by performing your team's duties and completing tasks.
-- Access career information and customisation through the **Career** tab in the main menu.
-- Equip different **outfits** and **kit items** as you advance through your career.
-
-### Team Spawners
-
-Each team has designated **spawn locations** and **vehicle spawners**:
-
-- **POLIS:** Dedicated police vehicle spawner with law enforcement vehicles.
-- **BOMBA:** Dedicated fire vehicle spawner near the fire station.
-- **Kesihatan:** Dedicated medical vehicle spawner near the hospital.
-- **Visitors/Malaysians:** General spawn locations and civilian vehicle spawner.
-
-### Paychecks
-
-Team members in service roles receive periodic **paychecks** for their work. The paycheck GUI shows:
-
-- Basic salary amount
-- Bonus earnings
-- Any deductions
-- Total payout
-
-Paychecks are deposited directly into your account and you'll receive a notification when payment is ready.
+- [Careers overview](/sumaya/jobs) for civilian jobs.
+- [Emergency services overview](/sumaya/emergency-services) for the differences between Bomba, Polis, and Kesihatan.
+- [Vehicles](/sumaya/vehicles) for the team-vehicle catalog.

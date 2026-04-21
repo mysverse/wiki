@@ -1,190 +1,139 @@
 ---
-title: "Teams in Bandaraya"
-description: "Complete guide to all teams in Bandaraya including law enforcement, emergency services, military, civilian, and transport teams."
+title: "Teams"
+description: "Complete guide to every team in Bandaraya — emergency services, military, transport, civilian, government, and more."
 ---
 
-# Teams in Bandaraya
+# Teams
 
-Bandaraya features a wide variety of teams, each offering unique gameplay experiences, vehicles, tools, and responsibilities. Teams are accessed through the main menu and may require Roblox group membership, gamepasses, or special permissions.
+Bandaraya is team-based roleplay. Your team decides where you spawn, what tools you get, what vehicles you can drive, which tablet apps you see, and — honestly — what story you live out.
 
-## Default Teams
+## TL;DR
 
-### Visitors
+- **Visitors** (open to all) and **Malaysians** (free MYSverse group) are civilian teams anyone can join.
+- **Arrested** is automatic — you don't pick it.
+- Every other team needs one of: a **Roblox group** at a minimum rank, a **whitelist** entry, or a **gamepass**.
+- Teams auto-disappear from the list when nobody is on them and auto-reappear when someone joins. Don't panic if a team isn't visible — try again later.
 
-- **Description:** The default team for all new players. Business or pleasure — explore the city freely.
-- **Unlock:** All Access (default team).
-- **Team Color:** Bright green
+---
 
-### Malaysians
+## How team access works
 
-- **Description:** The proud citizens of Malaysia.
-- **Unlock:** Join the MYSverse Malaysian Community Roblox group.
-- **Team Color:** Bright yellow
+You'll see a team in the menu only if you qualify. Access can come from any of:
 
-### High Class Citizen
+| Gate | What you need |
+| --- | --- |
+| **Roblox group membership** | Join the relevant group on the Roblox site (most teams). |
+| **Minimum rank in that group** | Work your way up through the group's ranks (trials, cadet, etc.). |
+| **MYSverse main group rank** | Some teams (e.g., HCC, Yang di-Pertuan Persekutuan) require a specific rank in the MYSverse group (1143446). |
+| **Whitelist** | Some teams (e.g., Foreign Representative) only admit named players. |
+| **Gamepass** | Some teams (Taxi Services + Firearms Licence-gated) unlock with a Robux gamepass. |
 
-- **Description:** An elevated civilian role with exclusive access.
-- **Unlock:** Special requirement (gamepass or group rank).
-- **Team Color:** Deep orange
+**Tools** are handed out automatically when you spawn — you don't shop for them. If your team is supposed to have the cuffs and you didn't get them, respawn.
 
-## Law Enforcement Teams
+**Switching** teams opens the team menu again. Your BR, vehicles, and CAG card follow you across teams.
 
-These teams focus on maintaining order, responding to incidents, and enforcing the law across the city.
+---
 
-### Polis MYSverse (POLIS)
+## Default teams (anyone can join)
 
-- **Description:** The MYSverse Police — the primary law enforcement agency in Bandaraya. Operates multiple divisions including regular patrol, Criminal Investigation Department (CID), traffic police (JSPT), special operations (UTK), and armoured units (GGK).
-- **Unlock:** MYSverse Sim Police group membership or relevant gamepass.
-- **Team Color:** Bright blue
-- **Facilities:** IPD Dang Wangi CID Office, IPD Dang Wangi JSPT Office, Balai Polis Kuala Lumpur
-- **Vehicles:** Regular patrol vehicles, CID unmarked vehicles, JSPT traffic vehicles, GGK tactical vehicles, transport vehicles, rotorcraft (helicopters)
-- **Tools:** Firearms, taser, handcuffs, radar gun, tablet (vehicle registration lookup), radio, cones, signs
+| Team | Colour | Requirement | Notes |
+| --- | --- | --- | --- |
+| **Visitors** | Bright green | None | "Business or pleasure?" Open to all. |
+| **Malaysians** | Bright yellow | MYSverse group (1143446) | The proud civilian default. Free group. |
+| **Arrested** | Bright violet | Automatic | You don't pick this. The police do. See [Arrest & Law](/bandaraya/arrest-and-law). |
 
-### Polis Bantuan MyTransit
+---
 
-- **Description:** Auxiliary police unit assigned to MyTransit public transport operations.
-- **Unlock:** Group membership required.
-- **Team Color:** Navy blue
+## Emergency services
 
-### Kor Polis Tentera MYSverse (KPTD)
+| Team | Group(s) | Rank | What they do |
+| --- | --- | --- | --- |
+| **PDRM (Polis MYSverse)** | 1182710, 3048630 | Any | Royal Malaysia Police. Arrest, patrol, traffic, summons, MDT. |
+| **Polis Bantuan MyTransit** | 6563708 | 2+ | Transit police — polices bus/MRT stations. Limited arrest powers. |
+| **BOMBA (Jabatan Bomba dan Penyelamat)** | 2957304 | Any | Fire & Rescue. Respond to incidents, operate hydrants and hoses. |
+| **KKM (Kementerian Kesihatan)** | 5760632 | Any | Ministry of Health. Treat downed players; when KKM are online the bleedout timer stretches to 5 minutes. |
+| **SJAM (St. John Ambulans)** | 3027933 | 2+ | Volunteer ambulance service. |
+| **RELA Corps** | 2855852 | Any | Volunteer force. Basic tools. |
 
-- **Description:** The MYSverse Military Police Corps — enforces military law and discipline.
-- **Unlock:** Group membership required.
-- **Team Color:** Bright red
-- **Vehicles:** Dedicated KPTD vehicles
+Want to play emergency? See [Emergency Services](/bandaraya/emergency-services).
 
-## Military Teams
+---
 
-### MYSverse Armed Forces (MAF)
+## Military
 
-- **Description:** The armed forces of MYSverse. Operates from Kem Wardieburn military camp.
-- **Unlock:** Group membership required.
-- **Team Color:** Earth green
-- **Facilities:** Kem Wardieburn
-- **Vehicles:** Light vehicles, armoured vehicles, civilian-use vehicles
+| Team | Group(s) | Rank | Notes |
+| --- | --- | --- | --- |
+| **Malaysian Armed Forces (MAF)** | 2817130, 2849945, 2817134 | 3+ | The army. |
+| **Military Police (KPTD)** | 2817141 | Any | Kor Polis Tentera Diraja. Can arrest. |
 
-### Royal Marine Corps (RMC)
+---
 
-- **Description:** A foreign-aligned marine unit.
-- **Unlock:** Group membership required.
-- **Team Color:** Medium blue
-- **Vehicles:** Dedicated RMC vehicles
+## Transport (bus, taxi, e-hailing, tow)
 
-## Emergency Services
+| Team | Group(s) / other | Rank | Notes |
+| --- | --- | --- | --- |
+| **MyTransit** | 5032738, 10394166 | 5+ / 2+ | "MYS Greatest Bus Company!" Main bus operator. |
+| **Fetch** | 5413661 | — | Malaysia's first in-game e-hailing company. |
+| **Flaxim** | 32894117 | — | Non-livery taxi company. |
+| **Fermuda** | 9255468 | — | Transport company. |
+| **Tompang** | 10394166 | 2+ | Another transport brand. |
+| **FirstGroup / Bus Services** | 12143635, 32663011, 11122768, 33328642 | Any | SPAD-registered bus operators. |
+| **Taxi Services** | Multiple SSM-registered groups | — | Licensed taxi drivers. Requires **Taxi Driver gamepass** (150 R$) or group membership. |
+| **Towing Services** | Multiple tow-service groups | — | Clamp vehicles, tow them, collect 500 BR per clamp removal. |
 
-### Bomba MYSverse (Fire and Rescue)
+Want to play transport? See [Jobs](/bandaraya/jobs).
 
-- **Description:** MYSverse's fire and rescue department. Respond to fire incidents across the city, operate fire engines, and use hydrant systems.
-- **Unlock:** Group membership or gamepass required.
-- **Team Color:** Maroon
-- **Facilities:** Central Fire Station Kuala Lumpur
-- **Vehicles:** Fire rescue tenders, utility vehicles, helicopters
-- **Tools:** Fire hose (supply line + attack line), hydrant connections, radio, tape
-- **Gameplay:** Fires spawn around the city. Connect the supply line from your fire tender to a hydrant, then use the attack line to extinguish fires.
+---
 
-### Kementerian Kesihatan MYSverse (Health Ministry / KKM)
+## Government & royalty
 
-- **Description:** The national health ministry — save lives as medical personnel.
-- **Unlock:** Group membership required.
-- **Team Color:** Institutional white
-- **Facilities:** KKM Ampang Clinic, Prince Court Medical Centre
-- **Vehicles:** Ambulances, rapid response vehicles
-- **Tools:** Medical equipment
+| Team | Access | Notes |
+| --- | --- | --- |
+| **Government** | MYSverse rank 11+ or group 16602842 | General government team. |
+| **Royal Family** | Various royal-family groups | Sultan, sultanas, royal heirs. |
+| **Yang di-Pertuan Persekutuan** | MYSverse rank 220+ | HM Supreme Lord of Malaysia. Gets arrest tools and armaments. |
+| **Foreign Representative** | Whitelist + MYSverse rank 6 | Hidden from public list — diplomats only. |
 
-### St. John Ambulans MYSverse (SJAM)
+---
 
-- **Description:** A volunteer ambulance and first aid service.
-- **Unlock:** Group membership required.
-- **Team Color:** Forest green
-- **Facilities:** SJAM landmark
-- **Vehicles:** Ambulance vehicles
+## Special teams
 
-### RELA Corps
+| Team | Access | Notes |
+| --- | --- | --- |
+| **High Class Citizen (HCC)** | MYSverse rank 6 / group 35006850 / **HCC gamepass** (3,000 R$) | Extra income, luxury vehicles, posh vibes. |
+| **JIM (Jabatan Imigresen Malaysia)** | Group 5231965 | Immigration Department. |
+| **NWS** | Group 16410742, rank 248 | Official in-game news agency. |
+| **Organised Crime Group (OCG)** | Group 34128077 | Verified criminal-roleplay outfits. |
+| **Moderation Team** | Group 35006850, rank 50+ | Game moderators. |
+| **Developers** | Group 5674011 | The people building the game. |
 
-- **Description:** The People's Volunteer Corps — a civilian volunteer force supporting public safety.
-- **Unlock:** Group membership required.
-- **Team Color:** New Yeller
+---
 
-## Government & Justice
+## How to qualify
 
-### MYSverse Government
+Most teams are gated on **Roblox groups**. To apply:
 
-- **Description:** Government officials and civil servants.
-- **Unlock:** Group membership or special permissions required.
-- **Team Color:** Daisy orange
-- **Facilities:** Gov Building
+1. Open the group's Roblox page (typically linked from MYSverse's Discord / community).
+2. Join if it's open, or apply if it's application-only.
+3. Attend trials / training if required. For PDRM, BOMBA, KKM, MAF — most run recruitment events and rank-based training.
+4. Once you're in at the required rank, the team becomes selectable from the in-game menu.
 
-### Kementerian Keadilan MYSverse (Ministry of Justice)
+For **gamepass-gated** teams (Taxi Services, High Class Citizen), buy the gamepass and the team appears on your menu.
 
-- **Description:** Handles legal proceedings and justice administration.
-- **Unlock:** Group membership required.
-- **Team Color:** Medium stone grey
+For **whitelist** teams (Foreign Representative), you have to be added by staff.
 
-### Foreign Representative
+## Tips & gotchas
 
-- **Description:** Diplomatic representatives of foreign nations.
-- **Unlock:** Special permissions required.
-- **Team Color:** Really blue
-- **Facilities:** UAE Embassy and other diplomatic buildings
+- **Team disappeared?** It gets auto-removed when no one is on it. The game recreates it when someone joins. Not a bug.
+- **You're stuck on Visitors?** You might not meet the rank requirement. Double-check in your group's rank table on Roblox.
+- **Team-tools didn't appear?** Try respawning. Tools are granted on spawn.
+- **Switching teams clears some states.** Your CAG wallet, BR, and stored vehicles persist. Duty-related flags (on-call, signed-in driver) do not.
+- **Going rogue is a severe violation.** If you're on PDRM, BOMBA, KKM, MAF, or any public-services team and start committing crime, that's a ban. See [Rules](/bandaraya/rules#severe-violations).
 
-### Royal Family
+## See also
 
-- **Description:** The MYSverse royal family.
-- **Unlock:** Special permissions required.
-- **Team Color:** Gold
-
-## Public Transport Teams
-
-### TransitKL
-
-- **Description:** Operate public transit services across the city.
-- **Unlock:** Group membership required.
-- **Team Color:** Cyan
-- **Facilities:** MyTransit Depot
-
-### Fetch
-
-- **Description:** A ride-hailing and delivery service.
-- **Unlock:** Group membership required.
-- **Team Color:** Sea green
-- **Vehicles:** Fetch delivery/ride vehicles
-
-### Flaxim
-
-- **Description:** A taxi and transport service.
-- **Unlock:** Group membership required.
-- **Team Color:** Dark blue
-- **Vehicles:** Flaxim taxi vehicles
-
-## Other Teams
-
-### Organised Crime Group (OCG)
-
-- **Description:** An underground criminal organisation. Engage in illicit activities, robberies, and black-market dealings.
-- **Unlock:** Special permissions required.
-- **Team Color:** Alder
-- **Vehicles:** OCG vehicles
-
-### Developers
-
-- **Description:** The MYSverse development team.
-- **Unlock:** Developer status required.
-- **Team Color:** Steel blue
-
-### Moderation Team
-
-- **Description:** In-game moderators who ensure a safe and fair experience.
-- **Unlock:** Moderator status required.
-- **Team Color:** Magenta
-
-### Arrested
-
-- **Description:** Players who have been arrested by law enforcement. You are placed in this team upon arrest and must wait out your sentence.
-- **Team Color:** Bright violet
-
-## Team Mechanics
-
-- **Team Selection:** Change your team through the main menu's **Team** tab.
-- **Team Vehicles:** Each team has dedicated vehicle spawners located at their respective facilities. Only members of the corresponding team can access these spawners.
-- **Emergency Classification:** MAF, KPTD, POLIS, Polis Bantuan, Bomba, SJAM, RELA, Developers, KKM, and Moderation teams are classified as emergency/priority teams.
-- **Transport Classification:** TransitKL, Fetch, and Flaxim are classified as job/transport teams.
+- [Emergency Services](/bandaraya/emergency-services) — what PDRM/BOMBA/KKM/SJAM/RELA/MAF actually do
+- [Jobs](/bandaraya/jobs) — transport teams and their jobs
+- [Arrest & Law](/bandaraya/arrest-and-law) — how the police system works
+- [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC, etc.
+- [Glossary](/bandaraya/glossary) — acronyms

@@ -1,207 +1,133 @@
 ---
-title: "Teams in Lebuhraya"
-description: "Complete guide to all teams in Lebuhraya including Law Enforcement, Emergency Services, Civilian teams, and their unique vehicles and tools."
+title: "Teams and Careers"
+description: "All 18 teams in Lebuhraya and the 20-tier rank system."
 ---
 
-# Teams in Lebuhraya
+# Teams and Careers
 
-Lebuhraya features a variety of teams, each offering unique gameplay experiences, vehicles, and tools. Teams can be accessed based on level, gamepasses, or Roblox group membership.
+There are **18 teams** in Lebuhraya. Each one represents a different role in the game's Malaysian highway society — from delivery riders to firefighters. Joining a team unlocks job activities, team-specific uniforms, and sometimes specialised vehicles.
 
-## Law Enforcement (LE) Teams
+Your **career tier** sits on top of the team system. You can rank up from **Trainee** all the way to the top of the chain (like Senior Assistant Commissioner or Fire Commissioner) by earning branch-specific XP on the job.
 
-These teams focus on maintaining order, responding to incidents, and enforcing traffic laws.
+## How to join a team
 
-### 🚓 Polis Trafik (Traffic Police)
+Open the **Main Menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time (though some roleplay situations, like an assigned 999 incident, will be cancelled when you swap).
 
-- **Description:** Traffic law enforcement department of the police.
-- **Unlock:** Purchase the **Polis Trafik gamepass** OR be a MYSverse Sim Police member (Group IDs: 5674011 (Rank 1+), 1143446 (Rank 14+), 1182710 (Rank 1+)).
-- **Team Color:** Bright blue
-- **Tools (v3.3.0):**
-  - Taser X26P
-  - Radar Gun (Catch speeders for XP, e.g., +200 XP for >200 SPS in v3.0.5)
-  - Whistle
-  - Torchlight
-  - Placeables: PolisCone, PolisSign, PolisUmbrella
-  - Tablet (v3.3.12): Look up vehicle info.
-- **Spawn Switching:** Bandar Seri Putra / Kampung Merbang (v3.3.9).
-- **Notable Vehicles:** Outlander HPV, Civic Escort, Lancer HPV Tartan, Inspira Escort, Civic Type R Escort, BMY R1200RT Polis Trafik motorcycle (re-added in v3.5.13).
+## The 18 teams
 
-### 🚨 KEMRonda (Highway Auxiliary Police)
+### Free for everyone
 
-- **Description:** Highway auxiliary police unit.
-- **Unlock:** Purchase the **KEMRonda gamepass** OR be a MYSverse Sim Police member (Group IDs: 5674011 (Rank 1+), 1143446 (Rank 14+), 1182710 (Rank 1+)).
-- **Team Color:** Neon orange
-- **Tools (v3.3.0):**
-  - Powertorch
-  - Advanced Tool Kit
-  - Placeables: SCone (Standard Cone), PBSign (Polis Bantuan Sign)
-  - Tablet (v3.3.12): Look up vehicle info.
-- **Spawn Switching:** Putra Mahkota / Jersik (v3.3.9).
-- **Notable Features/Vehicles:**
-  - Tow Trucks (Beta, v3.4.4): Unlocked at Lvl 150 & 200. Increased horsepower (v3.4.5). Winch system for vehicles with no drivers.
-  - Tayoti Hilux Variants (PB Cab, PB, PB Traffic) (v3.0.14).
-  - Cone giver fixes for vehicles (v3.3.23).
+| Team | Description |
+|---|---|
+| **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
+| **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone — a good entry point. |
 
-### 🕵️ Undercover Police
+### Unlocked by MYSverse community membership
 
-- **Description:** Undercover law enforcement department of the police.
-- **Unlock:** Purchase the **Undercover Police gamepass**.
-- **Team Color:** Storm blue
-- **Tools:**
-  - Taser X26P
-  - Radar Gun
-  - Whistle
-  - Torchlight
-  - Placeables: PolisCone, PolisSign, PolisUmbrella
-- **Notable Vehicles:** Unmarked vehicles including Bezza, Saga, and X70.
-- **Equipment:** Police Lanyard, Soft Vests.
+| Team | How to unlock |
+|---|---|
+| **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
 
-### ⚖️ APJ (Road Transport Agency)
+### Unlocked by level
 
-- **Description:** Enforces laws related to road transport.
-- **Unlock:** Free at **Level 300**.
-- **Team Color:** Navy blue
-- **Tools:**
-  - Torchlight
-  - Placeables: SCone
+| Team | Level | Role |
+|---|---|---|
+| **Food Delivery** | 10 | Use your motorcycle to deliver food orders from shops to customers. |
+| **Waste Disposal** | 25 | Collect rubbish from bins and deliver to incineration stations. |
+| **Post Office** | 50 | Deliver letters and parcels for Pos Nasional. |
+| **Logistics** | 75 | Freight trucking — haul cargo with a Rolvo FM or Sanica P-series. |
+| **Power Nasional** | 100 | National electric utility contractor work. |
+| **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
+| **Kesihatan** | 200 | The National Health Ministry — drive ambulances, treat patients, respond to 999 medical calls. |
+| **APJ** | 300 | Road Transport Agency — enforce driving and vehicle regulations. |
 
-## Emergency Services
+> The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
 
-### 🚒 Bomba (Fire and Rescue)
+### Unlocked by gamepass
 
-- **Description:** Fire and rescue service.
-- **Unlock:** Purchase the **Bomba gamepass** OR be a MYSverse Sim Bomba member (Group IDs: 5674011 (Rank 1+), 1143446 (Rank 14+), 2957304 (Rank 1+)).
-- **Team Color:** Bright red
-- **Tools (v3.3.24):** Chainsaw, Spreaders. (Fire tool likely refers to fire fighting equipment).
-- **Gameplay (v3.3.0, v3.3.2):**
-  - Fires spawn with Bomba members present around Bandar Seri Putra. Training fires available.
-  - Respond to incidents: Connect Supply Line from Fire Rescue Tender (FRT) to hydrant, then use Attack Line (Fire Hose) to extinguish.
-  - XP Rewards: +25 XP for Bomba members, +10 XP for other EMS (Polis Trafik, KEMRonda) within 512 studs.
-  - Fire station alarm when fire reported (v3.3.1).
-  - Hydrant outlets (both usable, v3.3.4), rear shutters for FRTs (v3.3.4).
-  - SCBA kit visual fixes (v3.3.6), kits glow in the dark (v3.3.6).
-- **Equipment (v3.3.17):** Belt (Lvl 1), Reflective Raincoat (Lvl 50), Boonie (Lvl 75).
-- **Vehicles:** Merze Atego LFRT (base), Triton Utility, etc.
+| Team | Role |
+|---|---|
+| **Taxi Driver** | Drive passengers for fares. Unlocked by the Taxi Driver or Bandaraya gamepass. |
+| **KEMRonda** | Highway auxiliary police. Tow trucks, roadside assistance, placeable cones. |
+| **Bomba** | The Fire and Rescue Department. Fire trucks, spreaders, chainsaws, 999 fire response. |
+| **Polis Trafik** | Traffic police. Tasers, radar guns, placeable police cones and signs. |
+| **Undercover Police** | The same toolkit as Polis Trafik but on unmarked vehicles. |
 
-### 🏥 Kesihatan (Health Ministry)
+See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepasses.
 
-- **Description:** Save lives as medical personnel of MYSverse's National Health Ministry.
-- **Unlock:** Free at **Level 200**.
-- **Team Color:** Crimson
-- **Tools:** Splint, First Aid Kit, Bandage, Kesihatan Booklet.
-- **Vehicles (v3.5.6):**
-  - Handai City RRV (Rapid Response Vehicle) - Unlocked at Level 200 (new career base unlock).
-  - Tayoti Hilux RRV - Unlocked at Level 450.
-  - Tayoti Hiace Ambulance - Unlock adjusted to Level 300 (from 200).
+### System teams
 
-## Civilian & Utility Services
+| Team | Description |
+|---|---|
+| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
+| **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
 
-### 🚕 Taxi Driver
+## Career tiers and ranks
 
-- **Description:** Drive passengers and progress your career.
-- **Unlock:** Purchase the **Taxi Driver gamepass** OR own the Bandaraya gamepass.
-- **Team Color:** Persimmon
-- **Vehicles:** Various taxi vehicles, 2 new vehicles added in v3.5.11. Licence plate format updated (v3.5.12).
+Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job — driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
 
-### 🚌 Bus Driver
+### How tier XP scales
 
-- **Description:** Drive passengers on preset routes.
-- **Unlock:** Free, All Access.
-- **TeamColor:** Dark indigo
-- **Gameplay:**
-  - Earn **+1000 XP** for every completed journey (v3.3.9, v3.3.12).
-  - Visible waypoint system (v3.0.1).
-  - AI and player passengers.
-- **Vehicles:**
-  - Intero Citie (speed buffed, v3.0.9).
-  - Tayoti Hiace II (fixed wheel sticking issues, v3.0.1).
-  - Bas Sekolah Hiace variant (Lvl 10, no AI system for free roleplay, v3.2.0 - _Note: this is an older update, current availability/level might differ_).
-  - Bas Pekerja (Worker Bus) - Unlocked at Level 50. Route from Pangsapuri Seri Putra to H Plantation (v3.3.9).
+The tier curve is:
 
-### ⚡ Power Nasional
+- **Tier 1** requires 500 XP
+- Each subsequent tier requires **15% more XP** than the previous
+- **Tier 20** costs about **7,100 XP** on its own — and **around 51,000 cumulative XP** to reach from scratch
 
-- **Description:** Work as a contractor for MYSverse's nationwide electric utility company. Repair streetlights.
-- **Unlock:** Free at **Level 100**.
-- **Team Color:** Dark orange
-- **Gameplay (v3.3.18):** Earn **+25 XP** for each completed repair job. Some lights are dual and can be repaired twice.
-- **Tools:** Placeables SCone.
+You can see your current tier and XP progress in the **Main Menu → Career** tab.
 
-### 📨 Post Office
+### Rank titles
 
-- **Description:** Deliver mail around Jersik and Kampung Merbang.
-- **Unlock:** Free at **Level 50**.
-- **Team Color:** Dusty Rose
-- **Gameplay (v3.3.14):** Collect packages from mailboxes, process at post office, earn **+100 XP** per delivered parcel. Progress from motorcycle to van and truck.
+Ranks are named specific to each team. A few examples:
 
-### 🍜 Food Delivery
+**KEMRonda / Polis Trafik / Undercover Police** (Polis agency):
+Constable → Lance Corporal → Corporal → Sergeant → Sergeant Major → Sub-Inspector → Inspector → Chief Inspector → Assistant Superintendent → Deputy Superintendent → Superintendent → Assistant Commissioner → **Senior Assistant Commissioner** (Tier 20)
 
-- **Description:** Deliver food and empower local businesses.
-- **Unlock:** Free at **Level 10**.
-- **Team Color:** Forest green
-- **Note:** Players are no longer automatically assigned to this team (v3.4.11).
+**Bomba**:
+Fire Officer → Senior Fire Officer II → Senior Fire Officer I → Leading Fire Officer → Deputy Fire Superintendent → Fire Superintendent → Assistant Fire Superintendent → Senior Assistant Fire Superintendent → Senior Fire Superintendent II → Senior Fire Superintendent I → Assistant Fire Commissioner → Senior Assistant Fire Commissioner → Deputy Fire Commissioner → **Fire Commissioner** (Tier 20)
 
-### 🗑️ Waste Disposal
+**Taxi Driver** (Pengangkutan agency):
+New Driver → Junior Driver → Driver → Experienced Driver → Junior Executive → Executive → Senior Executive → Towkay → **Yang di-Pandu Abang** (Tier 20)
 
-- **Description:** Help keep the region of Lebuhraya clean!
-- **Unlock:** Free at **Level 25**. Also unlockable through Season 1 pass.
-- **Team Color:** Sand green
-- **Tools:** Waste Disposal Guide.
-- **Gameplay:** Collect rubbish from bins using waste disposal trucks and incinerate at designated locations.
+**Lumberjack** (Sumber agency):
+Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipment Operator → Felling Foreman → Logging Boss → Forest Manager → **Lumber Lord** (Tier 20)
 
-### 🚚 Logistics
+**Food Delivery** (Perkhidmatan agency):
+Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
 
-- **Description:** Deliver goods with your lorry to the region of Lebuhraya!
-- **Unlock:** Free at **Level 75**. Also unlockable through Season 1 pass.
-- **Team Color:** Cashmere
-- **Tools:** Logistics Guide.
-- **Gameplay:** Hook up trailers, haul freight between delivery points, and earn XP upon completion.
+### The six agencies
 
-### 🪓 Lumberjack
+Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
 
-- **Description:** Be part of Lebuhraya's lumber industry!
-- **Unlock:** Free at **Level 150**. Also unlockable through Season 1 pass.
-- **Team Color:** Reddish brown
-- **Tools:** Axe.
-- **Gameplay:** Chop down trees with your axe, collect lumber, and sell it at the lumber shop for XP.
+| Agency | Teams |
+|---|---|
+| **Polis** | KEMRonda, Polis Trafik, Undercover Police |
+| **Kecemasan** (Emergency) | Bomba, Kesihatan |
+| **Pengangkutan** (Transport) | Bus Driver, Taxi Driver, Logistics |
+| **Perkhidmatan** (Services) | Food Delivery, Post Office, Waste Disposal |
+| **Sumber** (Resources) | Power Nasional, Lumberjack |
+| **Penguatkuasaan** (Enforcement) | APJ |
 
-## General Teams
+## Tier rewards
 
-### 🇲🇾 Malaysians
+Hitting a tier milestone can unlock:
 
-- **Description:** The proud citizens of Malaysia!
-- **Unlock:** Join the MYSverse Malaysian Community group (ID: 1143446, Rank 1+).
-- **Team Color:** Bright yellow
-- **Spawn:** Default spawn location Putra Mahkota (consistent, v3.5.8). Can be changed via main menu (v3.0.11).
+- A **new rank title** shown on your character and in the leaderboard
+- **Career vehicles** — for example, higher-tier Bomba ranks unlock larger fire trucks; higher-tier Taxi Driver ranks unlock better taxi models
+- Occasional **cosmetic items** (uniforms, accessories)
 
-### 🌐 Visitors
+Career vehicles won't show in the MyPod spawner until your tier is high enough.
 
-- **Description:** Business or pleasure? This is the default team for new players.
-- **Unlock:** All Access.
-- **Team Color:** Bright green
-- **Spawn:** Default spawn location Putra Mahkota (consistent, v3.5.8). Can be changed via main menu (v3.0.11).
+## Uniforms and outfits
 
-## Team-Related Mechanics
+Each team has its own **uniform kit** — hats, vests, accessories specific to the role. You can put on your team uniform through the career customisation menu once you're on a team. Sample kits:
 
-- **Team Spawners:** Only accessible if you are on the corresponding team (v3.4.14).
-- **Spawn/Team Change Cooldown:** 15 seconds (reduced from 30s in v3.4.9).
-- **Team Indicators (v3.3.2):**
-  - Moderators have special prefix/tag in overhead GUI and chat.
-  - Developers have a Hornbill Interactive icon and 'Dev' title.
-  - Adonis Admins/Mods get max level status (reverts if permissions deactivated).
-- **Team-Specific Ranks (v3.0.3):** Police ranks for KEMRonda/Polis Trafik, business roles for Bus Drivers.
+- **KEMRonda**: Beret, PB Patch, Reflective Vest
+- **Polis Trafik**: Cap, Bike Jacket, Duty Belt, Reflective Coat
+- **Bomba**: Neckguard, Light, Respirator, Command Helmet
+- **Kesihatan**: Medical gear including Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
 
-## Career Progression (Job Tiers)
+## Next steps
 
-Each career branch has its own **tier-based progression system** separate from your overall player level. You earn career XP by performing tasks specific to your team, and advancing tiers unlocks new ranks.
-
-- **Max Tier:** 20 per career branch.
-- **XP Curve:** Starts at 500 XP for Tier 1, increasing by a factor of 1.15x per tier.
-- **Agencies:** Careers are organized into agencies:
-  - **Polis:** KEMRonda, Polis Trafik, Undercover Police
-  - **Kecemasan (Emergency):** Bomba, Kesihatan
-  - **Pengangkutan (Transport):** Bus Driver, Taxi Driver, Logistics
-  - **Perkhidmatan (Services):** Food Delivery, Post Office, Waste Disposal
-  - **Sumber (Resources):** Power Nasional, Lumberjack
-  - **Penguatkuasaan (Enforcement):** APJ
-
-Each rank within a branch has a minimum level requirement and a tier threshold. Progressing through tiers also awards in-game currency.
+- [Jobs](/lebuhraya/jobs) — What each team actually does on a typical shift
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) — Gamepasses and the Season Pass

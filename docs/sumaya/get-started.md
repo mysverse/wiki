@@ -1,102 +1,113 @@
 ---
-title: "Getting Started in Sumaya"
-description: "Your complete guide to starting in Sumaya - a Malaysian-themed open world where you can explore the city, work careers, earn money, and build your life."
+title: "Getting Started"
+description: "Start playing Sumaya — main menu, team pick, controls, and the first five minutes in town."
 ---
 
-# Getting Started in Sumaya
+# Getting Started
+
+Your first few minutes in Sumaya. This page covers the main menu, team selection, controls, and the first things you should do once you're in the world.
 
 ![Sumaya](/images/sumaya/sumaya_feature.webp)
 
-Welcome to **Sumaya**! This guide will help you take your first steps in this Malaysian-themed open world experience where you can explore a vibrant city, work different careers, earn Sumaya Ringgit, and build your own life.
+## The main menu
 
-::: tip Selamat Datang!
-Sumaya is packed with careers, activities, and things to discover. Jump in and explore!
-:::
+When you join Sumaya, you'll see a main menu screen before you spawn. From here you pick a **team**, which decides what role you play - a regular civilian, a cop, a firefighter, or a paramedic. The team you pick affects the tools you start with and the jobs you can do.
 
-## Navigating the Main Menu
+You can change teams later. Nothing about the first pick is permanent. Just pick whatever sounds fun.
 
-<!-- TODO: Add screenshot of the main menu -->
-<!-- ![Main Menu](/images/sumaya/get-started/main-menu.png) -->
+When you're ready, hit **Jom** ("let's go" in Malay) to drop into the world.
 
-When you first join Sumaya, you'll see the **Main Menu** with the following options:
+## Picking a team
 
-- **Play:** Enter the city directly.
-- **Teams:** Switch between available roles such as Visitors, Malaysians, POLIS, BOMBA, and Kesihatan.
-- **Career:** View your career progression and information about your current role.
-- **Shop:** Purchase gamepasses and other items.
-- **Updates:** Check out the latest game updates and announcements.
+There are five teams. Three of them (POLIS, BOMBA, Kesihatan) are emergency services with specific duties. The other two (Visitors and Malaysians) let you play as a regular person.
 
-The main menu also features a scenic camera that pans across Sumaya's landmarks, including the mosque, clock tower, train station, beach, and streets.
+| Team | What they do | Anyone can join? |
+|------|--------------|------------------|
+| Visitors | Regular civilian, default option | Yes |
+| Malaysians | Regular civilian, cosmetic team for verified group members | Only MYSverse group members at Rank 3+ |
+| POLIS | Police: arrest criminals, patrol, enforce speed limits | Yes |
+| BOMBA | Fire brigade: put out fires, run rescues | Yes |
+| Kesihatan | Medical: treat injuries, run the hospital | Yes |
 
-## Earning Sumaya Ringgit (SR)
+See [Teams](/sumaya/teams) for more detail on each one, including what tools you start with.
 
-<!-- TODO: Add screenshot of the wallet UI or ATM -->
-<!-- ![Wallet](/images/sumaya/get-started/wallet.png) -->
+**Not sure which to pick?** Start as **Visitors**. You can try civilian jobs (fishing, mamak, palm oil) right away, and you can switch to an emergency service team later once you've had a look around.
 
-Everything in Sumaya runs on **Sumaya Ringgit (SR)**. You start with **SR 50 in your wallet** and **SR 1,000 in your bank account**.
+## Your starting money
 
-Earn more SR by:
+Every new player begins with:
 
-- Completing jobs (fast food, fishing, and more)
-- Working team-specific careers (POLIS, BOMBA, Kesihatan)
-- Fishing and selling your catch
+- **100 Ringgit** in your wallet
+- **1000 Ringgit** in your bank
 
-### Managing Your Money
+That's enough to rent a few civilian vehicles or buy a basic tier-1 house. See [Economy](/sumaya/economy) for more on money.
 
-- **Wallet:** Access your wallet tool from the toolbar to view your cash on hand. You can also donate SR to other players using the wallet's Sadaqah feature.
-- **ATMs:** Visit any of the five ATM machines located around the city to deposit, withdraw, or transfer money between accounts.
+## Controls
 
-## Starter Tools
+Sumaya uses standard Roblox movement. On PC:
 
-Every player spawns with the following tools in their inventory:
+| Action | Key |
+|--------|-----|
+| Move | W, A, S, D |
+| Sprint | Left Shift (hold) |
+| Jump | Space |
+| Interact with prompt | E (when one appears) |
+| Open phone | Phone button on screen, or tap the icon |
+| Chat | / (slash) to focus the chat bar |
 
-- **Phone:** Access apps and features via the in-game smartphone.
-- **Wallet:** View your cash on hand and donate to other players.
-- **Torchlight:** Illuminate dark areas during the night cycle.
-- **Firecrackers:** Set off festive firecrackers for fun.
-- **Cheese Burger:** Eat to recover hunger on the go.
+On mobile and gamepad, the on-screen buttons and standard Roblox gamepad bindings work as expected.
 
-## Exploring the City
+## Your first five minutes
 
-<!-- TODO: Add screenshot of the city overview or a landmark -->
-<!-- ![City Overview](/images/sumaya/get-started/city-overview.png) -->
+Here's what to do right after you spawn:
 
-Sumaya features a detailed Malaysian-themed city with plenty to discover:
+### 1. Open your phone
 
-- **Mosque:** A prominent landmark in the city centre.
-- **Clock Tower:** A scenic tower visible from across the map.
-- **Train Station:** A transport hub in the city.
-- **Beach:** A waterfront area perfect for relaxing and fishing.
-- **Hospital:** A fully equipped medical facility with beds, MRI, and X-Ray machines.
-- **Chung Hwa Hall & Buildings:** Chinese community buildings reflecting Malaysia's multicultural heritage.
-- **Shoplots & Kedai:** Various commercial areas with shops, stalls, and a drink stall.
-- **Terrace Houses:** Residential areas where you can claim a plot and build your home.
-- **Electrical Substations:** Utility infrastructure scattered around the city.
-- **Street Lights:** Lamp posts that illuminate the roads at night.
+The phone is your main hub. Tap the phone icon on your screen to open it. You'll see apps for careers, quests, emergency calls, settings, and more. See [Phone and UI](/sumaya/phone) for the full list.
 
-The city also features a dynamic **day/night cycle** and a **weather system** with rain effects that bring the world to life.
+Opening the phone also counts as a step for your first quest.
 
-## Basic Controls
+### 2. Check the quest app
 
-- **Movement:** Standard Roblox controls (WASD / thumbstick).
-- **Tools:** Select tools from your inventory toolbar at the bottom of the screen.
-- **Interactions:** Walk up to objects and use the proximity prompts that appear to interact.
-- **Phone:** Click the Phone tool to open your in-game smartphone.
-- **Wallet:** Click the Wallet tool to view your cash balance.
+You're automatically started on the **Welcome to Sumaya** quest chain: 12 quests that teach you the basics and pay out XP and Ringgit as you go. Each quest tells you exactly what to do next.
 
-## Key Things to Do Early On
+Open the **Quest** app on your phone to see your current objective. A red guidance beam and a marker on the minimap will often point you to the right place. See [Quests](/sumaya/quests) for the full chain.
 
-1. **Watch the Tutorial:** The welcome tutorial covers all the basics — don't skip it!
-2. **Explore the City:** Visit the mosque, clock tower, beach, and other landmarks.
-3. **Try Fishing:** Head to the fishing zone to earn your first SR and learn about Malaysian fish.
-4. **Get a Job:** Work at the fast food restaurant for steady income.
-5. **Rent a Vehicle:** Visit the dealership and rent a Protan Wira to get around faster.
-6. **Claim a House:** Find a residential plot and build your first home.
+### 3. Spawn a vehicle
 
-## Next Steps
+Walk up to any **vehicle spawner kiosk** (look for the prompts scattered around town). Pick a car, rent or buy it, and drive off. Most starter civilian vehicles are free to spawn - the fancier ones cost Ringgit.
 
-Dive deeper into Sumaya by reading about [Teams](./teams) and [Features](./features). Whether you choose law enforcement, emergency services, or civilian life — Sumaya has a place for you.
+See [Vehicles](/sumaya/vehicles) for the full list and how the spawner works.
 
-::: tip Stay Updated!
-Check the main menu's **Updates** section regularly for the latest game changes and new features.
-:::
+### 4. Start a civilian job
+
+Walk up to any **career station** (fishing dock, mamak stall, palm plantation) and press the interact prompt to clock in. You'll earn Ringgit and XP while you work. Jobs are described in [Careers overview](/sumaya/jobs).
+
+If you picked an emergency-service team (POLIS, BOMBA, Kesihatan), you don't need to clock in - you're on duty as soon as you spawn.
+
+### 5. Explore
+
+Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the police station, the fire station, the beach, and plenty of neighborhoods. The minimap (top-right of your screen) shows what's around you.
+
+## HUD overview
+
+While you're in the world, you'll see:
+
+- **Minimap** (top-right): shows your position, nearby roads and buildings, waypoints, and a red guidance beam when a task points somewhere. Click to expand.
+- **Task card** (top-left): shows your current objective (active quest step, current fire, patient you're treating, etc.). Tap the chevron to collapse it if it's in the way.
+- **Wallet / bank balance**: visible near the top of your screen.
+
+## Stamina and sprint
+
+The only "stat" that actually affects gameplay is your **stamina**. Sprinting drains it; standing still or walking regenerates it. If you sprint until your stamina hits zero, you'll automatically drop back to walking speed until you recover.
+
+You don't see a stamina bar, but you'll feel the gating if you try to sprint forever. In practice it's generous enough that casual play never runs into it.
+
+Hunger and hygiene decay quietly in the background but have almost no visible effect right now: they don't drag your stats down in any obvious way, and most "water source" and food props in the world are decorative. Your starter **cheese burger** tool does restore hunger if you use it (the only restoration that's actually wired up). Don't worry about these stats in normal play.
+
+## What next?
+
+- Pick a [team](/sumaya/teams) and a [career](/sumaya/jobs).
+- Read up on the [phone and UI](/sumaya/phone) so you know where things are.
+- Check the [quest chain](/sumaya/quests) for a structured walkthrough.
+- When you're ready to earn real money, look at [economy](/sumaya/economy) for where the best-paying jobs are.
