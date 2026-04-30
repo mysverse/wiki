@@ -23,7 +23,20 @@ Once you're on shift, a palm-cutting tool and a collection bucket spawn in your 
 3. The fruit drops; pick it up with your bucket.
 4. Keep going until your shift ends or you've cleared the available trees.
 
-Each harvest adds to your shift's running total. The exact per-harvest payout depends on sector level.
+Each fruit you drop into the bucket pays a flat **20 Ringgit and 6 XP** (player + sector). Earnings accumulate during the shift and pay out on clock-out.
+
+## Tools and bucket upgrades
+
+The agricultural sector ships **four tiers** of sickle and waist bucket. Higher tiers cost SR up front but pay you back through faster cuts and longer harvest runs before you have to drop off:
+
+| Tier | Sickle hold time | Bucket capacity | Sector level | Sickle price | Bucket price |
+|------|-----------------|-----------------|--------------|--------------|--------------|
+| 1 | 12 s | 10 fruits | 1 | Free | Free |
+| 2 | 10 s | 30 fruits | 20 | 4,000 SR | 2,000 SR |
+| 3 | 7 s | 60 fruits | 40 | 5,000 SR | 2,500 SR |
+| 4 | 5 s | 100 fruits | 60 | 8,000 SR | 100 SR (likely a balance bug — might be raised in a future patch) |
+
+A tier-4 bucket holds an entire bunch (up to 100 fruits per palm), so a fully-equipped sector-60 player can clear one tree without ever walking back to a collection point.
 
 ## End of shift
 
@@ -39,15 +52,15 @@ Because everything is banked at end-of-shift, if you die or accidentally end the
 
 ## Leveling up
 
-The agricultural sector maxes out at **level 25** - lower than fishing (100) or service (100). That makes it the shortest ladder to top out, if you're a completionist.
+The agricultural sector now caps at **level 100**, the same as every other civilian and emergency-service sector. (It used to top out at 25 — the long-form ladder rolled out late 2025.)
 
-Per-harvest XP scales with your sector level (like the service sector). Early levels are slow; later levels pay more per cut.
+Per-harvest XP is **flat at 6 XP per fruit** regardless of your sector level. The XP curve gets longer with each level (level N requires 100 × N XP), so the perceived "early levels are fast, later levels slower" feeling comes from the bar widening, not from the per-action reward changing. The tier 2/3/4 sickle and bucket upgrades are the real way later levels become more efficient — faster cuts and bigger bucket = more fruits per minute.
 
 ## Tips
 
 - **Bucket fills up.** Keep an eye on your bucket capacity - once full, you may need to unload before continuing. (Depending on map setup, unloading happens at a collection point.)
 - **End-of-shift is important.** Always clock out before logging off - if you disconnect mid-shift, your pending earnings might be lost.
-- **Palm is the fastest to max.** If you like completing things, 25 levels vs 100 is much less of a grind.
+- **Long-form grind.** Now that Agro caps at 100, plan for the long haul — early-level XP is small, so the bonus 50 XP per shift compounds nicely if you stack it with the Kesihatan +15% boost.
 - **The 50 XP end-shift bonus is player-XP only.** It goes to your global account, not the agricultural sector. Factor that in when planning shifts.
 - **Stack with the Kesihatan XP boost.** If Kesihatan's injury system is active, the 50 XP end-shift bonus becomes 57.5 XP (+15%).
 

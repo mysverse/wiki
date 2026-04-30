@@ -99,7 +99,7 @@ A vehicle that has already paid a specific gate won't be double-charged on the w
 
 ---
 
-# The CAG (Click And Go) card
+## The CAG (Click And Go) card
 
 The **CAG card** is Bandaraya's stored-value transit card — modelled on Malaysia's real-life Touch n Go. Load it up once, tap automatically across buses, MRT, Monorail, and highway gates.
 

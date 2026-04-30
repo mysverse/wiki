@@ -126,7 +126,7 @@ If you complete the entire chain:
 - **5,750 XP** in player-level experience (3,750 from individual quests + 2,000 finale bonus).
 - **4,400 Ringgit** to your bank account (2,900 from individual quests + 1,500 finale bonus).
 
-That's enough XP to push past player level 10, and enough Ringgit to buy a Tier 3 house, a mid-range trawler, or most civilian vehicles outright.
+That's enough XP to push past player level 10. The Ringgit isn't enough for a house yet (Tier 1 is 25,000 SR), but it covers a Premium civilian car like the **Protan X50** at 10,000 SR with change to spare, or makes a serious dent in the **Tier 2 Trawler** if you go fishing next.
 
 ## Viewing quest progress
 

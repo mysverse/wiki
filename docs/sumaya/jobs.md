@@ -28,7 +28,7 @@ There are three **civilian sectors** you can pick from the start:
 |--------|-------------|-----------|-------------------|
 | Fishing | Rod on the pier or trawl on a boat | 100 | None |
 | Service (Mamak / Fast Food) | Serve food, take orders | 100 | Reach sector level 50 in fishing or agro |
-| Agriculture (palm oil) | Harvest palm fruit bunches | 25 | None (available immediately) |
+| Agriculture (palm oil) | Harvest palm fruit bunches | 100 | None (available immediately) |
 
 The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown in the civilian careers app - you join them by picking the matching team from the main menu. See [Emergency Services overview](/sumaya/emergency-services).
 
@@ -61,7 +61,7 @@ Every action pays you two things:
 1. **Player XP** - levels up your global account. Max player level is 300.
 2. **Sector XP** - levels up the specific sector you're working in.
 
-Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fishing pays 15 XP per species - player XP only, no sector XP). Service sector pays per order and scales by level. Palm oil banks your earnings and pays a 50 XP bonus at the end of the shift.
+Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fishing pays 15 XP per species - player XP only, no sector XP). Service sector pays a flat 6 XP per customer (no level scaling) plus a 10 XP shift-end bonus. Palm oil banks your earnings and pays a 50 XP bonus at the end of the shift.
 
 See each sector page for the numbers, and [Progression](/sumaya/progression) for how XP converts to levels.
 

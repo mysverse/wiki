@@ -4,8 +4,8 @@ description: >-
   Pengangkutan awam di Bandaraya — MRT, LRT, monorel, bas, kad CAG, e-hailing,
   dan tol TapNGo.
 lang: ms
-translated_from_hash: 10776c0a
-translated_on: '2026-04-21'
+translated_from_hash: a5dce02d
+translated_on: '2026-04-30'
 needs_review: true
 ---
 # Pengangkutan Awam di Bandaraya — Panduan
@@ -104,7 +104,7 @@ Kenderaan yang telah membayar di pintu tertentu tidak akan dicaj dua kali ketika
 
 ---
 
-# Kad CAG (Click And Go)
+## Kad CAG (Click And Go)
 
 **Kad CAG** ialah kad pengangkutan nilai tersimpan di Bandaraya — dimodelkan berdasarkan Touch n Go sebenar di Malaysia. Tambah nilai sekali, tap secara automatik di bas, MRT, Monorail, dan pintu tol lebuh raya.
 

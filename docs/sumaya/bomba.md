@@ -18,10 +18,19 @@ Head to the fire station for vehicles, or wait for a fire alert to pop up on you
 Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
 
 - A large alert appears on your minimap and in your task card.
-- The fire is made of many individual **fire blocks**, each of which needs to be put out.
+- The fire is made of many individual **fire blocks** (anywhere from 3 to 6 per incident), each of which needs to be put out.
 - The red guidance beam points you to the incident.
 
 Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
+
+### Incident variety
+
+Sumaya currently rotates between **nine fire templates**, each pre-built with its own location and block layout:
+
+- **3 Car Crashes** — Outside Police Station, Outside Hazbank, Near MFC.
+- **6 Building Fires** — Jalan Padas Dua (two variants), Kedai Emas Tai Loi, Perbankan Elektronik, Old KKN Clinic, Radtrol Jalan Kepala Ikan.
+
+The server picks one at random per incident. The card on your task HUD shows the **IncidentType** ("Car Crash" or "Building Fire") and the **Location** name so you know what you're rolling up to before you arrive. The MDT app picks the same data up automatically — dispatchers see the human location string, not just a coordinate.
 
 ## Putting out fires
 
@@ -53,7 +62,7 @@ Plus milestone bonuses:
 
 - **+150 Ringgit** bonus every **15 blocks** you extinguish.
 
-**Other EMS** (Polis or Kesihatan) who help out on a fire get **10 XP per block** but no Ringgit reward. They're rewarded for showing up, but the firefighting bread-and-butter is yours.
+**Kesihatan players** who stand near an active fire (within 512 studs) get **10 player-level XP per block extinguished** but no Ringgit reward and no Kesihatan sector XP - just player XP. Polis doesn't benefit from this because the filter only matches `JobType == "EMS"` (Polis is `JobType = "Law"`). So there's a built-in incentive for medics to follow fires.
 
 Rewards only count when you're within **512 studs** of the fire block when it's extinguished - so stick with the incident, don't wander off.
 

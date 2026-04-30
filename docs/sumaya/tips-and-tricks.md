@@ -119,7 +119,7 @@ Traumatic Brain Injury treatment requires the patient to lie on a medical bed fo
 
 ### 70% refund on sale
 
-You can sell your house for **70% of what you paid**. So the effective "cost of trying" a Tier 3 Modern Terrace (1,200 SR) is 360 SR - the 30% the game keeps. Not cheap, but not ruinous.
+You can sell your house for **70% of what you paid**. So the effective "cost of trying" a Tier 3 Modern Terrace (35,000 SR) is 10,500 SR — the 30% the game keeps. Real money, but recoverable if you commit to grinding it back.
 
 ### One plot at a time
 

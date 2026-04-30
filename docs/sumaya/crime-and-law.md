@@ -83,7 +83,7 @@ Steal Ringgit directly from another player's wallet.
 
 You can also pickpocket **civilian NPCs** that walk around the map:
 
-- Up to 5 NPCs are out at a time.
+- Up to 10 NPCs are out at a time.
 - Each carries between 50 and 200 Ringgit.
 - NPCs respawn 2 minutes after they're pickpocketed.
 
@@ -183,6 +183,33 @@ If you log out while wanted, you'll serve **more** jail time on your next sessio
 | 5 | 6 minutes |
 
 (LTAA = "Leave To Avoid Arrest".) Quitting doesn't save you.
+
+### Combat timer (engagement window)
+
+The moment a POLIS officer **tases** you or **detains** you, you enter a **30-second combat window**. While the timer is ticking:
+
+- A red **"ENGAGED — CANNOT RESET"** banner appears at the top of your screen with the seconds counting down.
+- The **Reset** button is locked. Tapping Reset shows a "Cannot Reset" toast and does nothing.
+- The **main menu / team-switch** is locked, even if you're below the wanted-star threshold for the regular `Wanted` lock.
+- Each new tase/detain **refreshes** the timer (does not stack).
+
+**Dying or leaving during this window** routes you to a **combat-evasion jail** that's *double* the regular LTAA duration — strictly worse than serving out a clean arrest:
+
+| Stars | Combat-evasion jail | (vs. regular LTAA) |
+|-------|---------------------|--------------------|
+| 1 | 60 seconds | 45 s |
+| 2 | 2 minutes | 90 s |
+| 3 | 4 minutes | 150 s |
+| 4 | 6 minutes | 4 min |
+| 5 | 10 minutes | 6 min |
+
+If you were detained at the time of death/leave, an additional **+30 seconds** is tacked on. The engaging officer (if still online when you respawn / rejoin) gets the full star-scaled XP and SR as if they had cleanly arrested you.
+
+**Translation:** if a cop has tased you, the cleanest play is to surrender or take the arrest. Resetting / Alt-F4 will cost you more time, not less.
+
+### Reset cooldown (out of combat)
+
+Even when you're *not* in combat, pressing the Reset button no longer instantly kills you. A 12-second cooldown modal appears with a Cancel button, then your character is reloaded cleanly (no death animation, no dropped tools, no respawn screen). Useful for recovering from a stuck character without losing held items. The cooldown is auto-cancelled if you get tased, arrested, or leave the game mid-countdown.
 
 ## Tips
 

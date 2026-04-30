@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வில் பொதுப் போக்குவரத்து — MRT, LRT, மோனோரயில், பேருந்துகள், CAG
   கார்டு, இ-ஹெயிலிங், மற்றும் TapNGo டோல்கள்.
 lang: ta
-translated_from_hash: 10776c0a
-translated_on: '2026-04-21'
+translated_from_hash: a5dce02d
+translated_on: '2026-04-30'
 needs_review: true
 ---
 # Bandaraya-வில் பயணிக்க — பொதுப் போக்குவரத்து வழிகாட்டி
@@ -104,7 +104,7 @@ needs_review: true
 
 ---
 
-# CAG (Click And Go) கார்டு
+## CAG (Click And Go) கார்டு
 
 **CAG கார்டு** என்பது Bandaraya-வின் சேமிப்பு-மதிப்பு போக்குவரத்து கார்டு — மலேசியாவின் நிஜ-வாழ்க்கை Touch n Go-வை மாதிரியாகக் கொண்டது. ஒருமுறை லோடு செய்யுங்கள், பேருந்துகள், MRT, மோனோரயில், மற்றும் நெடுஞ்சாலை கேட்கள் முழுவதும் தானாகவே டேப் செய்யுங்கள்.
 

@@ -152,13 +152,25 @@ If a wanted player logs out mid-offence, they're hit with a **worse** jail time 
 
 So no, quitting doesn't save you.
 
+### Combat timer (engagement window)
+
+A **30-second combat window** opens on a suspect the moment your **taser** lands a hit or your **detain** succeeds. While the timer is live:
+
+- Their **Reset** button is locked, and main menu / team-switch is locked even sub-1-star.
+- If they die from any cause (fall, crash, suicide-script `Health=0`, you tasing them too many times) — combat-evasion jail kicks in.
+- If they leave the game — combat-evasion jail is queued for their next session.
+
+Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1–5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Engager-offline edge case: credit is forfeit, so stay online if you want the payout.
+
+In practice this means: once you tase a suspect, you've already locked in the credit. Even if they sprint into traffic and die, your patrol still scores it.
+
 ## Speed traps and radar
 
 Sumaya has **two separate speeding systems** — automatic zones and your manual radar gun.
 
 ### Speed trap zones (auto)
 
-There are **2 speed trap zones** in the world, each with a posted limit of **50 studs/s**. If any vehicle (player or NPC) drives through a zone above the limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
+There are **3 speed trap zones** in the world, each with a posted limit of **50 studs/s**. If any vehicle (player or NPC) drives through a zone above the limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
 
 Zones recycle per driver on a 30-second cooldown, so someone speeding through repeatedly will accumulate tickets fast.
 
@@ -230,7 +242,7 @@ If you have your Polis vehicle's **siren active**, you can't be cited for speedi
 - **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
 - **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
 - **Don't become wanted yourself.** Committing a crime as POLIS was intended to auto-demote you off the team, but that listener isn't wired in the current build - you stay on POLIS. Don't rely on the game to swap you back to civilian; leave the team first if you want to play criminal. (Practically: POLIS is barred from passive mode anyway, so committing crimes on-duty is extremely risky.)
-- **Help Bomba for cheap XP.** POLIS who stand near an active fire (within 512 studs) get **10 XP per fire block** extinguished, without needing to do anything. Worth hanging around.
+- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents - the game checks `JobType == "EMS"`, and POLIS has `JobType = "Law"`. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
 
 ## What next?
 

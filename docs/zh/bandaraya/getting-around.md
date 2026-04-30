@@ -2,8 +2,8 @@
 title: Bandaraya 公共交通指南
 description: Bandaraya 的公共交通 — MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。
 lang: zh
-translated_from_hash: 10776c0a
-translated_on: '2026-04-21'
+translated_from_hash: a5dce02d
+translated_on: '2026-04-30'
 needs_review: true
 ---
 # Bandaraya 公共交通指南
@@ -102,7 +102,7 @@ needs_review: true
 
 ---
 
-# CAG(Click And Go)卡
+## CAG(Click And Go)卡
 
 **CAG 卡** 是 Bandaraya 的储值交通卡 — 以马来西亚现实中的 Touch n Go 为蓝本。充值一次,在巴士、MRT、Monorail 和高速公路闸口自动感应使用。
 

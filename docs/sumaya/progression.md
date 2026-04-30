@@ -20,9 +20,7 @@ Sumaya has a **two-tier XP system**: every action you take earns **player XP** (
 ### Sector level
 
 - Per-career level, independent for each sector you work in.
-- Ranges depend on sector:
-  - **Bomba, Kesihatan, Polis, Fishing, Service**: 1 to 100.
-  - **Agriculture (palm oil)**: 1 to 25.
+- Every sector now ranges from **1 to 100** (Bomba, Kesihatan, Polis, Fishing, Service, and Agriculture/palm oil all share the same long-form ladder).
 - Your sector level drives your **rank** (title) within that sector.
 - Higher sector level unlocks team-specific vehicles (e.g. Sanica Tanker at Bomba sector 65).
 
@@ -42,7 +40,7 @@ Here's how much XP different actions give. Both player XP and sector XP, unless 
 |--------|------------------------|
 | Rod fishing (per sold fish, 5 species) | 15 XP to player only — does NOT advance fishing sector |
 | Trawl fishing (per pulled fish) | 2 XP to both player and fishing sector |
-| Complete a mamak / fast food order | ~5 XP at level 1, grows with 1.1x multiplier |
+| Complete a mamak / fast food order | Flat **6 XP** per customer + **10 XP shift-end bonus** if minimum served. No level scaling. |
 | Palm harvest | ~5 XP at level 1, grows with sector level |
 | Palm oil end-of-shift bonus (player XP only) | 50 XP |
 
@@ -223,8 +221,8 @@ Want to level fast? Here are rough tactics:
 ### Multi-sector strategy
 
 - Everything you earn in a sector levels your player account in parallel.
-- Maxing Agro (25 levels) is the shortest ladder - good for a "first max" achievement.
-- Fishing is the most passive - level it while you do other things.
+- Every sector now caps at level 100 — there is no longer a "shortest ladder" sector. Pick whichever pacing matches what you enjoy doing.
+- Fishing is the most passive — level it while you do other things.
 
 ## Excess XP carry-over
 

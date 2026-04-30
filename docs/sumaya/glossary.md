@@ -18,6 +18,11 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Kesihatan** | Health / medical. | The medical / paramedic emergency-service team. |
 | **Polis** | Police. | The law-enforcement emergency-service team. Abbreviated POLIS. |
 | **Jom** | "Let's go" (informal). | The button to enter the world from the main menu. |
+| **Jelajah** | "Explore" / "journey". | The phone discovery-journal app — tracks landmarks (POIs) you've found vs. ones still locked. |
+| **Ditemui** | "Found" / "discovered". | Used in the Jelajah app's progress pill (`<n> / <total> ditemui`). |
+| **Baca Maklumat** | "Read information". | CTA button on a discovered Jelajah POI's detail screen — re-opens the landmark's infographic. |
+| **Belum** | "Not yet". | Filter pill in Jelajah for landmarks you haven't discovered yet. |
+| **Semua** | "All". | Filter pill in Jelajah for the full POI list. |
 | **Daerah** | District / region. | Regions of Sumaya's map. |
 | **Mamak** | Indian-Muslim restaurant, a Malaysian institution. | One of the two service-sector venues (the other being fast food). |
 | **Kedai** | Shop / store. | Generic shop signage. |
@@ -111,6 +116,11 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **TBI** | Traumatic Brain Injury - the most serious injury type, requiring bed rest. |
 | **Drop-off zone** | Location where a carjacker delivers a stolen vehicle to sell, or where animal traffickers deliver their illegal goods. |
 | **Nearby officer bonus** | 50% of an arrest's reward given to any POLIS player within 50 studs of the arresting officer. |
+| **Combat timer / "ENGAGED"** | The 30-second engagement window that opens on a suspect when a taser hits or a detain succeeds. While it's running, Reset and main-menu / team-switch are locked, and dying or leaving the game routes to a doubled-duration **combat-evasion jail**. The arresting officer keeps the credit either way. See [Crime and Law](/sumaya/crime-and-law). |
+| **Reset cooldown / "Respawning..."** | The 12-second cancellable countdown that runs when you press Reset out of combat. Reloads the character cleanly (no death, no dropped tools). Auto-cancels if you get tased, arrested, or leave the game. |
+| **Citizen level** | Your global player level, shown on the top-right Status widget as `Citizen <N>`. Distinct from sector levels (which are per-career). |
+| **Status widget** | The two-row top-right HUD panel showing Citizen level + active sector. Hidden by tapping the Status icon in the topbar. |
+| **TopBar icons** | The small Map / Tasks / Status / Open Menu icons at the top-centre of the screen. Tap to toggle each HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying. |
 
 ## Abbreviations commonly seen
 
@@ -126,5 +136,5 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 
 ## What next?
 
-- [Getting Started](/) if you're new.
-- Any of the specific sections (see the [README](/) for the full TOC).
+- [Get started](/sumaya/get-started) if you're new.
+- Any of the specific sections — use the sidebar for the full table of contents.

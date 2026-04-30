@@ -7,8 +7,6 @@ description: "Start playing Sumaya — main menu, team pick, controls, and the f
 
 Your first few minutes in Sumaya. This page covers the main menu, team selection, controls, and the first things you should do once you're in the world.
 
-![Sumaya](/images/sumaya/sumaya_feature.webp)
-
 ## The main menu
 
 When you join Sumaya, you'll see a main menu screen before you spawn. From here you pick a **team**, which decides what role you play - a regular civilian, a cop, a firefighter, or a paramedic. The team you pick affects the tools you start with and the jobs you can do.
@@ -94,7 +92,9 @@ Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the p
 While you're in the world, you'll see:
 
 - **Minimap** (top-right): shows your position, nearby roads and buildings, waypoints, and a red guidance beam when a task points somewhere. Click to expand.
+- **Status widget** (top-right, below the minimap): your **Citizen level** with a progress bar, plus a second row showing your active sector (rank for emergency services, level / max for civilian shifts).
 - **Task card** (top-left): shows your current objective (active quest step, current fire, patient you're treating, etc.). Tap the chevron to collapse it if it's in the way.
+- **TopBar icons** (top-centre): small Map / Tasks / Status / Open Menu icons. Tap any to hide that HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying.
 - **Wallet / bank balance**: visible near the top of your screen.
 
 ## Sprint

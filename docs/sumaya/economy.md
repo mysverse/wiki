@@ -14,7 +14,7 @@ Every new player begins with:
 - **100 Ringgit** in the **wallet**.
 - **1,000 Ringgit** in the **bank**.
 
-That's enough to rent some starter vehicles, buy a Tier 1 house (200 SR), and grab a few shop items. Spend wisely at first.
+That's enough to rent some starter vehicles and grab a few shop items. Houses are out of reach at the start (Tier 1 is **25,000 SR** — see [Housing](/sumaya/housing)) — plan to grind a couple of careers first.
 
 ## Wallet vs bank
 
@@ -66,7 +66,7 @@ Per-action payouts. Totals depend on how long you work.
 | Trawl fishing (per fish) | 0.5 SR, paid as end-of-shift paycheck |
 | Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
 | Fast Food (per customer) | 25 SR to bank, +150 every 10, -20 wrong-order |
-| Palm oil (per harvest) | Banked at end-of-shift, level-scaled |
+| Palm oil (per fruit dropped) | Flat 20 SR, banked at end-of-shift; tier 2-4 buckets/sickles speed up the rate, not the per-fruit pay |
 | Bomba (per fire block) | 15 SR to wallet |
 | Bomba (milestone every 15 blocks) | +150 SR bonus |
 | Kesihatan (bandage) | 100 SR to wallet |
@@ -104,7 +104,7 @@ Roughly, from highest per-hour to lowest, assuming you stay busy:
 5. **Kesihatan splints** - 200 SR per splint + milestone bonus.
 6. **Pickpocket NPCs** - 50-200 SR per pick, low risk, steady.
 7. **Palm oil shifts** - steady, level-dependent, end-of-shift banking.
-8. **Service sector orders** - steady, scales with level.
+8. **Service sector orders** - steady; per-customer pay is flat (Mamak 30 SR / FastFood 25 SR) and does NOT scale with sector level. Higher levels just unlock cosmetic ranks.
 9. **Rod fishing** - quick SR, player XP only, best for casual play.
 10. **Trawl fishing** - slower SR but the only way to level the fishing sector.
 
@@ -124,10 +124,10 @@ See [Vehicles](/sumaya/vehicles).
 ### Housing
 
 - **Plot**: free (one per player).
-- **Tier 1 house** (Small Bornean): 200 Ringgit.
-- **Tier 2 house**: 500-700 Ringgit.
-- **Tier 3 house** (Modern Terrace): 1,200 Ringgit.
-- **Furniture**: per-item prices, typically 50-500 Ringgit each.
+- **Tier 1 house** (Small Bornean): 25,000 Ringgit.
+- **Tier 2 house** (Spacious / Compact Bornean): 29,000 / 32,000 Ringgit.
+- **Tier 3 house** (Modern Terrace, two cosmetic variants): 35,000 Ringgit.
+- **Furniture**: per-item prices stored on each model's `Price` attribute — varies widely.
 
 See [Housing](/sumaya/housing).
 
@@ -136,7 +136,7 @@ See [Housing](/sumaya/housing).
 Prices vary widely. A rough range:
 
 - **Food items** from food stalls: 1-5 SR (cosmetic / roleplay tools, don't actually restore hunger in the current build).
-- **Gas cans** for boats: 75-125 SR. Red adds +25 fuel (75 SR), Green adds +50 fuel (100 SR), Black adds +75 fuel (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** - trying to top off an already-high boat does nothing and doesn't consume the can.
+- **Gas cans** for boats: 75-125 SR. Red replenishes 25% of the tank (75 SR), Green 50% (100 SR), Black **100% — full refuel** (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** — trying to top off an already-high boat does nothing and doesn't consume the can.
 - **Tools** (Slim Jim, Pickpocket Knife, etc.): 50-500 SR.
 - **Cosmetic items**: variable.
 
@@ -157,7 +157,7 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 - **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
 - **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
 - **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Don't spend every Ringgit on cars when a nice tier-3 house is only 1,200 SR away.
+- **Save before you buy.** Houses are now five-digit purchases (25,000–35,000 SR) — plan a multi-shift grind, not an impulse.
 - **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
 - **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
 - **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.

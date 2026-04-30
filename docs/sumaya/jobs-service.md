@@ -34,14 +34,14 @@ The pace is steady - customers arrive regularly, and each completed order pays X
 
 Payments go into your **bank account** (not wallet) under "Mamak Sdn. Bhd." or the equivalent Fast Food paycheck when you clock out or complete customers.
 
-| Venue | Per customer | Bonus (every 10 customers) | Wrong-order penalty |
-|-------|--------------|----------------------------|---------------------|
-| Mamak | 30 Ringgit | +180 Ringgit | -25 Ringgit |
-| Fast Food | 25 Ringgit | +150 Ringgit | -20 Ringgit |
+| Venue | Per customer (Ringgit) | Bonus every 10 customers | Wrong-order penalty |
+|-------|------------------------|--------------------------|---------------------|
+| Mamak | 30 | +180 | -25 |
+| Fast Food | 25 | +150 | -20 |
 
 Mamak pays slightly better per customer, but both venues are roughly equivalent over a shift since customer flow tends to be similar. If your final total ever goes below zero (too many penalties), it's floored at 0 - you won't actually owe the game money.
 
-Action XP scales with your **sector level** (base ~5 XP per task at level 1, growing via a 1.1x per-level multiplier - so late-game service workers earn several times more XP per customer than starters).
+XP is flat: **6 XP per customer** (both sector and player level), plus a **+10 XP shift-end bonus** if you served above the minimum customer count during your shift. XP does NOT scale with sector level - high-level service workers earn the same 6 XP per customer as a new starter.
 
 Tips:
 
@@ -51,7 +51,7 @@ Tips:
 
 ## Leveling up
 
-The service sector goes up to **level 100**, same as the other civilian sectors. The per-level XP multiplier means later levels progress more per task than early levels.
+The service sector goes up to **level 100**, same as the other civilian sectors. Per-customer XP stays flat at 6 regardless of your level — the grind is steady, not accelerating, so plan your shifts around how many customers you can serve, not how high you've levelled.
 
 ## Clocking out
 

@@ -4,114 +4,115 @@ description: >-
   Mula bermain Sumaya — menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: 598750d0
-translated_on: '2026-04-21'
+translated_from_hash: fc7468fd
+translated_on: '2026-04-30'
 needs_review: true
 ---
+
+
 # Mula
 
-Beberapa minit pertama anda di Sumaya. Halaman ini meliputi menu utama, pemilihan pasukan, kawalan, dan perkara pertama yang patut anda lakukan sebaik sahaja berada di dalam dunia.
-
-![Sumaya](/images/sumaya/sumaya_feature.webp)
+Beberapa minit pertama anda dalam Sumaya. Halaman ini merangkumi menu utama, pemilihan pasukan, kawalan, dan perkara pertama yang anda perlu lakukan setelah berada di dunia permainan.
 
 ## Menu utama
 
-Apabila anda menyertai Sumaya, anda akan melihat skrin menu utama sebelum anda muncul. Dari sini anda memilih **pasukan**, yang menentukan peranan yang anda mainkan - orang awam biasa, polis, ahli bomba, atau paramedik. Pasukan yang anda pilih mempengaruhi alatan yang anda miliki pada permulaan dan kerja yang boleh anda lakukan.
+Apabila anda menyertai Sumaya, anda akan melihat skrin menu utama sebelum anda spawn. Dari sini anda memilih satu **pasukan**, yang menentukan peranan yang anda mainkan - orang awam biasa, polis, ahli bomba, atau paramedik. Pasukan yang anda pilih mempengaruhi alat yang anda mulakan dan pekerjaan yang boleh anda lakukan.
 
-Anda boleh menukar pasukan kemudian. Tiada apa-apa tentang pilihan pertama yang kekal. Pilih sahaja apa-apa yang kedengaran menyeronokkan.
+Anda boleh menukar pasukan kemudian. Tiada apa-apa tentang pemilihan pertama yang kekal. Pilih sahaja apa-apa yang kelihatan menarik.
 
-Apabila anda sudah bersedia, tekan **Jom** ("let's go" dalam bahasa Melayu) untuk masuk ke dalam dunia.
+Apabila anda bersedia, tekan **Jom** ("let's go" dalam Bahasa Melayu) untuk memasuki dunia permainan.
 
 ## Memilih pasukan
 
-Terdapat lima pasukan. Tiga daripadanya (POLIS, BOMBA, Kesihatan) adalah perkhidmatan kecemasan dengan tugas tertentu. Dua lagi (Visitors dan Malaysians) membolehkan anda bermain sebagai orang biasa.
+Terdapat lima pasukan. Tiga daripadanya (POLIS, BOMBA, Kesihatan) adalah perkhidmatan kecemasan dengan tugas khusus. Dua lagi (Visitors dan Malaysians) membolehkan anda bermain sebagai orang biasa.
 
-| Pasukan | Apa yang mereka buat | Sesiapa boleh sertai? |
+| Pasukan | Apa yang mereka lakukan | Sesiapa boleh sertai? |
 |------|--------------|------------------|
 | Visitors | Orang awam biasa, pilihan lalai | Ya |
 | Malaysians | Orang awam biasa, pasukan kosmetik untuk ahli kumpulan yang disahkan | Hanya ahli kumpulan MYSverse pada Rank 3+ |
-| POLIS | Polis: tahan penjenayah, buat rondaan, kuatkuasakan had laju | Ya |
-| BOMBA | Pasukan bomba: padam kebakaran, jalankan penyelamatan | Ya |
-| Kesihatan | Perubatan: rawat kecederaan, kendalikan hospital | Ya |
+| POLIS | Polis: tangkap penjenayah, meronda, kuatkuasakan had laju | Ya |
+| BOMBA | Pasukan bomba: padamkan kebakaran, jalankan operasi menyelamat | Ya |
+| Kesihatan | Perubatan: rawat kecederaan, jalankan hospital | Ya |
 
-Lihat [Teams](/sumaya/teams) untuk maklumat lanjut tentang setiap satu, termasuk alatan yang anda miliki pada permulaan.
+Lihat [Pasukan](/sumaya/teams) untuk maklumat lebih lanjut tentang setiap satu, termasuk alat yang anda mulakan.
 
-**Tak pasti nak pilih yang mana?** Mulakan sebagai **Visitors**. Anda boleh cuba kerja awam (memancing, mamak, minyak sawit) dengan segera, dan anda boleh bertukar ke pasukan perkhidmatan kecemasan kemudian setelah anda berpeluang meninjau keadaan.
+**Tidak pasti mana satu hendak dipilih?** Mulakan sebagai **Visitors**. Anda boleh mencuba pekerjaan awam (memancing, mamak, minyak sawit) dengan segera, dan anda boleh beralih kepada pasukan perkhidmatan kecemasan kemudian setelah anda meninjau sekeliling.
 
 ## Wang permulaan anda
 
-Setiap pemain baru bermula dengan:
+Setiap pemain baharu bermula dengan:
 
 - **100 Ringgit** dalam dompet anda
 - **1000 Ringgit** dalam bank anda
 
-Itu cukup untuk menyewa beberapa kenderaan awam atau membeli rumah tier-1 asas. Lihat [Economy](/sumaya/economy) untuk maklumat lanjut tentang wang.
+Itu sudah memadai untuk menyewa beberapa kenderaan awam atau membeli rumah asas tier-1. Lihat [Ekonomi](/sumaya/economy) untuk maklumat lanjut tentang wang.
 
 ## Kawalan
 
-Sumaya menggunakan pergerakan Roblox standard. Di PC:
+Sumaya menggunakan pergerakan Roblox standard. Pada PC:
 
 | Tindakan | Kekunci |
 |--------|-----|
 | Bergerak | W, A, S, D |
-| Sprint | Left Shift (tahan) |
+| Berlari pantas | Left Shift (tahan) |
 | Lompat | Space |
 | Berinteraksi dengan prompt | E (apabila satu muncul) |
 | Buka telefon | Butang telefon pada skrin, atau ketik ikon |
-| Bersembang | / (slash) untuk fokus pada bar sembang |
+| Sembang | / (slash) untuk fokus pada bar sembang |
 
-
-Pada mudah alih dan gamepad, butang pada skrin dan pengikatan gamepad Roblox standard berfungsi seperti yang diharapkan.
+Pada mudah alih dan gamepad, butang pada skrin dan pengikatan gamepad Roblox standard berfungsi seperti yang dijangkakan.
 
 ## Lima minit pertama anda
 
-Inilah yang perlu anda lakukan sebaik sahaja muncul:
+Berikut ialah perkara yang perlu dilakukan sebaik sahaja anda spawn:
 
 ### 1. Buka telefon anda
 
-Telefon ialah hab utama anda. Ketik ikon telefon pada skrin anda untuk membukanya. Anda akan melihat aplikasi untuk kerjaya, quest, panggilan kecemasan, tetapan, dan banyak lagi. Lihat [Phone and UI](/sumaya/phone) untuk senarai penuh.
+Telefon ialah hab utama anda. Ketik ikon telefon pada skrin anda untuk membukanya. Anda akan melihat aplikasi untuk kerjaya, kuest, panggilan kecemasan, tetapan, dan banyak lagi. Lihat [Telefon dan UI](/sumaya/phone) untuk senarai lengkap.
 
-Membuka telefon juga dikira sebagai satu langkah untuk quest pertama anda.
+Membuka telefon juga dikira sebagai langkah untuk kuest pertama anda.
 
-### 2. Semak aplikasi quest
+### 2. Semak aplikasi kuest
 
-Anda dimulakan secara automatik pada rantaian quest **Welcome to Sumaya**: 12 quest yang mengajar anda asas dan membayar XP dan Ringgit semasa anda maju. Setiap quest memberitahu anda dengan tepat apa yang perlu dilakukan seterusnya.
+Anda dimulakan secara automatik pada rantaian kuest **Welcome to Sumaya**: 12 kuest yang mengajar anda asas-asas dan membayar XP serta Ringgit semasa anda meneruskan. Setiap kuest memberitahu anda dengan tepat apa yang perlu dilakukan seterusnya.
 
-Buka aplikasi **Quest** pada telefon anda untuk melihat objektif semasa anda. Alur panduan merah dan penanda pada minimap sering menunjukkan anda ke tempat yang betul. Lihat [Quests](/sumaya/quests) untuk rantaian penuh.
+Buka aplikasi **Quest** pada telefon anda untuk melihat objektif semasa anda. Pancaran panduan merah dan penanda pada minimap selalunya akan menunjukkan anda ke tempat yang betul. Lihat [Kuest](/sumaya/quests) untuk rantaian lengkap.
 
-### 3. Muncul kenderaan
+### 3. Spawn kenderaan
 
-Berjalan menuju mana-mana **kiosk spawner kenderaan** (cari prompt yang tersebar di sekitar bandar). Pilih sebuah kereta, sewa atau beli, dan pandu pergi. Kebanyakan kenderaan awam permulaan percuma untuk dimunculkan - yang lebih mewah memerlukan Ringgit.
+Berjalan ke mana-mana **kios spawner kenderaan** (cari prompt yang bertaburan di sekitar bandar). Pilih kereta, sewa atau beli, dan pandu pergi. Kebanyakan kenderaan awam permulaan adalah percuma untuk spawn - yang lebih mewah memerlukan Ringgit.
 
-Lihat [Vehicles](/sumaya/vehicles) untuk senarai penuh dan cara spawner berfungsi.
+Lihat [Kenderaan](/sumaya/vehicles) untuk senarai lengkap dan cara spawner berfungsi.
 
-### 4. Mulakan kerja awam
+### 4. Mulakan pekerjaan awam
 
-Berjalan menuju mana-mana **stesen kerjaya** (jeti memancing, gerai mamak, ladang sawit) dan tekan prompt interaksi untuk mendaftar masuk. Anda akan memperoleh Ringgit dan XP semasa anda bekerja. Kerja diterangkan dalam [Careers overview](/sumaya/jobs).
+Berjalan ke mana-mana **stesen kerjaya** (jeti memancing, gerai mamak, ladang sawit) dan tekan prompt interaksi untuk mendaftar masuk. Anda akan memperoleh Ringgit dan XP semasa anda bekerja. Pekerjaan diterangkan dalam [Gambaran keseluruhan kerjaya](/sumaya/jobs).
 
-Jika anda memilih pasukan perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan), anda tidak perlu mendaftar masuk - anda bertugas sebaik sahaja muncul.
+Jika anda memilih pasukan perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan), anda tidak perlu mendaftar masuk - anda bertugas sebaik sahaja anda spawn.
 
-### 5. Meneroka
+### 5. Terokai
 
-Berjalan, memandu, atau terbang di sekeliling. Ada peta, mercu tanda, kedai, hospital, balai polis, balai bomba, pantai, dan banyak kawasan kejiranan. Minimap (kanan atas skrin anda) menunjukkan apa yang ada di sekeliling anda.
+Berjalan, memandu, atau terbang sekeliling. Terdapat peta, mercu tanda, kedai, hospital, balai polis, balai bomba, pantai, dan banyak kawasan kejiranan. Minimap (kanan atas skrin anda) menunjukkan apa yang ada di sekeliling anda.
 
 ## Gambaran keseluruhan HUD
 
-Semasa anda di dalam dunia, anda akan melihat:
+Semasa anda berada di dunia permainan, anda akan melihat:
 
-- **Minimap** (kanan atas): menunjukkan kedudukan anda, jalan dan bangunan berdekatan, waypoint, dan alur panduan merah apabila tugasan menunjuk ke suatu tempat. Klik untuk mengembangkan.
-- **Kad tugasan** (kiri atas): menunjukkan objektif semasa anda (langkah quest aktif, kebakaran semasa, pesakit yang anda rawat, dan lain-lain). Ketik chevron untuk menguncupkannya jika ia menghalang.
+- **Minimap** (kanan atas): menunjukkan kedudukan anda, jalan dan bangunan berdekatan, titik laluan, dan pancaran panduan merah apabila tugasan menunjuk ke suatu tempat. Klik untuk kembangkan.
+- **Widget status** (kanan atas, di bawah minimap): **Tahap warganegara** anda dengan bar kemajuan, ditambah baris kedua yang menunjukkan sektor aktif anda (pangkat untuk perkhidmatan kecemasan, tahap / maks untuk syif awam).
+- **Kad tugasan** (kiri atas): menunjukkan objektif semasa anda (langkah kuest aktif, kebakaran semasa, pesakit yang anda rawat, dll.). Ketik chevron untuk melipatkannya jika ia menghalang.
+- **Ikon TopBar** (tengah atas): ikon Map / Tasks / Status / Open Menu yang kecil. Ketik mana-mana untuk menyembunyikan HUD itu; ketik **Open Menu** (glif rumah) untuk membuka semula menu utama di tengah-tengah permainan tanpa mati.
 - **Baki dompet / bank**: kelihatan berhampiran bahagian atas skrin anda.
 
-## Sprint
+## Berlari pantas
 
-Tahan **Left Shift** atau **Left Control** untuk sprint. Kelajuan berjalan ialah 10 studs/s; sprint menggandakannya kepada 20. Tiada had stamina dalam build semasa - anda boleh sprint selama mana anda mahu. (Permainan ini mempunyai sistem lapar/stamina/kebersihan penuh dalam kod, tetapi pengendali server yang akan memulakan stat tersebut setiap watak kini dilumpuhkan, jadi tiada satu pun daripadanya berjalan dalam permainan langsung.)
+Tahan **Left Shift** atau **Left Control** untuk berlari pantas. Kelajuan berjalan ialah 10 studs/s; berlari pantas menggandakannya kepada 20. Tiada had stamina dalam build semasa - anda boleh berlari pantas selama yang anda mahu. (Permainan ini mempunyai sistem kelaparan/stamina/kebersihan yang lengkap dalam kod, tetapi pengendali server yang akan memulakan statistik tersebut bagi setiap watak sedang dilumpuhkan, jadi tiada satu pun daripadanya berjalan dalam permainan langsung.)
 
-Sprint dimatikan secara automatik apabila anda memasuki tempat duduk kenderaan.
+Berlari pantas dimatikan secara automatik apabila anda memasuki tempat duduk kenderaan.
 
 ## Apa seterusnya?
 
-- Pilih sebuah [team](/sumaya/teams) dan [career](/sumaya/jobs).
-- Baca tentang [phone and UI](/sumaya/phone) supaya anda tahu di mana sesuatu berada.
-- Semak [quest chain](/sumaya/quests) untuk panduan yang berstruktur.
-- Apabila anda bersedia untuk memperoleh wang sebenar, lihat [economy](/sumaya/economy) untuk mengetahui di mana kerja yang paling menguntungkan.
+- Pilih satu [pasukan](/sumaya/teams) dan satu [kerjaya](/sumaya/jobs).
+- Baca tentang [telefon dan UI](/sumaya/phone) supaya anda tahu di mana segala-galanya berada.
+- Semak [rantaian kuest](/sumaya/quests) untuk panduan langkah demi langkah yang berstruktur.
+- Apabila anda bersedia untuk memperoleh wang sebenar, lihat [ekonomi](/sumaya/economy) untuk pekerjaan yang membayar terbaik.

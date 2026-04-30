@@ -38,7 +38,7 @@ Most civilian cars spawn **free** (they don't have a price set). A few are premi
 These spawn without a price. You can take them out any time:
 
 - Perosatu Axia (compact hatchback)
-- Perosatu Myvi (hatchback)
+- Perosatu Myvi 2020 (hatchback)
 - Perosatu Bezza (sedan)
 - Perosatu Alza (MPV)
 - Perosatu Ativa (compact SUV)
@@ -48,13 +48,13 @@ These spawn without a price. You can take them out any time:
 - Protan Putra (sport coupe)
 - Protan Waja (sedan)
 - Protan Preve (sedan)
-- Protan Saga (compact sedan)
-- Protan Persona (modern sedan)
+- Protan Saga 1985 (compact sedan)
 - Protan Exora (MPV)
 - Handai City (MPV)
 - Handai Civic (MPV)
 - Protan S70 (sedan)
 - Protan X70 (SUV)
+- Tayoti Hilux (pickup truck)
 
 ### Premium civilian cars
 

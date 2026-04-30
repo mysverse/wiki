@@ -15,7 +15,7 @@ To close it, tap outside the phone or use the close button.
 
 ## Phone apps
 
-Sumaya has **12 player-facing apps** plus a phone-home launcher (called `PhoneUI` internally).
+Sumaya has **13 player-facing apps** plus a phone-home launcher (called `PhoneUI` internally). Some apps (DevTools, MDT) only show up for the right roles.
 
 ### Settings
 
@@ -102,6 +102,19 @@ View your current quest chain progress:
 
 The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
+### Jelajah (Discovery journal)
+
+Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
+
+- A progress pill at the top — `<discovered> / <total> ditemui` ("found").
+- Filters: **Semua** (all), **Ditemui** (discovered), **Belum** (not yet).
+- A scrollable list of cards. Discovered POIs show a colored category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
+- Tap a card for the detail screen — full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
+
+When you walk into a tagged POI for the first time, the app surfaces a `✨ Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
+
+POIs are an in-progress feature — the system is wired up but only a few starter landmarks (Clock Tower, Pasar, Pantai) are defined; expect more as the map grows.
+
 ### Emergency999
 
 Any civilian can dial 999 from this app. It:
@@ -182,6 +195,26 @@ In the top-left corner, you'll often see a **task card** - a small panel that de
 ### Collapsing the task card
 
 On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
+
+## Status widget (top-right)
+
+Below the minimap, the **StatusGui** widget shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
+
+- **Top row** — `Citizen <Level>` with a progress bar and `progress / max` numeric. Always visible.
+- **Bottom row** — your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows raw `progress / max`.
+
+The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks — it's automatic.
+
+## TopBar icons
+
+Roblox's TopBar at the top-centre of the screen shows a row of small Sumaya icons. From left to right:
+
+- **Map** — toggles the minimap HUD on/off.
+- **Tasks** — toggles the task card on/off (only appears when there's at least one active card).
+- **Status** — toggles the Status widget on/off.
+- **Open Menu** (house icon) — re-opens the main menu mid-game so you can switch teams or pick a different sector. This **doesn't respawn you** unless you actually pick a new team. Locked while you're arrested, wanted, or in combat (recently tased / detained).
+
+All four toggles persist for the session — they don't survive a server restart, but they do survive respawn.
 
 ## Chat
 

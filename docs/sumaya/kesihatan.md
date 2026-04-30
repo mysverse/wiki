@@ -140,7 +140,7 @@ From level 81 onward, you're the top. No further rank changes as you push to the
 - **Broken legs are the easy payday.** They can't walk well, they're easy to spot, and the splint pays 200 Ringgit.
 - **TBI is slow but high-value.** While the 30-second bed rest is running, you can diagnose and treat other patients. Don't just stand and watch.
 - **Mass casualty events.** If there's a big crash or incident, multiple casualties means multiple fast payouts. Bring stretchers.
-- **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers.
+- **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers. Bonus: standing within 512 studs of an active fire earns you **10 player XP per block extinguished** (player XP only, no SR) - so camping a fire is free passive XP for Kesihatan.
 
 ## What next?
 
