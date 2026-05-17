@@ -83,6 +83,17 @@ The go-to for keeping your car fuelled when you can't reach a station.
 
 A full-size supermarket experience. You can walk the aisles, pick items off shelves, and check out at the cashier. A good roleplay location for the Checkout job (Malaysians community team).
 
+**Full catalogue** (~37 items across 6 categories):
+
+- **Drinks (7)**: Coffee Cookies Frappe, Chocolate Cookies Frappe, Milk Cookies Frappe, Strawberry Frappe, Boba Tea, Coffee, Mineral Water
+- **Food (3)**: Sandwiches, Onigiri, Cheese Cake
+- **Noodles (5)**: Maggi Curry, Maggi Tomyam, Samyang Carbonara, Samyang Cheese, Samyang Ramen
+- **Oden (5)**: Fish Ball, Fish Cake, Full Set, Odeng Fish Cake, Crab
+- **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
+- **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
+
+Like the other shops, KeluargaMart is currently free — grab whatever you fancy. Law-team players (Polis, APJ) are blocked from the register interaction to discourage unprofessional behaviour on duty.
+
 ## Food Delivery interactions
 
 Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
@@ -93,12 +104,12 @@ See [Jobs](/lebuhraya/jobs) for the delivery flow.
 
 - Walk up to the shop NPC or counter.
 - A ProximityPrompt appears — interact to open the shop menu.
-- Select the item; BR is deducted from your balance.
+- Select the item. In the current build, no BR is deducted; the item is granted for free.
 - The item appears in your inventory as a tool. Equip it to use / eat / display it.
 
 ## Where to find them
 
-Shops are spread across Bandar Seri Putra and Jersik. The map waypoint system (in the MyPod menu or topbar) will route you to any shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
+Shops are spread across Bandar Seri Putra and Jersik. Use the Phone GPS / topbar waypoint system to route to a shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
 
 ## Next steps
 

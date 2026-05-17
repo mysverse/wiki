@@ -5,13 +5,14 @@ description: "The three civilian career sectors in Sumaya — fishing, service, 
 
 # Careers Overview
 
-Careers in Sumaya are the civilian jobs you can do to earn Ringgit and XP. There are three career **sectors**, each with its own rank ladder and rewards.
+Careers in Sumaya are the civilian jobs you can do to earn Ringgit and XP. There are three career **sectors**, each with its own rank ladder and rewards, plus short gig jobs for quick runs around town.
 
 This page covers how careers work in general. Individual sectors have their own pages:
 
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- Gig jobs
 
 ## What's a "sector"?
 
@@ -22,7 +23,7 @@ A sector is a category of work. Each sector has:
 - A **rank ladder** - as your sector level goes up, your in-game title changes.
 - Possibly **level-gated content** - vehicles or tools that only unlock at a certain sector level.
 
-There are three **civilian sectors** you can pick from the start:
+There are three main **civilian sectors**:
 
 | Sector | What you do | Max level | Start requirement |
 |--------|-------------|-----------|-------------------|
@@ -31,6 +32,8 @@ There are three **civilian sectors** you can pick from the start:
 | Agriculture (palm oil) | Harvest palm fruit bunches | 100 | None (available immediately) |
 
 The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown in the civilian careers app - you join them by picking the matching team from the main menu. See [Emergency Services overview](/sumaya/emergency-services).
+
+Gig jobs are separate from the three long-term sectors. They are short assignments like E-Hailing, Pos Nasional, Tow Truck, Reporter, Tour Guide, and Restaurant Supplier. They use task-card guidance, waypoint markers, and quick minigame steps instead of a full sector shift.
 
 ## How to start a career
 
@@ -44,6 +47,8 @@ Once you're clocked in:
 - A sector-specific HUD shows up.
 - Relevant tools spawn in your backpack (fishing rod, palm hook, etc.).
 - You start earning XP and Ringgit for actions you complete.
+
+For gig jobs, use the gig/career prompt or interface when available, then follow the task card and minimap. Gig runs may open a small interaction panel for manifest paperwork, route choices, sequence checks, or timing checks.
 
 ## Clocking out
 
@@ -72,11 +77,13 @@ Rough guide:
 - **Want fast, steady cash with no stress?** Go fishing. Calm, low-pressure, and boats get better as you level up.
 - **Like repetitive task-clearing?** Mamak or Fast Food in the service sector. Take orders, prepare items, serve customers.
 - **Want the best payout per shift?** Palm oil. Harvests pile up and pay at end-of-shift, with a 50 XP bonus on top.
-- **Just want to explore?** Skip civilian work for now, grab a free car from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
+- **Want a short, varied errand?** Pick a gig job. The quick minigame steps add some pressure without locking you into a long shift.
+- **Just want to explore?** Skip civilian work for now, grab a free Perosatu Axia or Protan Wira from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
 
 ## Cross-sector tips
 
 - **You can only work one job at a time.** If you clock in to fishing, you need to clock out before you can start mamak.
+- **Gig jobs reset cleanly.** If you die, switch teams, or leave mid-step, the active gig panel and camera focus are removed so you can start fresh.
 - **Sector level and player level rise together.** Every XP you earn on a job boosts both - so grinding one sector also levels your global account.
 - **Emergency-service sectors are uniform.** Bomba, Polis, and Kesihatan all go up to level 100 with similar reward curves. Civilian sectors differ more.
 - **Kesihatan's injury system gives a +15% player-XP boost to everyone on the server** while it's active. If you see the boost active, it's a good time to grind.
@@ -88,5 +95,6 @@ Pick a sector to read about in detail:
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- Gig jobs
 
 Or read [Progression](/sumaya/progression) to understand how XP and levels work across the whole game.

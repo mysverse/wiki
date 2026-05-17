@@ -2,8 +2,8 @@
 title: பொருளாதாரம்
 description: 'Ringgit (SR), பணப்பை vs வங்கி, மற்றும் Sumaya-வில் சம்பாதிக்கும் வழிகள்.'
 lang: ta
-translated_from_hash: 8879dce6
-translated_on: '2026-04-30'
+translated_from_hash: '7e369425'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -19,7 +19,7 @@ Sumaya-வின் நாணயம் **Ringgit**, UI-இல் **SR** (Sumaya 
 - **பணப்பையில்** **100 Ringgit**.
 - **வங்கியில்** **1,000 Ringgit**.
 
-சில தொடக்க வாகனங்களை வாடகைக்கு எடுத்து, சில கடை பொருட்களை வாங்க அது போதுமானது. வீடுகள் தொடக்கத்தில் எட்டாதவை (Tier 1 **25,000 SR** — [வீட்டுவசதி](/sumaya/housing)-ஐ பார்க்கவும்) — முதலில் சில Kerjaya-களில் உழைக்க திட்டமிடுங்கள்.
+சில கடை பொருட்களை வாங்கி, இலவச தொடக்க கார்களை (**Perosatu Axia** அல்லது **Protan Wira**) ஓட்டத் தொடங்க அது போதுமானது. கட்டண சிவிலியன் வாடகைகள் **1,250 SR**-இல் தொடங்குகின்றன, எனவே உங்கள் தொடக்க பணப்பை மட்டும் வாடகைக்கு போதாது; வீடுகளும் தொடக்கத்தில் எட்டாதவை (Tier 1 **25,000 SR** — [வீட்டுவசதி](/sumaya/housing)-ஐ பார்க்கவும்).
 
 ## பணப்பை vs வங்கி
 
@@ -65,6 +65,12 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 
 ஒவ்வொரு செயலுக்கான கொடுப்பனவுகள். மொத்தம் நீங்கள் எவ்வளவு நேரம் வேலை செய்கிறீர்கள் என்பதை பொறுத்தது.
 
+### Income / Job XP Booster
+
+எதிர்கால **Income / Job XP Booster** pass, Shop-இல் முடக்கப்பட்ட **Coming Soon** கார்டாக தெரிகிறது. அது இயக்கப்பட்டபின், தகுதியான வேலைகளுக்கு **25% கூடுதல் வேலை Ringgit** மற்றும் **25% கூடுதல் வேலை-sector XP** சேர்க்க வடிவமைக்கப்பட்டுள்ளது: Bomba, Polis கைதுகள்/radar, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, மற்றும் gig jobs.
+
+இது வீரர்-level XP, quest வெகுமதிகள், குற்றப் பணப்பெறுகள், ATM பரிமாற்றங்கள், Sadaqa/நன்கொடைகள், refunds, அல்லது வீடு/வாகனம்/கடை பரிவர்த்தனைகளை boost செய்யாது.
+
 | ஆதாரம் | Ringgit |
 |--------|---------|
 | Rod fishing (விற்கப்படும் ஒவ்வொரு இனத்திற்கும்) | 8 SR பணப்பைக்கு |
@@ -72,6 +78,12 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 | Mamak (ஒவ்வொரு வாடிக்கையாளர்) | 30 SR வங்கிக்கு, ஒவ்வொரு 10-க்கு +180, தவறான ஆர்டர் -25 |
 | Fast Food (ஒவ்வொரு வாடிக்கையாளர்) | 25 SR வங்கிக்கு, ஒவ்வொரு 10-க்கு +150, தவறான ஆர்டர் -20 |
 | Palm oil (போடப்படும் ஒவ்வொரு பழம்) | நிலையான 20 SR, ஷிஃப்ட்-முடிவில் வங்கிக்கு; tier 2-4 buckets/sickles வேகத்தை விரைவுபடுத்துகின்றன, ஒவ்வொரு பழ ஊதியத்தை அல்ல |
+| Gig job: E-Hailing | 40 SR, 8 XP, 30% tip இருக்கலாம் |
+| Gig job: Pos Nasional | ஒவ்வொரு parcel-க்கும் 35 SR மற்றும் 7 XP, 10% tip இருக்கலாம் |
+| Gig job: Tow Truck | 80 SR, 12 XP, 20% tip இருக்கலாம் |
+| Gig job: Reporter | 50 SR, 10 XP, 15% tip இருக்கலாம் |
+| Gig job: Tour Guide | 120 SR, 20 XP, 40% tip இருக்கலாம் |
+| Gig job: Restaurant Supplier | 45 SR, 8 XP, 10% tip இருக்கலாம் |
 | Bomba (ஒவ்வொரு fire block) | 15 SR பணப்பைக்கு |
 | Bomba (ஒவ்வொரு 15 blocks-க்கு milestone) | +150 SR போனஸ் |
 | Kesihatan (bandage) | 100 SR பணப்பைக்கு |
@@ -109,9 +121,10 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 5. **Kesihatan splints** - ஒவ்வொரு splint-க்கும் 200 SR + milestone போனஸ்.
 6. **Pickpocket NPCs** - ஒவ்வொரு pick-க்கும் 50-200 SR, குறைந்த ஆபத்து, நிலையானது.
 7. **Palm oil shifts** - நிலையானது, level-சார்ந்தது, ஷிஃப்ட்-முடிவு banking.
-8. **Service sector orders** - நிலையானது; ஒவ்வொரு வாடிக்கையாளர் ஊதியம் நிலையானது (Mamak 30 SR / FastFood 25 SR) மற்றும் sector level-உடன் அளவிடப்படாது. அதிக levels வெறும் cosmetic ranks-ஐ திறக்கின்றன.
-9. **Rod fishing** - விரைவான SR, வீரர் XP மட்டும், casual play-க்கு சிறந்தது.
-10. **Trawl fishing** - மெதுவான SR ஆனால் fishing sector-ஐ level செய்ய ஒரே வழி.
+8. **Gig jobs** - விரைவான interaction படிகளுடன் குறுகிய, பலவகை errands. Tour Guide மற்றும் Tow Truck உயர்ந்த single-gig payouts தருகின்றன; Pos Nasional ஒவ்வொரு parcel-க்கும் சேர்த்துக்கொள்ளலாம்.
+9. **Service sector orders** - நிலையானது; ஒவ்வொரு வாடிக்கையாளர் ஊதியம் நிலையானது (Mamak 30 SR / FastFood 25 SR) மற்றும் sector level-உடன் அளவிடப்படாது. அதிக levels வெறும் cosmetic ranks-ஐ திறக்கின்றன.
+10. **Rod fishing** - விரைவான SR, வீரர் XP மட்டும், casual play-க்கு சிறந்தது.
+11. **Trawl fishing** - மெதுவான SR ஆனால் fishing sector-ஐ level செய்ய ஒரே வழி.
 
 ## Ringgit செலவிடுதல்
 
@@ -119,8 +132,9 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 
 உங்கள் பெரும்பாலான பணம் செல்லும் இடம்.
 
-- **இலவச சிவிலியன் கார்கள்** - வீரர் level 1-இல் டஜன் கணக்கில் கிடைக்கின்றன. வாடகைக்கு எடுத்து ஓட்டுங்கள்.
-- **Premium சிவிலியன் கார்கள்** - 2,000-29,000 Ringgit. Joguar XJ308 R என்பது வரம்பு.
+- **இலவச தொடக்க கார்கள்** - Perosatu Axia மற்றும் Protan Wira.
+- **கட்டண standard சிவிலியன் கார்கள்** - 1,250-8,750 Ringgit-க்கு வாடகை அல்லது 5,000-35,000 Ringgit-க்கு வாங்கலாம். Protan X70 தற்போதைய standard சிவிலியன் cap.
+- **Classic Car Pack கார்கள்** - gamepass-ஆல் கட்டுப்படுத்தப்படுகின்றன; Protan Saga 1985 உரிமையாளர்களுக்கு இலவசம், கட்டண classics வாங்க 12,000-29,000 Ringgit செலவாகும்.
 - **Fishing trawlers** - Tier 1 இலவசம், Tier 2 25,000, Tier 3 37,000.
 - **Team vehicles** - 6,500-20,000 Ringgit, sector level-ஆல் கட்டுப்படுத்தப்பட்டுள்ளது.
 
@@ -170,6 +184,7 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 ## அடுத்து என்ன?
 
 - XP மற்றும் Ringgit எவ்வாறு தொடர்பு கொள்கின்றன என்பதற்கு [Progression](/sumaya/progression).
+- குறுகிய payout விவரங்களுக்கு Gig jobs.
 - விலை பட்டியலுக்கு [வாகனங்கள்](/sumaya/vehicles).
 - வீட்டு விலைகளுக்கு [வீட்டுவசதி](/sumaya/housing).
 - பொருளாதாரத்தின் குற்ற பக்கத்திற்கு [Crime and Law](/sumaya/crime-and-law).

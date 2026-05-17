@@ -2,21 +2,22 @@
 title: 职业概览
 description: Sumaya 的三大平民职业方向 — 捕鱼、服务业、棕油业。
 lang: zh
-translated_from_hash: 37dca21f
-translated_on: '2026-04-30'
+translated_from_hash: 920129b9
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
 
 # 职业概览
 
-Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共有三个职业**行业**,各自拥有专属的职级阶梯与奖励。
+Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共有三个职业**行业**,各自拥有专属的职级阶梯与奖励，另外还有可在城里快速完成的短期 gig 工作。
 
 本页面概括介绍职业如何运作。每个行业都有专属的页面:
 
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- Gig jobs
 
 ## 什么是"行业"?
 
@@ -27,7 +28,7 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 - 一个**职级阶梯** - 当您的行业等级提升时,游戏中的称号也会随之改变。
 - 可能存在**等级解锁内容** - 仅在特定行业等级才能解锁的车辆或工具。
 
-您从一开始就可以选择三个**平民行业**:
+共有三个主要**平民行业**:
 
 | 行业 | 工作内容 | 最高等级 | 启动条件 |
 |--------|-------------|-----------|-------------------|
@@ -36,6 +37,8 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 | Agriculture (palm oil) | 采收棕榈果串 | 100 | 无(立即可用) |
 
 三个**紧急服务行业**(Bomba、Kesihatan、Polis)不会显示在平民职业应用程序中 - 您可以从主菜单选择对应的队伍来加入。请参阅 [Emergency Services overview](/sumaya/emergency-services)。
+
+Gig jobs 与三个长期行业分开。它们是 E-Hailing、Pos Nasional、Tow Truck、Reporter、Tour Guide 和 Restaurant Supplier 等短任务。它们使用任务卡指引、路径点标记和快速 minigame 步骤，而不是完整的行业班次。
 
 ## 如何开始职业
 
@@ -49,6 +52,8 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 - 一个专属于该行业的 HUD 会显示出来。
 - 相关工具会出现在您的背包中(钓竿、棕榈钩等)。
 - 您开始为完成的动作赚取 XP 和 Ringgit。
+
+对于 gig jobs，请在可用时使用 gig/职业提示或界面，然后跟随任务卡和小地图。Gig 跑腿可能会打开小型互动面板，用于货单文书、路线选择、顺序检查或计时检查。
 
 ## 打卡下工
 
@@ -77,11 +82,13 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 - **想要快速、稳定且无压力的收入?** 去 fishing。平静、压力小,而且船只随着您升级而变得更好。
 - **喜欢重复性任务?** 选择 service 行业的 Mamak 或 Fast Food。接订单、准备物品、上菜给顾客。
 - **想要每轮班最高的报酬?** Palm oil。收获会累积并在轮班结束时支付,顶上还有 50 XP 奖励。
-- **只想探索?** 暂时跳过平民工作,从 [vehicle spawner](/sumaya/vehicles) 拿一辆免费车,四处兜风。等您想要 Ringgit 时再回来。
+- **想要短而多样的差事?** 选择 gig job。快速 minigame 步骤会带来一点压力，但不会把您锁进长班次。
+- **只想探索?** 暂时跳过平民工作,从 [vehicle spawner](/sumaya/vehicles) 拿一辆免费的 Perosatu Axia 或 Protan Wira,四处兜风。等您想要 Ringgit 时再回来。
 
 ## 跨行业提示
 
 - **您一次只能做一份工作。** 如果您打卡进入 fishing,您必须先打卡下工才能开始 mamak。
+- **Gig jobs 会干净重置。** 如果您死亡、切换队伍或中途离开步骤，当前 gig 面板和镜头焦点会被移除，方便您重新开始。
 - **行业等级与玩家等级同步上升。** 您在工作中赚取的每点 XP 都会同时提升两者 - 因此积累一个行业也会提升您的全局账号等级。
 - **紧急服务行业是统一的。** Bomba、Polis 和 Kesihatan 都最高到等级 100,奖励曲线相似。平民行业差异较大。
 - **Kesihatan 的伤患系统为服务器内所有人提供 +15% 玩家 XP 加成**,在其激活期间生效。如果您看到加成处于激活状态,这是积累的好时机。
@@ -93,5 +100,6 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- Gig jobs
 
 或阅读 [Progression](/sumaya/progression) 来了解 XP 与等级在整个游戏中如何运作。

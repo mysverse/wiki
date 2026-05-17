@@ -97,6 +97,29 @@ Every player has a phone accessible from the topbar.
 
 More phone apps may appear over time as the MYSverse platform adds features.
 
+### Phone tips
+
+- Use the Phone when you need quick actions while staying in the world.
+- GPS waypoints are the safest way to reach a POI without staff-only fast travel.
+- If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
+
+## MyPod Music Player
+
+**MyPod** is the topbar music player. It is not a vehicle spawner.
+
+What MyPod does:
+
+- Shows a mini player bar while music is playing.
+- Opens into a full player with track list, album-art panel, progress scrubber, and volume slider.
+- Supports play/pause, previous/next, shuffle, repeat, and favourites.
+- Can auto-play a random track when you sit in a vehicle if **Auto-play** is enabled.
+
+What MyPod does **not** do:
+
+- It does not spawn vehicles.
+- It does not despawn vehicles.
+- It does not replace the physical vehicle spawner pads/markers around the map.
+
 ## The Tablet
 
 A secondary device available from the topbar. Think of it as your "career HUD" — bigger screen, more data than the phone.
@@ -106,6 +129,49 @@ A secondary device available from the topbar. Think of it as your "career HUD" �
 - **Vehicle** — View any nearby player's vehicle registration and driving licence info. Useful for roleplay scenes (spot check, insurance lookup). Licence visibility is team-gated — only certain teams (APJ, Polis) can view full licence details.
 - **Developer** *(staff only)* — Admin moderation view showing player details, BR balance, POS money, and message history.
 - **Moderator** *(staff only)* — Additional staff moderation tools.
+
+## Report system
+
+Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
+
+### What to include
+
+Good reports are specific:
+
+- **What happened** — e.g. "Vehicle spawner opened but Spawn did nothing."
+- **Where** — town, shop, spawner, road, or approximate landmark.
+- **What you were doing** — team, vehicle, job, tool, menu.
+- **Whether it repeats** — once, every time, only on mobile, only in private server.
+- **Player names** if it is a player conduct issue.
+
+### When to use it
+
+Use Report for:
+
+- broken menus, missing buttons, clipped text, or unreadable UI
+- vehicle spawn/fuel/repair problems
+- job tasks that cannot complete
+- map holes, stuck spots, or bad collisions
+- abusive player behavior
+- feedback on balance, payouts, and roleplay tools
+
+Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
+
+## Identity Card (IC)
+
+Lebuhraya issues each player a **Malaysian-style identity card** in the Phone / Tablet app, generated with the real Malaysian IC format:
+
+```
+YYMMDD-PB-XXXX
+```
+
+- **YYMMDD** — your Roblox account-joined date (year, month, day).
+- **PB** — place of birth code. Default is **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) use different codes.
+- **XXXX** — the last four digits of your Roblox UserId.
+
+So if you joined Roblox on 15 March 2020 with UserId 123456789, your IC would be **200315-14-6789**. Your IC is consistent every time you play — it won't change.
+
+Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
 
 ## Driving Licence
 
@@ -131,10 +197,13 @@ Some temporary advantages come from **tokens** — consumable boost items in you
 - Season Pass tier rewards
 - Promotional events
 - Sometimes bundled with gamepasses
+- Admin-granted (in private servers your server owner can use debug commands to grant any token to any player for any duration)
 
 ### How to use tokens
 
-Open the **Active Tokens HUD** (a ScreenGui on your HUD when at least one token is active). Tap a token in your inventory to activate it — the duration starts counting down immediately and applies to your next XP gains.
+Activate a token from your inventory (**Main Menu -> More -> Tokens**). The **Active Tokens HUD** appears automatically when at least one token is running — each active token shows its icon, name, and a **M:SS countdown**. Tokens run in parallel (you can have 2× XP Boost + Season Pass Boost + Team Access all going at once).
+
+Tokens **consume on activation** — once you start the timer you can't pause it. Save them for continuous play sessions.
 
 > Tokens are **consumed on activation** — you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
 

@@ -13,9 +13,13 @@ Tap the phone icon on your screen. The phone slides up and shows a grid of apps.
 
 To close it, tap outside the phone or use the close button.
 
+## Loading and transition overlays
+
+When you join, respawn, or move through the main menu, Sumaya may show a loading overlay with the logo and rotating Malaysia facts. This is normal transition UI; it fades when the menu or character state is ready.
+
 ## Phone apps
 
-Sumaya has **13 player-facing apps** plus a phone-home launcher (called `PhoneUI` internally). Some apps (DevTools, MDT) only show up for the right roles.
+Sumaya has **14 app entries** plus a phone-home launcher (called `PhoneUI` internally). Some apps only show when they make sense: Emergency999 needs your character to be spawned, MDT is for emergency-service teams, and DevTools is developer-only.
 
 ### Settings
 
@@ -28,6 +32,10 @@ Customize your phone's look:
 ### Camera
 
 An in-game camera app. Take photos of whatever's on screen. Good for house showcases, scenic moments, or capturing that 5-star arrest.
+
+### Help
+
+Built-in quick reference for phone and gameplay basics.
 
 ### Profile
 
@@ -89,7 +97,7 @@ Useful for parking in tight spots or escaping a crash pile-up. See [Vehicles](/s
 
 ### Cinematic
 
-A free-roam camera mode. Move your viewpoint around independently of your character for dramatic angles or film-style shots. Great for recording, not much use for gameplay.
+A free-roam camera mode. Move your viewpoint around independently of your character for dramatic angles or film-style shots. Some camera moves can also add focus and depth-of-field while the mode is active. Great for recording, not much use for gameplay.
 
 ### Quest
 
@@ -111,9 +119,9 @@ Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest 
 - A scrollable list of cards. Discovered POIs show a colored category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
 - Tap a card for the detail screen — full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
 
-When you walk into a tagged POI for the first time, the app surfaces a `✨ Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
+When you walk into a tagged POI for the first time, the app surfaces a `Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
 
-POIs are an in-progress feature — the system is wired up but only a few starter landmarks (Clock Tower, Pasar, Pantai) are defined; expect more as the map grows.
+POIs are an in-progress feature. The live build defines **Menara Jam**, **Pasar Sumaya**, and **Pantai Sumaya**, but the world currently has no `SumayaPOI` trigger parts tagged. If those landmarks do not unlock while you visit them, it is a content-placement gap, not something you are doing wrong.
 
 ### Emergency999
 
@@ -141,6 +149,8 @@ See [Polis](/sumaya/polis) for more on the MDT.
 ### DevTools
 
 Developer-only debugging app. You won't see it as a regular player. Ignore.
+
+For authorised testers, DevTools now includes backend checks for monetization placeholders: entitlement catalog/overrides, cash-product simulation, vehicle pack ownership, radio scaffold state, and POLIS specialization testing.
 
 ### PhoneUI (home launcher)
 
@@ -195,6 +205,12 @@ In the top-left corner, you'll often see a **task card** - a small panel that de
 ### Collapsing the task card
 
 On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
+
+## Gig minigame panels
+
+Some gig jobs open a small interaction panel for paperwork, choices, sequence checks, or timing checks. These panels fade in and out, scale to phone/tablet/desktop screens, and may briefly focus the camera on the relevant passenger, parcel, vehicle, scene, or route marker.
+
+If you die, switch teams, leave the job, or the objective disappears, the panel and camera focus clean up automatically.
 
 ## Status widget (top-right)
 

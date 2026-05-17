@@ -2,8 +2,8 @@
 title: அடிக்கடி கேட்கப்படும் கேள்விகள்
 description: Bandaraya-வில் புதிய வீரர்களின் பொதுவான கேள்விகள்.
 lang: ta
-translated_from_hash: a253c66d
-translated_on: '2026-04-21'
+translated_from_hash: 9febc650
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # அடிக்கடி கேட்கப்படும் கேள்விகள்
@@ -164,7 +164,7 @@ POLIS Roblox group-ல் சேரவும் (1182710 அல்லது 3048
 
 ### Punch tool-ஐ எப்படிப் பெறுவது?
 
-இது **Level 25**-ல் ஒரு quest reward. quest இலக்கு வைக்கும் எதையும் (roleplay activity) கொண்டு level 25-க்கு grind செய்ய வேண்டும். தற்போது விளையாட்டுக்குள் உள்ள ஒரே quest.
+இது **Level 25**-ல் ஒரு quest reward. quest இலக்கு வைக்கும் எதையும் (roleplay activity) கொண்டு level 25-க்கு grind செய்ய வேண்டும். தற்போது விளையாட்டின் quest system-ல் பதிவு செய்யப்பட்டுள்ள ஒரே quest இதுதான். ("Pushup" quest UI codebase-ல் உள்ளது, ஆனால் அதற்கு இன்னும் செயல்படும் backend இல்லை.)
 
 ### விளையாட்டின் பதிப்பு என்ன?
 

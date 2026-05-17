@@ -13,13 +13,35 @@ Common questions, quality-of-life tips, and the things experienced players wish 
 
 Test servers (including Studio playtests) reset XP to 0 on purpose, so developers can test features against a fresh account. The warning message "XP will be reset to 0" is normal. Your **live game progress is not affected** — it's only the test server that's disposable.
 
-### I can't open the vehicle spawner (MyPod). Why?
+### I can't open the vehicle spawner. Why?
 
 A few possibilities:
 
 - You may need to load in fully — wait a few seconds after joining.
 - A UI overlay might be on top of it — close any open menus (Esc or Backspace).
+- You need to be near a physical vehicle spawner prompt in the world. The MyPod topbar icon is only a music player.
+- You may be on a job team and trying to use a civilian spawner. Switch to Visitors or use your team spawner.
+- You may be using a team-only spawner. Join the named team first.
 - If the issue persists, rejoin the server.
+
+### Is MyPod the vehicle spawner?
+
+No. **MyPod** is the music player. It has playback controls, volume, shuffle/repeat, favourites, a track list, and an auto-play-in-vehicle option. Vehicles are spawned from physical spawner pads/markers in the world.
+
+### The vehicle spawner opens, but my vehicle is locked or missing.
+
+Check the card and spawner type:
+
+- **Level X** means your player level is too low.
+- **Tier X** means your career rank is too low on that branch.
+- **Vehicle locked** means you do not own the special/gamepass/code vehicle.
+- A missing vehicle usually means you are at the wrong spawner type: Basic, Bike, Premium, Special, or a team-specific spawner.
+
+See [Vehicles -> Spawner troubleshooting](/lebuhraya/vehicles#spawner-troubleshooting).
+
+### Where did Career, Tokens, Credits, and Races go?
+
+They are under **Main Menu -> More**. The top-level menu now shows **Home**, **Teams**, **Shop**, **Activity**, and **More**. Activity contains missions/challenges/season progress; More contains secondary panels such as Career, Jobs, Tokens, Credits, Races, and Help.
 
 ### What's the fastest way to level up?
 
@@ -60,7 +82,7 @@ Fuel is **currently free** in this version of the game. Config prices (Electric 
 You have three options:
 
 1. **Buy a JerryCan** at the **Jerrycan Shop**, fill it at any station (match the fuel type), and pour it into your tank.
-2. **Despawn and respawn** your vehicle from the MyPod menu. You'll lose your position but get a full tank.
+2. **Spawn a replacement vehicle** from a physical vehicle spawner. You'll lose your current vehicle position but get a fresh tank.
 3. **Ask a KEMRonda player** for a tow — they can take you to the nearest station.
 
 ### Where do I repair my car?
@@ -118,13 +140,17 @@ Check these:
 
 Consumable items in your inventory that give temporary boosts — 2× XP, Season Pass XP doubler, or temporary team access. Activate from the inventory. See [Social Features → Tokens](/lebuhraya/social-features#tokens-and-boosts).
 
+### How do I report a bug or player?
+
+Open the in-game **Report** system and describe what happened, where it happened, what team/vehicle/tool/menu you were using, and whether it repeats. For player reports, include the player name and what they did. See [Social Features -> Report system](/lebuhraya/social-features#report-system).
+
 ### Is there a single-player / private mode?
 
-Private servers are available (purchase from the Roblox experience page). Note that the **economy is disabled in private servers** — you can't earn or lose BR and XP. Private servers are best for hosting events, roleplay scenes, or practising driving without pressure.
+Yes — **private servers** are available (purchase from the Roblox experience page). See the dedicated **[Private servers](#private-servers)** section below for everything the owner gets, common use cases, and the limitations.
 
 ### Are there promo codes?
 
-Yes — open the **Main Menu → Codes** tab and enter a code. A few codes are permanently active:
+Yes — open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
 
 | Code | Reward | Uses |
 |---|---|---|
@@ -176,6 +202,81 @@ Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously d
 ### Report bugs and feedback
 
 If you hit a bug or have suggestions, the in-game **Report** system (MYS_ReportSystem ScreenGui) sends directly to the MYSverse team. Use it — the devs read these.
+
+## Private servers
+
+Private servers are Roblox's "VIP server" feature — you pay Robux to spin up a server instance that only you and people you invite can join. They're one of Lebuhraya's most powerful features once you know what they can do.
+
+### Use cases
+
+**Dedicated roleplay communities.** Many MYSverse-adjacent groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) run their own private Lebuhraya servers as persistent hangout spaces. Because private servers are isolated, your group isn't interrupted by random drivers, and your scenes can run uninterrupted for hours.
+
+**Structured events.** Race nights, convoy meets, emergency training exercises, licence tests, and screenshot shoots all benefit from an empty map where the owner controls what happens.
+
+**Practice without pressure.** Learning to drive the heavy trucks, getting better lap times at the race track, or rehearsing a 999 medic response with a friend — all much easier in a private server than in a busy public one.
+
+**Content creation.** Streamers and video creators use private servers to film without other players disrupting shots. You can freely pose vehicles, stage scenes, and reset without griefers.
+
+### What the server owner gets
+
+When you join your own private server, **you're automatically granted Adonis admin level 200** — a substantial suite of moderation commands.
+
+- **Moderate your guests**: kick, ban (from that specific private server), mute, freeze, respawn, teleport, spectate.
+- **Set up scenes**: teleport any player (or yourself) to any location, fly, noclip, change gravity, spawn vehicles for guests.
+- **Delegate admin**: use Adonis commands like `:admin @PlayerName` to promote trusted friends to moderator / admin status within your server. They'll get the same tools. You can also `:mod`, `:headadmin`, etc., for different admin tiers.
+- **Manage duration**: boot-everyone, shutdown, reserve a new server from inside the current one.
+- **Run the experience your way**: set custom messages, create custom scripts (if you know Lua), adjust game time, toggle weather (`!rainon` / `!rainoff`).
+
+**Moderator persistence**: admins you grant in a private server are stored under a DataStore specific to that server (`privateServer_<yourUserId>`), separate from the public servers. Admins stay admin across sessions in *your* private server. They don't get admin rights in any other server.
+
+**Cross-server features are disabled** — Trello audit logs and cross-server commands don't run in private servers. That keeps your server self-contained and free of external dependencies.
+
+### Limitations
+
+The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explains the trade-offs. All progression is disabled:
+
+- **XP and level** don't save.
+- **Currency (BR)** changes don't persist.
+- **Badges** aren't awarded (including the 50k / 100k / 500k / 1m stud milestones).
+- **Job progression tiers** don't save.
+- **Vehicle unlocks** don't apply (you still see the same catalogue, but race-unlocked vehicles or codes-redeemed vehicles won't persist).
+- **Promo codes** redeemed here don't count.
+
+If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
+
+### Accessing admin commands
+
+Once you have admin level (either as the owner or granted by the owner), type `:cmds` in chat to open the Adonis command list. Common commands available to Admins (level 200):
+
+| Command | Action |
+|---|---|
+| `:cmds` | Open the full command list |
+| `:tp @player` | Teleport to a player |
+| `:bring @player` | Bring a player to you |
+| `:kick @player` | Remove a player from the server |
+| `:fly` | Toggle fly mode |
+| `:noclip` | Pass through objects |
+| `:respawn @player` | Respawn a player |
+| `:ff @player` | Add a forcefield |
+| `:ban @player reason` | Ban from this private server |
+| `:unban @player` | Unban a player |
+| `:mod @player` | Promote to moderator (level 100) |
+| `:unmod @player` | Revoke moderator status |
+| `:shutdown` | Shut down the server |
+
+**Note**: Promoting someone to full Admin (level 200) or higher usually requires HeadAdmin-level permissions in default Adonis. As the owner you're at Admin level (200), so you can freely promote to Moderator but not typically to Admin. If you need a trusted friend to have Admin-tier power, you can grant Moderator rights and that covers most use-cases; otherwise see `:cmds` for what's actually accepted.
+
+Consult the Adonis documentation on the Roblox Creator Hub for the full syntax — there are hundreds of commands, and the exact level required for each depends on the Adonis defaults plus the game's `Permissions` overrides.
+
+### One thing admin can't do
+
+**Admin level doesn't override team gates.** If a team requires a gamepass (Bomba, Polis Trafik, etc.), a level threshold (Kesihatan L200, APJ L300), or group membership (Malaysians), you still need to meet those requirements. Admin is for moderation, not for free team access. (You *can* grant your guests a **Team Access Pass token** if you want them on a gated team temporarily.)
+
+### What happens when the game shuts down for an update?
+
+Lebuhraya uses a "soft shutdown" system so you don't lose your session. When the servers are restarting, you'll see a smooth on-screen prompt appear (other UIs fade out), and you'll be **automatically teleported to a fresh server** once the update is deployed. Your progress is saved automatically on the way out — XP, BR, levels, vehicles, housing, everything persists.
+
+You don't need to do anything — just let the teleport complete. If you're driving in convoy with friends, they'll be teleported individually (you may re-join separate servers, so regroup after).
 
 ## Where to find more
 

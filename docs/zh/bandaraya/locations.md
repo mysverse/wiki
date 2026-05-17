@@ -2,207 +2,208 @@
 title: 地图与地点
 description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
-translated_from_hash: 0ec94584
-translated_on: '2026-04-21'
+translated_from_hash: c84a59b5
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 地图与地点
 
-Bandaraya 是吉隆坡市中心的精细还原，涵盖标志性的真实地标、政府建筑、酒店和设施。本指南介绍您可以探索的重要地点。
-
-## 标志性地标
-
-### KLCC 与 KLCC Park
-
-Bandaraya 的核心——标志性的吉隆坡城市中心建筑群，周围环绕着优美的景观公园。是必游地标和热门的社交聚集地。
-
-![KLCC](/images/bandaraya/klcc.png)
-
-### PAVILION
-
-位于 Bukit Bintang 区域的大型购物和娱乐地标。
-
-![Pavilion](/images/bandaraya/pavilion.png)
-
-### Creator's Plaza
-
-一个以社区为中心的广场，致敬 MYSverse 的创作者和贡献者。
-
-![Creator's Plaza](/images/bandaraya/creators-plaza.png)
-
-### Commonwealth Building
-
-代表马来西亚英联邦传统的行政大楼。
-
-![Commonwealth Building](/images/bandaraya/commonwealth.png)
-
-### MYS Developers Headquarters
-
-MYSverse 开发团队的游戏内总部。
-
-## 政府与机构建筑
-
-### Gov Building
-
-Bandaraya 的主要政府行政大楼。
-
-### UAE Embassy
-
-阿拉伯联合酋长国外交大使馆——城市中的外交建筑之一。
-
-### Asean Kuala Lumpur
-
-代表东盟区域组织的建筑。
-
-## 执法设施
-
-### Balai Polis Kuala Lumpur
-
-城市中的主要警察局。作为 POLIS 队伍的出生点和运营基地。
-
-### IPD Dang Wangi
-
-![IPD Dang Wangi](/images/bandaraya/ipd-dang-wangi.png)
-
-Dang Wangi 区警察总部，设有：
-
-- **CID 办公室** — 刑事调查部运营中心，配备互动照明系统。
-- **JSPT 办公室** — 交通警察（Jabatan Siasatan dan Penguatkuasaan Trafik）运营中心。
+这是 Bandaraya 吉隆坡区域内地点的快速参考。需要找诊所、加油站，或分辨哪座塔是哪座时使用。
 
 ## 紧急服务
 
-### Central Fire Station Kuala Lumpur
+| 地点 | 用途 |
+| --- | --- |
+| **IPD Dang Wangi** | 主要警察局。包含 lobby、**CID Office**、**JSPT Office**、**Operations Room**、**Senior Officer Offices**、**District Offices** 和 **Armoury**。POLIS 直升机 spawner。 |
+| **BOMBA Station** | Fire & Rescue HQ。BOMBA 直升机 spawner。 |
+| **KKM Ampang Clinic** | 卫生部诊所。由 KKM medic 驻守。 |
+| **Prince Court Medical Centre** | 医院。另一个 KKM 地点。 |
+| **Kem Wardieburn** | 军营。MAF 行动、阅兵场。 |
 
-![Central Fire Station Kuala Lumpur](/images/bandaraya/central-fire-station.png)
+## 交通
 
-主消防站和 Bomba 队伍总部。Bomba 成员在此出生并在全城应对火灾事件。
+| 地点 | 线路 / 功能 |
+| --- | --- |
+| **Conlay station** | MRT Kajang Line |
+| **Persiaran KLCC station** | MRT Kajang Line |
+| **Ampang Park station** | MRT Kajang Line |
+| **Bukit Bintang station** | KL Monorail Line |
+| **Raja Chulan station** | KL Monorail Line |
+| **Bukit Nanas station** | KL Monorail Line |
+| **Bus Terminal (KLBT)** | 中央巴士枢纽 |
+| **MyTransit Depot** | MyTransit 巴士运营 |
+| **Ambulance Standby Post** | 位于 Bus Terminal |
 
-### KKM Ampang Clinic
+每个车站附近都有 **CAG kiosk**，用于购买和充值交通卡。
 
-卫生部诊所，作为医疗设施和 KKM 队伍基地。
+## 商店
 
-### Prince Court Medical Centre
+### 商店网络
 
-城市中的大型医疗中心，设有专用停车设施。
+城市中有多家商店：
 
-### SJAM
+| 商店 | 内容 |
+| --- | --- |
+| **Ammulaysia** (GunDealer) | 枪械 (需要 gamepass) |
+| **Illegal Dealer (Hacker)** | 黑市 |
+| **Vastrix** | 服装与配饰 |
+| **Convenience Store** | 普通物品 |
+| **Tehlife** | 冰淇淋、牛奶 |
+| **Lickers** | 饮料 |
+| **Costume** | 服装 |
+| **Toolkit** | 工具 |
+| **Art** | 艺术品 |
+| **Bartender** | 饮料 |
+| **Kilo's Kebabs** | 食物 |
+| **KeluargaMart** | 普通物品 |
+| **Signs** | 标志牌 |
+| **CoffeeMaker** | 咖啡 |
+| **Vastrix Bank** | 存款和银行业务 (v3.8.0 新增) |
 
-St. John Ambulance MYSverse 的设施和地标。
+### Dealership
 
-## 军事设施
+| 地点 | 内容 |
+| --- | --- |
+| **Classic Car Dealer** | 平民车辆 dealership — 购买、租用、喷漆。也出售 HCC 豪华车辆。 |
 
-### Kem Wardieburn
+## 燃油与充电
 
-![Kem Wardieburn](/images/bandaraya/kem-wardieburn.png)
+| 地点 | 燃料类型 |
+| --- | --- |
+| **Radtrol Gas Station @ Jalan Pinang** | Petrol / Diesel |
+| **Charging Stations @ Community Retail (2×)** | 电动 |
 
-作为 MYSverse Armed Forces（MAF）运营基地的军营。位于城市内，是军事队伍的主要出生点和车辆库。
+## 银行与安全目标
 
-## 酒店与接待
+| 地点 | 备注 |
+| --- | --- |
+| **Hazbank** | 游戏内银行。潜在抢劫目标 — 需要 **10+ 名玩家在线** 才能开始抢劫。 |
+| **Vastrix Bank** | 存款、银行模块 |
 
-![酒店与接待](/images/bandaraya/hospitality.png)
+## 地标高楼
 
-Bandaraya 拥有众多酒店，体现了吉隆坡作为主要旅游目的地的地位：
+这些易辨认的 KL 高楼被忠实呈现：
 
-| 酒店                   | 备注                |
-| ---------------------- | ------------------- |
-| Grand Hyatt            | KLCC 附近的豪华酒店 |
-| Mandarin Oriental      | KLCC 区域的高档酒店 |
-| Traders Hotel          | KLCC 片区的一部分   |
-| Intercontinental Tower | 国际豪华酒店        |
-| ICON Hotel             | 市中心的现代酒店    |
-| Platinum Hotel         | 位于主要街道旁      |
-| Ambassador Hotel       | 市中心酒店          |
-| Fullman Hotel          | 位于城区内          |
+| 名称 | 备注 |
+| --- | --- |
+| **Maxis Tower** | 旗舰塔楼 |
+| **Public Bank Tower** | |
+| **Ambank Tower** | |
+| **PNB Tower** | |
+| **Hong Leong Tower** | |
+| **BSN Tower** / **BSN Bank** | |
+| **Standard Chartered Tower** | |
+| **KH Tower** | |
+| **ExxonMobil Tower** | |
+| **Intercontinental Tower** | |
+| **T&T Tower** | |
+| **O'Tism Studios Tower** | |
+| **G Tower** | |
+| **Tabung Haji** | |
+| **Etiqa Building** | |
+| **Ilham Gallery Building** | |
+| **The Pencil Co.** | |
+| **Gov Building** | |
 
-## 金融与商业建筑
+## 酒店与住宅
 
-| 建筑                     | 简介                            |
-| ------------------------ | ------------------------------- |
-| HazBank                  | 主要银行——抢劫事件的目标        |
-| BSN Bank 与 BSN Tower    | Bank Simpanan Nasional 综合大楼 |
-| Public Bank Tower        | 最高的金融大厦之一              |
-| AmBank Tower             | 主要银行机构                    |
-| Hong Leong Tower         | 金融服务大厦                    |
-| Etiqa Building           | 保险和金融服务                  |
-| Tabung Haji              | 朝觐基金管理大楼                |
-| ExxonMobil Tower         | 石油和天然气企业大厦            |
-| Standard Chartered Tower | 国际银行大厦                    |
-| Maxis Tower              | 电信总部                        |
-| PNB Tower                | Permodalan Nasional Berhad      |
-| G Tower                  | 现代商业大厦                    |
-| KH Tower                 | 企业办公大楼                    |
+| 名称 | 备注 |
+| --- | --- |
+| **ICON Hotel** | |
+| **Grand Hyatt** | |
+| **Mandarin Oriental** | |
+| **Traders Hotel** | |
+| **Platinum Hotel** | |
+| **Ambassador Hotel** | |
+| **Fullman Hotel** | |
+| **Fairview Residence** | |
+| **E&O Residence** | |
+| **Binjai Condo** | |
+| **The Avare** | |
+| **Aries Hotel** | 有可运作的 lift |
 
-## 住宅与综合用途
+## 其他地标
 
-| 建筑               | 简介                |
-| ------------------ | ------------------- |
-| E&O Residence      | 高档住宅大厦        |
-| Fairview Residence | 住宅小区            |
-| Binjai Condo       | KLCC 附近的豪华公寓 |
-| Troika             | 高端住宅大厦        |
-| The Avare          | 高档住宅            |
+- **Asean Kuala Lumpur** — ASEAN 综合楼
+- **AKClot** — 停车场
+- **UAE Embassy**
+- **Plaza Rakyat** — 宣传电视屏幕
+- **Community Retail (CR)** — 宣传电视屏幕；附近有充电站
 
-## 娱乐与社交
+## 基础设施
 
-### Club Kunyet
+- **Roads** — 带道路标线的完整路网
+- **Traffic Lights** — 4 路和 3 路红绿灯，支持自动和手动控制
+- **RoadSigns** — 路牌
+- **Streetlights** — 2-way DBKL 街灯模型
+- **Bus lanes** 沿 Jalan Ampang
+- **Bike lanes** 沿 Jalan Ampang
 
-夜总会和社交场所，设有酒保供应饮品，包括 Fruit Punch、Green Tea、Coffee、Citrus Splash 等。
+## 植被与装饰
 
-### Ilham Gallery Building
+- **棕榈树、大树、环境植被**
+- **Raya 2024** decorations (季节性 — 目前在城市中可见)
+- 其他节庆套装 (Merdeka、CNY、Halloween) 存放在 storage 中，并按季节轮换
 
-位于市中心的美术馆建筑。
+## CCTV
 
-### Jaysonite Studios HQ
+**Orwell CCTV System** — KL 各处共有 **30 个摄像头** (已验证)，由 IPD Dang Wangi 内的 CCTV 桌控制。包含 PTZ (pan-tilt-zoom)、bullet cameras，以及 DME / HEROS 系列固定摄像头。
 
-位于城市中的创意工作室总部。
+覆盖范围包括受真实 KL 启发的地点：
+- **Menara Maxis pickup** 与 Jalan Lorong Kuda × Jalan Stonor
+- **Pavilion Bukit Bintang** 与 Jalan Bukit Bintang × Jalan Sultan Ismail
+- **Ampang Road / KLBT** (双向)
+- **Jalan Binjai × KL Boulevard** (多个角度)
+- **Government Complex**
+- **Balai Polis lobby** (室内 + 室外)
+- **Lickers**、**Ammulaysia** (AMMU)、**Plaza Rakyat**
+- **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
+- **Traders' Hotel**
 
-### The Pencil Co.
+CCTV 是 POLIS 的行动资产 — 平民不会与画面 feed 互动。建筑上的摄像头 decal 到处可见，用于增强视觉真实感。
 
-一座知名的商业建筑。
+## 特殊地点
 
-## 商店与服务
+- **HardPoints** — Hardpoint gamemode 的 raid / capture 点
+- **Armoury** — 武器 / 装备储藏 (team-gated)
+- **e-hailing pickup points** — 分布在城市各处，用于出租车运营
+- **Inzun Notes** — 互动笔记系统
+- **Waypoints** — 100+ 个 waypoint 标记，用于导航和地点追踪
+- **Global Piano Connector** — 互动钢琴
+- **Mannequin** displays — 服装展示
 
-![商店与服务](/images/bandaraya/shops-and-services.png)
+## 车辆生成地点
 
-城市中散布着各种商店（详情请参阅[商店与经济](/zh/bandaraya/shops)页面）：
+城市中有 30+ 个车辆 spawner，按运营方组织：
 
-- 便利店（零食和饮品）
-- Tehlife（茶和咖啡店）
-- Keluarga Mart（杂货店）
-- Matkool（冰淇淋摊贩）
-- 工具箱商店（车辆维修）
-- 艺术品商店
-- 服装商店
+- **POLIS** — 多个 (Reg、Transports、JSPT、POLIS Heli)
+- **BOMBA** — Bomba Spawner、Bomba Utility、BOMBA Heli
+- **MAF** — MAF、MAF Civilian、GGK、KPTD
+- **Transport** — MyTransit、FirstGroup、Fermuda、FermudaDev、FLAXIM、FLAXIM 2、Fetch、Tompang
+- **Taxi** — Taxi Spawner
+- **POS** — POS Spawner
+- **Tow** — TOW Vehicles
+- **KKM / SJAM** — StJohn Spawner (SJAM)，以及通过队伍使用 KKM
+- **Special** — OCG、DEV Vehicles、DEV Vehicles 2、ARE、SPAD、JIM
+- **Civilian** — Classic Car Dealer
 
-## 街道与道路
+你只能使用你的队伍被授权的 spawner。参见[车辆](/zh/bandaraya/vehicles)。
 
-Bandaraya 拥有基于吉隆坡真实街道的详细路网：
+## 玩家生成点
 
-### 主要街道
+50+ 个玩家生成点按队伍组织 (`PlayerSpawns`)：
 
-- **Jalan Bukit Bintang** — 著名的购物和娱乐街
-- **Jalan Sultan Ismail** — 贯穿城市的主要干道
-- **Jalan Ampang** — 大使馆街和主要商业走廊
-- **Jalan P. Ramlee** — 以马来西亚传奇艺人命名
-- **Jalan Tun Razak** — 贯穿城市的主要公路
-- **KLCC Boulevard** — KLCC 周围的大道
+- **Emergency** — POLIS、BOMBA、KKM、SJAM
+- **Military** — MAF、KPTD
+- **Transport** — MyTransit、FirstGroup、Fermuda、Flaxim、Fetch、Bus Services、Taxi Services、Towing Services
+- **Government** — Government、Royal Family、Yang di-Pertuan Persekutuan、Foreign Rep
+- **Default** — Visitors、Malaysians、Arrested
+- **Other** — Developers、Moderation、OCG、NWS、JIM、HCC、RELA、TransitKL
 
-### 其他主要街道
+## 另请参阅
 
-Jalan Binjai、Jalan Kia Peng、Jalan Conlay、Jalan Stonor、Jalan Sultan、Jalan Petaling（唐人街）、Jalan Perak、Jalan Hampshire、Jalan Yap Kwan Seng、Jalan Penang、Jalan Puncak、Jalan Cendana、Jalan Mayang Sari、Jalan Saloma 等。
-
-### 高速公路
-
-- **Ampang-Kuala Lumpur Elevated Highway (E12)** — 设有匝道连接的高架快速路
-
-### 停车场
-
-![停车场](/images/bandaraya/parking.png)
-
-多个地点设有指定停车场，包括 MATIC Parking、Prince Court Medical Centre Parking 和酒店停车区域。
-
-## 公共交通
-
-![中央巴士总站](/images/bandaraya/city-bus-terminal.png)
-
-Bandaraya 的功能性公共交通由 **TransitKL** 和多家私营巴士公司在全城各巴士站提供服务，同时设有**中央巴士总站**。城市中还设有以吉隆坡真实网络为蓝本的精细铁路站点模型——完整站点列表请参阅[公共交通](/zh/bandaraya/getting-around)页面。
+- [出行](/zh/bandaraya/getting-around) — MRT、巴士、CAG kiosk
+- [车辆](/zh/bandaraya/vehicles) — spawner、dealership
+- [紧急服务](/zh/bandaraya/emergency-services) — IPD、BOMBA、KKM 地点
+- [经济](/zh/bandaraya/economy) — 商店及其售卖内容
+- [工作](/zh/bandaraya/jobs) — POS postbox 和 mailbox 地点 (游戏内)

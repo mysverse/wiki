@@ -36,9 +36,24 @@ Not sure what an acronym means? The [glossary](/bandaraya/glossary) has every on
 - **Built by:** the developer group at MYSverse
 - **Currency:** BR (Bandar Ringgit), earned in-game, top-up-able with Robux via developer products
 
-## Your first ten minutes
+## Next steps
 
-From "I just clicked play" to "I'm driving a car around KL."
+- **Brand new?** Start at [Getting Started](/bandaraya/get-started).
+- **Choosing a role?** See [Teams](/bandaraya/teams).
+- **Want to earn money fast?** Start with [Jobs](/bandaraya/jobs) and [Economy](/bandaraya/economy).
+- **Just want to travel?** Read [Getting Around](/bandaraya/getting-around).
+- **Everything else:** the [README](/) has a grouped table of contents and a quick-find.
+
+## See also
+
+- [Getting Started](/bandaraya/get-started)
+- [Teams](/bandaraya/teams)
+- [Rules](/bandaraya/rules)
+- [Glossary](/bandaraya/glossary)
+
+---
+
+Your first ten minutes in Bandaraya — from "I just clicked play" to "I'm driving a car around KL."
 
 ## TL;DR
 
@@ -52,8 +67,6 @@ From "I just clicked play" to "I'm driving a car around KL."
 ---
 
 ## Step 1 — Team selection menu
-
-![Main Menu](/images/bandaraya/get-started/main-menu.jpg)
 
 When you join, the **team menu** opens automatically. Browse the carousel.
 
@@ -70,12 +83,10 @@ You'll appear at a team-appropriate spawn location. Look around. You have:
 
 - A **backpack** with any tools your team gets by default (civilians get none).
 - A **wallet** (BR) — starts at 0 unless you've played before. Open it with the standard Roblox inventory button.
-- A **minimap** (bottom-right by default, plus a full map toggle).
+- A **driving licence** card in your backpack with a synthesized Malaysian IC number (`YYMMDD-14-<last4>` where YYMMDD is your Roblox account creation date and 14 is the WP KL state code).
+- If you're in the MYSverse group, also a **MyKad** ID card. Other group memberships (POLIS, BOMBA, KKM, MAF, SJAM, etc.) issue extra service-specific ID cards on top.
+- A **minimap** (bottom-right by default, plus a full map toggle on **M**). The minimap shows your current street name as a hero label and "Zone · Compass" beneath it.
 - A **topbar** with icons for map, phone, and any team-specific gadgets.
-
-![Minimap](/images/bandaraya/get-started/minimap.png)
-
-![Phone](/images/bandaraya/get-started/phone.jpg)
 
 ## Step 3 — Move around
 
@@ -89,9 +100,6 @@ You'll appear at a team-appropriate spawn location. Look around. You have:
 Pick one:
 
 ### Drive a car
-
-![Automobile](/images/bandaraya/get-started/automobile.png)
-
 1. Find a spawner — dealership is at **Classic Car Dealer**, civilian rentals start there too.
 2. Interact, pick a vehicle, and use the on-screen buttons (or A/D + Space) to spawn.
 3. Sit in the driver seat. Drive with **W / A / S / D**. **F1** toggles mouse steering.
@@ -104,9 +112,6 @@ Pick one:
 4. Details in [Getting Around](/bandaraya/getting-around).
 
 ### Take a job
-
-![Postal Service](/images/bandaraya/get-started/pos.jpg)
-
 1. See [Jobs](/bandaraya/jobs).
 2. **Postal Service (POS)** is the most newbie-friendly — reliable BR, no setup.
 3. **Taxi Driver** pays per trip but needs a gamepass or the Taxi Services team.
@@ -142,6 +147,8 @@ Pick one:
 | **Space** | Jump |
 | **Shift** (hold) | Sprint |
 | **E** | Interact with proximity prompts |
+| **F** | Sit on the nearest seat (within 5 studs) — drive a car, sit at a table, board a bus |
+| **Hold Space (in seat)** | Exit the seat (must hold — fast vehicles delay exit; safer than tap) |
 
 ### Vehicle
 
@@ -159,7 +166,7 @@ Pick one:
 | Key | Action |
 | --- | --- |
 | **Ctrl + W** | Open your CAG card wallet (any time) |
-| **Z + Shift** | Animation picker / feedback form |
+| **Z + Shift** (either order) | Animation picker — pick a pose: Sit, Surrender, Chilling, Injured, Leaning, Crossed Arms, Squat |
 | **Escape** | Close most menus |
 | **Shift + P** | Free camera (admin only — rank 251+ or whitelist) |
 

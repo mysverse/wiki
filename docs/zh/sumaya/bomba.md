@@ -2,8 +2,8 @@
 title: 消防
 description: 在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: 7eb0c900
-translated_on: '2026-04-30'
+translated_from_hash: c3c34412
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -47,6 +47,8 @@ Sumaya 目前在 **九个火灾模板** 之间轮换,每个都预先构建了自
 4. 瞄准火焰方块并喷射。
 
 每个火焰方块需要 hose 大约 **10 次** 击中才能完全熄灭。Hose 范围可达 **256 studs** - 对大多数事故来说绰绰有余,并让你保持安全距离。
+
+如果你死亡、切换队伍、离开 server、失去 source outlet，或 hose tool 被销毁，hose connection 会自动清理。如果 hose 在这些 reset 之后消失，请从 hydrant 或 truck outlet 拿一条新的。
 
 ### Hydrant
 

@@ -2,8 +2,8 @@
 title: Soalan Lazim & Petua
 description: Soalan biasa dan kemenangan pantas untuk pemain Lebuhraya yang baharu.
 lang: ms
-translated_from_hash: 8e50cd9d
-translated_on: '2026-04-21'
+translated_from_hash: 3c08148c
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Soalan Lazim & Petua
@@ -16,13 +16,35 @@ Soalan biasa, petua kualiti hidup, dan perkara yang pemain berpengalaman harap m
 
 Server ujian (termasuk playtest Studio) me-reset XP kepada 0 dengan sengaja, supaya pembangun boleh menguji ciri-ciri terhadap akaun yang baharu. Mesej amaran "XP will be reset to 0" adalah normal. **Kemajuan permainan langsung anda tidak terjejas** — hanya server ujian sahaja yang boleh dibuang.
 
-### Saya tak boleh buka pemunculan kenderaan (MyPod). Kenapa?
+### Saya tak boleh buka pemunculan kenderaan. Kenapa?
 
 Beberapa kemungkinan:
 
 - Anda mungkin perlu loading sepenuhnya dahulu — tunggu beberapa saat selepas menyertai.
 - Satu lapisan UI mungkin berada di atasnya — tutup mana-mana menu yang terbuka (Esc atau Backspace).
+- Anda perlu berada dekat prompt spawner kenderaan fizikal di dunia. Ikon topbar MyPod hanyalah pemain muzik.
+- Anda mungkin berada pada pasukan kerja dan cuba menggunakan spawner awam. Tukar ke Visitors atau gunakan spawner pasukan anda.
+- Anda mungkin menggunakan spawner khusus pasukan. Sertai pasukan yang dinamakan dahulu.
 - Jika masalah berterusan, sertai semula server.
+
+### Adakah MyPod itu spawner kenderaan?
+
+Tidak. **MyPod** ialah pemain muzik. Ia ada kawalan playback, volume, shuffle/repeat, favourites, senarai lagu, dan pilihan auto-play dalam kenderaan. Kenderaan dispawn dari pad/penanda spawner fizikal di dunia.
+
+### Spawner kenderaan terbuka, tetapi kenderaan saya terkunci atau hilang.
+
+Periksa kad dan jenis spawner:
+
+- **Level X** bermaksud level pemain anda terlalu rendah.
+- **Tier X** bermaksud rank kerjaya anda terlalu rendah pada cabang itu.
+- **Vehicle locked** bermaksud anda tidak memiliki kenderaan khas/gamepass/kod itu.
+- Kenderaan yang hilang biasanya bermaksud anda berada di jenis spawner salah: Basic, Bike, Premium, Special, atau spawner khusus pasukan.
+
+Lihat [Kenderaan -> Penyelesaian masalah spawner](/ms/lebuhraya/vehicles#spawner-troubleshooting).
+
+### Ke mana Career, Tokens, Credits, dan Races pergi?
+
+Semuanya berada di **Main Menu -> More**. Menu tahap atas kini menunjukkan **Home**, **Teams**, **Shop**, **Activity**, dan **More**. Activity mengandungi misi/cabaran/kemajuan season; More mengandungi panel sekunder seperti Career, Jobs, Tokens, Credits, Races, dan Help.
 
 ### Apakah cara terpantas untuk naik level?
 
@@ -63,7 +85,7 @@ Bahan api **kini percuma** dalam versi permainan ini. Harga konfigurasi (Electri
 Anda ada tiga pilihan:
 
 1. **Beli JerryCan** di **Jerrycan Shop**, isinya di mana-mana stesen (sepadankan jenis bahan api), dan tuangkan ke dalam tangki anda.
-2. **Despawn dan respawn** kenderaan anda dari menu MyPod. Anda akan hilang kedudukan anda tetapi mendapat tangki penuh.
+2. **Spawn kenderaan ganti** dari spawner kenderaan fizikal. Anda akan hilang kedudukan kenderaan semasa tetapi mendapat tangki baharu.
 3. **Minta pemain KEMRonda** untuk menunda — mereka boleh membawa anda ke stesen terdekat.
 
 ### Di manakah saya membaiki kereta saya?
@@ -121,13 +143,17 @@ Periksa ini:
 
 Item yang boleh digunakan dalam inventori anda yang memberi boost sementara — XP 2×, penggandaan XP Season Pass, atau akses pasukan sementara. Aktifkan dari inventori. Lihat [Ciri Sosial → Token](/lebuhraya/social-features#tokens-and-boosts).
 
+### Bagaimana saya melaporkan bug atau pemain?
+
+Buka sistem **Report** dalam permainan dan terangkan apa yang berlaku, di mana ia berlaku, pasukan/kenderaan/alat/menu yang anda gunakan, dan sama ada ia berulang. Untuk laporan pemain, sertakan nama pemain dan apa yang mereka lakukan. Lihat [Ciri Sosial -> Sistem Report](/ms/lebuhraya/social-features#report-system).
+
 ### Adakah terdapat mod pemain tunggal / persendirian?
 
-Server persendirian tersedia (beli dari halaman experience Roblox). Perhatikan bahawa **ekonomi dinyahdayakan dalam server persendirian** — anda tidak boleh memperoleh atau kehilangan BR dan XP. Server persendirian adalah paling sesuai untuk menganjurkan acara, adegan roleplay, atau berlatih memandu tanpa tekanan.
+Ya — **server persendirian** tersedia (beli dari halaman experience Roblox). Lihat bahagian **[Server persendirian](#server-persendirian)** khusus di bawah untuk semua yang pemilik dapat, kegunaan biasa, dan hadnya.
 
 ### Adakah terdapat kod promosi?
 
-Ya — buka tab **Main Menu → Codes** dan masukkan kod. Beberapa kod aktif secara kekal:
+Ya — buka **Main Menu -> Shop** dan gunakan medan penebusan kod. Beberapa kod aktif secara kekal:
 
 | Kod | Ganjaran | Penggunaan |
 |---|---|---|
@@ -179,6 +205,81 @@ Lebuhraya ialah permainan roleplay. Pemain yang bersungguh-sungguh dengan syif p
 ### Laporkan bug dan maklum balas
 
 Jika anda menemui bug atau mempunyai cadangan, sistem **Report** dalam permainan (MYS_ReportSystem ScreenGui) menghantar terus kepada pasukan MYSverse. Gunakannya — para pembangun membaca ini.
+
+## Server persendirian
+
+Server persendirian ialah ciri "VIP server" Roblox — anda membayar Robux untuk membuka instance server yang hanya boleh dimasuki oleh anda dan orang yang anda jemput. Ia salah satu ciri Lebuhraya paling berkuasa apabila anda tahu apa yang boleh dibuat.
+
+### Kegunaan
+
+**Komuniti roleplay khusus.** Banyak kumpulan bersebelahan MYSverse (akademi polis, kem latihan bomba dan penyelamat, syarikat teksi, server RP sekolah) menjalankan server Lebuhraya persendirian sendiri sebagai ruang lepak berkekalan. Kerana server persendirian terasing, kumpulan anda tidak diganggu pemandu rawak, dan adegan boleh berjalan berjam-jam tanpa gangguan.
+
+**Acara berstruktur.** Malam race, pertemuan konvoi, latihan kecemasan, ujian lesen, dan sesi screenshot semuanya mendapat manfaat daripada peta kosong di mana pemilik mengawal apa yang berlaku.
+
+**Latihan tanpa tekanan.** Belajar memandu trak berat, memperbaiki masa lap di race track, atau berlatih respons medic 999 dengan rakan — semuanya lebih mudah di server persendirian berbanding server awam yang sibuk.
+
+**Penciptaan kandungan.** Streamer dan pencipta video menggunakan server persendirian untuk merakam tanpa pemain lain mengganggu shot. Anda boleh pose kenderaan, susun adegan, dan reset dengan bebas tanpa gangguan.
+
+### Apa yang pemilik server dapat
+
+Apabila anda menyertai server persendirian sendiri, **anda diberikan Adonis admin level 200 secara automatik** — set perintah moderasi yang besar.
+
+- **Moderate tetamu anda**: kick, ban (daripada server persendirian itu sahaja), mute, freeze, respawn, teleport, spectate.
+- **Sediakan adegan**: teleport mana-mana pemain (atau diri sendiri) ke mana-mana lokasi, fly, noclip, ubah gravity, spawn kenderaan untuk tetamu.
+- **Delegasi admin**: gunakan arahan Adonis seperti `:admin @PlayerName` untuk menaikkan rakan dipercayai kepada moderator / admin dalam server anda. Mereka akan mendapat alat yang sama. Anda juga boleh `:mod`, `:headadmin`, dll., untuk tier admin berbeza.
+- **Urus tempoh**: boot-everyone, shutdown, reserve server baharu dari dalam server semasa.
+- **Jalankan pengalaman cara anda**: tetapkan mesej tersuai, cipta script tersuai (jika anda tahu Lua), ubah masa permainan, toggle cuaca (`!rainon` / `!rainoff`).
+
+**Moderator persistence**: admin yang anda beri dalam server persendirian disimpan di bawah DataStore khusus server itu (`privateServer_<yourUserId>`), berasingan daripada server awam. Admin kekal admin merentas sesi dalam server persendirian *anda*. Mereka tidak mendapat hak admin di server lain.
+
+**Ciri rentas server dinyahdayakan** — log audit Trello dan arahan rentas server tidak berjalan dalam server persendirian. Ini mengekalkan server anda berdikari dan bebas daripada kebergantungan luaran.
+
+### Had
+
+Sebaik anda masuk, notis **"Welcome to Lebuhraya Private Servers"** menerangkan kompromi. Semua progression dinyahdayakan:
+
+- **XP dan level** tidak disimpan.
+- Perubahan **currency (BR)** tidak berkekalan.
+- **Badges** tidak dianugerahkan (termasuk milestone 50k / 100k / 500k / 1m stud).
+- **Job progression tiers** tidak disimpan.
+- **Vehicle unlocks** tidak digunakan (anda masih melihat katalog yang sama, tetapi kenderaan race-unlocked atau kenderaan kod-redeemed tidak berkekalan).
+- **Promo codes** yang ditebus di sini tidak dikira.
+
+Jika anda mahu sesi anda *dikira*, sertai **server awam**. Server persendirian untuk adegan terkawal, bukan grinding.
+
+### Mengakses arahan admin
+
+Setelah anda ada admin level (sama ada sebagai pemilik atau diberi oleh pemilik), taip `:cmds` dalam chat untuk membuka senarai arahan Adonis. Arahan biasa yang tersedia untuk Admin (level 200):
+
+| Arahan | Tindakan |
+|---|---|
+| `:cmds` | Buka senarai arahan penuh |
+| `:tp @player` | Teleport ke pemain |
+| `:bring @player` | Bawa pemain kepada anda |
+| `:kick @player` | Keluarkan pemain dari server |
+| `:fly` | Toggle mod fly |
+| `:noclip` | Menembusi objek |
+| `:respawn @player` | Respawn pemain |
+| `:ff @player` | Tambah forcefield |
+| `:ban @player reason` | Ban dari server persendirian ini |
+| `:unban @player` | Nyahban pemain |
+| `:mod @player` | Naikkan kepada moderator (level 100) |
+| `:unmod @player` | Tarik balik status moderator |
+| `:shutdown` | Tutup server |
+
+**Nota**: Menaikkan seseorang kepada Admin penuh (level 200) atau lebih tinggi biasanya memerlukan kebenaran HeadAdmin dalam default Adonis. Sebagai pemilik anda berada pada Admin level (200), jadi anda boleh menaikkan ke Moderator dengan bebas tetapi biasanya bukan ke Admin. Jika rakan dipercayai perlu kuasa tier Admin, anda boleh beri hak Moderator dan itu meliputi kebanyakan kegunaan; jika tidak, lihat `:cmds` untuk apa yang benar-benar diterima.
+
+Rujuk dokumentasi Adonis di Roblox Creator Hub untuk sintaks penuh — ada ratusan arahan, dan level tepat yang diperlukan untuk setiap satu bergantung pada default Adonis serta override `Permissions` permainan.
+
+### Satu perkara yang admin tidak boleh buat
+
+**Admin level tidak memintas team gates.** Jika satu pasukan memerlukan gamepass (Bomba, Polis Trafik, dll.), ambang level (Kesihatan L200, APJ L300), atau keahlian kumpulan (Malaysians), anda masih perlu memenuhi syarat itu. Admin untuk moderasi, bukan akses pasukan percuma. (Anda *boleh* beri tetamu anda **Team Access Pass token** jika mahu mereka berada pada pasukan gated buat sementara.)
+
+### Apa berlaku apabila permainan ditutup untuk kemas kini?
+
+Lebuhraya menggunakan sistem "soft shutdown" supaya sesi anda tidak hilang. Apabila server sedang dimulakan semula, anda akan melihat prompt pada skrin yang lancar muncul (UI lain fade out), dan anda akan **dipindahkan secara automatik ke server baharu** selepas kemas kini dideploy. Progress anda disimpan secara automatik ketika keluar — XP, BR, level, kenderaan, housing, semuanya berkekalan.
+
+Anda tidak perlu melakukan apa-apa — biarkan teleport selesai. Jika anda memandu dalam konvoi bersama rakan, mereka akan diteleport secara individu (anda mungkin menyertai server berasingan, jadi berkumpul semula selepas itu).
 
 ## Tempat untuk mencari lebih banyak
 

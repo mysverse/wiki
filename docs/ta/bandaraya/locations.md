@@ -4,207 +4,208 @@ description: >-
   Bandaraya முழுவதும் உள்ள சிறப்புத் தலங்கள், கட்டிடங்கள், தெருக்கள்,
   நிலையங்கள், மருத்துவமனைகள், மற்றும் கடைகள்.
 lang: ta
-translated_from_hash: 0ec94584
-translated_on: '2026-04-21'
+translated_from_hash: c84a59b5
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # வரைபடம் & இடங்கள்
 
-பந்தராயா மத்திய கோலாலம்பூரின் விரிவான மறுஆக்கமாகும், இதில் சின்னமான நிஜ உலக அடையாளச்சின்னங்கள், அரசு கட்டிடங்கள், ஹோட்டல்கள் மற்றும் வசதிகள் உள்ளன. நீங்கள் ஆராயக்கூடிய முக்கிய இடங்களை இந்த வழிகாட்டி உள்ளடக்குகிறது.
-
-## சின்னமான அடையாளச்சின்னங்கள்
-
-### KLCC & KLCC Park
-
-பந்தராயாவின் மையப்பொருள் — அழகாக வடிவமைக்கப்பட்ட பூங்காவால் சூழப்பட்ட சின்னமான Kuala Lumpur City Centre வளாகம். கட்டாயம் பார்க்க வேண்டிய அடையாளச்சின்னம் மற்றும் பிரபலமான சமூக கூட்டு இடம்.
-
-![KLCC](/images/bandaraya/klcc.png)
-
-### PAVILION
-
-Bukit Bintang பகுதியில் உள்ள ஒரு முக்கிய ஷாப்பிங் மற்றும் பொழுதுபோக்கு அடையாளச்சின்னம்.
-
-![Pavilion](/images/bandaraya/pavilion.png)
-
-### Creator's Plaza
-
-MYSverse-ன் படைப்பாளிகள் மற்றும் பங்களிப்பாளர்களுக்கு அர்ப்பணிக்கப்பட்ட சமூக மையமான சதுக்கம்.
-
-![Creator's Plaza](/images/bandaraya/creators-plaza.png)
-
-### Commonwealth Building
-
-மலேசியாவின் Commonwealth பாரம்பரியத்தை பிரதிநிதித்துவப்படுத்தும் நிர்வாகக் கட்டிடம்.
-
-![Commonwealth Building](/images/bandaraya/commonwealth.png)
-
-### MYS Developers Headquarters
-
-MYSverse மேம்பாட்டு குழுவின் விளையாட்டுக்குள் உள்ள தலைமையகம்.
-
-## அரசு & நிறுவனக் கட்டிடங்கள்
-
-### Gov Building
-
-பந்தராயாவில் உள்ள முதன்மை அரசு நிர்வாகக் கட்டிடம்.
-
-### UAE Embassy
-
-ஐக்கிய அரபு அமீரகத்தின் இராஜதந்திர தூதரகம் — நகரில் உள்ள வெளிநாட்டு இராஜதந்திர கட்டிடங்களில் ஒன்று.
-
-### Asean Kuala Lumpur
-
-ASEAN பிராந்திய அமைப்பை பிரதிநிதித்துவப்படுத்தும் கட்டிடம்.
-
-## சட்ட அமலாக்க வசதிகள்
-
-### Balai Polis Kuala Lumpur
-
-நகரில் உள்ள முதன்மை காவல் நிலையம். POLIS அணிகளுக்கான உருவாக்க புள்ளி மற்றும் செயல்பாட்டு தளமாக செயல்படுகிறது.
-
-### IPD Dang Wangi
-
-![IPD Dang Wangi](/images/bandaraya/ipd-dang-wangi.png)
-
-Dang Wangi மாவட்ட காவல் தலைமையகம், இதில் அடங்கும்:
-
-- **CID Office** — ஊடாடும் விளக்கு அமைப்புகளுடன் கூடிய குற்றவியல் புலனாய்வுத் துறை செயல்பாட்டு மையம்.
-- **JSPT Office** — போக்குவரத்து காவல் (Jabatan Siasatan dan Penguatkuasaan Trafik) செயல்பாட்டு மையம்.
+Bandaraya-வின் Kuala Lumpur பகுதியில் எது எங்கே இருக்கிறது என்பதற்கான விரைவு reference. Clinic, fuel station, அல்லது எந்த tower எது என்பதைத் தேடும்போது இதைப் பயன்படுத்தவும்.
 
 ## அவசர சேவைகள்
 
-### Central Fire Station Kuala Lumpur
+| இடம் | நோக்கம் |
+| --- | --- |
+| **IPD Dang Wangi** | முக்கிய police station. Lobby, **CID Office**, **JSPT Office**, **Operations Room**, **Senior Officer Offices**, **District Offices**, மற்றும் **Armoury** அடங்கும். POLIS helicopter spawner. |
+| **BOMBA Station** | Fire & Rescue HQ. BOMBA helicopter spawner. |
+| **KKM Ampang Clinic** | Health ministry clinic. KKM medics பணியில் இருப்பார்கள். |
+| **Prince Court Medical Centre** | Hospital. இன்னொரு KKM site. |
+| **Kem Wardieburn** | Military camp. MAF operations, parade grounds. |
 
-![Central Fire Station Kuala Lumpur](/images/bandaraya/central-fire-station.png)
+## Transit
 
-முதன்மை தீயணைப்பு நிலையம் மற்றும் Bomba அணி தலைமையகம். Bomba உறுப்பினர்கள் இங்கு உருவாகி நகரம் முழுவதும் தீ சம்பவங்களுக்கு பதிலளிக்கின்றனர்.
+| இடம் | Line / Function |
+| --- | --- |
+| **Conlay station** | MRT Kajang Line |
+| **Persiaran KLCC station** | MRT Kajang Line |
+| **Ampang Park station** | MRT Kajang Line |
+| **Bukit Bintang station** | KL Monorail Line |
+| **Raja Chulan station** | KL Monorail Line |
+| **Bukit Nanas station** | KL Monorail Line |
+| **Bus Terminal (KLBT)** | Central bus hub |
+| **MyTransit Depot** | MyTransit bus operations |
+| **Ambulance Standby Post** | Bus Terminal-ல் |
 
-### KKM Ampang Clinic
+ஒவ்வொரு station-க்கும் அருகில் transit card வாங்கவும் top up செய்யவும் **CAG kiosk** இருக்கும்.
 
-மருத்துவ வசதி மற்றும் KKM அணி தளமாக செயல்படும் சுகாதார அமைச்சக மருத்துவமனை.
+## கடைகள்
 
-### Prince Court Medical Centre
+### கடை network
 
-பிரத்யேக வாகன நிறுத்துமிட வசதிகளுடன் கூடிய நகரில் உள்ள ஒரு முக்கிய மருத்துவ மையம்.
+நகரம் முழுவதும் பல கடைகள்:
 
-### SJAM
+| கடை | என்ன |
+| --- | --- |
+| **Ammulaysia** (GunDealer) | Firearms (gamepass required) |
+| **Illegal Dealer (Hacker)** | Black market |
+| **Vastrix** | Clothing and accessories |
+| **Convenience Store** | General items |
+| **Tehlife** | Ice cream, milk |
+| **Lickers** | Drinks |
+| **Costume** | Outfits |
+| **Toolkit** | Tools |
+| **Art** | Art items |
+| **Bartender** | Drinks |
+| **Kilo's Kebabs** | Food |
+| **KeluargaMart** | General items |
+| **Signs** | Signs |
+| **CoffeeMaker** | Coffee |
+| **Vastrix Bank** | Deposits and banking (v3.8.0-ல் சேர்க்கப்பட்டது) |
 
-St. John Ambulance MYSverse வசதி மற்றும் அடையாளச்சின்னம்.
+### Dealership
 
-## இராணுவ வசதிகள்
+| இடம் | என்ன |
+| --- | --- |
+| **Classic Car Dealer** | Civilian vehicle dealership — buy, rent, paint. HCC luxury vehicles-யும் விற்கிறது. |
 
-### Kem Wardieburn
+## Fuel & charging
 
-![Kem Wardieburn](/images/bandaraya/kem-wardieburn.png)
+| இடம் | Fuel type |
+| --- | --- |
+| **Radtrol Gas Station @ Jalan Pinang** | Petrol / Diesel |
+| **Charging Stations @ Community Retail (2×)** | Electric |
 
-MYSverse Armed Forces (MAF) செயல்பாட்டுத் தளமாக செயல்படும் இராணுவ முகாம். நகரத்திற்குள் அமைந்துள்ள இது இராணுவ அணிகளுக்கான முதன்மை உருவாக்க புள்ளி மற்றும் வாகன களஞ்சியமாகும்.
+## Banks & security targets
 
-## ஹோட்டல்கள் & விருந்தோம்பல்
+| இடம் | குறிப்புகள் |
+| --- | --- |
+| **Hazbank** | விளையாட்டுக்குள் உள்ள bank. Potential robbery target — robbery தொடங்க **10+ players online** தேவை. |
+| **Vastrix Bank** | Deposits, banking module |
 
-![ஹோட்டல்கள் & விருந்தோம்பல்](/images/bandaraya/hospitality.png)
+## Landmark towers
 
-பந்தராயாவில் கோலாலம்பூரின் முக்கிய சுற்றுலா இடமாக உள்ள தகுதியை பிரதிபலிக்கும் பல ஹோட்டல்கள் உள்ளன:
+அடையாளம் காண எளிதான இந்த KL towers உண்மையோடு பிரதிநிதித்துவப்படுத்தப்பட்டுள்ளன:
 
-| ஹோட்டல்                | குறிப்புகள்                        |
-| ---------------------- | ---------------------------------- |
-| Grand Hyatt            | KLCC அருகில் உள்ள சொகுசு ஹோட்டல்   |
-| Mandarin Oriental      | KLCC பகுதியில் உள்ள உயர்தர ஹோட்டல் |
-| Traders Hotel          | KLCC வளாகத்தின் ஒரு பகுதி          |
-| Intercontinental Tower | சர்வதேச சொகுசு ஹோட்டல்             |
-| ICON Hotel             | நகர மையத்தில் உள்ள நவீன ஹோட்டல்    |
-| Platinum Hotel         | முக்கிய தெருக்களில் அமைந்துள்ளது   |
-| Ambassador Hotel       | நகர மையத்தில் உள்ள ஹோட்டல்         |
-| Fullman Hotel          | நகர்ப்புறப் பகுதியில் அமைந்துள்ளது |
+| பெயர் | குறிப்புகள் |
+| --- | --- |
+| **Maxis Tower** | Flagship tower |
+| **Public Bank Tower** | |
+| **Ambank Tower** | |
+| **PNB Tower** | |
+| **Hong Leong Tower** | |
+| **BSN Tower** / **BSN Bank** | |
+| **Standard Chartered Tower** | |
+| **KH Tower** | |
+| **ExxonMobil Tower** | |
+| **Intercontinental Tower** | |
+| **T&T Tower** | |
+| **O'Tism Studios Tower** | |
+| **G Tower** | |
+| **Tabung Haji** | |
+| **Etiqa Building** | |
+| **Ilham Gallery Building** | |
+| **The Pencil Co.** | |
+| **Gov Building** | |
 
-## நிதி & வணிகக் கட்டிடங்கள்
+## Hotels & residences
 
-| கட்டிடம்                 | விளக்கம்                                   |
-| ------------------------ | ------------------------------------------ |
-| HazBank                  | முக்கிய வங்கி — கொள்ளை நிகழ்வுகளின் இலக்கு |
-| BSN Bank & BSN Tower     | Bank Simpanan Nasional வளாகம்              |
-| Public Bank Tower        | மிக உயரமான நிதி கோபுரங்களில் ஒன்று         |
-| AmBank Tower             | முக்கிய வங்கி நிறுவனம்                     |
-| Hong Leong Tower         | நிதி சேவைகள் கோபுரம்                       |
-| Etiqa Building           | காப்பீடு மற்றும் நிதி சேவைகள்              |
-| Tabung Haji              | ஹஜ் நிதி மேலாண்மை கட்டிடம்                 |
-| ExxonMobil Tower         | எண்ணெய் மற்றும் எரிவாயு நிறுவன கோபுரம்     |
-| Standard Chartered Tower | சர்வதேச வங்கி கோபுரம்                      |
-| Maxis Tower              | தொலைத்தொடர்பு தலைமையகம்                    |
-| PNB Tower                | Permodalan Nasional Berhad                 |
-| G Tower                  | நவீன வணிக கோபுரம்                          |
-| KH Tower                 | நிறுவன அலுவலகக் கட்டிடம்                   |
+| பெயர் | குறிப்புகள் |
+| --- | --- |
+| **ICON Hotel** | |
+| **Grand Hyatt** | |
+| **Mandarin Oriental** | |
+| **Traders Hotel** | |
+| **Platinum Hotel** | |
+| **Ambassador Hotel** | |
+| **Fullman Hotel** | |
+| **Fairview Residence** | |
+| **E&O Residence** | |
+| **Binjai Condo** | |
+| **The Avare** | |
+| **Aries Hotel** | வேலை செய்யும் lift உள்ளது |
 
-## குடியிருப்பு & கலப்புப் பயன்பாடு
+## பிற landmark-கள்
 
-| கட்டிடம்           | விளக்கம்                                 |
-| ------------------ | ---------------------------------------- |
-| E&O Residence      | உயர்தர குடியிருப்பு கோபுரம்              |
-| Fairview Residence | குடியிருப்பு வளாகம்                      |
-| Binjai Condo       | KLCC அருகில் உள்ள சொகுசு குடியிருப்புகள் |
-| Troika             | உயர்தர குடியிருப்பு கோபுரங்கள்           |
-| The Avare          | உயர்தர குடியிருப்பு                      |
+- **Asean Kuala Lumpur** — ASEAN complex
+- **AKClot** — Parking
+- **UAE Embassy**
+- **Plaza Rakyat** — promotional TV screen
+- **Community Retail (CR)** — promotional TV screen; அருகில் charging stations
 
-## பொழுதுபோக்கு & சமூகம்
+## Infrastructure
 
-### Club Kunyet
+- **Roads** — markings உடன் முழு road network
+- **Traffic Lights** — auto மற்றும் manual controls உடன் 4-way மற்றும் 3-way
+- **RoadSigns** — signage
+- **Streetlights** — 2-way DBKL streetlight models
+- **Bus lanes** Jalan Ampang sepanjang
+- **Bike lanes** Jalan Ampang sepanjang
 
-Fruit Punch, Green Tea, Coffee, Citrus Splash மற்றும் பலவற்றை வழங்கும் பார்டெண்டர் உள்ள ஒரு நைட்கிளப் மற்றும் சமூக இடம்.
+## Vegetation & decor
 
-### Ilham Gallery Building
+- **Palm trees, big trees, environmental vegetation**
+- **Raya 2024** decorations (seasonal — தற்போது நகரத்தில் தெரிகிறது)
+- பிற festive sets (Merdeka, CNY, Halloween) storage-ல் இருந்து season-களில் rotate செய்யப்படும்
 
-நகர மையத்தில் உள்ள ஒரு கலை காட்சியக கட்டிடம்.
+## CCTV
 
-### Jaysonite Studios HQ
+**Orwell CCTV System** — KL முழுவதும் **30 cameras** (verified), IPD Dang Wangi உள்ள CCTV desk-இல் இருந்து கட்டுப்படுத்தப்படும். PTZ (pan-tilt-zoom), bullet cameras, மற்றும் DME / HEROS-series fixed cameras கலவை.
 
-நகரில் அமைந்துள்ள ஒரு படைப்பு ஸ்டுடியோ தலைமையகம்.
+Coverage உண்மையான KL-இனால் ஈர்க்கப்பட்ட இடங்களை உள்ளடக்கும்:
+- **Menara Maxis pickup** மற்றும் Jalan Lorong Kuda × Jalan Stonor
+- **Pavilion Bukit Bintang** மற்றும் Jalan Bukit Bintang × Jalan Sultan Ismail
+- **Ampang Road / KLBT** (இரு திசைகளும்)
+- **Jalan Binjai × KL Boulevard** (பல angles)
+- **Government Complex**
+- **Balai Polis lobby** (interior + exterior)
+- **Lickers**, **Ammulaysia** (AMMU), **Plaza Rakyat**
+- **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
+- **Traders' Hotel**
 
-### The Pencil Co.
+CCTV ஒரு POLIS operational asset — civilians feed-உடன் interact செய்ய மாட்டார்கள். Visual authenticity-க்காக building-mounted camera decals எங்கும் உள்ளன.
 
-ஒரு குறிப்பிடத்தக்க வணிகக் கட்டிடம்.
+## சிறப்பு இடங்கள்
 
-## கடைகள் & சேவைகள்
+- **HardPoints** — Hardpoint gamemode-க்கான raid / capture points
+- **Armoury** — weapon / equipment storage (team-gated)
+- **e-hailing pickup points** — taxi operations-க்காக நகரம் முழுவதும் சிதறியுள்ளன
+- **Inzun Notes** — interactive notes system
+- **Waypoints** — navigation மற்றும் location tracking-க்கு பயன்படுத்தப்படும் 100+ waypoint markers
+- **Global Piano Connector** — interactive piano
+- **Mannequin** displays — clothing showcase
 
-![கடைகள் & சேவைகள்](/images/bandaraya/shops-and-services.png)
+## Vehicle spawn locations
 
-நகரம் முழுவதும் பல்வேறு கடைகள் சிதறியுள்ளன (விவரங்களுக்கு [கடை & பொருளாதாரம்](/ta/bandaraya/shops) பக்கத்தைப் பார்க்கவும்):
+நகரத்தில் 30+ vehicle spawners, operator அடிப்படையில் ஒழுங்குபடுத்தப்பட்டுள்ளன:
 
-- Convenience Stores (சிற்றுண்டிகள் மற்றும் பானங்கள்)
-- Tehlife (தேநீர் மற்றும் காபி கடை)
-- Keluarga Mart (மளிகைக் கடை)
-- Matkool (ஐஸ்கிரீம் விற்பனையாளர்)
-- Toolkit கடைகள் (வாகன பழுதுபார்ப்பு)
-- கலைக் கடைகள்
-- ஆடைக் கடைகள்
+- **POLIS** — multiple (Reg, Transports, JSPT, POLIS Heli)
+- **BOMBA** — Bomba Spawner, Bomba Utility, BOMBA Heli
+- **MAF** — MAF, MAF Civilian, GGK, KPTD
+- **Transport** — MyTransit, FirstGroup, Fermuda, FermudaDev, FLAXIM, FLAXIM 2, Fetch, Tompang
+- **Taxi** — Taxi Spawner
+- **POS** — POS Spawner
+- **Tow** — TOW Vehicles
+- **KKM / SJAM** — StJohn Spawner (SJAM), மற்றும் team வழியாக KKM
+- **Special** — OCG, DEV Vehicles, DEV Vehicles 2, ARE, SPAD, JIM
+- **Civilian** — Classic Car Dealer
 
-## தெருக்கள் & சாலைகள்
+உங்கள் team-க்கு அனுமதிக்கப்பட்ட spawners-ஐ மட்டுமே பயன்படுத்த முடியும். [வாகனங்கள்](/ta/bandaraya/vehicles) பார்க்கவும்.
 
-பந்தராயாவில் உண்மையான கோலாலம்பூர் தெருக்களை அடிப்படையாகக் கொண்ட விரிவான சாலை வலையமைப்பு உள்ளது:
+## Player spawn points
 
-### முக்கிய தெருக்கள்
+50+ player spawn points team அடிப்படையில் ஒழுங்குபடுத்தப்பட்டுள்ளன (`PlayerSpawns`):
 
-- **Jalan Bukit Bintang** — புகழ்பெற்ற ஷாப்பிங் மற்றும் பொழுதுபோக்கு தெரு
-- **Jalan Sultan Ismail** — நகரத்தின் வழியாக செல்லும் ஒரு முக்கிய பிரதான சாலை
-- **Jalan Ampang** — தூதரக வரிசை மற்றும் முக்கிய வணிக நடை
-- **Jalan P. Ramlee** — புகழ்பெற்ற மலேசிய கலைஞர் பெயரிடப்பட்டது
-- **Jalan Tun Razak** — நகரத்தின் வழியாக செல்லும் முக்கிய நெடுஞ்சாலை
-- **KLCC Boulevard** — KLCC-ஐ சுற்றியுள்ள பெரிய பவனி
+- **Emergency** — POLIS, BOMBA, KKM, SJAM
+- **Military** — MAF, KPTD
+- **Transport** — MyTransit, FirstGroup, Fermuda, Flaxim, Fetch, Bus Services, Taxi Services, Towing Services
+- **Government** — Government, Royal Family, Yang di-Pertuan Persekutuan, Foreign Rep
+- **Default** — Visitors, Malaysians, Arrested
+- **Other** — Developers, Moderation, OCG, NWS, JIM, HCC, RELA, TransitKL
 
-### பிற குறிப்பிடத்தக்க தெருக்கள்
+## மேலும் பார்க்கவும்
 
-Jalan Binjai, Jalan Kia Peng, Jalan Conlay, Jalan Stonor, Jalan Sultan, Jalan Petaling (Chinatown), Jalan Perak, Jalan Hampshire, Jalan Yap Kwan Seng, Jalan Penang, Jalan Puncak, Jalan Cendana, Jalan Mayang Sari, Jalan Saloma மற்றும் பல.
-
-### நெடுஞ்சாலைகள்
-
-- **Ampang-Kuala Lumpur Elevated Highway (E12)** — சறுக்கு சாலை இணைப்புகளுடன் கூடிய உயர்நிலை விரைவு சாலை
-
-### வாகன நிறுத்தம்
-
-![வாகன நிறுத்தம்](/images/bandaraya/parking.png)
-
-MATIC Parking, Prince Court Medical Centre Parking மற்றும் ஹோட்டல் வாகன நிறுத்துமிட பகுதிகள் உட்பட பல இடங்களில் நியமிக்கப்பட்ட வாகன நிறுத்துமிடங்கள் உள்ளன.
-
-## பொதுப் போக்குவரத்து
-
-![நகர பேருந்து முனையம்](/images/bandaraya/city-bus-terminal.png)
-
-பந்தராயாவில் செயல்பாட்டு பொதுப் போக்குவரத்து **TransitKL** மற்றும் பல்வேறு தனியார் பேருந்து நிறுவனங்களால் நகரம் முழுவதும் உள்ள பேருந்து நிறுத்தங்களில் வழங்கப்படுகிறது, அத்துடன் **மத்திய பேருந்து முனையம்** உள்ளது. நகரத்தில் கோலாலம்பூரின் உண்மையான வலையமைப்பை அடிப்படையாகக் கொண்ட விரிவான இரயில் நிலைய மாதிரிகளும் உள்ளன — முழு நிலையப் பட்டியலுக்கு [பொதுப் போக்குவரத்து](/ta/bandaraya/getting-around) பக்கத்தைப் பார்க்கவும்.
+- [Getting Around](/ta/bandaraya/getting-around) — MRT, bus, CAG kiosks
+- [வாகனங்கள்](/ta/bandaraya/vehicles) — spawners, dealership
+- [அவசர சேவைகள்](/ta/bandaraya/emergency-services) — IPD, BOMBA, KKM locations
+- [பொருளாதாரம்](/ta/bandaraya/economy) — கடைகள் மற்றும் அவை விற்கும் பொருட்கள்
+- [வேலைகள்](/ta/bandaraya/jobs) — POS postbox மற்றும் mailbox locations (விளையாட்டுக்குள்)

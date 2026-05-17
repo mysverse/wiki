@@ -2,8 +2,8 @@
 title: 警察
 description: 在 Sumaya 扮演 POLIS — 巡逻、逮捕、职级与装备。
 lang: zh
-translated_from_hash: 6c9358fc
-translated_on: '2026-04-30'
+translated_from_hash: '26236145'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -26,9 +26,18 @@ needs_review: true
 
 随着您升级 POLIS 部门,部分服装与装备会解锁(等级 1 的 Duty Belt + Beret,等级 10 的 Reflective Vest,等级 20 的 Reflective Coat)。请参阅 [Progression](/sumaya/progression) 查看横跨三个紧急服务的完整职业物品表。
 
-## 可放置的交通/犯罪现场物品(预留 / 未分发)
+## 可放置的交通/犯罪现场物品与专门化
 
-游戏定义了 **5 件可放置工具**(`Polis Cone`、`Polis Sign`、`Polis Umbrella`、`SCone`、`PBSign`)— 每件都有可运作的放置处理程序和 `PlaceableItemsLeft` 计数器。然而,**目前任何团队配装、NPC、商店或解锁都不会将它们提供给 POLIS 玩家**。模型和脚本存在,但分发路径在实时构建中尚未连接,因此您在正常游戏中不会在库存中找到这些。视为为未来更新预留。
+游戏定义了 **5 件可放置工具**(`Polis Cone`、`Polis Sign`、`Polis Umbrella`、`SCone`、`PBSign`)— 每件都有可运作的放置处理程序和 `PlaceableItemsLeft` 计数器。普通 POLIS 配装仍然不会自动发放它们。
+
+两个未来 POLIS 专门化现在作为后端/商店 placeholder 存在:
+
+| 专门化 | 状态 |
+|--------------|--------|
+| **Traffic POLIS Role** | Coming Soon。Dev/测试路径可以授予 radar + 道路管制可放置物。 |
+| **Unmarked POLIS Role** | Coming Soon。Dev/测试路径可以授予 Concealed Badge + Plate Finder。 |
+
+它们不是队伍选择中的独立队伍。设计上会在普通 POLIS 队伍内生效。
 
 前往警察局取车,或在街道上巡逻并在您的 MDT(Mobile Data Terminal)应用程序上留意通缉嫌疑人。
 
@@ -246,7 +255,7 @@ Polis 有 **16 ranks**,是所有紧急服务中最多的。称谓基于真实的
 - **不要错过里程碑奖励。** 每 5 次逮捕 = +200 Ringgit。规划您的轮班以达到 5、10、15。
 - **5-star 逮捕是巨大的。** 单次 5-star 抓捕 = 400 XP + 1200 Ringgit。它们更难做到,但值得守候。
 - **Siren = 无罚单。** 当您驾驶赶往任务时打开它们 - 否则您自己的超速可能会让您尴尬地拿到罚单。
-- **不要让自己被通缉。** 作为 POLIS 犯罪原本应该让您自动从团队降级,但该侦听器在当前 build 中未连接 - 您仍留在 POLIS。不要指望游戏将您切换回平民;如果您想扮演罪犯,请先离开团队。(实际上:POLIS 反正被禁止使用被动模式,所以执勤时犯罪极其危险。)
+- **不要让自己被通缉。** 如果您作为 POLIS 进入 1-star wanted，实时 demotion listener 会将您移出紧急服务队伍，并 despawn 您的紧急车辆。如果您想扮演罪犯，请先离开队伍。
 - **火灾辅助 XP 仅限 Kesihatan。** 与看似直观的相反,POLIS 不会从附近火灾事件中获得 XP - 游戏检查 `JobType == "EMS"`,而 POLIS 的 `JobType = "Law"`。只有 Kesihatan 玩家受益于站在火灾 512 studs 内每方块 10 player XP。
 
 ## 接下来呢?

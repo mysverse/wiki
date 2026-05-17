@@ -2,8 +2,8 @@
 title: 经济
 description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
-translated_from_hash: 8879dce6
-translated_on: '2026-04-30'
+translated_from_hash: '7e369425'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -19,7 +19,7 @@ Sumaya 的货币是 **Ringgit**，在 UI 中缩写为 **SR**（Sumaya Ringgit）
 - **钱包**里有 **100 Ringgit**。
 - **银行**里有 **1,000 Ringgit**。
 
-足以租用一些入门车辆和购买几样商店物品。一开始还买不起房子（Tier 1 为 **25,000 SR** — 见[房屋](/sumaya/housing)）— 计划先在几个职业上磨练一番。
+这些钱足够买几样商店物品，并开始驾驶免费的入门车（**Perosatu Axia** 或 **Protan Wira**）。付费平民车租金从 **1,250 SR** 起，所以仅靠起始钱包余额还不够租车；一开始也买不起房子（Tier 1 为 **25,000 SR** — 见[房屋](/sumaya/housing)）。
 
 ## 钱包 vs 银行
 
@@ -65,6 +65,12 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 
 按动作付款。总额取决于你工作多久。
 
+### Income / Job XP Booster
+
+未来的 **Income / Job XP Booster** pass 会在 Shop 里显示为停用的 **Coming Soon** 卡。启用后，它的设计用途是为符合条件的工作增加 **25% 工作 Ringgit** 和 **25% 工作 sector XP**：Bomba、Polis 逮捕/radar、Kesihatan、Mamak、Fast Food、Palm Oil、Trawl Fishing，以及 gig jobs。
+
+它**不会**提升玩家等级 XP、任务奖励、犯罪收入、ATM 转账、Sadaqa/捐赠、退款，或房屋/车辆/商店交易。
+
 | 来源 | Ringgit |
 |--------|---------|
 | 钓竿钓鱼（每种物种售出） | 8 SR 到钱包 |
@@ -72,6 +78,12 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 | Mamak（每位顾客） | 30 SR 到银行，每 10 位 +180，错单 -25 |
 | Fast Food（每位顾客） | 25 SR 到银行，每 10 位 +150，错单 -20 |
 | 棕榈油（每个掉落的果实） | 固定 20 SR，下班结算时存入银行；tier 2-4 的桶/镰刀加快速度，但不影响每果报酬 |
+| Gig job: E-Hailing | 40 SR、8 XP，可能有 30% 小费 |
+| Gig job: Pos Nasional | 每个包裹 35 SR 和 7 XP，可能有 10% 小费 |
+| Gig job: Tow Truck | 80 SR、12 XP，可能有 20% 小费 |
+| Gig job: Reporter | 50 SR、10 XP，可能有 15% 小费 |
+| Gig job: Tour Guide | 120 SR、20 XP，可能有 40% 小费 |
+| Gig job: Restaurant Supplier | 45 SR、8 XP，可能有 10% 小费 |
 | Bomba（每个火焰方块） | 15 SR 到钱包 |
 | Bomba（每 15 个方块的里程碑） | +150 SR 奖金 |
 | Kesihatan（绷带） | 100 SR 到钱包 |
@@ -109,9 +121,10 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 5. **Kesihatan 夹板** - 每个夹板 200 SR + 里程碑奖金。
 6. **Pickpocket NPC** - 每次 50-200 SR，低风险，稳定。
 7. **棕榈油班次** - 稳定，依赖 level，下班结算入银行。
-8. **服务业订单** - 稳定；每位顾客付款固定（Mamak 30 SR / FastFood 25 SR）且**不**随 sector level 增加。更高的 level 只解锁外观等级。
-9. **钓竿钓鱼** - 快速 SR，仅玩家 XP，最适合休闲游戏。
-10. **拖网捕鱼** - SR 较慢，但是提升 fishing sector 等级的唯一方式。
+8. **Gig jobs** - 短而多样的差事，带快速互动步骤。Tour Guide 和 Tow Truck 的单次 gig 收入最高，而 Pos Nasional 可以按包裹累积。
+9. **服务业订单** - 稳定；每位顾客付款固定（Mamak 30 SR / FastFood 25 SR）且**不**随 sector level 增加。更高的 level 只解锁外观等级。
+10. **钓竿钓鱼** - 快速 SR，仅玩家 XP，最适合休闲游戏。
+11. **拖网捕鱼** - SR 较慢，但是提升 fishing sector 等级的唯一方式。
 
 ## 花费 Ringgit
 
@@ -119,8 +132,9 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 
 你大部分钱将花在这里。
 
-- **免费平民车** - 玩家 level 1 时有数十辆可用。直接租用驾驶。
-- **Premium 平民车** - 2,000-29,000 Ringgit。Joguar XJ308 R 是上限。
+- **免费入门车** - Perosatu Axia 和 Protan Wira。
+- **付费标准平民车** - 租金 1,250-8,750 Ringgit，购买价 5,000-35,000 Ringgit。Protan X70 是当前标准平民车的上限。
+- **Classic Car Pack 车辆** - 受 gamepass 限制；Protan Saga 1985 对拥有者免费，付费经典车购买价为 12,000-29,000 Ringgit。
 - **拖网渔船** - Tier 1 免费，Tier 2 25,000，Tier 3 37,000。
 - **团队车辆** - 6,500-20,000 Ringgit，受 sector level 限制。
 
@@ -170,6 +184,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 ## 下一步？
 
 - [进度](/sumaya/progression) 了解 XP 和 Ringgit 如何互动。
+- Gig jobs 的短程收入详情。
 - [车辆](/sumaya/vehicles) 价格目录。
 - [房屋](/sumaya/housing) 房屋价格。
 - [犯罪与法律](/sumaya/crime-and-law) 经济的犯罪面。

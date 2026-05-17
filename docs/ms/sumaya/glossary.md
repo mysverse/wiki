@@ -2,8 +2,8 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: 7ced3912
-translated_on: '2026-04-30'
+translated_from_hash: db93a1f9
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -37,7 +37,7 @@ Perkataan ini berasal daripada kosa kata harian Malaysia/Melayu. Anda akan melih
 | **Sadaqa** | Pemberian sedekah / amal jariah (daripada bahasa Arab, digunakan secara meluas dalam bahasa Melayu). | Label pada gesaan derma pemain ke pemain pada alat Wallet. |
 | **Nelayan** | Nelayan. | "Nelayan Sdn. Bhd." adalah pembekal gaji kerjaya menangkap ikan (bermaksud "Syarikat Nelayan Berhad"). |
 | **Sdn. Bhd.** | Singkatan untuk "Sendirian Berhad" - bersamaan Malaysia dengan "Ltd." atau "Pte Ltd". | Muncul pada notifikasi gaji. |
-| **Jabatan** | Jabatan / pihak berkuasa. | Digunakan dalam tajuk pangkat dunia sebenar cth. "Bomba MYSverse" (Jabatan Bomba dan Penyelamat). |
+| **Jabatan** | Jabatan / pihak berkuasa. | Digunakan dalam tajuk pangkat dunia sebenar cth. "Bomba MYSverse" (Bomba MYSverse). |
 | **Kementerian** | Kementerian. | "KKN" bermaksud **Kementerian Kesihatan Nasional** - lambang ambulans pada kenderaan Kesihatan. |
 | **Jalan** | Jalan. | Muncul dalam nama jalan seperti "Jalan Triden", "Jalan Bawang". |
 | **Lorong** | Lorong. | Jalan-jalan yang lebih kecil seperti "Lorong Pais", "Lorong Kicai". |
@@ -141,5 +141,5 @@ Untuk Polis, singkatan adalah berdasarkan inisial pangkat MYSverse Police (POLIS
 
 ## Apa seterusnya?
 
-- [Mulakan](/sumaya/get-started) jika anda baharu.
-- Mana-mana bahagian khusus — gunakan bar sisi untuk senarai kandungan penuh.
+- [Mula](/ms/) jika anda baharu.
+- Mana-mana bahagian khusus (lihat [README](/ms/) untuk senarai kandungan penuh).

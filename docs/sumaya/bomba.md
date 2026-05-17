@@ -43,6 +43,8 @@ The server picks one at random per incident. The card on your task HUD shows the
 
 Each fire block needs about **10 hits** from the hose before it's fully out. The hose reaches up to **256 studs** - that's plenty for most incidents, and lets you stand at a safe distance.
 
+If you die, switch teams, leave the server, lose the source outlet, or the hose tool gets destroyed, the hose connection cleans itself up automatically. If a hose disappears after one of those resets, grab a fresh one from the hydrant or truck outlet.
+
 ### Hydrants
 
 Hydrants are fixed around the map inside `Workspace.HydrantConnections`. The current map has a handful of hydrant models — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.

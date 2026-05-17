@@ -2,15 +2,15 @@
 title: 车辆
 description: Sumaya 的汽车、船只、救护车、生成器与个性化定制。
 lang: zh
-translated_from_hash: a340548c
-translated_on: '2026-04-30'
+translated_from_hash: 61c50e55
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
 
 # 车辆
 
-Sumaya 拥有庞大的车辆目录：民用车（免费与高级）、捕鱼拖网船、警车、Bomba 消防车与救护车。本页介绍如何生成它们、附带价格的完整目录，以及如何个性化与维护它们。
+Sumaya 拥有庞大的车辆目录：民用车、Classic Car Pack 车辆、捕鱼拖网船、警车、Bomba 消防车与救护车。本页介绍如何生成它们、附带价格的完整目录，以及如何个性化与维护它们。
 
 ## 如何生成车辆
 
@@ -36,41 +36,61 @@ Sumaya 拥有庞大的车辆目录：民用车（免费与高级）、捕鱼拖�
 
 ## 民用车
 
-大多数民用车生成时**免费**（未设定价格）。少数为高级车。所有民用车都在**玩家等级 1**——没有等级门槛——但付费车辆需要 Ringgit。
+所有标准民用车都在**玩家等级 1**可用。只有两辆免费；其余车辆有租用和购买价格。
 
-### 免费民用车
+### 免费入门车
 
-这些生成时无需付费。你可以随时把它们开出来：
+这些无需租金或购买价即可生成：
 
-- Perosatu Axia（紧凑型掀背车）
-- Perosatu Myvi 2020（掀背车）
-- Perosatu Bezza（轿车）
-- Perosatu Alza（MPV）
-- Perosatu Ativa（紧凑型 SUV）
-- Perosatu Aruz（SUV）
-- Protan Wira（紧凑型轿车）
-- Protan Wira Aeroback（掀背车）
-- Protan Putra（运动跑车）
-- Protan Waja（轿车）
-- Protan Preve（轿车）
-- Protan Saga 1985（紧凑型轿车）
-- Protan Exora（MPV）
-- Handai City（MPV）
-- Handai Civic（MPV）
-- Protan S70（轿车）
-- Protan X70（SUV）
-- Tayoti Hilux（皮卡车）
+- Perosatu Axia
+- Protan Wira
 
-### 高级民用车
+### 付费标准民用车
 
 | 车辆 | 租用 | 购买 |
-|---------|------|-----|
-| Protan X50（紧凑型 SUV） | 2,000 Ringgit | 10,000 Ringgit |
-| Merzda Miata（敞篷跑车） | 2,400 Ringgit | 12,000 Ringgit |
+|---------|-----:|----:|
+| Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
+| Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
+| Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
+| Protan Waja | 1,750 Ringgit | 7,000 Ringgit |
+| Tayoti Hilux | 2,000 Ringgit | 8,000 Ringgit |
+| Perosatu Myvi 2020 | 2,500 Ringgit | 10,000 Ringgit |
+| Protan Exora | 2,875 Ringgit | 11,500 Ringgit |
+| Perosatu Ativa | 3,750 Ringgit | 15,000 Ringgit |
+| Perosatu Alza | 4,250 Ringgit | 17,000 Ringgit |
+| Perosatu Aruz | 4,250 Ringgit | 17,000 Ringgit |
+| Protan Preve | 5,000 Ringgit | 20,000 Ringgit |
+| Handai City | 5,500 Ringgit | 22,000 Ringgit |
+| Handai Civic | 5,750 Ringgit | 23,000 Ringgit |
+| Protan X50 | 8,000 Ringgit | 32,000 Ringgit |
+| Protan S70 | 8,250 Ringgit | 33,000 Ringgit |
+| Protan X70 | 8,750 Ringgit | 35,000 Ringgit |
+
+**Protan X70** 目前是最昂贵的标准民用车。
+
+### Classic Car Pack
+
+这些车会显示在民用车商处，但需要 Classic Car Pack gamepass。非拥有者会看到它们被锁定，并带有 gamepass 提示。
+
+## Shop 中的车辆包
+
+Shop 现在包含即将推出车辆包的 placeholder 卡：
+
+- **Premium EV Vehicles**
+- **Premium Sports Vehicles**
+- **Premium Luxury Vehicles**
+- **Expanded POLIS Vehicles**
+- **Unmarked POLIS Role**
+- **Traffic POLIS Role**
+
+除非已分配最终 Roblox pass ID，否则这些卡目前显示 **Coming Soon**。现有 legacy 拥有者仍保留旧 gate 已存在处的访问权，而 Classic/Retro pack 仍是当前可购买的车辆 pass。
+
+| 车辆 | 租用 | 购买 |
+|---------|-----:|----:|
+| Protan Saga 1985 | 免费 | 免费 |
+| Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
-
-Joguar XJ308 R 是游戏中最昂贵的民用车辆。
 
 ## 捕鱼拖网船
 
@@ -159,6 +179,12 @@ Sumaya 目前的燃料实际上**无限**——你无须担心耗尽燃料或在
 
 更多 Collision 应用相关信息请参阅 [Phone and UI](/sumaya/phone)。
 
+## 进入车辆时的镜头
+
+当你坐进或离开车辆时，镜头现在会平滑过渡到驾驶视角，而不是突然跳转。游戏会自动为桌面、平板和移动端控制调整取景，因此你不需要更改设置。
+
+如果你正在使用另一种镜头模式，例如手机的 Cinematic 应用，该模式会保持优先级，直到你关闭它。
+
 ## 所有权与持久性
 
 - **租用的车辆**会在你重生、登出或生成另一辆车时消失。
@@ -176,7 +202,7 @@ Sumaya 目前的燃料实际上**无限**——你无须担心耗尽燃料或在
 
 ## 小贴士
 
-- **先租后买。** 在投入 10,000+ Ringgit 之前，先以租用价格试试一辆车。
+- **先租后买。** 在投入 5,000+ Ringgit 之前，先以租用价格试试一辆付费车。
 - **随等级升级你的团队车辆。** 更高 tier 的 Bomba 与 Polis 车辆更快、更耐用。
 - **警察和消防员的警笛 = 无罚单。** 出勤时务必开启警笛，免得自己罚自己。
 - **不要停在车道上。** 留下的民用车可能被劫持；若你拥有它且不想被偷，请停在更安静的地方。

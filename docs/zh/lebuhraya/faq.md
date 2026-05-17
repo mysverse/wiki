@@ -2,8 +2,8 @@
 title: 常见问题与技巧
 description: Lebuhraya 新玩家的常见问题与快速上手技巧。
 lang: zh
-translated_from_hash: 8e50cd9d
-translated_on: '2026-04-21'
+translated_from_hash: 3c08148c
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 常见问题与技巧
@@ -16,13 +16,35 @@ needs_review: true
 
 测试服(包括 Studio playtest)会故意将 XP 重置为 0,以便开发者可以用全新的账户测试功能。"XP will be reset to 0" 的警告信息是正常的。您的**正式游戏进度不受影响** — 只有测试服是一次性的。
 
-### 我无法打开车辆生成器(MyPod)。为什么?
+### 我无法打开车辆生成器。为什么?
 
 有几种可能:
 
 - 您可能需要完全载入 — 加入后等待几秒钟。
 - 可能有一个 UI 叠加层在上面 — 关闭任何已打开的菜单(Esc 或 Backspace)。
+- 你需要靠近世界中的实体车辆 spawner prompt。MyPod 顶栏图标只是音乐播放器。
+- 你可能在工作队伍上，却试图使用平民 spawner。切回 Visitors 或使用你的队伍 spawner。
+- 你可能正在使用队伍专属 spawner。请先加入指定队伍。
 - 如果问题持续,请重新加入 server。
+
+### MyPod 是车辆生成器吗?
+
+不是。**MyPod** 是音乐播放器。它有播放控制、音量、shuffle/repeat、favourites、曲目列表，以及在车内自动播放的选项。车辆是从世界中的实体 spawner pad/marker 生成的。
+
+### 车辆 spawner 打开了，但我的车辆被锁或不见了。
+
+检查卡片和 spawner 类型：
+
+- **Level X** 表示你的玩家 level 太低。
+- **Tier X** 表示你在该分支的 career rank 太低。
+- **Vehicle locked** 表示你没有拥有该特殊/gamepass/code 车辆。
+- 车辆不显示通常表示你在错误的 spawner 类型：Basic、Bike、Premium、Special，或队伍专属 spawner。
+
+请参阅[车辆 -> Spawner 疑难排解](/zh/lebuhraya/vehicles#spawner-troubleshooting)。
+
+### Career、Tokens、Credits 和 Races 去哪里了?
+
+它们在 **Main Menu -> More** 下面。顶层菜单现在显示 **Home**、**Teams**、**Shop**、**Activity** 和 **More**。Activity 包含 missions/challenges/season progress；More 包含 Career、Jobs、Tokens、Credits、Races 和 Help 等次级面板。
 
 ### 升级最快的方法是什么?
 
@@ -63,7 +85,7 @@ needs_review: true
 您有三个选择:
 
 1. 在 **Jerrycan Shop** **购买 JerryCan**,在任何加油站装满(匹配燃料类型),然后倒入您的油箱。
-2. 从 MyPod 菜单**Despawn 并 respawn** 您的车辆。您会失去您的位置,但会得到一个满油箱。
+2. 从实体车辆 spawner **生成一辆替换车辆**。你会失去当前车辆位置，但会得到一辆新车。
 3. **请求 KEMRonda 玩家**拖车 — 他们可以把您带到最近的加油站。
 
 ### 我在哪里修理我的车?
@@ -121,13 +143,17 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 
 您库存中的消耗品,提供临时加成 — 2× XP、Season Pass XP 倍增或临时队伍访问权限。从库存激活。请参阅[社交功能 → 代币](/lebuhraya/social-features#tokens-and-boosts)。
 
+### 如何报告 bug 或玩家?
+
+打开游戏内 **Report** 系统，说明发生了什么、在哪里发生、你当时使用的队伍/车辆/工具/菜单，以及是否会重复发生。玩家举报请包括玩家名称和他们做了什么。参见[社交功能 -> Report 系统](/zh/lebuhraya/social-features#report-system)。
+
 ### 有单人/私人模式吗?
 
-可以使用私人 server(从 Roblox 体验页面购买)。请注意,**私人 server 中的经济已禁用** — 您无法赚取或失去 BR 和 XP。私人 server 最适合举办活动、角色扮演场景,或在没有压力的情况下练习驾驶。
+有 — **私人 server** 可用（从 Roblox experience 页面购买）。请查看下方专门的 **[私人 server](#私人-server)** 部分，了解 server owner 得到什么、常见用途和限制。
 
 ### 有促销码吗?
 
-有 — 打开 **Main Menu → Codes** 标签页并输入代码。有几个代码是永久有效的:
+有 — 打开 **Main Menu -> Shop** 并使用 code redemption 输入框。有几个代码是永久有效的:
 
 | 代码 | 奖励 | 使用次数 |
 |---|---|---|
@@ -179,6 +205,81 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 ### 报告 bug 和反馈
 
 如果您遇到 bug 或有建议,游戏内的 **Report** 系统(MYS_ReportSystem ScreenGui)会直接发送给 MYSverse 团队。使用它 — 开发者会阅读这些。
+
+## 私人 server
+
+私人 server 是 Roblox 的 "VIP server" 功能 — 你支付 Robux 来开一个只有你和受邀者能加入的 server instance。了解它能做什么后，它是 Lebuhraya 最强大的功能之一。
+
+### 用途
+
+**专属 roleplay 社群。** 许多 MYSverse 周边团体（警察学院、消防救援训练营、出租车公司、学校 RP server）都会运行自己的 Lebuhraya 私人 server，作为长期聚会空间。因为私人 server 是隔离的，你的团队不会被随机司机打断，场景可以连续运行数小时。
+
+**结构化活动。** Race night、convoy meet、紧急训练、驾照考试和截图拍摄，都适合在 owner 控制一切的空地图中进行。
+
+**无压力练习。** 学开重型卡车、在 race track 提升 lap time，或和朋友排练 999 medic response — 都比在拥挤 public server 中容易。
+
+**内容创作。** Streamer 和视频创作者用私人 server 拍摄，避免其他玩家破坏镜头。你可以自由摆放车辆、布置场景和 reset。
+
+### Server owner 得到什么
+
+当你进入自己的私人 server 时，**你会自动获得 Adonis admin level 200** — 一套相当完整的 moderation commands。
+
+- **Moderate 你的访客**：kick、ban（仅限该私人 server）、mute、freeze、respawn、teleport、spectate。
+- **布置场景**：teleport 任何玩家（或自己）到任意地点、fly、noclip、改变 gravity、为访客 spawn 车辆。
+- **委派 admin**：使用 Adonis 命令如 `:admin @PlayerName`，把可信朋友提升为你 server 内的 moderator / admin。他们会获得同样工具。你也可以用 `:mod`、`:headadmin` 等不同 admin tier。
+- **管理时长**：boot-everyone、shutdown、从当前 server 内 reserve 新 server。
+- **按你的方式运行体验**：设置自定义消息、创建自定义 scripts（如果你懂 Lua）、调整游戏时间、切换天气 (`!rainon` / `!rainoff`)。
+
+**Moderator persistence**：你在私人 server 中授予的 admin 会存储在该 server 专属 DataStore (`privateServer_<yourUserId>`) 下，和 public server 分开。Admin 会在*你的*私人 server 中跨 session 保持。他们不会在其他 server 获得 admin 权限。
+
+**跨 server 功能会禁用** — Trello audit logs 和 cross-server commands 不会在私人 server 中运行。这让你的 server 保持自包含，不依赖外部服务。
+
+### 限制
+
+一进入 server，**"Welcome to Lebuhraya Private Servers"** 通知会解释取舍。所有 progression 都会禁用：
+
+- **XP 和 level** 不会保存。
+- **Currency (BR)** 变化不会持久化。
+- **Badges** 不会授予（包括 50k / 100k / 500k / 1m stud 里程碑）。
+- **Job progression tiers** 不会保存。
+- **Vehicle unlocks** 不会生效（你仍会看到同一 katalog，但 race-unlocked 车辆或 code-redeemed 车辆不会持久化）。
+- 在这里兑换的 **Promo codes** 不会计算。
+
+如果你想让 session *计入进度*，请加入 **public server**。私人 server 用于受控场景，不用于 grinding。
+
+### 访问 admin 命令
+
+一旦你有 admin level（无论是 owner 还是 owner 授予），在聊天中输入 `:cmds` 打开 Adonis 命令列表。Admin (level 200) 常用命令：
+
+| 命令 | 动作 |
+|---|---|
+| `:cmds` | 打开完整命令列表 |
+| `:tp @player` | Teleport 到玩家 |
+| `:bring @player` | 把玩家带到你身边 |
+| `:kick @player` | 将玩家移出 server |
+| `:fly` | 切换 fly mode |
+| `:noclip` | 穿过物体 |
+| `:respawn @player` | Respawn 玩家 |
+| `:ff @player` | 添加 forcefield |
+| `:ban @player reason` | 从此私人 server 封禁 |
+| `:unban @player` | 解除封禁 |
+| `:mod @player` | 提升为 moderator (level 100) |
+| `:unmod @player` | 撤销 moderator 状态 |
+| `:shutdown` | 关闭 server |
+
+**注意**：将某人提升为完整 Admin (level 200) 或更高，通常在默认 Adonis 中需要 HeadAdmin-level 权限。作为 owner 你是 Admin level (200)，所以通常可以自由提升到 Moderator，但不一定能提升到 Admin。如果可信朋友需要 Admin-tier 权力，你可以授予 Moderator 权限，这已覆盖大多数用途；否则请看 `:cmds` 中实际接受的命令。
+
+完整语法请查阅 Roblox Creator Hub 上的 Adonis 文档 — 命令有数百个，每个命令所需的准确 level 取决于 Adonis 默认值和游戏的 `Permissions` overrides。
+
+### Admin 做不到的一件事
+
+**Admin level 不会绕过 team gates。** 如果一个队伍需要 gamepass（Bomba、Polis Trafik 等）、level 门槛（Kesihatan L200、APJ L300）或 group membership（Malaysians），你仍需满足要求。Admin 是 moderation 工具，不是免费 team access。（如果你想让访客临时进入 gated team，*可以*给他们 **Team Access Pass token**。）
+
+### 游戏因更新关闭时会怎样?
+
+Lebuhraya 使用 "soft shutdown" 系统，避免你失去 session。Server 重启时，你会看到顺滑的屏幕提示出现（其他 UI fade out），并会在更新部署后**自动 teleport 到新 server**。离开时进度会自动保存 — XP、BR、levels、vehicles、housing，全部保留。
+
+你不需要做任何事 — 让 teleport 完成即可。如果你正和朋友 convoy，他们会被单独 teleport（你们可能重新加入不同 server，所以之后再集合）。
 
 ## 在哪里可以找到更多
 

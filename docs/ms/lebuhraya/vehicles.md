@@ -4,8 +4,8 @@ description: >-
   Kesemua 127 model kenderaan di Lebuhraya — menghasilkan, bahan api,
   perlanggaran, dan penyesuaian.
 lang: ms
-translated_from_hash: e04aa18c
-translated_on: '2026-04-21'
+translated_from_hash: da3dc13b
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Kenderaan
@@ -14,12 +14,35 @@ Lebuhraya dilengkapi dengan **127 model kenderaan** — kereta kompak, SUV, moto
 
 ## Menghasilkan kenderaan
 
-Buka menu **MyPod** (penghasil kenderaan).
+Berjalan ke **spawner kenderaan** fizikal di dunia dan gunakan promptnya. Ini ialah pad/penanda spawner yang diletakkan di sekitar peta, termasuk Basic/Civ, Bike, Premium, Special, dan spawner khusus pasukan.
 
-- **Desktop**: klik ikon MyPod pada bar atas
-- **Mudah alih**: ketik ikon dalam kelompok atas
+> **MyPod bukan spawner kenderaan.** MyPod ialah pemain muzik topbar. Ia boleh memainkan muzik dan auto-play apabila anda duduk dalam kenderaan, tetapi ia tidak spawn atau despawn kenderaan.
 
-Lihat senarai, pilih kenderaan, dan klik **Spawn**. Kenderaan akan muncul di hadapan anda, sudah didaftarkan atas nama anda. Untuk memandu, hampiri kenderaan dan tekan **F** (papan kekunci), **X** (gamepad), atau ketik **Drive** (mudah alih).
+Lihat senarai, pilih kenderaan, dan klik **Spawn**. Kenderaan akan muncul pada pad spawner yang tersedia, sudah didaftarkan atas nama anda. Untuk memandu, hampiri kenderaan dan tekan **F** (papan kekunci), **X** (gamepad), atau ketik **Drive** (mudah alih).
+
+### Apa yang skrin spawner tunjukkan
+
+Spawner baharu mempunyai tiga kawasan utama:
+
+- **Search dan filter** di kiri atas, berguna apabila senarai kenderaan anda bertambah.
+- **Kad kenderaan** di kiri. Kad berkunci menunjukkan maklumat level/tier.
+- **Panel info** di kanan dengan nama kenderaan, penerangan, imej, sebab kunci, dan butang **Spawn**.
+
+Selepas anda klik **Spawn**, sesetengah spawner meminta anda memilih pad terbuka dan pilihan cat/warna. Jika pad diduduki, pilih pad lain atau tunggu kenderaan lain bergerak.
+
+### Jenis spawner
+
+Spawner fizikal berbeza menunjukkan kategori kenderaan berbeza:
+
+| Spawner | Kandungan biasa |
+|---|---|
+| **Basic / Civ** | Kereta awam permulaan dan standard |
+| **Bike** | Motosikal dan skuter |
+| **Premium / Prem** | Kereta awam premium atau level lebih tinggi |
+| **Special** | Kenderaan kod/event/khas |
+| **Team spawners** | Kenderaan untuk pasukan semasa anda, seperti Taxi, Bomba, KKN, Police, Logistics |
+
+Jika anda berada pada pasukan kerja, spawner awam mungkin menyekat akses dengan amaran. Tukar ke Visitors atau jenis pasukan/spawner yang sesuai.
 
 ### Pemilikan
 
@@ -27,7 +50,7 @@ Lihat senarai, pilih kenderaan, dan klik **Spawn**. Kenderaan akan muncul di had
 - Pemain lain **tidak boleh masuk ke tempat duduk pemandu anda** melainkan anda membuka kuncinya.
 - Penumpang sentiasa boleh masuk ke tempat duduk penumpang.
 - Apabila anda meninggalkan server, kenderaan anda akan hilang.
-- Anda boleh memadam (despawn) kenderaan anda sendiri melalui menu MyPod.
+- Hanya satu kenderaan milik aktif bagi setiap pemain. Spawn kenderaan baharu dari spawner kenderaan akan membersihkan kenderaan sebelumnya.
 
 ## Apa yang boleh saya pandu pada Level 1?
 
@@ -47,6 +70,15 @@ Harga kenderaan berskala secara longgar mengikut level. Panduan kasar:
 Sesetengah kenderaan khusus pasukan tidak mempunyai harga awam — ia dibuka apabila anda naik pangkat dalam cabang kerjaya yang betul. Lebih kurang **55 daripada 117 kenderaan yang boleh dihasilkan** dikunci mengikut kerjaya (anda perlu berada dalam pasukan yang betul pada tahap yang betul).
 
 Lebih kurang **28 kenderaan** dijual melalui pandangan **Dealership** dalam penghasil kenderaan — ini ialah pilihan awam standard dari Myvi hingga Mustang.
+
+### Maksud kad berkunci
+
+| Teks kunci | Maksud |
+|---|---|
+| **Level X** | Capai level pemain itu dahulu |
+| **Tier X** | Naik rank cabang kerjaya yang sepadan |
+| **Vehicle locked** | Anda tidak memiliki kenderaan khas/gamepass/kod itu |
+| Hilang daripada senarai | Jenis spawner salah, pasukan salah, kenderaan tersembunyi, atau syarat belum dipenuhi |
 
 ## Kategori kenderaan
 
@@ -99,8 +131,29 @@ Berhenti di sebelah pam, dan arahan pada skrin akan muncul untuk "Pump" atau "Ch
 Jika tangki anda sampai sifar, enjin akan berhenti. Pilihan:
 
 1. Beli JerryCan di **Jerrycan Shop**, isikannya di stesen, dan isi bahan api secara manual.
-2. Padam (despawn) kenderaan dan hasilkan yang baharu dari MyPod.
+2. Kembali ke spawner kenderaan fizikal dan spawn kenderaan ganti.
 3. Minta pemain KEMRonda untuk tunda.
+
+## Penyelesaian masalah spawner
+
+### Saya melihat "You cannot access this spawner while working"
+
+Anda berada pada pasukan kerja dan menggunakan spawner awam. Tukar ke **Visitors** atau gunakan spawner pasukan anda.
+
+### Saya melihat "You must be on the X team"
+
+Spawner itu khusus pasukan. Sertai pasukan yang dinamakan dahulu, termasuk apa-apa syarat level, gamepass, atau kumpulan.
+
+### Spawner terbuka tetapi kenderaan tidak spawn
+
+- Pilih pad lain; pad pertama mungkin diduduki.
+- Pastikan kad menyatakan **SPAWN**, bukan **LOCKED**.
+- Bergerak lebih dekat dengan spawner jika prompt hilang.
+- Jika UI tersangkut di belakang menu lain, tutup semua menu dengan Esc/Backspace dan buka semula spawner.
+
+### Kenderaan terlalu terang atau lampu tersekat hidup
+
+Sesetengah kenderaan spawn dengan headlights/ELS atau kesan cahaya kuat bergantung pada masa hari dan jenis kenderaan. Matikan lampu daripada kawalan kenderaan, atau respawn kenderaan jika state skrip tersekat.
 
 ## Perlanggaran dan pembaikan
 
@@ -115,9 +168,10 @@ Kenderaan mengalami kerosakan daripada perlanggaran. Kereta yang rosak teruk aka
 
 ### Pilihan anda
 
-- **Pandu masuk ke zon pembaikan**. Terdapat **10 zon pembaikan** bertaburan di sekitar peta — cari penunjuk pembaikan hijau. Berhenti dalam zon akan memulihkan kenderaan anda secara beransur-ansur (lebih kurang 10% kesihatan setiap 5 saat). Arahan pengesahan akan muncul pada skrin apabila anda masuk.
+- **Pandu masuk ke zon pembaikan di mana-mana stesen minyak.** Terdapat **10 zon pembaikan** — diletakkan berpasangan di PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, dan RnR Sungai Merbang. Berhenti dalam zon akan memulihkan kenderaan anda secara beransur-ansur (lebih kurang 10% kesihatan setiap 5 saat). Arahan pengesahan akan muncul pada skrin apabila anda masuk.
+- **Gunakan Toolkit** untuk pembaikan lapangan. Toolkit dari Jerrycan Shop memulihkan kira-kira **25% health setiap penggunaan** — berguna apabila anda tersadai dan tidak boleh sampai ke stesen pembaikan.
 - **Panggil tunda**. Pemain KEMRonda dengan trak tunda boleh menarik anda ke bengkel.
-- **Padam dan hasilkan semula**. Dari menu MyPod anda boleh memadam kenderaan yang rosak dan menghasilkan yang baharu. Pilihan terpantas jika anda tergesa-gesa.
+- **Spawn pengganti**. Jika anda boleh sampai ke spawner kenderaan, spawn kenderaan lain membersihkan kenderaan milik sebelumnya dan memberi anda yang baharu.
 
 Jika anda baharu dan berasa perlanggaran menakutkan, anda akan melihat **Crash Tutorial** pada kali pertama ia berlaku — itu ialah panduan awal dalam permainan anda. Pandu dengan berhati-hati, gunakan brek tangan (**Space**), dan ambil kelajuan lebuhraya Malaysia dengan berhati-hati.
 
@@ -143,13 +197,31 @@ Rujuk menu kenderaan dalam permainan (sesetengah kereta mempunyai panel penyesua
 
 ## Plat nombor
 
-Apabila kenderaan dihasilkan, plat pendaftarannya diberikan berdasarkan wilayah penghasil, mengikut sistem Malaysia:
+Apabila kenderaan dihasilkan, plat pendaftarannya diberikan berdasarkan wilayah spawner, mengikut sistem awalan negeri Malaysia sebenar:
 
-- Penghasil di **Bandar Seri Putra** mengeluarkan plat **SL (Selangor)** — awalan B%.
-- Penghasil di **Kampung Merbang** dan **Jersik** mengeluarkan plat **NS (Negeri Sembilan)** — awalan N%.
-- Penghasil di pertengahan lebuhraya (antara wilayah) memilih secara rawak **50/50 antara SL dan NS** setiap kali anda menghasilkan.
+- Spawner **Bandar Seri Putra** mengeluarkan **plat Selangor** — awalan `B%` (cth. BJH 1234).
+- Spawner **Kampung Merbang** dan **Jersik** mengeluarkan **plat Negeri Sembilan** — awalan `N%`.
+- Spawner di pertengahan lebuhraya (antara wilayah) memilih secara rawak **50/50 antara B dan N** setiap kali anda spawn.
 
 Jadi kereta yang anda baru hasilkan di jalan perhentian rehat mungkin plat B kali ini dan plat N kali berikutnya — perincian kecil yang pemain Malaysia perasan dengan serta-merta.
+
+**Aksara dibenarkan** ialah `ABCDEFGHJKLMNPQRSTUVWXY` — I, O, V, dan Z dikecualikan (I/O mengelakkan kekeliruan dengan 1/0, V dan Z disimpan untuk kegunaan khas/tentera).
+
+### Plat tentera (jarang — kenderaan khas)
+
+Sesetengah kenderaan tentera / angkatan bersenjata membawa plat perkhidmatan Malaysia yang autentik:
+
+| Perkhidmatan | Awalan plat |
+|---|---|
+| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
+| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PMS | `PMS` |
+
+Anda akan melihat ini pada konvoi pengiring TUDM, perarakan acara, dan kenderaan tentera yang dispawn staf — bukan kereta pemain biasa.
 
 ## Lampu kecemasan (ELS)
 

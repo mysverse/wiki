@@ -4,15 +4,15 @@ description: >-
   Bandaraya-வில் உங்களை தடை செய்யும் நடத்தைகள், மற்றும் மேல்முறையீடு எப்படி
   செய்வது.
 lang: ta
-translated_from_hash: 49af2eee
-translated_on: '2026-04-21'
+translated_from_hash: d3008d61
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # விதிகள்
 
 Bandaraya ஒரு roleplay விளையாட்டு. விதிகள் உள்ளன. அவற்றைப் படியுங்கள். பின்பற்றுங்கள். பின்பற்றவில்லை என்றால் நீங்கள் தடை (ban) செய்யப்படுவீர்கள்.
 
-அதிகாரபூர்வ விதிகள் உரை விளையாட்டினுள் உள்ளது (`infoModules.GameRules`). இந்தப் பக்கம் வீரர்களுக்கு எளிதாகப் புரியும் வகையில் உள்ள சுருக்கம்.
+அதிகாரபூர்வ விதிகள் உரை விளையாட்டினுள் உள்ளது (`infoModules.GameRules`) மற்றும் source wiki-யின் `docs/game-rules.md`-இல் பிரதிபலிக்கப்பட்டுள்ளது. இந்தப் பக்கம் வீரர்களுக்கு எளிதாகப் புரியும் வகையில் உள்ள சுருக்கம்.
 
 ## TL;DR
 
@@ -123,6 +123,10 @@ Roblox-ஆலேயே அனுமதிக்கப்படாதது எ�
 
 ---
 
+## Penal Code குறிப்பு
+
+Player rules-க்கு மேலாக, விளையாட்டுக்குள் உள்ள POLIS மற்றும் judicial roleplay **Laws of Malaysia, Penal Code (Act 574)**-ஐ குறிப்பிடுகின்றன — இது விளையாட்டுடன் சேர்க்கப்பட்டுள்ள 2,380 வரி உண்மையான மலேசிய குற்றவியல் சட்ட reference. Officers arrest records-ல் section number-களை (எ.கா. "Section 302 — Punishment for murder") cite செய்யலாம். இது roleplay flavour-க்காக மட்டுமே; மேலே பட்டியலிட்டதைத் தவிர புதிய ban செய்யக்கூடிய offences சேர்க்காது.
+
 ## மேல்முறையீடுகள்
 
 நிரந்தரமோ தற்காலிகமோ எந்த தடையையும் மேல்முறையீடு செய்யலாம்.
@@ -149,4 +153,4 @@ Roblox-ஆலேயே அனுமதிக்கப்படாதது எ�
 - [கைது & சட்டம்](/bandaraya/arrest-and-law) — LTAA / RTAA இயக்கவியல்
 - [அவசர சேவைகள்](/bandaraya/emergency-services) — rogue ஆக மாறுவதன் விளைவுகள்
 - [FAQ](/bandaraya/faq) — விதிகள் பற்றிய பொதுவான கேள்விகள்
-- அதிகாரபூர்வ விதிகள் உரை: `infoModules.GameRules` (விளையாட்டினுள்)
+- அதிகாரபூர்வ விதிகள் உரை: `docs/game-rules.md`

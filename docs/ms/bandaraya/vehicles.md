@@ -4,8 +4,8 @@ description: >-
   Menghasilkan, memandu, bahan api, dan membeli atau menyewa kenderaan di
   Bandaraya.
 lang: ms
-translated_from_hash: 24d3e35a
-translated_on: '2026-04-21'
+translated_from_hash: 92a4a5da
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Kenderaan
@@ -30,7 +30,7 @@ Setiap pasukan mempunyai set spawner tersendiri. Anda hanya boleh menggunakan ya
 2. Tekan **E** (atau butang proksimiti).
 3. Panel dengan pratonton 3-D setiap kenderaan yang tersedia akan terbuka.
 4. Layari dengan **A / D / kekunci anak panah** atau butang navigasi.
-5. **Space / Enter** untuk spawn. **Escape** untuk tutup.
+5. **Space / Enter** untuk spawn. **Escape** untuk tutup. Kekunci **A / D** (atau anak panah) menavigasi senarai kenderaan, dengan pintasan papan kekunci dipaparkan sebagai baris petunjuk di bawah baris navigasi.
 6. Kenderaan anda akan muncul di pad spawn. Duduk di tempat pemandu untuk memandu.
 
 Jika spawner tidak membenarkan anda melaluinya, kemungkinan anda tidak memenuhi syarat pasukan. Lihat [Pasukan](/bandaraya/teams).

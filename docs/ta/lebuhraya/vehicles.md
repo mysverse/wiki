@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் — உருவாக்கம், எரிபொருள்,
   விபத்து, மற்றும் தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: e04aa18c
-translated_on: '2026-04-21'
+translated_from_hash: da3dc13b
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # வாகனங்கள்
@@ -14,12 +14,35 @@ Lebuhraya-வில் **127 வாகன மாதிரிகள்** உள�
 
 ## வாகனத்தை உருவாக்குதல்
 
-**MyPod** மெனுவை திறக்கவும் (வாகன உருவாக்கி).
+உலகில் உள்ள physical **vehicle spawner**-க்கு நடந்து சென்று அதன் prompt-ஐப் பயன்படுத்தவும். இவை map முழுவதும் வைக்கப்பட்டுள்ள spawner pads/markers; Basic/Civ, Bike, Premium, Special, மற்றும் team-specific spawners உட்பட.
 
-- **டெஸ்க்டாப்**: மேற்பட்டையில் உள்ள MyPod ஐகானை கிளிக் செய்யவும்
-- **மொபைல்**: மேல் கொத்தில் உள்ள ஐகானை தட்டவும்
+> **MyPod vehicle spawner அல்ல.** MyPod topbar music player. அது music play செய்யவும் vehicle-ல் உட்காரும்போது auto-play செய்யவும் முடியும், ஆனால் vehicles spawn அல்லது despawn செய்யாது.
 
-பட்டியலை உலாவவும், ஒரு வாகனத்தை தேர்ந்தெடுக்கவும், **Spawn**-ஐ கிளிக் செய்யவும். வாகனம் உங்களுக்கு முன்னால் தோன்றும், உங்கள் பெயரில் ஏற்கனவே பதிவு செய்யப்பட்டிருக்கும். ஓட்ட, வாகனத்தை நெருங்கி **F** (விசைப்பலகை), **X** (கேம்பேட்), அல்லது **Drive** (மொபைல்) தட்டவும்.
+பட்டியலை உலாவி, vehicle தேர்ந்தெடுத்து **Spawn** click செய்யவும். Vehicle available spawner pad-ல் தோன்றி, உங்கள் பெயரில் register ஆகும். ஓட்ட, வாகனத்தை நெருங்கி **F** (விசைப்பலகை), **X** (gamepad), அல்லது **Drive** (mobile) தட்டவும்.
+
+### Spawner screen காட்டுவது
+
+Refreshed spawner மூன்று main areas கொண்டது:
+
+- Top-left-ல் **Search and filter**, vehicle list பெருகும்போது பயனுள்ளது.
+- Left-ல் **Vehicle cards**. Locked cards level/tier information காட்டும்.
+- Right-ல் **Info panel** vehicle name, description, image, lock reason, **Spawn** button உடன்.
+
+**Spawn** click செய்த பிறகு, சில spawners open pad மற்றும் paint/colour option தேர்வு செய்யச் சொல்வது உண்டு. Pad occupied என்றால், வேறு pad தேர்ந்தெடுக்கவும் அல்லது மற்ற vehicle நகரும் வரை காத்திருக்கவும்.
+
+### Spawner types
+
+வேறு physical spawners வேறு vehicle categories காட்டும்:
+
+| Spawner | Typical contents |
+|---|---|
+| **Basic / Civ** | Starter மற்றும் standard civilian cars |
+| **Bike** | Motorcycles and scooters |
+| **Premium / Prem** | Premium அல்லது higher-level civilian cars |
+| **Special** | Code/event/special vehicles |
+| **Team spawners** | Taxi, Bomba, KKN, Police, Logistics போன்ற current team vehicles |
+
+நீங்கள் job team-ல் இருந்தால், civilian spawners warning மூலம் block செய்யலாம். Visitors அல்லது பொருத்தமான team/spawner type-க்கு மாறவும்.
 
 ### உரிமை
 
@@ -27,7 +50,7 @@ Lebuhraya-வில் **127 வாகன மாதிரிகள்** உள�
 - மற்ற வீரர்கள் **உங்கள் ஓட்டுநர் இருக்கையில் நுழைய முடியாது** நீங்கள் அதை திறக்காத வரை.
 - பயணிகள் எப்போதும் பயணிகள் இருக்கைகளில் நுழைய முடியும்.
 - நீங்கள் server-ஐ விட்டு வெளியேறும்போது, உங்கள் வாகனம் மறைந்துவிடும்.
-- MyPod மெனுவில் இருந்து உங்கள் சொந்த வாகனத்தை despawn செய்யலாம்.
+- ஒவ்வொரு player-க்கும் ஒரே active owned vehicle மட்டுமே. Vehicle spawner-இல் இருந்து புதிய vehicle spawn செய்வது முந்தையதை cleanup செய்யும்.
 
 ## Level 1-இல் என்ன ஓட்ட முடியும்?
 
@@ -47,6 +70,15 @@ Lebuhraya-வில் **127 வாகன மாதிரிகள்** உள�
 சில அணிக்கு மட்டுமான வாகனங்களுக்கு பொதுவிலை இல்லை — சரியான தொழில் கிளையில் நீங்கள் பதவி உயர்வு பெறும்போது அவை திறக்கப்படுகின்றன. **117 உருவாக்கக்கூடிய வாகனங்களில் சுமார் 55** தொழில்-பூட்டப்பட்டுள்ளன (சரியான நிலையில் சரியான அணியில் இருக்க வேண்டும்).
 
 வாகன உருவாக்கியில் உள்ள **Dealership** காட்சி மூலம் **சுமார் 28 வாகனங்கள்** விற்கப்படுகின்றன — இவை Myvi முதல் Mustang வரையிலான நிலையான குடிமக்கள் தேர்வுகள்.
+
+### Locked-card அர்த்தங்கள்
+
+| Lock text | Meaning |
+|---|---|
+| **Level X** | அந்த player level-ஐ முதலில் அடையவும் |
+| **Tier X** | பொருந்தும் career branch-ஐ rank up செய்யவும் |
+| **Vehicle locked** | special/gamepass/code vehicle உங்களிடம் இல்லை |
+| Missing from list | Wrong spawner type, wrong team, hidden vehicle, அல்லது requirement meet செய்யவில்லை |
 
 ## வாகன பிரிவுகள்
 
@@ -99,8 +131,29 @@ Lebuhraya-வில் **127 வாகன மாதிரிகள்** உள�
 உங்கள் தொட்டி பூஜ்ஜியத்தை அடைந்தால், என்ஜின் நின்றுவிடும். விருப்பங்கள்:
 
 1. **Jerrycan Shop**-இல் JerryCan ஒன்றை வாங்கி, நிலையத்தில் நிரப்பி, கைமுறையாக எரிபொருள் நிரப்பவும்.
-2. வாகனத்தை despawn செய்து MyPod-இலிருந்து புதியதை உருவாக்கவும்.
+2. Physical vehicle spawner-க்கு திரும்பி replacement vehicle spawn செய்யவும்.
 3. ஒரு KEMRonda வீரரிடம் இழுத்துச் செல்ல கேட்கவும்.
+
+## Spawner troubleshooting
+
+### "You cannot access this spawner while working" என்று தெரிகிறது
+
+நீங்கள் job team-ல் இருந்து civilian spawner பயன்படுத்துகிறீர்கள். **Visitors**-க்கு மாறவும் அல்லது உங்கள் team spawner பயன்படுத்தவும்.
+
+### "You must be on the X team" என்று தெரிகிறது
+
+அந்த spawner team-specific. Level, gamepass, அல்லது group requirement உட்பட named team-ல் முதலில் join செய்யவும்.
+
+### Spawner திறக்கிறது ஆனால் vehicle spawn ஆகவில்லை
+
+- வேறு pad தேர்ந்தெடுக்கவும்; முதல் pad occupied இருக்கலாம்.
+- Card **SPAWN** என்று சொல்லுகிறதா, **LOCKED** அல்லவா என்பதைச் சரிபார்க்கவும்.
+- Prompt மறைந்தால் spawner-க்கு அருகில் செல்லவும்.
+- UI மற்ற menu-க்கு பின்னால் stuck ஆனால், Esc/Backspace மூலம் எல்லா menus-ஐ close செய்து spawner மீண்டும் திறக்கவும்.
+
+### Vehicle மிகவும் bright அல்லது lights stuck on
+
+சில vehicles time of day மற்றும் vehicle type அடிப்படையில் headlights/ELS அல்லது strong lighting effects உடன் spawn ஆகும். Vehicle controls-ல் lights off செய்யவும், அல்லது scripted state stuck ஆனால் vehicle respawn செய்யவும்.
 
 ## விபத்து மற்றும் பழுதுபார்த்தல்
 
@@ -115,9 +168,10 @@ Lebuhraya-வில் **127 வாகன மாதிரிகள்** உள�
 
 ### உங்கள் விருப்பங்கள்
 
-- **ஒரு பழுதுபார்ப்பு மண்டலத்திற்குள் ஓட்டவும்**. வரைபடத்தில் **10 பழுதுபார்ப்பு மண்டலங்கள்** சிதறியுள்ளன — பச்சை பழுதுபார்ப்பு காட்டியை தேடவும். மண்டலத்தில் நிறுத்தினால் உங்கள் வாகனம் படிப்படியாக மீட்கப்படும் (சுமார் 5 வினாடிகளுக்கு 10% உடல்நலம்). நுழையும்போது உறுதிப்படுத்தும் prompt திரையில் தோன்றும்.
+- **எந்த petrol station-இலுள்ள repair zone-க்கும் ஓட்டுங்கள்.** **10 repair zones** உள்ளன — PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, மற்றும் RnR Sungai Merbang-ல் ஜோடிகளாக வைக்கப்பட்டுள்ளன. Zone-ல் நிறுத்தினால் vehicle gradually restore ஆகும் (சுமார் 5 seconds-க்கு 10% health). உள்ளே சென்றதும் confirm prompt தோன்றும்.
+- **Toolkit** field repairs-க்கு பயன்படுத்தவும். Jerrycan Shop-இல் இருந்து Toolkits ஒவ்வொரு use-க்கும் சுமார் **25% health** restore செய்கிறது — repair station அடைய முடியாமல் stranded இருந்தால் handy.
 - **இழுப்பு அழைக்கவும்**. இழுப்பு லாரியுடன் KEMRonda வீரர்கள் உங்களை பட்டறைக்கு இழுத்துச் செல்லலாம்.
-- **Despawn செய்து மீண்டும் உருவாக்கவும்**. MyPod மெனுவிலிருந்து உடைந்த வாகனத்தை despawn செய்து புதியதை உருவாக்கலாம். அவசரத்தில் இருந்தால் வேகமான வழி.
+- **Replacement spawn செய்யவும்**. Vehicle spawner அடைய முடிந்தால், வேறு vehicle spawn செய்வது உங்கள் previous owned vehicle-ஐ clear செய்து fresh vehicle தரும்.
 
 நீங்கள் புதியவராக இருந்து விபத்துகள் பயமாக உணர்ந்தால், முதல் முறை அது நடக்கும்போது **Crash Tutorial**-ஐ பார்ப்பீர்கள் — அதுவே உங்கள் கேம்-உள் முதன்மை வழிகாட்டி. கவனமாக ஓட்டவும், கை பிரேக்கை (**Space**) பயன்படுத்தவும், மலேசிய நெடுஞ்சாலை வேகங்களை எச்சரிக்கையுடன் எடுத்துக்கொள்ளவும்.
 
@@ -143,13 +197,31 @@ Bandar Seri Putra-வில் உள்ள **Gravstone Workshop** கேமி�
 
 ## எண் தட்டுகள்
 
-ஒரு வாகனம் உருவாக்கப்படும்போது, அதன் பதிவு தட்டு உருவாக்கியின் பகுதியை அடிப்படையாக கொண்டு ஒதுக்கப்படுகிறது, மலேசிய முறையை பின்பற்றுகிறது:
+ஒரு vehicle spawn ஆகும்போது, அதன் registration plate spawner region அடிப்படையில், actual Malaysian state-prefix system-ஐ பின்பற்றி assign செய்யப்படும்:
 
-- **Bandar Seri Putra** உருவாக்கிகள் **SL (Selangor)** தட்டுகளை வழங்குகின்றன — B% முன்னொட்டு.
-- **Kampung Merbang** மற்றும் **Jersik** உருவாக்கிகள் **NS (Negeri Sembilan)** தட்டுகளை வழங்குகின்றன — N% முன்னொட்டு.
-- நெடுஞ்சாலையின் நடுவில் உள்ள உருவாக்கிகள் (பகுதிகளுக்கு இடையில்) ஒவ்வொரு முறை உருவாக்கும்போதும் **SL மற்றும் NS-க்கு இடையில் 50/50** சீரற்ற முறையில் தேர்ந்தெடுக்கின்றன.
+- **Bandar Seri Putra** spawners **Selangor plates** வழங்கும் — `B%` prefix (எ.கா. BJH 1234).
+- **Kampung Merbang** மற்றும் **Jersik** spawners **Negeri Sembilan plates** வழங்கும் — `N%` prefix.
+- Highway நடுவில் உள்ள spawners (regions இடையில்) ஒவ்வொரு spawn-க்கும் **B மற்றும் N இடையே 50/50** random pick செய்கின்றன.
 
 எனவே ஓய்வு நிறுத்த சாலையில் நீங்கள் இப்போது உருவாக்கிய கார் இம்முறை B தட்டு மற்றும் அடுத்த முறை N தட்டு ஆக இருக்கலாம் — மலேசிய வீரர்கள் உடனடியாக கவனிக்கும் ஒரு சிறிய விவரம்.
+
+**Allowed characters** `ABCDEFGHJKLMNPQRSTUVWXY` — I, O, V, Z விலக்கப்பட்டவை (I/O 1/0 உடன் குழப்பம் தவிர்க்க, V மற்றும் Z special/military use-க்கு reserved).
+
+### Military plates (rare — special vehicles)
+
+சில military / armed forces vehicles authentic Malaysian service plates கொண்டிருக்கும்:
+
+| Service | Plate prefix |
+|---|---|
+| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
+| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PMS | `PMS` |
+
+இவை TUDM escort convoys, event parades, staff-spawned military vehicles-ல் தெரியும் — சாதாரண player cars அல்ல.
 
 ## அவசர விளக்குகள் (ELS)
 

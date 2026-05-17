@@ -43,7 +43,7 @@ Teaches you where the phone is. Tap the icon.
 - **Waypoint:** nearest vehicle spawner.
 - **Reward:** 150 XP, 100 Ringgit.
 
-Introduces the vehicle spawner system. Most civilian cars are free to spawn.
+Introduces the vehicle spawner system. The Perosatu Axia and Protan Wira are free starter cars; the rest of the standard civilian catalog uses rent/buy prices.
 
 ### 4. Your First Purchase
 
@@ -126,7 +126,7 @@ If you complete the entire chain:
 - **5,750 XP** in player-level experience (3,750 from individual quests + 2,000 finale bonus).
 - **4,400 Ringgit** to your bank account (2,900 from individual quests + 1,500 finale bonus).
 
-That's enough XP to push past player level 10. The Ringgit isn't enough for a house yet (Tier 1 is 25,000 SR), but it covers a Premium civilian car like the **Protan X50** at 10,000 SR with change to spare, or makes a serious dent in the **Tier 2 Trawler** if you go fishing next.
+That's enough XP to push past player level 10. The Ringgit isn't enough for a house yet (Tier 1 is 25,000 SR), and it does not cover a Protan X50 (32,000 SR) or even the cheapest paid civilian purchase (5,000 SR). It gets you very close to a Protan Wira Aeroback / Protan Putra purchase, or makes a serious dent in the **Tier 2 Trawler** if you go fishing next.
 
 ## Viewing quest progress
 

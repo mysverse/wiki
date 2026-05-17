@@ -2,8 +2,8 @@
 title: Petua & Helah
 description: 'Interaksi tersembunyi, kerenah mudah alih, dan petua pakar untuk Sumaya.'
 lang: ms
-translated_from_hash: c33618fc
-translated_on: '2026-04-30'
+translated_from_hash: 06f13503
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -31,6 +31,16 @@ Dalam peta skrin penuh, tekan **F** untuk zum keluar agar **semua waypoint anda*
 ### Pancaran panduan mengikut waypoint terdekat
 
 Pancaran berwarna dari watak anda adalah cara permainan menunjuk ke arah **waypoint paling penting** sekarang - langkah quest, kebakaran aktif, panggilan 999. Jika anda mahu menggantikannya buat sementara waktu, tetapkan waypoint tersuai dengan keutamaan lebih tinggi (atau abaikan sahaja).
+
+## Helah dunia
+
+### Pad perjalanan menjimatkan perjalanan memancing
+
+Di kawasan memancing, gunakan **Travel to Fishing Pontoon** untuk melompat ke pontun dan **Travel to Land** untuk kembali. Ia lebih pantas daripada berenang atau memandu memutar apabila anda hanya perlu memancing atau spawn trawler.
+
+### Pembuat kopi boleh digunakan
+
+Sesetengah pembuat kopi ialah prop sebenar. Gunakan **Brew** dahulu, tunggu periuk penuh, kemudian gunakan **Take Coffee** untuk menerima item kopi dalam beg galas anda.
 
 ## Helah telefon
 
@@ -66,9 +76,13 @@ Kad tugas (kiri atas) boleh menutup kawalan pemanduan mudah alih. Ketik ikon **c
 
 Jika anda berada dalam **kenderaan Polis, Bomba, atau Kesihatan dengan siren diaktifkan**, anda secara automatik dikecualikan daripada kesalahan melaju dan nahas. Hidupkan siren apabila anda sedang bertindak balas. Matikannya apabila anda meletakkan kenderaan, supaya orang lain tidak fikir anda masih dalam panggilan.
 
-### Kereta awam percuma
+### Kereta permulaan percuma
 
-Kebanyakan kereta awam muncul percuma (tiada sewa, tiada harga belian). Jangan bazirkan Ringgit menyewa Protan Wira apabila kereta yang sama percuma di spawner yang sama. Semak lajur "free" sebelum membayar.
+Hanya **Perosatu Axia** dan **Protan Wira** ialah kereta awam standard percuma. Gunakan salah satu sementara anda menyimpan, kemudian sewa kereta berbayar yang lebih murah seperti Protan Wira Aeroback atau Protan Putra sebelum membeli terus.
+
+### Kamera kenderaan masuk dengan lancar
+
+Memasuki kenderaan kini beralih ke kamera pemanduan secara lembut dan bukan tersentak. Jika paparan terasa berbeza pada mudah alih, itu disengajakan - ia membingkai sekitar kawalan sentuh.
 
 ### Bot tunda percuma semasa syif
 
@@ -87,6 +101,10 @@ Jangan tamatkan sesi anda pada 14 kebakaran dipadamkan, 9 rawatan diberikan, ata
 - Bomba: **+150 SR pada 15 blok.**
 - Kesihatan: **+150 SR pada 10 rawatan.**
 - Polis: **+200 SR pada 5 tangkapan.**
+
+### Gunakan gig jobs untuk mengisi masa lapang
+
+Jika anda berada antara syif panjang, ambil gig job. Panel minigame pantas memberitahu anda dengan tepat apa yang perlu dibuat, dan larian yang terganggu dibersihkan apabila anda mati atau menukar pasukan.
 
 ### Bantu Bomba untuk XP pasif
 

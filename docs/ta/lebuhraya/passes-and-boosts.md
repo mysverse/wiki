@@ -2,8 +2,8 @@
 title: பாஸ்கள் & பூஸ்டுகள்
 description: 'Lebuhraya-வில் கேம்பாஸ்கள், XP பூஸ்டுகள், மற்றும் Premium நன்மைகள்.'
 lang: ta
-translated_from_hash: 9eae0f3b
-translated_on: '2026-04-21'
+translated_from_hash: '90144865'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # பாஸ்கள் & பூஸ்டுகள்
@@ -85,11 +85,25 @@ Season 1-இல் இந்தத் திறப்புகளைப் ப�
 - **Team Access Pass** — gamepass-பூட்டப்பட்ட குழுவிற்கு தற்காலிக அணுகல்
 - **2× Season Pass Boost** — Season Pass XP ஈட்டலை இரட்டிப்பாக்குகிறது
 
-## Double XP வார இறுதிகள்
+## Double XP & Free Trial events
 
-காலந்தோறும், விளையாட்டு **Double XP Weekend** நிகழ்வுகளை நடத்துகிறது. ஒவ்வொரு வீரரின் அடிப்படை XP பெருக்கியும் காலத்திற்கு ×2 ஆகிறது. இது மற்ற எல்லாவற்றிற்கும் மேல் உள்ளது.
+காலந்தோறும், விளையாட்டு Malaysian cultural holidays மற்றும் MYSverse milestones-க்கு இணைக்கப்பட்ட scheduled **2X XP events** நடத்தும். Event active இருக்கும் போது, ஒவ்வொரு player's base XP multiplier ×2 ஆகும் — Premium, convoy, gamepass, token boosts ஆகியவற்றின் மேல்.
 
-அறிவிப்புகளுக்காக MYSverse-இன் சமூக சேனல்களைக் கண்காணிக்கவும் (Rafahia App, Discord, அல்லது விளையாட்டுக்குள் பேனர் அறிவிப்புகள்).
+ஒவ்வொரு 2X event-மும் **Gamepass Trial**-ஐ activate செய்கிறது: premium gamepass teams (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) temporary free access event duration முழுவதும் கிடைக்கும். Game banner காட்டும்: *"Free Trial Started — Enjoy a free taste test of our premium gamepass teams!"* மற்றும் முடிவில் *"Free Trial Ended"*.
+
+கடந்த events-ல் இருந்தவை:
+
+- **LebuhRAYA launch** (late March – early April)
+- **Post-launch extensions** (late April)
+- **WESAK** (Vesak Day, mid-May)
+- **Season Pass Update** (late May / early June)
+- **Malaysia Day** (mid-September)
+- **Deepavali** (mid-October)
+- **New Year's** (late December to early January)
+- **Chinese New Year / CNY** (typically late January to early March)
+- **Hari Raya / Raya** (late March)
+
+Schedules actual Malaysian public-holiday calendar-ஐ பின்பற்றும், எனவே சுமார் 1-2 மாதத்திற்கு ஒரு event எதிர்பார்க்கலாம். Announcements-க்கு MYSverse community channels — Rafahia App, Discord, அல்லது in-game banner notifications — கவனிக்கவும்.
 
 ## அடுக்குவதன் கணிதம்
 
@@ -107,7 +121,7 @@ Season 1-இல் இந்தத் திறப்புகளைப் ப�
 
 ## சவால்கள் மற்றும் சாதனைகள்
 
-**Challenges** அமைப்பு (முதன்மை மெனு → Challenges இலிருந்து அணுகக்கூடியது) விளையாட்டின் அன்றாட செயல்பாடுகளை விளையாடுவதற்காக உங்களுக்கு வெகுமதி அளிக்கிறது. மூன்று வகைகள் உள்ளன:
+**Challenges** அமைப்பு (**Main Menu -> Activity**-இல் இருந்து அணுகக்கூடியது) விளையாட்டின் அன்றாட செயல்பாடுகளை விளையாடுவதற்காக உங்களுக்கு வெகுமதி அளிக்கிறது. மூன்று வகைகள் உள்ளன:
 
 ### தினசரி சவால்கள் (ஒவ்வொரு 24 மணிநேரத்திற்கும் மீட்டமைக்கப்படுகிறது)
 
@@ -150,7 +164,7 @@ Season 1-இல் இந்தத் திறப்புகளைப் ப�
 உங்கள் நிலை மற்றும் கரியர் தரவரிசைகளைத் தாண்டி, **42 unlockables** ஒரு தனி பட்டியல் அழகுசாதன முன்னேற்றத்தை கண்காணிக்கிறது. season pass-கள், நிகழ்வுகள், குறியீடுகள், மற்றும் சாதனைகள் மூலம் ஈட்டப்படுகிறது. மூன்று வகைகள்:
 
 - **12 வாகன பெயிண்ட்கள்** — வண்ணம், gradient, மற்றும் texture மாற்றுகள் (எ.கா. Chrome Silver, Matte Black, Neon Green, Copper Kampung). பெயிண்ட்-இணக்கமான காரை வைத்திருக்கும்போது வாகன விருப்பமாக்கல் மெனுவிலிருந்து பயன்படுத்தவும்.
-- **17 தலைப்புகள்** — அழகுசாதன ஓவர்ஹெட் குறிச்சொற்கள் (எ.கா. "Highway King"). உங்கள் பாத்திரத்திற்கு மேலே காட்ட ஒன்றைத் தேர்வு செய்யவும்.
+- **17 தலைப்புகள்** — அழகுசாதன overhead tags. உங்கள் பாத்திரத்திற்கு மேலே காட்ட ஒன்றைத் தேர்வு செய்யவும். தற்போதைய roster: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
 - **13 சேகரிக்கும் badge-கள்** — உங்கள் சுயவிவரத்தில் காட்டப்படும் அலங்கார badge-கள் (எ.கா. "Pemandu Season 2 Dedicated").
 
 செயலில் உள்ள திறப்புகள் ஒவ்வொரு வீரருக்கும் சேமிக்கப்படுகின்றன — நீங்கள் அமர்வுகள் முழுவதும் ஈட்டிய அனைத்தையும் வைத்திருக்கிறீர்கள்.
@@ -169,6 +183,19 @@ Season 1-இல் இந்தத் திறப்புகளைப் ப�
 உங்கள் தூர எண்ணிக்கை அதிகரிக்கும்போது badge-கள் server-அதிகாரபூர்வமாக வழங்கப்படுகின்றன — நீங்கள் அவற்றை உரிமை கோர வேண்டியதில்லை.
 
 பந்தய வெற்றி மைல்கற்கள் (1, 10, 50, 100 வெற்றிகள்; 10, 50 முடிவுகள்; 10, 100 சோதனைகள்) உள்நாட்டில் கண்காணிக்கப்படுகின்றன; இவற்றிற்கான Roblox badge ID-கள் எதிர்கால புதுப்பிப்புகளில் சேர்க்கப்படலாம்.
+
+## Instant-level developer products
+
+Levels grind செய்வதைத் தவிர்க்க விரும்பினால், Lebuhraya Robux-ால் வாங்கக்கூடிய நான்கு ஒருமுறை **developer products** வழங்குகிறது. இவை உடனடியாக flat level bumps தரும் — குறிப்பிட்ட level-gated team (எ.கா. Level 200-ல் Kesihatan) நோக்கினால் பயனுள்ளது.
+
+| Product | Effect |
+|---|---|
+| +1 Level | threshold கடக்க தேவையான 1 level |
+| +10 Levels | 10 levels |
+| +25 Levels | 25 levels |
+| +50 Levels | 50 levels |
+
+Bonus levels max level (500)-ல் capped. வழங்கப்படும் XP **multiplier stack-ஐ bypass செய்கிறது** — exact level jumps, surprises இல்லை. In-game Shop அல்லது Main Menu-வில் காணலாம்.
 
 ## முதலில் என்ன வாங்க வேண்டும்?
 

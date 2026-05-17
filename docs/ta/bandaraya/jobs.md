@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வில் உள்ள ஒவ்வொரு வேலை — அஞ்சல் சேவை, டாக்சி ஓட்டுநர், இழுப்பு, பஸ்
   ஓட்டுநர், மற்றும் நிறுவன வேலைகள் — சம்பள விகிதங்கள் மற்றும் தரங்களுடன்.
 lang: ta
-translated_from_hash: 2fdee6c4
-translated_on: '2026-04-21'
+translated_from_hash: 3d36135a
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # வேலைகள்
@@ -80,6 +80,8 @@ POS-இல் 10 பிரத்யேக வாகனங்கள் உள்�
 
 - **Taxi Driver gamepass** (150 R$) — மலிவான வழி.
 - **அல்லது** ஒரு **Taxi Services** group-இல் சேரவும் (SSM-பதிவு செய்யப்பட்டது).
+
+Session நடுவில் gamepass வாங்கினால், system **வாங்கியதை தானாக கண்டறியும்** (rejoin தேவையில்லை) மற்றும் சில விநாடிகளுக்குள் Taxi Services team உங்கள் team menu-வில் தோன்றும்.
 
 Gamepass உள்ளவர்கள் மெனுவிலிருந்து Taxi Services team-க்கு மாற்றவும் முடியும்.
 

@@ -2,8 +2,8 @@
 title: 工作
 description: Bandaraya 的各种工作 — 邮政服务、出租车、拖车、巴士司机以及机构岗位 — 包括薪资和级别说明。
 lang: zh
-translated_from_hash: 2fdee6c4
-translated_on: '2026-04-21'
+translated_from_hash: 3d36135a
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 工作
@@ -78,6 +78,8 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 - **Taxi Driver gamepass** (150 R$) — 最便宜的办法。
 - **或者** 加入 **Taxi Services** group（SSM 注册）。
+
+如果你在同一 session 中途购买 gamepass，系统会**自动检测购买**（无需重新加入），Taxi Services 队伍会在几秒内出现在你的队伍菜单中。
 
 持有 gamepass 的人也可以从菜单切换到 Taxi Services 队伍。
 

@@ -2,8 +2,8 @@
 title: Misi
 description: Rantaian misi penemuan 12 langkah di Sumaya.
 lang: ms
-translated_from_hash: f1908452
-translated_on: '2026-04-30'
+translated_from_hash: '295324e2'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -48,7 +48,7 @@ Mengajar anda di mana letaknya telefon. Ketuk ikon tersebut.
 - **Titik laluan:** spawner kenderaan terdekat.
 - **Bayaran:** 150 XP, 100 Ringgit.
 
-Memperkenalkan sistem spawner kenderaan. Kebanyakan kereta awam adalah percuma untuk di-spawn.
+Memperkenalkan sistem spawner kenderaan. Perosatu Axia dan Protan Wira ialah kereta permulaan percuma; selebihnya katalog awam standard menggunakan harga sewa/beli.
 
 ### 4. Your First Purchase
 
@@ -131,7 +131,7 @@ Jika anda melengkapkan keseluruhan rantaian:
 - **5,750 XP** dalam pengalaman tahap pemain (3,750 daripada misi individu + 2,000 bonus penamat).
 - **4,400 Ringgit** ke akaun bank anda (2,900 daripada misi individu + 1,500 bonus penamat).
 
-Itu cukup XP untuk melepasi tahap pemain 10. Ringgit masih belum mencukupi untuk membeli rumah (Tier 1 ialah 25,000 SR), tetapi ia cukup untuk kereta awam Premium seperti **Protan X50** pada 10,000 SR dengan baki yang berlebihan, atau memberi impak yang ketara pada **Tier 2 Trawler** jika anda mahu pergi memancing seterusnya.
+Itu cukup XP untuk melepasi tahap pemain 10. Ringgit masih belum mencukupi untuk membeli rumah (Tier 1 ialah 25,000 SR), dan ia tidak cukup untuk **Protan X50** (32,000 SR) atau pembelian kereta awam berbayar paling murah sekalipun (5,000 SR). Ia membawa anda sangat hampir kepada pembelian Protan Wira Aeroback / Protan Putra, atau memberi impak yang ketara pada **Tier 2 Trawler** jika anda mahu pergi memancing seterusnya.
 
 ## Melihat kemajuan misi
 

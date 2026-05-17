@@ -27,6 +27,16 @@ In the full-screen map, press **F** to zoom out to fit **all your waypoints** in
 
 The colored beam from your character is the game's way of pointing at the **most important waypoint** right now - a quest step, an active fire, a 999 call. If you want to override it temporarily, set a custom waypoint with higher priority (or just ignore it).
 
+## World tricks
+
+### Travel pads save the fishing commute
+
+At the fishing area, use **Travel to Fishing Pontoon** to jump out to the pontoon and **Travel to Land** to come back. It is quicker than swimming or driving around when you only need to fish or spawn a trawler.
+
+### Coffee makers are interactable
+
+Some coffee makers are real props. Use **Brew** first, wait for the pot to fill, then use **Take Coffee** to receive a coffee item in your backpack.
+
 ## Phone tricks
 
 ### You start passive, and crime tools drop you out
@@ -61,9 +71,13 @@ The task card (top-left) can cover mobile driving controls. Tap the **chevron (^
 
 If you're in a **Polis, Bomba, or Kesihatan vehicle with the siren active**, you're automatically exempt from speeding and crash offences. Flip the siren on when you're responding. Flip it off when you park, so others don't think you're still on a call.
 
-### Free civilian cars
+### Free starter cars
 
-Most civilian cars spawn free (no rent, no buy price). Don't waste Ringgit renting a Protan Wira when the same car is free at the same spawner. Check the "free" column before paying.
+Only the **Perosatu Axia** and **Protan Wira** are free standard civilian cars. Use one while you save, then rent a cheaper paid car like the Protan Wira Aeroback or Protan Putra before buying outright.
+
+### Vehicle camera eases in
+
+Entering a vehicle now blends into the driving camera instead of snapping. If the view feels different on mobile, that is intentional - it frames around touch controls.
 
 ### Trawlers are free on shift
 
@@ -82,6 +96,10 @@ Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrest
 - Bomba: **+150 SR at 15 blocks.**
 - Kesihatan: **+150 SR at 10 treatments.**
 - Polis: **+200 SR at 5 arrests.**
+
+### Use gig jobs to fill dead time
+
+If you are between long shifts, grab a gig job. The quick minigame panels tell you exactly what to do, and interrupted runs clean up when you die or switch teams.
 
 ### Help Bomba for passive XP
 

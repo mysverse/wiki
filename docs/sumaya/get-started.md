@@ -15,6 +15,8 @@ You can change teams later. Nothing about the first pick is permanent. Just pick
 
 When you're ready, hit **Jom** ("let's go" in Malay) to drop into the world.
 
+During loading or team changes, Sumaya may show a black loading overlay with rotating Malaysia facts. It fades automatically once the game is ready.
+
 ## Picking a team
 
 There are five teams. Three of them (POLIS, BOMBA, Kesihatan) are emergency services with specific duties. The other two (Visitors and Malaysians) let you play as a regular person.
@@ -29,7 +31,7 @@ There are five teams. Three of them (POLIS, BOMBA, Kesihatan) are emergency serv
 
 See [Teams](/sumaya/teams) for more detail on each one, including what tools you start with.
 
-**Not sure which to pick?** Start as **Visitors**. You can try civilian jobs (fishing, mamak, palm oil) right away, and you can switch to an emergency service team later once you've had a look around.
+**Not sure which to pick?** Start as **Visitors**. You can try civilian jobs (fishing, mamak, palm oil) or short gig work right away, and you can switch to an emergency service team later once you've had a look around.
 
 ## Your starting money
 
@@ -38,7 +40,7 @@ Every new player begins with:
 - **100 Ringgit** in your wallet
 - **1000 Ringgit** in your bank
 
-That's enough to rent a few civilian vehicles or buy a basic tier-1 house. See [Economy](/sumaya/economy) for more on money.
+That's enough for a few shop items and basic expenses, but not for a paid car rental or a house. Use one of the free starter cars first; Tier 1 housing starts at **25,000 SR**. See [Economy](/sumaya/economy) for more on money.
 
 ## Controls
 
@@ -73,19 +75,21 @@ Open the **Quest** app on your phone to see your current objective. A red guidan
 
 ### 3. Spawn a vehicle
 
-Walk up to any **vehicle spawner kiosk** (look for the prompts scattered around town). Pick a car, rent or buy it, and drive off. Most starter civilian vehicles are free to spawn - the fancier ones cost Ringgit.
+Walk up to any **vehicle spawner kiosk** (look for the prompts scattered around town). Pick a car, rent or buy it, and drive off. The free starter cars are **Perosatu Axia** and **Protan Wira**; the rest of the standard civilian catalog costs Ringgit to rent or buy.
 
 See [Vehicles](/sumaya/vehicles) for the full list and how the spawner works.
 
 ### 4. Start a civilian job
 
-Walk up to any **career station** (fishing dock, mamak stall, palm plantation) and press the interact prompt to clock in. You'll earn Ringgit and XP while you work. Jobs are described in [Careers overview](/sumaya/jobs).
+Walk up to any **career station** (fishing dock, mamak stall, palm plantation) and press the interact prompt to clock in. You can also take short gig jobs when they are available, such as E-Hailing, parcel delivery, towing, reporting, tour guiding, and restaurant supply runs. You'll earn Ringgit and XP while you work. Jobs are described in [Careers overview](/sumaya/jobs).
 
 If you picked an emergency-service team (POLIS, BOMBA, Kesihatan), you don't need to clock in - you're on duty as soon as you spawn.
 
 ### 5. Explore
 
 Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the police station, the fire station, the beach, and plenty of neighborhoods. The minimap (top-right of your screen) shows what's around you.
+
+Some world props are interactive even when they are not part of a quest. Fishing-area travel pads can move you between land and the pontoon, and some coffee makers let you brew and take coffee.
 
 ## HUD overview
 

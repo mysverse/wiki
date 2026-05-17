@@ -2,8 +2,8 @@
 title: 小贴士
 description: Sumaya 的隐藏互动、移动端小窍门与高手建议。
 lang: zh
-translated_from_hash: c33618fc
-translated_on: '2026-04-30'
+translated_from_hash: 06f13503
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -31,6 +31,16 @@ needs_review: true
 ### 引导光束跟随最近的路径点
 
 来自你角色的彩色光束是游戏指向当前**最重要的路径点**的方式——任务步骤、正在进行的火警、999 来电。如果你想暂时覆盖它,可以设置一个优先级更高的自定义路径点(或者干脆忽略它)。
+
+## 世界技巧
+
+### 传送垫节省钓鱼通勤
+
+在钓鱼区，使用 **Travel to Fishing Pontoon** 跳到浮桥，使用 **Travel to Land** 返回。当你只是要钓鱼或生成拖网渔船时，这比游泳或绕路开车更快。
+
+### 咖啡机可以互动
+
+有些咖啡机是真实可用的道具。先使用 **Brew**，等咖啡壶装满，再使用 **Take Coffee**，即可在背包中获得一件咖啡物品。
 
 ## 电话技巧
 
@@ -66,9 +76,13 @@ needs_review: true
 
 如果你在**开启警笛的 Polis、Bomba 或 Kesihatan 车辆**中,你将自动免除超速和碰撞违规。响应时打开警笛。停车时关闭警笛,这样其他人就不会以为你还在出勤。
 
-### 免费的平民车辆
+### 免费入门车
 
-大多数平民车辆免费生成(无租金,无购买价)。当同样的车辆在同一个生成点免费时,不要浪费 Ringgit 来租 Protan Wira。付款前查看 "free" 那一栏。
+只有 **Perosatu Axia** 和 **Protan Wira** 是免费的标准平民车。先开其中一辆存钱，然后在直接购买前，租一辆较便宜的付费车，如 Protan Wira Aeroback 或 Protan Putra。
+
+### 车辆镜头会平滑进入
+
+进入车辆时现在会平滑切换到驾驶镜头，而不是突然跳转。如果移动端视角感觉不同，这是有意设计的 - 它会围绕触控操作取景。
 
 ### 拖网渔船在值班期间免费
 
@@ -87,6 +101,10 @@ needs_review: true
 - Bomba:**15 个方块时 +150 SR。**
 - Kesihatan:**10 次治疗时 +150 SR。**
 - Polis:**5 次逮捕时 +200 SR。**
+
+### 用 gig jobs 填补空档
+
+如果你在长班次之间，接一个 gig job。快速 minigame 面板会明确告诉你要做什么，而中断的跑腿会在你死亡或切换队伍时清理。
 
 ### 帮助 Bomba 获得被动 XP
 

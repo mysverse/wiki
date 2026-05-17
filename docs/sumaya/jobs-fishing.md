@@ -5,7 +5,7 @@ description: "Fishing in Sumaya — spots, fish types, prices, and progression."
 
 # Fishing
 
-Fishing is one of Sumaya's three civilian careers. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
+Fishing is one of Sumaya's three main civilian career sectors. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
 
 ## Getting started
 
@@ -15,6 +15,10 @@ Fishing is one of Sumaya's three civilian careers. You can fish two ways: with a
 4. Press the **clock in** prompt.
 
 Once you're on shift, you'll get a fishing rod in your backpack and the fishing HUD appears.
+
+### Getting to the fishing pontoon
+
+Some docks have travel pads that shortcut between land and the fishing pontoon. Use the **Travel to Fishing Pontoon** prompt to head out, and the **Travel to Land** prompt to come back.
 
 ## Rod fishing (casual)
 
@@ -95,6 +99,7 @@ Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unl
 - **Stack with the Kesihatan +15% boost.** It applies to player XP on both rod and trawl.
 - **Fish-and-chat.** Trawling is almost a background activity - you can chat, AFK slightly, drive back to a dock between runs.
 - **Watch the fuel on boats.** Don't go far out if your gauge is low - you'll coast back empty.
+- **Use the travel pads.** They are faster than swimming or walking back around when you just need to reach the pontoon.
 - **Dock respawn.** If you die while fishing, your shift ends. Just re-clock in.
 - **Multiplier cap is 5.** Rod rewards can be multiplied up to 5x by in-world bonuses; beyond that the server caps it.
 

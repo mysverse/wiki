@@ -21,9 +21,18 @@ Pick **POLIS** on the main menu. Your starting kit is 5 tools:
 
 A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
 
-## Placeable traffic/crime scene items (reserved / not distributed)
+## Placeable traffic/crime scene items and specializations
 
-The game has **5 placeable tools** defined (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — each with a working placement handler and `PlaceableItemsLeft` counter. However, **they are not currently given to POLIS players** by any team loadout, NPC, shop, or unlock. The models and scripts exist but the distribution path isn't wired up in the live build, so you won't find these in your inventory in normal play. Treat as reserved for a future update.
+The game has **5 placeable tools** defined (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — each with a working placement handler and `PlaceableItemsLeft` counter. Normal POLIS loadout still does not hand them out automatically.
+
+Two future POLIS specializations now exist as backend/shop placeholders:
+
+| Specialization | Current player-facing status |
+|---|---|
+| **Traffic POLIS Role** | Coming Soon. Dev/testing path can grant radar + road-control placeables. |
+| **Unmarked POLIS Role** | Coming Soon. Dev/testing path can grant Concealed Badge + Plate Finder. |
+
+They are not separate teams; both are intended to work while you are on the normal POLIS team.
 
 Head to the police station for vehicles, or patrol the streets and watch for wanted suspects on your MDT (Mobile Data Terminal) app.
 
@@ -241,7 +250,7 @@ If you have your Polis vehicle's **siren active**, you can't be cited for speedi
 - **Don't miss milestone bonuses.** Every 5 arrests = +200 Ringgit. Plan your shift to hit 5, 10, 15.
 - **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
 - **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
-- **Don't become wanted yourself.** Committing a crime as POLIS was intended to auto-demote you off the team, but that listener isn't wired in the current build - you stay on POLIS. Don't rely on the game to swap you back to civilian; leave the team first if you want to play criminal. (Practically: POLIS is barred from passive mode anyway, so committing crimes on-duty is extremely risky.)
+- **Don't become wanted yourself.** If you cross into 1-star wanted as POLIS, the live demotion listener removes you from the emergency team and despawns your emergency vehicle. Leave the team first if you want to play criminal.
 - **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents - the game checks `JobType == "EMS"`, and POLIS has `JobType = "Law"`. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
 
 ## What next?

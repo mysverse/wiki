@@ -2,13 +2,13 @@
 title: Memancing
 description: 'Memancing di Sumaya — tempat, jenis ikan, harga, dan kemajuan.'
 lang: ms
-translated_from_hash: 3f6d4e33
-translated_on: '2026-04-21'
+translated_from_hash: 1a7b6ae3
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Memancing
 
-Memancing ialah salah satu daripada tiga kerjaya awam di Sumaya. Anda boleh memancing dengan dua cara: menggunakan **joran** di jeti (pantas, santai) atau dengan **bot pukat** di laut (skala besar, kerja sektor). Kedua-dua sistem ini membayar secara berbeza dan menaikkan tahap perkara yang berbeza.
+Memancing ialah salah satu daripada tiga sektor kerjaya awam utama di Sumaya. Anda boleh memancing dengan dua cara: menggunakan **joran** di jeti (pantas, santai) atau dengan **bot pukat** di laut (skala besar, kerja sektor). Kedua-dua sistem ini membayar secara berbeza dan menaikkan tahap perkara yang berbeza.
 
 ## Memulakan
 
@@ -18,6 +18,10 @@ Memancing ialah salah satu daripada tiga kerjaya awam di Sumaya. Anda boleh mema
 4. Tekan gesaan **clock in**.
 
 Setelah anda bertugas, anda akan mendapat joran memancing di dalam beg anda dan HUD memancing akan muncul.
+
+### Pergi ke pontun memancing
+
+Sesetengah dok mempunyai pad perjalanan yang memendekkan perjalanan antara darat dan pontun memancing. Gunakan gesaan **Travel to Fishing Pontoon** untuk keluar, dan gesaan **Travel to Land** untuk kembali.
 
 ## Memancing dengan joran (santai)
 
@@ -98,6 +102,7 @@ Capai **tahap 50** dalam sektor memancing (atau Pertanian / kelapa sawit) dan an
 - **Gabungkan dengan peningkatan Kesihatan +15%.** Ia dikenakan pada XP pemain pada kedua-dua joran dan pukat.
 - **Memancing sambil bersembang.** Memukat hampir seperti aktiviti latar - anda boleh bersembang, AFK sedikit, pandu balik ke dok antara perjalanan.
 - **Perhatikan minyak pada bot.** Jangan pergi jauh jika penunjuk anda rendah - anda akan terapung balik dalam keadaan kosong.
+- **Gunakan pad perjalanan.** Ia lebih pantas daripada berenang atau berjalan memutar apabila anda hanya perlu sampai ke pontun.
 - **Respawn dok.** Jika anda mati semasa memancing, syif anda tamat. Cuma clock in semula.
 - **Had pengganda ialah 5.** Ganjaran joran boleh didarabkan hingga 5x oleh bonus dalam dunia; melebihi itu pelayan akan hadkannya.
 

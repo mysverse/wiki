@@ -2,8 +2,8 @@
 title: 任务
 description: Sumaya 的 12 步探索任务链。
 lang: zh
-translated_from_hash: f1908452
-translated_on: '2026-04-30'
+translated_from_hash: '295324e2'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -48,7 +48,7 @@ Sumaya 拥有一个 **12 个任务的探索链**，引导你了解游戏的核�
 - **路径点：** 最近的车辆生成器。
 - **奖励：** 150 XP，100 Ringgit。
 
-介绍车辆生成器系统。大多数民用车辆都可以免费召唤。
+介绍车辆生成器系统。Perosatu Axia 和 Protan Wira 是免费入门车；其余标准平民车辆目录使用租用/购买价格。
 
 ### 4. Your First Purchase
 
@@ -131,7 +131,7 @@ Sumaya 拥有一个 **12 个任务的探索链**，引导你了解游戏的核�
 - **5,750 XP** 玩家等级经验（3,750 来自单个任务 + 2,000 终章奖金）。
 - **4,400 Ringgit** 进入你的银行账户（2,900 来自单个任务 + 1,500 终章奖金）。
 
-这些 XP 足以让你超过玩家等级 10。Ringgit 还不够买房子（Tier 1 为 25,000 SR），但足以购买一辆 Premium 民用车，如 10,000 SR 的 **Protan X50**，还有剩余，或者如果你接下来要去 fishing，可以为 **Tier 2 Trawler** 凑出可观的首付。
+这些 XP 足以让你超过玩家等级 10。Ringgit 还不够买房子（Tier 1 为 25,000 SR），也不够买 **Protan X50**（32,000 SR），甚至不够买最便宜的付费平民车（5,000 SR）。它会让你非常接近购买 Protan Wira Aeroback / Protan Putra，或者如果你接下来要去 fishing，可以为 **Tier 2 Trawler** 凑出可观的一部分。
 
 ## 查看任务进度
 

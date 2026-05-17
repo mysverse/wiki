@@ -19,7 +19,7 @@ When you join for the first time you spawn on the **Visitors** team with:
 
 - **1000 BR** (Ringgit) starting balance — **tracked but not yet used**. The currency system is planned, not live (see [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) for details). For now, everything is free.
 - **Level 1**, 0 XP
-- No vehicle (you'll spawn one from the menu)
+- No vehicle (you'll spawn one from a world vehicle spawner)
 
 Look around the HUD:
 
@@ -27,13 +27,29 @@ Look around the HUD:
 - **Top-right**: the Phone icon (tap to open apps and 999 emergency)
 - **Bottom**: the Settings and Main Menu icons
 
+Open the **Main Menu** early. It is the hub for almost everything:
+
+| Tab | Use it for |
+|---|---|
+| **Home** | Profile, announcements, quick play/spawn actions |
+| **Teams** | Join a team or inspect unlock requirements |
+| **Shop** | Gamepasses, products, tokens, and promo codes |
+| **Activity** | Missions, challenges, and season pass progress |
+| **More** | Career ranks, job tiers, token inventory, credits, races, help |
+
 ## Spawning your first vehicle
 
-1. Open the **MyPod** menu (the vehicle spawner). On desktop, the icon is on the topbar; on mobile, it's in the top-right cluster.
+Vehicles spawn from physical vehicle spawner pads around the map. The **MyPod** topbar icon is a music player, not a vehicle spawner.
+
+1. Walk to a green vehicle spawner marker or team spawner pad.
 2. Browse the vehicle list. Free starter vehicles are available to everyone.
-3. Select one and click **Spawn**. Your vehicle appears in front of you.
+3. Select a vehicle. The info panel shows its image, description, lock status, and **Spawn** button.
+4. Click **Spawn**, then choose an available pad if the spawner asks.
+5. Your vehicle appears on the selected pad and is registered to you.
 
 Walk up to the driver door and press **F** (keyboard), **X** (gamepad), or tap the **Drive** button (mobile) to sit.
+
+Starter-friendly choices include compact cars like the **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, and **Perosatu Bezza**. Locked cards show the required level or career tier.
 
 ## Driving and earning your first XP
 
@@ -48,7 +64,7 @@ Want to go faster?
 
 ## Picking your first job
 
-You can't pick a job on your first day — most jobs unlock by level. Your first milestone is **Level 10**, which unlocks the **Food Delivery** team. It's the fastest way to start earning consistent BR.
+You can join **Visitors** and **Bus Driver** immediately. Most other jobs unlock by level, gamepass, or group membership. Your first level milestone is **Level 10**, which unlocks the **Food Delivery** team.
 
 Here's the free-and-early progression:
 
@@ -63,9 +79,17 @@ Here's the free-and-early progression:
 
 See [Teams and Careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
 
+### A good first 30-minute plan
+
+1. Spawn a starter car and drive a clean loop between Bandar Seri Putra and the highway.
+2. Open the Phone GPS and set a waypoint to a petrol station, repair zone, or race track so you learn the road network.
+3. Join a convoy if friends are online; the bonus helps even before you unlock jobs.
+4. When you reach Level 10, switch to **Food Delivery** and start doing short delivery loops.
+5. If you are in the MYSverse group, try **Malaysians** for Fishing or Checkout while you level.
+
 ## What happens when I crash?
 
-Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player or repaired at the **Gravstone Workshop** in Bandar Seri Putra. If you get stuck somewhere, you can always despawn your vehicle from the MyPod menu and spawn a new one.
+Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player, repaired in one of the map's repair zones, or patched with a Toolkit. **Gravstone Workshop** is for paint/body customisation, not repairs. If you can reach a vehicle spawner, spawning a replacement vehicle clears your previous owned vehicle.
 
 ## A note about test servers
 
@@ -76,3 +100,4 @@ If you join a **Studio test server** or a private server, you'll see a warning t
 - Read [Controls](/lebuhraya/controls) for the full input reference
 - Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack
 - Browse [Jobs](/lebuhraya/jobs) to plan which team to aim for
+- Use [FAQ and Tips](/lebuhraya/faq) if a menu, spawner, or team requirement is confusing

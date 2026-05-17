@@ -13,6 +13,18 @@ Your **career tier** sits on top of the team system. You can rank up from **Trai
 
 Open the **Main Menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time (though some roleplay situations, like an assigned 999 incident, will be cancelled when you swap).
 
+### Reading the Teams screen
+
+The Teams tab uses a carousel:
+
+- The centered card is the team currently in focus.
+- Side cards preview nearby teams; click/tap or use arrows to move through the carousel.
+- A lock or dimmed card means you do not currently meet the requirement.
+- The lower info panel shows the full team name, description, current-team status, and join/confirm action.
+- Long team names are scaled to fit on one line, so `Malaysians`, `Waste Disposal`, and `Undercover Police` remain readable on small screens.
+
+If you are on a job team and try to open a civilian vehicle spawner, the game may warn that you cannot access that spawner while working. Switch back to **Visitors** or a non-job team if you want civilian spawner access.
+
 ## The 18 teams
 
 ### Free for everyone
@@ -27,6 +39,8 @@ Open the **Main Menu** and go to the **Teams** tab. You'll see a list with each 
 | Team | How to unlock |
 |---|---|
 | **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
+
+The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
 
 ### Unlocked by level
 
@@ -66,6 +80,8 @@ See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepass
 
 Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job — driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
 
+Open **Main Menu -> More -> Career** to view your overall career status. Open **Main Menu -> More -> Jobs** to inspect branch tier progress and rewards.
+
 ### How tier XP scales
 
 The tier curve is:
@@ -74,7 +90,7 @@ The tier curve is:
 - Each subsequent tier requires **15% more XP** than the previous
 - **Tier 20** costs about **7,100 XP** on its own — and **around 51,000 cumulative XP** to reach from scratch
 
-You can see your current tier and XP progress in the **Main Menu → Career** tab.
+You can see your current tier and XP progress in **Main Menu -> More -> Career**.
 
 ### Rank titles
 
@@ -116,7 +132,17 @@ Hitting a tier milestone can unlock:
 - **Career vehicles** — for example, higher-tier Bomba ranks unlock larger fire trucks; higher-tier Taxi Driver ranks unlock better taxi models
 - Occasional **cosmetic items** (uniforms, accessories)
 
-Career vehicles won't show in the MyPod spawner until your tier is high enough.
+Career vehicles won't show in their matching team vehicle spawner until your tier is high enough.
+
+### Why a vehicle is missing from the spawner
+
+If a vehicle exists in the wiki but does not appear in your spawner, check:
+
+1. Are you on the correct team?
+2. Is the spawner type correct? Civilian, bike, premium, special, and team spawners show different lists.
+3. Do you meet the level requirement?
+4. Do you meet the career tier requirement?
+5. Is it a gamepass/team vehicle that requires ownership or a Team Access token?
 
 ## Uniforms and outfits
 

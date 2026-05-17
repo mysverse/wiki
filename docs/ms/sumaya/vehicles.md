@@ -2,15 +2,15 @@
 title: Kenderaan
 description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
-translated_from_hash: a340548c
-translated_on: '2026-04-30'
+translated_from_hash: 61c50e55
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
 
 # Kenderaan
 
-Sumaya mempunyai katalog kenderaan yang besar: kereta awam (percuma dan premium), bot pukat tunda, kereta polis, jentera Bomba, dan ambulans. Halaman ini meliputi cara untuk melahirkannya, katalog penuh dengan harga, dan cara untuk menyesuaikan serta menjaganya.
+Sumaya mempunyai katalog kenderaan yang besar: kereta awam, kereta Classic Car Pack, bot pukat tunda, kereta polis, jentera Bomba, dan ambulans. Halaman ini meliputi cara untuk melahirkannya, katalog penuh dengan harga, dan cara untuk menyesuaikan serta menjaganya.
 
 ## Cara melahirkan kenderaan
 
@@ -36,41 +36,61 @@ Pelancar kenderaan awam hanya memaparkan kereta awam, pelancar pasukan hanya mem
 
 ## Kereta awam
 
-Kebanyakan kereta awam dilahirkan **percuma** (ia tidak mempunyai harga yang ditetapkan). Beberapa adalah premium. Semua kereta awam berada pada **tahap pemain 1** - tiada had tahap - tetapi yang berbayar memerlukan Ringgit.
+Semua kereta awam standard tersedia pada **tahap pemain 1**. Hanya dua percuma; selebihnya mempunyai harga sewa dan beli.
 
-### Kereta awam percuma
+### Kereta permulaan percuma
 
-Ini dilahirkan tanpa harga. Anda boleh keluarkan ia pada bila-bila masa:
+Ini dilahirkan tanpa kos sewa atau beli:
 
-- Perosatu Axia (hatchback padat)
-- Perosatu Myvi 2020 (hatchback)
-- Perosatu Bezza (sedan)
-- Perosatu Alza (MPV)
-- Perosatu Ativa (SUV padat)
-- Perosatu Aruz (SUV)
-- Protan Wira (sedan padat)
-- Protan Wira Aeroback (hatchback)
-- Protan Putra (kupe sukan)
-- Protan Waja (sedan)
-- Protan Preve (sedan)
-- Protan Saga 1985 (sedan padat)
-- Protan Exora (MPV)
-- Handai City (MPV)
-- Handai Civic (MPV)
-- Protan S70 (sedan)
-- Protan X70 (SUV)
-- Tayoti Hilux (trak pikap)
+- Perosatu Axia
+- Protan Wira
 
-### Kereta awam premium
+### Kereta awam standard berbayar
 
 | Kenderaan | Sewa | Beli |
-|---------|------|-----|
-| Protan X50 (SUV padat) | 2,000 Ringgit | 10,000 Ringgit |
-| Merzda Miata (roadster) | 2,400 Ringgit | 12,000 Ringgit |
+|---------|-----:|----:|
+| Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
+| Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
+| Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
+| Protan Waja | 1,750 Ringgit | 7,000 Ringgit |
+| Tayoti Hilux | 2,000 Ringgit | 8,000 Ringgit |
+| Perosatu Myvi 2020 | 2,500 Ringgit | 10,000 Ringgit |
+| Protan Exora | 2,875 Ringgit | 11,500 Ringgit |
+| Perosatu Ativa | 3,750 Ringgit | 15,000 Ringgit |
+| Perosatu Alza | 4,250 Ringgit | 17,000 Ringgit |
+| Perosatu Aruz | 4,250 Ringgit | 17,000 Ringgit |
+| Protan Preve | 5,000 Ringgit | 20,000 Ringgit |
+| Handai City | 5,500 Ringgit | 22,000 Ringgit |
+| Handai Civic | 5,750 Ringgit | 23,000 Ringgit |
+| Protan X50 | 8,000 Ringgit | 32,000 Ringgit |
+| Protan S70 | 8,250 Ringgit | 33,000 Ringgit |
+| Protan X70 | 8,750 Ringgit | 35,000 Ringgit |
+
+**Protan X70** ialah kereta awam standard paling mahal pada masa ini.
+
+### Classic Car Pack
+
+Kereta ini muncul di pengedar awam tetapi memerlukan gamepass Classic Car Pack. Bukan pemilik melihatnya terkunci dengan prompt gamepass.
+
+## Vehicle packs in the Shop
+
+Shop kini mempunyai kad placeholder untuk pek kenderaan akan datang:
+
+- **Premium EV Vehicles**
+- **Premium Sports Vehicles**
+- **Premium Luxury Vehicles**
+- **Expanded POLIS Vehicles**
+- **Unmarked POLIS Role**
+- **Traffic POLIS Role**
+
+Kad ini kini memaparkan **Coming Soon** kecuali ID pass Roblox akhir telah ditetapkan. Pemilik legacy sedia ada masih mengekalkan akses jika gate lama sudah wujud, dan pek Classic/Retro kekal sebagai pass kenderaan aktif yang boleh dibeli.
+
+| Kenderaan | Sewa | Beli |
+|---------|-----:|----:|
+| Protan Saga 1985 | Percuma | Percuma |
+| Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
-
-Joguar XJ308 R ialah kenderaan awam yang paling mahal dalam permainan.
 
 ## Bot pukat tunda memancing
 
@@ -159,6 +179,12 @@ Dari aplikasi **Phone > Collision** anda, anda boleh menogol perlanggaran kender
 
 Lihat [Phone and UI](/sumaya/phone) untuk maklumat lanjut tentang aplikasi Collision.
 
+## Kamera ketika memasuki kenderaan
+
+Apabila anda duduk di dalam atau keluar daripada kenderaan, kamera kini beralih secara lembut ke paparan pemanduan dan bukan tersentak secara tiba-tiba. Permainan melaraskan bingkai untuk kawalan desktop, tablet, dan mudah alih secara automatik, jadi anda tidak perlu menukar tetapan.
+
+Jika anda menggunakan mod kamera lain, seperti aplikasi Cinematic telefon, mod itu kekal diberi keutamaan sehingga anda menutupnya.
+
 ## Pemilikan dan kekekalan
 
 - **Kenderaan yang disewa** akan hilang apabila anda dilahirkan semula, log keluar, atau melahirkan kenderaan lain.
@@ -176,7 +202,7 @@ Setiap kenderaan mempunyai **plat lesen**. Apabila anda melahirkan kenderaan:
 
 ## Tip
 
-- **Sewa sebelum membeli.** Cuba kereta pada harga sewa dahulu sebelum mengeluarkan 10,000+ Ringgit.
+- **Sewa sebelum membeli.** Cuba kereta berbayar pada harga sewa dahulu sebelum mengeluarkan 5,000+ Ringgit.
 - **Naik taraf kenderaan pasukan anda apabila anda naik tahap.** Kereta Bomba dan Polis tier yang lebih tinggi adalah lebih pantas dan lebih kukuh.
 - **Siren untuk polis dan krew Bomba = tiada saman.** Sentiasa hidupkan siren anda apabila bertindak balas supaya anda tidak menyaman diri sendiri.
 - **Jangan letak kereta di lorong trafik.** Kereta awam yang ditinggalkan boleh dirampas; jika anda memilikinya dan tidak mahu ia dicuri, letak di tempat yang lebih sunyi.

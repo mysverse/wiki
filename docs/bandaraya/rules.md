@@ -7,7 +7,7 @@ description: "What behaviour gets you banned in Bandaraya, and how appeals work.
 
 Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
 
-The canonical rule text lives in the game (`infoModules.GameRules`). This page is a player-friendly summary.
+The canonical rule text lives in the game (`infoModules.GameRules`) and is mirrored in the source wiki's `docs/game-rules.md`. This page is a player-friendly summary.
 
 ## TL;DR
 
@@ -118,6 +118,10 @@ These aren't formal rules, but they keep the game fun:
 
 ---
 
+## Penal Code reference
+
+In addition to the player rules, the in-game POLIS and judicial roleplay refer to the **Laws of Malaysia, Penal Code (Act 574)** — a 2,380-line reference of real Malaysian criminal law shipped with the game. Officers may cite section numbers (e.g. "Section 302 — Punishment for murder") in arrest records. This is for roleplay flavour and doesn't add new banable offences beyond what's listed above.
+
 ## Appeals
 
 Any ban, permanent or temporary, can be appealed.
@@ -144,4 +148,4 @@ Any ban, permanent or temporary, can be appealed.
 - [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
 - [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
 - [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: `infoModules.GameRules` (in-game)
+- Canonical rule text: `docs/game-rules.md`

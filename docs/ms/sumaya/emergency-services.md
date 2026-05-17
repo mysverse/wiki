@@ -2,8 +2,8 @@
 title: Gambaran Perkhidmatan Kecemasan
 description: 'POLIS, BOMBA, dan Kesihatan — perkhidmatan kecemasan di Sumaya.'
 lang: ms
-translated_from_hash: 21d42aaf
-translated_on: '2026-04-30'
+translated_from_hash: 7299072b
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -65,7 +65,7 @@ Bonus tersebut bertindan di atas ganjaran setiap tindakan anda.
 
 ### Penurunan pangkat pada status dikehendaki
 
-Permainan dikabelkan untuk menurunkan pangkat pemain perkhidmatan kecemasan secara automatik (BOMBA, Kesihatan, POLIS) apabila mereka melepasi tahap dikehendaki 1 bintang, tetapi setakat pengesahan semasa pendengar untuk peristiwa itu tidak disambungkan - anda akan **kekal dalam pasukan kecemasan anda** walaupun selepas melakukan jenayah. Bindable penurunan pangkat menyala tanpa pengendali. Jangan harapkan permainan untuk menukar anda kembali kepada awam; tukar pasukan secara manual sebelum melakukan apa-apa yang menyalahi undang-undang.
+Pemain perkhidmatan kecemasan (BOMBA, Kesihatan, POLIS) auto-demote apabila mereka melepasi **1-star wanted**. Sistem offence menyalakan demotion bindable, `PoliceServer` mendengarnya, dan `TeamAuthority` menukar pemain ke Malaysians jika layak atau Visitors jika tidak. Kenderaan kecemasan anda juga despawn. Tukar pasukan secara manual sebelum melakukan apa-apa yang menyalahi undang-undang jika anda mahu mengawal roleplay.
 
 ## Galakan XP global Kesihatan
 

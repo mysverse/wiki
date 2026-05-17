@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு — விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR
   உள்ளீடுகள்.
 lang: ta
-translated_from_hash: 5af60e76
-translated_on: '2026-04-21'
+translated_from_hash: 922cf692
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # கட்டுப்பாடுகள்
@@ -58,14 +58,23 @@ needs_review: true
 
 ## இடைமுகம்
 
-| செயல் | விசைப்பலகை | கைபேசி |
-|---|---|---|
-| அரட்டை | **/** (முன்னோக்கி ஸ்லாஷ்) | அரட்டை ஐகானை தட்டவும் |
-| முதன்மை மெனு | டாப்பார் ஐகான் | டாப்பார் ஐகான் |
-| தொலைபேசி | டாப்பார் ஐகான் | டாப்பார் ஐகான் |
-| டேப்லெட் | டாப்பார் ஐகான் (கிடைக்கும்போது) | டாப்பார் ஐகான் |
-| அமைப்புகள் | முதன்மை மெனுவில் கியர் சக்கரம் | முதன்மை மெனுவில் கியர் சக்கரம் |
-| எந்த பாப்அப்பையும் மூடு | **Esc** அல்லது **Backspace** | மூடு என்பதை தட்டவும் |
+| செயல் | விசைப்பலகை / மவுஸ் | கைபேசி / touch | Gamepad |
+|---|---|---|---|
+| அரட்டை | **/** (முன்னோக்கி ஸ்லாஷ்) | அரட்டை ஐகானை தட்டவும் | Roblox chat shortcut |
+| முதன்மை மெனு | Topbar icon | Topbar icon | Topbar-க்கு navigate செய்து select செய்யவும் |
+| தொலைபேசி | Topbar icon | Topbar icon | Topbar-க்கு navigate செய்து select செய்யவும் |
+| டேப்லெட் | Topbar icon (இருந்தால்) | Topbar icon | Topbar-க்கு navigate செய்து select செய்யவும் |
+| அமைப்புகள் | Main Menu-வில் cogwheel | Main Menu-வில் cogwheel | Cogwheel select செய்யவும் |
+| எந்த popup-ஐயும் மூடு | **Esc** அல்லது **Backspace** | Close/back தட்டவும் | காட்டப்பட்டால் **B** / back button |
+| Focus செய்யப்பட்ட button-ஐ உறுதிசெய் | Click / focus இருந்தால் Enter | Tap | **A** |
+
+### Proximity prompts
+
+பெரும்பாலான world interactions Roblox ProximityPrompts பயன்படுத்துகின்றன: spawners, doors, job counters, fuel pumps, repair zones, tow panels, shop counters.
+
+- Prompt தோன்ற போதுமான அளவு அருகில் நிற்கவும்.
+- Hold duration இருந்தால், காட்டப்படும் key/button-ஐ circle முடியும் வரை பிடித்து வைத்திருங்கள்.
+- Prompt நீங்கள் தவறான team-ல் உள்ளீர்கள் அல்லது தவறான fuel pump type-ல் உள்ளீர்கள் என்று சொன்னால், prompt வேலை செய்கிறது; warning-ஐ பின்பற்றுங்கள்.
 
 ### முதன்மை மெனு தாவல்கள்
 
@@ -73,13 +82,35 @@ needs_review: true
 
 - **Home** — அறிவிப்புகள் மற்றும் மேலோட்டம்
 - **Teams** — உங்கள் அணியைத் தேர்ந்தெடு / அணிகளை மாற்று
-- **Shop** — விளையாட்டுக்குள் கொள்முதல் (gamepass குறிப்புகள், டோக்கன்கள்)
-- **Career** — உங்கள் தொழில் தரங்கள் மற்றும் ஏஜென்சி முன்னேற்றம்
-- **Job Progression** — ஒவ்வொரு கிளைக்கான அடுக்கு பட்டைகள் மற்றும் வெகுமதிகள்
-- **Tokens** — உங்கள் செயலில் உள்ள மற்றும் சேமிக்கப்பட்ட டோக்கன்கள் / பூஸ்ட்கள்
-- **Tutorials** — தொடக்கநிலையாளர்களுக்கான வழிகாட்டிகள்
-- **Top** — தலைவர்பலகை மற்றும் நிலைகள்
-- **Credits** — மேம்பாட்டு குழு மற்றும் பங்களிப்பாளர்கள்
+- **Shop** — விளையாட்டுக்குள் கொள்முதல் (gamepass prompts, tokens)
+- **Activity** — missions, challenges, season pass progress
+- **More** — கீழ்க்கண்டவற்றிற்கான card grid:
+  - **Career** — உங்கள் தொழில் rank-கள் மற்றும் agency progress
+  - **Jobs** — ஒவ்வொரு branch-க்கான tier bars மற்றும் rewards
+  - **Tokens** — உங்கள் active மற்றும் stored tokens / boosts
+  - **Credits** — development team மற்றும் contributors
+  - **Races** — time trial மற்றும் PvP race menu
+  - **Help** — tutorials கிடைக்கும் போது
+
+பழைய Career/Tokens/Credits/Help tabs internal-ஆக இன்னும் உள்ளன, ஆனால் players அவற்றை **More** மூலம் அடைவார்கள்.
+
+### மாற்றக்கூடிய settings
+
+Settings panel-ஐ (Main Menu-வில் cogwheel) திறந்து இத்தகைய toggles-ஐ பயன்படுத்தலாம்:
+
+- **Crash System** — collisions உங்கள் காரை உண்மையாக damage செய்ய இதை on செய்யவும்; பதிலாக அது active இருக்கும் போது **+15% XP** கிடைக்கும். Server-ல் Kesihatan team player இருந்தால் மட்டுமே கிடைக்கும் (FAQ பார்க்கவும்).
+- **Overhead rank** — உங்கள் character மேல் மிதக்கும் team rank/title-ஐ show அல்லது hide செய்யவும்.
+- **First person view** — camera mode மாற்றவும். Forward-slash (`/`) game-இல் view-ஐ toggle செய்கிறது.
+- **Vehicle Spawner: NEW** — புதுப்பிக்கப்பட்ட vehicle spawner UI-க்கு opt in செய்யவும்.
+- **Parking Brake** key — handbrake bind-ஐ remap செய்யவும்.
+- **Shift + C** — முழு HUD-ஐ toggle செய்யவும் (screenshots-க்கு நல்லது).
+- Reset / Change / Remove — repositioning மற்றும் customisation shortcuts.
+
+### Top HUD indicators
+
+- **ActiveTokensHUD** — active tokens அனைத்தையும் (2× XP Boost, Season Pass Boost, Team Access Pass) `M:SS` format-ல் மீதமுள்ள நேரத்துடன் காட்டும். Tokens expired ஆனால் auto-hide ஆகும்.
+- **StatusGui** — speedometer, fuel, GPS heading, player vitals.
+- **Leaderboard** — online players, அவர்களின் team, level, மற்றும் studs driven பார்க்க tap செய்யவும். அதே panel-ல் ஒரு row-ஐ tap செய்து friend request அனுப்பவோ block செய்யவோ முடியும்.
 
 ## கருவிகள் (வேலை உபகரணங்கள்)
 
@@ -90,6 +121,14 @@ needs_review: true
 - விளையாட்டு கைபேசி அமைப்பை மதிக்கிறது; தொலைபேசியில் ஓட்டுவது வேலை செய்கிறது ஆனால் டேப்லெட்டில் எளிதாக இருக்கும்.
 - பெரும்பாலான ProximityPrompts (கதவுகளுக்குள் நுழைதல், NPC-களுடன் பேசுதல், வேலைகளைத் தொடங்குதல்) திரையில் ஒரு வட்ட பொத்தானைக் காட்டும். அதை தட்டவும்.
 - ஓட்டும்போது HUD-ன் இடதுபுறத்தில் ஸ்டீயரிங் வீல் கிடைக்கும்.
+- Driving அல்லாத UI-களில் bottom corners-ஐ பிடித்திருக்க வேண்டாம்; Roblox movement stick மற்றும் jump button அங்கே இருக்கும்.
+- Card grid அல்லது menu நெரிசலாக இருந்தால், device-ஐ landscape-க்கு rotate செய்யவும். Main Menu-வின் More மற்றும் Teams views குறுகிய landscape screens-க்கு fit ஆக வடிவமைக்கப்பட்டுள்ளன.
+
+## Gamepad குறிப்புகள்
+
+- Menu buttons selectable. Focus தொலைந்தது போல இருந்தால், menu-ஐ close செய்து மீண்டும் open செய்யவும், game முதல் button-ஐ மீண்டும் select செய்யும்.
+- Cards இடையே நகர D-pad/left stick, confirm செய்ய **A**, UI back அல்லது close action காட்டும் போது வெளியேற **B** பயன்படுத்தவும்.
+- சில பழைய Roblox panels இன்னும் cursor-style selection-ஐ நம்பும்; ஒன்றுச் சிரமமாக இருந்தால், குறுகிய நேரம் mouse/touch-க்கு மாறவும்.
 
 ## அணுகல்தன்மை
 

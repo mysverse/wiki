@@ -2,8 +2,8 @@
 title: 常见问题
 description: Bandaraya 新玩家常见问题解答。
 lang: zh
-translated_from_hash: a253c66d
-translated_on: '2026-04-21'
+translated_from_hash: 9febc650
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 常见问题
@@ -164,7 +164,7 @@ needs_review: true
 
 ### 如何取得 Punch 工具?
 
-它是 **Level 25** 的任务奖励。你必须通过任务所指向的活动(roleplay 活动)肝到 25 级。目前是游戏中唯一的任务。
+它是 **Level 25** 的任务奖励。你必须通过任务所指向的活动(roleplay 活动)肝到 25 级。目前它是唯一已注册到游戏任务系统的任务。(代码库里有一个 "Pushup" 任务 UI,但还没有可用的后端。)
 
 ### 游戏版本是什么?
 

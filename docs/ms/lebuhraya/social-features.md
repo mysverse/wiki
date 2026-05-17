@@ -2,8 +2,8 @@
 title: Ciri Sosial
 description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
-translated_from_hash: cdf9833b
-translated_on: '2026-04-21'
+translated_from_hash: f4d91280
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Ciri Sosial
@@ -100,6 +100,29 @@ Setiap pemain mempunyai telefon yang boleh diakses daripada bar atas.
 
 Lebih banyak aplikasi telefon mungkin muncul dari semasa ke semasa apabila platform MYSverse menambah ciri.
 
+### Petua telefon
+
+- Gunakan Phone apabila anda perlukan tindakan pantas sambil kekal di dunia.
+- Waypoint GPS ialah cara paling selamat untuk sampai ke POI tanpa fast travel staf sahaja.
+- Jika skrin kecemasan atau GPS kelihatan kosong, tutup telefon dan buka semula selepas watak anda selesai load.
+
+## MyPod Music Player
+
+**MyPod** ialah pemain muzik topbar. Ia bukan spawner kenderaan.
+
+Apa yang MyPod lakukan:
+
+- Menunjukkan bar pemain mini ketika muzik dimainkan.
+- Membuka pemain penuh dengan senarai lagu, panel album-art, progress scrubber, dan slider volume.
+- Menyokong play/pause, previous/next, shuffle, repeat, dan favourites.
+- Boleh auto-play lagu rawak apabila anda duduk dalam kenderaan jika **Auto-play** diaktifkan.
+
+Apa yang MyPod **tidak** lakukan:
+
+- Ia tidak spawn kenderaan.
+- Ia tidak despawn kenderaan.
+- Ia tidak menggantikan pad/penanda spawner kenderaan fizikal di sekitar peta.
+
 ## The Tablet
 
 Peranti sekunder yang tersedia daripada bar atas. Anggapkan ia sebagai "HUD kerjaya" anda — skrin lebih besar, lebih banyak data berbanding telefon.
@@ -109,6 +132,49 @@ Peranti sekunder yang tersedia daripada bar atas. Anggapkan ia sebagai "HUD kerj
 - **Vehicle** — Lihat pendaftaran kenderaan dan maklumat lesen memandu mana-mana pemain berhampiran. Berguna untuk adegan main peranan (pemeriksaan rambang, carian insurans). Keterlihatan lesen dikawal pasukan — hanya pasukan tertentu (APJ, Polis) boleh melihat butiran lesen penuh.
 - **Developer** *(staf sahaja)* — Paparan moderasi admin yang menunjukkan butiran pemain, baki BR, wang POS, dan sejarah mesej.
 - **Moderator** *(staf sahaja)* — Alat moderasi staf tambahan.
+
+## Sistem Report
+
+Gunakan sistem **Report** dalam permainan apabila anda perlu menghantar maklum balas, laporan bug, atau laporan pemain kepada pasukan MYSverse.
+
+### Apa yang perlu disertakan
+
+Laporan yang baik adalah khusus:
+
+- **Apa yang berlaku** — contohnya "Vehicle spawner opened but Spawn did nothing."
+- **Di mana** — bandar, kedai, spawner, jalan, atau landmark anggaran.
+- **Apa yang anda sedang buat** — pasukan, kenderaan, kerja, alat, menu.
+- **Sama ada ia berulang** — sekali, setiap kali, hanya di mobile, hanya di private server.
+- **Nama pemain** jika ia isu kelakuan pemain.
+
+### Bila untuk menggunakannya
+
+Gunakan Report untuk:
+
+- menu rosak, butang hilang, teks bertindih, atau UI tidak boleh dibaca
+- masalah spawn/fuel/repair kenderaan
+- tugas kerja yang tidak boleh lengkap
+- lubang peta, tempat tersangkut, atau collision buruk
+- kelakuan pemain yang abusive
+- maklum balas tentang balance, payout, dan alat roleplay
+
+Jangan guna untuk kunci pasukan normal, syarat gamepass, atau amaran fuel-pump mismatch; itu peraturan permainan yang dijangka.
+
+## Identity Card (IC)
+
+Lebuhraya mengeluarkan **kad pengenalan gaya Malaysia** kepada setiap pemain dalam aplikasi Phone / Tablet, dijana dengan format IC Malaysia sebenar:
+
+```
+YYMMDD-PB-XXXX
+```
+
+- **YYMMDD** — tarikh akaun Roblox anda menyertai (tahun, bulan, hari).
+- **PB** — kod tempat lahir. Lalai ialah **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) untuk kebanyakan pemain; ID khusus (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) menggunakan kod berbeza.
+- **XXXX** — empat digit terakhir Roblox UserId anda.
+
+Jadi jika anda menyertai Roblox pada 15 Mac 2020 dengan UserId 123456789, IC anda ialah **200315-14-6789**. IC anda konsisten setiap kali bermain — ia tidak berubah.
+
+Kad pengenalan khusus (Kad Polis untuk penguatkuasaan undang-undang, KKM untuk perubatan, dll.) dikeluarkan secara automatik berdasarkan pasukan anda. Gunakan `/me show IC` atau berinteraksi dengan NPC roleplay untuk menunjukkannya.
 
 ## Lesen Memandu
 
@@ -134,12 +200,13 @@ Beberapa kelebihan sementara datang daripada **token** — item rangsangan yang 
 - Ganjaran peringkat Season Pass
 - Acara promosi
 - Kadang-kadang digabungkan dengan gamepass
+- Diberi oleh admin (dalam private server pemilik server boleh menggunakan debug commands untuk memberi mana-mana token kepada mana-mana pemain untuk apa-apa tempoh)
 
 ### Cara menggunakan token
 
-Buka **Active Tokens HUD** (ScreenGui pada HUD anda apabila sekurang-kurangnya satu token aktif). Ketik token dalam inventori anda untuk mengaktifkannya — tempoh mula mengira ke bawah serta-merta dan dikenakan pada perolehan XP anda yang seterusnya.
+Buka token daripada inventori anda (**Main Menu -> More -> Tokens**). **Active Tokens HUD** muncul secara automatik apabila sekurang-kurangnya satu token berjalan — setiap token aktif menunjukkan ikon, nama, dan countdown **M:SS**. Token berjalan selari (anda boleh mempunyai 2× XP Boost + Season Pass Boost + Team Access sekali gus).
 
-> Token **digunakan semasa pengaktifan** — anda tidak boleh menjedakan token setelah ia bermula. Simpannya untuk sesi di mana anda akan memperoleh pendapatan secara berterusan.
+Token **digunakan semasa pengaktifan** — setelah pemasa bermula anda tidak boleh pause. Simpan untuk sesi permainan berterusan.
 
 ## Sembang dan pemesejan
 

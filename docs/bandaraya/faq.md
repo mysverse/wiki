@@ -161,7 +161,7 @@ See [Rules](/bandaraya/rules#tips--gotchas).
 
 ### How do I get the Punch tool?
 
-It's a quest reward at **Level 25**. You have to grind to level 25 through whatever the quest targets (roleplay activity). Currently the only quest in-game.
+It's a quest reward at **Level 25**. You have to grind to level 25 through whatever the quest targets (roleplay activity). Currently the only quest registered with the game's quest system. (A "Pushup" quest UI exists in the codebase but has no working backend yet.)
 
 ### What's the game version?
 

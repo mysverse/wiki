@@ -82,11 +82,25 @@ Most notable:
 - **Team Access Pass** — temporary access to a gamepass-locked team
 - **2× Season Pass Boost** — doubles Season Pass XP gains
 
-## Double XP Weekends
+## Double XP & Free Trial events
 
-Periodically, the game runs **Double XP Weekend** events. Every player's base XP multiplier becomes ×2 for the duration. This is on top of everything else.
+Periodically, the game runs scheduled **2X XP events** tied to Malaysian cultural holidays and MYSverse milestones. While an event is active, every player's base XP multiplier becomes ×2 — on top of Premium, convoy, gamepass, and token boosts.
 
-Watch MYSverse's community channels for announcements (the Rafahia App, Discord, or in-game banner notifications).
+Every 2X event also activates a **Gamepass Trial**: you get **free temporary access to the premium gamepass teams** (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) for the event's duration. The game shows a banner: *"Free Trial Started — Enjoy a free taste test of our premium gamepass teams!"* and *"Free Trial Ended"* when it wraps up.
+
+Past events have included:
+
+- **LebuhRAYA launch** (late March – early April)
+- **Post-launch extensions** (late April)
+- **WESAK** (Vesak Day, mid-May)
+- **Season Pass Update** (late May / early June)
+- **Malaysia Day** (mid-September)
+- **Deepavali** (mid-October)
+- **New Year's** (late December to early January)
+- **Chinese New Year / CNY** (typically late January to early March)
+- **Hari Raya / Raya** (late March)
+
+Schedules follow the actual Malaysian public-holiday calendar, so expect roughly one event every 1–2 months. Watch MYSverse's community channels — the Rafahia App, Discord, or in-game banner notifications — for announcements.
 
 ## The math of stacking
 
@@ -104,7 +118,7 @@ That's a level 50 in what would ordinarily take to hit level 12. Use these durin
 
 ## Challenges and achievements
 
-The **Challenges** system (accessible from the Main Menu → Challenges) rewards you for playing the game's day-to-day activities. Three categories exist:
+The **Challenges** system (accessible from **Main Menu -> Activity**) rewards you for playing the game's day-to-day activities. Three categories exist:
 
 ### Daily challenges (reset every 24 h)
 
@@ -147,7 +161,7 @@ Plus 16 achievement badges (prefixed `ach_`): road-legend tier milestones, marat
 Beyond your level and career ranks, a separate catalogue of **42 unlockables** tracks cosmetic progression. Earned through season passes, events, codes, and achievements. Three types:
 
 - **12 vehicle paints** — colour, gradient, and texture variants (e.g. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Apply from the vehicle customisation menu when owning a paint-compatible car.
-- **17 titles** — cosmetic overhead tags (e.g. "Highway King"). Pick one to show above your character.
+- **17 titles** — cosmetic overhead tags. Pick one to show above your character. The current roster includes: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
 - **13 collectable badges** — decorative badges (e.g. "Pemandu Season 2 Dedicated") shown on your profile.
 
 Active unlocks are saved per-player — you keep everything you earn across sessions.
@@ -166,6 +180,19 @@ Four real Roblox badges auto-award when you pass mileage milestones:
 Badges are awarded server-authoritatively as your distance counter increments — you don't need to claim them.
 
 Race-win milestones (1, 10, 50, 100 wins; 10, 50 finishes; 10, 100 trials) are also tracked internally; Roblox badge IDs for these may be added in future updates.
+
+## Instant-level developer products
+
+If you want to skip grinding levels, Lebuhraya offers four one-time **developer products** you can buy with Robux. These grant flat level bumps instantly — useful if you're chasing a specific level-gated team (say, Kesihatan at Level 200).
+
+| Product | Effect |
+|---|---|
+| +1 Level | 1 level, whatever you need to cross a threshold |
+| +10 Levels | 10 levels |
+| +25 Levels | 25 levels |
+| +50 Levels | 50 levels |
+
+Bonus levels are capped at the max level (500). The XP granted **bypasses the multiplier stack** — exact level jumps, no surprises. Find them in the in-game Shop or via the Main Menu.
 
 ## What to buy first?
 

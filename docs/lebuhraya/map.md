@@ -20,7 +20,7 @@ The largest settlement — your main hub for jobs, services, and commerce. If yo
 - **Depoh Bas Bandar Seri Putra** — Bus depot (start of Bus Driver routes)
 - **Radtrol Petrol Station Bandar Seri Putra** — Refuelling
 - **Stesen Insinerasi Bandar Seri Putra** — Waste disposal drop-off
-- **Gravstone Workshop Bandar Seri Putra** — Vehicle repairs
+- **Gravstone Workshop Bandar Seri Putra** — Vehicle paint and body customisation
 - **Pangsapuri Seri Putra** — Apartment complex / housing plots
 - **Masjid Bandar Seri Putra** — Mosque
 - **KTN Bandar Seri Putra** — KTN branch

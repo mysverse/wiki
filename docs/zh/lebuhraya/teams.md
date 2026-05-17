@@ -2,209 +2,161 @@
 title: 队伍与职业
 description: Lebuhraya 全部 18 支队伍及 20 级职级体系。
 lang: zh
-translated_from_hash: f4279193
-translated_on: '2026-04-21'
+translated_from_hash: e48fefe3
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 队伍与职业
 
-Lebuhraya 拥有多种团队，每个团队都提供独特的游戏体验、车辆和工具。团队可通过等级、游戏通行证或 Roblox 群组成员身份来解锁。
+Lebuhraya 有 **18 个队伍**。每个队伍代表游戏中马来西亚高速公路社会的不同角色 — 从 delivery rider 到 firefighter。加入队伍会解锁 job activities、队伍专属制服，有时也会解锁特殊车辆。
 
-## 执法 (LE) 团队
+你的 **career tier** 位于队伍系统之上。你可以通过在工作中获得分支专属 XP，从 **Trainee** 一路晋升到最高职位（例如 Senior Assistant Commissioner 或 Fire Commissioner）。
 
-这些团队专注于维持秩序、响应事件和执行交通法规。
+## 如何加入队伍
 
-### Polis Trafik（交通警察）
+打开 **Main Menu** 并进入 **Teams** 标签。你会看到每个队伍的 requirements 和 description。点击你符合资格的队伍即可加入。你可以随时切换队伍（不过某些 roleplay 情况，例如已分配的 999 incident，会在切换时取消）。
 
-- **描述：** 警察部门的交通执法部门。
-- **解锁方式：** 购买 **Polis Trafik 游戏通行证** 或成为 MYSverse Sim Police 成员（群组 ID：5674011（1 级+）、1143446（14 级+）、1182710（1 级+））。
-- **团队颜色：** 亮蓝色
-- **工具（v3.3.0）：**
-  - Taser X26P 电击枪
-  - 雷达测速枪（抓获超速者可获得 XP，例如 v3.0.5 中速度 >200 SPS 可获得 +200 XP）
-  - 哨子
-  - 手电筒
-  - 可放置物品：PolisCone（警用锥筒）、PolisSign（警用标志）、PolisUmbrella（警用雨伞）
-  - 平板电脑（v3.3.12）：查询车辆信息。
-- **出生点切换：** Bandar Seri Putra / Kampung Merbang（v3.3.9）。
-- **代表性车辆：** Outlander HPV、Civic Escort、Lancer HPV Tartan、Inspira Escort、Civic Type R Escort、BMY R1200RT Polis Trafik 摩托车（在 v3.5.13 中重新加入）。
+### 阅读 Teams 屏幕
 
-### KEMRonda（高速公路辅助警察）
+Teams 标签使用 carousel：
 
-- **描述：** 高速公路辅助警察单位。
-- **解锁方式：** 购买 **KEMRonda 游戏通行证** 或成为 MYSverse Sim Police 成员（群组 ID：5674011（1 级+）、1143446（14 级+）、1182710（1 级+））。
-- **团队颜色：** 霓虹橙色
-- **工具（v3.3.0）：**
-  - 强力手电筒
-  - 高级工具箱
-  - 可放置物品：SCone（标准锥筒）、PBSign（Polis Bantuan 标志）
-  - 平板电脑（v3.3.12）：查询车辆信息。
-- **出生点切换：** Putra Mahkota / Jersik（v3.3.9）。
-- **特色功能/车辆：**
-  - 拖车（Beta 版，v3.4.4）：150 级和 200 级解锁。马力已提升（v3.4.5）。绞盘系统适用于无驾驶员的车辆。
-  - Tayoti Hilux 系列（PB Cab、PB、PB Traffic）（v3.0.14）。
-  - 车辆锥筒发放器修复（v3.3.23）。
+- 中央卡片是当前 focus 的队伍。
+- 两侧卡片预览附近队伍；点击/轻触或用箭头在 carousel 中移动。
+- 锁定或变暗的卡片表示你目前不满足要求。
+- 下方信息面板显示完整队伍名称、description、current-team status 和 join/confirm action。
+- 长队伍名会缩放到一行内，因此 `Malaysians`、`Waste Disposal` 和 `Undercover Police` 在小屏幕上仍可阅读。
 
-### 便衣警察（Undercover Police）
+如果你在 job team 上尝试打开 civilian vehicle spawner，游戏可能会提醒你工作时无法访问该 spawner。如果你想使用 civilian spawner，请切回 **Visitors** 或非工作队伍。
 
-- **描述：** 警察部门的便衣执法部门。
-- **解锁方式：** 购买 **Undercover Police 游戏通行证**。
-- **团队颜色：** 风暴蓝
-- **工具：**
-  - Taser X26P 电击枪
-  - 雷达测速枪
-  - 哨子
-  - 手电筒
-  - 可放置物品：PolisCone、PolisSign、PolisUmbrella
-- **代表性车辆：** 无标识车辆，包括 Bezza、Saga 和 X70。
-- **装备：** 警用挂绳、软质防弹背心。
+## 18 个队伍
 
-### APJ（陆路交通局）
+### 所有人免费
 
-- **描述：** 负责执行陆路交通相关法律。
-- **解锁方式：** **300 级**免费解锁。
-- **团队颜色：** 海军蓝
-- **工具：**
-  - 手电筒
-  - 可放置物品：SCone
+| 队伍 | 说明 |
+|---|---|
+| **Visitors** | 你加入时的默认队伍。适合扮演通勤者或游客。 |
+| **Bus Driver** | 驾驶 minivan 和 bus 运行固定路线。免费并向所有人开放 — 很好的入门点。 |
 
-## 紧急服务
+### 通过 MYSverse 社群会员解锁
 
-### Bomba（消防与救援）
+| 队伍 | 解锁方式 |
+|---|---|
+| **Malaysians** | 加入 MYSverse Malaysian Community Roblox group（ID 1143446）且 rank 1 或以上。解锁 **Fishing** 和 **Checkout** job activities。 |
 
-- **描述：** 消防与救援服务。
-- **解锁方式：** 购买 **Bomba 游戏通行证** 或成为 MYSverse Sim Bomba 成员（群组 ID：5674011（1 级+）、1143446（14 级+）、2957304（1 级+））。
-- **团队颜色：** 亮红色
-- **工具（v3.3.24）：** 电锯、扩张器（灭火工具指消防设备）。
-- **玩法（v3.3.0、v3.3.2）：**
-  - 当 Bomba 成员在场时，Bandar Seri Putra 附近会生成火灾。提供训练火灾。
-  - 响应事件：从消防车（FRT）连接供水管至消防栓，然后使用攻击水管（消防水带）灭火。
-  - XP 奖励：Bomba 成员 +25 XP，其他紧急服务人员（Polis Trafik、KEMRonda）在 512 格范围内获得 +10 XP。
-  - 火灾报告时消防站会响起警报（v3.3.1）。
-  - 消防栓出口（两个均可使用，v3.3.4），FRT 后部百叶窗（v3.3.4）。
-  - SCBA 套件视觉修复（v3.3.6），套件在黑暗中发光（v3.3.6）。
-- **装备（v3.3.17）：** 腰带（1 级）、反光雨衣（50 级）、圆边帽（75 级）。
-- **车辆：** Merze Atego LFRT（基础车辆）、Triton Utility 等。
+Malaysians 队伍是 community-role 队伍，不是普通付费 career branch。早期很有用，因为 Fishing 和 Checkout 在 level-locked job ladder 之前就可使用。
 
-### Kesihatan（卫生部）
+### 通过 level 解锁
 
-- **描述：** 作为 MYSverse 国家卫生部的医疗人员拯救生命。
-- **解锁方式：** **200 级**免费解锁。
-- **团队颜色：** 深红色
-- **工具：** 夹板、急救箱、绷带、Kesihatan 手册。
-- **车辆（v3.5.6）：**
-  - Handai City RRV（快速响应车辆）— 200 级解锁（新职业基础解锁）。
-  - Tayoti Hilux RRV — 450 级解锁。
-  - Tayoti Hiace 救护车 — 解锁等级调整为 300 级（原为 200 级）。
+| 队伍 | Level | 角色 |
+|---|---|---|
+| **Food Delivery** | 10 | 使用摩托车把店铺订单送给客户。 |
+| **Waste Disposal** | 25 | 从垃圾桶收集垃圾并送到焚化站。 |
+| **Post Office** | 50 | 为 Pos Nasional 递送信件和包裹。 |
+| **Logistics** | 75 | Freight trucking — 用 Rolvo FM 或 Sanica P-series 运货。 |
+| **Power Nasional** | 100 | 国家电力公共事业承包工作。 |
+| **Lumberjack** | 150 | 用斧头砍树并运输木材。 |
+| **Kesihatan** | 200 | 国家卫生部 — 驾驶 ambulances、治疗 patients、响应 999 medical calls。 |
+| **APJ** | 300 | Road Transport Agency — 执行驾驶和车辆法规。 |
 
-## 平民与公共服务
+> Waste Disposal、Logistics 和 Lumberjack 队伍可通过购买 **Season 1 Season Pass** 提前解锁。部分游戏内文字可能仍引用旧 level 数值；以上数字是当前游戏内要求。
 
-### 出租车司机（Taxi Driver）
+### 通过 gamepass 解锁
 
-- **描述：** 搭载乘客并推进你的职业发展。
-- **解锁方式：** 购买 **Taxi Driver 游戏通行证** 或拥有 Bandaraya 游戏通行证。
-- **团队颜色：** 柿子色
-- **车辆：** 多种出租车车型，v3.5.11 中新增 2 款车辆。车牌格式在 v3.5.12 中已更新。
+| 队伍 | 角色 |
+|---|---|
+| **Taxi Driver** | 载客赚取车资。由 Taxi Driver 或 Bandaraya gamepass 解锁。 |
+| **KEMRonda** | 高速公路辅助警察。Tow trucks、路边援助、可放置 cones。 |
+| **Bomba** | Fire and Rescue Department。Fire trucks、spreaders、chainsaws、999 fire response。 |
+| **Polis Trafik** | 交通警察。Tasers、radar guns、可放置 police cones 和 signs。 |
+| **Undercover Police** | 与 Polis Trafik 相同 toolkit，但使用 unmarked vehicles。 |
 
-### 巴士司机（Bus Driver）
+如何获得 gamepass，请参阅[通行证与加成](/zh/lebuhraya/passes-and-boosts)。
 
-- **描述：** 按预设路线搭载乘客。
-- **解锁方式：** 免费，所有人可用。
-- **团队颜色：** 深靛蓝色
-- **玩法：**
-  - 每完成一次行程可获得 **+1000 XP**（v3.3.9、v3.3.12）。
-  - 可视化路线指引系统（v3.0.1）。
-  - AI 和真实玩家乘客。
-- **车辆：**
-  - Intero Citie（速度已提升，v3.0.9）。
-  - Tayoti Hiace II（修复了车轮卡住问题，v3.0.1）。
-  - Bas Sekolah Hiace 校车版本（10 级，无 AI 系统供自由角色扮演，v3.2.0 — _注意：这是较早的更新，当前可用性/等级要求可能有所变化_）。
-  - Bas Pekerja（工人巴士）— 50 级解锁。路线从 Pangsapuri Seri Putra 到 H Plantation（v3.3.9）。
+### 系统队伍
 
-### Power Nasional（国家电力）
+| 队伍 | 说明 |
+|---|---|
+| **Developers** | MYSverse staff 内部队伍。无法直接加入。 |
+| **Arrested** | 玩家被 Polis Trafik 逮捕时自动分配。 |
 
-- **描述：** 担任 MYSverse 全国电力公司的承包商。修理路灯。
-- **解锁方式：** **100 级**免费解锁。
-- **团队颜色：** 深橙色
-- **玩法（v3.3.18）：** 每完成一次维修任务可获得 **+25 XP**。部分路灯为双灯头，可维修两次。
-- **工具：** 可放置物品 SCone。
+## Career tiers 与 ranks
 
-### 邮局（Post Office）
+每个队伍（Visitors 和系统队伍除外）最多有 **20 个 career tiers**。你通过完成该队伍工作获得 branch-specific XP — 例如 Taxi mission、作为 Bomba 响应 999 call、作为 Logistics 递送 freight。XP 足够后就会 rank up。
 
-- **描述：** 在 Jersik 和 Kampung Merbang 附近投递邮件。
-- **解锁方式：** **50 级**免费解锁。
-- **团队颜色：** 灰玫瑰色
-- **玩法（v3.3.14）：** 从邮箱收取包裹，在邮局处理，每送达一个包裹可获得 **+100 XP**。从摩托车逐步升级到面包车和卡车。
+打开 **Main Menu -> More -> Career** 查看整体 career status。打开 **Main Menu -> More -> Jobs** 查看 branch tier progress 和 rewards。
 
-### 外卖配送（Food Delivery）
+### Tier XP 如何增长
 
-- **描述：** 配送食物，助力本地商家。
-- **解锁方式：** **10 级**免费解锁。
-- **团队颜色：** 森林绿
-- **备注：** 玩家不再被自动分配到此团队（v3.4.11）。
+Tier 曲线为：
 
-### 废物处理（Waste Disposal）
+- **Tier 1** 需要 500 XP
+- 每个后续 tier 比前一个多需要 **15% XP**
+- **Tier 20** 单独约需 **7,100 XP** — 从零开始累计约 **51,000 XP**
 
-- **描述：** 帮助保持 Lebuhraya 地区的清洁！
-- **解锁方式：** **25 级**免费解锁。也可通过赛季 1 通行证解锁。
-- **团队颜色：** 沙绿色
-- **工具：** 废物处理指南。
-- **玩法：** 使用垃圾车从垃圾桶中收集垃圾，并在指定地点进行焚烧处理。
+你可以在 **Main Menu -> More -> Career** 查看当前 tier 和 XP progress。
 
-### 物流运输（Logistics）
+### Rank titles
 
-- **描述：** 驾驶卡车向 Lebuhraya 地区运送货物！
-- **解锁方式：** **75 级**免费解锁。也可通过赛季 1 通行证解锁。
-- **团队颜色：** 米色
-- **工具：** 物流指南。
-- **玩法：** 挂接拖车，在各配送点之间运送货物，完成配送即可获得 XP。
+Rank 名称按队伍定制。一些例子：
 
-### 伐木工（Lumberjack）
+**KEMRonda / Polis Trafik / Undercover Police**（Polis agency）：
+Constable → Lance Corporal → Corporal → Sergeant → Sergeant Major → Sub-Inspector → Inspector → Chief Inspector → Assistant Superintendent → Deputy Superintendent → Superintendent → Assistant Commissioner → **Senior Assistant Commissioner** (Tier 20)
 
-- **描述：** 成为 Lebuhraya 木材产业的一员！
-- **解锁方式：** **150 级**免费解锁。也可通过赛季 1 通行证解锁。
-- **团队颜色：** 红棕色
-- **工具：** 斧头。
-- **玩法：** 用斧头砍伐树木，收集木材，在木材商店出售木材以获取 XP。
+**Bomba**：
+Fire Officer → Senior Fire Officer II → Senior Fire Officer I → Leading Fire Officer → Deputy Fire Superintendent → Fire Superintendent → Assistant Fire Superintendent → Senior Assistant Fire Superintendent → Senior Fire Superintendent II → Senior Fire Superintendent I → Assistant Fire Commissioner → Senior Assistant Fire Commissioner → Deputy Fire Commissioner → **Fire Commissioner** (Tier 20)
 
-## 通用团队
+**Taxi Driver**（Pengangkutan agency）：
+New Driver → Junior Driver → Driver → Experienced Driver → Junior Executive → Executive → Senior Executive → Towkay → **Yang di-Pandu Abang** (Tier 20)
 
-### Malaysians（马来西亚人）
+**Lumberjack**（Sumber agency）：
+Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipment Operator → Felling Foreman → Logging Boss → Forest Manager → **Lumber Lord** (Tier 20)
 
-- **描述：** 马来西亚的骄傲公民！
-- **解锁方式：** 加入 MYSverse Malaysian Community 群组（ID：1143446，1 级+）。
-- **团队颜色：** 亮黄色
-- **出生点：** 默认出生地点为 Putra Mahkota（固定，v3.5.8）。可通过主菜单更改（v3.0.11）。
+**Food Delivery**（Perkhidmatan agency）：
+Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
 
-### Visitors（访客）
+### 六个 agencies
 
-- **描述：** 出差还是旅游？这是新玩家的默认团队。
-- **解锁方式：** 所有人可用。
-- **团队颜色：** 亮绿色
-- **出生点：** 默认出生地点为 Putra Mahkota（固定，v3.5.8）。可通过主菜单更改（v3.0.11）。
+队伍被分成六个 agencies。这很重要，因为一些 tier rewards（车辆、cosmetics）绑定到 agency，而不只是单一队伍。
 
-## 团队相关机制
+| Agency | 队伍 |
+|---|---|
+| **Polis** | KEMRonda、Polis Trafik、Undercover Police |
+| **Kecemasan** (Emergency) | Bomba、Kesihatan |
+| **Pengangkutan** (Transport) | Bus Driver、Taxi Driver、Logistics |
+| **Perkhidmatan** (Services) | Food Delivery、Post Office、Waste Disposal |
+| **Sumber** (Resources) | Power Nasional、Lumberjack |
+| **Penguatkuasaan** (Enforcement) | APJ |
 
-- **团队生成器：** 仅当你属于对应团队时才可使用（v3.4.14）。
-- **出生/团队切换冷却时间：** 15 秒（从 v3.4.9 起由 30 秒缩短）。
-- **团队标识（v3.3.2）：**
-  - 管理员在头顶 GUI 和聊天中拥有特殊前缀/标签。
-  - 开发者拥有 Hornbill Interactive 图标和 "Dev" 头衔。
-  - Adonis 管理员/版主获得最高等级状态（权限停用后恢复）。
-- **团队专属等级（v3.0.3）：** KEMRonda/Polis Trafik 的警衔，巴士司机的商业职位。
+## Tier rewards
 
-## 职业发展（工作等级）
+达到 tier milestone 可解锁：
 
-每个职业分支都有独立于玩家总等级的**基于等级的晋升系统**。你可以通过执行特定团队的任务来获取职业 XP，提升等级可以解锁新的头衔。
+- 显示在角色和 leaderboard 上的**新 rank title**
+- **Career vehicles** — 例如更高 tier 的 Bomba rank 解锁更大的 fire trucks；更高 tier 的 Taxi Driver rank 解锁更好的 taxi models
+- 偶尔有 **cosmetic items**（uniforms、accessories）
 
-- **最高等级：** 每个职业分支 20 级。
-- **XP 曲线：** 第 1 级从 500 XP 起步，每级递增 1.15 倍。
-- **机构分类：** 职业按机构分类：
-  - **Polis（警察）：** KEMRonda、Polis Trafik、Undercover Police
-  - **Kecemasan（紧急服务）：** Bomba、Kesihatan
-  - **Pengangkutan（交通运输）：** Bus Driver、Taxi Driver、Logistics
-  - **Perkhidmatan（服务）：** Food Delivery、Post Office、Waste Disposal
-  - **Sumber（资源）：** Power Nasional、Lumberjack
-  - **Penguatkuasaan（执法）：** APJ
+Career vehicles 在你的 tier 足够高之前，不会显示在对应 team vehicle spawner 中。
 
-每个职业分支中的头衔都有最低等级要求和等级门槛。提升等级还会奖励游戏内货币。
+### 为什么车辆没有出现在 spawner 中
+
+如果 wiki 中存在某辆车，但没有出现在你的 spawner 中，请检查：
+
+1. 你在正确队伍上吗？
+2. Spawner type 正确吗？Civilian、bike、premium、special 和 team spawners 会显示不同列表。
+3. 你满足 level requirement 吗？
+4. 你满足 career tier requirement 吗？
+5. 它是否是需要 ownership 或 Team Access token 的 gamepass/team vehicle？
+
+## 制服与服装
+
+每个队伍都有自己的 **uniform kit** — 与角色相关的帽子、背心、配件。加入队伍后，你可以通过 career customisation menu 穿上队伍制服。示例 kit：
+
+- **KEMRonda**: Beret、PB Patch、Reflective Vest
+- **Polis Trafik**: Cap、Bike Jacket、Duty Belt、Reflective Coat
+- **Bomba**: Neckguard、Light、Respirator、Command Helmet
+- **Kesihatan**: Medical gear，包括 Splint、First Aid Kit、Bandage、Kesihatan Booklet、Pager
+
+## 后续步骤
+
+- [工作](/zh/lebuhraya/jobs) — 每个队伍在典型 shift 中实际做什么
+- [通行证与加成](/zh/lebuhraya/passes-and-boosts) — Gamepass 和 Season Pass

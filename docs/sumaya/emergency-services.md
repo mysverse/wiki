@@ -60,7 +60,7 @@ The bonuses stack on top of your per-action rewards.
 
 ### Demotion on wanted status
 
-The game is wired to auto-demote emergency-service players (BOMBA, Kesihatan, POLIS) when they cross into 1-star wanted, but as of current verification the listener for that event isn't connected - you'll **stay on your emergency team** even after committing a crime. The demotion bindable fires with no handler. Don't rely on the game to swap you back to civilian; switch teams manually before doing anything illegal.
+Emergency-service players (BOMBA, Kesihatan, POLIS) auto-demote when they cross into **1-star wanted**. The offence system fires the demotion bindable, `PoliceServer` listens to it, and `TeamAuthority` swaps the player to Malaysians if eligible or Visitors otherwise. Your emergency vehicle is also despawned. Switch teams manually before doing anything illegal if you want to stay in control of the roleplay.
 
 ## Kesihatan's global XP boost
 

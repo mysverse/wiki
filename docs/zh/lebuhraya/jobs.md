@@ -2,8 +2,8 @@
 title: 工作
 description: Lebuhraya 全部工作说明 — 按机构分类（Pengangkutan 等），附薪资说明。
 lang: zh
-translated_from_hash: c5df14d2
-translated_on: '2026-04-21'
+translated_from_hash: c6e58d53
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 工作
@@ -11,6 +11,25 @@ needs_review: true
 Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers](/lebuhraya/teams)）。本页是你在每项工作里实际**该做什么**的参考 — 如何开始、游戏循环、一般奖励以及工作的地点。
 
 工作按组织它们的**机构**分类。
+
+## 开始工作前
+
+大多数工作都遵循相同的基本模式：
+
+1. 从 **Main Menu -> Teams** 加入正确队伍。
+2. Spawn 合适的队伍或平民车辆。
+3. 如果工作提供 tool 或 job UI，请 equip tool 或打开 UI。
+4. 跟随 waypoint、prompt 或 task panel。
+5. 完成任务以获得 XP、job progress、missions/challenges progress，有时也会获得 BR。
+
+常见阻碍：
+
+- **队伍错误**：prompt 出现但拒绝开始，或队伍车辆不见。
+- **车辆/spawner 错误**：队伍车辆只会出现在匹配的 spawner 中。
+- **任务已经激活**：开始另一个任务前，先完成或取消当前任务。
+- **Private server/test server**：适合练习，但 progression 可能不会保存。
+
+打开 **Main Menu -> Activity** 追踪 missions/challenges，并打开 **Main Menu -> More -> Jobs** 查看 branch tier progress。
 
 ---
 
@@ -30,7 +49,9 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **奖励**：
 - **XP** 按距离换算：约 **每 stud 0.11 到 0.13 XP**。4000 stud 的车费可获 440–520 XP。
-- **BR** 按每单完成的车费支付；会依距离换算。
+- BR payments 已计划（根据 economy audit，call path 存在但尚未对用户可见）。
+
+**路线**：Pickup 和 dropoff 目前从城市中的 4 个 pickup points 和 4 个 dropoff points 抽取 — 在添加更多点位前，路线会逐渐重复。
 
 **车辆**：任何车辆都可以，但想获得最佳收入就使用专用出租车 — Protan Saga Taxi、Perosatu Bezza Taxi、Protan Preve Taxi。更高等级的 Taxi Driver 会解锁更好的车型（以及更大的载客量）。
 
@@ -38,7 +59,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **解锁**：免费 — 这是两个免费团队之一。
 
-**如何开始**：加入 Bus Driver 团队。通过 MyPod spawn 一辆巴士，然后从 Bandar Seri Putra 的 **Depoh Bas** 开始一条路线。
+**如何开始**：加入 Bus Driver 团队。使用 Bus Driver / bus vehicle spawner，并从 Bandar Seri Putra 的 **Depoh Bas** 开始一条路线。
 
 **你要做什么**：沿固定巴士路线行驶，在指定巴士站停车接送 NPC 乘客。跑完整条路线会获得 XP（BR 报酬已在计划中但尚未接通 — 参阅 *Economy and XP*）。
 
@@ -77,7 +98,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 3. 驾车到路点上的顾客位置。
 4. 与顾客 NPC 互动，将餐点交给对方。
 
-**奖励**：每单送餐 **固定 250 XP**，另加 BR。
+**奖励**：每单送餐 **固定 250 XP**。较旧文字可能提到 BR，但当前 active payout path 实际入账 XP；BR-facing 数额应视为 planned economy work，直到该工作的 BR earn path 启用。
 
 **车辆**：任何都可以。在蜿蜒的街道上，摩托车（Handai EX5）通常最快。
 
@@ -115,7 +136,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **奖励**：在焚化炉处支付，与收集到的垃圾量成正比。路线越长、停点越多，报酬越高。
 
-**车辆**：垃圾车（团队配发，可通过 MyPod spawn）。
+**车辆**：来自 Waste Disposal 队伍车辆 spawner 的垃圾车。
 
 **关于报酬的说明**："Pay" 通知显示的是游戏内的金额，但 BR 经济尚未上线 — 实际入账到你账户的奖励是 XP。当经济上线后，该金额才会变成真正的 BR 入账。
 
@@ -154,18 +175,45 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 5. 将病人放上担架，然后移入你的救护车（需在救护车 25 stud 内才能装载）。
 6. 送至 **Klinik Kesihatan Bandar Seri Putra** 或其他医院区域。
 
-**机制**：
-- 每位病人 6 个步骤的治疗流程。
-- 病人有一个会随时间衰减的**生存分数**（默认每 30 秒 5 分，按伤势严重程度缩放）。每完成一个步骤会使生存 +5。
-- 病人状态可以是 Survived、Critical 或 Dead — 最终状态决定你的 XP 倍率。
-- NPC 病人的行为各异 — 有些合作，有些具攻击性。攻击性病人的生存衰减更快。
-- 病人之间有 5 秒冷却时间。若 5 分钟内未处理，病人会超时。
+**伤势类型**（共 12 种，每种需要特定治疗顺序）：
+
+| 伤势 | 治疗步骤 | 基础 XP |
+|---|---|---|
+| Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
+| Broken Arm / Broken Leg（左或右） | Apply Splint | 75 |
+| Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
+| Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
+| Unconscious | Stabilise Patient → Monitor Vitals | 90 |
+| Low Vital Signs | Monitor Vitals → Stabilise Patient | 95 |
+| Shock | Stabilise Patient → Bandage | 80 |
+| Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
+| Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
+
+每个治疗动作需要 **2-5 秒**。阅读病人的 dialogue clues — 带马来西亚风格的台词如 *"Aduh... I'm bleeding"*、*"My leg! I can't stand!"*、*"The fumes... help..."* 会提示问题。
+
+**病人行为类型**（随机）：
+- **Cooperative (60%)** — 正常，会表达感谢
+- **Panicked (25%)** — 戏剧化（"I thought I was going to die!"）；仍会配合
+- **Aggressive (15%)** — 敌对（"Don't touch me!"、"Get away!"）；在你用第一个正确治疗让他们冷静前，survival 会 **2× 更快**下降
+
+**完整流程**及完美案例 XP：
+
+| 步骤 | XP |
+|---|---|
+| Assessment | 25 |
+| Injury treatment（全部正确） | 每个伤势 50-100 |
+| Stabilisation bonus | +50 |
+| Place on stretcher | +25 |
+| Load into ambulance | — |
+| Admit to hospital | +100 |
+| Request evacuation（替代 — chopper） | +40 |
+| Wrong treatment（惩罚） | -10（每次错误） |
+
+完美 Traumatic Brain Injury 案例 = 25 + 100 + 50 + 25 + 100 = **300 XP**（再加任何 multiplier，但固定 Assessment 奖励除外）。
 
 **Tool**：Splint、First Aid Kit、Bandage、Kesihatan Booklet、Pager。
 
 **车辆**：Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV。
-
-**奖励**：每个治疗步骤 XP 及运送奖金，再乘以生存结果。
 
 ---
 
@@ -304,24 +352,26 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 3. 抖动鱼竿（跟随屏幕提示）来收线。
 4. 在店铺卖鱼换取 BR。
 
-**你能钓到什么**：当前鱼类阵容有 10 项，概率大致按权重分配：
+**你能钓到什么**：当前鱼类阵容有 10 项，按 rarity 加权，并在出售时支付不同 XP：
 
-| 渔获 | 稀有度 | 备注 |
+| 渔获 | 概率（weight） | 出售 XP |
 |---|---|---|
-| Torpedo Scad | 概率 60 | 最常见的真实鱼 |
-| Indian Mackerel | 概率 55 | 非常常见 |
-| Snapper | 概率 45 | 常见 |
-| Pomfret | 概率 45 | 常见 |
-| Siakap (sea bass) | 概率 40 | 常见 |
-| Red Snapper | 概率 35 | 不常见 |
-| Tin Can | 概率 20 | 垃圾 — 可收线但无奖励 |
-| Boot | 概率 20 | 垃圾 — 可收线但无奖励 |
-| Yifish | **概率 0.5** | **极为稀有** — 玩家之间的钓鱼传奇 |
-| meow | — | 另一个彩蛋，非常稀有 |
+| Torpedo Scad | 60 | 8 |
+| Indian Mackerel | 55 | 15 |
+| Pomfret | 45 | 22 |
+| Snapper | 45 | 27 |
+| Siakap (sea bass) | 40 | 32 |
+| Red Snapper | 35 | 45 |
+| Tin Can | 20 | 0（垃圾） |
+| Boot | 20 | 0（垃圾） |
+| **Yifish** | **0.5** | **696**（jackpot — 约 87× Torpedo Scad！） |
+| meow | — | 独立 easter egg，非常稀有，独特奖励 |
+
+**Yifish 是钓鱼人的 white whale。** 0.5% catch weight 让它比最常见鱼几乎稀有 100×，但单条 Yifish 出售可获得接近 700 XP — 超过两次 Food Delivery。若你有耐心，值得一钓。
 
 **抛竿距离**：距离你站立的位置最远 80 stud。
 
-**贩售**：鱼可在 fishing-port 店铺区域贩售。目前奖励仅为 **XP** — 当前 Sell 模块中尚未实现 BR 奖励路径。稀有渔获比常见鱼带来更高的 XP 报酬。
+**贩售**：鱼可在 fishing-port 店铺区域出售。奖励仅为 **XP** — BR 奖励路径尚未实现（每条鱼的奖励配置中都是 `BR=0`）。稀有渔获会比常见鱼支付更多 XP。
 
 ### Checkout
 

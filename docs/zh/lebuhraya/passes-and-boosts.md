@@ -2,8 +2,8 @@
 title: 通行证与加成
 description: Lebuhraya 的游戏通行证、XP 加成及 Premium 会员权益。
 lang: zh
-translated_from_hash: 9eae0f3b
-translated_on: '2026-04-21'
+translated_from_hash: '90144865'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 通行证与加成
@@ -85,11 +85,25 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 - **Team Access Pass**——对 gamepass 锁定团队的临时访问权
 - **2× Season Pass Boost**——使 Season Pass XP 获取量翻倍
 
-## Double XP 周末
+## Double XP 与 Free Trial 活动
 
-游戏会定期举办 **Double XP Weekend** 活动。在活动期间,每位玩家的基础 XP 倍增器变为 ×2。这是在其他一切之上的。
+游戏会定期举办与马来西亚文化节日和 MYSverse milestone 相关的 **2X XP 活动**。活动期间，每位玩家的基础 XP 倍增器变为 ×2 — 叠加在 Premium、convoy、gamepass 和 token boosts 之上。
 
-关注 MYSverse 的社区频道以获取公告(Rafahia App、Discord 或游戏内横幅通知)。
+每个 2X 活动也会启用 **Gamepass Trial**：活动期间，你可免费临时使用 premium gamepass 队伍（Taxi Driver、KEMRonda、Bomba、Polis Trafik、Undercover Police）。游戏会显示横幅：*"Free Trial Started — Enjoy a free taste test of our premium gamepass teams!"*，结束时显示 *"Free Trial Ended"*。
+
+过去活动包括：
+
+- **LebuhRAYA launch**（3 月下旬 – 4 月上旬）
+- **Post-launch extensions**（4 月下旬）
+- **WESAK**（Vesak Day，5 月中旬）
+- **Season Pass Update**（5 月下旬 / 6 月上旬）
+- **Malaysia Day**（9 月中旬）
+- **Deepavali**（10 月中旬）
+- **New Year's**（12 月下旬至 1 月上旬）
+- **Chinese New Year / CNY**（通常 1 月下旬至 3 月上旬）
+- **Hari Raya / Raya**（3 月下旬）
+
+排期会跟随真实的马来西亚公共假日 calendar，所以大约每 1-2 个月会有一次活动。关注 MYSverse 社区频道 — Rafahia App、Discord 或游戏内横幅通知 — 获取公告。
 
 ## 叠加数学
 
@@ -107,7 +121,7 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 
 ## 挑战与成就
 
-**Challenges** 系统(可通过主菜单 → Challenges 访问)会因你进行游戏日常活动而奖励你。存在三个类别:
+**Challenges** 系统(可通过 **Main Menu -> Activity** 访问)会因你进行游戏日常活动而奖励你。存在三个类别:
 
 ### 每日挑战(每 24 小时重置)
 
@@ -150,7 +164,7 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 除了你的等级和职业等级外,另有一份 **42 unlockables** 的独立目录追踪装饰进度。通过 season pass、活动、代码和成就获得。三种类型:
 
 - **12 款车辆喷漆**——颜色、渐变和纹理变体(例如 Chrome Silver、Matte Black、Neon Green、Copper Kampung)。在拥有兼容喷漆的车辆时,从车辆定制菜单应用。
-- **17 款头衔**——装饰性头顶标签(例如 "Highway King")。选择一个显示在你的角色上方。
+- **17 款头衔**——装饰性头顶标签。选择一个显示在你的角色上方。当前名单包括：Highway King、Ilmuwan、Jurumudi Handal、Legenda Musim 2、Nelayan、OG Musim 2、Pemandu Baru、Pemandu Teksi Pro、Pembalap、Penghantar Setia、Penjelajah Agung、Penunggang Laju、Raja Lebuhraya、Raja Tol、Road Legend、Road Warrior、Warga Sejati。
 - **13 款收藏徽章**——装饰性徽章(例如 "Pemandu Season 2 Dedicated"),显示在你的个人资料上。
 
 激活的解锁按玩家保存——你会在所有游戏会话中保留你获得的一切。
@@ -170,6 +184,19 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 
 比赛胜利里程碑(1、10、50、100 次胜利;10、50 次完赛;10、100 次试练)也在内部追踪;这些的 Roblox 徽章 ID 可能会在未来更新中添加。
 
+## 即时 level developer products
+
+如果你想跳过 level grinding，Lebuhraya 提供四种一次性 **developer products**，可用 Robux 购买。这些会立即给予固定 level 提升 — 如果你追逐特定 level-gated 队伍（例如 Level 200 的 Kesihatan），会很有用。
+
+| 产品 | 效果 |
+|---|---|
+| +1 Level | 1 level，用于跨过你需要的门槛 |
+| +10 Levels | 10 levels |
+| +25 Levels | 25 levels |
+| +50 Levels | 50 levels |
+
+Bonus levels 最高封顶在 max level (500)。授予的 XP **绕过 multiplier stack** — 精确 level jump，没有意外。可在游戏内 Shop 或 Main Menu 找到。
+
 ## 先买什么?
 
 如果你已经玩了几天并想投资:
@@ -177,7 +204,7 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 1. **XP Boost gamepass**——每美元最佳的 XP 加速。永久。
 2. **你喜欢的团队 gamepass**——Bomba 和 Polis Trafik 最受欢迎,因为 999 系统非常有趣。
 3. **Season Pass**(Premium Track)——只有在你在赛季期间积极游玩并想要特定奖励或早期职业解锁时才值得。
-4.
+
 如果你为其他游戏订阅了 Roblox Premium,它在这里已经为你工作——无需额外花费。
 
 ## 后续步骤

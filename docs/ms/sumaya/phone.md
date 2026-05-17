@@ -2,8 +2,8 @@
 title: Telefon & UI
 description: '12 aplikasi telefon, HUD, dan peta mini di Sumaya.'
 lang: ms
-translated_from_hash: 7e08f442
-translated_on: '2026-04-30'
+translated_from_hash: 552de054
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Telefon & UI
@@ -16,9 +16,13 @@ Ketik ikon telefon pada skrin anda. Telefon akan naik ke atas dan memaparkan gri
 
 Untuk menutupnya, ketik di luar telefon atau gunakan butang tutup.
 
+## Lapisan pemuatan dan peralihan
+
+Apabila anda menyertai, respawn, atau bergerak melalui menu utama, Sumaya mungkin menunjukkan lapisan pemuatan dengan logo dan fakta Malaysia yang bertukar-tukar. Ini ialah UI peralihan biasa; ia akan pudar apabila menu atau keadaan watak sudah sedia.
+
 ## Aplikasi telefon
 
-Sumaya mempunyai **13 aplikasi yang menghadap pemain** ditambah pelancar utama telefon (dipanggil `PhoneUI` secara dalaman). Sesetengah aplikasi (DevTools, MDT) hanya dipaparkan untuk peranan yang sesuai.
+Sumaya mempunyai **14 entri aplikasi** ditambah pelancar utama telefon (dipanggil `PhoneUI` secara dalaman). Sesetengah aplikasi hanya muncul apabila sesuai: Emergency999 memerlukan watak anda sudah spawn, MDT adalah untuk pasukan perkhidmatan kecemasan, dan DevTools adalah untuk pembangun sahaja.
 
 ### Tetapan
 
@@ -31,6 +35,10 @@ Sesuaikan rupa telefon anda:
 ### Kamera
 
 Aplikasi kamera dalam permainan. Ambil gambar apa sahaja yang ada pada skrin. Sesuai untuk paparan rumah, detik-detik indah, atau menangkap penangkapan 5 bintang itu.
+
+### Bantuan
+
+Rujukan pantas terbina dalam untuk asas telefon dan gameplay.
 
 ### Profil
 
@@ -92,7 +100,7 @@ Berguna untuk meletak di tempat sempit atau melepasi timbunan kemalangan. Lihat 
 
 ### Sinematik
 
-Mod kamera bebas-roam. Gerakkan sudut pandangan anda secara bebas daripada watak anda untuk sudut dramatik atau syot bergaya filem. Bagus untuk merakam, tidak banyak digunakan untuk gameplay.
+Mod kamera bebas-roam. Gerakkan sudut pandangan anda secara bebas daripada watak anda untuk sudut dramatik atau syot bergaya filem. Sesetengah pergerakan kamera juga boleh menambah fokus dan depth-of-field semasa mod aktif. Bagus untuk merakam, tidak banyak digunakan untuk gameplay.
 
 ### Quest
 
@@ -114,9 +122,9 @@ Panduan anda kepada mercu tanda Sumaya. Aplikasi Jelajah memaparkan setiap Point
 - Senarai kad yang boleh ditatal. POI yang ditemui menunjukkan titik kategori berwarna, nama mercu tanda, dan penerangan ringkas. POI yang dikunci dipaparkan sebagai `???` dengan hanya kategori kelihatan.
 - Ketik kad untuk skrin perincian — penerangan penuh, ringkasan ganjaran, dan (jika anda telah menemuinya) butang **Baca Maklumat** untuk membuka semula infografik mercu tanda.
 
-Apabila anda berjalan ke dalam POI yang ditandakan buat kali pertama, aplikasi memaparkan toast `✨ Ditemui: <name>` dan entri bertukar daripada terkunci kepada ditemui. Ganjaran POI dimasukkan ke akaun bank anda secara automatik.
+Apabila anda berjalan ke dalam POI yang ditandakan buat kali pertama, aplikasi memaparkan toast `Ditemui: <name>` dan entri bertukar daripada terkunci kepada ditemui. Ganjaran POI dimasukkan ke akaun bank anda secara automatik.
 
-POI ialah ciri yang sedang dalam pembangunan — sistemnya telah disambungkan tetapi hanya beberapa mercu tanda permulaan (Clock Tower, Pasar, Pantai) telah ditakrifkan; jangkakan lebih banyak apabila peta berkembang.
+POI ialah ciri yang sedang dalam pembangunan. Build langsung mentakrifkan **Menara Jam**, **Pasar Sumaya**, dan **Pantai Sumaya**, tetapi dunia kini tiada bahagian pencetus `SumayaPOI` yang ditag. Jika mercu tanda itu tidak terbuka ketika anda melawatnya, itu ialah jurang penempatan kandungan, bukan sesuatu yang anda lakukan salah.
 
 ### Emergency999
 
@@ -144,6 +152,8 @@ Lihat [Polis](/sumaya/polis) untuk maklumat lanjut tentang MDT.
 ### DevTools
 
 Aplikasi penyahpepijatan khas pembangun. Anda tidak akan melihatnya sebagai pemain biasa. Abaikan.
+
+Untuk penguji yang dibenarkan, DevTools kini termasuk semakan backend untuk placeholder monetization: entitlement catalog/overrides, simulasi produk tunai, pemilikan vehicle pack, keadaan scaffold radio, dan ujian pengkhususan POLIS.
 
 ### PhoneUI (pelancar utama)
 
@@ -198,6 +208,12 @@ Di sudut kiri atas, anda akan sering melihat **kad tugasan** - panel kecil yang 
 ### Mengecutkan kad tugasan
 
 Terutamanya pada mudah alih, kad tugasan boleh bertindih dengan kawalan memandu. Ketik **butang chevron (^)** pada kad untuk mengecutkannya, memaparkan hanya ikon minimum. Ketik sekali lagi untuk membesarkan semula.
+
+## Panel minigame gig
+
+Sesetengah gig jobs membuka panel interaksi kecil untuk kertas kerja, pilihan, semakan urutan, atau semakan masa. Panel ini memudar masuk dan keluar, berskala untuk skrin telefon/tablet/desktop, dan mungkin memfokuskan kamera sebentar pada penumpang, bungkusan, kenderaan, lokasi kejadian, atau penanda laluan yang berkaitan.
+
+Jika anda mati, menukar pasukan, meninggalkan kerja, atau objektif hilang, panel dan fokus kamera dibersihkan secara automatik.
 
 ## Widget Status (kanan atas)
 

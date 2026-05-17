@@ -2,8 +2,8 @@
 title: 犯罪与法律
 description: Sumaya 的劫车、扒窃、通缉星级与监禁机制。
 lang: zh
-translated_from_hash: b576d4fe
-translated_on: '2026-04-30'
+translated_from_hash: e44a4fb1
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -12,7 +12,7 @@ needs_review: true
 
 如果你愿意，Sumaya 让你扮演罪犯的一面。本页介绍玩家可使用的三种主要罪行、offence points 和 wanted star 系统的运作方式，以及被抓后会发生什么。
 
-**注意：** 游戏设计为在紧急服务玩家（POLIS、BOMBA、Kesihatan）犯罪时自动降级他们，但目前这个降级事件的监听器在线上版本中并未连接。实际上，劫车的警察或消防员仍然留在他们的队伍里 - 自动降级实际上不会把你踢出去。即便如此，持有犯罪工具的执勤警官会自动退出 passive mode，而 Polis 队伍依然完全无法使用 passive，所以执勤时犯罪既不实际也不符合角色扮演。如果你想成为罪犯，请先切换到 Visitors 或 Malaysians。
+**注意：** 紧急服务玩家（POLIS、BOMBA、Kesihatan）进入 1-star wanted 时会自动降级。系统会移除你的紧急车辆，并在你符合条件时切换到 Malaysians，否则切换到 Visitors。持有犯罪工具的执勤警官也会自动退出 passive mode，而 Polis 队伍完全不能使用 passive。如果你想扮演罪犯，请先切换到 Visitors 或 Malaysians。
 
 ## offence 系统
 

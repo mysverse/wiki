@@ -4,8 +4,8 @@ description: >-
   Setiap kerja di Lebuhraya — disusun mengikut agensi (Pengangkutan dan banyak
   lagi) dengan kadar gaji.
 lang: ms
-translated_from_hash: c5df14d2
-translated_on: '2026-04-21'
+translated_from_hash: c6e58d53
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Kerjaya
@@ -13,6 +13,25 @@ needs_review: true
 Setiap kerja di Lebuhraya tergolong dalam sebuah pasukan (lihat [Teams and Careers](/lebuhraya/teams)). Halaman ini merupakan rujukan untuk apa yang anda sebenarnya **lakukan** dalam setiap kerja — cara memulakannya, kitaran permainan, ganjaran lazim, dan di mana kerja tersebut berlangsung.
 
 Kerjaya dikumpulkan mengikut **agensi** yang menganjurkannya.
+
+## Sebelum anda memulakan kerja
+
+Kebanyakan kerja mengikut corak asas yang sama:
+
+1. Sertai pasukan yang betul dari **Main Menu -> Teams**.
+2. Spawn kenderaan pasukan atau awam yang sesuai.
+3. Equip tool atau buka UI kerja jika kerja itu menyediakannya.
+4. Ikut waypoint, prompt, atau panel tugas.
+5. Selesaikan tugas untuk memperoleh XP, job progress, missions/challenges progress, dan kadang-kadang BR.
+
+Halangan biasa:
+
+- **Pasukan salah**: prompt muncul tetapi enggan bermula, atau kenderaan pasukan hilang.
+- **Kenderaan/spawner salah**: kenderaan pasukan hanya muncul dalam spawner yang sepadan.
+- **Tugas sudah aktif**: selesaikan atau batalkan tugas semasa sebelum memulakan yang lain.
+- **Private server/test server**: berguna untuk latihan, tetapi progression mungkin tidak disimpan.
+
+Buka **Main Menu -> Activity** untuk menjejak missions/challenges, dan **Main Menu -> More -> Jobs** untuk menyemak kemajuan tier cabang.
 
 ---
 
@@ -32,7 +51,9 @@ Kerjaya dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 **Ganjaran**:
 - **XP** berskala mengikut jarak: kira-kira **0.11 hingga 0.13 XP per stud**. Tambang sejauh 4000 stud membayar 440–520 XP.
-- **BR** dibayar bagi setiap tambang yang disiapkan; berskala mengikut jarak.
+- Pembayaran BR dirancang (menurut audit ekonomi, laluan panggilan wujud tetapi belum kelihatan kepada pengguna).
+
+**Laluan**: Pickup dan dropoff kini diambil daripada 4 pickup point dan 4 dropoff point dalam bandar — laluan akan berulang dari masa ke masa sehingga lebih banyak ditambah.
 
 **Kenderaan**: Mana-mana kenderaan boleh digunakan, tetapi untuk pendapatan terbaik gunakan teksi yang direka khusus — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Pangkat Taxi Driver yang lebih tinggi membuka model yang lebih baik (dan kapasiti penumpang yang lebih besar).
 
@@ -40,7 +61,7 @@ Kerjaya dikumpulkan mengikut **agensi** yang menganjurkannya.
 
 **Buka kunci**: Percuma — ini adalah salah satu daripada dua pasukan percuma.
 
-**Cara memulakan**: Sertai pasukan Bus Driver. Spawn sebuah bas melalui MyPod dan mulakan laluan dari **Depoh Bas** di Bandar Seri Putra.
+**Cara memulakan**: Sertai pasukan Bus Driver. Gunakan spawner kenderaan Bus Driver / bas dan mulakan laluan dari **Depoh Bas** di Bandar Seri Putra.
 
 **Apa yang anda lakukan**: Pandu laluan bas yang tetap, berhenti di perhentian bas yang ditetapkan untuk mengambil dan menurunkan penumpang NPC. Laluan penuh membayar XP (pembayaran BR dirancang tetapi belum disambungkan — lihat *Economy and XP*).
 
@@ -79,7 +100,7 @@ Kerjaya dikumpulkan mengikut **agensi** yang menganjurkannya.
 3. Pandu ke lokasi pelanggan pada waypoint anda.
 4. Berinteraksi dengan NPC pelanggan untuk menyerahkan pesanan.
 
-**Ganjaran**: **250 XP tetap** setiap penghantaran, ditambah BR.
+**Ganjaran**: **250 XP tetap** setiap penghantaran. Teks lama mungkin menyebut BR, tetapi laluan payout aktif kini mendaratkan XP; jumlah BR-facing patut dianggap sebagai kerja ekonomi yang dirancang sehingga laluan pendapatan BR diaktifkan untuk kerja ini.
 
 **Kenderaan**: Apa-apa sahaja. Motosikal (Handai EX5) selalunya paling laju untuk jalan berliku.
 
@@ -117,7 +138,7 @@ Menukar zon akan memaksa anda menghentikan kerja semasa, jadi pilih satu zon dan
 
 **Ganjaran**: Dibayar di insinerator, berkadar dengan jumlah sampah yang dikutip. Laluan lebih panjang dengan lebih banyak perhentian membayar lebih banyak.
 
-**Kenderaan**: Trak sampah (keluaran pasukan, boleh dipanggil melalui MyPod).
+**Kenderaan**: Trak sampah daripada spawner kenderaan pasukan Waste Disposal.
 
 **Nota mengenai bayaran**: Notifikasi "Pay" menunjukkan jumlah dalam dunia permainan, tetapi ekonomi BR belum diaktifkan — XP ialah pembayaran yang sebenarnya masuk ke akaun anda. Jumlah tersebut akan menjadi kredit BR sebenar setelah ekonomi diaktifkan.
 
@@ -156,18 +177,45 @@ Menukar zon akan memaksa anda menghentikan kerja semasa, jadi pilih satu zon dan
 5. Muat pesakit ke atas pengusung, kemudian ke dalam ambulans anda (mesti berada dalam jarak 25 stud dari ambulans untuk memuat).
 6. Bawa ke **Klinik Kesihatan Bandar Seri Putra** atau zon hospital lain.
 
-**Mekanik**:
-- Proses rawatan 6 langkah setiap pesakit.
-- Pesakit mempunyai **skor survival** yang reput dari masa ke masa (secara lalai 5 setiap 30 saat, berskala mengikut keterukan kecederaan). Setiap langkah yang selesai menaikkan survival sebanyak 5.
-- Pesakit boleh Survived, Critical, atau Dead — keadaan akhir menentukan pengganda XP anda.
-- Tingkah laku pesakit NPC berbeza-beza — sesetengahnya bekerjasama, sesetengahnya agresif. Pesakit agresif reput lebih cepat.
-- Jeda 5 saat antara pesakit. Pesakit tamat masa selepas 5 minit jika tidak dirawat.
+**Jenis kecederaan** (12 jumlah, setiap satu memerlukan urutan rawatan khusus):
+
+| Kecederaan | Langkah rawatan | XP asas |
+|---|---|---|
+| Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
+| Broken Arm / Broken Leg (kiri atau kanan) | Apply Splint | 75 |
+| Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
+| Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
+| Unconscious | Stabilise Patient → Monitor Vitals | 90 |
+| Low Vital Signs | Monitor Vitals → Stabilise Patient | 95 |
+| Shock | Stabilise Patient → Bandage | 80 |
+| Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
+| Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
+
+Tindakan rawatan mengambil **2-5 saat** setiap satu. Baca petunjuk dialog pesakit — baris bergaya Malaysia seperti *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* memberi bayangan masalah.
+
+**Jenis tingkah laku pesakit** (rawak):
+- **Cooperative (60%)** — normal, dialog berterima kasih
+- **Panicked (25%)** — dramatik ("I thought I was going to die!"); masih bekerjasama
+- **Aggressive (15%)** — bermusuhan ("Don't touch me!", "Get away!"); survival reput **2× lebih cepat** sehingga anda menenangkan mereka dengan rawatan betul pertama
+
+**Aliran penuh** dan XP setiap kes sempurna:
+
+| Langkah | XP |
+|---|---|
+| Assessment | 25 |
+| Injury treatment (semua betul) | 50-100 setiap kecederaan |
+| Stabilisation bonus | +50 |
+| Place on stretcher | +25 |
+| Load into ambulance | — |
+| Admit to hospital | +100 |
+| Request evacuation (alternatif — chopper) | +40 |
+| Wrong treatment (penalti) | -10 (setiap kesilapan) |
+
+Kes Traumatic Brain Injury sempurna = 25 + 100 + 50 + 25 + 100 = **300 XP** (ditambah apa-apa multiplier kecuali ganjaran Assessment tetap).
 
 **Tool**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
 
 **Kenderaan**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
-
-**Ganjaran**: XP setiap langkah rawatan dan bonus pengangkutan, didarab dengan hasil survival.
 
 ---
 
@@ -306,24 +354,26 @@ Aktiviti-aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians**
 3. Goncang joran (ikut prompt di atas skrin) untuk menggulung.
 4. Jual ikan di kedai untuk BR.
 
-**Apa yang boleh anda tangkap**: Senarai ikan semasa mempunyai 10 entri, ditimbang secara kasar mengikut peluang:
+**Apa yang boleh anda tangkap**: Senarai ikan semasa mempunyai 10 entri, ditimbang mengikut rarity dan membayar XP berbeza apabila dijual:
 
-| Tangkapan | Kejarangan | Nota |
+| Tangkapan | Peluang (weight) | XP apabila dijual |
 |---|---|---|
-| Torpedo Scad | Peluang 60 | Ikan sebenar paling biasa |
-| Indian Mackerel | Peluang 55 | Sangat biasa |
-| Snapper | Peluang 45 | Biasa |
-| Pomfret | Peluang 45 | Biasa |
-| Siakap (sea bass) | Peluang 40 | Biasa |
-| Red Snapper | Peluang 35 | Tidak biasa |
-| Tin Can | Peluang 20 | Sampah — boleh digulung tetapi tiada ganjaran |
-| Boot | Peluang 20 | Sampah — boleh digulung tetapi tiada ganjaran |
-| Yifish | **Peluang 0.5** | **Amat jarang** — legenda memancing di kalangan pemain |
-| meow | — | Easter egg berasingan, sangat jarang |
+| Torpedo Scad | 60 | 8 |
+| Indian Mackerel | 55 | 15 |
+| Pomfret | 45 | 22 |
+| Snapper | 45 | 27 |
+| Siakap (sea bass) | 40 | 32 |
+| Red Snapper | 35 | 45 |
+| Tin Can | 20 | 0 (sampah) |
+| Boot | 20 | 0 (sampah) |
+| **Yifish** | **0.5** | **696** (jackpot — ~87× Torpedo Scad!) |
+| meow | — | easter egg berasingan, sangat jarang, ganjaran unik |
+
+**Yifish ialah white whale pemancing.** Weight tangkapan 0.5% menjadikannya hampir 100× lebih jarang daripada ikan paling biasa, tetapi satu jualan Yifish membayar hampir 700 XP — lebih daripada dua larian Food Delivery. Berbaloi jika anda sabar.
 
 **Jarak lemparan**: sehingga 80 stud dari tempat anda berdiri.
 
-**Menjual**: Ikan boleh dijual di zon kedai pelabuhan memancing. Ganjaran semasa ialah **XP sahaja** — laluan ganjaran BR masih belum dilaksanakan dalam modul Sell semasa. Tangkapan jarang memberikan pembayaran XP yang lebih besar daripada ikan biasa.
+**Menjual**: Ikan dijual di zon kedai pelabuhan memancing. Ganjaran ialah **XP sahaja** — laluan ganjaran BR belum dilaksanakan (setiap ikan mempunyai `BR=0` dalam konfigurasi ganjarannya). Tangkapan jarang membayar jauh lebih banyak XP daripada ikan biasa.
 
 ### Checkout
 

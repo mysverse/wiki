@@ -2,8 +2,8 @@
 title: 操作
 description: Lebuhraya 的全部操作方式 — 键盘、手柄、移动端和 VR 输入。
 lang: zh
-translated_from_hash: 5af60e76
-translated_on: '2026-04-21'
+translated_from_hash: 922cf692
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 操作
@@ -56,14 +56,23 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
 
 ## 界面
 
-| 操作 | 键盘 | 移动端 |
-|---|---|---|
-| 聊天 | **/**（正斜杠） | 点击聊天图标 |
-| 主菜单 | 顶栏图标 | 顶栏图标 |
-| 手机 | 顶栏图标 | 顶栏图标 |
-| 平板 | 顶栏图标（如有） | 顶栏图标 |
-| 设置 | 主菜单中的齿轮 | 主菜单中的齿轮 |
-| 关闭任何弹窗 | **Esc** 或 **Backspace** | 点击关闭 |
+| 操作 | 键盘 / 鼠标 | 移动端 / 触控 | 手柄 |
+|---|---|---|---|
+| 聊天 | **/**（正斜杠） | 点击聊天图标 | Roblox 聊天快捷键 |
+| 主菜单 | 顶栏图标 | 顶栏图标 | 导航到顶栏后选择 |
+| 手机 | 顶栏图标 | 顶栏图标 | 导航到顶栏后选择 |
+| 平板 | 顶栏图标（如有） | 顶栏图标 | 导航到顶栏后选择 |
+| 设置 | 主菜单中的齿轮 | 主菜单中的齿轮 | 选择齿轮 |
+| 关闭任何弹窗 | **Esc** 或 **Backspace** | 点击关闭/返回 | 显示时按 **B** / 返回键 |
+| 确认焦点按钮 | 点击 / 有焦点时按 Enter | 点击 | **A** |
+
+### Proximity prompts
+
+大多数世界互动都使用 Roblox ProximityPrompts：spawner、门、工作柜台、油泵、维修区、拖车面板和商店柜台。
+
+- 站得足够近，让 prompt 出现。
+- 如果 prompt 有 hold duration，请按住显示的键/按钮直到圆圈完成。
+- 如果 prompt 提示你在错误队伍或错误燃油泵类型，说明 prompt 正常；按警告操作。
 
 ### 主菜单标签
 
@@ -72,12 +81,34 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
 - **Home** — 公告与概览
 - **Teams** — 选择或切换队伍
 - **Shop** — 游戏内购买（gamepass 提示、代币）
-- **Career** — 你的职业等级与机构进度
-- **Job Progression** — 每个分支的层级条与奖励
-- **Tokens** — 你的已激活与已存储的代币 / 加成
-- **Tutorials** — 新手教程
-- **Top** — 排行榜
-- **Credits** — 开发团队与贡献者
+- **Activity** — 任务、挑战和 season pass 进度
+- **More** — 卡片网格，包含：
+  - **Career** — 你的职业等级与机构进度
+  - **Jobs** — 每个分支的 tier 条与奖励
+  - **Tokens** — 你的已激活与已存储的代币 / 加成
+  - **Credits** — 开发团队与贡献者
+  - **Races** — time trial 和 PvP race 菜单
+  - **Help** — 可用时显示教程
+
+旧的 Career/Tokens/Credits/Help 标签在内部仍存在，但玩家会通过 **More** 进入。
+
+### 可调整的设置
+
+打开 Settings 面板（主菜单中的齿轮）可使用这些开关：
+
+- **Crash System** — 开启后碰撞会真正损坏你的车；作为回报，启用期间你获得 **+15% XP**。仅当 server 上有 Kesihatan 队伍玩家时可用（见 FAQ）。
+- **Overhead rank** — 显示或隐藏浮在角色上方的队伍 rank/title。
+- **First person view** — 切换镜头模式。游戏中正斜杠 (`/`) 会切换视角。
+- **Vehicle Spawner: NEW** — 选择新版车辆 spawner UI。
+- **Parking Brake** key — 重新绑定手刹按键。
+- **Shift + C** — 切换整个 HUD（适合截图）。
+- Reset / Change / Remove — 重新定位与自定义快捷操作。
+
+### 顶部 HUD 指示器
+
+- **ActiveTokensHUD** — 显示所有当前激活的 token（2× XP Boost、Season Pass Boost、Team Access Pass），剩余时间以 `M:SS` 格式显示。过期后 token 会自动隐藏。
+- **StatusGui** — 速度表、燃油、GPS 方向和玩家 vitals。
+- **Leaderboard** — 点击查看所有在线玩家、他们的队伍、level 和已驾驶 studs。你可以点击某一行，从同一面板发送好友请求或 block。
 
 ## 工具（工作装备）
 
@@ -88,6 +119,14 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
 - 游戏支持移动端布局；在手机上驾驶是可以的，但在平板上更方便。
 - 大多数 ProximityPrompts（进门、与 NPC 交谈、开始工作）会在屏幕上显示圆形按钮。点击它即可。
 - 驾驶时，方向盘在 HUD 的左侧。
+- 避免在非驾驶 UI 中长按底部角落；Roblox 的移动摇杆和跳跃按钮位于那里。
+- 如果卡片网格或菜单显得拥挤，请把设备旋转到横屏。主菜单的 More 和 Teams 视图是为较矮的横屏屏幕设计的。
+
+## 手柄提示
+
+- 菜单按钮可以被选中。如果焦点像是丢失了，关闭并重新打开菜单，让游戏重新选中第一个按钮。
+- 使用 D-pad/左摇杆在卡片间移动，**A** 确认，UI 显示返回或关闭动作时按 **B** 退出。
+- 一些较旧的 Roblox 面板仍依赖光标式选择；如果感觉别扭，短暂切换到鼠标/触控。
 
 ## 无障碍
 

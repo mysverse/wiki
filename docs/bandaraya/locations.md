@@ -7,33 +7,7 @@ description: "Landmarks, buildings, streets, stations, hospitals, and shops acro
 
 A quick reference for where things are in Bandaraya's slice of Kuala Lumpur. Use this when you need to find a clinic, a fuel station, or which tower is which.
 
-## Iconic landmarks
-
-The city is a detailed recreation of central Kuala Lumpur, including its most iconic skyline landmarks.
-
-![KLCC](/images/bandaraya/klcc.png)
-
-**KLCC & KLCC Park** — the centrepiece of Bandaraya and a popular social gathering spot.
-
-![Pavilion](/images/bandaraya/pavilion.png)
-
-**PAVILION** — a major shopping and entertainment landmark in the Bukit Bintang area.
-
-![Creator's Plaza](/images/bandaraya/creators-plaza.png)
-
-**Creator's Plaza** — a community-focused plaza dedicated to the creators and contributors of MYSverse.
-
-![Commonwealth Building](/images/bandaraya/commonwealth.png)
-
-**Commonwealth Building** — an administrative building representing Malaysia's Commonwealth heritage.
-
 ## Emergency services
-
-![IPD Dang Wangi](/images/bandaraya/ipd-dang-wangi.png)
-
-![Central Fire Station Kuala Lumpur](/images/bandaraya/central-fire-station.png)
-
-![Kem Wardieburn](/images/bandaraya/kem-wardieburn.png)
 
 | Place | Purpose |
 | --- | --- |
@@ -44,16 +18,6 @@ The city is a detailed recreation of central Kuala Lumpur, including its most ic
 | **Kem Wardieburn** | Military camp. MAF operations, parade grounds. |
 
 ## Transit
-
-![City Bus Terminal](/images/bandaraya/city-bus-terminal.png)
-
-![Bus Stop](/images/bandaraya/bus-stop.png)
-
-![Monorail](/images/bandaraya/monorail.png)
-
-![MRT Station](/images/bandaraya/mrt-1.png)
-
-![MRT Station](/images/bandaraya/mrt-2.png)
 
 | Place | Line / Function |
 | --- | --- |
@@ -70,8 +34,6 @@ The city is a detailed recreation of central Kuala Lumpur, including its most ic
 Each station has a nearby **CAG kiosk** for buying and topping up the transit card.
 
 ## Shops
-
-![Shops and Services](/images/bandaraya/shops-and-services.png)
 
 ### Shop Network
 
@@ -112,7 +74,7 @@ Multiple shops across the city:
 
 | Place | Notes |
 | --- | --- |
-| **Hazbank** | In-game bank. Potential robbery target. |
+| **Hazbank** | In-game bank. Potential robbery target — **needs 10+ players online** to start a robbery. |
 | **Vastrix Bank** | Deposits, banking module |
 
 ## Landmark towers
@@ -142,8 +104,6 @@ These recognisable KL towers are faithfully represented:
 
 ## Hotels & residences
 
-![Hospitality](/images/bandaraya/hospitality.png)
-
 | Name | Notes |
 | --- | --- |
 | **ICON Hotel** | |
@@ -160,8 +120,6 @@ These recognisable KL towers are faithfully represented:
 | **Aries Hotel** | Has a working lift |
 
 ## Other landmarks
-
-![Parking](/images/bandaraya/parking.png)
 
 - **Asean Kuala Lumpur** — ASEAN complex
 - **AKClot** — Parking
@@ -181,8 +139,8 @@ These recognisable KL towers are faithfully represented:
 ## Vegetation & decor
 
 - **Palm trees, big trees, environmental vegetation**
-- **Deepavali 2025** decorations (seasonal)
-- **Raya 2024** decorations (seasonal)
+- **Raya 2024** decorations (seasonal — currently visible in city)
+- Other festive sets (Merdeka, CNY, Halloween) live in storage and rotate in seasonally
 
 ## CCTV
 

@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் உங்கள் முதல் 10 நிமிடங்கள் — வாகனத்தை உருவாக்கவும், BR
   சம்பாதிக்கவும், நிலை உயர்த்தவும், நெடுஞ்சாலையை அடையவும்.
 lang: ta
-translated_from_hash: 3aa77d1d
-translated_on: '2026-04-21'
+translated_from_hash: 271bfa19
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # தொடங்கு
@@ -24,7 +24,7 @@ needs_review: true
 
 - **1000 BR** (ரிங்கிட்) தொடக்க இருப்பு — **கண்காணிக்கப்படுகிறது ஆனால் இன்னும் பயன்படுத்தப்படவில்லை**. நாணய அமைப்பு திட்டமிடப்பட்டுள்ளது, இன்னும் செயல்படவில்லை (விவரங்களுக்கு [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) பார்க்கவும்). இப்போதைக்கு, அனைத்தும் இலவசம்.
 - **Level 1**, 0 XP
-- வாகனம் இல்லை (நீங்கள் மெனுவிலிருந்து ஒன்றை உருவாக்குவீர்கள்)
+- வாகனம் இல்லை (நீங்கள் world vehicle spawner-இல் இருந்து ஒன்றை உருவாக்குவீர்கள்)
 
 HUD-ஐச் சுற்றிப் பார்க்கவும்:
 
@@ -32,13 +32,31 @@ HUD-ஐச் சுற்றிப் பார்க்கவும்:
 - **மேல்-வலது**: தொலைபேசி ஐகான் (பயன்பாடுகள் மற்றும் 999 அவசர நிலையைத் திறக்க தட்டவும்)
 - **கீழ்**: அமைப்புகள் மற்றும் முதன்மை மெனு ஐகான்கள்
 
+## Main Menu
+
+**Main Menu**-வை ஆரம்பத்திலேயே திறக்கவும். அது கிட்டத்தட்ட எல்லாவற்றிற்குமான hub:
+
+| Tab | பயன்படுத்துவது |
+|---|---|
+| **Home** | Profile, announcements, quick play/spawn actions |
+| **Teams** | Team join செய்ய அல்லது unlock requirements பார்க்க |
+| **Shop** | Gamepasses, products, tokens, promo codes |
+| **Activity** | Missions, challenges, season pass progress |
+| **More** | Career ranks, job tiers, token inventory, credits, races, help |
+
 ## உங்கள் முதல் வாகனத்தை உருவாக்குதல்
 
-1. **MyPod** மெனுவைத் திறக்கவும் (வாகன உருவாக்கி). டெஸ்க்டாப்பில், ஐகான் டாப்பாரில் உள்ளது; மொபைலில், அது மேல்-வலது கொத்தில் உள்ளது.
+Vehicles map முழுவதும் உள்ள physical vehicle spawner pads-இல் இருந்து spawn ஆகும். **MyPod** topbar icon ஒரு music player; vehicle spawner அல்ல.
+
+1. Green vehicle spawner marker அல்லது team spawner pad-க்கு நடந்து செல்லுங்கள்.
 2. வாகனப் பட்டியலை உலாவவும். இலவச தொடக்க வாகனங்கள் அனைவருக்கும் கிடைக்கின்றன.
-3. ஒன்றைத் தேர்ந்தெடுத்து **Spawn** என்பதைக் கிளிக் செய்யவும். உங்கள் வாகனம் உங்கள் முன் தோன்றும்.
+3. Vehicle தேர்ந்தெடுக்கவும். Info panel அதன் image, description, lock status, மற்றும் **Spawn** button காட்டும்.
+4. **Spawn** click செய்து, spawner கேட்டால் available pad தேர்ந்தெடுக்கவும்.
+5. உங்கள் vehicle தேர்ந்தெடுத்த pad-ல் தோன்றி, உங்களுக்காக register செய்யப்படும்.
 
 ஓட்டுநர் கதவின் அருகே நடந்து **F** (விசைப்பலகை), **X** (gamepad) அழுத்தவும், அல்லது உட்கார **Drive** பொத்தானை (மொபைல்) தட்டவும்.
+
+Starter-friendly choices-ல் **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, **Perosatu Bezza** போன்ற compact cars அடங்கும். Locked cards தேவையான level அல்லது career tier காட்டும்.
 
 ## ஓட்டுதல் மற்றும் உங்கள் முதல் XP-ஐ சம்பாதித்தல்
 
@@ -53,7 +71,7 @@ HUD-ஐச் சுற்றிப் பார்க்கவும்:
 
 ## உங்கள் முதல் வேலையைத் தேர்ந்தெடுத்தல்
 
-உங்கள் முதல் நாளில் நீங்கள் ஒரு வேலையைத் தேர்ந்தெடுக்க முடியாது — பெரும்பாலான வேலைகள் நிலையால் திறக்கப்படுகின்றன. உங்கள் முதல் மைல்கல் **Level 10**, இது **Food Delivery** அணியைத் திறக்கிறது. தொடர்ந்து BR சம்பாதிக்கத் தொடங்க இது வேகமான வழியாகும்.
+நீங்கள் **Visitors** மற்றும் **Bus Driver**-இல் உடனே சேரலாம். பெரும்பாலான மற்ற jobs level, gamepass, அல்லது group membership மூலம் unlock ஆகும். உங்கள் முதல் level milestone **Level 10**, இது **Food Delivery** team-ஐ unlock செய்கிறது.
 
 இதோ இலவச-மற்றும்-ஆரம்ப முன்னேற்றம்:
 
@@ -68,9 +86,17 @@ HUD-ஐச் சுற்றிப் பார்க்கவும்:
 
 முழுமையான பட்டியலுக்கு [Teams and Careers](/lebuhraya/teams) பார்க்கவும், ஒவ்வொன்றும் உண்மையில் என்ன செய்கிறது என்பதற்கு [Jobs](/lebuhraya/jobs) பார்க்கவும்.
 
+### நல்ல முதல் 30-minute plan
+
+1. Starter car spawn செய்து Bandar Seri Putra மற்றும் highway இடையே clean loop ஓட்டுங்கள்.
+2. Phone GPS திறந்து petrol station, repair zone, அல்லது race track-க்கு waypoint அமைத்து road network கற்றுக்கொள்ளுங்கள்.
+3. Friends online இருந்தால் convoy join செய்யுங்கள்; jobs unlock ஆகாத முன்பும் bonus உதவும்.
+4. Level 10 அடைந்ததும் **Food Delivery**-க்கு மாறி short delivery loops தொடங்குங்கள்.
+5. நீங்கள் MYSverse group-ல் இருந்தால், level செய்யும்போது **Malaysians** மூலம் Fishing அல்லது Checkout முயற்சிக்கவும்.
+
 ## நான் விபத்துக்குள்ளாகும்போது என்ன நடக்கிறது?
 
-நீங்கள் பொருட்களைத் தாக்கும்போது வாகனங்களுக்கு சேதம் ஏற்படுகிறது. கடுமையாக சேதமடைந்த வாகனங்களை **KEMRonda** வீரர் மூலம் இழுத்துச் செல்லலாம் அல்லது பண்டார் ஸ்ரீ புத்ராவிலுள்ள **Gravstone Workshop**-இல் பழுதுபார்க்கலாம். நீங்கள் எங்காவது சிக்கிக் கொண்டால், MyPod மெனுவிலிருந்து உங்கள் வாகனத்தை எப்போதும் அகற்றி, புதியதொன்றை உருவாக்கலாம்.
+நீங்கள் பொருட்களைத் தாக்கும்போது வாகனங்களுக்கு சேதம் ஏற்படுகிறது. கடுமையாக சேதமடைந்த வாகனங்களை **KEMRonda** வீரர் tow செய்யலாம், map-இல் உள்ள repair zones-ல் சரிசெய்யலாம், அல்லது Toolkit கொண்டு patch செய்யலாம். **Gravstone Workshop** paint/body customisation-க்கு; repairs-க்கு அல்ல. Vehicle spawner-ஐ அடைய முடிந்தால், replacement vehicle spawn செய்வது உங்கள் முந்தைய owned vehicle-ஐ clear செய்யும்.
 
 ## test server-கள் பற்றிய குறிப்பு
 
@@ -81,3 +107,4 @@ HUD-ஐச் சுற்றிப் பார்க்கவும்:
 - முழு உள்ளீட்டு குறிப்புக்கு [Controls](/lebuhraya/controls) படிக்கவும்
 - பெருக்கி அடுக்கைப் புரிந்துகொள்ள [Economy and XP](/lebuhraya/economy) பார்க்கவும்
 - எந்த அணியை நோக்கமாகக் கொள்ள வேண்டும் என்பதைத் திட்டமிட [Jobs](/lebuhraya/jobs) உலாவவும்
+- Menu, spawner, அல்லது team requirement குழப்பமாக இருந்தால் [அடிக்கடி கேட்கப்படும் கேள்விகள் & குறிப்புகள்](/lebuhraya/faq) பயன்படுத்தவும்

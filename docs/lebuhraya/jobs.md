@@ -11,6 +11,27 @@ Jobs are grouped by the **agency** that organises them.
 
 ---
 
+## Before you start a job
+
+Most jobs follow the same basic pattern:
+
+1. Join the correct team from **Main Menu -> Teams**.
+2. Spawn a suitable team or civilian vehicle.
+3. Equip the tool or open the job UI if the job provides one.
+4. Follow the waypoint, prompt, or task panel.
+5. Complete the task to earn XP, job progress, missions/challenges progress, and sometimes BR.
+
+Common blockers:
+
+- **Wrong team**: the prompt appears but refuses to start, or the team vehicle is missing.
+- **Wrong vehicle/spawner**: team vehicles only appear in matching spawners.
+- **Task already active**: finish or cancel the current task before starting another.
+- **Private server/test server**: useful for practice, but progression may not save.
+
+Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> More -> Jobs** to check branch tier progress.
+
+---
+
 ## Pengangkutan (Transport)
 
 ### Taxi Driver
@@ -27,7 +48,9 @@ Jobs are grouped by the **agency** that organises them.
 
 **Rewards**:
 - **XP** scales with distance: about **0.11 to 0.13 XP per stud**. A 4000-stud fare pays 440–520 XP.
-- **BR** is paid per completed fare; scales with distance.
+- BR payments are planned (per the economy audit, the call path exists but isn't user-visible yet).
+
+**Routes**: Pickups and dropoffs are currently drawn from 4 pickup points and 4 dropoff points in the city — routes repeat over time until more are added.
 
 **Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
 
@@ -35,7 +58,7 @@ Jobs are grouped by the **agency** that organises them.
 
 **Unlock**: Free — this is one of two free teams.
 
-**How to start**: Join the Bus Driver team. Spawn a bus via MyPod and begin a route from the **Depoh Bas** in Bandar Seri Putra.
+**How to start**: Join the Bus Driver team. Use a Bus Driver / bus vehicle spawner and begin a route from the **Depoh Bas** in Bandar Seri Putra.
 
 **What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Full routes pay XP (BR payouts are planned but not yet wired up — see *Economy and XP*).
 
@@ -74,7 +97,7 @@ Jobs are grouped by the **agency** that organises them.
 3. Drive to the customer's location on your waypoint.
 4. Interact with the customer NPC to hand over the order.
 
-**Rewards**: **250 XP flat** per delivery, plus BR.
+**Rewards**: **250 XP flat** per delivery. Older text may mention BR, but the active payout path currently lands XP; BR-facing amounts should be treated as planned economy work until the BR earn path is enabled for this job.
 
 **Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
 
@@ -112,7 +135,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
 
-**Vehicle**: Rubbish truck (team-issue, spawnable via MyPod).
+**Vehicle**: Rubbish truck from the Waste Disposal team vehicle spawner.
 
 **Note on pay**: The "Pay" notification shows an in-world amount, but the BR economy isn't live yet — XP is the payout that actually lands on your account. The amount becomes a real BR credit once the economy goes live.
 
@@ -151,18 +174,45 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 5. Load the patient onto a stretcher, then into your ambulance (must be within 25 studs of the ambulance to load).
 6. Transport to **Klinik Kesihatan Bandar Seri Putra** or another hospital zone.
 
-**Mechanics**:
-- A 6-step treatment process per patient.
-- Patients have a **survival score** that decays over time (by default 5 per 30 seconds, scaled by injury severity). Each completed step boosts survival by 5.
-- A patient can be Survived, Critical, or Dead — final state determines your XP multiplier.
-- NPC patient behavior varies — some are cooperative, some aggressive. Aggressive patients decay faster.
-- 5-second cooldown between patients. Patients time out after 5 minutes if not treated.
+**Injury types** (12 total, each needing a specific treatment sequence):
+
+| Injury | Treatment steps | Base XP |
+|---|---|---|
+| Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
+| Broken Arm / Broken Leg (left or right) | Apply Splint | 75 |
+| Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
+| Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
+| Unconscious | Stabilise Patient → Monitor Vitals | 90 |
+| Low Vital Signs | Monitor Vitals → Stabilise Patient | 95 |
+| Shock | Stabilise Patient → Bandage | 80 |
+| Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
+| Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
+
+Treatment actions take **2–5 seconds** each to perform. Read the patient's dialogue clues — Malaysian-flavored lines like *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* hint at what's wrong.
+
+**Patient behaviour types** (randomised):
+- **Cooperative (60%)** — normal, thankful dialogue
+- **Panicked (25%)** — dramatic ("I thought I was going to die!"); still cooperates
+- **Aggressive (15%)** — hostile ("Don't touch me!", "Get away!"); survival decays **2× faster** until you calm them with the first correct treatment
+
+**Full flow** and XP per perfect case:
+
+| Step | XP |
+|---|---|
+| Assessment | 25 |
+| Injury treatment (all correct) | 50–100 per injury |
+| Stabilisation bonus | +50 |
+| Place on stretcher | +25 |
+| Load into ambulance | — |
+| Admit to hospital | +100 |
+| Request evacuation (alternate — chopper) | +40 |
+| Wrong treatment (penalty) | −10 (per mistake) |
+
+A perfect Traumatic Brain Injury case = 25 + 100 + 50 + 25 + 100 = **300 XP** (plus any multipliers except the flat Assessment reward).
 
 **Tools**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
 
 **Vehicle**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
-
-**Rewards**: XP per treatment step and transport bonus, multiplied by survival outcome.
 
 ---
 
@@ -301,24 +351,26 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 3. Shake the rod (follow on-screen prompts) to reel in.
 4. Sell fish at shops for BR.
 
-**What you can catch**: The current fish roster has 10 entries, weighted roughly by chance:
+**What you can catch**: The current fish roster has 10 entries, weighted by rarity and paying different XP on sell:
 
-| Catch | Rarity | Notes |
+| Catch | Chance (weight) | XP on sell |
 |---|---|---|
-| Torpedo Scad | Chance 60 | Most common real fish |
-| Indian Mackerel | Chance 55 | Very common |
-| Snapper | Chance 45 | Common |
-| Pomfret | Chance 45 | Common |
-| Siakap (sea bass) | Chance 40 | Common |
-| Red Snapper | Chance 35 | Uncommon |
-| Tin Can | Chance 20 | Junk — reels in but has no reward |
-| Boot | Chance 20 | Junk — reels in but has no reward |
-| Yifish | **Chance 0.5** | **Extremely rare** — a fishing legend among players |
-| meow | — | Separate easter egg, very rare |
+| Torpedo Scad | 60 | 8 |
+| Indian Mackerel | 55 | 15 |
+| Pomfret | 45 | 22 |
+| Snapper | 45 | 27 |
+| Siakap (sea bass) | 40 | 32 |
+| Red Snapper | 35 | 45 |
+| Tin Can | 20 | 0 (junk) |
+| Boot | 20 | 0 (junk) |
+| **Yifish** | **0.5** | **696** (jackpot — ~87× a Torpedo Scad!) |
+| meow | — | separate easter egg, very rare, unique reward |
+
+**Yifish is the fisherman's white whale.** Its 0.5% catch weight makes it almost 100× rarer than the most common fish, but a single Yifish sell pays nearly 700 XP — more than two Food Delivery runs. Worth casting for if you have patience.
 
 **Casting range**: up to 80 studs from where you're standing.
 
-**Selling**: Fish can be sold at fishing-port shop zones. Current reward is **XP only** — the BR reward path is unimplemented in the current Sell module. Rare catches give bigger XP payouts than common fish.
+**Selling**: Fish sell at fishing-port shop zones. Reward is **XP only** — the BR reward path is unimplemented (every fish has `BR=0` in its reward config). Rare catches pay much more XP than common fish.
 
 ### Checkout
 

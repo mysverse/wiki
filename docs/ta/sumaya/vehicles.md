@@ -4,15 +4,15 @@ description: >-
   Sumaya-வில் கார்கள், படகுகள், ஆம்புலன்ஸ்கள், ஸ்பானர்கள், மற்றும்
   தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: a340548c
-translated_on: '2026-04-30'
+translated_from_hash: 61c50e55
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
 
 # வாகனங்கள்
 
-Sumaya-வில் ஒரு பெரிய வாகனப் பட்டியல் உள்ளது: சிவில் கார்கள் (இலவசம் மற்றும் premium), மீன்பிடி trawler-கள், போலீஸ் கார்கள், Bomba தீ அணைப்பு வண்டிகள், மற்றும் ஆம்புலன்ஸ்கள். இந்தப் பக்கம் அவற்றை எவ்வாறு spawn செய்வது, விலையுடன் கூடிய முழு பட்டியல், மற்றும் அவற்றை எவ்வாறு தனிப்பயனாக்குவது மற்றும் பராமரிப்பது என்பதை விளக்குகிறது.
+Sumaya-வில் ஒரு பெரிய வாகனப் பட்டியல் உள்ளது: சிவில் கார்கள், Classic Car Pack கார்கள், மீன்பிடி trawler-கள், போலீஸ் கார்கள், Bomba தீ அணைப்பு வண்டிகள், மற்றும் ஆம்புலன்ஸ்கள். இந்தப் பக்கம் அவற்றை எவ்வாறு spawn செய்வது, விலையுடன் கூடிய முழு பட்டியல், மற்றும் அவற்றை எவ்வாறு தனிப்பயனாக்குவது மற்றும் பராமரிப்பது என்பதை விளக்குகிறது.
 
 ## வாகனத்தை எவ்வாறு spawn செய்வது
 
@@ -38,41 +38,61 @@ Sumaya-வில் ஒரு பெரிய வாகனப் பட்டி
 
 ## சிவில் கார்கள்
 
-பெரும்பாலான சிவில் கார்கள் **இலவசமாக** spawn செய்யப்படுகின்றன (அவற்றுக்கு விலை அமைக்கப்படவில்லை). சில premium ஆகும். அனைத்து சிவில் கார்களும் **player level 1**-இல் உள்ளன - level gate இல்லை - ஆனால் கட்டண கார்களுக்கு Ringgit தேவை.
+அனைத்து standard civilian cars **player level 1**-இல் கிடைக்கும். இரண்டு மட்டுமே இலவசம்; மீதமுள்ளவற்றுக்கு rent மற்றும் buy prices உள்ளன.
 
-### இலவச சிவில் கார்கள்
+### இலவச தொடக்க கார்கள்
 
-இவை விலையின்றி spawn செய்யப்படுகின்றன. நீங்கள் எந்த நேரத்திலும் அவற்றை வெளியே எடுக்கலாம்:
+இவை rent அல்லது buy செலவு இல்லாமல் spawn ஆகும்:
 
-- Perosatu Axia (compact hatchback)
-- Perosatu Myvi 2020 (hatchback)
-- Perosatu Bezza (sedan)
-- Perosatu Alza (MPV)
-- Perosatu Ativa (compact SUV)
-- Perosatu Aruz (SUV)
-- Protan Wira (compact sedan)
-- Protan Wira Aeroback (hatchback)
-- Protan Putra (sport coupe)
-- Protan Waja (sedan)
-- Protan Preve (sedan)
-- Protan Saga 1985 (compact sedan)
-- Protan Exora (MPV)
-- Handai City (MPV)
-- Handai Civic (MPV)
-- Protan S70 (sedan)
-- Protan X70 (SUV)
-- Tayoti Hilux (pickup truck)
+- Perosatu Axia
+- Protan Wira
 
-### Premium சிவில் கார்கள்
+### கட்டண standard civilian cars
 
 | வாகனம் | Rent | Buy |
-|---------|------|-----|
-| Protan X50 (compact SUV) | 2,000 Ringgit | 10,000 Ringgit |
-| Merzda Miata (roadster) | 2,400 Ringgit | 12,000 Ringgit |
+|---------|-----:|----:|
+| Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
+| Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
+| Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
+| Protan Waja | 1,750 Ringgit | 7,000 Ringgit |
+| Tayoti Hilux | 2,000 Ringgit | 8,000 Ringgit |
+| Perosatu Myvi 2020 | 2,500 Ringgit | 10,000 Ringgit |
+| Protan Exora | 2,875 Ringgit | 11,500 Ringgit |
+| Perosatu Ativa | 3,750 Ringgit | 15,000 Ringgit |
+| Perosatu Alza | 4,250 Ringgit | 17,000 Ringgit |
+| Perosatu Aruz | 4,250 Ringgit | 17,000 Ringgit |
+| Protan Preve | 5,000 Ringgit | 20,000 Ringgit |
+| Handai City | 5,500 Ringgit | 22,000 Ringgit |
+| Handai Civic | 5,750 Ringgit | 23,000 Ringgit |
+| Protan X50 | 8,000 Ringgit | 32,000 Ringgit |
+| Protan S70 | 8,250 Ringgit | 33,000 Ringgit |
+| Protan X70 | 8,750 Ringgit | 35,000 Ringgit |
+
+**Protan X70** தற்போது மிக விலையுயர்ந்த standard civilian car.
+
+### Classic Car Pack
+
+இந்த கார்கள் civilian dealer-இல் தெரியும் ஆனால் Classic Car Pack gamepass தேவை. உரிமையாளர்கள் அல்லாதவர்கள் அவற்றை gamepass prompt-உடன் locked ஆகப் பார்க்கிறார்கள்.
+
+## Shop-இல் Vehicle packs
+
+Shop இப்போது வரவிருக்கும் vehicle packs-க்கு placeholder cards கொண்டுள்ளது:
+
+- **Premium EV Vehicles**
+- **Premium Sports Vehicles**
+- **Premium Luxury Vehicles**
+- **Expanded POLIS Vehicles**
+- **Unmarked POLIS Role**
+- **Traffic POLIS Role**
+
+இறுதி Roblox pass ID ஒதுக்கப்படாவிட்டால் இந்த cards தற்போது **Coming Soon** காட்டும். பழைய gates ஏற்கனவே இருந்த இடங்களில் existing legacy owners இன்னும் access வைத்திருப்பார்கள், மேலும் Classic/Retro pack செயலில் உள்ள purchasable vehicle pass-ஆக நீடிக்கிறது.
+
+| வாகனம் | Rent | Buy |
+|---------|-----:|----:|
+| Protan Saga 1985 | இலவசம் | இலவசம் |
+| Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
-
-Joguar XJ308 R என்பது விளையாட்டில் மிக விலையுயர்ந்த சிவில் வாகனமாகும்.
 
 ## மீன்பிடி trawler-கள்
 
@@ -161,6 +181,12 @@ Sumaya-வில் இப்போது எரிபொருள் நடை�
 
 Collision app-ஐப் பற்றி மேலும் அறிய [Phone and UI](/sumaya/phone)-ஐப் பார்க்கவும்.
 
+## வாகனத்தில் ஏறும் போது camera
+
+நீங்கள் வாகனத்தில் அமரும்போது அல்லது வெளியேறும் போது, camera திடீரென snap ஆகாமல் driving view-க்கு மென்மையாக eases ஆகும். Desktop, tablet, மற்றும் mobile controls-க்கு game framing-ஐ தானாகச் சரிசெய்யும், எனவே setting மாற்ற தேவையில்லை.
+
+Phone Cinematic app போன்ற வேறு camera mode-ஐ பயன்படுத்தினால், அதை மூடும் வரை அந்த mode priority வைத்திருக்கும்.
+
 ## உரிமை மற்றும் நிலைத்தன்மை
 
 - **Rent செய்யப்பட்ட வாகனங்கள்** நீங்கள் respawn செய்யும்போது, log out செய்யும்போது, அல்லது வேறொன்றை spawn செய்யும்போது மறைந்துவிடும்.
@@ -178,7 +204,7 @@ Collision app-ஐப் பற்றி மேலும் அறிய [Phone a
 
 ## குறிப்புகள்
 
-- **வாங்குவதற்கு முன் rent செய்யுங்கள்.** 10,000+ Ringgit செலவழிப்பதற்கு முன், ஒரு காரை rent விலையில் முதலில் முயற்சி செய்யுங்கள்.
+- **வாங்குவதற்கு முன் rent செய்யுங்கள்.** 5,000+ Ringgit செலவழிப்பதற்கு முன், கட்டண காரை rent விலையில் முதலில் முயற்சி செய்யுங்கள்.
 - **உங்கள் level உயர உங்கள் team வாகனத்தை upgrade செய்யுங்கள்.** உயர்ந்த tier-ன் Bomba மற்றும் Polis கார்கள் வேகமானவை மற்றும் கடினமானவை.
 - **போலீஸ் மற்றும் தீ அணைப்பு குழுக்களுக்கான Siren-கள் = ticket இல்லை.** பதிலளிக்கும்போது எப்போதும் உங்கள் siren-ஐ ஆன் செய்யுங்கள், இதனால் நீங்கள் உங்களையே cite செய்து கொள்ள மாட்டீர்கள்.
 - **Traffic lane-களில் park செய்யாதீர்கள்.** விட்டுச் செல்லப்பட்ட சிவில் கார்களை carjack செய்யப்படலாம்; நீங்கள் அதைச் சொந்தமாகக் கொண்டிருந்தால், அது திருடப்படுவதை விரும்பவில்லை என்றால், அமைதியான இடத்தில் park செய்யுங்கள்.

@@ -2,8 +2,8 @@
 title: Kedai
 description: 'Kedai makanan, snek, dan utiliti di seluruh Lebuhraya.'
 lang: ms
-translated_from_hash: 5e14cc5a
-translated_on: '2026-04-21'
+translated_from_hash: 8c2d37cd
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Kedai
@@ -86,6 +86,17 @@ Tempat tumpuan untuk memastikan kereta anda berisi minyak apabila anda tidak dap
 
 Pengalaman pasar raya bersaiz penuh. Anda boleh berjalan di lorong-lorong, mengambil barangan dari rak, dan membayar di kaunter juruwang. Lokasi roleplay yang baik untuk pekerjaan Checkout (pasukan komuniti Malaysians).
 
+**Katalog penuh** (~37 item merentas 6 kategori):
+
+- **Drinks (7)**: Coffee Cookies Frappe, Chocolate Cookies Frappe, Milk Cookies Frappe, Strawberry Frappe, Boba Tea, Coffee, Mineral Water
+- **Food (3)**: Sandwiches, Onigiri, Cheese Cake
+- **Noodles (5)**: Maggi Curry, Maggi Tomyam, Samyang Carbonara, Samyang Cheese, Samyang Ramen
+- **Oden (5)**: Fish Ball, Fish Cake, Full Set, Odeng Fish Cake, Crab
+- **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
+- **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
+
+Seperti kedai lain, KeluargaMart kini percuma — ambil apa yang anda mahu. Pemain pasukan undang-undang (Polis, APJ) disekat daripada interaksi register untuk mengelakkan kelakuan tidak profesional semasa bertugas.
+
 ## Interaksi Food Delivery
 
 Kebanyakan kedai makanan di atas berperanan dwi sebagai lokasi pengambilan untuk pekerjaan **Food Delivery**. Apabila anda bertugas sebagai penunggang Food Delivery, waypoint anda akan menghantar anda ke salah satu kedai ini untuk mengambil pesanan, kemudian keluar kepada pelanggan.
@@ -96,12 +107,12 @@ Lihat [Pekerjaan](/lebuhraya/jobs) untuk aliran penghantaran.
 
 - Berjalan ke arah NPC kedai atau kaunter.
 - Sebuah ProximityPrompt akan muncul — berinteraksi untuk membuka menu kedai.
-- Pilih barang itu; BR akan ditolak daripada baki anda.
+- Pilih barang itu. Dalam build semasa, tiada BR ditolak; item diberikan secara percuma.
 - Barang itu akan muncul dalam inventori anda sebagai tool. Lengkapkannya untuk diguna / dimakan / dipamerkan.
 
 ## Di mana untuk mencarinya
 
-Kedai-kedai ini tersebar di Bandar Seri Putra dan Jersik. Sistem waypoint peta (dalam menu MyPod atau topbar) akan menghalakan anda ke mana-mana kedai yang anda pilih. Lihat [Dunia dan Peta](/lebuhraya/map) untuk susun atur serantau.
+Kedai-kedai ini tersebar di Bandar Seri Putra dan Jersik. Gunakan GPS Phone / sistem waypoint topbar untuk menghalakan anda ke kedai yang dipilih. Lihat [Dunia dan Peta](/lebuhraya/map) untuk susun atur serantau.
 
 ## Langkah seterusnya
 

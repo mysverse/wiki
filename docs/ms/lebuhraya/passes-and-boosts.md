@@ -2,8 +2,8 @@
 title: Pas & Peningkatan
 description: 'Gamepass, peningkatan XP, dan faedah Premium di Lebuhraya.'
 lang: ms
-translated_from_hash: 9eae0f3b
-translated_on: '2026-04-21'
+translated_from_hash: '90144865'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Pas & Peningkatan
@@ -85,11 +85,25 @@ Yang paling ketara:
 - **Team Access Pass** — akses sementara kepada pasukan yang dikunci gamepass
 - **2× Season Pass Boost** — menggandakan perolehan Season Pass XP
 
-## Hujung Minggu Double XP
+## Acara Double XP & Free Trial
 
-Secara berkala, permainan menjalankan acara **Double XP Weekend**. Pengganda XP asas setiap pemain menjadi ×2 untuk tempoh tersebut. Ini adalah tambahan kepada semua yang lain.
+Secara berkala, permainan menjalankan acara **2X XP** berjadual yang dikaitkan dengan cuti budaya Malaysia dan milestone MYSverse. Semasa acara aktif, pengganda XP asas setiap pemain menjadi ×2 — di atas Premium, konvoi, gamepass, dan token boost.
 
-Pantau saluran komuniti MYSverse untuk pengumuman (Rafahia App, Discord, atau pemberitahuan banner dalam permainan).
+Setiap acara 2X juga mengaktifkan **Gamepass Trial**: anda mendapat akses sementara percuma kepada pasukan gamepass premium (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) sepanjang acara. Permainan menunjukkan banner: *"Free Trial Started — Enjoy a free taste test of our premium gamepass teams!"* dan *"Free Trial Ended"* apabila tamat.
+
+Acara lepas termasuk:
+
+- **LebuhRAYA launch** (akhir Mac – awal April)
+- **Post-launch extensions** (akhir April)
+- **WESAK** (Vesak Day, pertengahan Mei)
+- **Season Pass Update** (akhir Mei / awal Jun)
+- **Malaysia Day** (pertengahan September)
+- **Deepavali** (pertengahan Oktober)
+- **New Year's** (akhir Disember hingga awal Januari)
+- **Chinese New Year / CNY** (biasanya akhir Januari hingga awal Mac)
+- **Hari Raya / Raya** (akhir Mac)
+
+Jadual mengikuti kalendar cuti umum Malaysia sebenar, jadi jangkakan kira-kira satu acara setiap 1-2 bulan. Pantau saluran komuniti MYSverse — Rafahia App, Discord, atau pemberitahuan banner dalam permainan — untuk pengumuman.
 
 ## Matematik penindanan
 
@@ -107,7 +121,7 @@ Itu adalah tahap 50 dalam masa yang biasanya mengambil masa untuk mencapai tahap
 
 ## Cabaran dan pencapaian
 
-Sistem **Challenges** (boleh diakses daripada Menu Utama → Challenges) memberi ganjaran kepada anda kerana bermain aktiviti harian permainan. Tiga kategori wujud:
+Sistem **Challenges** (boleh diakses daripada **Main Menu -> Activity**) memberi ganjaran kepada anda kerana bermain aktiviti harian permainan. Tiga kategori wujud:
 
 ### Cabaran harian (set semula setiap 24 jam)
 
@@ -150,7 +164,7 @@ Ditambah 16 lencana pencapaian (berawalan `ach_`): pencapaian penting peringkat 
 Selain tahap anda dan pangkat kerjaya, katalog berasingan **42 unlockables** menjejaki kemajuan kosmetik. Diperoleh melalui season pass, acara, kod, dan pencapaian. Tiga jenis:
 
 - **12 cat kenderaan** — varian warna, kecerunan, dan tekstur (cth. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Pasang daripada menu penyesuaian kenderaan apabila memiliki kereta serasi cat.
-- **17 tajuk** — tag atas kepala kosmetik (cth. "Highway King"). Pilih satu untuk ditunjukkan di atas watak anda.
+- **17 tajuk** — tag atas kepala kosmetik. Pilih satu untuk ditunjukkan di atas watak anda. Roster semasa termasuk: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
 - **13 lencana koleksi** — lencana hiasan (cth. "Pemandu Season 2 Dedicated") ditunjukkan pada profil anda.
 
 Buka kunci yang aktif disimpan setiap pemain — anda mengekalkan segalanya yang anda perolehi merentasi sesi.
@@ -169,6 +183,19 @@ Empat lencana Roblox sebenar dianugerahkan secara automatik apabila anda melepas
 Lencana dianugerahkan secara berkuasa server semasa kaunter jarak anda meningkat — anda tidak perlu menuntutnya.
 
 Pencapaian kemenangan perlumbaan (1, 10, 50, 100 kemenangan; 10, 50 selesai; 10, 100 percubaan) juga dijejaki secara dalaman; ID lencana Roblox untuk ini mungkin ditambah dalam kemas kini akan datang.
+
+## Developer product level segera
+
+Jika anda mahu melangkau grind level, Lebuhraya menawarkan empat **developer products** sekali beli yang boleh dibeli dengan Robux. Ini memberikan lonjakan level tetap serta-merta — berguna jika anda mengejar pasukan berlevel tertentu (contohnya Kesihatan pada Level 200).
+
+| Produk | Kesan |
+|---|---|
+| +1 Level | 1 level, apa sahaja yang anda perlukan untuk melepasi ambang |
+| +10 Levels | 10 level |
+| +25 Levels | 25 level |
+| +50 Levels | 50 level |
+
+Level bonus dihadkan pada max level (500). XP yang diberikan **memintas susunan multiplier** — lompatan level tepat, tanpa kejutan. Cari dalam Shop permainan atau melalui Main Menu.
 
 ## Apa yang perlu dibeli dahulu?
 

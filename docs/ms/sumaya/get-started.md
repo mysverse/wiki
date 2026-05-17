@@ -4,8 +4,8 @@ description: >-
   Mula bermain Sumaya — menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: fc7468fd
-translated_on: '2026-04-30'
+translated_from_hash: 8b3ca151
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -22,6 +22,8 @@ Anda boleh menukar pasukan kemudian. Tiada apa-apa tentang pemilihan pertama yan
 
 Apabila anda bersedia, tekan **Jom** ("let's go" dalam Bahasa Melayu) untuk memasuki dunia permainan.
 
+Semasa memuatkan atau menukar pasukan, Sumaya mungkin menunjukkan lapisan pemuatan hitam dengan fakta Malaysia yang bertukar-tukar. Ia akan pudar secara automatik apabila permainan sudah sedia.
+
 ## Memilih pasukan
 
 Terdapat lima pasukan. Tiga daripadanya (POLIS, BOMBA, Kesihatan) adalah perkhidmatan kecemasan dengan tugas khusus. Dua lagi (Visitors dan Malaysians) membolehkan anda bermain sebagai orang biasa.
@@ -36,7 +38,7 @@ Terdapat lima pasukan. Tiga daripadanya (POLIS, BOMBA, Kesihatan) adalah perkhid
 
 Lihat [Pasukan](/sumaya/teams) untuk maklumat lebih lanjut tentang setiap satu, termasuk alat yang anda mulakan.
 
-**Tidak pasti mana satu hendak dipilih?** Mulakan sebagai **Visitors**. Anda boleh mencuba pekerjaan awam (memancing, mamak, minyak sawit) dengan segera, dan anda boleh beralih kepada pasukan perkhidmatan kecemasan kemudian setelah anda meninjau sekeliling.
+**Tidak pasti mana satu hendak dipilih?** Mulakan sebagai **Visitors**. Anda boleh mencuba pekerjaan awam (memancing, mamak, minyak sawit) atau kerja gig pendek dengan segera, dan anda boleh beralih kepada pasukan perkhidmatan kecemasan kemudian setelah anda meninjau sekeliling.
 
 ## Wang permulaan anda
 
@@ -45,7 +47,7 @@ Setiap pemain baharu bermula dengan:
 - **100 Ringgit** dalam dompet anda
 - **1000 Ringgit** dalam bank anda
 
-Itu sudah memadai untuk menyewa beberapa kenderaan awam atau membeli rumah asas tier-1. Lihat [Ekonomi](/sumaya/economy) untuk maklumat lanjut tentang wang.
+Itu cukup untuk beberapa item kedai dan perbelanjaan asas, tetapi tidak cukup untuk sewaan kereta berbayar atau rumah. Gunakan salah satu kereta permulaan percuma dahulu; perumahan Tier 1 bermula pada **25,000 SR**. Lihat [Ekonomi](/sumaya/economy) untuk maklumat lanjut tentang wang.
 
 ## Kawalan
 
@@ -80,19 +82,21 @@ Buka aplikasi **Quest** pada telefon anda untuk melihat objektif semasa anda. Pa
 
 ### 3. Spawn kenderaan
 
-Berjalan ke mana-mana **kios spawner kenderaan** (cari prompt yang bertaburan di sekitar bandar). Pilih kereta, sewa atau beli, dan pandu pergi. Kebanyakan kenderaan awam permulaan adalah percuma untuk spawn - yang lebih mewah memerlukan Ringgit.
+Berjalan ke mana-mana **kios spawner kenderaan** (cari prompt yang bertaburan di sekitar bandar). Pilih kereta, sewa atau beli, dan pandu pergi. Kereta permulaan percuma ialah **Perosatu Axia** dan **Protan Wira**; selebihnya katalog awam standard memerlukan Ringgit untuk disewa atau dibeli.
 
 Lihat [Kenderaan](/sumaya/vehicles) untuk senarai lengkap dan cara spawner berfungsi.
 
 ### 4. Mulakan pekerjaan awam
 
-Berjalan ke mana-mana **stesen kerjaya** (jeti memancing, gerai mamak, ladang sawit) dan tekan prompt interaksi untuk mendaftar masuk. Anda akan memperoleh Ringgit dan XP semasa anda bekerja. Pekerjaan diterangkan dalam [Gambaran keseluruhan kerjaya](/sumaya/jobs).
+Berjalan ke mana-mana **stesen kerjaya** (jeti memancing, gerai mamak, ladang sawit) dan tekan prompt interaksi untuk mendaftar masuk. Anda juga boleh mengambil kerja gig pendek apabila tersedia, seperti E-Hailing, penghantaran bungkusan, tunda, pelaporan, pemandu pelancong, dan larian bekalan restoran. Anda akan memperoleh Ringgit dan XP semasa anda bekerja. Pekerjaan diterangkan dalam [Gambaran keseluruhan kerjaya](/sumaya/jobs).
 
 Jika anda memilih pasukan perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan), anda tidak perlu mendaftar masuk - anda bertugas sebaik sahaja anda spawn.
 
 ### 5. Terokai
 
 Berjalan, memandu, atau terbang sekeliling. Terdapat peta, mercu tanda, kedai, hospital, balai polis, balai bomba, pantai, dan banyak kawasan kejiranan. Minimap (kanan atas skrin anda) menunjukkan apa yang ada di sekeliling anda.
+
+Sesetengah prop dunia boleh digunakan walaupun bukan sebahagian daripada quest. Pad perjalanan kawasan memancing boleh memindahkan anda antara darat dan pontun, dan sesetengah pembuat kopi membolehkan anda membancuh dan mengambil kopi.
 
 ## Gambaran keseluruhan HUD
 

@@ -136,5 +136,5 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 
 ## What next?
 
-- [Get started](/sumaya/get-started) if you're new.
-- Any of the specific sections — use the sidebar for the full table of contents.
+- [Getting Started](/) if you're new.
+- Any of the specific sections (see the [README](/) for the full TOC).

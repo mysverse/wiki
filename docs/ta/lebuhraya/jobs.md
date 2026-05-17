@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் ஒவ்வொரு வேலை — நிறுவனம் வாரியாக வகைப்படுத்தப்பட்டது
   (Pengangkutan போன்றவை) சம்பள விகிதங்களுடன்.
 lang: ta
-translated_from_hash: c5df14d2
-translated_on: '2026-04-21'
+translated_from_hash: c6e58d53
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # வேலைகள்
@@ -13,6 +13,25 @@ needs_review: true
 Lebuhraya-வில் ஒவ்வொரு வேலையும் ஒரு அணியைச் சேர்ந்தது ([Teams and Careers](/lebuhraya/teams) பார்க்கவும்). ஒவ்வொரு வேலையிலும் நீங்கள் உண்மையில் **என்ன செய்கிறீர்கள்** என்பதற்கான குறிப்பாக இந்தப் பக்கம் அமைகிறது — அதை எப்படித் தொடங்குவது, விளையாட்டுச் சுழற்சி, வழக்கமான வெகுமதிகள், மற்றும் வேலை நடக்கும் இடம்.
 
 வேலைகள் அவற்றை ஒருங்கிணைக்கும் **நிறுவனத்தின்** அடிப்படையில் தொகுக்கப்பட்டுள்ளன.
+
+## வேலை தொடங்குவதற்கு முன்
+
+பெரும்பாலான jobs ஒரே basic pattern பின்பற்றும்:
+
+1. **Main Menu -> Teams**-இல் இருந்து சரியான team-ல் join செய்யவும்.
+2. பொருத்தமான team அல்லது civilian vehicle spawn செய்யவும்.
+3. Job tool வழங்கினால் equip செய்யவும் அல்லது job UI திறக்கவும்.
+4. Waypoint, prompt, அல்லது task panel-ஐ பின்பற்றவும்.
+5. Task முடித்து XP, job progress, missions/challenges progress, சில நேரங்களில் BR பெறவும்.
+
+பொதுவான blockers:
+
+- **Wrong team**: prompt தோன்றும் ஆனால் start செய்ய மறுக்கும், அல்லது team vehicle missing.
+- **Wrong vehicle/spawner**: team vehicles matching spawners-ல் மட்டுமே தோன்றும்.
+- **Task already active**: மற்ற task தொடங்குவதற்கு முன் current task finish அல்லது cancel செய்யவும்.
+- **Private server/test server**: practice-க்கு பயனுள்ளது, ஆனால் progression save ஆகாமல் இருக்கலாம்.
+
+Missions/challenges track செய்ய **Main Menu -> Activity**, branch tier progress பார்க்க **Main Menu -> More -> Jobs** திறக்கவும்.
 
 ---
 
@@ -32,7 +51,9 @@ Lebuhraya-வில் ஒவ்வொரு வேலையும் ஒரு 
 
 **வெகுமதிகள்**:
 - **XP** தூரத்திற்கு ஏற்ப அளக்கப்படுகிறது: ஒரு stud-க்கு சுமார் **0.11 முதல் 0.13 XP** வரை. 4000 stud-கள் பயணத்திற்கு 440–520 XP கிடைக்கும்.
-- **BR** முடிக்கப்பட்ட ஒவ்வொரு பயணத்திற்கும் வழங்கப்படுகிறது; தூரத்திற்கு ஏற்ப அளக்கப்படுகிறது.
+- BR payments planned (economy audit படி call path உள்ளது ஆனால் user-visible இல்லை).
+
+**Routes**: Pickups மற்றும் dropoffs தற்போது city-யில் உள்ள 4 pickup points மற்றும் 4 dropoff points-இல் இருந்து எடுக்கப்படுகின்றன — மேலும் சேரும் வரை routes repeat ஆகும்.
 
 **வாகனம்**: எந்த வாகனமும் வேலை செய்யும், ஆனால் சிறந்த வருமானத்திற்கு நோக்கம் கொண்டு கட்டப்பட்ட டாக்ஸியைப் பயன்படுத்தவும் — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. உயர் தர Taxi Driver பதவிகள் சிறந்த மாதிரிகளை (மற்றும் அதிக பயணிகள் கொள்ளளவை) திறக்கின்றன.
 
@@ -40,7 +61,7 @@ Lebuhraya-வில் ஒவ்வொரு வேலையும் ஒரு 
 
 **திறக்க**: இலவசம் — இது இரண்டு இலவச அணிகளில் ஒன்று.
 
-**எப்படித் தொடங்குவது**: Bus Driver அணியில் சேரவும். MyPod மூலம் ஒரு பேருந்தை spawn செய்து, Bandar Seri Putra-வில் உள்ள **Depoh Bas**-ல் இருந்து ஒரு வழித்தடத்தைத் தொடங்கவும்.
+**எப்படித் தொடங்குவது**: Bus Driver அணியில் சேரவும். Bus Driver / bus vehicle spawner பயன்படுத்தி, Bandar Seri Putra-வில் உள்ள **Depoh Bas**-ல் இருந்து ஒரு route தொடங்கவும்.
 
 **நீங்கள் என்ன செய்கிறீர்கள்**: நிலையான பேருந்து வழித்தடங்களில் ஓட்டி, NPC பயணிகளை ஏற்றி இறக்கும் நியமிக்கப்பட்ட பேருந்து நிறுத்தங்களில் நிற்கவும். முழு வழித்தடங்கள் XP வழங்குகின்றன (BR கொடுப்பனவுகள் திட்டமிடப்பட்டுள்ளன ஆனால் இன்னும் இணைக்கப்படவில்லை — *Economy and XP* பார்க்கவும்).
 
@@ -79,7 +100,7 @@ Lebuhraya-வில் ஒவ்வொரு வேலையும் ஒரு 
 3. உங்கள் waypoint-ல் உள்ள வாடிக்கையாளர் இடத்திற்கு ஓட்டிச் செல்லுங்கள்.
 4. ஆர்டரை ஒப்படைக்க வாடிக்கையாளர் NPC-யுடன் தொடர்பு கொள்ளுங்கள்.
 
-**வெகுமதிகள்**: ஒரு டெலிவரிக்கு **250 XP நிலையானது**, மற்றும் BR.
+**வெகுமதிகள்**: ஒரு delivery-க்கு **250 XP flat**. பழைய உரை BR mention செய்யலாம், ஆனால் active payout path தற்போது XP-க்கு மட்டுமே lands; BR-facing amounts இந்த job-க்கான BR earn path enable ஆகும் வரை planned economy work என்று கருதவும்.
 
 **வாகனம்**: எதுவும். வளைந்த தெருக்களுக்கு ஒரு மோட்டார்சைக்கிள் (Handai EX5) பெரும்பாலும் வேகமானது.
 
@@ -117,7 +138,7 @@ BR பொருளாதாரம் நேரடியாகக் கிடை
 
 **வெகுமதிகள்**: எரிப்பானில் செலுத்தப்படுகிறது, சேகரிக்கப்பட்ட குப்பையின் அளவுக்கு விகிதாசாரமாக. அதிக நிறுத்தங்களுடன் கூடிய நீண்ட வழித்தடங்கள் அதிக ஊதியம் வழங்குகின்றன.
 
-**வாகனம்**: குப்பை டிரக் (அணி-வழங்கப்பட்டது, MyPod மூலம் spawn செய்யத்தக்கது).
+**வாகனம்**: Waste Disposal team vehicle spawner-இல் இருந்து rubbish truck.
 
 **ஊதியம் பற்றிய குறிப்பு**: "Pay" அறிவிப்பு ஒரு விளையாட்டு உலகில் உள்ள தொகையைக் காட்டுகிறது, ஆனால் BR பொருளாதாரம் இன்னும் செயலில் இல்லை — உங்கள் கணக்கில் உண்மையாக விழும் கொடுப்பனவு XP. பொருளாதாரம் செயலுக்கு வந்தவுடன் அந்தத் தொகை உண்மையான BR கிரெடிட்டாக மாறும்.
 
@@ -156,18 +177,45 @@ BR பொருளாதாரம் நேரடியாகக் கிடை
 5. நோயாளியை ஒரு ஸ்ட்ரெச்சரில் ஏற்றி, பின்னர் உங்கள் ஆம்புலன்ஸில் ஏற்றவும் (ஏற்ற ஆம்புலன்ஸிலிருந்து 25 stud-களுக்குள் இருக்க வேண்டும்).
 6. **Klinik Kesihatan Bandar Seri Putra**-க்கோ அல்லது மற்றொரு மருத்துவமனை மண்டலத்திற்கோ கொண்டு செல்லவும்.
 
-**இயக்கவியல்**:
-- ஒவ்வொரு நோயாளிக்கும் 6 படி சிகிச்சை செயல்முறை.
-- நோயாளிகளுக்கு **உயிர்வாழ்வு ஸ்கோர்** உள்ளது, இது நேரத்துடன் சிதைகிறது (இயல்பாக 30 வினாடிகளுக்கு 5, காய தீவிரத்திற்கு ஏற்ப அளக்கப்படுகிறது). முடிக்கப்பட்ட ஒவ்வொரு படியும் உயிர்வாழ்வை 5 அளவு அதிகரிக்கிறது.
-- ஒரு நோயாளி Survived, Critical அல்லது Dead ஆக இருக்கலாம் — இறுதி நிலை உங்கள் XP பெருக்கியைத் தீர்மானிக்கிறது.
-- NPC நோயாளிகளின் நடத்தை மாறுபடும் — சிலர் ஒத்துழைக்கிறார்கள், சிலர் ஆக்ரோஷமானவர்கள். ஆக்ரோஷமான நோயாளிகள் வேகமாகச் சிதைகிறார்கள்.
-- நோயாளிகளுக்கு இடையே 5 வினாடி cooldown. 5 நிமிடங்களுக்குள் சிகிச்சை அளிக்கப்படாவிட்டால் நோயாளிகள் நேரம் முடிவடையும்.
+**Injury types** (மொத்தம் 12, ஒவ்வொன்றும் specific treatment sequence தேவை):
+
+| Injury | Treatment steps | Base XP |
+|---|---|---|
+| Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
+| Broken Arm / Broken Leg (left or right) | Apply Splint | 75 |
+| Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
+| Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
+| Unconscious | Stabilise Patient → Monitor Vitals | 90 |
+| Low Vital Signs | Monitor Vitals → Stabilise Patient | 95 |
+| Shock | Stabilise Patient → Bandage | 80 |
+| Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
+| Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
+
+Treatment actions ஒவ்வொன்றும் **2-5 seconds** எடுக்கும். Patient dialogue clues-ஐ வாசிக்கவும் — *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* போன்ற Malaysian-flavored lines பிரச்சினையை hint செய்கின்றன.
+
+**Patient behaviour types** (randomised):
+- **Cooperative (60%)** — normal, thankful dialogue
+- **Panicked (25%)** — dramatic ("I thought I was going to die!"); இருந்தும் cooperates
+- **Aggressive (15%)** — hostile ("Don't touch me!", "Get away!"); முதல் correct treatment மூலம் calm செய்யும் வரை survival **2× faster** decay ஆகும்
+
+**Full flow** மற்றும் perfect case XP:
+
+| Step | XP |
+|---|---|
+| Assessment | 25 |
+| Injury treatment (all correct) | 50-100 per injury |
+| Stabilisation bonus | +50 |
+| Place on stretcher | +25 |
+| Load into ambulance | — |
+| Admit to hospital | +100 |
+| Request evacuation (alternate — chopper) | +40 |
+| Wrong treatment (penalty) | -10 (per mistake) |
+
+Perfect Traumatic Brain Injury case = 25 + 100 + 50 + 25 + 100 = **300 XP** (flat Assessment reward தவிர எந்த multipliers இருந்தாலும் சேர்க்கப்படும்).
 
 **Tool-கள்**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
 
 **வாகனம்**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
-
-**வெகுமதிகள்**: ஒவ்வொரு சிகிச்சைப் படிக்கும் XP மற்றும் போக்குவரத்து போனஸ், உயிர்வாழ்வு முடிவால் பெருக்கப்படுகிறது.
 
 ---
 
@@ -306,24 +354,26 @@ Polis Trafik வீரர்களுக்கு கண்டறியப்ப
 3. உள்ளே இழுக்க கம்பியை அசைக்கவும் (திரையில் வரும் prompt-களைப் பின்பற்றவும்).
 4. BR-க்கு கடைகளில் மீனை விற்கவும்.
 
-**நீங்கள் என்ன பிடிக்கலாம்**: தற்போதைய மீன் பட்டியலில் 10 உள்ளீடுகள் உள்ளன, வாய்ப்பின் அடிப்படையில் தோராயமாக எடையிடப்பட்டது:
+**நீங்கள் என்ன பிடிக்கலாம்**: தற்போதைய fish roster-ல் 10 entries உள்ளன, rarity அடிப்படையில் weighted, விற்கும்போது வேறு XP தரும்:
 
-| பிடி | அரிதான தன்மை | குறிப்புகள் |
+| Catch | Chance (weight) | XP on sell |
 |---|---|---|
-| Torpedo Scad | வாய்ப்பு 60 | மிகவும் பொதுவான உண்மையான மீன் |
-| Indian Mackerel | வாய்ப்பு 55 | மிகவும் பொதுவானது |
-| Snapper | வாய்ப்பு 45 | பொதுவானது |
-| Pomfret | வாய்ப்பு 45 | பொதுவானது |
-| Siakap (sea bass) | வாய்ப்பு 40 | பொதுவானது |
-| Red Snapper | வாய்ப்பு 35 | அசாதாரணமானது |
-| Tin Can | வாய்ப்பு 20 | குப்பை — உள்ளே வருகிறது ஆனால் வெகுமதி இல்லை |
-| Boot | வாய்ப்பு 20 | குப்பை — உள்ளே வருகிறது ஆனால் வெகுமதி இல்லை |
-| Yifish | **வாய்ப்பு 0.5** | **மிகவும் அரிதானது** — வீரர்களிடையே ஒரு மீன்பிடிப் புராணம் |
-| meow | — | தனி easter egg, மிகவும் அரிதானது |
+| Torpedo Scad | 60 | 8 |
+| Indian Mackerel | 55 | 15 |
+| Pomfret | 45 | 22 |
+| Snapper | 45 | 27 |
+| Siakap (sea bass) | 40 | 32 |
+| Red Snapper | 35 | 45 |
+| Tin Can | 20 | 0 (junk) |
+| Boot | 20 | 0 (junk) |
+| **Yifish** | **0.5** | **696** (jackpot — ~87× Torpedo Scad!) |
+| meow | — | separate easter egg, very rare, unique reward |
+
+**Yifish என்பது fisherman-ன் white whale.** அதன் 0.5% catch weight, பொதுவான fish-ஐ விட கிட்டத்தட்ட 100× அரிதானதாக ஆக்குகிறது, ஆனால் ஒரு Yifish sell சுமார் 700 XP தரும் — இரண்டு Food Delivery runs-ஐ விட அதிகம். பொறுமை இருந்தால் worth casting.
 
 **வீசும் தூரம்**: நீங்கள் நிற்கும் இடத்திலிருந்து 80 stud-கள் வரை.
 
-**விற்பனை**: மீன்களை fishing-port கடை மண்டலங்களில் விற்கலாம். தற்போதைய வெகுமதி **XP மட்டுமே** — தற்போதைய Sell module-ல் BR வெகுமதி பாதை செயல்படுத்தப்படவில்லை. அரிதான பிடிகள் பொதுவான மீன்களை விட பெரிய XP கொடுப்பனவுகளை வழங்குகின்றன.
+**விற்பனை**: Fish fishing-port shop zones-ல் sell ஆகும். Reward **XP மட்டுமே** — BR reward path unimplemented (ஒவ்வொரு fish-க்கும் reward config-ல் `BR=0`). Rare catches common fish-ஐ விட மிகவும் அதிக XP தரும்.
 
 ### Checkout
 

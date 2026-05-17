@@ -76,6 +76,8 @@ Respond to passenger bookings, drive them where they want to go, collect the far
 - **Taxi Driver gamepass** (150 R$) — cheapest way in.
 - **OR** join a **Taxi Services** group (SSM-registered).
 
+If you buy the gamepass mid-session, the system **automatically detects the purchase** (no rejoin needed) and the Taxi Services team appears in your team menu within seconds.
+
 Gamepass holders can also switch to Taxi Services team from the menu.
 
 ### The flow

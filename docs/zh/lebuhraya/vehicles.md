@@ -2,8 +2,8 @@
 title: 车辆
 description: Lebuhraya 全部 127 款车型 — 生成、燃料、撞车机制和个性化定制。
 lang: zh
-translated_from_hash: e04aa18c
-translated_on: '2026-04-21'
+translated_from_hash: da3dc13b
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 车辆
@@ -12,12 +12,35 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ## 生成车辆
 
-打开 **MyPod** 菜单(车辆生成器)。
+走到世界中的实体 **vehicle spawner** 并使用它的 prompt。这些是放置在地图各处的 spawner pads/markers，包括 Basic/Civ、Bike、Premium、Special 和队伍专属 spawner。
 
-- **桌面版**:点击顶栏的 MyPod 图标
-- **移动版**:点击顶部区域的图标
+> **MyPod 不是车辆 spawner。** MyPod 是顶栏音乐播放器。它可以播放音乐，并在你坐进车辆时 auto-play，但不会 spawn 或 despawn 车辆。
 
-浏览列表,选择一辆车,然后点击 **Spawn**。车辆会出现在你面前,车主名已经登记为你的名字。要驾驶它,走近车辆并按下 **F**(键盘)、**X**(手柄),或点击 **Drive**(移动版)。
+浏览列表，选择车辆并点击 **Spawn**。车辆会出现在可用 spawner pad 上，并已登记到你名下。要驾驶它，走近车辆并按下 **F**(键盘)、**X**(手柄)，或点击 **Drive**(移动版)。
+
+### Spawner 屏幕显示什么
+
+新版 spawner 有三个主要区域：
+
+- 左上角的 **Search and filter**，当你的车辆列表变长时很有用。
+- 左侧的 **Vehicle cards**。锁定卡片会显示 level/tier 信息。
+- 右侧的 **Info panel**，包含车辆名称、说明、图片、锁定原因和 **Spawn** 按钮。
+
+点击 **Spawn** 后，部分 spawner 会要求你选择开放 pad 和 paint/colour 选项。如果 pad 被占用，请选择其他 pad 或等其他车辆移动。
+
+### Spawner 类型
+
+不同实体 spawner 会显示不同车辆类别：
+
+| Spawner | 常见内容 |
+|---|---|
+| **Basic / Civ** | 入门和标准平民车 |
+| **Bike** | 摩托车和 scooter |
+| **Premium / Prem** | Premium 或更高 level 平民车 |
+| **Special** | Code/event/special 车辆 |
+| **Team spawners** | 当前队伍车辆，例如 Taxi、Bomba、KKN、Police、Logistics |
+
+如果你在 job team 上，civilian spawners 可能会用 warning 阻挡访问。请切回 Visitors 或使用合适的 team/spawner 类型。
 
 ### 车辆归属
 
@@ -25,7 +48,7 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 - 其他玩家 **无法进入你的驾驶座**,除非你解锁它。
 - 乘客随时可以进入乘客座位。
 - 当你离开 server 时,你的车辆会消失。
-- 你可以通过 MyPod 菜单取消生成(despawn)自己的车辆。
+- 每位玩家同时只能有一辆 active owned vehicle。从车辆 spawner 生成新车会清理你之前的车辆。
 
 ## 在 Level 1 时能驾驶什么?
 
@@ -45,6 +68,15 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 部分团队专属车辆没有公开价格 — 它们会随着你在相应职业分支晋级而解锁。大约 **117 辆可生成车辆中有 55 辆** 被职业锁定(你需要在合适的等级加入合适的团队)。
 
 大约 **28 辆车** 通过车辆生成器中的 **Dealership** 视图销售 — 这些是从 Myvi 到 Mustang 的标准民用车选择。
+
+### 锁定卡片含义
+
+| 锁定文字 | 含义 |
+|---|---|
+| **Level X** | 先达到该玩家 level |
+| **Tier X** | 提升对应 career branch rank |
+| **Vehicle locked** | 你没有拥有该特殊/gamepass/code 车辆 |
+| 从列表缺失 | 错误 spawner type、错误队伍、隐藏车辆或未满足要求 |
 
 ## 车辆类别
 
@@ -97,8 +129,29 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 如果油箱降到零,引擎会熄火。选项:
 
 1. 在 **Jerrycan Shop** 购买一个 JerryCan,到加油站加满,然后手动加油。
-2. 取消生成该车,并从 MyPod 生成一辆新车。
+2. 回到实体车辆 spawner 并生成一辆替换车辆。
 3. 请 KEMRonda 玩家拖车。
+
+## Spawner 疑难排解
+
+### 我看到 "You cannot access this spawner while working"
+
+你在 job team 上并使用 civilian spawner。切换到 **Visitors** 或使用你的 team spawner。
+
+### 我看到 "You must be on the X team"
+
+该 spawner 是队伍专属。请先加入指定队伍，包括任何 level、gamepass 或 group requirement。
+
+### Spawner 打开但车辆不生成
+
+- 选择其他 pad；第一个 pad 可能被占用。
+- 检查卡片显示的是 **SPAWN**，不是 **LOCKED**。
+- 如果 prompt 消失，请靠近 spawner。
+- 如果 UI 卡在其他菜单后面，用 Esc/Backspace 关闭所有菜单并重新打开 spawner。
+
+### 车辆太亮或灯卡住打开
+
+某些车辆会根据时间和车辆类型，在 spawn 时打开 headlights/ELS 或强光效果。请从车辆控制中关灯，或在 scripted state 卡住时 respawn 车辆。
 
 ## 撞车与维修
 
@@ -113,9 +166,10 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ### 你的选择
 
-- **开进维修区**。地图上分布着 **10 个维修区** — 寻找绿色的维修标志。停在区内会逐渐恢复你的车辆(大约每 5 秒恢复 10% 血量)。进入时屏幕上会出现确认提示。
+- **开进任何 petrol station 的维修区。** 共有 **10 个维修区** — 成对放在 PETROMAS Northbound、PETROMAS Southbound、Radtrol Bandar Seri Putra、Plaza Tol Jersik 和 RnR Sungai Merbang。停在区内会逐渐恢复你的车辆(大约每 5 秒恢复 10% 血量)。进入时屏幕上会出现确认提示。
+- **使用 Toolkit** 进行野外维修。Jerrycan Shop 的 Toolkit 每次使用可恢复约 **25% health** — 当你被困且到不了维修站时很有用。
 - **叫拖车**。KEMRonda 玩家带着拖车可以把你拖到车间。
-- **取消生成并重新生成**。从 MyPod 菜单可以取消生成坏车并生成一辆新车。如果你赶时间,这是最快的方法。
+- **生成替换车辆**。如果你能到达车辆 spawner，生成另一辆车会清理你之前拥有的车辆，并给你一辆新车。
 
 如果你是新玩家,觉得撞车很可怕,第一次发生时会看到 **Crash Tutorial** — 那是你的游戏内入门指南。小心驾驶,使用手刹(**Space**),对马来西亚高速公路的车速保持警惕。
 
@@ -141,13 +195,31 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ## 车牌
 
-车辆生成时,其登记车牌会根据生成器所在的区域分配,遵循马来西亚系统:
+车辆生成时，登记车牌会根据 spawner 所在区域分配，并遵循真实的马来西亚州属前缀系统：
 
-- **Bandar Seri Putra** 的生成器发放 **SL(雪兰莪)** 车牌 — B% 前缀。
-- **Kampung Merbang** 和 **Jersik** 的生成器发放 **NS(森美兰)** 车牌 — N% 前缀。
-- 高速公路中部(区域之间)的生成器每次生成时会随机 **50/50 在 SL 和 NS 之间选择**。
+- **Bandar Seri Putra** spawner 发放 **Selangor plates** — `B%` 前缀（例如 BJH 1234）。
+- **Kampung Merbang** 和 **Jersik** spawner 发放 **Negeri Sembilan plates** — `N%` 前缀。
+- 高速公路中部（区域之间）的 spawner 每次生成时随机 **50/50 在 B 和 N 之间选择**。
 
 所以你刚在休息站路边生成的车,这次可能是 B 牌,下次则是 N 牌 — 这是马来西亚玩家立即会注意到的小细节。
+
+**允许字符**为 `ABCDEFGHJKLMNPQRSTUVWXY` — I、O、V、Z 被排除（I/O 避免与 1/0 混淆，V 和 Z 留作特殊/军事用途）。
+
+### 军用车牌（稀有 — 特殊车辆）
+
+部分 military / armed forces 车辆使用真实马来西亚 service plates：
+
+| 服务 | 车牌前缀 |
+|---|---|
+| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
+| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PMS | `PMS` |
+
+你会在 TUDM escort convoys、event parades 和 staff-spawned military vehicles 上看到这些，不是普通玩家车。
 
 ## 紧急警灯(ELS)
 

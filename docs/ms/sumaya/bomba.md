@@ -4,8 +4,8 @@ description: >-
   Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: 7eb0c900
-translated_on: '2026-04-30'
+translated_from_hash: c3c34412
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -50,6 +50,8 @@ Server memilih satu secara rawak setiap insiden. Kad pada HUD tugasan anda memap
 
 Setiap blok api memerlukan kira-kira **10 pukulan** daripada hose sebelum padam sepenuhnya. Hose mencapai sehingga **256 studs** - cukup untuk kebanyakan insiden, dan membolehkan anda berdiri pada jarak yang selamat.
 
+Jika anda mati, tukar pasukan, keluar dari server, kehilangan outlet sumber, atau tool hose dimusnahkan, sambungan hose akan membersihkan dirinya secara automatik. Jika hose hilang selepas salah satu reset itu, ambil yang baharu daripada hydrant atau outlet trak.
+
 ### Hydrant
 
 Hydrant ditetapkan di sekitar peta di dalam `Workspace.HydrantConnections`. Peta semasa mempunyai segelintir model hydrant — tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekitarnya. Setiap hydrant menyokong dua salur hose, jadi dua pegawai bomba boleh berkongsi satu.
@@ -91,7 +93,7 @@ Lihat [Vehicles](/sumaya/vehicles) untuk cara memunculkannya.
 
 ## Pangkat
 
-Bomba mempunyai 13 pangkat, berdasarkan Jabatan Bomba dan Penyelamat sebenar MYSverse (Bomba MYSverse). Tajuk anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
+Bomba mempunyai 13 pangkat, berdasarkan Bomba MYSverse sebenar MYSverse (Bomba MYSverse). Tajuk anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
 | Tahap | Pangkat |
 |-------|------|

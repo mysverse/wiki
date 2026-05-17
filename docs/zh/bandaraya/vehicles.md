@@ -2,8 +2,8 @@
 title: 车辆
 description: 在 Bandaraya 生成、驾驶、加油以及购买或租赁车辆的完整指南。
 lang: zh
-translated_from_hash: 24d3e35a
-translated_on: '2026-04-21'
+translated_from_hash: 92a4a5da
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 车辆
@@ -28,7 +28,7 @@ Bandaraya 拥有 200 多辆车,涵盖 25 多个组织 — POLIS 多用途车和�
 2. 按 **E**(或接近按钮)。
 3. 一个带有每辆可用车辆 3D 预览的面板会打开。
 4. 使用 **A / D / 方向键**或导航按钮浏览。
-5. **Space / Enter** 生成。**Escape** 关闭。
+5. **Space / Enter** 生成。**Escape** 关闭。**A / D** 键 (或方向键) 用于浏览车辆列表，键盘快捷键会作为提示行显示在导航行下方。
 6. 你的车辆会出现在生成台。坐在驾驶座上以驾驶。
 
 如果生成器不让你通过,你可能不符合团队要求。参见 [团队](/bandaraya/teams)。

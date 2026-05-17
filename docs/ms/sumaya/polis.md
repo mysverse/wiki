@@ -2,8 +2,8 @@
 title: Polis
 description: 'Bermain sebagai POLIS di Sumaya — rondaan, tangkapan, pangkat, dan peralatan.'
 lang: ms
-translated_from_hash: 6c9358fc
-translated_on: '2026-04-30'
+translated_from_hash: '26236145'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -26,9 +26,18 @@ Pilih **POLIS** pada menu utama. Kit permulaan anda mengandungi 5 alat:
 
 Beberapa pakaian dan peralatan akan dibuka apabila anda menaikkan tahap sektor POLIS (Duty Belt + Beret pada tahap 1, Reflective Vest pada 10, Reflective Coat pada 20). Lihat [Progression](/sumaya/progression) untuk jadual penuh item kerjaya merentasi ketiga-tiga perkhidmatan kecemasan.
 
-## Item tempat kejadian lalu lintas/jenayah yang boleh diletakkan (dirizab / tidak diedarkan)
+## Item tempat kejadian lalu lintas/jenayah yang boleh diletakkan dan pengkhususan
 
-Permainan ini mempunyai **5 alat boleh letak** yang ditakrifkan (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — setiap satu mempunyai pengendali penempatan yang berfungsi dan kaunter `PlaceableItemsLeft`. Walau bagaimanapun, **ia tidak diberikan kepada pemain POLIS pada masa ini** oleh mana-mana loadout pasukan, NPC, kedai, atau pembukaan kunci. Model dan skrip wujud tetapi laluan pengedaran tidak disambungkan dalam build langsung, jadi anda tidak akan menemuinya dalam inventori anda dalam permainan biasa. Anggaplah ia dirizab untuk kemas kini akan datang.
+Permainan ini mempunyai **5 alat boleh letak** yang ditakrifkan (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — setiap satu mempunyai pengendali penempatan yang berfungsi dan kaunter `PlaceableItemsLeft`. Loadout POLIS biasa masih tidak memberikannya secara automatik.
+
+Dua pengkhususan POLIS akan datang kini wujud sebagai placeholder backend/kedai:
+
+| Pengkhususan | Status |
+|--------------|--------|
+| **Traffic POLIS Role** | Coming Soon. Laluan dev/ujian boleh memberikan radar + item kawalan jalan yang boleh diletakkan. |
+| **Unmarked POLIS Role** | Coming Soon. Laluan dev/ujian boleh memberikan Concealed Badge + Plate Finder. |
+
+Ini bukan pasukan berasingan dalam pemilihan pasukan. Ia bertujuan berfungsi ketika anda berada dalam pasukan POLIS biasa.
 
 Pergi ke balai polis untuk kenderaan, atau ronda di jalanan dan perhatikan suspek yang dikehendaki pada aplikasi MDT (Mobile Data Terminal) anda.
 
@@ -246,7 +255,7 @@ Jika anda mempunyai **siren active** kenderaan Polis anda, anda tidak boleh disa
 - **Jangan terlepas bonus pencapaian.** Setiap 5 tangkapan = +200 Ringgit. Rancang syif anda untuk mencapai 5, 10, 15.
 - **Tangkapan 5-star adalah besar.** Satu tangkapan 5-star = 400 XP + 1200 Ringgit. Ia lebih sukar untuk dibuat tetapi berbaloi untuk dinanti.
 - **Siren = tiada saman.** Hidupkannya apabila anda memandu ke panggilan - jika tidak memandu laju anda sendiri boleh menyebabkan anda mendapat saman, secara memalukan.
-- **Jangan jadi orang yang dikehendaki sendiri.** Melakukan jenayah sebagai POLIS dirancang untuk auto-menurunkan pangkat anda dari pasukan, tetapi pendengar itu tidak disambungkan dalam build semasa - anda kekal pada POLIS. Jangan harap permainan menukar anda kembali kepada awam; tinggalkan pasukan terlebih dahulu jika anda mahu bermain sebagai penjenayah. (Praktiknya: POLIS dilarang dari mod pasif, jadi melakukan jenayah semasa bertugas amat berisiko.)
+- **Jangan jadi orang yang dikehendaki sendiri.** Jika anda melepasi 1-star wanted sebagai POLIS, listener demotion langsung mengeluarkan anda daripada pasukan kecemasan dan despawn kenderaan kecemasan anda. Tinggalkan pasukan terlebih dahulu jika anda mahu bermain sebagai penjenayah.
 - **XP bantu kebakaran hanya untuk Kesihatan.** Berlawanan dengan apa yang kelihatan intuitif, POLIS TIDAK memperoleh XP daripada insiden kebakaran berdekatan - permainan menyemak `JobType == "EMS"`, dan POLIS mempunyai `JobType = "Law"`. Hanya pemain Kesihatan mendapat manfaat 10 player XP per blok daripada berdiri dalam 512 studs daripada kebakaran.
 
 ## Apa seterusnya?

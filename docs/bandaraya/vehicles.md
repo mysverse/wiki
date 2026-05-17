@@ -25,7 +25,7 @@ Each team has its own set of spawners. You can only use the ones your team is al
 2. Press **E** (or the proximity button).
 3. A panel with a 3-D preview of each available vehicle opens.
 4. Browse with **A / D / arrow keys** or the nav buttons.
-5. **Space / Enter** to spawn. **Escape** to close.
+5. **Space / Enter** to spawn. **Escape** to close. The **A / D** keys (or arrow keys) navigate the vehicle list, with the keyboard shortcuts shown as a hint line below the nav row.
 6. Your vehicle appears at the spawn pad. Sit in the driver seat to drive.
 
 If the spawner isn't letting you through, you probably don't meet the team requirements. See [Teams](/bandaraya/teams).

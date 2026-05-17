@@ -2,8 +2,8 @@
 title: Jenayah & Undang-Undang
 description: 'Rompakan kereta, mencopet, bintang dicari, dan penjara di Sumaya.'
 lang: ms
-translated_from_hash: b576d4fe
-translated_on: '2026-04-30'
+translated_from_hash: e44a4fb1
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -12,7 +12,7 @@ needs_review: true
 
 Sumaya membenarkan anda bermain di pihak penjenayah jika anda mahu. Halaman ini meliputi tiga jenayah utama yang tersedia untuk pemain, cara sistem offence points dan wanted star berfungsi, dan apa yang berlaku jika anda ditangkap.
 
-**Perhatian:** Permainan ini diatur untuk auto-demote pemain perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan) apabila mereka melakukan jenayah, tetapi listener untuk peristiwa demotion itu kini tidak disambungkan dalam build live. Pada praktiknya, seorang polis atau ahli bomba yang melakukan carjacking terhadap seseorang masih kekal dalam pasukannya - auto-demote sebenarnya tidak menyingkirkan anda. Walaupun begitu, pegawai yang sedang bertugas dan memegang alat jenayah akan secara automatik keluar dari passive mode, dan pasukan Polis tetap tidak boleh menggunakan passive langsung, jadi melakukan jenayah semasa bertugas adalah tidak praktikal dan tidak sesuai untuk roleplay. Tukar ke Visitors atau Malaysians dahulu jika anda ingin menjadi penjenayah.
+**Perhatian:** Pemain perkhidmatan kecemasan (POLIS, BOMBA, Kesihatan) auto-demote apabila mereka masuk ke 1-star wanted. Sistem ini membuang kenderaan kecemasan anda dan menukar anda ke Malaysians jika layak, jika tidak ke Visitors. Pegawai yang sedang bertugas dan memegang alat jenayah juga keluar daripada passive mode secara automatik, dan pasukan Polis tidak boleh menggunakan passive langsung. Tukar ke Visitors atau Malaysians dahulu jika anda mahu bermain sebagai penjenayah.
 
 ## Sistem offence
 

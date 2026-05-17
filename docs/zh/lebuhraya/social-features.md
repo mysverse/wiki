@@ -2,8 +2,8 @@
 title: 社交功能
 description: Lebuhraya 的车队、999 紧急呼叫及游戏内手机功能。
 lang: zh
-translated_from_hash: cdf9833b
-translated_on: '2026-04-21'
+translated_from_hash: f4d91280
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 社交功能
@@ -100,6 +100,29 @@ Lebuhraya 的紧急服务由玩家主导。任何玩家都可以拨打 999;紧�
 
 随着 MYSverse 平台增添新功能,未来可能会出现更多手机应用。
 
+### 手机提示
+
+- 当你需要在世界中保持行动同时执行快速操作时，使用 Phone。
+- GPS waypoint 是在没有 staff-only fast travel 的情况下到达 POI 的最安全方式。
+- 如果 emergency 或 GPS screen 为空，等角色完全 load 后关闭手机再打开。
+
+## MyPod Music Player
+
+**MyPod** 是顶栏音乐播放器。它不是车辆 spawner。
+
+MyPod 会做的事：
+
+- 播放音乐时显示 mini player bar。
+- 打开完整播放器，包含 track list、album-art panel、progress scrubber 和 volume slider。
+- 支持 play/pause、previous/next、shuffle、repeat 和 favourites。
+- 如果启用 **Auto-play**，当你坐进车辆时可以自动播放随机曲目。
+
+MyPod **不会**做的事：
+
+- 它不会 spawn 车辆。
+- 它不会 despawn 车辆。
+- 它不会替代地图中的实体车辆 spawner pads/markers。
+
 ## The Tablet
 
 可从顶栏访问的辅助设备。可以把它视为您的"职业 HUD" —— 屏幕更大,数据比手机更多。
@@ -109,6 +132,49 @@ Lebuhraya 的紧急服务由玩家主导。任何玩家都可以拨打 999;紧�
 - **Vehicle** —— 查看附近任何玩家的车辆登记和驾驶执照信息。适用于角色扮演场景(抽查、保险查询)。执照可见度受队伍限制 —— 只有某些队伍(APJ、Polis)可以查看完整的执照详情。
 - **Developer** *(仅限工作人员)* —— 管理员审查视图,显示玩家详情、BR 余额、POS 金钱和消息历史。
 - **Moderator** *(仅限工作人员)* —— 额外的工作人员审查工具。
+
+## Report 系统
+
+当你需要向 MYSverse 团队发送反馈、bug report 或玩家举报时，使用游戏内 **Report** 系统。
+
+### 应包含什么
+
+好的报告要具体：
+
+- **发生了什么** — 例如 "Vehicle spawner opened but Spawn did nothing."
+- **在哪里** — 城镇、商店、spawner、道路或大致 landmark。
+- **你当时在做什么** — 队伍、车辆、工作、工具、菜单。
+- **是否重复发生** — 一次、每次、仅 mobile、仅 private server。
+- 如果是玩家行为问题，提供 **玩家名称**。
+
+### 何时使用
+
+Report 可用于：
+
+- 损坏的菜单、缺失按钮、文字被裁切或无法阅读的 UI
+- 车辆 spawn/fuel/repair 问题
+- 无法完成的 job tasks
+- 地图洞、卡住点或糟糕 collision
+- abusive 玩家行为
+- 关于 balance、payouts 和 roleplay tools 的反馈
+
+不要把正常 team locks、gamepass requirements 或 fuel-pump mismatch warnings 当作问题；那些是预期的游戏规则。
+
+## Identity Card (IC)
+
+Lebuhraya 会在 Phone / Tablet app 中为每位玩家发放**马来西亚风格身份证**，使用真实马来西亚 IC 格式生成：
+
+```
+YYMMDD-PB-XXXX
+```
+
+- **YYMMDD** — 你的 Roblox 账号加入日期（年、月、日）。
+- **PB** — 出生地代码。多数玩家默认为 **14**（Wilayah Persekutuan / Federal Territory — Kuala Lumpur）；专用 ID（Kad Polis、KKM、JBPM、SJAM、PHG、MKT）使用不同代码。
+- **XXXX** — 你的 Roblox UserId 后四位。
+
+因此，如果你在 2020 年 3 月 15 日加入 Roblox，UserId 为 123456789，你的 IC 会是 **200315-14-6789**。每次游玩你的 IC 都一致，不会改变。
+
+特殊身份证（执法用 Kad Polis、医疗用 KKM 等）会根据你的队伍自动发放。使用 `/me show IC` 或与 roleplay NPC 互动即可出示。
 
 ## 驾驶执照
 
@@ -134,12 +200,13 @@ Lebuhraya 的紧急服务由玩家主导。任何玩家都可以拨打 999;紧�
 - Season Pass 等级奖励
 - 促销活动
 - 有时与 gamepass 捆绑
+- Admin 授予（在 private server 中，server owner 可使用 debug commands，把任意 token 以任意时长授予任意玩家）
 
 ### 如何使用 token
 
-打开 **Active Tokens HUD**(当至少有一个 token 处于激活状态时,HUD 上会出现 ScreenGui)。点击库存中的 token 以激活 —— 持续时间会立即开始倒计时,并应用于您接下来的 XP 获取。
+从你的 inventory 激活 token（**Main Menu -> More -> Tokens**）。当至少一个 token 运行时，**Active Tokens HUD** 会自动出现 — 每个 active token 显示 icon、name 和 **M:SS countdown**。Tokens 可并行运行（你可以同时拥有 2× XP Boost + Season Pass Boost + Team Access）。
 
-> Token **在激活时即消耗** —— 一旦启动便无法暂停。请将它们留给您会持续赚取奖励的游玩时段。
+Tokens **在激活时即消耗** — 一旦开始计时就不能暂停。请留给连续游玩的时段。
 
 ## 聊天和消息
 

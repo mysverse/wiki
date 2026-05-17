@@ -2,8 +2,8 @@
 title: Soalan Lazim
 description: Soalan biasa pemain baharu di Bandaraya.
 lang: ms
-translated_from_hash: a253c66d
-translated_on: '2026-04-21'
+translated_from_hash: 9febc650
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Soalan Lazim
@@ -164,7 +164,7 @@ Lihat [Peraturan](/bandaraya/rules#tips--gotchas).
 
 ### Bagaimana saya dapatkan alat Punch?
 
-Ia ganjaran quest pada **Level 25**. Anda perlu grind hingga level 25 melalui apa sahaja sasaran quest (aktiviti roleplay). Pada masa ini quest satu-satunya dalam permainan.
+Ia ganjaran quest pada **Level 25**. Anda perlu grind hingga level 25 melalui apa sahaja sasaran quest (aktiviti roleplay). Pada masa ini ia satu-satunya quest yang didaftarkan dengan sistem quest permainan. (UI quest "Pushup" wujud dalam codebase tetapi belum ada backend yang berfungsi.)
 
 ### Apakah versi permainan?
 

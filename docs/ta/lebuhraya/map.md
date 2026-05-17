@@ -4,8 +4,8 @@ description: >-
   Bandar Seri Putra, Jersik, Kampung Merbang, மற்றும் Lebuhraya-வில் 29 முக்கிய
   இடங்கள்.
 lang: ta
-translated_from_hash: 2c72abbd
-translated_on: '2026-04-21'
+translated_from_hash: 34c75ad4
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # உலகம் & வரைபடம்
@@ -25,7 +25,7 @@ Lebuhraya என்பது மலேசிய நெடுஞ்சாலை�
 - **Depoh Bas Bandar Seri Putra** — பேருந்து நிலையம் (Bus Driver பாதைகளின் தொடக்கம்)
 - **Radtrol Petrol Station Bandar Seri Putra** — எரிபொருள் நிரப்புதல்
 - **Stesen Insinerasi Bandar Seri Putra** — கழிவு அகற்றும் இடம்
-- **Gravstone Workshop Bandar Seri Putra** — வாகன பழுதுபார்ப்பு
+- **Gravstone Workshop Bandar Seri Putra** — வாகன paint மற்றும் body customisation
 - **Pangsapuri Seri Putra** — அடுக்குமாடி வளாகம் / வீட்டுப் பகுதிகள்
 - **Masjid Bandar Seri Putra** — பள்ளிவாசல்
 - **KTN Bandar Seri Putra** — KTN கிளை

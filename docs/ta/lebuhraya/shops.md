@@ -2,8 +2,8 @@
 title: கடைகள்
 description: 'Lebuhraya முழுவதும் உணவு, சிற்றுண்டி, மற்றும் பயன்பாட்டுக் கடைகள்.'
 lang: ta
-translated_from_hash: 5e14cc5a
-translated_on: '2026-04-21'
+translated_from_hash: 8c2d37cd
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # கடைகள்
@@ -86,6 +86,17 @@ Smoothie-கள் மற்றும் பானங்கள்.
 
 முழு அளவிலான பல்பொருள் அங்காடி அனுபவம். நீங்கள் வரிசைகளில் நடக்கலாம், அலமாரிகளிலிருந்து பொருட்களை எடுக்கலாம், மற்றும் காசாளரிடம் பணம் செலுத்தி வெளியேறலாம். Checkout வேலைக்கு (Malaysians community team) ஒரு சிறந்த roleplay இடம்.
 
+**முழு catalogue** (~37 items, 6 categories):
+
+- **Drinks (7)**: Coffee Cookies Frappe, Chocolate Cookies Frappe, Milk Cookies Frappe, Strawberry Frappe, Boba Tea, Coffee, Mineral Water
+- **Food (3)**: Sandwiches, Onigiri, Cheese Cake
+- **Noodles (5)**: Maggi Curry, Maggi Tomyam, Samyang Carbonara, Samyang Cheese, Samyang Ramen
+- **Oden (5)**: Fish Ball, Fish Cake, Full Set, Odeng Fish Cake, Crab
+- **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
+- **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
+
+மற்ற shops போல, KeluargaMart இப்போது free — விருப்பமானதை எடுத்துக்கொள்ளுங்கள். Law-team players (Polis, APJ) duty-ல் unprofessional behaviour-ஐத் தவிர்க்க register interaction-இல் இருந்து blocked.
+
 ## Food Delivery தொடர்புகள்
 
 மேலே உள்ள பெரும்பாலான உணவுக் கடைகள் **Food Delivery** வேலையின் pickup இடங்களாகவும் செயல்படுகின்றன. நீங்கள் Food Delivery rider-ஆகப் பணியில் இருக்கும்போது, உங்கள் waypoint உங்களை ஒரு order எடுத்துச் செல்ல இந்தக் கடைகளில் ஒன்றுக்கு அனுப்பும், பின்னர் ஒரு வாடிக்கையாளரிடம் வெளியே அனுப்பும்.
@@ -96,12 +107,12 @@ Smoothie-கள் மற்றும் பானங்கள்.
 
 - கடை NPC அல்லது கவுண்டருக்கு நடந்து செல்லுங்கள்.
 - ஒரு ProximityPrompt தோன்றும் — கடை மெனுவைத் திறக்க தொடர்பு கொள்ளுங்கள்.
-- பொருளைத் தேர்ந்தெடுக்கவும்; உங்கள் இருப்பிலிருந்து BR கழிக்கப்படும்.
+- பொருளைத் தேர்ந்தெடுக்கவும். Current build-ல் BR கழிக்கப்படாது; item free-ஆக வழங்கப்படும்.
 - அந்தப் பொருள் உங்கள் inventory-ல் ஒரு tool-ஆக தோன்றும். அதைப் பயன்படுத்த / சாப்பிட / காண்பிக்க அதை equip செய்யுங்கள்.
 
 ## அவற்றை எங்கே காண்பது
 
-கடைகள் Bandar Seri Putra மற்றும் Jersik முழுவதும் பரவியுள்ளன. வரைபட waypoint அமைப்பு (MyPod மெனு அல்லது topbar-ல்) நீங்கள் தேர்ந்தெடுக்கும் எந்தக் கடைக்கும் உங்களை வழிநடத்தும். பிராந்திய அமைப்புக்கு [உலகம் மற்றும் வரைபடம்](/lebuhraya/map) பார்க்கவும்.
+கடைகள் Bandar Seri Putra மற்றும் Jersik முழுவதும் பரவியுள்ளன. நீங்கள் தேர்ந்தெடுக்கும் shop-க்கு route செய்ய Phone GPS / topbar waypoint system-ஐ பயன்படுத்தவும். பிராந்திய அமைப்புக்கு [உலகம் மற்றும் வரைபடம்](/lebuhraya/map) பார்க்கவும்.
 
 ## அடுத்த படிகள்
 

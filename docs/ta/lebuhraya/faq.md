@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் புதிய வீரர்களுக்கான பொதுவான கேள்விகள் மற்றும் விரைவான
   உதவிக்குறிப்புகள்.
 lang: ta
-translated_from_hash: 8e50cd9d
-translated_on: '2026-04-21'
+translated_from_hash: 3c08148c
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # அடிக்கடி கேட்கப்படும் கேள்விகள் & குறிப்புகள்
@@ -18,13 +18,35 @@ needs_review: true
 
 சோதனை servers (Studio playtests உட்பட) XP-ஐ வேண்டுமென்றே 0-க்கு மீட்டமைக்கின்றன, இதனால் புதிய கணக்கிற்கு எதிராக டெவலப்பர்கள் அம்சங்களைச் சோதிக்க முடியும். "XP will be reset to 0" என்ற எச்சரிக்கைச் செய்தி சாதாரணமானது. உங்கள் **நேரடி கேம் முன்னேற்றம் பாதிக்கப்படாது** — சோதனை server மட்டுமே தூக்கி வீசப்படக்கூடியது.
 
-### எனது வாகன spawner-ஐ (MyPod) என்னால் திறக்க முடியவில்லை. ஏன்?
+### எனது வாகன spawner-ஐ திறக்க முடியவில்லை. ஏன்?
 
 சில சாத்தியங்கள்:
 
 - நீங்கள் முழுமையாக load ஆக வேண்டியிருக்கலாம் — சேர்ந்த பிறகு சில நொடிகள் காத்திருங்கள்.
 - ஒரு UI overlay அதன் மேல் இருக்கலாம் — திறந்துள்ள எந்த மெனுக்களையும் மூடவும் (Esc அல்லது Backspace).
+- உலகில் உள்ள physical vehicle spawner prompt-க்கு அருகில் இருக்க வேண்டும். MyPod topbar icon ஒரு music player மட்டுமே.
+- நீங்கள் job team-ல் இருந்து civilian spawner-ஐ பயன்படுத்த முயற்சித்திருக்கலாம். Visitors-க்கு மாறவும் அல்லது உங்கள் team spawner-ஐப் பயன்படுத்தவும்.
+- நீங்கள் team-only spawner பயன்படுத்தியிருக்கலாம். முதலில் பெயரிடப்பட்ட team-ல் சேரவும்.
 - சிக்கல் தொடர்ந்தால், server-ஐ மீண்டும் சேரவும்.
+
+### MyPod vehicle spawner-ஆ?
+
+இல்லை. **MyPod** music player. அதில் playback controls, volume, shuffle/repeat, favourites, track list, மற்றும் vehicle-ல் auto-play option உள்ளன. Vehicles உலகில் உள்ள physical spawner pads/markers-இல் இருந்து spawn ஆகும்.
+
+### Vehicle spawner திறக்கிறது, ஆனால் என் vehicle locked அல்லது missing.
+
+Card மற்றும் spawner type-ஐ சரிபார்க்கவும்:
+
+- **Level X** என்றால் உங்கள் player level மிகக் குறைவு.
+- **Tier X** என்றால் அந்த branch-ல் உங்கள் career rank மிகக் குறைவு.
+- **Vehicle locked** என்றால் அந்த special/gamepass/code vehicle உங்களிடம் இல்லை.
+- Missing vehicle பொதுவாக நீங்கள் தவறான spawner type-ல் இருக்கிறீர்கள் என்பதைக் குறிக்கும்: Basic, Bike, Premium, Special, அல்லது team-specific spawner.
+
+[Vehicles -> Spawner troubleshooting](/ta/lebuhraya/vehicles#spawner-troubleshooting) பார்க்கவும்.
+
+### Career, Tokens, Credits, Races எங்கே போனது?
+
+அவை **Main Menu -> More** கீழே உள்ளன. Top-level menu இப்போது **Home**, **Teams**, **Shop**, **Activity**, மற்றும் **More** காட்டுகிறது. Activity missions/challenges/season progress கொண்டது; More secondary panels ஆகிய Career, Jobs, Tokens, Credits, Races, Help ஆகியவற்றைக் கொண்டது.
 
 ### விரைவாக level-ஐ உயர்த்துவதற்கான வேகமான வழி என்ன?
 
@@ -65,7 +87,7 @@ gamepass இல்லாமல் நீங்கள் சட்ட அமல�
 உங்களுக்கு மூன்று விருப்பங்கள் உள்ளன:
 
 1. **Jerrycan Shop-இல் JerryCan-ஐ வாங்கவும்**, எந்த நிலையத்திலும் அதை நிரப்புங்கள் (எரிபொருள் வகையை பொருத்துங்கள்), உங்கள் தொட்டியில் ஊற்றவும்.
-2. MyPod மெனுவிலிருந்து உங்கள் வாகனத்தை **Despawn மற்றும் respawn செய்யுங்கள்**. நீங்கள் உங்கள் நிலையை இழப்பீர்கள், ஆனால் முழு தொட்டியை பெறுவீர்கள்.
+2. Physical vehicle spawner-இல் இருந்து **replacement vehicle spawn செய்யுங்கள்**. தற்போதைய vehicle position இழப்பீர்கள், ஆனால் புதிய tank கிடைக்கும்.
 3. **ஒரு KEMRonda வீரரிடம்** டோயிங் கேளுங்கள் — அவர்கள் உங்களை அருகிலுள்ள நிலையத்திற்கு அழைத்துச் செல்ல முடியும்.
 
 ### நான் எங்கே எனது காரை சரிசெய்வது?
@@ -123,13 +145,17 @@ Passive மோட் என்பது கருவி அடிப்படை
 
 உங்கள் inventory-இல் உள்ள நுகர்வோர் பொருட்கள் தற்காலிக boosts-ஐ வழங்குகின்றன — 2× XP, Season Pass XP இரட்டிப்பாக்கி, அல்லது தற்காலிக அணி அணுகல். Inventory-இலிருந்து செயல்படுத்தவும். [சமூக அம்சங்கள் → டோக்கன்கள்](/lebuhraya/social-features#tokens-and-boosts) பார்க்கவும்.
 
+### bug அல்லது player-ஐ எப்படி report செய்வது?
+
+விளையாட்டுக்குள் உள்ள **Report** system-ஐத் திறந்து என்ன நடந்தது, எங்கே நடந்தது, நீங்கள் எந்த team/vehicle/tool/menu பயன்படுத்தினீர்கள், அது மீண்டும் நடக்கிறதா என்பதைக் குறிப்பிடுங்கள். Player reports-க்கு, player name மற்றும் அவர்கள் என்ன செய்தார்கள் என்பதையும் சேர்க்கவும். [சமூக அம்சங்கள் -> Report system](/ta/lebuhraya/social-features#report-system) பார்க்கவும்.
+
 ### ஒற்றை-வீரர் / தனிப்பட்ட மோட் உள்ளதா?
 
-தனிப்பட்ட servers கிடைக்கின்றன (Roblox experience பக்கத்திலிருந்து வாங்கவும்). **தனிப்பட்ட servers-இல் பொருளாதாரம் முடக்கப்பட்டுள்ளது** என்பதைக் கவனியுங்கள் — நீங்கள் BR மற்றும் XP-ஐ சம்பாதிக்கவோ அல்லது இழக்கவோ முடியாது. தனிப்பட்ட servers நிகழ்வுகளை நடத்துவதற்கு, roleplay காட்சிகளுக்கு, அல்லது அழுத்தமில்லாமல் ஓட்டுவதை பயிற்சி செய்வதற்கு சிறந்தவை.
+ஆம் — **private servers** கிடைக்கின்றன (Roblox experience பக்கத்திலிருந்து வாங்கவும்). Owner பெறுவது, பொதுவான use cases, மற்றும் limitations ஆகிய அனைத்திற்கும் கீழே உள்ள **[Private servers](#private-servers)** பகுதியைப் பார்க்கவும்.
 
 ### promo codes உள்ளதா?
 
-ஆம் — **Main Menu → Codes** டேப்பைத் திறந்து ஒரு கோடை உள்ளிடுங்கள். சில கோடுகள் நிரந்தரமாக செயலில் உள்ளன:
+ஆம் — **Main Menu -> Shop** திறந்து code redemption field-ஐப் பயன்படுத்தவும். சில கோடுகள் நிரந்தரமாக செயலில் உள்ளன:
 
 | கோட் | வெகுமதி | பயன்கள் |
 |---|---|---|
@@ -181,6 +207,81 @@ Lebuhraya ஒரு roleplay கேம். தங்கள் 999 மருத�
 ### bugs மற்றும் feedback-ஐ தெரிவிக்கவும்
 
 நீங்கள் ஒரு bug-ஐ சந்தித்தால் அல்லது பரிந்துரைகள் இருந்தால், கேம்-உள் **Report** அமைப்பு (MYS_ReportSystem ScreenGui) நேரடியாக MYSverse அணிக்கு அனுப்புகிறது. அதை பயன்படுத்துங்கள் — டெவ்கள் இவற்றைப் படிக்கிறார்கள்.
+
+## Private servers
+
+Private servers என்பது Roblox-ன் "VIP server" feature — நீங்கள் Robux செலுத்தி, நீங்கள் மற்றும் அழைப்பவர்கள் மட்டுமே join செய்யக்கூடிய server instance உருவாக்குகிறீர்கள். அது என்ன செய்ய முடியும் என்பதை அறிந்தால், இது Lebuhraya-வின் மிக வலுவான features-ல் ஒன்று.
+
+### Use cases
+
+**Dedicated roleplay communities.** பல MYSverse-க்கு அருகிலுள்ள groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) தங்களுக்கென private Lebuhraya servers-ஐ persistent hangout spaces ஆக நடத்துகின்றன. Private servers தனித்துவமானதால் random drivers உங்கள் group-ஐ கலைக்க மாட்டார்கள், scenes பல மணி நேரம் இடையூறு இல்லாமல் செல்லும்.
+
+**Structured events.** Race nights, convoy meets, emergency training exercises, licence tests, screenshot shoots ஆகியவை owner என்ன நடக்கிறது என்று கட்டுப்படுத்தும் காலியான map-ல் சிறப்பாக நடக்கும்.
+
+**Practice without pressure.** Heavy trucks ஓட்ட கற்றுக்கொள்வது, race track-ல் lap times மேம்படுத்துவது, அல்லது நண்பருடன் 999 medic response rehearsal — இவை busy public server-ஐ விட private server-ல் எளிது.
+
+**Content creation.** Streamers மற்றும் video creators, shots-ஐ மற்ற players கலைக்காமல் படம் பிடிக்க private servers பயன்படுத்துகிறார்கள். Vehicles pose செய்யவும், scenes stage செய்யவும், griefers இல்லாமல் reset செய்யவும் முடியும்.
+
+### Server owner பெறுவது
+
+உங்கள் சொந்த private server-ல் join செய்தவுடன், **Adonis admin level 200 தானாக வழங்கப்படும்** — பெரிய moderation commands தொகுப்பு.
+
+- **Guests-ஐ moderate செய்யவும்**: kick, ban (அந்த private server-இலிருந்து மட்டும்), mute, freeze, respawn, teleport, spectate.
+- **Scenes அமைக்கவும்**: எந்த player-யையும் (அல்லது உங்களை) எந்த location-க்கும் teleport செய்யவும், fly, noclip, gravity மாற்றவும், guests-க்கு vehicles spawn செய்யவும்.
+- **Admin delegate செய்யவும்**: `:admin @PlayerName` போன்ற Adonis commands பயன்படுத்தி நம்பகமான friends-ஐ உங்கள் server-க்குள் moderator / admin ஆக உயர்த்தவும். அவர்களுக்கும் அதே tools கிடைக்கும். வேறு admin tiers-க்கு `:mod`, `:headadmin` போன்றவற்றையும் பயன்படுத்தலாம்.
+- **Duration manage செய்யவும்**: boot-everyone, shutdown, தற்போதைய server-இலிருந்து புதிய server reserve செய்யவும்.
+- **Experience-ஐ உங்கள் வழியில் நடத்தவும்**: custom messages அமைக்கவும், custom scripts உருவாக்கவும் (Lua தெரிந்தால்), game time மாற்றவும், weather toggle செய்யவும் (`!rainon` / `!rainoff`).
+
+**Moderator persistence**: private server-ல் நீங்கள் grant செய்த admins, அந்த server-க்கு குறிப்பிட்ட DataStore (`privateServer_<yourUserId>`) கீழ் சேமிக்கப்படுவார்கள், public servers-இலிருந்து தனி. உங்கள் private server-ல் admins sessions முழுவதும் admin-ஆகவே இருப்பார்கள். வேறு எந்த server-லும் admin rights கிடைக்காது.
+
+**Cross-server features disabled** — Trello audit logs மற்றும் cross-server commands private servers-ல் இயங்காது. இதனால் உங்கள் server self-contained ஆகவும் வெளிப்புற dependencies இல்லாமலும் இருக்கும்.
+
+### Limitations
+
+நீங்கள் join செய்தவுடன், **"Welcome to Lebuhraya Private Servers"** notice trade-offs-ஐ விளக்கும். Progression அனைத்தும் disabled:
+
+- **XP மற்றும் level** save ஆகாது.
+- **Currency (BR)** மாற்றங்கள் persist ஆகாது.
+- **Badges** வழங்கப்படாது (50k / 100k / 500k / 1m stud milestones உட்பட).
+- **Job progression tiers** save ஆகாது.
+- **Vehicle unlocks** apply ஆகாது (அதே catalogue தெரியும், ஆனால் race-unlocked vehicles அல்லது codes-redeemed vehicles persist ஆகாது).
+- இங்கே redeem செய்யும் **Promo codes** count ஆகாது.
+
+உங்கள் session *count* ஆக வேண்டும் என்றால், **public server** join செய்யவும். Private servers controlled scenes-க்கு; grinding-க்கு அல்ல.
+
+### Admin commands அணுகுவது
+
+Owner ஆகவோ owner grant செய்தவராகவோ admin level கிடைத்தவுடன், Adonis command list திறக்க chat-ல் `:cmds` type செய்யவும். Admins (level 200)-க்கு கிடைக்கும் பொதுவான commands:
+
+| Command | Action |
+|---|---|
+| `:cmds` | முழு command list திற |
+| `:tp @player` | ஒரு player-க்கு teleport செய்ய |
+| `:bring @player` | player-ஐ உங்களிடம் கொண்டு வர |
+| `:kick @player` | server-இலிருந்து player-ஐ நீக்கு |
+| `:fly` | fly mode toggle |
+| `:noclip` | objects வழியாக செல்ல |
+| `:respawn @player` | player respawn |
+| `:ff @player` | forcefield சேர்க்க |
+| `:ban @player reason` | இந்த private server-இலிருந்து ban செய்ய |
+| `:unban @player` | player unban |
+| `:mod @player` | moderator (level 100) ஆக உயர்த்து |
+| `:unmod @player` | moderator status நீக்கு |
+| `:shutdown` | server shut down செய்ய |
+
+**Note**: ஒருவரை full Admin (level 200) அல்லது அதற்கு மேல் promote செய்வது default Adonis-ல் பொதுவாக HeadAdmin-level permissions தேவைப்படும். Owner ஆக நீங்கள் Admin level (200), அதனால் Moderator-க்கு promote செய்ய இயலும், ஆனால் Admin-க்கு பொதுவாக இல்லை. நம்பகமான friend-க்கு Admin-tier power தேவை என்றால் Moderator rights grant செய்தால் பல use cases போதும்; இல்லையெனில் உண்மையில் ஏற்கப்படுவது என்ன என்பதை `:cmds`-ல் பார்க்கவும்.
+
+முழு syntax-க்கு Roblox Creator Hub-ல் Adonis documentation பார்க்கவும் — நூற்றுக்கணக்கான commands உள்ளன, ஒவ்வொன்றுக்கும் தேவையான exact level Adonis defaults மற்றும் game's `Permissions` overrides-ஐப் பொறுத்தது.
+
+### Admin செய்ய முடியாத ஒன்று
+
+**Admin level team gates-ஐ override செய்யாது.** ஒரு team-க்கு gamepass (Bomba, Polis Trafik, etc.), level threshold (Kesihatan L200, APJ L300), அல்லது group membership (Malaysians) தேவைப்பட்டால், அந்த requirements-ஐ இன்னும் பூர்த்தி செய்ய வேண்டும். Admin moderation-க்கு; free team access-க்கு அல்ல. (Guests-ஐ gated team-ல் temporary ஆக வைத்திருக்க **Team Access Pass token** grant செய்ய *முடியும்*.)
+
+### Update-க்காக game shutdown ஆனால் என்ன நடக்கும்?
+
+Lebuhraya "soft shutdown" system பயன்படுத்துகிறது, எனவே session இழக்கப்படாது. Servers restart ஆகும்போது, smooth on-screen prompt தோன்றும் (மற்ற UI fade out), update deploy ஆனதும் நீங்கள் **தானாக fresh server-க்கு teleport** செய்யப்படுவீர்கள். வெளியேறும் வழியில் progress தானாக save ஆகும் — XP, BR, levels, vehicles, housing, எல்லாம் persist ஆகும்.
+
+நீங்கள் எதுவும் செய்ய வேண்டியதில்லை — teleport முடிவதற்கு விடுங்கள். Friends உடன் convoy-ல் ஓட்டினால், அவர்கள் தனித்தனியாக teleport செய்யப்படுவார்கள் (மீண்டும் வேறு servers-ல் சேரலாம், எனவே பிறகு regroup செய்யவும்).
 
 ## மேலும் எங்கே கண்டுபிடிப்பது
 

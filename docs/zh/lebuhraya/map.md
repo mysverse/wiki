@@ -2,8 +2,8 @@
 title: 世界与地图
 description: Bandar Seri Putra、Jersik、Kampung Merbang 以及 Lebuhraya 的 29 个关键地点。
 lang: zh
-translated_from_hash: 2c72abbd
-translated_on: '2026-04-21'
+translated_from_hash: 34c75ad4
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 世界与地图
@@ -23,7 +23,7 @@ Lebuhraya 设于一段马来西亚高速公路上，三个主要区域通过收�
 - **Depoh Bas Bandar Seri Putra** — 巴士车站（巴士司机路线起点）
 - **Radtrol Petrol Station Bandar Seri Putra** — 加油
 - **Stesen Insinerasi Bandar Seri Putra** — 垃圾处理投放点
-- **Gravstone Workshop Bandar Seri Putra** — 车辆维修
+- **Gravstone Workshop Bandar Seri Putra** — 车辆喷漆和车身自定义
 - **Pangsapuri Seri Putra** — 公寓大楼 / 房屋地段
 - **Masjid Bandar Seri Putra** — 清真寺
 - **KTN Bandar Seri Putra** — KTN 分行

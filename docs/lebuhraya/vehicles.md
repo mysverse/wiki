@@ -9,12 +9,35 @@ Lebuhraya ships with **127 vehicle models** — compact cars, SUVs, motorcycles,
 
 ## Spawning a vehicle
 
-Open the **MyPod** menu (vehicle spawner).
+Walk to a physical **vehicle spawner** in the world and use its prompt. These are the spawner pads/markers placed around the map, including Basic/Civ, Bike, Premium, Special, and team-specific spawners.
 
-- **Desktop**: click the MyPod icon on the topbar
-- **Mobile**: tap the icon in the top cluster
+> **MyPod is not the vehicle spawner.** MyPod is the topbar music player. It can play music and auto-play when you sit in a vehicle, but it does not spawn or despawn vehicles.
 
-Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears in front of you, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
+Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears on an available spawner pad, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
+
+### What the spawner screen shows
+
+The refreshed spawner has three main areas:
+
+- **Search and filter** at the top-left, useful once your vehicle list grows.
+- **Vehicle cards** on the left. Locked cards show level/tier information.
+- **Info panel** on the right with the vehicle name, description, image, lock reason, and **Spawn** button.
+
+After you click **Spawn**, some spawners ask you to choose an open pad and paint/colour option. If the pad is occupied, choose a different pad or wait for the other vehicle to move.
+
+### Spawner types
+
+Different physical spawners show different vehicle categories:
+
+| Spawner | Typical contents |
+|---|---|
+| **Basic / Civ** | Starter and standard civilian cars |
+| **Bike** | Motorcycles and scooters |
+| **Premium / Prem** | Premium or higher-level civilian cars |
+| **Special** | Code/event/special vehicles |
+| **Team spawners** | Vehicles for your current team, such as Taxi, Bomba, KKN, Police, Logistics |
+
+If you are on a job team, civilian spawners may block access with a warning. Switch to Visitors or the appropriate team/spawner type.
 
 ### Ownership
 
@@ -22,7 +45,7 @@ Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears in fro
 - Other players **cannot enter your driver seat** unless you unlock it.
 - Passengers can always enter passenger seats.
 - When you leave the server, your vehicle disappears.
-- You can despawn your own vehicle from the MyPod menu.
+- Only one owned vehicle is active per player. Spawning a new vehicle from a vehicle spawner cleans up your previous one.
 
 ## What can I drive at Level 1?
 
@@ -42,6 +65,15 @@ Vehicle prices scale loosely with level. Rough guide:
 Some team-only vehicles don't have a public price — they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
 
 About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner — these are the standard civilian choices from Myvi to Mustang.
+
+### Locked-card meanings
+
+| Lock text | Meaning |
+|---|---|
+| **Level X** | Reach that player level first |
+| **Tier X** | Rank up the matching career branch |
+| **Vehicle locked** | You do not own the special/gamepass/code vehicle |
+| Missing from list | Wrong spawner type, wrong team, hidden vehicle, or requirement not met |
 
 ## Vehicle categories
 
@@ -94,8 +126,29 @@ Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge
 If your tank hits zero, the engine cuts out. Options:
 
 1. Buy a JerryCan at the **Jerrycan Shop**, fill it at a station, and refuel manually.
-2. Despawn the vehicle and spawn a fresh one from MyPod.
+2. Return to a physical vehicle spawner and spawn a replacement vehicle.
 3. Ask a KEMRonda player for a tow.
+
+## Spawner troubleshooting
+
+### I see "You cannot access this spawner while working"
+
+You are on a job team and using a civilian spawner. Switch to **Visitors** or use your team spawner.
+
+### I see "You must be on the X team"
+
+That spawner is team-specific. Join the named team first, including any level, gamepass, or group requirement.
+
+### The spawner opens but the vehicle will not spawn
+
+- Pick a different pad; the first one may be occupied.
+- Check that the card says **SPAWN**, not **LOCKED**.
+- Move closer to the spawner if the prompt disappeared.
+- If the UI got stuck behind another menu, close all menus with Esc/Backspace and reopen the spawner.
+
+### A vehicle is too bright or lights are stuck on
+
+Some vehicles spawn with headlights/ELS or strong lighting effects depending on time of day and vehicle type. Toggle lights off from the vehicle controls, or respawn the vehicle if a scripted state gets stuck.
 
 ## Crashing and repairs
 
@@ -110,9 +163,10 @@ Vehicles take damage from collisions. A heavily-damaged car will start to smoke,
 
 ### Your options
 
-- **Drive into a repair zone**. There are **10 repair zones** scattered around the map — look for the green repair indicator. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
+- **Drive into a repair zone at any petrol station.** There are **10 repair zones** — placed in pairs at PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, and RnR Sungai Merbang. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
+- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop restore about **25% health per use** — handy when you're stranded and can't reach a repair station.
 - **Call a tow**. KEMRonda players with a tow truck can haul you to a workshop.
-- **Despawn and respawn**. From the MyPod menu you can despawn the broken vehicle and spawn a fresh one. Fastest option if you're in a hurry.
+- **Spawn a replacement**. If you can reach a vehicle spawner, spawning another vehicle clears your previous owned vehicle and gives you a fresh one.
 
 If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens — that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
 
@@ -138,13 +192,31 @@ Consult the vehicle's menu in-game (some cars have a customise panel, others don
 
 ## Number plates
 
-When a vehicle spawns, its registration plate is assigned based on the region of the spawner, following the Malaysian system:
+When a vehicle spawns, its registration plate is assigned based on the region of the spawner, following the actual Malaysian state-prefix system:
 
-- **Bandar Seri Putra** spawners issue **SL (Selangor)** plates — B% prefix.
-- **Kampung Merbang** and **Jersik** spawners issue **NS (Negeri Sembilan)** plates — N% prefix.
-- Spawners along the middle of the highway (between regions) randomly pick **50/50 between SL and NS** each time you spawn.
+- **Bandar Seri Putra** spawners issue **Selangor plates** — `B%` prefix (e.g. BJH 1234).
+- **Kampung Merbang** and **Jersik** spawners issue **Negeri Sembilan plates** — `N%` prefix.
+- Spawners along the middle of the highway (between regions) randomly pick **50/50 between B and N** each time you spawn.
 
 So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next — a small detail that Malaysian players immediately notice.
+
+**Allowed characters** are `ABCDEFGHJKLMNPQRSTUVWXY` — I, O, V, and Z are excluded (I/O avoid confusion with 1/0, V and Z are reserved for special/military use).
+
+### Military plates (rare — special vehicles)
+
+Some military / armed forces vehicles carry authentic Malaysian service plates:
+
+| Service | Plate prefix |
+|---|---|
+| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
+| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PMS | `PMS` |
+
+You'll see these on TUDM escort convoys, event parades, and staff-spawned military vehicles — not typical player cars.
 
 ## Emergency lights (ELS)
 

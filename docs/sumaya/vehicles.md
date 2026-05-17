@@ -5,7 +5,7 @@ description: "Cars, boats, ambulances, spawners, and customization in Sumaya."
 
 # Vehicles
 
-Sumaya has a large vehicle catalog: civilian cars (free and premium), fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalog with prices, and how to customize and care for them.
+Sumaya has a large vehicle catalog: civilian cars, Classic Car Pack cars, fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalog with prices, and how to customize and care for them.
 
 ## How to spawn a vehicle
 
@@ -31,41 +31,61 @@ Civilian vehicle spawners show only civilian cars, team spawners show only team 
 
 ## Civilian cars
 
-Most civilian cars spawn **free** (they don't have a price set). A few are premium. All civilian cars are at **player level 1** - no level gate - but the paid ones cost Ringgit.
+All standard civilian cars are available at **player level 1**. Only two are free; the rest have rent and buy prices.
 
-### Free civilian cars
+### Free starter cars
 
-These spawn without a price. You can take them out any time:
+These spawn without rent or buy cost:
 
-- Perosatu Axia (compact hatchback)
-- Perosatu Myvi 2020 (hatchback)
-- Perosatu Bezza (sedan)
-- Perosatu Alza (MPV)
-- Perosatu Ativa (compact SUV)
-- Perosatu Aruz (SUV)
-- Protan Wira (compact sedan)
-- Protan Wira Aeroback (hatchback)
-- Protan Putra (sport coupe)
-- Protan Waja (sedan)
-- Protan Preve (sedan)
-- Protan Saga 1985 (compact sedan)
-- Protan Exora (MPV)
-- Handai City (MPV)
-- Handai Civic (MPV)
-- Protan S70 (sedan)
-- Protan X70 (SUV)
-- Tayoti Hilux (pickup truck)
+- Perosatu Axia
+- Protan Wira
 
-### Premium civilian cars
+### Paid standard civilian cars
 
 | Vehicle | Rent | Buy |
-|---------|------|-----|
-| Protan X50 (compact SUV) | 2,000 Ringgit | 10,000 Ringgit |
-| Merzda Miata (roadster) | 2,400 Ringgit | 12,000 Ringgit |
+|---------|-----:|----:|
+| Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
+| Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
+| Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
+| Protan Waja | 1,750 Ringgit | 7,000 Ringgit |
+| Tayoti Hilux | 2,000 Ringgit | 8,000 Ringgit |
+| Perosatu Myvi 2020 | 2,500 Ringgit | 10,000 Ringgit |
+| Protan Exora | 2,875 Ringgit | 11,500 Ringgit |
+| Perosatu Ativa | 3,750 Ringgit | 15,000 Ringgit |
+| Perosatu Alza | 4,250 Ringgit | 17,000 Ringgit |
+| Perosatu Aruz | 4,250 Ringgit | 17,000 Ringgit |
+| Protan Preve | 5,000 Ringgit | 20,000 Ringgit |
+| Handai City | 5,500 Ringgit | 22,000 Ringgit |
+| Handai Civic | 5,750 Ringgit | 23,000 Ringgit |
+| Protan X50 | 8,000 Ringgit | 32,000 Ringgit |
+| Protan S70 | 8,250 Ringgit | 33,000 Ringgit |
+| Protan X70 | 8,750 Ringgit | 35,000 Ringgit |
+
+The **Protan X70** is currently the most expensive standard civilian car.
+
+### Classic Car Pack
+
+These cars show at the civilian dealer but require the Classic Car Pack gamepass. Non-owners see them locked with a gamepass prompt.
+
+## Vehicle packs in the Shop
+
+The Shop now includes placeholder cards for upcoming vehicle packs:
+
+- **Premium EV Vehicles**
+- **Premium Sports Vehicles**
+- **Premium Luxury Vehicles**
+- **Expanded POLIS Vehicles**
+- **Unmarked POLIS Role**
+- **Traffic POLIS Role**
+
+These cards currently show **Coming Soon** unless a final Roblox pass ID has been assigned. Existing legacy owners still keep access where the old gates already existed, and the Classic/Retro pack remains the active purchasable vehicle pass.
+
+| Vehicle | Rent | Buy |
+|---------|-----:|----:|
+| Protan Saga 1985 | Free | Free |
+| Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
-
-The Joguar XJ308 R is the most expensive civilian vehicle in the game.
 
 ## Fishing trawlers
 
@@ -154,6 +174,12 @@ From your **Phone > Collision** app, you can toggle vehicle collisions on or off
 
 See [Phone and UI](/sumaya/phone) for more on the Collision app.
 
+## Camera when entering a vehicle
+
+When you sit in or leave a vehicle, the camera now eases into the driving view instead of snapping suddenly. The game adjusts the framing for desktop, tablet, and mobile controls automatically, so you do not need to change a setting.
+
+If you are using another camera mode, such as the phone Cinematic app, that mode keeps priority until you close it.
+
 ## Ownership and persistence
 
 - **Rented vehicles** disappear when you respawn, log out, or spawn a different one.
@@ -171,7 +197,7 @@ Every vehicle has a **license plate**. When you spawn a vehicle:
 
 ## Tips
 
-- **Rent before buying.** Try a car at rent price first before dropping 10,000+ Ringgit.
+- **Rent before buying.** Try a paid car at rent price first before dropping 5,000+ Ringgit.
 - **Upgrade your team vehicle as you level.** The higher-tier Bomba and Polis cars are faster and tougher.
 - **Sirens for cops and fire crews = no tickets.** Always flip your siren on when responding so you don't cite yourself.
 - **Don't park in traffic lanes.** Left-behind civilian cars can be carjacked; if you own it and don't want it stolen, park somewhere quieter.

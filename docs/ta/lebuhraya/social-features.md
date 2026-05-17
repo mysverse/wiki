@@ -2,8 +2,8 @@
 title: சமூக அம்சங்கள்
 description: 'Lebuhraya-வில் கான்வாய், 999 அவசர சேவை, மற்றும் விளையாட்டுக்குள் தொலைபேசி.'
 lang: ta
-translated_from_hash: cdf9833b
-translated_on: '2026-04-21'
+translated_from_hash: f4d91280
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # சமூக அம்சங்கள்
@@ -100,6 +100,29 @@ Lebuhraya-வின் அவசர சேவைகள் வீரர்கள�
 
 MYSverse தளம் அம்சங்களைச் சேர்க்கும்போது காலப்போக்கில் மேலும் தொலைபேசி பயன்பாடுகள் தோன்றலாம்.
 
+### Phone குறிப்புகள்
+
+- உலகில் இருந்தபடியே quick actions தேவைப்படும் போது Phone பயன்படுத்தவும்.
+- Staff-only fast travel இல்லாமல் POI-க்கு செல்ல GPS waypoints தான் பாதுகாப்பான வழி.
+- Emergency அல்லது GPS screen வெறுமையாகத் தோன்றினால், உங்கள் character முழுமையாக load ஆன பிறகு phone-ஐ close செய்து reopen செய்யவும்.
+
+## MyPod Music Player
+
+**MyPod** topbar music player. இது vehicle spawner அல்ல.
+
+MyPod செய்வது:
+
+- Music playing இருக்கும் போது mini player bar காட்டும்.
+- Track list, album-art panel, progress scrubber, volume slider உடன் full player திறக்கும்.
+- Play/pause, previous/next, shuffle, repeat, favourites ஆதரிக்கும்.
+- **Auto-play** enabled இருந்தால் vehicle-ல் உட்காரும்போது random track auto-play செய்யலாம்.
+
+MyPod **செய்யாதவை**:
+
+- Vehicles spawn செய்யாது.
+- Vehicles despawn செய்யாது.
+- Map முழுவதும் உள்ள physical vehicle spawner pads/markers-ஐ replace செய்யாது.
+
 ## The Tablet
 
 மேல்பட்டியிலிருந்து கிடைக்கும் இரண்டாம் நிலை சாதனம். இதை உங்கள் "தொழில் HUD" என்று கருதுங்கள் — பெரிய திரை, தொலைபேசியை விட அதிக தரவு.
@@ -109,6 +132,49 @@ MYSverse தளம் அம்சங்களைச் சேர்க்கு
 - **Vehicle** — அருகில் உள்ள எந்த வீரரின் வாகனப் பதிவு மற்றும் ஓட்டுநர் உரிமம் தகவலைப் பார்க்கவும். பாத்திரம் ஏற்று நடிப்புக் காட்சிகளுக்கு (சாதாரண பரிசோதனை, காப்பீட்டு தேடல்) பயனுள்ளது. உரிம தெரிவுநிலை அணி-வாரியாகக் கட்டுப்படுத்தப்படுகிறது — சில அணிகள் (APJ, Polis) மட்டுமே முழு உரிம விவரங்களைப் பார்க்க முடியும்.
 - **Developer** *(ஊழியர்கள் மட்டும்)* — வீரர் விவரங்கள், BR மீதி, POS பணம் மற்றும் செய்தி வரலாற்றைக் காட்டும் நிர்வாகக் கண்காணிப்பு காட்சி.
 - **Moderator** *(ஊழியர்கள் மட்டும்)* — கூடுதல் ஊழியர்கள் கண்காணிப்பு கருவிகள்.
+
+## Report system
+
+MYSverse team-க்கு feedback, bug reports, அல்லது player reports அனுப்ப வேண்டும்போது in-game **Report** system பயன்படுத்தவும்.
+
+### என்ன சேர்க்க வேண்டும்
+
+நல்ல reports specific ஆக இருக்கும்:
+
+- **என்ன நடந்தது** — எ.கா. "Vehicle spawner opened but Spawn did nothing."
+- **எங்கே** — town, shop, spawner, road, அல்லது approximate landmark.
+- **நீங்கள் என்ன செய்துகொண்டிருந்தீர்கள்** — team, vehicle, job, tool, menu.
+- **மீண்டும் நடக்கிறதா** — once, every time, mobile-only, private server-only.
+- Player conduct issue என்றால் **player names**.
+
+### எப்போது பயன்படுத்துவது
+
+Report பயன்படுத்தவும்:
+
+- broken menus, missing buttons, clipped text, unreadable UI
+- vehicle spawn/fuel/repair problems
+- முடிக்க முடியாத job tasks
+- map holes, stuck spots, bad collisions
+- abusive player behavior
+- balance, payouts, roleplay tools பற்றிய feedback
+
+Normal team locks, gamepass requirements, அல்லது fuel-pump mismatch warnings-க்கு பயன்படுத்த வேண்டாம்; அவை expected game rules.
+
+## Identity Card (IC)
+
+Lebuhraya ஒவ்வொரு player-க்கும் Phone / Tablet app-இல் **Malaysian-style identity card** வழங்குகிறது, real Malaysian IC format-ல் generate செய்யப்படுகிறது:
+
+```
+YYMMDD-PB-XXXX
+```
+
+- **YYMMDD** — உங்கள் Roblox account-joined date (year, month, day).
+- **PB** — place of birth code. பெரும்பாலான players-க்கு default **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur); specialised IDs (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) வேறு codes பயன்படுத்தும்.
+- **XXXX** — உங்கள் Roblox UserId-யின் கடைசி நான்கு இலக்கங்கள்.
+
+நீங்கள் 15 March 2020 அன்று Roblox-ல் சேர்ந்திருந்தால் UserId 123456789 என்றால், உங்கள் IC **200315-14-6789** ஆகும். உங்கள் IC ஒவ்வொரு முறை விளையாடும் போதும் ஒன்றே — மாறாது.
+
+Specialised identity cards (law enforcement-க்கு Kad Polis, medical-க்கு KKM, etc.) உங்கள் team அடிப்படையில் தானாக வழங்கப்படும். காட்ட `/me show IC` பயன்படுத்தவும் அல்லது roleplay NPC-யுடன் interact செய்யவும்.
 
 ## ஓட்டுநர் உரிமம்
 
@@ -134,12 +200,13 @@ MYSverse தளம் அம்சங்களைச் சேர்க்கு
 - Season Pass அடுக்கு வெகுமதிகள்
 - விளம்பர நிகழ்வுகள்
 - சில சமயங்களில் gamepass-களுடன் தொகுக்கப்பட்டிருக்கும்
+- Admin-granted (private servers-ல் server owner debug commands மூலம் எந்த player-க்கும் எந்த duration-க்கும் எந்த token-யும் grant செய்ய முடியும்)
 
 ### token-களை எவ்வாறு பயன்படுத்துவது
 
-**Active Tokens HUD**-ஐத் திறக்கவும் (குறைந்தது ஒரு token செயலில் இருக்கும்போது உங்கள் HUD-இல் உள்ள ஒரு ScreenGui). செயல்படுத்த உங்கள் சரக்குப் பட்டியலில் உள்ள ஒரு token-ஐ தட்டவும் — காலம் உடனடியாக கீழ்நோக்கி எண்ணத் தொடங்குகிறது மற்றும் உங்கள் அடுத்த XP ஈட்டங்களுக்குப் பொருந்துகிறது.
+Inventory-யில் இருந்து token activate செய்யவும் (**Main Menu -> More -> Tokens**). குறைந்தது ஒரு token ஓடும்போது **Active Tokens HUD** தானாக தோன்றும் — ஒவ்வொரு active token-மும் icon, name, மற்றும் **M:SS countdown** காட்டும். Tokens parallel-ஆக ஓடும் (2× XP Boost + Season Pass Boost + Team Access ஒன்றாக இருக்கலாம்).
 
-> Token-கள் **செயல்படுத்தும்போது நுகரப்படுகின்றன** — ஒரு token தொடங்கியதும் நீங்கள் இடைநிறுத்த முடியாது. நீங்கள் தொடர்ந்து சம்பாதிக்கும் அமர்வுகளுக்காக அவற்றைச் சேமிக்கவும்.
+Tokens **செயல்படுத்தும்போது நுகரப்படுகின்றன** — timer தொடங்கியதும் pause செய்ய முடியாது. தொடர்ச்சியான play sessions-க்கு சேமிக்கவும்.
 
 ## அரட்டை மற்றும் செய்தியிடல்
 

@@ -14,7 +14,7 @@ Every new player begins with:
 - **100 Ringgit** in the **wallet**.
 - **1,000 Ringgit** in the **bank**.
 
-That's enough to rent some starter vehicles and grab a few shop items. Houses are out of reach at the start (Tier 1 is **25,000 SR** — see [Housing](/sumaya/housing)) — plan to grind a couple of careers first.
+That's enough to grab a few shop items and start driving the free starter cars (**Perosatu Axia** or **Protan Wira**). Paid civilian rentals start at **1,250 SR**, so your starting wallet alone is not enough for a rental; houses are also out of reach at the start (Tier 1 is **25,000 SR** — see [Housing](/sumaya/housing)).
 
 ## Wallet vs bank
 
@@ -60,6 +60,12 @@ Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new play
 
 Per-action payouts. Totals depend on how long you work.
 
+### Income / Job XP Booster
+
+A future **Income / Job XP Booster** pass is visible in the Shop as a disabled **Coming Soon** card. When it is enabled, it is designed to add **25% more job Ringgit** and **25% more job-sector XP** for eligible work: Bomba, Polis arrests/radar, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, and gig jobs.
+
+It does **not** boost player-level XP, quest rewards, crime payouts, ATM transfers, Sadaqa/donations, refunds, or house/vehicle/shop transactions.
+
 | Source | Ringgit |
 |--------|---------|
 | Rod fishing (per species sold) | 8 SR to wallet |
@@ -67,6 +73,12 @@ Per-action payouts. Totals depend on how long you work.
 | Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
 | Fast Food (per customer) | 25 SR to bank, +150 every 10, -20 wrong-order |
 | Palm oil (per fruit dropped) | Flat 20 SR, banked at end-of-shift; tier 2-4 buckets/sickles speed up the rate, not the per-fruit pay |
+| Gig job: E-Hailing | 40 SR, 8 XP, possible 30% tip |
+| Gig job: Pos Nasional | 35 SR and 7 XP per parcel, possible 10% tip |
+| Gig job: Tow Truck | 80 SR, 12 XP, possible 20% tip |
+| Gig job: Reporter | 50 SR, 10 XP, possible 15% tip |
+| Gig job: Tour Guide | 120 SR, 20 XP, possible 40% tip |
+| Gig job: Restaurant Supplier | 45 SR, 8 XP, possible 10% tip |
 | Bomba (per fire block) | 15 SR to wallet |
 | Bomba (milestone every 15 blocks) | +150 SR bonus |
 | Kesihatan (bandage) | 100 SR to wallet |
@@ -104,9 +116,10 @@ Roughly, from highest per-hour to lowest, assuming you stay busy:
 5. **Kesihatan splints** - 200 SR per splint + milestone bonus.
 6. **Pickpocket NPCs** - 50-200 SR per pick, low risk, steady.
 7. **Palm oil shifts** - steady, level-dependent, end-of-shift banking.
-8. **Service sector orders** - steady; per-customer pay is flat (Mamak 30 SR / FastFood 25 SR) and does NOT scale with sector level. Higher levels just unlock cosmetic ranks.
-9. **Rod fishing** - quick SR, player XP only, best for casual play.
-10. **Trawl fishing** - slower SR but the only way to level the fishing sector.
+8. **Gig jobs** - short, varied errands with quick interaction steps. Tour Guide and Tow Truck are the highest single-gig payouts, while Pos Nasional can stack per parcel.
+9. **Service sector orders** - steady; per-customer pay is flat (Mamak 30 SR / FastFood 25 SR) and does NOT scale with sector level. Higher levels just unlock cosmetic ranks.
+10. **Rod fishing** - quick SR, player XP only, best for casual play.
+11. **Trawl fishing** - slower SR but the only way to level the fishing sector.
 
 ## Spending Ringgit
 
@@ -114,8 +127,9 @@ Roughly, from highest per-hour to lowest, assuming you stay busy:
 
 Where most of your money will go.
 
-- **Free civilian cars** - dozens available at player level 1. Just rent and drive.
-- **Premium civilian cars** - 2,000-29,000 Ringgit. The Joguar XJ308 R is the cap.
+- **Free starter cars** - Perosatu Axia and Protan Wira.
+- **Paid standard civilian cars** - rent for 1,250-8,750 Ringgit or buy for 5,000-35,000 Ringgit. The Protan X70 is the current standard civilian cap.
+- **Classic Car Pack cars** - gamepass-gated; Protan Saga 1985 is free for owners, while the paid classics cost 12,000-29,000 Ringgit to buy.
 - **Fishing trawlers** - Tier 1 free, Tier 2 25,000, Tier 3 37,000.
 - **Team vehicles** - 6,500-20,000 Ringgit, gated by sector level.
 
@@ -165,6 +179,7 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 ## What next?
 
 - [Progression](/sumaya/progression) for how XP and Ringgit interact.
+- Gig jobs for short-run payout details.
 - [Vehicles](/sumaya/vehicles) for the price catalog.
 - [Housing](/sumaya/housing) for house prices.
 - [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.

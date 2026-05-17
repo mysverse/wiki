@@ -2,8 +2,8 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: 8879dce6
-translated_on: '2026-04-30'
+translated_from_hash: '7e369425'
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -19,7 +19,7 @@ Setiap pemain baharu bermula dengan:
 - **100 Ringgit** dalam **dompet**.
 - **1,000 Ringgit** dalam **bank**.
 
-Itu cukup untuk menyewa beberapa kenderaan permulaan dan membeli beberapa item kedai. Rumah belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** — lihat [Perumahan](/sumaya/housing)) — rancang untuk menggilap beberapa Kerjaya dahulu.
+Itu cukup untuk mengambil beberapa item kedai dan mula memandu kereta permulaan percuma (**Perosatu Axia** atau **Protan Wira**). Sewaan kereta awam berbayar bermula pada **1,250 SR**, jadi dompet permulaan anda sahaja tidak cukup untuk sewaan; rumah juga belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** — lihat [Perumahan](/sumaya/housing)).
 
 ## Dompet lawan bank
 
@@ -65,6 +65,12 @@ Gunakan Sadaqa untuk hadiah roleplay pantas, berkongsi bil, atau membantu pemain
 
 Bayaran setiap tindakan. Jumlah keseluruhan bergantung pada berapa lama anda bekerja.
 
+### Income / Job XP Booster
+
+Pas **Income / Job XP Booster** akan datang kelihatan dalam Shop sebagai kad **Coming Soon** yang dilumpuhkan. Apabila ia diaktifkan, ia direka untuk menambah **25% lebih Ringgit kerja** dan **25% lebih XP sektor kerja** untuk kerja yang layak: Bomba, tangkapan/radar Polis, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, dan gig jobs.
+
+Ia **tidak** meningkatkan XP level pemain, ganjaran quest, bayaran jenayah, pemindahan ATM, Sadaqa/derma, bayaran balik, atau transaksi rumah/kenderaan/kedai.
+
 | Sumber | Ringgit |
 |--------|---------|
 | Memancing dengan joran (setiap spesies dijual) | 8 SR ke dompet |
@@ -72,6 +78,12 @@ Bayaran setiap tindakan. Jumlah keseluruhan bergantung pada berapa lama anda bek
 | Mamak (setiap pelanggan) | 30 SR ke bank, +180 setiap 10, -25 pesanan salah |
 | Fast Food (setiap pelanggan) | 25 SR ke bank, +150 setiap 10, -20 pesanan salah |
 | Kelapa sawit (setiap buah dijatuhkan) | Tetap 20 SR, dibankkan pada penghujung syif; baldi/sabit tier 2-4 mempercepatkan kadar, bukan bayaran per-buah |
+| Gig job: E-Hailing | 40 SR, 8 XP, kemungkinan tip 30% |
+| Gig job: Pos Nasional | 35 SR dan 7 XP setiap bungkusan, kemungkinan tip 10% |
+| Gig job: Tow Truck | 80 SR, 12 XP, kemungkinan tip 20% |
+| Gig job: Reporter | 50 SR, 10 XP, kemungkinan tip 15% |
+| Gig job: Tour Guide | 120 SR, 20 XP, kemungkinan tip 40% |
+| Gig job: Restaurant Supplier | 45 SR, 8 XP, kemungkinan tip 10% |
 | Bomba (setiap blok api) | 15 SR ke dompet |
 | Bomba (pencapaian setiap 15 blok) | Bonus +150 SR |
 | Kesihatan (pembalut) | 100 SR ke dompet |
@@ -109,9 +121,10 @@ Secara kasar, dari setiap jam tertinggi hingga terendah, dengan andaian anda kek
 5. **Anduh Kesihatan** - 200 SR setiap anduh + bonus pencapaian.
 6. **Pickpocket NPC** - 50-200 SR setiap pick, risiko rendah, mantap.
 7. **Syif kelapa sawit** - mantap, bergantung pada level, perbankan penghujung syif.
-8. **Pesanan sektor perkhidmatan** - mantap; bayaran setiap pelanggan adalah tetap (Mamak 30 SR / FastFood 25 SR) dan TIDAK berskala dengan level sektor. Level yang lebih tinggi hanya membuka pangkat kosmetik.
-9. **Memancing dengan joran** - SR pantas, hanya XP pemain, terbaik untuk permainan kasual.
-10. **Memancing pukat** - SR lebih perlahan tetapi satu-satunya cara untuk menaikkan level sektor memancing.
+8. **Gig jobs** - tugasan pendek dan pelbagai dengan langkah interaksi pantas. Tour Guide dan Tow Truck memberikan bayaran tunggal tertinggi, manakala Pos Nasional boleh dikumpulkan mengikut setiap bungkusan.
+9. **Pesanan sektor perkhidmatan** - mantap; bayaran setiap pelanggan adalah tetap (Mamak 30 SR / FastFood 25 SR) dan TIDAK berskala dengan level sektor. Level yang lebih tinggi hanya membuka pangkat kosmetik.
+10. **Memancing dengan joran** - SR pantas, hanya XP pemain, terbaik untuk permainan kasual.
+11. **Memancing pukat** - SR lebih perlahan tetapi satu-satunya cara untuk menaikkan level sektor memancing.
 
 ## Membelanjakan Ringgit
 
@@ -119,8 +132,9 @@ Secara kasar, dari setiap jam tertinggi hingga terendah, dengan andaian anda kek
 
 Tempat kebanyakan wang anda akan dibelanjakan.
 
-- **Kereta awam percuma** - berpuluh-puluh tersedia pada level pemain 1. Cuma sewa dan pandu.
-- **Kereta awam premium** - 2,000-29,000 Ringgit. Joguar XJ308 R adalah hadnya.
+- **Kereta permulaan percuma** - Perosatu Axia dan Protan Wira.
+- **Kereta awam standard berbayar** - sewa untuk 1,250-8,750 Ringgit atau beli untuk 5,000-35,000 Ringgit. Protan X70 ialah had awam standard semasa.
+- **Kereta Classic Car Pack** - dikunci gamepass; Protan Saga 1985 percuma untuk pemilik, manakala klasik berbayar berharga 12,000-29,000 Ringgit untuk dibeli.
 - **Trawler memancing** - Tier 1 percuma, Tier 2 25,000, Tier 3 37,000.
 - **Kenderaan pasukan** - 6,500-20,000 Ringgit, dikawal oleh level sektor.
 
@@ -170,6 +184,7 @@ Ini berkumpul atas bayaran setiap tindakan. Rancang sesi anda untuk mencapai pen
 ## Apa seterusnya?
 
 - [Progres](/sumaya/progression) untuk cara XP dan Ringgit berinteraksi.
+- Gig jobs untuk butiran bayaran tugasan pendek.
 - [Kenderaan](/sumaya/vehicles) untuk katalog harga.
 - [Perumahan](/sumaya/housing) untuk harga rumah.
 - [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk sisi jenayah ekonomi.

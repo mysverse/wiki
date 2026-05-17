@@ -2,8 +2,8 @@
 title: Dunia & Peta
 description: 'Bandar Seri Putra, Jersik, Kampung Merbang, dan 29 lokasi utama di Lebuhraya.'
 lang: ms
-translated_from_hash: 2c72abbd
-translated_on: '2026-04-21'
+translated_from_hash: 34c75ad4
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Dunia & Peta
@@ -23,7 +23,7 @@ Penempatan terbesar — hab utama anda untuk pekerjaan, perkhidmatan, dan pernia
 - **Depoh Bas Bandar Seri Putra** — Depoh bas (permulaan laluan Pemandu Bas)
 - **Radtrol Petrol Station Bandar Seri Putra** — Stesen minyak
 - **Stesen Insinerasi Bandar Seri Putra** — Pusat pelupusan sampah
-- **Gravstone Workshop Bandar Seri Putra** — Pembaikan kenderaan
+- **Gravstone Workshop Bandar Seri Putra** — Cat kenderaan dan penyesuaian badan
 - **Pangsapuri Seri Putra** — Kompleks pangsapuri / plot perumahan
 - **Masjid Bandar Seri Putra** — Masjid
 - **KTN Bandar Seri Putra** — Cawangan KTN

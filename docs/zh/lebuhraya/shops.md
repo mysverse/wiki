@@ -2,8 +2,8 @@
 title: 商店
 description: Lebuhraya 的食品、零食和杂货商店汇总。
 lang: zh
-translated_from_hash: 5e14cc5a
-translated_on: '2026-04-21'
+translated_from_hash: 8c2d37cd
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # 商店
@@ -86,6 +86,17 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 完整规模的超市体验。你可以走过货架走道、从架上挑选物品，并在收银台结账。这是 Checkout 工作（Malaysians 社群团队）的绝佳 roleplay 地点。
 
+**完整 katalog**（约 37 件物品，分 6 类）：
+
+- **Drinks (7)**: Coffee Cookies Frappe, Chocolate Cookies Frappe, Milk Cookies Frappe, Strawberry Frappe, Boba Tea, Coffee, Mineral Water
+- **Food (3)**: Sandwiches, Onigiri, Cheese Cake
+- **Noodles (5)**: Maggi Curry, Maggi Tomyam, Samyang Carbonara, Samyang Cheese, Samyang Ramen
+- **Oden (5)**: Fish Ball, Fish Cake, Full Set, Odeng Fish Cake, Crab
+- **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
+- **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
+
+和其他商店一样，KeluargaMart 目前免费 — 想拿什么就拿什么。执法队伍玩家（Polis、APJ）会被阻止使用 register 互动，以避免值勤时的不专业行为。
+
 ## Food Delivery 互动
 
 上述大多数食品商店同时也是 **Food Delivery** 工作的取餐地点。当你担任 Food Delivery 骑手时，你的 waypoint 会引导你前往其中一间商店取单，然后再送到顾客那里。
@@ -96,12 +107,12 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 - 走到商店 NPC 或柜台前。
 - 会出现一个 ProximityPrompt——与之互动以打开商店菜单。
-- 选择物品；BR 会从你的余额中扣除。
+- 选择物品。在当前 build 中不会扣除 BR；物品会免费发放。
 - 物品会作为 tool 出现在你的 inventory 中。装备它即可使用 / 食用 / 展示。
 
 ## 在哪里找到它们
 
-商店分布于 Bandar Seri Putra 和 Jersik 之间。地图 waypoint 系统（位于 MyPod 菜单或 topbar 中）会将你导航至你选择的任何商店。请参阅 [世界与地图](/lebuhraya/map) 以了解区域布局。
+商店分布于 Bandar Seri Putra 和 Jersik 之间。使用 Phone GPS / topbar waypoint 系统导航到你选择的商店。请参阅 [世界与地图](/lebuhraya/map) 以了解区域布局。
 
 ## 后续步骤
 

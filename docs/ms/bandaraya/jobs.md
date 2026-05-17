@@ -4,8 +4,8 @@ description: >-
   Setiap kerja di Bandaraya — perkhidmatan pos, pemandu teksi, tunda, pemandu
   bas, dan kerja agensi — dengan kadar gaji dan pangkat.
 lang: ms
-translated_from_hash: 2fdee6c4
-translated_on: '2026-04-21'
+translated_from_hash: 3d36135a
+translated_on: '2026-05-17'
 needs_review: true
 ---
 # Kerjaya
@@ -80,6 +80,8 @@ Layan tempahan penumpang, pandu mereka ke destinasi, dan kutip tambang.
 
 - **Gamepass Taxi Driver** (150 R$) — cara paling murah.
 - **ATAU** sertai kumpulan **Taxi Services** (berdaftar SSM).
+
+Jika anda membeli gamepass di tengah sesi, sistem **mengesan pembelian secara automatik** (tidak perlu rejoin) dan pasukan Taxi Services muncul dalam menu pasukan anda dalam beberapa saat.
 
 Pemegang gamepass juga boleh bertukar ke pasukan Taxi Services melalui menu.
 

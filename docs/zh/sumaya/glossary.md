@@ -2,8 +2,8 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: 7ced3912
-translated_on: '2026-04-30'
+translated_from_hash: db93a1f9
+translated_on: '2026-05-17'
 needs_review: true
 ---
 
@@ -141,5 +141,5 @@ needs_review: true
 
 ## 接下来呢？
 
-- 如果你是新手，[开始游戏](/sumaya/get-started)。
-- 任何特定章节 — 使用侧边栏查看完整目录。
+- 如果你是新手，请看[入门](/zh/)。
+- 任何特定章节（见 [README](/zh/) 的完整目录）。
