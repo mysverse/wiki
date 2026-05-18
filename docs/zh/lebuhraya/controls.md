@@ -2,7 +2,7 @@
 title: 操作
 description: Lebuhraya 的全部操作方式 - 键盘、手柄、移动端和 VR 输入。
 lang: zh
-translated_from_hash: "d8b4a850"
+translated_from_hash: "1bf9e4df"
 translated_on: 2026-05-18
 needs_review: true
 ---

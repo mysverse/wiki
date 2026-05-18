@@ -47,7 +47,7 @@ Passengers in a convoy vehicle get half the driver's bonus.
 
 A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
 
-## 999 Emergency system
+## 999 Emergency System
 
 Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
 
@@ -103,7 +103,7 @@ More phone apps may appear over time as the MYSverse platform adds features.
 - GPS waypoints are the safest way to reach a POI without staff-only fast travel.
 - If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
 
-## MyPod music player
+## MyPod Music Player
 
 **MyPod** is the topbar music player. It is not a vehicle spawner.
 
@@ -157,7 +157,7 @@ Use Report for:
 
 Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
 
-## Identity card (IC)
+## Identity Card (IC)
 
 Lebuhraya issues each player a **Malaysian-style identity card** in the Phone / Tablet app, generated with the real Malaysian IC format:
 

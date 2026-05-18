@@ -2,7 +2,7 @@
 title: 商店
 description: Lebuhraya 的食品、零食和杂货商店汇总。
 lang: zh
-translated_from_hash: "f8e1b3fe"
+translated_from_hash: "7d8ddb32"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -2,7 +2,7 @@
 title: 车辆
 description: Sumaya 的汽车、船只、救护车、生成器与个性化定制。
 lang: zh
-translated_from_hash: "fa5c5843"
+translated_from_hash: "26762768"
 translated_on: 2026-05-18
 needs_review: true
 ---

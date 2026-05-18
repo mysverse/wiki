@@ -72,7 +72,7 @@ Some vehicles protect occupants better than normal cars:
 
 Civilian cars are not bulletproof.
 
-## Dealership: classic car dealer
+## Dealership: Classic Car Dealer
 
 The Classic Car Dealer sells civilian vehicles.
 

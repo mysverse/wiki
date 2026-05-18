@@ -2,7 +2,7 @@
 title: Kemajuan
 description: 'XP, tahap, pangkat, dan jalan terpantas untuk naik di Sumaya.'
 lang: ms
-translated_from_hash: "22aa863c"
+translated_from_hash: "a551785b"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -4,7 +4,7 @@ description: >-
   Setiap kerja di Lebuhraya - disusun mengikut agensi (Pengangkutan dan banyak
   lagi) dengan kadar gaji.
 lang: ms
-translated_from_hash: "6baee86a"
+translated_from_hash: "5cce8469"
 translated_on: 2026-05-18
 needs_review: true
 ---

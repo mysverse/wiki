@@ -2,7 +2,7 @@
 title: அடிக்கடி கேட்கப்படும் கேள்விகள்
 description: Bandaraya-வில் புதிய வீரர்களின் பொதுவான கேள்விகள்.
 lang: ta
-translated_from_hash: "992a505f"
+translated_from_hash: "ed23671b"
 translated_on: 2026-05-18
 needs_review: true
 ---

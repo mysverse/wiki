@@ -20,7 +20,7 @@ Public-service roles are central to Bandaraya. This page explains what each emer
 | **MAF** | Military roleplay | No standard police role |
 | **KPTD** | Military police | Yes |
 
-## POLIS - police
+## POLIS - Police
 
 POLIS is the main law-enforcement team.
 
@@ -46,11 +46,11 @@ POLIS may receive a taser, baton, cuffs, search tool, Saman tool, radar gun, fla
 
 See [Arrest & Law](/bandaraya/arrest-and-law) for the arrest flow.
 
-## Polis bantuan
+## Polis Bantuan
 
 Polis Bantuan MyTransit supports policing around transit areas. They can assist with detainment and arrests, but roleplay should normally stay around bus, MRT, and Monorail operations.
 
-## BOMBA - fire & rescue
+## BOMBA - Fire & Rescue
 
 BOMBA handles fire and rescue incidents.
 
@@ -66,7 +66,7 @@ BOMBA handles fire and rescue incidents.
 
 Fire incidents can appear when BOMBA is on duty. BOMBA players receive alerts with a map pin, sound, and tablet notification. Incidents have a time limit and are cleaned up if nobody is left on BOMBA duty.
 
-## KKM - health ministry
+## KKM - Health Ministry
 
 KKM is the main medical team.
 
@@ -91,7 +91,7 @@ RELA supports public-order scenes with basic tools such as baton, search, and fl
 
 The MYSverse Armed Forces operate from Kem Wardieburn. MAF roleplay focuses on military duties, parades, base operations, and special events. Regular MAF members should not act like city police.
 
-## KPTD - military police
+## KPTD - Military Police
 
 KPTD is the military police branch. They can arrest and handle military-police matters, especially around MAF personnel and military scenes.
 

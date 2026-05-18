@@ -2,7 +2,7 @@
 title: 常见问题与技巧
 description: Lebuhraya 新玩家的常见问题与快速上手技巧。
 lang: zh
-translated_from_hash: "3b7f88d1"
+translated_from_hash: "7d08f53f"
 translated_on: 2026-05-18
 needs_review: true
 ---

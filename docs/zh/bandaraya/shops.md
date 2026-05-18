@@ -2,7 +2,7 @@
 title: Bandaraya 的商店与经济
 description: 商店、NPC 摊贩、游戏通行证以及 Bandar Ringgit（BR）经济体系的完整指南。
 lang: zh
-translated_from_hash: "da86e9d0"
+translated_from_hash: "207f40e4"
 translated_on: 2026-05-18
 needs_review: true
 ---

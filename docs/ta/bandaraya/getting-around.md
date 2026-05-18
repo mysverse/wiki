@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் பொதுப் போக்குவரத்து - MRT, LRT, மோனோரயில், பேருந்துகள், CAG
   கார்டு, இ-ஹெயிலிங், மற்றும் TapNGo டோல்கள்.
 lang: ta
-translated_from_hash: "adedcd63"
+translated_from_hash: "d67acc21"
 translated_on: 2026-05-18
 needs_review: true
 ---

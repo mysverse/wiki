@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் வாகனங்களை உருவாக்குதல், ஓட்டுதல், எரிபொருள் நிரப்புதல்,
   வாங்குதல் அல்லது வாடகைக்கு எடுத்தல்.
 lang: ta
-translated_from_hash: "7f0d7756"
+translated_from_hash: "ae357b6e"
 translated_on: 2026-05-18
 needs_review: true
 ---

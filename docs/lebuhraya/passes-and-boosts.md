@@ -47,18 +47,18 @@ Check the in-game Store for the current list.
 
 Roblox Premium subscribers get a permanent **+25% XP** in Lebuhraya, automatically - no activation needed. This stacks with every other boost. If you already subscribe to Roblox Premium, you're effectively always at ×1.25.
 
-## Season pass
+## Season Pass
 
 Lebuhraya runs **Season Passes** - time-limited progression tracks with tiered rewards.
 
-### How season passes work
+### How Season Passes work
 
 - Each season lasts a set period (typically 5-6 weeks).
 - You earn **Season XP** by completing missions - short objective challenges linked to existing gameplay activities.
 - Every tier you clear grants a **reward** - typically a cosmetic item, token, or (historically) a shortcut to unlocking a team.
 - A **Premium Track** (purchased with a gamepass) unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
 
-### Current season: season 2 "Lebuhraya"
+### Current season: Season 2 "Lebuhraya"
 
 Running **March 20 – April 30, 2026** (UTC+8). 13 tiers. Rewards focus on XP drops, 2× XP and Season Pass Boost tokens, badges (like "Season 2 Pioneer"), and unlockable paints (e.g. "Copper Kampung").
 
@@ -82,7 +82,7 @@ Most notable:
 - **Team Access Pass** - temporary access to a gamepass-locked team
 - **2× Season Pass Boost** - doubles Season Pass XP gains
 
-## Double XP & free trial events
+## Double XP & Free Trial events
 
 Periodically, the game runs scheduled **2X XP events** tied to Malaysian cultural holidays and MYSverse milestones. While an event is active, every player's base XP multiplier becomes ×2 - on top of Premium, convoy, gamepass, and token boosts.
 

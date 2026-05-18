@@ -4,7 +4,7 @@ description: >-
   Kelakuan yang boleh menyebabkan anda dilarang di Bandaraya, dan cara membuat
   rayuan.
 lang: ms
-translated_from_hash: "6b6b998b"
+translated_from_hash: "1a4c853d"
 translated_on: 2026-05-18
 needs_review: true
 ---

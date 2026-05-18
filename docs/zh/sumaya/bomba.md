@@ -2,7 +2,7 @@
 title: 消防
 description: 在 Sumaya 扮演 BOMBA - 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: "eff996fa"
+translated_from_hash: "32ec3fc1"
 translated_on: 2026-05-18
 needs_review: true
 ---

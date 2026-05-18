@@ -25,7 +25,7 @@ If the tablet does not appear, your team may not have tablet access.
 
 ## Apps
 
-### MDT - mobile data terminal
+### MDT - Mobile Data Terminal
 
 POLIS uses MDT for:
 
@@ -40,7 +40,7 @@ MDT is currently for POLIS and selected staff roles. KPTD and Polis Bantuan may 
 
 Emergency coordination app for response teams. It helps teams receive and coordinate incident calls.
 
-### Vehicle management
+### Vehicle Management
 
 Vehicle-related tools such as plate lookup, registration checks, and vehicle tracking for teams that receive the app.
 
@@ -48,11 +48,11 @@ Vehicle-related tools such as plate lookup, registration checks, and vehicle tra
 
 Tow app for towing work. POLIS and Towing Services can access it in the current setup.
 
-### KKM logger
+### KKM Logger
 
 Medical logging app for KKM.
 
-### Staff tools
+### Staff Tools
 
 Staff-only tools may appear for moderation or testing roles.
 

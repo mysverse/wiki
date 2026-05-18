@@ -2,7 +2,7 @@
 title: 平板电脑
 description: Bandaraya 的队伍专属平板工具 - MDT、MyEmergency、MyTow、KKM Logger 及其他应用。
 lang: zh
-translated_from_hash: "e68f2619"
+translated_from_hash: "35803e65"
 translated_on: 2026-05-18
 needs_review: true
 ---

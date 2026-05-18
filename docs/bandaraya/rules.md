@@ -85,7 +85,7 @@ Do not use alternate accounts or someone else's account to avoid a ban.
 
 Do not share anyone's private information.
 
-### Roblox terms of service
+### Roblox Terms of Service
 
 No racism, NSFW content, online dating, inappropriate symbols, or other content Roblox would not allow.
 
@@ -99,7 +99,7 @@ These are not always ban rules, but they make the game better:
 - Do not metagame with information your character would not know.
 - Keep out-of-character arguments away from in-character scenes.
 
-## Penal code roleplay
+## Penal Code roleplay
 
 POLIS and judicial roleplay may refer to Malaysian Penal Code sections for flavour. Staff moderation still follows Bandaraya and Roblox rules.
 

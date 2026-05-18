@@ -2,7 +2,7 @@
 title: Pas & Peningkatan
 description: 'Gamepass, peningkatan XP, dan faedah Premium di Lebuhraya.'
 lang: ms
-translated_from_hash: "104eb496"
+translated_from_hash: "416f1316"
 translated_on: 2026-05-18
 needs_review: true
 ---

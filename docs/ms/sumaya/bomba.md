@@ -4,7 +4,7 @@ description: >-
   Bermain sebagai BOMBA di Sumaya - jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: "eff996fa"
+translated_from_hash: "32ec3fc1"
 translated_on: 2026-05-18
 needs_review: true
 ---

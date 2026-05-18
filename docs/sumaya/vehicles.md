@@ -63,7 +63,7 @@ These spawn without rent or buy cost:
 
 The **Protan X70** is currently the most expensive standard civilian car.
 
-### Classic car pack
+### Classic Car Pack
 
 These cars show at the civilian dealer but require the Classic Car Pack gamepass. Non-owners see them locked with a gamepass prompt.
 

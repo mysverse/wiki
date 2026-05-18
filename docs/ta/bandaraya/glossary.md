@@ -4,7 +4,7 @@ description: >-
   மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் - POLIS, BOMBA,
   KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.
 lang: ta
-translated_from_hash: "8ee918a6"
+translated_from_hash: "bc910f35"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -2,7 +2,7 @@
 title: பனை எண்ணெய் (விவசாயம்)
 description: Sumaya-வில் பனை எண்ணெய் மற்றும் விவசாய வேலை.
 lang: ta
-translated_from_hash: "f582401a"
+translated_from_hash: "e7fd3b6b"
 translated_on: 2026-05-18
 needs_review: true
 ---

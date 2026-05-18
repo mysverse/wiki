@@ -2,7 +2,7 @@
 title: 手机与界面
 description: Sumaya 的 12 款手机应用、HUD 以及小地图介绍。
 lang: zh
-translated_from_hash: "afb76c5b"
+translated_from_hash: "388e3d0a"
 translated_on: 2026-05-18
 needs_review: true
 ---

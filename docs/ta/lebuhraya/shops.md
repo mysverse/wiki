@@ -2,7 +2,7 @@
 title: கடைகள்
 description: 'Lebuhraya முழுவதும் உணவு, சிற்றுண்டி, மற்றும் பயன்பாட்டுக் கடைகள்.'
 lang: ta
-translated_from_hash: "f8e1b3fe"
+translated_from_hash: "7d8ddb32"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -4,7 +4,7 @@ description: >-
   Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் - உருவாக்கம், எரிபொருள்,
   விபத்து, மற்றும் தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: "ab254b34"
+translated_from_hash: "d716ea1a"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -4,7 +4,7 @@ description: >-
   கடைகள், NPC விற்பனையாளர்கள், கேம்பாஸ்கள், மற்றும் Bandar Ringgit (BR)
   பொருளாதார அமைப்புக்கான முழுமையான வழிகாட்டி.
 lang: ta
-translated_from_hash: "da86e9d0"
+translated_from_hash: "207f40e4"
 translated_on: 2026-05-18
 needs_review: true
 ---

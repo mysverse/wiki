@@ -54,7 +54,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi - Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
 
-### Bus driver
+### Bus Driver
 
 **Unlock**: Free - this is one of two free teams.
 
@@ -85,7 +85,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 ## Perkhidmatan (services)
 
-### Food delivery
+### Food Delivery
 
 **Unlock**: Level 10. This is usually your first real job.
 
@@ -101,7 +101,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
 
-### Post office
+### Post Office
 
 **Unlock**: Level 50.
 
@@ -121,7 +121,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **Vehicle**: Handai EX5 Pos (motorcycle) or Tayoti Hilux Pos (truck).
 
-### Waste disposal
+### Waste Disposal
 
 **Unlock**: Level 25 (older game text may still say 50 - level 25 is the current in-game value).
 
@@ -160,7 +160,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **Rewards**: XP per incident resolved. Larger incidents pay more.
 
-### Kesihatan (KKN medic)
+### Kesihatan (KKN Medic)
 
 **Unlock**: Level 200.
 
@@ -216,7 +216,7 @@ A perfect Traumatic Brain Injury case = 25 + 100 + 50 + 25 + 100 = **300 XP** (p
 
 ---
 
-## Polis (police)
+## Polis (Police)
 
 All police teams share the 999 emergency dispatch and can use the same enforcement tools. What differs is where they spawn, the uniform, and the vehicle liveries.
 
@@ -232,7 +232,7 @@ All police teams share the 999 emergency dispatch and can use the same enforceme
 
 **Vehicle**: KEMRonda PB Peronda Hilux variants, iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
 
-### Polis trafik
+### Polis Trafik
 
 **Unlock**: Polis Trafik gamepass.
 
@@ -251,7 +251,7 @@ Polis Trafik players can be notified of detected offences and respond.
 
 **Vehicle**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, and various escort variants.
 
-### Undercover police
+### Undercover Police
 
 **Unlock**: Undercover Police gamepass.
 
@@ -283,7 +283,7 @@ Polis Trafik players can be notified of detected offences and respond.
 
 ## Sumber (resources)
 
-### Power nasional
+### Power Nasional
 
 **Unlock**: Level 100.
 
@@ -337,7 +337,7 @@ The school also powers a weekly challenge: **Quiz Master (Advanced)** - answer *
 
 **Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
 
-## Community jobs (malaysians group)
+## Community jobs (Malaysians group)
 
 These activities are available to anyone on the **Malaysians** team (join the MYSverse group at rank 1+).
 
@@ -439,7 +439,7 @@ See [Housing](/lebuhraya/housing) for details.
 
 ---
 
-## 999 Emergency system
+## 999 Emergency System
 
 Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If you're on an emergency team (Bomba, Polis Trafik, Undercover Police, Kesihatan), equip your **Pager** to see active incidents and accept one.
 

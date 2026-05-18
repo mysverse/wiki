@@ -2,7 +2,7 @@
 title: பொருளாதாரம்
 description: 'Ringgit (SR), பணப்பை vs வங்கி, மற்றும் Sumaya-வில் சம்பாதிக்கும் வழிகள்.'
 lang: ta
-translated_from_hash: "8b1e7c64"
+translated_from_hash: "5f770573"
 translated_on: 2026-05-18
 needs_review: true
 ---

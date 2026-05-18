@@ -2,7 +2,7 @@
 title: 房屋
 description: Sumaya 的地块、户型模板、等级、家具以及出售房屋说明。
 lang: zh
-translated_from_hash: "406f702b"
+translated_from_hash: "48e888ff"
 translated_on: 2026-05-18
 needs_review: true
 ---

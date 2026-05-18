@@ -4,7 +4,7 @@ description: >-
   Apa yang perlu dibuat jika akaun Roblox anda dilarang - rayuan, bukti, dan
   akaun baharu.
 lang: ms
-translated_from_hash: "671ca4a6"
+translated_from_hash: "57955391"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -2,7 +2,7 @@
 title: சமூக அம்சங்கள்
 description: 'Lebuhraya-வில் கான்வாய், 999 அவசர சேவை, மற்றும் விளையாட்டுக்குள் தொலைபேசி.'
 lang: ta
-translated_from_hash: "323e13bf"
+translated_from_hash: "c1d2692d"
 translated_on: 2026-05-18
 needs_review: true
 ---

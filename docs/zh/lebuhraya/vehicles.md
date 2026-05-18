@@ -2,7 +2,7 @@
 title: 车辆
 description: Lebuhraya 全部 127 款车型 - 生成、燃料、撞车机制和个性化定制。
 lang: zh
-translated_from_hash: "ab254b34"
+translated_from_hash: "d716ea1a"
 translated_on: 2026-05-18
 needs_review: true
 ---

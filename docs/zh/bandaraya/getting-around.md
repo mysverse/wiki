@@ -2,7 +2,7 @@
 title: Bandaraya 公共交通指南
 description: Bandaraya 的公共交通 - MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。
 lang: zh
-translated_from_hash: "adedcd63"
+translated_from_hash: "d67acc21"
 translated_on: 2026-05-18
 needs_review: true
 ---

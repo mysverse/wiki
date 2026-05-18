@@ -2,7 +2,7 @@
 title: 工作
 description: Lebuhraya 全部工作说明 - 按机构分类（Pengangkutan 等），附薪资说明。
 lang: zh
-translated_from_hash: "6baee86a"
+translated_from_hash: "5cce8469"
 translated_on: 2026-05-18
 needs_review: true
 ---

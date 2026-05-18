@@ -4,7 +4,7 @@ description: >-
   Sumaya-வில் கார்கள், படகுகள், ஆம்புலன்ஸ்கள், ஸ்பானர்கள், மற்றும்
   தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: "fa5c5843"
+translated_from_hash: "26762768"
 translated_on: 2026-05-18
 needs_review: true
 ---

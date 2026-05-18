@@ -2,7 +2,7 @@
 title: Kedai
 description: 'Kedai makanan, snek, dan utiliti di seluruh Lebuhraya.'
 lang: ms
-translated_from_hash: "f8e1b3fe"
+translated_from_hash: "7d8ddb32"
 translated_on: 2026-05-18
 needs_review: true
 ---

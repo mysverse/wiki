@@ -2,7 +2,7 @@
 title: Telefon & UI
 description: '12 aplikasi telefon, HUD, dan peta mini di Sumaya.'
 lang: ms
-translated_from_hash: "afb76c5b"
+translated_from_hash: "388e3d0a"
 translated_on: 2026-05-18
 needs_review: true
 ---

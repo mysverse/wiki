@@ -2,7 +2,7 @@
 title: Sektor Perkhidmatan (Mamak & Makanan Segera)
 description: Kerjaya mamak dan makanan segera di Sumaya.
 lang: ms
-translated_from_hash: "47b94c4d"
+translated_from_hash: "ec4d4971"
 translated_on: 2026-05-18
 needs_review: true
 ---

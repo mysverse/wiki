@@ -4,7 +4,7 @@ description: >-
   Mula bermain Sumaya - menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: "2ef9751f"
+translated_from_hash: "fcf325e6"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -2,7 +2,7 @@
 title: தொலைபேசி & UI
 description: 'Sumaya-வில் 12 தொலைபேசி செயலிகள், HUD, மற்றும் சிறு வரைபடம்.'
 lang: ta
-translated_from_hash: "afb76c5b"
+translated_from_hash: "388e3d0a"
 translated_on: 2026-05-18
 needs_review: true
 ---

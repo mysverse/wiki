@@ -4,7 +4,7 @@ description: >-
   Lebuhraya-வில் புதிய வீரர்களுக்கான பொதுவான கேள்விகள் மற்றும் விரைவான
   உதவிக்குறிப்புகள்.
 lang: ta
-translated_from_hash: "3b7f88d1"
+translated_from_hash: "7d08f53f"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -75,7 +75,8 @@ Paths are absolute in `scripts/migrate-source.mjs`. Edit the `SOURCE_ROOTS` map 
 These are hard rules for English source pages. `scripts/lint-style.mjs` catches the common mechanical regressions, but agents must still use judgement.
 
 - **Use British English:** colour, customisation, customise, catalogue, favourite, behaviour, armour, centre, grey, levelling, towards, offence, defence, analyse, organise, specialisation. Use **number plate**, not "license plate".
-- **Use sentence case for EN Markdown headings.** Capitalise only the first word and proper nouns, brands, acronyms, and fixed game terms.
+- **Use sentence case for EN Markdown headings.** Capitalise the first word and preserve proper nouns, official team/job names, place names, UI names, brands, acronyms, and fixed game terms.
+- **Use judgement for names.** If the style script cannot infer a proper name, keep the correct casing and update `scripts/lint-style.mjs`'s allowlist if needed. Do not blindly lowercase names such as Polis Bantuan.
 - **Do not use em dashes.** Use a comma, colon, semicolon, parentheses, or a simple hyphen instead.
 - **Keep docs player-facing.** Explain what the player sees or does. Remove implementation details such as internal flags, backend/debug wording, Roblox tag names, source-code mechanics, Discord logging, datastore behaviour, and moderation tooling internals.
 - **Use player-facing monetisation terms.** Prefer "Robux purchase", "Robux offer", or "gamepass"; avoid "developer product" and "dev product".

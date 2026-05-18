@@ -21,13 +21,13 @@ All prices are in **BR**.
 
 ## Network
 
-### MRT kajang line
+### MRT Kajang Line
 
 - Conlay
 - Persiaran KLCC
 - Ampang Park
 
-### KL monorail line
+### KL Monorail Line
 
 - Bukit Bintang
 - Raja Chulan
@@ -41,7 +41,7 @@ Buses are run by several transport operators. Board by sitting in a passenger se
 
 Some roads use TapNGo toll gates. Drive up, pay, and the gate opens.
 
-## Fast travel: MRT & monorail
+## Fast travel: MRT & Monorail
 
 1. Walk to a station.
 2. Open the fast-travel panel.
@@ -73,7 +73,7 @@ If your CAG balance is too low, the system can fall back to your BR wallet at th
 - With CAG: **12 BR** when your card can pay.
 - If CAG cannot pay, the gate uses the normal BR price.
 
-## CAG (click and go) card
+## CAG (Click and Go) card
 
 CAG is Bandaraya's stored-value transport card. It is live in the current version and has **8 kiosks**, all at MRT and Monorail station entrances.
 

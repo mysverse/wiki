@@ -2,7 +2,7 @@
 title: 社交功能
 description: Lebuhraya 的车队、999 紧急呼叫及游戏内手机功能。
 lang: zh
-translated_from_hash: "323e13bf"
+translated_from_hash: "c1d2692d"
 translated_on: 2026-05-18
 needs_review: true
 ---

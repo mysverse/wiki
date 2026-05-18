@@ -4,7 +4,7 @@ description: >-
   Setiap kerja di Bandaraya - perkhidmatan pos, pemandu teksi, tunda, pemandu
   bas, dan kerja agensi - dengan kadar gaji dan pangkat.
 lang: ms
-translated_from_hash: "1a06c7b3"
+translated_from_hash: "d37fa150"
 translated_on: 2026-05-18
 needs_review: true
 ---

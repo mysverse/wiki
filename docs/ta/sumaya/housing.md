@@ -4,7 +4,7 @@ description: >-
   Sumaya-வில் மனைகள், டெம்ப்ளேட்கள், அடுக்குகள், அறைகலன்கள், மற்றும் வீடு
   விற்பனை.
 lang: ta
-translated_from_hash: "406f702b"
+translated_from_hash: "48e888ff"
 translated_on: 2026-05-18
 needs_review: true
 ---

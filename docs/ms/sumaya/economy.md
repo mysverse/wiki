@@ -2,7 +2,7 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: "8b1e7c64"
+translated_from_hash: "5f770573"
 translated_on: 2026-05-18
 needs_review: true
 ---

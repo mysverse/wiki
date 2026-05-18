@@ -3,7 +3,7 @@ title: "Bomba (Fire Brigade)"
 description: "Playing BOMBA (fire brigade) in Sumaya - tenders, hydrants, and fires."
 ---
 
-# Bomba (fire brigade)
+# Bomba (Fire Brigade)
 
 **Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
 

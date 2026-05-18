@@ -131,11 +131,11 @@ If your tank hits zero, the engine cuts out. Options:
 
 ## Spawner troubleshooting
 
-### I see "you cannot access this spawner while working"
+### I see "You Cannot Access This Spawner While Working"
 
 You are on a job team and using a civilian spawner. Switch to **Visitors** or use your team spawner.
 
-### I see "you must be on the x team"
+### I see "You Must Be on the X Team"
 
 That spawner is team-specific. Join the named team first, including any level, gamepass, or group requirement.
 
@@ -170,7 +170,7 @@ Vehicles take damage from collisions. A heavily-damaged car will start to smoke,
 
 If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens - that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
 
-## Customisation at Gravstone workshop
+## Customisation at Gravstone Workshop
 
 **Gravstone Workshop** in Bandar Seri Putra is the game's paint & visual customisation shop - **not** a repair centre. Drive your vehicle into the workshop's interior zone and a workshop GUI appears with paint and body options.
 
@@ -218,7 +218,7 @@ Some military / armed forces vehicles carry authentic Malaysian service plates:
 
 You'll see these on TUDM escort convoys, event parades, and staff-spawned military vehicles - not typical player cars.
 
-## Emergency lights (ELS)
+## Emergency Lights (ELS)
 
 All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) carry a lightbar that uses the game's ELS (Emergency Lighting System). Toggling ELS:
 
@@ -228,7 +228,7 @@ All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, 
 
 Use ELS only when responding to an incident. Cruising with lights on is a community etiquette no-no.
 
-## Advanced vehicle controls
+## Advanced Vehicle Controls
 
 Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
 

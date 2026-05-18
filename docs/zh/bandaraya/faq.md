@@ -2,7 +2,7 @@
 title: 常见问题
 description: Bandaraya 新玩家常见问题解答。
 lang: zh
-translated_from_hash: "992a505f"
+translated_from_hash: "ed23671b"
 translated_on: 2026-05-18
 needs_review: true
 ---

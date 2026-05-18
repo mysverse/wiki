@@ -50,7 +50,7 @@ Snacks and drinks at affordable prices - perfect for roleplay.
 
 A Malaysian-style tea and coffee shop with an ice cream machine and cosy seating.
 
-### Bartender (club kunyet)
+### Bartender (Club Kunyet)
 
 Drinks served at Club Kunyet nightclub:
 
@@ -64,36 +64,36 @@ Drinks served at Club Kunyet nightclub:
 | Rad's Bepis | 120 |
 | Grav's Oil Drink | 5,000 |
 
-### Matkool (ice cream)
+### Matkool (Ice Cream)
 
 A traditional Malaysian ice cream vendor selling various flavours including Aiskrim Durian, Jagung, Kacang Merah, Bandung, Milo, Oren, Green Split, Yellow Split, and Traffic Light.
 
-### Keluarga mart
+### Keluarga Mart
 
 A grocery store offering various food and household items.
 
-### Toolkit shop
+### Toolkit Shop
 
 | Item | Price (BR) | Description |
 |---|---|---|
 | Toolkit | 100 | Repairs a disabled vehicle (2 uses). Click the button on the engine to fix. |
 | Jerrycan | 800 | Refuel a vehicle. |
 
-### Art shop
+### Art Shop
 
 Purchase art pieces and decorative items.
 
-### Signs shop
+### Signs Shop
 
 Purchase placeable signs for roleplay scenarios.
 
-### Costume shop
+### Costume Shop
 
 Purchase outfits and costume items to customise your character's appearance.
 
-## Special vendors
+## Special Vendors
 
-### Gun dealer
+### Gun Dealer
 
 ::: warning Firearms Licence Required
 You must own the **Firearms Licence** gamepass to purchase from the Gun Dealer.

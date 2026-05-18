@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் உள்ள ஒவ்வொரு வேலை - அஞ்சல் சேவை, டாக்சி ஓட்டுநர், இழுப்பு, பஸ்
   ஓட்டுநர், மற்றும் நிறுவன வேலைகள் - சம்பள விகிதங்கள் மற்றும் தரங்களுடன்.
 lang: ta
-translated_from_hash: "1a06c7b3"
+translated_from_hash: "d37fa150"
 translated_on: 2026-05-18
 needs_review: true
 ---

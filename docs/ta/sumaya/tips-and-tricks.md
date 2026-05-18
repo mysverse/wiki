@@ -4,7 +4,7 @@ description: >-
   Sumaya-விற்கான மறைக்கப்பட்ட இடைவினைகள், கைபேசி குறிப்புகள், மற்றும் நிபுணர்
   உதவிக்குறிப்புகள்.
 lang: ta
-translated_from_hash: "1e068fc4"
+translated_from_hash: "387ac7a5"
 translated_on: 2026-05-18
 needs_review: true
 ---

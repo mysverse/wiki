@@ -2,7 +2,7 @@
 title: 紧急服务概览
 description: POLIS、BOMBA 与 Kesihatan - Sumaya 的紧急服务介绍。
 lang: zh
-translated_from_hash: "3554a580"
+translated_from_hash: "10575bc0"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -2,7 +2,7 @@
 title: முன்னேற்றம்
 description: 'XP, நிலைகள், தரங்கள், மற்றும் Sumaya-வில் விரைவாக முன்னேற வழிகள்.'
 lang: ta
-translated_from_hash: "22aa863c"
+translated_from_hash: "a551785b"
 translated_on: 2026-05-18
 needs_review: true
 ---

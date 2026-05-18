@@ -4,7 +4,7 @@ description: >-
   Kesemua 127 model kenderaan di Lebuhraya - menghasilkan, bahan api,
   perlanggaran, dan penyesuaian.
 lang: ms
-translated_from_hash: "ab254b34"
+translated_from_hash: "d716ea1a"
 translated_on: 2026-05-18
 needs_review: true
 ---

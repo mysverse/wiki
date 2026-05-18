@@ -4,7 +4,7 @@ description: >-
   Lebuhraya-வில் ஒவ்வொரு வேலை - நிறுவனம் வாரியாக வகைப்படுத்தப்பட்டது
   (Pengangkutan போன்றவை) சம்பள விகிதங்களுடன்.
 lang: ta
-translated_from_hash: "6baee86a"
+translated_from_hash: "5cce8469"
 translated_on: 2026-05-18
 needs_review: true
 ---

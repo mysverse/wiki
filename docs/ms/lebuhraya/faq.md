@@ -2,7 +2,7 @@
 title: Soalan Lazim & Petua
 description: Soalan biasa dan kemenangan pantas untuk pemain Lebuhraya yang baharu.
 lang: ms
-translated_from_hash: "3b7f88d1"
+translated_from_hash: "7d08f53f"
 translated_on: 2026-05-18
 needs_review: true
 ---

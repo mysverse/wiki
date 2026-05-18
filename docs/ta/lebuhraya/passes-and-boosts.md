@@ -2,7 +2,7 @@
 title: பாஸ்கள் & பூஸ்டுகள்
 description: 'Lebuhraya-வில் கேம்பாஸ்கள், XP பூஸ்டுகள், மற்றும் Premium நன்மைகள்.'
 lang: ta
-translated_from_hash: "104eb496"
+translated_from_hash: "416f1316"
 translated_on: 2026-05-18
 needs_review: true
 ---

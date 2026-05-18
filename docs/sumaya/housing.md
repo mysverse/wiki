@@ -13,7 +13,7 @@ Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Ba
 
 Sumaya currently has **63 claimable plots**, each visible from the world before you claim it.
 
-## Buying a house at the real estate office
+## Buying a house at the Real Estate Office
 
 House purchases happen exclusively at the **Real Estate Office** (the marked building in the town centre - the Residence phone app's empty state has a "Show on Map" button that pins it for you):
 

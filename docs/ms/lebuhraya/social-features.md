@@ -2,7 +2,7 @@
 title: Ciri Sosial
 description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
-translated_from_hash: "323e13bf"
+translated_from_hash: "c1d2692d"
 translated_on: 2026-05-18
 needs_review: true
 ---

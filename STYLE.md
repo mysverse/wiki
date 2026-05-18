@@ -14,7 +14,8 @@ Hard style rules for the MYSverse Wiki. These apply to English source pages firs
 
 - Use British English in EN source pages: colour, customisation, customise, catalogue, favourite, behaviour, armour, centre, grey, levelling, towards, offence, defence, analyse, organise, specialisation.
 - Use "number plate" instead of "license plate".
-- Use sentence case for English Markdown headings. Capitalise only the first word and proper nouns, brands, acronyms, and fixed game terms.
+- Use sentence case for English Markdown headings. Capitalise the first word and preserve proper nouns, official team/job names, place names, UI names, brands, acronyms, and fixed game terms.
+- If a heading contains a name that the script cannot infer, keep the correct name casing and update the lint allowlist if needed. Do not blindly lowercase names to satisfy sentence case.
 - Do not use em dashes. Use a comma, colon, semicolon, parentheses, or a simple hyphen instead.
 - Preserve game terms, brand names, acronyms, and app names exactly: MYSverse, Bandaraya, Lebuhraya, Sumaya, POLIS, BOMBA, Kesihatan, KKM, MAF, KPTD, MyPay, MyCar, MyTow, MyPod, CAG eWallet, TapNGo, MDT, ELS, LFRT, FRT, TBI, LTAA, RTAA, XP, BR, SR.
 

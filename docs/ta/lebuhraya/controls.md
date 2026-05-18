@@ -4,7 +4,7 @@ description: >-
   Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு - விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR
   உள்ளீடுகள்.
 lang: ta
-translated_from_hash: "d8b4a850"
+translated_from_hash: "1bf9e4df"
 translated_on: 2026-05-18
 needs_review: true
 ---

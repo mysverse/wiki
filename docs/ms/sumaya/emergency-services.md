@@ -2,7 +2,7 @@
 title: Gambaran Perkhidmatan Kecemasan
 description: 'POLIS, BOMBA, dan Kesihatan - perkhidmatan kecemasan di Sumaya.'
 lang: ms
-translated_from_hash: "3554a580"
+translated_from_hash: "10575bc0"
 translated_on: 2026-05-18
 needs_review: true
 ---

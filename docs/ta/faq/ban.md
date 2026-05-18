@@ -4,7 +4,7 @@ description: >-
   உங்கள் Roblox கணக்கு தடை செய்யப்பட்டால் என்ன செய்வது - மேல்முறையீடு, ஆதாரம்
   மற்றும் புதிய கணக்குகள்.
 lang: ta
-translated_from_hash: "671ca4a6"
+translated_from_hash: "57955391"
 translated_on: 2026-05-18
 needs_review: true
 ---

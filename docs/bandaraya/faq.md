@@ -66,7 +66,7 @@ See [Combat & Health](/bandaraya/combat-and-health#weapons).
 
 See [Vehicles](/bandaraya/vehicles#fuel).
 
-### I bought a car but it disappeared. where is it?
+### I bought a car but it disappeared. Where is it?
 
 Return to the correct dealership or spawner and spawn it again from your owned vehicles. Purchased dealership vehicles are saved.
 
@@ -78,7 +78,7 @@ Wait the 3-minute timer. After release, you can pick a team again.
 
 Appeal through the community server if you believe staff review is needed.
 
-### I left while detained and now I am arrested. why?
+### I left while detained and now I am arrested. Why?
 
 That is LTAA enforcement. Leaving while detained or being arrested can apply the jail timer when you return.
 
@@ -96,21 +96,21 @@ No. BOMBA vehicles are team-gated. The same is true for most emergency, military
 
 ## Teams
 
-### What is the difference between mytransit and bus services?
+### What is the difference between MyTransit and Bus Services?
 
 They are different transport operators with different group access and fleets. Both can support bus roleplay.
 
-### I am on visitors but want POLIS. what do I do?
+### I am on Visitors but want POLIS. What do I do?
 
 Join the relevant POLIS group, complete any requirements, then reopen the team menu after you qualify.
 
-### A team disappeared from the team menu. is it a bug?
+### A team disappeared from the team menu. Is it a bug?
 
 Usually no. Some teams are created only when players are using them and are cleaned up when empty.
 
 ## Gameplay
 
-### I got kicked for cheating but I was not cheating. what do I do?
+### I got kicked for cheating but I was not cheating. What do I do?
 
 Take a screenshot of the kick message and contact staff through the community server. Do not keep retrying the same action if it triggers kicks.
 
@@ -138,7 +138,7 @@ Yes. Join the same server and choose compatible roles for your scene.
 
 Rain can be enabled by staff for atmosphere or events. It is not a constant weather cycle.
 
-### I do not speak malay. will I be lost?
+### I do not speak Malay. Will I be lost?
 
 No. The [Glossary](/bandaraya/glossary) explains common terms such as POLIS, BOMBA, KKM, LTAA, RTAA, CAG, and Saman.
 

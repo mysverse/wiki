@@ -133,6 +133,63 @@ const playerFacingRules = [
   [/\bMYSverse-inspired\b/i, "Do not brute-rebrand cultural/geographic references; use Malaysia/Malaysian where that is clearer."],
 ];
 
+const canonicalTermRules = [
+  [/\bmytransit\b/, "Use MyTransit."],
+  [/\bPolis bantuan\b/, "Use Polis Bantuan."],
+  [/\bMRT kajang line\b/, "Use MRT Kajang Line."],
+  [/\bKL monorail line\b/, "Use KL Monorail Line."],
+  [/\bclick and go\b/, "Use Click and Go when expanding CAG."],
+  [/\bhealth ministry\b/, "Use Health Ministry when naming the KKM role."],
+  [/\bmilitary police\b/, "Use Military Police when naming the KPTD role."],
+  [/\bmobile data terminal\b/, "Use Mobile Data Terminal when expanding MDT."],
+  [/\bclassic car pack\b/, "Use Classic Car Pack."],
+  [/\breal estate office\b/, "Use Real Estate Office."],
+  [/\bfire brigade\b/, "Use Fire Brigade when it is part of a page title or role gloss."],
+  [/\bmain menu\b/, "Use Main Menu when referring to the named UI."],
+  [/\bsentral platform\b/, "Use Sentral platform."],
+];
+
+const commonLowercaseWords = new Set([
+  "a",
+  "an",
+  "and",
+  "are",
+  "as",
+  "at",
+  "be",
+  "but",
+  "by",
+  "can",
+  "do",
+  "does",
+  "for",
+  "from",
+  "has",
+  "have",
+  "how",
+  "if",
+  "in",
+  "into",
+  "is",
+  "it",
+  "my",
+  "of",
+  "on",
+  "or",
+  "the",
+  "to",
+  "vs",
+  "what",
+  "when",
+  "where",
+  "which",
+  "who",
+  "why",
+  "with",
+  "you",
+  "your",
+]);
+
 function walkMarkdown(dir = DOCS_ROOT, out = []) {
   for (const entry of readdirSync(dir)) {
     const full = join(dir, entry);
@@ -218,6 +275,48 @@ function sentenceCaseHeading(text) {
   return converted + anchor;
 }
 
+function headingCaseIssues(text) {
+  const found = [];
+  const coreText = text.replace(/\s+\{#[^}]+\}$/, "");
+  const parts = coreText.split(/(\s+)/);
+  let expectsCapital = true;
+  let inQuotedText = false;
+
+  for (const part of parts) {
+    if (!/^\S+$/.test(part) || /^[^A-Za-z0-9]+$/.test(part)) continue;
+    if (/^\d+$/.test(part)) {
+      expectsCapital = false;
+      continue;
+    }
+    if (/^\d+[.)]$/.test(part)) continue;
+    if (/^[\"“]/.test(part)) inQuotedText = true;
+
+    const leading = part.match(/^[\"'“‘([{]+/)?.[0] || "";
+    const trailing = part.match(/[\"'”’.,:;!?)}\]]+$/)?.[0] || "";
+    const core = part.slice(leading.length, part.length - trailing.length);
+    if (inQuotedText) {
+      if (/[\"”][.,:;!?)}\]]*$/.test(part)) inQuotedText = false;
+      expectsCapital = /[.!?]$/.test(trailing);
+      continue;
+    }
+    if (!core || core.includes("`") || preserveWords.has(core) || /^[A-Z0-9&/+.-]{2,}$/.test(core)) {
+      expectsCapital = /[.!?]$/.test(trailing);
+      continue;
+    }
+
+    if (expectsCapital && /^[a-z]/.test(core)) {
+      found.push(`sentence starts should be capitalised: "${core}"`);
+    }
+    if (!expectsCapital && commonLowercaseWords.has(core.toLowerCase()) && /^[A-Z]/.test(core)) {
+      found.push(`common sentence-case word should be lowercase unless it starts a new sentence: "${core}"`);
+    }
+
+    expectsCapital = /[.!?]$/.test(trailing);
+  }
+
+  return found;
+}
+
 const issues = [];
 
 for (const file of walkEnPages()) {
@@ -253,9 +352,13 @@ for (const file of walkEnPages()) {
     const heading = line.match(/^(#{1,6})\s+(.+)$/);
     if (!heading) return;
 
-    const expected = `${heading[1]} ${sentenceCaseHeading(heading[2])}`;
-    if (expected !== line) {
-      issues.push(`${file}:${lineNo}: Heading should use sentence case.\n  Found:    ${line}\n  Expected: ${expected}`);
+    for (const [pattern, message] of canonicalTermRules) {
+      if (pattern.test(heading[2])) {
+        issues.push(`${file}:${lineNo}: ${message}\n  ${line}`);
+      }
+    }
+    for (const message of headingCaseIssues(heading[2])) {
+      issues.push(`${file}:${lineNo}: Heading should use sentence case while preserving proper names.\n  ${message}\n  ${line}`);
     }
   });
 }

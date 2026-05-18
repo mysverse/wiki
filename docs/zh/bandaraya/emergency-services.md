@@ -2,7 +2,7 @@
 title: 紧急服务
 description: POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD - Bandaraya 的紧急与安保服务。
 lang: zh
-translated_from_hash: "6272784a"
+translated_from_hash: "7572eea2"
 translated_on: 2026-05-18
 needs_review: true
 ---

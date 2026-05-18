@@ -110,7 +110,7 @@ View your current quest chain progress:
 
 The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
-### Jelajah (discovery journal)
+### Jelajah (Discovery Journal)
 
 Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
 
@@ -136,7 +136,7 @@ Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so ro
 
 Use this for roleplay scenarios (call for a fire, report a crime, need medical).
 
-### MDT (mobile data terminal)
+### MDT (Mobile Data Terminal)
 
 Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT is your dispatch console:
 
@@ -146,7 +146,7 @@ Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT i
 
 See [Polis](/sumaya/polis) for more on the MDT.
 
-### Home screen
+### Home Screen
 
 The main phone home screen with the app grid. Not a separate app you launch.
 
@@ -232,7 +232,7 @@ Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a me
 
 Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
 
-### Public services channel
+### Public Services channel
 
 If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
 

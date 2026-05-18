@@ -9,7 +9,7 @@ Lebuhraya is set on a stretch of Malaysian highway with three main regions conne
 
 ## The regions
 
-### Bandar seri putra
+### Bandar Seri Putra
 
 The largest settlement - your main hub for jobs, services, and commerce. If you're new, you'll spend most of your first hours here.
 
@@ -41,7 +41,7 @@ A secondary town with industrial zones and the racetrack.
 
 *Jersik doesn't have its own police station - the nearest Balai Polis is in Kampung Merbang.*
 
-### Kampung merbang
+### Kampung Merbang
 
 A quieter rural village.
 
@@ -50,7 +50,7 @@ A quieter rural village.
 - **Masjid Kampung Merbang** - Mosque
 - Highway rest stops nearby (see below)
 
-### Taman mahkota / putra mahkota
+### Taman Mahkota / Putra Mahkota
 
 A plaza / neighbourhood zone.
 

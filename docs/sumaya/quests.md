@@ -108,7 +108,7 @@ Another level milestone. Bigger payout.
 
 The steps must be done **in that order**. You can't spawn a vehicle before checking your phone, etc.
 
-### 12. The ringgit grind (FINAL)
+### 12. The Ringgit Grind (FINAL)
 
 - **Goal:** Hustle your way up (ordered steps):
   1. Clock in to any civilian job.

@@ -4,7 +4,7 @@ description: >-
   Alat tablet khas pasukan di Bandaraya - MDT, MyEmergency, MyTow, KKM Logger,
   dan aplikasi lain.
 lang: ms
-translated_from_hash: "e68f2619"
+translated_from_hash: "35803e65"
 translated_on: 2026-05-18
 needs_review: true
 ---

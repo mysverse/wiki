@@ -3,7 +3,7 @@ title: "Kesihatan (Medical)"
 description: "Playing Kesihatan (medical) in Sumaya - ambulances, treatment, and revival."
 ---
 
-# Kesihatan (medical)
+# Kesihatan (Medical)
 
 **Kesihatan** ("keh-see-ha-tan") is Sumaya's medical service. Doctors, nurses, paramedics. If you pick Kesihatan from the main menu, you're a medical worker on duty as soon as you spawn.
 
@@ -68,7 +68,7 @@ You can't heal someone until you know what's wrong.
 
 **Reward:** 40 XP + 200 Ringgit.
 
-### Imaging (x-ray and MRI)
+### Imaging (X-Ray and MRI)
 
 For diagnosis confirmation on serious injuries, use the imaging machines at the hospital:
 

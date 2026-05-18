@@ -4,7 +4,7 @@ description: >-
   POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD - perkhidmatan kecemasan dan
   keselamatan di Bandaraya.
 lang: ms
-translated_from_hash: "6272784a"
+translated_from_hash: "7572eea2"
 translated_on: 2026-05-18
 needs_review: true
 ---

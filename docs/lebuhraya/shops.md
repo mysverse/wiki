@@ -11,47 +11,47 @@ Lebuhraya has **12 shops** scattered across the map. Most sell food items you ca
 
 ## Food shops
 
-### Kedai nasi campur long kee
+### Kedai Nasi Campur Long Kee
 
 Traditional Malaysian mixed-rice stall. Classic lunchtime stop.
 
-### Clash's indonesian cuisine
+### Clash's Indonesian Cuisine
 
 Indonesian dishes.
 
 **Sells**: Bakso (meatball soup), Nasi Rendang (beef rendang rice), Sate Ayam (chicken satay).
 
-### Masakan Pantai timur
+### Masakan Pantai Timur
 
 East-coast Malaysian cooking. Expect items from Kelantan and Terengganu traditions.
 
-### Selera kak rinasmol
+### Selera Kak Rinasmol
 
 Home-style cooking by "Kak Rinasmol" - another local-flavor lunch option.
 
-### Pingu pepper lunch
+### Pingu Pepper Lunch
 
 Pepper-lunch-style hotplate dishes. Fun, no-fuss comfort food.
 
-### Inspector y's fries
+### Inspector Y's Fries
 
 Fast-food fries and sides.
 
-### Encik yang's epic snack
+### Encik Yang's Epic Snack
 
 Snacks - sweet and savoury, good for grabbing on the go.
 
-### Max beef
+### Max Beef
 
 Beef-focused menu.
 
-### Beetro smoothies
+### Beetro Smoothies
 
 Smoothies and drinks.
 
 ## Convenience
 
-### Kedai runcit modern makcik yash
+### Kedai Runcit Modern Makcik Yash
 
 A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice cream.
 
@@ -64,13 +64,13 @@ A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice 
 
 ## Specialised shops
 
-### Abang' frik tech tools
+### Abang' Frik Tech Tools
 
 A small tech vendor.
 
 **Sells**: Lantern, Recon Drone.
 
-### Jerrycan shop
+### Jerrycan Shop
 
 The go-to for keeping your car fuelled when you can't reach a station.
 
@@ -94,7 +94,7 @@ A full-size supermarket experience. You can walk the aisles, pick items off shel
 
 Like the other shops, KeluargaMart is currently free - grab whatever you fancy. Law-team players (Polis, APJ) are blocked from the register interaction to discourage unprofessional behaviour on duty.
 
-## Food delivery interactions
+## Food Delivery interactions
 
 Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
 

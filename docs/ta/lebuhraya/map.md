@@ -4,7 +4,7 @@ description: >-
   Bandar Seri Putra, Jersik, Kampung Merbang, மற்றும் Lebuhraya-வில் 29 முக்கிய
   இடங்கள்.
 lang: ta
-translated_from_hash: "7cd0540e"
+translated_from_hash: "116c8ec5"
 translated_on: 2026-05-18
 needs_review: true
 ---

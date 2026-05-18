@@ -2,7 +2,7 @@
 title: 经济
 description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
-translated_from_hash: "8b1e7c64"
+translated_from_hash: "5f770573"
 translated_on: 2026-05-18
 needs_review: true
 ---

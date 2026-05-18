@@ -13,7 +13,7 @@ Common questions, quality-of-life tips, and the things experienced players wish 
 
 Test servers (including Studio playtests) reset XP to 0 on purpose, so developers can test features against a fresh account. The warning message "XP will be reset to 0" is normal. Your **live game progress is not affected** - it's only the test server that's disposable.
 
-### I can't open the vehicle spawner. why?
+### I can't open the vehicle spawner. Why?
 
 A few possibilities:
 
@@ -57,7 +57,7 @@ The formula for fastest levelling:
 
 Stacking all of these, you can hit levels 10–20× faster than a solo player driving alone.
 
-### I want to be a police officer. how?
+### I want to be a police officer. How?
 
 Police teams require a gamepass:
 
@@ -77,7 +77,7 @@ If you want to work in law enforcement without a gamepass, **APJ** (level 300) i
 
 Fuel is **currently free** in this version of the game. Config prices (Electric 1 / Petrol 2 / Diesel 3 BR per litre) are defined but not yet being charged - refuelling doesn't deduct any BR from your balance.
 
-### My car ran out of fuel and I'm stranded. what now?
+### My car ran out of fuel and I'm stranded. What now?
 
 You have three options:
 
@@ -187,7 +187,7 @@ Recruit one or two friends on the same team. Start a convoy. Stick together with
 
 Don't pop a 2× XP token and then get distracted - the timer doesn't pause. Use them when you have an hour of uninterrupted play planned.
 
-### Watch for double XP weekends
+### Watch for Double XP weekends
 
 Keep an eye on the MYSverse community channels. A Double XP Weekend is the highest-leverage time to use other boosts.
 

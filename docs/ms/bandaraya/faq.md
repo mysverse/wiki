@@ -2,7 +2,7 @@
 title: Soalan Lazim
 description: Soalan biasa pemain baharu di Bandaraya.
 lang: ms
-translated_from_hash: "992a505f"
+translated_from_hash: "ed23671b"
 translated_on: 2026-05-18
 needs_review: true
 ---

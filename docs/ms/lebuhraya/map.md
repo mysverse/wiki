@@ -2,7 +2,7 @@
 title: Dunia & Peta
 description: 'Bandar Seri Putra, Jersik, Kampung Merbang, dan 29 lokasi utama di Lebuhraya.'
 lang: ms
-translated_from_hash: "7cd0540e"
+translated_from_hash: "116c8ec5"
 translated_on: 2026-05-18
 needs_review: true
 ---

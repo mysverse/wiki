@@ -4,7 +4,7 @@ description: >-
   Bandaraya-வில் அணி-வரையறுக்கப்பட்ட டேப்லெட் கருவி - MDT, MyEmergency, MyTow,
   KKM Logger, மற்றும் பிற செயலிகள்.
 lang: ta
-translated_from_hash: "e68f2619"
+translated_from_hash: "35803e65"
 translated_on: 2026-05-18
 needs_review: true
 ---

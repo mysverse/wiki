@@ -7,7 +7,7 @@ description: "Start playing Sumaya - main menu, team pick, controls, and the fir
 
 Your first few minutes in Sumaya. This page covers the main menu, team selection, controls, and the first things you should do once you're in the world.
 
-## The main menu
+## The Main Menu
 
 When you join Sumaya, you'll see a main menu screen before you spawn. From here you pick a **team**, which decides what role you play - a regular civilian, a cop, a firefighter, or a paramedic. The team you pick affects the tools you start with and the jobs you can do.
 

@@ -48,7 +48,7 @@ Max sector level is **100** for all three. Ranks stop progressing before that (e
 
 Unlike civilian careers (which pay into your bank account), emergency service rewards are paid to your **wallet** directly, with the exception of crime-based payouts. That means you can spend them immediately without going to an ATM.
 
-### Bonuses every n actions
+### Bonuses every N actions
 
 Each service has a **milestone bonus**:
 

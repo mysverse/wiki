@@ -2,7 +2,7 @@
 title: 解除封禁 - 常见问题
 description: Roblox 账号被封禁时的应对方法 - 申诉流程、证据准备和新账号事项。
 lang: zh
-translated_from_hash: "671ca4a6"
+translated_from_hash: "57955391"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -44,7 +44,7 @@ ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you 
 - **Deposit** from wallet to bank. No limit.
 - **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
 
-## Paying another player in person (Sadaqa / donate)
+## Paying another player in person (Sadaqa / Donate)
 
 For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
 
@@ -54,13 +54,13 @@ For casual hand-offs, equip your **Wallet** tool and walk up to another player. 
 
 Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new player. For larger transfers, use the **ATM Transfer** (bank-to-bank by username).
 
-## Earning ringgit
+## Earning Ringgit
 
 ### From jobs
 
 Per-action payouts. Totals depend on how long you work.
 
-### Income / job XP booster
+### Income / Job XP Booster
 
 A future **Income / Job XP Booster** pass is visible in the Shop as a disabled **Coming Soon** card. When it is enabled, it is designed to add **25% more job Ringgit** and **25% more job-sector XP** for eligible work: Bomba, Polis arrests/radar, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, and gig jobs.
 
@@ -121,7 +121,7 @@ Roughly, from highest per-hour to lowest, assuming you stay busy:
 10. **Rod fishing** - quick SR, player XP only, best for casual play.
 11. **Trawl fishing** - slower SR but the only way to level the fishing sector.
 
-## Spending ringgit
+## Spending Ringgit
 
 ### Vehicles
 

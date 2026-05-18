@@ -86,7 +86,7 @@ Example:
 
 If the message mentions a group name, it's a group ban. Otherwise, it may be an individual ban.
 
-### Step 2: check the sentral platform
+### Step 2: check the Sentral platform
 
 Visit the Sentral dashboard to confirm which group is causing the issue.
 

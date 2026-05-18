@@ -71,7 +71,7 @@ Most world interactions use Roblox ProximityPrompts: spawners, doors, job counte
 - Hold the shown key/button until the circle completes if it has a hold duration.
 - If the prompt says you are on the wrong team or at the wrong fuel pump type, the prompt is working; follow the warning.
 
-### Main menu tabs
+### Main Menu tabs
 
 Open the Main Menu to access:
 

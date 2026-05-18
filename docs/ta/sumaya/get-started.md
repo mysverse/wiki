@@ -4,7 +4,7 @@ description: >-
   Sumaya விளையாட தொடங்குங்கள் - முதன்மை மெனு, அணி தேர்வு, கட்டுப்பாடுகள்,
   மற்றும் நகரில் முதல் ஐந்து நிமிடங்கள்.
 lang: ta
-translated_from_hash: "2ef9751f"
+translated_from_hash: "fcf325e6"
 translated_on: 2026-05-18
 needs_review: true
 ---

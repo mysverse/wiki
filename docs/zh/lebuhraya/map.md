@@ -2,7 +2,7 @@
 title: 世界与地图
 description: Bandar Seri Putra、Jersik、Kampung Merbang 以及 Lebuhraya 的 29 个关键地点。
 lang: zh
-translated_from_hash: "7cd0540e"
+translated_from_hash: "116c8ec5"
 translated_on: 2026-05-18
 needs_review: true
 ---

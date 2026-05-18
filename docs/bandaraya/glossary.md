@@ -3,7 +3,7 @@ title: "Glossary - Malaysian Terms & Game Acronyms"
 description: "Malaysian acronyms and in-game terms explained - POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
 ---
 
-# Glossary - malaysian terms & game acronyms
+# Glossary - Malaysian terms & game acronyms
 
 Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this page when a term is unfamiliar.
 

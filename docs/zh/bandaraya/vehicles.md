@@ -2,7 +2,7 @@
 title: 车辆
 description: 在 Bandaraya 生成、驾驶、加油以及购买或租赁车辆的完整指南。
 lang: zh
-translated_from_hash: "7f0d7756"
+translated_from_hash: "ae357b6e"
 translated_on: 2026-05-18
 needs_review: true
 ---

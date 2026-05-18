@@ -2,7 +2,7 @@
 title: 术语表 - 马来西亚用语与游戏缩写
 description: 马来西亚缩写与游戏术语解说 - POLIS、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。
 lang: zh
-translated_from_hash: "8ee918a6"
+translated_from_hash: "bc910f35"
 translated_on: 2026-05-18
 needs_review: true
 ---

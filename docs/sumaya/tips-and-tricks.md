@@ -101,7 +101,7 @@ Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrest
 
 If you are between long shifts, grab a gig job. The quick minigame panels tell you exactly what to do, and interrupted runs clean up when you die or switch teams.
 
-### Help bomba for passive XP
+### Help Bomba for passive XP
 
 If you're POLIS or Kesihatan and stand within **512 studs** of an active fire while Bomba firefighters extinguish blocks, you earn **10 player XP per block** without doing anything. Good for grinding while waiting for criminals or patients.
 
@@ -191,7 +191,7 @@ The in-game camera app takes screenshots at a fixed framing. If you want cinemat
 
 If you're trying to have a roleplay conversation, flip passive mode on. No one can hit you, carjack you, or drag you into combat. Flip back off when you're done.
 
-### 999 Calls for immersion
+### 999 calls for immersion
 
 Any civilian can dial 999 and **type a custom message** describing the emergency. Emergency teams see your call in the MDT with your location. Great for setting up roleplay scenarios (report a robbery, call a fire, request medical evac).
 

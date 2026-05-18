@@ -2,7 +2,7 @@
 title: சேவைத் துறை (Mamak & துரித உணவு)
 description: Sumaya-வில் mamak மற்றும் துரித உணவு சேவைத் தொழில்கள்.
 lang: ta
-translated_from_hash: "47b94c4d"
+translated_from_hash: "ec4d4971"
 translated_on: 2026-05-18
 needs_review: true
 ---

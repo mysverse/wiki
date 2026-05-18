@@ -2,7 +2,7 @@
 title: Perumahan
 description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
-translated_from_hash: "406f702b"
+translated_from_hash: "48e888ff"
 translated_on: 2026-05-18
 needs_review: true
 ---
