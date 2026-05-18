@@ -2,7 +2,7 @@
 title: Perumahan
 description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
-translated_from_hash: "075bc1c5"
+translated_from_hash: "406f702b"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -20,13 +20,13 @@ Sumaya kini mempunyai **63 claimable plots**, setiap satu boleh dilihat dari dun
 
 ## Membeli rumah di Real Estate Office
 
-Pembelian rumah hanya boleh dilakukan secara eksklusif di **Real Estate Office** (bangunan yang ditandakan di pusat bandar — keadaan kosong dalam aplikasi telefon Residence mempunyai butang "Show on Map" yang akan menandakannya untuk anda):
+Pembelian rumah hanya boleh dilakukan secara eksklusif di **Real Estate Office** (bangunan yang ditandakan di pusat bandar - keadaan kosong dalam aplikasi telefon Residence mempunyai butang "Show on Map" yang akan menandakannya untuk anda):
 
 1. Pergi ke Real Estate Office. Keadaan kosong dalam aplikasi telefon Residence memaparkan titik laluan 5 minit.
 2. Masuk ke dalam dan buka **RealEstateGui** (kios beli / pratonton).
 3. Lihat plot dan templat rumah, pratonton setiap satu pada kios, kemudian sahkan pembelian.
 
-Pelayan menguatkuasakan **15-stud proximity check** pada tindakan Beli — anda mesti berada secara fizikal di dalam pejabat, supaya pintasan UI dari tempat lain tidak boleh memalsukan pembelian. Setiap pemain dihadkan kepada **one plot at a time**.
+Pelayan menguatkuasakan **15-stud proximity check** pada tindakan Beli - anda mesti berada secara fizikal di dalam pejabat, supaya pintasan UI dari tempat lain tidak boleh memalsukan pembelian. Setiap pemain dihadkan kepada **one plot at a time**.
 
 Aplikasi telefon Residence adalah **management-only** selepas pembelian: kunci pintu, tukar lampu, masuk mod penempatan, jual semula. Ia tidak mengendalikan aliran pembelian.
 
@@ -43,7 +43,7 @@ Di dalam Real Estate Office, anda akan memilih daripada empat templat. Setiap sa
 | Compact Bornean | Tier 2 | 32,000 Ringgit |
 | Modern Terrace | Tier 3 | 35,000 Ringgit |
 
-Compact Bornean adalah **slightly more expensive** berbanding Spacious Bornean (walaupun lebih kecil) kerana susun aturnya — ruang tamu terbuka + anjung yang lebih besar — sangat diminati untuk adegan main peranan kampung.
+Compact Bornean adalah **slightly more expensive** berbanding Spacious Bornean (walaupun lebih kecil) kerana susun aturnya - ruang tamu terbuka + anjung yang lebih besar - sangat diminati untuk adegan main peranan kampung.
 
 Rumah **Bornean** ialah rumah tradisional bergaya kampung Malaysia - kayu, bertiang, dengan bumbung tropika. **Modern Terrace** ialah versi bandar kontemporari - berbilang tingkat, kaca, dengan garis bersih.
 
@@ -114,8 +114,8 @@ Rumah anda ialah ruang anda. Beberapa perkara untuk diketahui:
 
 ## Petua
 
-- **Mula kecil.** Pilih Small Bornean 25,000 Ringgit untuk rumah pertama anda — ia merupakan kemasukan termurah ke dalam sistem perumahan. Anda akan tahu apabila tiba masa untuk menaik taraf.
-- **Bayaran balik 70% ialah jaring keselamatan.** Mengubah fikiran anda mengenakan kos 30%. Pada Modern Terrace 35,000 SR, itu sengatan sebanyak 10,500 SR — tidak kecil, tetapi anda tidak akan muflis.
+- **Mula kecil.** Pilih Small Bornean 25,000 Ringgit untuk rumah pertama anda - ia merupakan kemasukan termurah ke dalam sistem perumahan. Anda akan tahu apabila tiba masa untuk menaik taraf.
+- **Bayaran balik 70% ialah jaring keselamatan.** Mengubah fikiran anda mengenakan kos 30%. Pada Modern Terrace 35,000 SR, itu sengatan sebanyak 10,500 SR - tidak kecil, tetapi anda tidak akan muflis.
 - **Lampu hidup vs mati untuk tangkapan skrin.** Pencahayaan membuat perbezaan besar. Cuba kedua-duanya untuk tangkapan skrin Camera telefon ruang anda.
 - **Kunci ketika log keluar.** Tabiat yang patut dipupuk. Pintu yang tidak berkunci mengundang gangguan main peranan.
 - **Satu plot setiap pemain ialah peraturan.** Jangan cuba menuntut dua - sistem akan menghalangnya.

@@ -1,19 +1,19 @@
 ---
 title: "Bomba (Fire Brigade)"
-description: "Playing BOMBA (fire brigade) in Sumaya — tenders, hydrants, and fires."
+description: "Playing BOMBA (fire brigade) in Sumaya - tenders, hydrants, and fires."
 ---
 
-# Bomba (Fire Brigade)
+# Bomba (fire brigade)
 
 **Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
 
-## Getting Started
+## Getting started
 
-Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen — no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
+Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen - no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
 
 Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
 
-## How Fires Work
+## How fires work
 
 Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
 
@@ -23,21 +23,21 @@ Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA playe
 
 Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
 
-### Incident Variety
+### Incident variety
 
 Sumaya currently rotates between **nine fire templates**, each pre-built with its own location and block layout:
 
-- **3 Car Crashes** — Outside Police Station, Outside Hazbank, Near MFC.
-- **6 Building Fires** — Jalan Padas Dua (two variants), Kedai Emas Tai Loi, Perbankan Elektronik, Old KKN Clinic, Radtrol Jalan Kepala Ikan.
+- **3 Car Crashes** - Outside Police Station, Outside Hazbank, Near MFC.
+- **6 Building Fires** - Jalan Padas Dua (two variants), Kedai Emas Tai Loi, Perbankan Elektronik, Old KKN Clinic, Radtrol Jalan Kepala Ikan.
 
-The server picks one at random per incident. The card on your task HUD shows the **IncidentType** ("Car Crash" or "Building Fire") and the **Location** name so you know what you're rolling up to before you arrive. The MDT app picks the same data up automatically — dispatchers see the human location string, not just a coordinate.
+The server picks one at random per incident. The card on your task HUD shows the **IncidentType** ("Car Crash" or "Building Fire") and the **Location** name so you know what you're rolling up to before you arrive. The MDT app picks the same data up automatically - dispatchers see the human location string, not just a coordinate.
 
-## Putting Out Fires
+## Putting out fires
 
-### The Hose
+### The hose
 
 1. Equip your fire hose.
-2. Find a water source - either a **hydrant** (a few placed around town — look for the red/yellow pillar models) or a **tanker truck**.
+2. Find a water source - either a **hydrant** (a few placed around town - look for the red/yellow pillar models) or a **tanker truck**.
 3. Connect the hose end to the water source prompt.
 4. Aim at fire blocks and spray.
 
@@ -47,9 +47,9 @@ If you die, switch teams, leave the server, lose the source outlet, or the hose 
 
 ### Hydrants
 
-Hydrants are fixed around the map. The current map has a handful of hydrants — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
+Hydrants are fixed around the map. The current map has a handful of hydrants - not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
 
-### Tankers (Sector Level 65)
+### Tankers (sector level 65)
 
 Once you reach sector level 65, you can spawn the **Sanica P360 Tanker** truck. Tankers let you fight fires anywhere connected to a road, even without a hydrant nearby - very useful for rural incidents.
 
@@ -115,7 +115,7 @@ The rank bracket abbreviations follow the Bomba MYSverse insignia scheme. From l
 - **Save for the Tanker.** Until you hit level 65, you'll rely on hydrants. The Tanker is a game-changer because you bring the water with you.
 - **Watch your health.** Standing too close to fire damages you over time. If you see your health dropping, step back and hose from further.
 
-## What Next?
+## What next?
 
 - [Kesihatan](/sumaya/kesihatan) if you're curious about the medical side.
 - [Polis](/sumaya/polis) for law enforcement.

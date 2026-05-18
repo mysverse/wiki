@@ -1,16 +1,16 @@
 ---
 title: Perkhidmatan Kecemasan
 description: >-
-  POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan
+  POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD - perkhidmatan kecemasan dan
   keselamatan di Bandaraya.
 lang: ms
-translated_from_hash: "ae08e195"
+translated_from_hash: "6272784a"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Perkhidmatan Kecemasan
 
-Memainkan peranan perkhidmatan awam — polis, bomba, perubatan, tentera — adalah inti pati roleplay Bandaraya. Halaman ini merangkumi apa yang dilakukan oleh setiap pasukan, alat yang diberikan kepada mereka, dan apa yang diharapkan daripada mereka yang memakai uniform.
+Memainkan peranan perkhidmatan awam - polis, bomba, perubatan, tentera - adalah inti pati roleplay Bandaraya. Halaman ini merangkumi apa yang dilakukan oleh setiap pasukan, alat yang diberikan kepada mereka, dan apa yang diharapkan daripada mereka yang memakai uniform.
 
 ## Ringkasan
 
@@ -25,7 +25,7 @@ Memainkan peranan perkhidmatan awam — polis, bomba, perubatan, tentera — ada
 
 ---
 
-## Polis MYSverse (POLIS) — Pihak Polis
+## Polis MYSverse (POLIS) - Pihak Polis
 
 Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 
@@ -36,13 +36,13 @@ Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 - Menahan dan menangkap suspek. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law).
 - Mengeluarkan saman untuk kesalahan lalu lintas.
 - Gunakan **apl tablet MDT** untuk memeriksa BG, menjalankan BOLO, memberi amaran kepada pegawai lain.
-- Bertugas di **IPD Dang Wangi** — balai polis utama (CID, JSPT, Bilik Ops, Armori).
+- Bertugas di **IPD Dang Wangi** - balai polis utama (CID, JSPT, Bilik Ops, Armori).
 
 ### Alat
 
 | Alat | Kegunaan |
 | --- | --- |
-| **X26P** | Taser — menundukkan suspek secara tidak membawa maut |
+| **X26P** | Taser - menundukkan suspek secara tidak membawa maut |
 | **T-Baton** | Senjata tangan |
 | **Cuff** | Menggari suspek yang ditahan |
 | **Search** | Meminta kebenaran geledah daripada pemain |
@@ -61,17 +61,17 @@ Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 
 POLIS mempunyai armada terbesar:
 
-- **Ronda / MPV** — Proton Preve, Proton Inspira, Honda Civic, Proton X70, varian Toyota Hilux, Perodua Aruz/Bezza
-- **HPV** (Prestasi Tinggi) — Civic Type R, Outlander, CX-5, Lancer Evo X
-- **Pengiring** — Inspira 1.8, Civic Type R, Volvo S90 T5
-- **UTK** (Taktikal Khas) — Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
-- **CID** — CID K9, CID Hilux, CID Bike
-- **Tidak Bertanda** — Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
-- **Pengangkutan** — varian Hiace, HICOM Handalan II, Hilux kargo
-- **Tunda** — Isuzu Tow Truck, Hino/Fuso Tow
-- **Rusuhan** — Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
-- **Motosikal** — POLIS Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
-- **Berperisai** — **AV4** dan **V150** (kalis peluru)
+- **Ronda / MPV** - Proton Preve, Proton Inspira, Honda Civic, Proton X70, varian Toyota Hilux, Perodua Aruz/Bezza
+- **HPV** (Prestasi Tinggi) - Civic Type R, Outlander, CX-5, Lancer Evo X
+- **Pengiring** - Inspira 1.8, Civic Type R, Volvo S90 T5
+- **UTK** (Taktikal Khas) - Toyota Hilux UTK, BMW X5 UTK, IAG Jaws UTK
+- **CID** - CID K9, CID Hilux, CID Bike
+- **Tidak Bertanda** - Saga, Inspira, Civic, Preve, Waja, Persona, X70, Outlander, Bezza
+- **Pengangkutan** - varian Hiace, HICOM Handalan II, Hilux kargo
+- **Tunda** - Isuzu Tow Truck, Hino/Fuso Tow
+- **Rusuhan** - Scania P310 Riot, Scania VGF1955 FRU, Handalan II Riot Command
+- **Motosikal** - POLIS Bike 1–5, UTK Bike, BMW R1200GS, Kawasaki 300 URB
+- **Berperisai** - **AV4** dan **V150** (kalis peluru)
 
 ### Helikopter
 
@@ -80,14 +80,14 @@ POLIS boleh menggunakan helikopter balai untuk rondaan udara. Buka pemilih kende
 ### Jangkaan
 
 - **Menjadi rogue sebagai POLIS adalah pelanggaran yang serius.** Polis yang melakukan jenayah = ban.
-- Ikuti protokol roleplay — perkenalkan diri, nyatakan tuduhan, beri suspek peluang untuk mematuhi.
+- Ikuti protokol roleplay - perkenalkan diri, nyatakan tuduhan, beri suspek peluang untuk mematuhi.
 - Gunakan MDT tablet untuk BOLO suspek; pegawai lain akan mendapat lencana + bunyi + amaran toast.
 
 Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) untuk aliran tangkapan penuh.
 
 ---
 
-## BOMBA (Bomba MYSverse) — Kebakaran & Penyelamatan
+## BOMBA (Bomba MYSverse) - Kebakaran & Penyelamatan
 
 Kumpulan: 2957304. Mana-mana pangkat.
 
@@ -120,22 +120,22 @@ Kumpulan: 2957304. Mana-mana pangkat.
 
 ### Helikopter
 
-**BOMBAHeliSpawner** — pemadaman kebakaran / penyelamatan udara.
+**BOMBAHeliSpawner** - pemadaman kebakaran / penyelamatan udara.
 
 ### Insiden kebakaran
 
 Kebakaran spawn di sekitar peta apabila **sekurang-kurangnya seorang ahli BOMBA dalam talian**. Klien anda mendapat amaran (pin peta + bunyi + pemberitahuan tablet) apabila anda dalam BOMBA. Pandu ke insiden, alirkan air ke atas blok api, padamkannya.
 
-- **Had tempoh**: 10 minit setiap insiden — jika tidak dipadamkan dalam masa yang ditetapkan, insiden tersebut dibersihkan secara paksa.
+- **Had tempoh**: 10 minit setiap insiden - jika tidak dipadamkan dalam masa yang ditetapkan, insiden tersebut dibersihkan secara paksa.
 - **Cooldown**: 5 minit selepas insiden tamat sebelum satu baharu boleh spawn.
 - **Memerlukan BOMBA dalam talian**: jika semua BOMBA meninggalkan tugas di tengah-tengah insiden, kebakaran tersebut dibersihkan secara automatik.
 - **Penyertaan lewat**: jika anda bertukar ke BOMBA di tengah-tengah insiden, klien anda meminta server untuk keadaan semasa dan pin peta akan muncul dengan serta-merta.
-- **5 pili bomba** di seluruh peta — tempatkan diri anda secara strategik.
-- **Auto-sign** — menyertai BOMBA secara automatik mendaftarkan anda untuk penjejakan tugas.
+- **5 pili bomba** di seluruh peta - tempatkan diri anda secara strategik.
+- **Auto-sign** - menyertai BOMBA secara automatik mendaftarkan anda untuk penjejakan tugas.
 
 ---
 
-## KKM (Kementerian Kesihatan MYSverse) — Kementerian Kesihatan
+## KKM (Kementerian Kesihatan MYSverse) - Kementerian Kesihatan
 
 Kumpulan: 5760632. Mana-mana pangkat.
 
@@ -163,7 +163,7 @@ KKM mempunyai ambulans, RRV (Kenderaan Tindakan Cepat), dan utiliti. Termasuk KK
 ### Menyembuhkan pemain
 
 1. Tiba di pemain yang tumbang.
-2. Gunakan barangan kit — pembalut (menghentikan pendarahan), morfin (sakit), beg darah (kehilangan darah), dll.
+2. Gunakan barangan kit - pembalut (menghentikan pendarahan), morfin (sakit), beg darah (kehilangan darah), dll.
 3. Gunakan **defib** jika mereka flatline.
 4. Keadaan mereka pulih dari masa ke masa.
 
@@ -175,7 +175,7 @@ Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health) untuk pecahan kit 
 
 Kumpulan: 3027933, pangkat 2+.
 
-Ambulans sukarelawan. Kit alat asas — lampu suluh buat masa ini. Bekerja bersama KKM untuk tindak balas perubatan awam, terutamanya di acara.
+Ambulans sukarelawan. Kit alat asas - lampu suluh buat masa ini. Bekerja bersama KKM untuk tindak balas perubatan awam, terutamanya di acara.
 
 ---
 
@@ -189,11 +189,11 @@ Kor polis sukarelawan. Alat:
 - Geledah
 - Lampu Suluh
 
-Mandat terhad — menyokong POLIS di tempat kejadian, kawalan orang ramai. Tiada kuasa tangkap secara langsung.
+Mandat terhad - menyokong POLIS di tempat kejadian, kawalan orang ramai. Tiada kuasa tangkap secara langsung.
 
 ---
 
-## MAF (Angkatan Tentera MYSverse) — Tentera
+## MAF (Angkatan Tentera MYSverse) - Tentera
 
 Kumpulan: 2817130, 2849945, 2817134. Pangkat 3+.
 
@@ -201,7 +201,7 @@ Kumpulan: 2817130, 2849945, 2817134. Pangkat 3+.
 
 - Operasi pangkalan dari **Kem Wardieburn**.
 - Acara perbarisan, tugas istiadat.
-- Operasi khas (GGK — subkumpulan pasukan khas).
+- Operasi khas (GGK - subkumpulan pasukan khas).
 
 ### Alat
 
@@ -227,7 +227,7 @@ Pesawat perbarisan + rotorcraft tersedia untuk persediaan istiadat / operasi.
 
 ---
 
-## Polis Tentera (KPTD) — Kor Polis Tentera MYSverse
+## Polis Tentera (KPTD) - Kor Polis Tentera MYSverse
 
 Kumpulan: 2817141. Mana-mana pangkat.
 
@@ -244,7 +244,7 @@ Sayap polis tentera sendiri. Mempunyai kuasa tangkap seperti POLIS, tetapi biasa
 
 ### Kenderaan
 
-Kereta ronda KPTD khusus — X70 KPTD, Preve KPTD, Civic KPTD, dll. + motosikal.
+Kereta ronda KPTD khusus - X70 KPTD, Preve KPTD, Civic KPTD, dll. + motosikal.
 
 ---
 
@@ -252,7 +252,7 @@ Kereta ronda KPTD khusus — X70 KPTD, Preve KPTD, Civic KPTD, dll. + motosikal.
 
 Perkhidmatan kecemasan sering bekerjasama:
 
-- **Tindak balas pelbagai kenderaan** di insiden besar — POLIS + BOMBA + KKM.
+- **Tindak balas pelbagai kenderaan** di insiden besar - POLIS + BOMBA + KKM.
 - **Panggilan BOMBA** mencetuskan `IncidentEvent` yang didengari oleh klien BOMBA; yang lain boleh dispatch sendiri.
 - **MDT BOLO** dari POLIS memberitahu semua pegawai yang bertugas (bunyi + toast + lencana).
 - **KKM** menstabilkan orang awam yang tumbang; POLIS boleh meneruskan tangkapan mereka selepas penstabilan.
@@ -261,15 +261,15 @@ Perkhidmatan kecemasan sering bekerjasama:
 
 - **Main mengikut pasukan anda.** POLIS tidak menembak dahulu; BOMBA tidak menangkap; KKM tidak terlibat dengan suspek.
 - **Menjadi rogue = ban teruk.** Pada mana-mana pasukan perkhidmatan awam, jenayah = tindakan moderasi serta-merta. Lihat [Peraturan](/bandaraya/rules#severe-violations).
-- **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger — semua alat percuma. Lihat [Tablet](/bandaraya/tablet).
+- **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger - semua alat percuma. Lihat [Tablet](/bandaraya/tablet).
 - **Armour = bahagian Armor.** Kenderaan dengan bahagian `Armor` di dalamnya adalah kalis peluru (cth. AV4). Lihat [Kenderaan](/bandaraya/vehicles#bulletproofing).
 - **Spawner adalah team-gated.** Jika pasukan anda tidak boleh mengakses spawner, UI tidak akan muncul.
 
 ## Lihat juga
 
-- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — aliran tangkapan POLIS
-- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) — senjata, perisai, kecederaan, kit perubatan
-- [Tablet](/bandaraya/tablet) — MDT, MyEmergency, KKM Logger
-- [Kenderaan](/bandaraya/vehicles) — armada kecemasan
-- [Peta](/bandaraya/locations) — IPD Dang Wangi, balai BOMBA, klinik KKM, Kem Wardieburn
-- [Pasukan](/bandaraya/teams) — keperluan akses
+- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) - aliran tangkapan POLIS
+- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) - senjata, perisai, kecederaan, kit perubatan
+- [Tablet](/bandaraya/tablet) - MDT, MyEmergency, KKM Logger
+- [Kenderaan](/bandaraya/vehicles) - armada kecemasan
+- [Peta](/bandaraya/locations) - IPD Dang Wangi, balai BOMBA, klinik KKM, Kem Wardieburn
+- [Pasukan](/bandaraya/teams) - keperluan akses

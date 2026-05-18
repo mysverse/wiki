@@ -2,7 +2,7 @@
 title: Kenderaan
 description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
-translated_from_hash: "1d782519"
+translated_from_hash: "fa5c5843"
 translated_on: 2026-05-18
 needs_review: true
 ---

@@ -32,7 +32,7 @@ for (const file of files) {
   const body = parsed.content.replace(/\r\n?/g, "\n");
   const lines = body.split("\n");
 
-  // 1. Heading sequence — H1 should appear once, no jumps >1 level
+  // 1. Heading sequence - H1 should appear once, no jumps >1 level
   const headings = [];
   let inFence = false;
   lines.forEach((line, i) => {

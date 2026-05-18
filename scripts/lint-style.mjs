@@ -1,36 +1,12 @@
 #!/usr/bin/env node
 // Checks English source pages for wiki style rules that are easy to regress:
-// British English spelling, title-case headings, and player-facing wording.
+// British English spelling, sentence-case headings, no em dashes, and player-facing wording.
 
 import { readdirSync, readFileSync, statSync } from "fs";
 import { join } from "path";
 
 const DOCS_ROOT = "docs";
 const SKIP_DIRS = new Set(["ms", "zh", "ta", ".vitepress", "public"]);
-
-const smallWords = new Set([
-  "a",
-  "an",
-  "and",
-  "as",
-  "at",
-  "but",
-  "by",
-  "for",
-  "from",
-  "in",
-  "into",
-  "nor",
-  "of",
-  "on",
-  "or",
-  "per",
-  "the",
-  "to",
-  "vs",
-  "via",
-  "with",
-]);
 
 const preserveWords = new Set([
   "MYSverse",
@@ -64,6 +40,7 @@ const preserveWords = new Set([
   "RTAA",
   "TL;DR",
   "FAQ",
+  "I",
   "XP",
   "BR",
   "POI",
@@ -85,10 +62,14 @@ const preserveWords = new Set([
   "MyEmergency",
   "TapNGo",
   "eWallet",
+  "KEMRonda",
   "KeluargaMart",
+  "Gravstone",
   "TopBar",
   "Emergency999",
   "Kesihatan",
+  "Pantai",
+  "Timur",
   "Sadaqa",
   "Jelajah",
   "Hazbank",
@@ -96,6 +77,10 @@ const preserveWords = new Set([
   "Tehlife",
   "Matkool",
 ]);
+
+const punctuationRules = [
+  [/\u2014/, "Do not use em dashes. Use a comma, colon, semicolon, parentheses, or a simple hyphen instead."],
+];
 
 const britishEnglishRules = [
   [/\bcolors?\b/i, "Use colour/colours."],
@@ -148,6 +133,20 @@ const playerFacingRules = [
   [/\bMYSverse-inspired\b/i, "Do not brute-rebrand cultural/geographic references; use Malaysia/Malaysian where that is clearer."],
 ];
 
+function walkMarkdown(dir = DOCS_ROOT, out = []) {
+  for (const entry of readdirSync(dir)) {
+    const full = join(dir, entry);
+    const stat = statSync(full);
+    if (stat.isDirectory()) {
+      if (entry === ".vitepress" || entry === "public") continue;
+      walkMarkdown(full, out);
+    } else if (entry.endsWith(".md")) {
+      out.push(full.replace(/\\/g, "/"));
+    }
+  }
+  return out;
+}
+
 function walkEnPages(dir = DOCS_ROOT, out = []) {
   for (const entry of readdirSync(dir)) {
     const full = join(dir, entry);
@@ -173,47 +172,45 @@ function capitaliseWord(word) {
   return word.charAt(0).toUpperCase() + word.slice(1);
 }
 
-function titleWord(raw, wordIndex, wordCount) {
+function sentenceWord(raw, shouldCapitalise) {
   const leading = raw.match(/^[\"'“‘([{]+/)?.[0] || "";
   const trailing = raw.match(/[\"'”’.,:;!?)}\]]+$/)?.[0] || "";
   const core = raw.slice(leading.length, raw.length - trailing.length);
 
   if (!core || core.includes("`")) return raw;
   if (/^[^A-Za-z0-9]+$/.test(core)) return raw;
-
-  const lower = core.toLowerCase();
-  if (wordIndex > 0 && wordIndex < wordCount - 1 && smallWords.has(lower)) {
-    return leading + lower + trailing;
-  }
+  if (/^I['’](m|ve|ll|d)$/i.test(core)) return leading + capitaliseWord(core.toLowerCase()) + trailing;
+  if (preserveWords.has(core) || /^[A-Z0-9&/+.-]{2,}$/.test(core)) return raw;
 
   if (core.includes("-")) {
     const converted = core
       .split(/(-)/)
-      .map((part) => {
+      .map((part, index) => {
         if (part === "-") return part;
-        return capitaliseWord(part);
+        if (preserveWords.has(part) || /^[A-Z0-9&/+.]{2,}$/.test(part)) return part;
+        if (/^\d+$/.test(part)) return part;
+        const lower = part.toLowerCase();
+        return shouldCapitalise && index === 0 ? capitaliseWord(lower) : lower;
       })
       .join("");
     return leading + converted + trailing;
   }
 
-  return leading + capitaliseWord(core) + trailing;
+  const lower = core.toLowerCase();
+  return leading + (shouldCapitalise ? capitaliseWord(lower) : lower) + trailing;
 }
 
-function titleCaseHeading(text) {
+function sentenceCaseHeading(text) {
   const anchor = text.match(/\s+\{#[^}]+\}$/)?.[0] || "";
   const coreText = anchor ? text.slice(0, -anchor.length) : text;
   const parts = coreText.split(/(\s+)/);
-  const wordIndexes = parts
-    .map((part, index) => (/^\S+$/.test(part) && !/^\d+[.)]?$/.test(part) ? index : -1))
-    .filter((index) => index >= 0);
-
-  let wordIndex = 0;
+  let hasCapitalisedWord = false;
   const converted = parts
     .map((part) => {
       if (!/^\S+$/.test(part) || /^\d+[.)]?$/.test(part)) return part;
-      const next = titleWord(part, wordIndex, wordIndexes.length);
-      wordIndex += 1;
+      const shouldCapitalise = !hasCapitalisedWord;
+      const next = sentenceWord(part, shouldCapitalise);
+      if (/[A-Za-z0-9]/.test(part)) hasCapitalisedWord = true;
       return next;
     })
     .join("");
@@ -256,9 +253,21 @@ for (const file of walkEnPages()) {
     const heading = line.match(/^(#{1,6})\s+(.+)$/);
     if (!heading) return;
 
-    const expected = `${heading[1]} ${titleCaseHeading(heading[2])}`;
+    const expected = `${heading[1]} ${sentenceCaseHeading(heading[2])}`;
     if (expected !== line) {
-      issues.push(`${file}:${lineNo}: Heading should use title case.\n  Found:    ${line}\n  Expected: ${expected}`);
+      issues.push(`${file}:${lineNo}: Heading should use sentence case.\n  Found:    ${line}\n  Expected: ${expected}`);
+    }
+  });
+}
+
+for (const file of walkMarkdown()) {
+  const lines = readFileSync(file, "utf8").split(/\r?\n/);
+  lines.forEach((line, index) => {
+    const visible = stripInlineCode(line);
+    for (const [pattern, message] of punctuationRules) {
+      if (pattern.test(visible)) {
+        issues.push(`${file}:${index + 1}: ${message}\n  ${line}`);
+      }
     }
   });
 }
@@ -269,4 +278,4 @@ if (issues.length > 0) {
   process.exit(1);
 }
 
-console.log(`0 style issues across ${walkEnPages().length} English files`);
+console.log(`0 style issues across ${walkEnPages().length} English files and ${walkMarkdown().length} markdown files`);

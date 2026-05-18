@@ -2,7 +2,7 @@
 title: Sektor Perkhidmatan (Mamak & Makanan Segera)
 description: Kerjaya mamak dan makanan segera di Sumaya.
 lang: ms
-translated_from_hash: "fae94681"
+translated_from_hash: "47b94c4d"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -56,7 +56,7 @@ Petua:
 
 ## Naik tahap
 
-Sektor Perkhidmatan boleh naik sehingga **tahap 100**, sama seperti sektor awam yang lain. XP setiap Pelanggan kekal tetap pada 6 tanpa mengira tahap anda — penggrindan adalah stabil, tidak memecut, jadi rancang syif anda berdasarkan berapa ramai Pelanggan yang boleh anda layan, bukan setinggi mana anda telah naik tahap.
+Sektor Perkhidmatan boleh naik sehingga **tahap 100**, sama seperti sektor awam yang lain. XP setiap Pelanggan kekal tetap pada 6 tanpa mengira tahap anda - penggrindan adalah stabil, tidak memecut, jadi rancang syif anda berdasarkan berapa ramai Pelanggan yang boleh anda layan, bukan setinggi mana anda telah naik tahap.
 
 ## Clock out
 

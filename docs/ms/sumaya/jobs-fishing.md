@@ -1,8 +1,8 @@
 ---
 title: Memancing
-description: 'Memancing di Sumaya — tempat, jenis ikan, harga, dan kemajuan.'
+description: 'Memancing di Sumaya - tempat, jenis ikan, harga, dan kemajuan.'
 lang: ms
-translated_from_hash: "c128b604"
+translated_from_hash: "f5a12209"
 translated_on: 2026-05-18
 needs_review: true
 ---

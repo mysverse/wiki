@@ -1,13 +1,13 @@
 ---
 title: "Controls"
-description: "Every control in Lebuhraya — keyboard, gamepad, mobile, and VR inputs."
+description: "Every control in Lebuhraya - keyboard, gamepad, mobile, and VR inputs."
 ---
 
 # Controls
 
-Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game — if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
+Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game - if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
 
-## Entering and Exiting Vehicles
+## Entering and exiting vehicles
 
 Stand within about **6 studs** of a driver or passenger seat.
 
@@ -20,7 +20,7 @@ Stand within about **6 studs** of a driver or passenger seat.
 
 The same input exits the seat.
 
-### Seat Permissions
+### Seat permissions
 
 Driver seats are usually locked to the vehicle's owner. If you try to sit in someone else's car, you'll be blocked unless they've unlocked it for you.
 
@@ -40,7 +40,7 @@ Driving uses the A-Chassis system. Defaults:
 
 > Vehicle lighting controls vary between the older and newer chassis systems in the game. Always follow the on-screen prompts for the specific vehicle you're in.
 
-## Walking Around
+## Walking around
 
 Standard Roblox controls.
 
@@ -63,7 +63,7 @@ Standard Roblox controls.
 | Close any popup | **Esc** or **Backspace** | Tap close/back | **B** / back button where shown |
 | Confirm focused button | Click / Enter where focused | Tap | **A** |
 
-### Proximity Prompts
+### Proximity prompts
 
 Most world interactions use Roblox ProximityPrompts: spawners, doors, job counters, fuel pumps, repair zones, tow panels, and shop counters.
 
@@ -71,47 +71,47 @@ Most world interactions use Roblox ProximityPrompts: spawners, doors, job counte
 - Hold the shown key/button until the circle completes if it has a hold duration.
 - If the prompt says you are on the wrong team or at the wrong fuel pump type, the prompt is working; follow the warning.
 
-### Main Menu Tabs
+### Main menu tabs
 
 Open the Main Menu to access:
 
-- **Home** — announcements and overview
-- **Teams** — pick your team / switch teams
-- **Shop** — in-game purchases (gamepass prompts, tokens)
-- **Activity** — missions, challenges, and season pass progress
-- **More** — a card grid for:
-  - **Career** — your career ranks and agency progress
-  - **Jobs** — per-branch tier bars and rewards
-  - **Tokens** — your active and stored tokens / boosts
-  - **Credits** — development team and contributors
-  - **Races** — time trial and PvP race menu
-  - **Help** — tutorials when available
+- **Home** - announcements and overview
+- **Teams** - pick your team / switch teams
+- **Shop** - in-game purchases (gamepass prompts, tokens)
+- **Activity** - missions, challenges, and season pass progress
+- **More** - a card grid for:
+  - **Career** - your career ranks and agency progress
+  - **Jobs** - per-branch tier bars and rewards
+  - **Tokens** - your active and stored tokens / boosts
+  - **Credits** - development team and contributors
+  - **Races** - time trial and PvP race menu
+  - **Help** - tutorials when available
 
 Career, tokens, credits, and help pages are grouped under **More**.
 
-### Settings You Can Tweak
+### Settings you can tweak
 
 Open the Settings panel (cogwheel in the Main Menu) for these toggles:
 
-- **Crash System** — turn on to have collisions actually damage your car; in return you earn **+15% XP** while active. Only available with a Kesihatan team player on the server (see FAQ).
-- **Overhead rank** — show or hide the team rank/title that floats above your character.
-- **First person view** — switch camera mode. Forward-slash (`/`) toggles the view in-game.
-- **Vehicle Spawner: NEW** — opt into the refreshed vehicle spawner UI.
-- **Parking Brake** key — remap the handbrake bind.
-- **Shift + C** — toggle the entire HUD (good for screenshots).
-- Reset / Change / Remove — repositioning and customisation shortcuts.
+- **Crash System** - turn on to have collisions actually damage your car; in return you earn **+15% XP** while active. Only available with a Kesihatan team player on the server (see FAQ).
+- **Overhead rank** - show or hide the team rank/title that floats above your character.
+- **First person view** - switch camera mode. Forward-slash (`/`) toggles the view in-game.
+- **Vehicle Spawner: NEW** - opt into the refreshed vehicle spawner UI.
+- **Parking Brake** key - remap the handbrake bind.
+- **Shift + C** - toggle the entire HUD (good for screenshots).
+- Reset / Change / Remove - repositioning and customisation shortcuts.
 
-### Top HUD Indicators
+### Top HUD indicators
 
-- **ActiveTokensHUD** — shows every currently-active token (2× XP Boost, Season Pass Boost, Team Access Pass) with remaining time in `M:SS` format. Tokens auto-hide when expired.
-- **StatusGui** — speedometer, fuel, GPS heading, and player vitals.
-- **Leaderboard** — tap to see all online players, their team, level, and studs driven. You can tap a row to send a friend request or block from the same panel.
+- **ActiveTokensHUD** - shows every currently-active token (2× XP Boost, Season Pass Boost, Team Access Pass) with remaining time in `M:SS` format. Tokens auto-hide when expired.
+- **StatusGui** - speedometer, fuel, GPS heading, and player vitals.
+- **Leaderboard** - tap to see all online players, their team, level, and studs driven. You can tap a row to send a friend request or block from the same panel.
 
-## Tools (Jobs Equipment)
+## Tools (jobs equipment)
 
-When you hold a tool — axe, radar gun, taser, pager, fire hose — the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.
+When you hold a tool - axe, radar gun, taser, pager, fire hose - the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.
 
-## Mobile Tips
+## Mobile tips
 
 - The game respects mobile layout; driving on a phone works but is easier on a tablet.
 - Most ProximityPrompts (enter doors, talk to NPCs, start jobs) show a round button on screen. Tap it.
@@ -119,7 +119,7 @@ When you hold a tool — axe, radar gun, taser, pager, fire hose — the control
 - Avoid holding the bottom corners for non-driving UI; Roblox's movement stick and jump button live there.
 - If a card grid or menu feels crowded, rotate the device to landscape. The Main Menu's More and Teams views are designed to fit short landscape screens.
 
-## Gamepad Tips
+## Gamepad tips
 
 - Menu buttons are selectable. If focus seems lost, close and reopen the menu so the game can select the first button again.
 - Use the D-pad/left stick to move between cards, **A** to confirm, and **B** to back out where the UI shows a back or close action.
@@ -127,11 +127,11 @@ When you hold a tool — axe, radar gun, taser, pager, fire hose — the control
 
 ## Accessibility
 
-- Roblox's system-wide settings apply — colourblind filters, UI scaling, text-to-speech.
+- Roblox's system-wide settings apply - colourblind filters, UI scaling, text-to-speech.
 - Passive mode can be toggled to prevent tool and weapon interactions. Useful if you don't want to be pulled into combat or emergency roleplay.
 
-## Next Steps
+## Next steps
 
-- [Economy and XP](/lebuhraya/economy) — How driving turns into levels
-- [Vehicles](/lebuhraya/vehicles) — Spawn menu, ownership, fuel
-- [Jobs](/lebuhraya/jobs) — Which tools belong to which teams
+- [Economy and XP](/lebuhraya/economy) - How driving turns into levels
+- [Vehicles](/lebuhraya/vehicles) - Spawn menu, ownership, fuel
+- [Jobs](/lebuhraya/jobs) - Which tools belong to which teams

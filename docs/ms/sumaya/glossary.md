@@ -2,7 +2,7 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: "c9c4ac51"
+translated_from_hash: "415ef0c5"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -23,9 +23,9 @@ Perkataan ini berasal daripada kosa kata harian Malaysia/Melayu. Anda akan melih
 | **Kesihatan** | Kesihatan / perubatan. | Pasukan perkhidmatan kecemasan perubatan / paramedik. |
 | **Polis** | Polis. | Pasukan perkhidmatan kecemasan penguatkuasaan undang-undang. Disingkatkan POLIS. |
 | **Jom** | "Mari pergi" (tidak formal). | Butang untuk masuk ke dunia permainan dari menu utama. |
-| **Jelajah** | "Meneroka" / "perjalanan". | Aplikasi jurnal penemuan pada telefon — menjejak mercu tanda (POI) yang anda telah jumpa berbanding yang masih terkunci. |
+| **Jelajah** | "Meneroka" / "perjalanan". | Aplikasi jurnal penemuan pada telefon - menjejak mercu tanda (POI) yang anda telah jumpa berbanding yang masih terkunci. |
 | **Ditemui** | "Dijumpai" / "ditemukan". | Digunakan dalam pil kemajuan aplikasi Jelajah (`<n> / <total> ditemui`). |
-| **Baca Maklumat** | "Baca maklumat". | Butang CTA pada skrin terperinci POI Jelajah yang telah ditemui — membuka semula infografik mercu tanda. |
+| **Baca Maklumat** | "Baca maklumat". | Butang CTA pada skrin terperinci POI Jelajah yang telah ditemui - membuka semula infografik mercu tanda. |
 | **Belum** | "Belum lagi". | Pil penapis dalam Jelajah untuk mercu tanda yang belum anda temui. |
 | **Semua** | "Semua". | Pil penapis dalam Jelajah untuk senarai POI penuh. |
 | **Daerah** | Daerah / wilayah. | Wilayah peta Sumaya. |

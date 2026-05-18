@@ -1,15 +1,15 @@
 ---
 title: "Getting Around Bandaraya"
-description: "Public transport in Bandaraya — MRT, LRT, monorail, buses, CAG card, e-hailing, and TapNGo tolls."
+description: "Public transport in Bandaraya - MRT, LRT, monorail, buses, CAG card, e-hailing, and TapNGo tolls."
 ---
 
-# Getting Around Bandaraya
+# Getting around Bandaraya
 
 Use buses, MRT, Monorail, cars, taxis, and TapNGo toll gates to move around Kuala Lumpur. The **CAG (Click And Go)** card makes public transport cheaper and easier.
 
 All prices are in **BR**.
 
-## Quick Reference
+## Quick reference
 
 | What | Cash | With CAG | With CAG monthly pass |
 | --- | --- | --- | --- |
@@ -21,13 +21,13 @@ All prices are in **BR**.
 
 ## Network
 
-### MRT Kajang Line
+### MRT kajang line
 
 - Conlay
 - Persiaran KLCC
 - Ampang Park
 
-### KL Monorail Line
+### KL monorail line
 
 - Bukit Bintang
 - Raja Chulan
@@ -41,7 +41,7 @@ Buses are run by several transport operators. Board by sitting in a passenger se
 
 Some roads use TapNGo toll gates. Drive up, pay, and the gate opens.
 
-## Fast Travel: MRT & Monorail
+## Fast travel: MRT & monorail
 
 1. Walk to a station.
 2. Open the fast-travel panel.
@@ -67,24 +67,24 @@ If your CAG balance is too low, the system can fall back to your BR wallet at th
 - **Debt cap:** 200 BR. Top up to clear it.
 - **Drivers:** driver seats are not charged.
 
-## TapNGo Highway Gates
+## TapNGo highway gates
 
 - Normal toll: **15 BR**.
 - With CAG: **12 BR** when your card can pay.
 - If CAG cannot pay, the gate uses the normal BR price.
 
-## CAG (Click and Go) Card
+## CAG (click and go) card
 
 CAG is Bandaraya's stored-value transport card. It is live in the current version and has **8 kiosks**, all at MRT and Monorail station entrances.
 
-### Buying a Card
+### Buying a card
 
 1. Find a CAG kiosk at a station.
 2. Choose **Buy Card**.
 3. Pay **100 BR**.
 4. The CAG Card tool is added to your backpack on spawn.
 
-### Topping Up
+### Topping up
 
 Top up at kiosks in these amounts:
 
@@ -96,7 +96,7 @@ Top up at kiosks in these amounts:
 
 Maximum stored balance is **2,000 BR**. If you have bus-fare debt, your next top-up clears the debt first.
 
-### Monthly Pass
+### Monthly pass
 
 - **Price:** 500 BR
 - **Duration:** 30 days
@@ -104,7 +104,7 @@ Maximum stored balance is **2,000 BR**. If you have bus-fare debt, your next top
 
 The pass is most useful if you ride buses often or use fast travel regularly.
 
-### Wallet and Phone App
+### Wallet and phone app
 
 You can view CAG through:
 
@@ -114,7 +114,7 @@ You can view CAG through:
 
 The phone app is mainly for checking balance, pass status, designs, and trip history. Buying, topping up, and changing designs still happen through kiosks.
 
-### Card Designs
+### Card designs
 
 The Classic design comes with the card. Other designs can be bought, unlocked through travel milestones, or offered during seasonal events.
 
@@ -125,7 +125,7 @@ The Classic design comes with the card. Other designs can be bought, unlocked th
 - Keep enough BR for taxis, fuel, fines, and other non-CAG expenses.
 - If a kiosk or app is unavailable during maintenance, your saved CAG data is not lost.
 
-## See Also
+## See also
 
 - [Economy](/bandaraya/economy)
 - [Map](/bandaraya/locations)

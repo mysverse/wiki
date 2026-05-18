@@ -9,7 +9,7 @@ Sumaya has a **12-quest discovery chain** that walks you through the game's core
 
 This page lists every quest, what you need to do, and what you get.
 
-## How Quests Work
+## How quests work
 
 - The chain **starts automatically** on your first join.
 - Each quest has one or more steps. Complete the steps, get the reward, and the next quest auto-unlocks.
@@ -19,7 +19,7 @@ This page lists every quest, what you need to do, and what you get.
 
 Most quests are **one-step** - do the thing, get the reward. Two of them (the final "lore" quests) have **ordered steps** that must be done in sequence.
 
-## The Discovery Chain
+## The discovery chain
 
 All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, and to your global player XP.
 
@@ -30,14 +30,14 @@ All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, a
 
 A warmup quest - you get this one just by existing for 10 seconds after you spawn.
 
-### 2. Check Your Phone
+### 2. Check your phone
 
 - **Goal:** Open your phone at least once.
 - **Reward:** 100 XP, 50 Ringgit.
 
 Teaches you where the phone is. Tap the icon.
 
-### 3. On the Road
+### 3. On the road
 
 - **Goal:** Spawn any vehicle.
 - **Waypoint:** nearest vehicle spawner.
@@ -45,7 +45,7 @@ Teaches you where the phone is. Tap the icon.
 
 Introduces the vehicle spawner system. The Perosatu Axia and Protan Wira are free starter cars; the rest of the standard civilian catalogue uses rent/buy prices.
 
-### 4. Your First Purchase
+### 4. Your first purchase
 
 - **Goal:** Buy any item from a shop.
 - **Waypoint:** nearest shop.
@@ -53,7 +53,7 @@ Introduces the vehicle spawner system. The Perosatu Axia and Protan Wira are fre
 
 Teaches shopping. Any cheap item works - food, a tool, anything.
 
-### 5. Pick a Career
+### 5. Pick a career
 
 - **Goal:** Start any civilian job (Fishing, Service, or Agro).
 - **Waypoint:** nearest career station.
@@ -61,14 +61,14 @@ Teaches shopping. Any cheap item works - food, a tool, anything.
 
 Gets you into the career system. Clock in at any civilian career station.
 
-### 6. Levelling Up
+### 6. Levelling up
 
 - **Goal:** Reach player level 2.
 - **Reward:** 300 XP, 200 Ringgit.
 
 You'll hit level 2 just by completing the earlier quests or doing a short career shift.
 
-### 7. Retail Therapy
+### 7. Retail therapy
 
 - **Goal:** Buy 3 items from any shops.
 - **Waypoint:** any shop.
@@ -76,28 +76,28 @@ You'll hit level 2 just by completing the earlier quests or doing a short career
 
 You can buy from the same shop or different ones. 3 total purchases required.
 
-### 8. Jack of All Trades
+### 8. Jack of all trades
 
 - **Goal:** Work all 3 civilian sectors (Fishing, Service, Agro) at least once.
 - **Reward:** 400 XP, 300 Ringgit.
 
 Each start counts once. Clock in at fishing, then service (if you've unlocked it at level 50 - otherwise skip this step via palm oil), then palm oil. Note: the service sector unlocks at level 50 in another sector, so you may need to grind a bit first.
 
-### 9. Rising Star
+### 9. Rising star
 
 - **Goal:** Reach player level 5.
 - **Reward:** 500 XP, 400 Ringgit.
 
 A level milestone. Do any grind - fishing, palm oil, or emergency service - until you hit 5.
 
-### 10. Old Hand
+### 10. Old hand
 
 - **Goal:** Reach player level 10.
 - **Reward:** 800 XP, 700 Ringgit.
 
 Another level milestone. Bigger payout.
 
-### 11. A Day in Sumaya
+### 11. A day in Sumaya
 
 - **Goal:** Live a typical day (ordered steps):
   1. Check phone for morning news.
@@ -108,7 +108,7 @@ Another level milestone. Bigger payout.
 
 The steps must be done **in that order**. You can't spawn a vehicle before checking your phone, etc.
 
-### 12. The Ringgit Grind (FINAL)
+### 12. The ringgit grind (FINAL)
 
 - **Goal:** Hustle your way up (ordered steps):
   1. Clock in to any civilian job.
@@ -119,7 +119,7 @@ The steps must be done **in that order**. You can't spawn a vehicle before check
 
 The finale. Must be done in order. By the time you finish this, you'll have sampled almost everything the game offers. The finale bonus only pays out for this quest.
 
-## Total Rewards
+## Total rewards
 
 If you complete the entire chain:
 
@@ -128,7 +128,7 @@ If you complete the entire chain:
 
 That's enough XP to push past player level 10. The Ringgit isn't enough for a house yet (Tier 1 is 25,000 SR), and it does not cover a Protan X50 (32,000 SR) or even the cheapest paid civilian purchase (5,000 SR). It gets you very close to a Protan Wira Aeroback / Protan Putra purchase, or makes a serious dent in the **Tier 2 Trawler** if you go fishing next.
 
-## Viewing Quest Progress
+## Viewing quest progress
 
 Open the **Quest** app on your phone:
 
@@ -137,7 +137,7 @@ Open the **Quest** app on your phone:
 - **Locked quests** - greyed out until earlier ones are done.
 - **Completed quests** - with a badge.
 
-## Quest Waypoints
+## Quest waypoints
 
 The game automatically sets minimap waypoints for quest steps that need a specific location:
 
@@ -148,7 +148,7 @@ The game automatically sets minimap waypoints for quest steps that need a specif
 
 The waypoint auto-clears when you complete the step.
 
-## Dismissing the Task Card
+## Dismissing the task card
 
 If the task card in the top-left is blocking your view (especially on mobile while driving), tap the **chevron (^)** button to collapse it. Your quest progress continues in the background.
 
@@ -162,7 +162,7 @@ The task card auto-returns when you open a new quest or complete a step.
 - **Quest Ringgit goes to the bank, not your wallet.** Makes sense - you've earned it, it's savings.
 - **You can complete quests passively while doing other activities.** Don't focus-grind them; just play, and they'll tick off naturally.
 
-## What Next?
+## What next?
 
 - [Getting Started](/sumaya/get-started) for the rest of the onboarding.
 - [Phone and UI](/sumaya/phone) for the Quest app interface.

@@ -1,10 +1,10 @@
 ---
 title: Bomba
 description: >-
-  Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden
+  Bermain sebagai BOMBA di Sumaya - jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: "98365ef0"
+translated_from_hash: "eff996fa"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -16,7 +16,7 @@ needs_review: true
 
 ## Mula bermain
 
-Pilih **BOMBA** pada menu utama. Anda muncul dengan **Fire Extinguisher** di dalam beg galas anda dan BombaGui pada skrin — tiada daftar masuk diperlukan. **Hose** sendiri bukan alat permulaan: anda mengambilnya dari salur hose pada jentera bomba atau hydrant apabila anda tiba di lokasi insiden.
+Pilih **BOMBA** pada menu utama. Anda muncul dengan **Fire Extinguisher** di dalam beg galas anda dan BombaGui pada skrin - tiada daftar masuk diperlukan. **Hose** sendiri bukan alat permulaan: anda mengambilnya dari salur hose pada jentera bomba atau hydrant apabila anda tiba di lokasi insiden.
 
 Pergi ke balai bomba untuk mendapatkan kenderaan, atau tunggu amaran kebakaran muncul pada minimap anda.
 
@@ -34,17 +34,17 @@ Hanya satu kebakaran aktif pada satu masa di server. Apabila kebakaran dipadamka
 
 Sumaya pada masa ini berputar antara **sembilan templat kebakaran**, setiap satu pra-bina dengan lokasi dan susun atur bloknya sendiri:
 
-- **3 Kemalangan Kereta** — Luar Balai Polis, Luar Hazbank, Dekat MFC.
-- **6 Kebakaran Bangunan** — Jalan Padas Dua (dua varian), Kedai Emas Tai Loi, Perbankan Elektronik, Klinik KKN Lama, Radtrol Jalan Kepala Ikan.
+- **3 Kemalangan Kereta** - Luar Balai Polis, Luar Hazbank, Dekat MFC.
+- **6 Kebakaran Bangunan** - Jalan Padas Dua (dua varian), Kedai Emas Tai Loi, Perbankan Elektronik, Klinik KKN Lama, Radtrol Jalan Kepala Ikan.
 
-Server memilih satu secara rawak setiap insiden. Kad pada HUD tugasan anda memaparkan **IncidentType** ("Car Crash" atau "Building Fire") dan nama **Location** supaya anda tahu apa yang anda menuju sebelum tiba. Aplikasi MDT mengambil data yang sama secara automatik — dispatcher melihat rentetan lokasi yang dapat dibaca, bukan hanya koordinat.
+Server memilih satu secara rawak setiap insiden. Kad pada HUD tugasan anda memaparkan **IncidentType** ("Car Crash" atau "Building Fire") dan nama **Location** supaya anda tahu apa yang anda menuju sebelum tiba. Aplikasi MDT mengambil data yang sama secara automatik - dispatcher melihat rentetan lokasi yang dapat dibaca, bukan hanya koordinat.
 
 ## Memadamkan kebakaran
 
 ### Hose
 
 1. Lengkapkan hose anda.
-2. Cari sumber air - sama ada **hydrant** (beberapa diletakkan di sekitar bandar — cari model tiang merah/kuning) atau **tanker truck**.
+2. Cari sumber air - sama ada **hydrant** (beberapa diletakkan di sekitar bandar - cari model tiang merah/kuning) atau **tanker truck**.
 3. Sambungkan hujung hose ke prompt sumber air.
 4. Sasarkan blok api dan semburkan.
 
@@ -54,7 +54,7 @@ Jika anda mati, tukar pasukan, keluar dari server, kehilangan outlet sumber, ata
 
 ### Hydrant
 
-Hydrant ditetapkan di sekitar peta. Peta semasa mempunyai segelintir hydrant — tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekitarnya. Setiap hydrant menyokong dua salur hose, jadi dua pegawai bomba boleh berkongsi satu.
+Hydrant ditetapkan di sekitar peta. Peta semasa mempunyai segelintir hydrant - tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekitarnya. Setiap hydrant menyokong dua salur hose, jadi dua pegawai bomba boleh berkongsi satu.
 
 ### Tanker (tahap sektor 65)
 

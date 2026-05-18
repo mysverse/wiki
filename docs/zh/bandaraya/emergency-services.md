@@ -1,14 +1,14 @@
 ---
 title: 紧急服务
-description: POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。
+description: POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD - Bandaraya 的紧急与安保服务。
 lang: zh
-translated_from_hash: "ae08e195"
+translated_from_hash: "6272784a"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 紧急服务
 
-扮演公共服务角色 — 警察、消防、医疗、军人 — 是 Bandaraya 角色扮演的核心。本页介绍每个团队的职责、所配备的工具,以及对穿着制服的人员的期望。
+扮演公共服务角色 - 警察、消防、医疗、军人 - 是 Bandaraya 角色扮演的核心。本页介绍每个团队的职责、所配备的工具,以及对穿着制服的人员的期望。
 
 ## 简要概览
 
@@ -23,7 +23,7 @@ needs_review: true
 
 ---
 
-## POLIS(Polis MYSverse)— 警察
+## POLIS(Polis MYSverse) - 警察
 
 组别:1182710、3048630。任何职级。
 
@@ -34,13 +34,13 @@ needs_review: true
 - 拘留和逮捕嫌疑人。参见[逮捕与法律](/bandaraya/arrest-and-law)。
 - 对交通违规开出 saman(罚单)。
 - 使用 **MDT 平板应用**来检查 BG、运行 BOLO、提醒其他警员。
-- 在 **IPD Dang Wangi** 值班 — 主要警察局(CID、JSPT、Ops Room、Armoury)。
+- 在 **IPD Dang Wangi** 值班 - 主要警察局(CID、JSPT、Ops Room、Armoury)。
 
 ### 工具
 
 | 工具 | 用途 |
 | --- | --- |
-| **X26P** | 电击枪 — 非致命性制服嫌疑人 |
+| **X26P** | 电击枪 - 非致命性制服嫌疑人 |
 | **T-Baton** | 近战武器 |
 | **Cuff** | 给被拘留的嫌疑人戴上手铐 |
 | **Search** | 向玩家请求搜查同意 |
@@ -59,17 +59,17 @@ needs_review: true
 
 POLIS 拥有最大的车队:
 
-- **巡逻 / MPV** — Proton Preve、Proton Inspira、Honda Civic、Proton X70、Toyota Hilux 各型、Perodua Aruz/Bezza
-- **HPV**(高性能)— Civic Type R、Outlander、CX-5、Lancer Evo X
-- **护送** — Inspira 1.8、Civic Type R、Volvo S90 T5
-- **UTK**(特别战术)— Toyota Hilux UTK、BMW X5 UTK、IAG Jaws UTK
-- **CID** — CID K9、CID Hilux、CID Bike
-- **无标识** — Saga、Inspira、Civic、Preve、Waja、Persona、X70、Outlander、Bezza
-- **运输** — Hiace 各型、HICOM Handalan II、Hilux 货运
-- **拖车** — Isuzu Tow Truck、Hino/Fuso Tow
-- **防暴** — Scania P310 Riot、Scania VGF1955 FRU、Handalan II Riot Command
-- **摩托车** — POLIS Bike 1–5、UTK Bike、BMW R1200GS、Kawasaki 300 URB
-- **装甲** — **AV4** 和 **V150**(防弹)
+- **巡逻 / MPV** - Proton Preve、Proton Inspira、Honda Civic、Proton X70、Toyota Hilux 各型、Perodua Aruz/Bezza
+- **HPV**(高性能) - Civic Type R、Outlander、CX-5、Lancer Evo X
+- **护送** - Inspira 1.8、Civic Type R、Volvo S90 T5
+- **UTK**(特别战术) - Toyota Hilux UTK、BMW X5 UTK、IAG Jaws UTK
+- **CID** - CID K9、CID Hilux、CID Bike
+- **无标识** - Saga、Inspira、Civic、Preve、Waja、Persona、X70、Outlander、Bezza
+- **运输** - Hiace 各型、HICOM Handalan II、Hilux 货运
+- **拖车** - Isuzu Tow Truck、Hino/Fuso Tow
+- **防暴** - Scania P310 Riot、Scania VGF1955 FRU、Handalan II Riot Command
+- **摩托车** - POLIS Bike 1–5、UTK Bike、BMW R1200GS、Kawasaki 300 URB
+- **装甲** - **AV4** 和 **V150**(防弹)
 
 ### 直升机
 
@@ -78,14 +78,14 @@ POLIS 可以使用警局直升机进行空中巡逻。在可用时，打开警�
 ### 期望
 
 - **作为 POLIS 变节是严重违规行为。** 警察犯罪 = ban。
-- 遵循角色扮演协议 — 表明身份、说明罪名、给嫌疑人服从的机会。
+- 遵循角色扮演协议 - 表明身份、说明罪名、给嫌疑人服从的机会。
 - 使用平板 MDT 对嫌疑人发出 BOLO;其他警员将收到 badge + 声音 + toast 警报。
 
 参见[逮捕与法律](/bandaraya/arrest-and-law)了解完整的逮捕流程。
 
 ---
 
-## BOMBA(Bomba MYSverse)— 消防与救援
+## BOMBA(Bomba MYSverse) - 消防与救援
 
 组别:2957304。任何职级。
 
@@ -118,22 +118,22 @@ POLIS 可以使用警局直升机进行空中巡逻。在可用时，打开警�
 
 ### 直升机
 
-**BOMBAHeliSpawner** — 空中灭火 / 救援。
+**BOMBAHeliSpawner** - 空中灭火 / 救援。
 
 ### 火灾事件
 
 当**至少有一位 BOMBA 成员在线**时,火灾会在地图各处 spawn。当您在 BOMBA 时,您的客户端会收到警报(地图图钉 + 声音 + 平板通知)。开车到事件现场,让水流到火焰方块上,将其扑灭。
 
-- **时长上限**:每个事件 10 分钟 — 如果在此时间内未扑灭,事件将被强制清除。
+- **时长上限**:每个事件 10 分钟 - 如果在此时间内未扑灭,事件将被强制清除。
 - **Cooldown**:事件结束后 5 分钟才能 spawn 新的事件。
 - **需要 BOMBA 在线**:如果所有 BOMBA 在事件中途离开值班,火灾会自动被清除。
 - **后加入者**:如果您在事件中途切换到 BOMBA,您的客户端会向 server 询问当前状态,地图图钉会立即显示。
-- **地图上有 5 个消防栓** — 策略性地定位自己。
-- **Auto-sign** — 加入 BOMBA 会自动为您打卡进行值班追踪。
+- **地图上有 5 个消防栓** - 策略性地定位自己。
+- **Auto-sign** - 加入 BOMBA 会自动为您打卡进行值班追踪。
 
 ---
 
-## KKM(Kementerian Kesihatan)— 卫生部
+## KKM(Kementerian Kesihatan) - 卫生部
 
 组别:5760632。任何职级。
 
@@ -161,7 +161,7 @@ KKM 拥有救护车、RRV(快速响应车辆)和多用途车辆。包括 KKM Mer
 ### 治疗玩家
 
 1. 抵达倒下的玩家处。
-2. 使用套件物品 — 绷带(止血)、吗啡(止痛)、血袋(失血)等。
+2. 使用套件物品 - 绷带(止血)、吗啡(止痛)、血袋(失血)等。
 3. 如果他们已 flatline,使用 **defib**。
 4. 他们的状态会随着时间恢复。
 
@@ -173,7 +173,7 @@ KKM 拥有救护车、RRV(快速响应车辆)和多用途车辆。包括 KKM Mer
 
 组别:3027933,职级 2+。
 
-志愿救护车。基本工具包 — 目前只有手电筒。与 KKM 一起为民众提供医疗响应,尤其在活动中。
+志愿救护车。基本工具包 - 目前只有手电筒。与 KKM 一起为民众提供医疗响应,尤其在活动中。
 
 ---
 
@@ -187,11 +187,11 @@ KKM 拥有救护车、RRV(快速响应车辆)和多用途车辆。包括 KKM Mer
 - Search
 - Torchlight
 
-权限有限 — 在现场支援 POLIS、人群管控。没有直接的逮捕权。
+权限有限 - 在现场支援 POLIS、人群管控。没有直接的逮捕权。
 
 ---
 
-## MAF(MYSverse Armed Forces)— 军队
+## MAF(MYSverse Armed Forces) - 军队
 
 组别:2817130、2849945、2817134。职级 3+。
 
@@ -199,7 +199,7 @@ KKM 拥有救护车、RRV(快速响应车辆)和多用途车辆。包括 KKM Mer
 
 - 从 **Kem Wardieburn** 开展基地行动。
 - 阅兵活动、礼仪任务。
-- 特别行动(GGK — 特种部队子组)。
+- 特别行动(GGK - 特种部队子组)。
 
 ### 工具
 
@@ -225,7 +225,7 @@ MAF 此前有警棍和手铐;目前的配置在设计上更为有限。
 
 ---
 
-## 军事警察(KPTD)— Kor Polis Tentera MYSverse
+## 军事警察(KPTD) - Kor Polis Tentera MYSverse
 
 组别:2817141。任何职级。
 
@@ -242,7 +242,7 @@ MAF 此前有警棍和手铐;目前的配置在设计上更为有限。
 
 ### 车辆
 
-专用的 KPTD 巡逻车 — X70 KPTD、Preve KPTD、Civic KPTD 等 + 摩托车。
+专用的 KPTD 巡逻车 - X70 KPTD、Preve KPTD、Civic KPTD 等 + 摩托车。
 
 ---
 
@@ -250,7 +250,7 @@ MAF 此前有警棍和手铐;目前的配置在设计上更为有限。
 
 紧急服务经常协同工作:
 
-- 重大事件的**多车辆响应** — POLIS + BOMBA + KKM。
+- 重大事件的**多车辆响应** - POLIS + BOMBA + KKM。
 - **BOMBA 呼叫**触发 `IncidentEvent`,BOMBA 客户端监听该事件;其他人可以自行出动。
 - 来自 POLIS 的 **MDT BOLO** 通知所有值班警员(声音 + toast + badge)。
 - **KKM** 稳定倒下的平民;POLIS 可以在稳定后继续他们的逮捕。
@@ -259,15 +259,15 @@ MAF 此前有警棍和手铐;目前的配置在设计上更为有限。
 
 - **按照您的团队扮演。** POLIS 不开第一枪;BOMBA 不逮捕;KKM 不与嫌疑人交战。
 - **变节 = 严重 ban。** 在任何公共服务团队上,犯罪 = 立即管理处分。参见[规则](/bandaraya/rules#severe-violations)。
-- **使用您的平板。** MDT、MyEmergency、车辆管理、MyTow、KKM Logger — 全部为免费工具。参见[平板](/bandaraya/tablet)。
+- **使用您的平板。** MDT、MyEmergency、车辆管理、MyTow、KKM Logger - 全部为免费工具。参见[平板](/bandaraya/tablet)。
 - **Armour = Armor 部件。** 内部有 `Armor` 部件的车辆是防弹的(例如 AV4)。参见[车辆](/bandaraya/vehicles#bulletproofing)。
 - **Spawner 受团队限制。** 如果您的团队无法访问某个 spawner,UI 就不会显示。
 
 ## 另见
 
-- [逮捕与法律](/bandaraya/arrest-and-law) — POLIS 逮捕流程
-- [战斗与健康](/bandaraya/combat-and-health) — 武器、装甲、伤势、医疗套件
-- [平板](/bandaraya/tablet) — MDT、MyEmergency、KKM Logger
-- [车辆](/bandaraya/vehicles) — 紧急车队
-- [地图](/bandaraya/locations) — IPD Dang Wangi、BOMBA 站、KKM 诊所、Kem Wardieburn
-- [团队](/bandaraya/teams) — 访问要求
+- [逮捕与法律](/bandaraya/arrest-and-law) - POLIS 逮捕流程
+- [战斗与健康](/bandaraya/combat-and-health) - 武器、装甲、伤势、医疗套件
+- [平板](/bandaraya/tablet) - MDT、MyEmergency、KKM Logger
+- [车辆](/bandaraya/vehicles) - 紧急车队
+- [地图](/bandaraya/locations) - IPD Dang Wangi、BOMBA 站、KKM 诊所、Kem Wardieburn
+- [团队](/bandaraya/teams) - 访问要求

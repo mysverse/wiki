@@ -1,16 +1,16 @@
 ---
 title: Telefon
 description: >-
-  Telefon dalam permainan di Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
+  Telefon dalam permainan di Bandaraya - MyPay, e-hailing, 999, MyCar, MyTow,
   mesej, dan aplikasi lain.
 lang: ms
-translated_from_hash: "7e35c215"
+translated_from_hash: "44c5e3af"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Telefon
 
-Setiap pemain di Bandaraya membawa **Telefon dalam permainan** — ikon pada topbar yang membuka peranti berbilang aplikasi. Berbeza dengan **Tablet** (yang merupakan alat khusus pasukan); Telefon adalah universal.
+Setiap pemain di Bandaraya membawa **Telefon dalam permainan** - ikon pada topbar yang membuka peranti berbilang aplikasi. Berbeza dengan **Tablet** (yang merupakan alat khusus pasukan); Telefon adalah universal.
 
 ## Ringkasan
 
@@ -24,46 +24,46 @@ Setiap pemain di Bandaraya membawa **Telefon dalam permainan** — ikon pada top
 
 Telefon berada pada topbar anda. Ketuk ikon tersebut. Pada mudah alih, ikon topbar berada di bahagian atas skrin; pada desktop, di tempat yang sama. Overlay telefon akan muncul masuk.
 
-## Aplikasi — universal (semua permainan MYSverse)
+## Aplikasi - universal (semua permainan MYSverse)
 
 | Aplikasi | Fungsinya |
 | --- | --- |
 | **MYSair** | Tempahan penerbangan / perjalanan antara pengalaman. |
-| **Elections** | Pilihan raya MYSverse — mengundi, melihat kempen. |
+| **Elections** | Pilihan raya MYSverse - mengundi, melihat kempen. |
 | **Blog** | Membaca siaran blog komuniti. |
-| **NWS** | National Wire Services — suapan berita rasmi dalam permainan. |
+| **NWS** | National Wire Services - suapan berita rasmi dalam permainan. |
 | **Parlimen** | Melihat prosiding Parlimen. |
 | **Message** | Sembang rakan ke rakan ("wasap"). |
 | **Camera** | Mengambil foto dalam permainan. |
-| **Settings** | Tetapan telefon — imej latar belakang, dan lain-lain. |
-| **Rafahia** | Aplikasi jenama pakaian — melayari katalog. |
+| **Settings** | Tetapan telefon - imej latar belakang, dan lain-lain. |
+| **Rafahia** | Aplikasi jenama pakaian - melayari katalog. |
 
-## Aplikasi — khusus Bandaraya
+## Aplikasi - khusus Bandaraya
 
 Aplikasi ini ditambah apabila anda berada di Bandaraya. Ia tidak muncul di Lebuhraya atau pengalaman lain.
 
-### MyPay — hantar BR kepada pemain lain
+### MyPay - hantar BR kepada pemain lain
 
 Pemindahan BR rakan ke rakan. Seperti pemindahan segera dalam dunia MYSverse.
 
 1. Buka **MyPay**.
 2. **Cari** pemain mengikut nama.
 3. Pilih mereka daripada senarai.
-4. Masukkan jumlah (BR pecahan disokong — dibundarkan kepada 2 perpuluhan), atau ketuk prasetel **jumlah pantas**.
+4. Masukkan jumlah (BR pecahan disokong - dibundarkan kepada 2 perpuluhan), atau ketuk prasetel **jumlah pantas**.
 5. Ketuk **Send**.
 
 Penerima akan mendapat pemberitahuan pada telefon mereka sendiri dengan butang **Accept / Deny**. Jika mereka menerima, BR akan berpindah. Jika ditolak atau diabaikan, tiada apa yang berlaku.
 
 **Baki** ditunjukkan pada skrin hantar supaya anda tahu berapa yang boleh dibelanjakan. Pemindahan memerlukan:
 - Kedua-dua pemain berada **dalam server yang sama** (anda tidak boleh hantar merentasi server)
-- Kedua-dua pemain tidak berada dalam **senarai sekatan penipuan** (jarang berlaku — hanya jika admin telah menandakan akaun)
-- Anda benar-benar memiliki BR tersebut — debit disemak sebelum kredit
+- Kedua-dua pemain tidak berada dalam **senarai sekatan penipuan** (jarang berlaku - hanya jika admin telah menandakan akaun)
+- Anda benar-benar memiliki BR tersebut - debit disemak sebelum kredit
 
-Jika MyPay dilumpuhkan buat sementara waktu oleh server, anda akan melihat skrin "dilumpuhkan" sebaliknya — aplikasi akan kelabu dan tiada pemindahan akan berlaku.
+Jika MyPay dilumpuhkan buat sementara waktu oleh server, anda akan melihat skrin "dilumpuhkan" sebaliknya - aplikasi akan kelabu dan tiada pemindahan akan berlaku.
 
 Setiap pemindahan yang selesai direkodkan ke Discord permainan (untuk keterlihatan moderasi).
 
-### e-hailing — tempah teksi
+### e-hailing - tempah teksi
 
 Tempah perjalanan tanpa perlu berjalan ke meja syarikat teksi fizikal.
 
@@ -72,13 +72,13 @@ Tempah perjalanan tanpa perlu berjalan ke meja syarikat teksi fizikal.
 3. Pilih pemandu daripada senarai yang tersedia.
 4. Tunggu mereka menerima, kemudian diambil.
 
-Tambang dikira berdasarkan jarak × kadar syarikat (lihat [Pekerjaan — Pemandu Teksi](/bandaraya/jobs#how-the-fare-is-calculated)).
+Tambang dikira berdasarkan jarak × kadar syarikat (lihat [Pekerjaan - Pemandu Teksi](/bandaraya/jobs#how-the-fare-is-calculated)).
 
 ### CAG eWallet
 
-Paparan baca sahaja bagi kad transit Click And Go anda. Baki, perjalanan, pas bulanan, reka bentuk, statistik seumur hidup. **Butang pembelian akan membawa terus ke kiosk fizikal terdekat** — anda tidak boleh membeli terus dari telefon. Lihat [Pergerakan](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+Paparan baca sahaja bagi kad transit Click And Go anda. Baki, perjalanan, pas bulanan, reka bentuk, statistik seumur hidup. **Butang pembelian akan membawa terus ke kiosk fizikal terdekat** - anda tidak boleh membeli terus dari telefon. Lihat [Pergerakan](/bandaraya/getting-around#the-cag-ewallet-phone-app).
 
-### 999 — laporan kecemasan
+### 999 - laporan kecemasan
 
 Laporkan jenayah, kebakaran, kecemasan perubatan, atau kemalangan.
 
@@ -86,13 +86,13 @@ Laporkan jenayah, kebakaran, kecemasan perubatan, atau kemalangan.
 2. Isi **jenis** (apa yang sedang berlaku) dan **keterangan** (butiran).
 3. Hantar.
 
-Amaran akan memberitahu pasukan kecemasan yang berkaitan (POLIS untuk jenayah, BOMBA untuk kebakaran, KKM untuk perubatan). Jangan salah guna ini — panggilan palsu membazir masa responden.
+Amaran akan memberitahu pasukan kecemasan yang berkaitan (POLIS untuk jenayah, BOMBA untuk kebakaran, KKM untuk perubatan). Jangan salah guna ini - panggilan palsu membazir masa responden.
 
 Juga tersedia di Lebuhraya.
 
-### MyCar — kawal kenderaan yang anda spawn
+### MyCar - kawal kenderaan yang anda spawn
 
-Kawal kenderaan anda dari jauh tanpa duduk di dalamnya — lampu, hon, isyarat kecemasan, kunci pintu.
+Kawal kenderaan anda dari jauh tanpa duduk di dalamnya - lampu, hon, isyarat kecemasan, kunci pintu.
 
 ### MyTow
 
@@ -104,16 +104,16 @@ Aplikasi dengan sekatan "tempat" hanya muncul di tempat tersebut. Sebagai contoh
 
 ## Petua & perkara perlu diketahui
 
-- **Input teks mudah alih** telah dibetulkan dalam v3.15.3 — jika anda mendapati mana-mana medan teks telefon tidak bertindak balas pada mudah alih, laporkan sebagai regresi.
+- **Input teks mudah alih** telah dibetulkan dalam v3.15.3 - jika anda mendapati mana-mana medan teks telefon tidak bertindak balas pada mudah alih, laporkan sebagai regresi.
 - **Telefon ≠ Tablet.** Tablet ialah alat yang anda lengkapkan daripada backpack anda (terhad pasukan). Telefon ialah permukaan aplikasi topbar universal.
-- **MyPay memerlukan penerima menerima** — jangan cuba memaksa bayaran kepada seseorang. Mereka mesti dalam talian.
+- **MyPay memerlukan penerima menerima** - jangan cuba memaksa bayaran kepada seseorang. Mereka mesti dalam talian.
 - **999 pergi kepada pemain sebenar** (pegawai bertugas), bukan NPC. Bersabarlah.
-- **CAG eWallet pada telefon adalah baca sahaja** — untuk membeli / tambah nilai / tukar pas anda mesti melawat kiosk. Telefon hanya menunjukkan maklumat anda.
+- **CAG eWallet pada telefon adalah baca sahaja** - untuk membeli / tambah nilai / tukar pas anda mesti melawat kiosk. Telefon hanya menunjukkan maklumat anda.
 
 ## Lihat juga
 
-- [Tablet](/bandaraya/tablet) — alat terhad pasukan dengan aplikasi berbeza (MDT, MyEmergency, dan lain-lain)
-- [Pergerakan](/bandaraya/getting-around) — CAG eWallet (pada telefon)
-- [Pekerjaan](/bandaraya/jobs) — e-hailing menempah tempahan untuk peranan Pemandu Teksi
-- [Ekonomi](/bandaraya/economy) — mata wang BR (pemindahan MyPay)
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — panggilan 999 pergi kepada POLIS/BOMBA/KKM bertugas
+- [Tablet](/bandaraya/tablet) - alat terhad pasukan dengan aplikasi berbeza (MDT, MyEmergency, dan lain-lain)
+- [Pergerakan](/bandaraya/getting-around) - CAG eWallet (pada telefon)
+- [Pekerjaan](/bandaraya/jobs) - e-hailing menempah tempahan untuk peranan Pemandu Teksi
+- [Ekonomi](/bandaraya/economy) - mata wang BR (pemindahan MyPay)
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - panggilan 999 pergi kepada POLIS/BOMBA/KKM bertugas

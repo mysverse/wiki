@@ -1,8 +1,8 @@
 ---
 title: Pasukan
-description: 'Lima pasukan Sumaya — Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.'
+description: 'Lima pasukan Sumaya - Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.'
 lang: ms
-translated_from_hash: "77a2b90e"
+translated_from_hash: "90624e43"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -41,7 +41,7 @@ Sertai POLIS untuk berkhidmat sebagai penguatkuasa undang-undang dan mengekalkan
 - **Warna:** Biru
 - **Keperluan:** Tiada
 - **Sektor Kerja:** Polis
-- **Kemajuan Kerjaya:** Ya — naik pangkat untuk membuka peralatan dan tanggungjawab baru
+- **Kemajuan Kerjaya:** Ya - naik pangkat untuk membuka peralatan dan tanggungjawab baru
 
 **Alat yang disediakan:**
 
@@ -72,7 +72,7 @@ Sertai BOMBA untuk bertindak balas terhadap insiden kebakaran dan melindungi ban
 - **Keperluan:** Tiada
 - **Sektor Kerja:** Bomba
 - **Kemajuan Kerjaya:** Ya
-- **GUI Khas:** Ya — ahli BOMBA menerima antara muka khas untuk menjejak dan bertindak balas terhadap insiden kebakaran
+- **GUI Khas:** Ya - ahli BOMBA menerima antara muka khas untuk menjejak dan bertindak balas terhadap insiden kebakaran
 
 **Alat yang disediakan:**
 

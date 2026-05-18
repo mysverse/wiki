@@ -1,14 +1,14 @@
 ---
 title: 操作
-description: Lebuhraya 的全部操作方式 — 键盘、手柄、移动端和 VR 输入。
+description: Lebuhraya 的全部操作方式 - 键盘、手柄、移动端和 VR 输入。
 lang: zh
-translated_from_hash: "9831158a"
+translated_from_hash: "d8b4a850"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 操作
 
-Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自动检测你的平台，并在游戏中显示相应的提示 — 如果屏幕上显示某个操作，就用那个。下方的参考是常见的按键绑定。
+Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自动检测你的平台，并在游戏中显示相应的提示 - 如果屏幕上显示某个操作，就用那个。下方的参考是常见的按键绑定。
 
 ## 进入与离开车辆
 
@@ -78,17 +78,17 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
 
 打开主菜单可访问：
 
-- **Home** — 公告与概览
-- **Teams** — 选择或切换队伍
-- **Shop** — 游戏内购买（gamepass 提示、代币）
-- **Activity** — 任务、挑战和 season pass 进度
-- **More** — 卡片网格，包含：
-  - **Career** — 你的职业等级与机构进度
-  - **Jobs** — 每个分支的 tier 条与奖励
-  - **Tokens** — 你的已激活与已存储的代币 / 加成
-  - **Credits** — 开发团队与贡献者
-  - **Races** — time trial 和 PvP race 菜单
-  - **Help** — 可用时显示教程
+- **Home** - 公告与概览
+- **Teams** - 选择或切换队伍
+- **Shop** - 游戏内购买（gamepass 提示、代币）
+- **Activity** - 任务、挑战和 season pass 进度
+- **More** - 卡片网格，包含：
+  - **Career** - 你的职业等级与机构进度
+  - **Jobs** - 每个分支的 tier 条与奖励
+  - **Tokens** - 你的已激活与已存储的代币 / 加成
+  - **Credits** - 开发团队与贡献者
+  - **Races** - time trial 和 PvP race 菜单
+  - **Help** - 可用时显示教程
 
 Career、tokens、credits 和 help 页面现在都归在 **More** 下。
 
@@ -96,23 +96,23 @@ Career、tokens、credits 和 help 页面现在都归在 **More** 下。
 
 打开 Settings 面板（主菜单中的齿轮）可使用这些开关：
 
-- **Crash System** — 开启后碰撞会真正损坏你的车；作为回报，启用期间你获得 **+15% XP**。仅当 server 上有 Kesihatan 队伍玩家时可用（见 FAQ）。
-- **Overhead rank** — 显示或隐藏浮在角色上方的队伍 rank/title。
-- **First person view** — 切换镜头模式。游戏中正斜杠 (`/`) 会切换视角。
-- **Vehicle Spawner: NEW** — 选择新版车辆 spawner UI。
-- **Parking Brake** key — 重新绑定手刹按键。
-- **Shift + C** — 切换整个 HUD（适合截图）。
-- Reset / Change / Remove — 重新定位与自定义快捷操作。
+- **Crash System** - 开启后碰撞会真正损坏你的车；作为回报，启用期间你获得 **+15% XP**。仅当 server 上有 Kesihatan 队伍玩家时可用（见 FAQ）。
+- **Overhead rank** - 显示或隐藏浮在角色上方的队伍 rank/title。
+- **First person view** - 切换镜头模式。游戏中正斜杠 (`/`) 会切换视角。
+- **Vehicle Spawner: NEW** - 选择新版车辆 spawner UI。
+- **Parking Brake** key - 重新绑定手刹按键。
+- **Shift + C** - 切换整个 HUD（适合截图）。
+- Reset / Change / Remove - 重新定位与自定义快捷操作。
 
 ### 顶部 HUD 指示器
 
-- **ActiveTokensHUD** — 显示所有当前激活的 token（2× XP Boost、Season Pass Boost、Team Access Pass），剩余时间以 `M:SS` 格式显示。过期后 token 会自动隐藏。
-- **StatusGui** — 速度表、燃油、GPS 方向和玩家 vitals。
-- **Leaderboard** — 点击查看所有在线玩家、他们的队伍、level 和已驾驶 studs。你可以点击某一行，从同一面板发送好友请求或 block。
+- **ActiveTokensHUD** - 显示所有当前激活的 token（2× XP Boost、Season Pass Boost、Team Access Pass），剩余时间以 `M:SS` 格式显示。过期后 token 会自动隐藏。
+- **StatusGui** - 速度表、燃油、GPS 方向和玩家 vitals。
+- **Leaderboard** - 点击查看所有在线玩家、他们的队伍、level 和已驾驶 studs。你可以点击某一行，从同一面板发送好友请求或 block。
 
 ## 工具（工作装备）
 
-当你手持工具 — 斧头、雷达枪、电击枪、寻呼机、消防水带 — 时，操作由该工具决定。请使用屏幕上的提示，或查看相关团队的工作页面。
+当你手持工具 - 斧头、雷达枪、电击枪、寻呼机、消防水带 - 时，操作由该工具决定。请使用屏幕上的提示，或查看相关团队的工作页面。
 
 ## 移动端提示
 
@@ -130,11 +130,11 @@ Career、tokens、credits 和 help 页面现在都归在 **More** 下。
 
 ## 无障碍
 
-- 适用 Roblox 的系统级设置 — 色盲滤镜、UI 缩放、文本转语音。
+- 适用 Roblox 的系统级设置 - 色盲滤镜、UI 缩放、文本转语音。
 - 可以切换被动模式以阻止工具与武器交互。如果你不想被卷入战斗或紧急角色扮演，这很有用。
 
 ## 下一步
 
-- [Economy and XP](/lebuhraya/economy) — 驾驶如何转化为等级
-- [Vehicles](/lebuhraya/vehicles) — 召唤菜单、所有权、燃油
-- [Jobs](/lebuhraya/jobs) — 哪些工具属于哪些团队
+- [Economy and XP](/lebuhraya/economy) - 驾驶如何转化为等级
+- [Vehicles](/lebuhraya/vehicles) - 召唤菜单、所有权、燃油
+- [Jobs](/lebuhraya/jobs) - 哪些工具属于哪些团队

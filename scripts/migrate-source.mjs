@@ -17,7 +17,7 @@
 //   6. Write to docs/{game}/{slug}.md.
 //
 // Multiple source files that map to the same output (e.g., welcome.md + getting-started.md
-// both map to /bandaraya/get-started) are concatenated in order — later files win the
+// both map to /bandaraya/get-started) are concatenated in order - later files win the
 // title, earlier files contribute their bodies prepended.
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';

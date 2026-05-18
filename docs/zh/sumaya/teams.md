@@ -1,8 +1,8 @@
 ---
 title: 队伍
-description: Sumaya 的五支队伍 — Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。
+description: Sumaya 的五支队伍 - Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。
 lang: zh
-translated_from_hash: "77a2b90e"
+translated_from_hash: "90624e43"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -41,7 +41,7 @@ Sumaya 有五个队伍，每个队伍都有独特的角色、工具和职责。�
 - **颜色：** 蓝色
 - **要求：** 无
 - **工作部门：** Polis
-- **职业发展：** 是 — 晋升以解锁新装备和职责
+- **职业发展：** 是 - 晋升以解锁新装备和职责
 
 **提供的工具：**
 
@@ -72,7 +72,7 @@ POLIS 成员还可以使用**测速陷阱 GUI**，显示捕获的车辆速度，
 - **要求：** 无
 - **工作部门：** Bomba
 - **职业发展：** 是
-- **专用 GUI：** 是 — BOMBA 成员获得专用界面用于跟踪和响应火灾事件
+- **专用 GUI：** 是 - BOMBA 成员获得专用界面用于跟踪和响应火灾事件
 
 **提供的工具：**
 

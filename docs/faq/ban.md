@@ -3,41 +3,41 @@ title: "Overcoming Bans - FAQ"
 description: "Complete guide to understanding and resolving bans in MYSverse games including group restrictions, account issues, and troubleshooting steps."
 ---
 
-# Overcoming Bans
+# Overcoming bans
 
-## Understanding Ban Messages
+## Understanding ban messages
 
-### "Leave XYZ to Join the Experience"
+### "Leave XYZ to join the experience"
 
 ![Ban 1](/images/faq/ban/group_ban_example.png)
 
 This message indicates that you are banned from entering MYSverse due to your membership in a specific Roblox group. "XYZ" represents the name of the group causing the ban.
 
-## Key Terms
+## Key terms
 
 - **Ban**: A restriction preventing access to MYSverse.
 - **Roblox Group**: A community within Roblox with a name, badge, and members.
 - **Blacklist**: A list of groups banned by MYSverse.
 
-## Types of Bans
+## Types of bans
 
-### Group Ban
+### Group ban
 
 Occurs when you are a member of a blacklisted Roblox group. This is the most common type of ban.
 
-### Individual Ban
+### Individual ban
 
 Your account is specifically banned, usually for rule violations. These bans have a set duration.
 
-## Common Questions
+## Common questions
 
-### Why Am I Banned Even Though I Did Nothing?
+### Why am I banned even though I did nothing?
 
 Most bans are group bans, meaning you are part of a blacklisted Roblox group. Individual bans are less common.
 
-## Resolving a Group Ban
+## Resolving a group ban
 
-### Steps to Leave a Blacklisted Group
+### Steps to leave a blacklisted group
 
 1. Open your Roblox profile.
 2. Navigate to the "Communities" tab.
@@ -45,7 +45,7 @@ Most bans are group bans, meaning you are part of a blacklisted Roblox group. In
 4. Click "Leave Community" to exit the group.
 5. Wait a few minutes and try rejoining MYSverse.
 
-### Checking Blacklisted Groups
+### Checking blacklisted groups
 
 ![MECS Sentral](/images/faq/ban/mecs_sentral.png)
 
@@ -55,7 +55,7 @@ Use the **Sentral** platform to view blacklisted groups:
 
 Sentral provides game statistics, analytics tools, and information about blacklisted groups.
 
-### Solutions That Won't Work
+### Solutions that won't work
 
 Avoid these methods as they won't resolve the issue:
 
@@ -65,11 +65,11 @@ Avoid these methods as they won't resolve the issue:
 - **Logging out and back in**: The ban is tied to group membership, not your session.
 - **Asking friends to "unban" you**: You must leave the problematic group.
 
-## Individual Bans
+## Individual bans
 
 ![Individual Ban](/images/faq/ban/individual_ban.png)
 
-### Time Zone Information
+### Time zone information
 
 Ban durations are displayed in **UTC**.
 
@@ -80,37 +80,37 @@ Example:
 - Ban lift time: 14:00 UTC
 - Malaysia local time: 22:00 (10:00 PM)
 
-## Troubleshooting Steps
+## Troubleshooting steps
 
-### Step 1: Identify the Type of Ban
+### Step 1: identify the type of ban
 
 If the message mentions a group name, it's a group ban. Otherwise, it may be an individual ban.
 
-### Step 2: Check the Sentral Platform
+### Step 2: check the sentral platform
 
 Visit the Sentral dashboard to confirm which group is causing the issue.
 
-### Step 3: Leave the Problematic Group
+### Step 3: leave the problematic group
 
 Go to the group's page on Roblox and click "Leave Group." Ensure you have successfully left the group.
 
-### Step 4: Try to Rejoin
+### Step 4: try to rejoin
 
 Wait a few minutes after leaving the group, then attempt to join MYSverse again.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### Can I Rejoin the Group After Playing?
+### Can I rejoin the group after playing?
 
 Not recommended. You will be banned again if the group remains blacklisted.
 
-### What If I Still Can't Join After Leaving the Group?
+### What if I still can't join after leaving the group?
 
 If issues persist, it may be an individual ban. Contact the support team via Discord or the official platform.
 
 After leaving the group, please wait a few minutes for Trello to update your status. This delay occurs because the system requires up to 60 seconds for HTTP processing. Once updated, you should be able to rejoin MYSverse.
 
-### Why Are Certain Groups Blacklisted?
+### Why are certain groups blacklisted?
 
 Groups are blacklisted for reasons such as:
 
@@ -120,6 +120,6 @@ Groups are blacklisted for reasons such as:
 - Violating Roblox terms of service.
 - Promoting inappropriate content.
 
-### Where Can I Get Further Help?
+### Where can I get further help?
 
 For assistance, contact moderators via [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) or refer to the full documentation on the official MYSverse website.

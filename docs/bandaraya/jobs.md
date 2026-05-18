@@ -1,13 +1,13 @@
 ---
 title: "Jobs"
-description: "Every job in Bandaraya — postal service, taxi driving, towing, bus driving, and agency jobs — with pay rates and ranks."
+description: "Every job in Bandaraya - postal service, taxi driving, towing, bus driving, and agency jobs - with pay rates and ranks."
 ---
 
 # Jobs
 
 Jobs are the easiest way to earn BR through normal gameplay. Public-service teams are covered separately in [Emergency Services](/bandaraya/emergency-services).
 
-## Quick Reference
+## Quick reference
 
 | Job | Access | Pace | Good for |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Jobs are the easiest way to earn BR through normal gameplay. Public-service team
 | **Towing** | Towing Services team | Per tow/clamp | Recovery and parking roleplay |
 | **Bus driving** | Bus operator teams | Route-based | Scheduled transport roleplay |
 
-## Postal Service (POS)
+## Postal service (POS)
 
 POS is the simplest starter job.
 
@@ -39,7 +39,7 @@ Emergency, military, and most organisation teams cannot clock in for POS.
 4. Deliver them to mailboxes around the city.
 5. Earn BR and XP for each delivery.
 
-### Level and Pay
+### Level and pay
 
 | Level | Pay per delivery |
 | --- | --- |
@@ -59,7 +59,7 @@ Level 20 is the current cap.
 - Use vans for a proper delivery run and motorcycles for traffic-heavy routes.
 - Stay in role; job teams should not be used for crime.
 
-## Taxi Driver
+## Taxi driver
 
 Taxi drivers accept bookings and carry passengers to their chosen destinations.
 
@@ -78,7 +78,7 @@ Taxi drivers accept bookings and carry passengers to their chosen destinations.
 6. Drive to the destination.
 7. End the trip to receive payment.
 
-### Fare Rates
+### Fare rates
 
 Taxi payment is based on trip distance and company rate.
 
@@ -92,7 +92,7 @@ Taxi payment is based on trip distance and company rate.
 
 Very short trips do not pay.
 
-### Taxi Vehicles
+### Taxi vehicles
 
 | Vehicle | Price |
 | --- | --- |
@@ -138,7 +138,7 @@ POLIS can also clamp vehicles as part of traffic enforcement.
 - Use cones and signs to make the scene clear.
 - Coordinate with police during larger incidents.
 
-## Bus Driving
+## Bus driving
 
 Bus drivers operate route and passenger transport roleplay.
 
@@ -155,7 +155,7 @@ Join MyTransit, FirstGroup, Fermuda, Bus Services, or another approved operator 
 
 Drivers are not charged bus fare while driving.
 
-## Job Comparison
+## Job comparison
 
 | Job | Entry barrier | Roleplay depth |
 | --- | --- | --- |
@@ -166,7 +166,7 @@ Drivers are not charged bus fare while driving.
 
 HCC improves job income.
 
-## See Also
+## See also
 
 - [Economy](/bandaraya/economy)
 - [Gamepasses](/bandaraya/gamepasses)

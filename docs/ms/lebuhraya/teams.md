@@ -2,13 +2,13 @@
 title: Pasukan & Kerjaya
 description: Kesemua 18 pasukan di Lebuhraya dan sistem pangkat 20 peringkat.
 lang: ms
-translated_from_hash: "9fff3580"
+translated_from_hash: "fbc4f2d1"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Pasukan & Kerjaya
 
-Terdapat **18 pasukan** di Lebuhraya. Setiap satu mewakili peranan berbeza dalam masyarakat lebuh raya Malaysia permainan ini — daripada rider penghantaran hingga anggota bomba. Menyertai pasukan membuka aktiviti kerja, uniform khusus pasukan, dan kadang-kadang kenderaan khusus.
+Terdapat **18 pasukan** di Lebuhraya. Setiap satu mewakili peranan berbeza dalam masyarakat lebuh raya Malaysia permainan ini - daripada rider penghantaran hingga anggota bomba. Menyertai pasukan membuka aktiviti kerja, uniform khusus pasukan, dan kadang-kadang kenderaan khusus.
 
 **Career tier** anda berada di atas sistem pasukan. Anda boleh naik pangkat daripada **Trainee** hingga ke puncak rantaian (seperti Senior Assistant Commissioner atau Fire Commissioner) dengan memperoleh XP khusus cabang ketika bekerja.
 
@@ -35,7 +35,7 @@ Jika anda berada pada pasukan kerja dan cuba membuka spawner kenderaan awam, per
 | Pasukan | Penerangan |
 |---|---|
 | **Visitors** | Pasukan lalai apabila anda menyertai. Bagus untuk roleplay sebagai pengguna komuter atau pelancong. |
-| **Bus Driver** | Pandu minivan dan bas pada laluan berjadual. Percuma dan terbuka kepada semua — titik permulaan yang baik. |
+| **Bus Driver** | Pandu minivan dan bas pada laluan berjadual. Percuma dan terbuka kepada semua - titik permulaan yang baik. |
 
 ### Dibuka melalui keahlian komuniti MYSverse
 
@@ -52,11 +52,11 @@ Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya berbayar
 | **Food Delivery** | 10 | Gunakan motosikal anda untuk menghantar pesanan makanan dari kedai kepada pelanggan. |
 | **Waste Disposal** | 25 | Kutip sampah dari tong dan hantar ke stesen insinerasi. |
 | **Post Office** | 50 | Hantar surat dan parcel untuk Pos Nasional. |
-| **Logistics** | 75 | Freight trucking — angkut kargo dengan Rolvo FM atau Sanica P-series. |
+| **Logistics** | 75 | Freight trucking - angkut kargo dengan Rolvo FM atau Sanica P-series. |
 | **Power Nasional** | 100 | Kerja kontraktor utiliti elektrik nasional. |
 | **Lumberjack** | 150 | Tebang pokok dengan kapak dan angkut balak. |
-| **Kesihatan** | 200 | Kementerian Kesihatan Negara — pandu ambulans, rawat pesakit, balas panggilan perubatan 999. |
-| **APJ** | 300 | Agensi Pengangkutan Jalan — kuatkuasa peraturan pemanduan dan kenderaan. |
+| **Kesihatan** | 200 | Kementerian Kesihatan Negara - pandu ambulans, rawat pesakit, balas panggilan perubatan 999. |
+| **APJ** | 300 | Agensi Pengangkutan Jalan - kuatkuasa peraturan pemanduan dan kenderaan. |
 
 > Pasukan Waste Disposal, Logistics, dan Lumberjack boleh dibuka lebih awal dengan membeli **Season 1 Season Pass**. Sesetengah teks dalam permainan mungkin masih merujuk nilai level lama; nombor di atas ialah syarat semasa dalam permainan.
 
@@ -81,7 +81,7 @@ Lihat [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) untuk cara mendapat
 
 ## Career tiers dan pangkat
 
-Setiap pasukan (selain Visitors dan pasukan sistem) mempunyai **hingga 20 career tiers**. Anda memperoleh XP khusus cabang dengan melakukan kerja pasukan itu — memandu misi teksi, membalas panggilan 999 sebagai Bomba, menghantar kargo sebagai Logistics. Setelah cukup XP, anda naik pangkat.
+Setiap pasukan (selain Visitors dan pasukan sistem) mempunyai **hingga 20 career tiers**. Anda memperoleh XP khusus cabang dengan melakukan kerja pasukan itu - memandu misi teksi, membalas panggilan 999 sebagai Bomba, menghantar kargo sebagai Logistics. Setelah cukup XP, anda naik pangkat.
 
 Buka **Main Menu -> More -> Career** untuk melihat status kerjaya keseluruhan anda. Buka **Main Menu -> More -> Jobs** untuk menyemak kemajuan dan ganjaran tier cabang.
 
@@ -91,7 +91,7 @@ Lengkung tier ialah:
 
 - **Tier 1** memerlukan 500 XP
 - Setiap tier seterusnya memerlukan **15% lebih XP** daripada sebelumnya
-- **Tier 20** sendiri berharga kira-kira **7,100 XP** — dan **sekitar 51,000 XP kumulatif** untuk dicapai dari kosong
+- **Tier 20** sendiri berharga kira-kira **7,100 XP** - dan **sekitar 51,000 XP kumulatif** untuk dicapai dari kosong
 
 Anda boleh melihat tier semasa dan kemajuan XP anda di **Main Menu -> More -> Career**.
 
@@ -132,7 +132,7 @@ Pasukan dikumpulkan dalam enam agensi. Ini penting kerana beberapa ganjaran tier
 Mencapai milestone tier boleh membuka:
 
 - **Gelaran pangkat baharu** yang ditunjukkan pada watak anda dan dalam leaderboard
-- **Kenderaan kerjaya** — contohnya, pangkat Bomba lebih tinggi membuka trak bomba lebih besar; pangkat Taxi Driver lebih tinggi membuka model teksi lebih baik
+- **Kenderaan kerjaya** - contohnya, pangkat Bomba lebih tinggi membuka trak bomba lebih besar; pangkat Taxi Driver lebih tinggi membuka model teksi lebih baik
 - Kadang-kadang **item kosmetik** (uniform, aksesori)
 
 Kenderaan kerjaya tidak akan muncul dalam spawner kenderaan pasukan yang sepadan sehingga tier anda cukup tinggi.
@@ -149,7 +149,7 @@ Jika kenderaan wujud dalam wiki tetapi tidak muncul dalam spawner anda, periksa:
 
 ## Uniform dan pakaian
 
-Setiap pasukan mempunyai **uniform kit** sendiri — topi, vest, aksesori khusus peranan. Anda boleh memakai uniform pasukan melalui menu career customisation setelah berada pada pasukan. Contoh kit:
+Setiap pasukan mempunyai **uniform kit** sendiri - topi, vest, aksesori khusus peranan. Anda boleh memakai uniform pasukan melalui menu career customisation setelah berada pada pasukan. Contoh kit:
 
 - **KEMRonda**: Beret, PB Patch, Reflective Vest
 - **Polis Trafik**: Cap, Bike Jacket, Duty Belt, Reflective Coat
@@ -158,5 +158,5 @@ Setiap pasukan mempunyai **uniform kit** sendiri — topi, vest, aksesori khusus
 
 ## Langkah seterusnya
 
-- [Pekerjaan](/ms/lebuhraya/jobs) — Apa yang setiap pasukan sebenarnya lakukan pada syif biasa
-- [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) — Gamepass dan Season Pass
+- [Pekerjaan](/ms/lebuhraya/jobs) - Apa yang setiap pasukan sebenarnya lakukan pada syif biasa
+- [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) - Gamepass dan Season Pass

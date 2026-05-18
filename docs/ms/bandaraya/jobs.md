@@ -1,16 +1,16 @@
 ---
 title: Kerjaya
 description: >-
-  Setiap kerja di Bandaraya — perkhidmatan pos, pemandu teksi, tunda, pemandu
-  bas, dan kerja agensi — dengan kadar gaji dan pangkat.
+  Setiap kerja di Bandaraya - perkhidmatan pos, pemandu teksi, tunda, pemandu
+  bas, dan kerja agensi - dengan kadar gaji dan pangkat.
 lang: ms
-translated_from_hash: "4692dd76"
+translated_from_hash: "1a06c7b3"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Kerjaya
 
-Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan POLIS / BOMBA / KKM tiada di halaman ini — mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
+Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan POLIS / BOMBA / KKM tiada di halaman ini - mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
 
 ## Ringkasan
 
@@ -25,11 +25,11 @@ Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses o
 
 ## Postal Service (POS)
 
-Kerja pertama yang paling popular. Tiada gamepass diperlukan — tetapi anda perlu berada dalam **pasukan separa-awam**: **Visitors**, **Malaysians**, **High Class Citizen**, atau **Developers**. POLIS / BOMBA / KKM / dan lain-lain tidak boleh mula bekerja sebagai POS (permainan akan menghalang anda pada langkah mula-kerja).
+Kerja pertama yang paling popular. Tiada gamepass diperlukan - tetapi anda perlu berada dalam **pasukan separa-awam**: **Visitors**, **Malaysians**, **High Class Citizen**, atau **Developers**. POLIS / BOMBA / KKM / dan lain-lain tidak boleh mula bekerja sebagai POS (permainan akan menghalang anda pada langkah mula-kerja).
 
 ### Aliran kerja
 
-1. **Mula kerja** di terminal POS (cari papan tanda POS — lihat [Peta](/bandaraya/locations)).
+1. **Mula kerja** di terminal POS (cari papan tanda POS - lihat [Peta](/bandaraya/locations)).
 2. **Kutip bungkusan** dari **Postbox** berdekatan. Anda akan membawanya.
 3. **Proses** bungkusan yang dikutip di **Station**.
 4. **Hantar** bungkusan ke **Mailboxes** di sekitar bandar.
@@ -66,7 +66,7 @@ POS mempunyai 10 kenderaan khas: **Toyota Hiace Pos Laju** (8 varian), **Toyota 
 
 ### Petua
 
-- Sentiasa bergerak — lokasi penghantaran tersebar luas.
+- Sentiasa bergerak - lokasi penghantaran tersebar luas.
 - Motosikal bergerak lebih laju dalam kesesakan; van boleh membawa lebih banyak sekali gus.
 - **Jangan menyeleweng sebagai POS.** Menyalahgunakan pasukan kerja untuk melakukan jenayah adalah kesalahan yang boleh menyebabkan ban.
 
@@ -78,7 +78,7 @@ Layan tempahan penumpang, pandu mereka ke destinasi, dan kutip tambang.
 
 ### Akses
 
-- **Gamepass Taxi Driver** (150 R$) — cara paling murah.
+- **Gamepass Taxi Driver** (150 R$) - cara paling murah.
 - **ATAU** sertai kumpulan **Taxi Services** (berdaftar SSM).
 
 Jika anda membeli gamepass di tengah sesi, sistem **mengesan pembelian secara automatik** (tidak perlu rejoin) dan pasukan Taxi Services muncul dalam menu pasukan anda dalam beberapa saat.
@@ -94,7 +94,7 @@ Pemegang gamepass juga boleh bertukar ke pasukan Taxi Services melalui menu.
 5. Jemput penumpang.
 6. **Mulakan** perjalanan apabila mereka sudah di dalam kereta.
 7. Pandu mereka ke destinasi.
-8. **Tamatkan** perjalanan — anda memperoleh BR (`jarak_dalam_stud × kadar_syarikat`, minimum 30 stud), bilangan pelanggan anda akan meningkat.
+8. **Tamatkan** perjalanan - anda memperoleh BR (`jarak_dalam_stud × kadar_syarikat`, minimum 30 stud), bilangan pelanggan anda akan meningkat.
 
 Daftar keluar apabila syif anda tamat.
 
@@ -127,14 +127,14 @@ Anda boleh sewa/pandu kenderaan ini dari spawner teksi:
 ### Petua
 
 - **Pandu dengan selamat.** Jika penumpang anda mati dalam teksi, roleplay tidak akan elok.
-- **Semak destinasi sebelum anda mulakan.** Sesetengah tempahan ialah spam — anda boleh tolak.
+- **Semak destinasi sebelum anda mulakan.** Sesetengah tempahan ialah spam - anda boleh tolak.
 - **Wang dan bilangan pelanggan anda kekal** merentas sesi. Anda sedang membina kerjaya.
 
 ---
 
 ## Towing
 
-Anda berada di pihak undang-undang — kepit kereta yang diparkir secara haram, dan caj pemiliknya 500 BR untuk buka.
+Anda berada di pihak undang-undang - kepit kereta yang diparkir secara haram, dan caj pemiliknya 500 BR untuk buka.
 
 ### Akses
 
@@ -165,7 +165,7 @@ Sertai kumpulan **Towing Services** (kumpulan pengendali tunda). Pasukan Towing 
 ### Petua
 
 - **Mengepit adalah tindakan besar.** Hanya lakukan jika benar-benar wajar (menghalang jalan masuk, menghalang lintasan pejalan kaki, diparkir buruk pada garisan dilarang meletak). Mengganggu orang awam dengan kepitan sesuka hati adalah kesalahan yang boleh menyebabkan ban.
-- Tindakan direkodkan di Discord melalui webhook — kakitangan boleh lihat siapa yang mengepit siapa.
+- Tindakan direkodkan di Discord melalui webhook - kakitangan boleh lihat siapa yang mengepit siapa.
 - Membuka kepitan dari jauh (melalui tablet tunda) juga merupakan pilihan.
 
 ---
@@ -182,7 +182,7 @@ Sertai salah satu: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermud
 
 1. Spawn bas di depot pengendali anda.
 2. Pandu laluan di sekitar KL.
-3. Penumpang naik dengan duduk di tempat duduk penumpang — tambang mereka diuruskan secara automatik (5 BR dari CAG atau tunai).
+3. Penumpang naik dengan duduk di tempat duduk penumpang - tambang mereka diuruskan secara automatik (5 BR dari CAG atau tunai).
 4. Turunkan mereka di mana sahaja anda sampai seterusnya.
 
 ### Model bas yang tersedia
@@ -195,7 +195,7 @@ Sertai salah satu: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermud
 ### Petua
 
 - **Pemandu tidak dikenakan tambang.** Jika anda di tempat duduk pemandu, tiada tambang dikenakan.
-- **Pengguna menggunakan kad CAG** — mereka mungkin ada atau tidak. Jika tiada, tambang menjadi hutang; itu urusan mereka dengan kiosk, bukan anda.
+- **Pengguna menggunakan kad CAG** - mereka mungkin ada atau tidak. Jika tiada, tambang menjadi hutang; itu urusan mereka dengan kiosk, bukan anda.
 - **Jangan langkau perhentian untuk makan tengah hari.** Integriti roleplay penting.
 
 ---
@@ -204,17 +204,17 @@ Sertai salah satu: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermud
 
 | Kerja | Halangan masuk | BR sejam (anggaran) | Kedalaman roleplay |
 | --- | --- | --- | --- |
-| **POS** | Tiada | Sederhana, stabil | Rendah — gelung penghantaran |
-| **Taxi** | 150 R$ atau kumpulan | Berubah-ubah, tinggi dengan volum | Tinggi — penumpang + lalu lintas |
+| **POS** | Tiada | Sederhana, stabil | Rendah - gelung penghantaran |
+| **Taxi** | 150 R$ atau kumpulan | Berubah-ubah, tinggi dengan volum | Tinggi - penumpang + lalu lintas |
 | **Tow** | Kumpulan | Tinggi setiap tindakan, tetapi jarang | Sederhana |
-| **Bus** | Kumpulan | Bergantung pada laluan | Tinggi — laluan tetap, lalu lintas |
+| **Bus** | Kumpulan | Bergantung pada laluan | Tinggi - laluan tetap, lalu lintas |
 
 Dengan **gamepass HCC** BR setiap tindakan anda akan meningkat dalam kesemua ini.
 
 ## Lihat juga
 
-- [Ekonomi](/bandaraya/economy) — rujukan penuh memperoleh/membelanjakan
-- [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC
-- [Pasukan](/bandaraya/teams) — akses pasukan pengangkutan
-- [Kenderaan](/bandaraya/vehicles) — spawn, bahan api, diler
-- [Tablet](/bandaraya/tablet) — aplikasi MyTow dan Vehicle Management
+- [Ekonomi](/bandaraya/economy) - rujukan penuh memperoleh/membelanjakan
+- [Gamepasses](/bandaraya/gamepasses) - Taxi Driver, HCC
+- [Pasukan](/bandaraya/teams) - akses pasukan pengangkutan
+- [Kenderaan](/bandaraya/vehicles) - spawn, bahan api, diler
+- [Tablet](/bandaraya/tablet) - aplikasi MyTow dan Vehicle Management

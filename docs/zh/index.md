@@ -1,8 +1,8 @@
 ---
-title: MYSverse 维基 — 一次记录一项 MYSverse 体验
+title: MYSverse 维基 - 一次记录一项 MYSverse 体验
 description: 涵盖 Bandaraya、Lebuhraya 等 MYSverse 游戏服务器的完整指南。由马来西亚人打造，为所有人服务。
 lang: zh
-translated_from_hash: b5551d9a
+translated_from_hash: 8fc88668
 translated_on: 2026-05-18T00:00:00.000Z
 needs_review: true
 layout: home

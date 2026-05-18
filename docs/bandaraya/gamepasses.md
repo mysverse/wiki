@@ -1,13 +1,13 @@
 ---
 title: "Gamepasses"
-description: "Every Bandaraya gamepass explained — Taxi Driver, Firearms Licence, HCC, Car Radio, and more."
+description: "Every Bandaraya gamepass explained - Taxi Driver, Firearms Licence, HCC, Car Radio, and more."
 ---
 
 # Gamepasses
 
 Gamepasses are one-time Robux purchases. They unlock a feature, job access, or perk permanently on your Roblox account.
 
-## Quick List
+## Quick list
 
 | Gamepass | Price | What it gives |
 | --- | --- | --- |
@@ -16,25 +16,25 @@ Gamepasses are one-time Robux purchases. They unlock a feature, job access, or p
 | **Firearms Licence** | R$ 1,250 | Buy firearms from Ammulaysia. |
 | **High Class Citizen (HCC)** | R$ 3,000 | HCC team access, increased income, and luxury vehicle access. |
 
-## Which Should I Buy First?
+## Which should I buy first?
 
-### I Just Want Extra Atmosphere
+### I just want extra atmosphere
 
 Buy **Car Radio**. It is the cheapest pass and works well if you spend a lot of time driving.
 
-### I Want to Earn BR
+### I want to earn BR
 
 Buy **Taxi Driver** if you enjoy picking up passengers and driving around the city. It is the lowest-cost job pass.
 
-### I Want Civilian Firearms
+### I want civilian firearms
 
 Buy **Firearms Licence**. It unlocks Ammulaysia, the legal gun dealer. Public-service and military teams may already receive team-issued weapons, so check your role first.
 
-### I Play a Lot
+### I play a lot
 
 Buy **High Class Citizen** if you want long-term income benefits, luxury vehicles, and the HCC team.
 
-## Gamepasses vs. BR Purchases
+## Gamepasses vs. BR purchases
 
 - **Gamepasses** are permanent.
 - **BR purchases** are one-time currency top-ups.
@@ -47,7 +47,7 @@ If you want a permanent role or perk, buy a gamepass. If you only need money for
 - Team access usually appears automatically after purchase.
 - HCC boosts job income, so it is more valuable if you play jobs often.
 
-## See Also
+## See also
 
 - [Economy](/bandaraya/economy)
 - [Teams](/bandaraya/teams#special-teams)

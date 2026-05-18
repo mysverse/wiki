@@ -1,10 +1,10 @@
 ---
 title: Ekonomi
 description: >-
-  Bagaimana ekonomi Bandar Ringgit (BR) berfungsi — memperoleh, perbankan,
+  Bagaimana ekonomi Bandar Ringgit (BR) berfungsi - memperoleh, perbankan,
   memindahkan BR, dan produk pembangun.
 lang: ms
-translated_from_hash: "66e475d0"
+translated_from_hash: "8b616f65"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,7 +14,7 @@ Bandaraya beroperasi dengan **BR (Bandar Ringgit)**. Anda memperolehinya dengan 
 
 ## TL;DR
 
-- Mata wang utama ialah **BR** — dompet "tunai" anda.
+- Mata wang utama ialah **BR** - dompet "tunai" anda.
 - Dompet kedua, **kad CAG**, hanya bernilai simpanan untuk **bas, MRT, dan tol**. Lihat [Pergerakan](/bandaraya/getting-around). Anda tidak boleh mengeluarkan wang tunai dari CAG.
 - Peroleh BR melalui pekerjaan (POS, Teksi, Tunda, Bas), tindak balas polis/kecemasan, atau dengan membeli BR menggunakan Robux.
 - Belanjakan BR di kedai, dealership, pintu TapNGo, pembukaan klem, dan saman.
@@ -25,7 +25,7 @@ Bandaraya beroperasi dengan **BR (Bandar Ringgit)**. Anda memperolehinya dengan 
 
 | Dompet | Untuk | Cara tambah nilai |
 | --- | --- | --- |
-| **Tunai BR** | Kedai, dealership, minyak, tol, saman, klem — semuanya. | Pekerjaan, produk pembangun BR (Robux), pemindahan. |
+| **Tunai BR** | Kedai, dealership, minyak, tol, saman, klem - semuanya. | Pekerjaan, produk pembangun BR (Robux), pemindahan. |
 | **Kad CAG** | Bas (5 BR rata), MRT/Monorel (diskaun), TapNGo (diskaun 20%). | Tambah nilai di kiosk CAG, 20 / 50 / 100 / 200 / 500 BR setiap kali. Maksimum 2000 BR. |
 
 Peraturan sehala: **anda tidak boleh menukar CAG kembali menjadi tunai.** Tambah nilai mengikut keperluan anda.
@@ -45,7 +45,7 @@ Peraturan sehala: **anda tidak boleh menukar CAG kembali menjadi tunai.** Tambah
 
 Gamepass HCC memberikan **rangsangan pendapatan** di atas pendapatan di atas.
 
-Untuk pendapatan bukan pekerjaan — polis, BOMBA, KKM, SJAM, MAF — tujuannya ialah roleplay, bukan meraih BR. Pasukan-pasukan itu tidak membayar gaji secara langsung; mereka mendapat alat operasi dan kenderaan.
+Untuk pendapatan bukan pekerjaan - polis, BOMBA, KKM, SJAM, MAF - tujuannya ialah roleplay, bukan meraih BR. Pasukan-pasukan itu tidak membayar gaji secara langsung; mereka mendapat alat operasi dan kenderaan.
 
 ---
 
@@ -57,17 +57,17 @@ Untuk pendapatan bukan pekerjaan — polis, BOMBA, KKM, SJAM, MAF — tujuannya 
 | --- | --- | --- |
 | **Ammulaysia** | Senjata api | Tempoh sejuk 5 minit antara pembelian. Memerlukan gamepass **Firearms Licence** (1,250 R$). |
 | **Illegal Dealer (Hacker)** | Barang pasaran gelap | Tempoh sejuk 5 minit, dan juga 5 minit selepas anda reset/masuk semula. |
-| **Vastrix** | Pakaian, aksesori | — |
-| **Convenience Store** | Barang umum | — |
-| **Tehlife** | Aiskrim, susu | — |
-| **Lickers** | Minuman | — |
-| **Costume** | Pakaian | — |
-| **Toolkit** | Alat | — |
-| **Art** | Barang seni | — |
-| **Bartender** | Minuman | — |
-| **Kilo's Kebabs** | Makanan | — |
-| **KeluargaMart** | Barang umum | — |
-| **Signs** | Papan tanda | — |
+| **Vastrix** | Pakaian, aksesori | - |
+| **Convenience Store** | Barang umum | - |
+| **Tehlife** | Aiskrim, susu | - |
+| **Lickers** | Minuman | - |
+| **Costume** | Pakaian | - |
+| **Toolkit** | Alat | - |
+| **Art** | Barang seni | - |
+| **Bartender** | Minuman | - |
+| **Kilo's Kebabs** | Makanan | - |
+| **KeluargaMart** | Barang umum | - |
+| **Signs** | Papan tanda | - |
 
 Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 
@@ -75,9 +75,9 @@ Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 
 **Classic Car Dealer** menjual kereta awam: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, dan banyak lagi. Harga berbeza mengikut model. Lihat [Kenderaan](/bandaraya/vehicles#dealership).
 
-- **Beli** — kekal. Disimpan ke akaun anda dan auto-simpan setiap 30 saat.
-- **Sewa** — kegunaan sementara.
-- **Cat** — penyesuaian warna, berkilat atau matte.
+- **Beli** - kekal. Disimpan ke akaun anda dan auto-simpan setiap 30 saat.
+- **Sewa** - kegunaan sementara.
+- **Cat** - penyesuaian warna, berkilat atau matte.
 
 ### Pengangkutan & perkhidmatan
 
@@ -87,7 +87,7 @@ Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 | **Naik bas** | Bersamaan 5 BR tunai (sentiasa dicaj ke CAG jika anda ada satu; percuma dengan pas bulanan). |
 | **Perjalanan pantas MRT / Monorel** | Berbeza mengikut laluan. Kad CAG mendapat diskaun 30%, 50% dengan pas bulanan. |
 | **Pembukaan klem** | **500 BR**. Berlaku selepas operator tunda mengklem kenderaan anda. |
-| **Saman** | Berubah-ubah — pegawai polis mengeluarkan saman di skrin dengan denda BR. |
+| **Saman** | Berubah-ubah - pegawai polis mengeluarkan saman di skrin dengan denda BR. |
 
 Lihat [Pergerakan](/bandaraya/getting-around) untuk harga transit.
 
@@ -129,14 +129,14 @@ Gamepass kekal bersama anda merentasi sesi.
 - **Jangan simpan CAG berlebihan.** Wang terperangkap di situ. Masukkan tunai, naik kenderaan.
 - **Dapat saman? Bayar.** Denda yang tidak dibayar masih tinggal di pemapar saman. Dan tidak, anda tidak boleh membuat semakan kehakiman untuk keluar.
 - **Beli kereta? Ia auto-simpan.** Warna, plat, dan pemilikan kekal merentasi sesi.
-- **HCC ialah pengganda BR yang besar** jika anda melakukan sebarang pekerjaan — berbaloi dengan Robux jika anda pemain jangka panjang.
+- **HCC ialah pengganda BR yang besar** jika anda melakukan sebarang pekerjaan - berbaloi dengan Robux jika anda pemain jangka panjang.
 - **POS naik tahap perlahan tetapi boleh dipercayai.** Tahap 20 ialah had (260 BR setiap penghantaran). Kerja kasar jangka panjang yang baik.
 - **Tempoh sejuk kedai senjata set semula apabila masuk semula.** Anda tidak boleh mengelak pemasa 5 minit dengan keluar.
 
 ## Lihat juga
 
-- [Pekerjaan](/bandaraya/jobs) — memperoleh BR
-- [Gamepass](/bandaraya/gamepasses) — HCC, Firearms Licence, dll.
-- [Kenderaan](/bandaraya/vehicles) — dealership + minyak
-- [Pergerakan](/bandaraya/getting-around) — kad CAG, tambang transit
-- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) — saman
+- [Pekerjaan](/bandaraya/jobs) - memperoleh BR
+- [Gamepass](/bandaraya/gamepasses) - HCC, Firearms Licence, dll.
+- [Kenderaan](/bandaraya/vehicles) - dealership + minyak
+- [Pergerakan](/bandaraya/getting-around) - kad CAG, tambang transit
+- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) - saman

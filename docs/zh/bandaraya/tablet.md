@@ -1,14 +1,14 @@
 ---
 title: 平板电脑
-description: Bandaraya 的队伍专属平板工具 — MDT、MyEmergency、MyTow、KKM Logger 及其他应用。
+description: Bandaraya 的队伍专属平板工具 - MDT、MyEmergency、MyTow、KKM Logger 及其他应用。
 lang: zh
-translated_from_hash: "d28c2b27"
+translated_from_hash: "e68f2619"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 平板电脑
 
-游戏内的**平板电脑**是一台多应用设备,为你的队伍提供额外功能。应用会根据你的队伍颜色来解锁 —— POLIS 警员看到 MDT,拖车员看到 MyTow,如此类推。
+游戏内的**平板电脑**是一台多应用设备,为你的队伍提供额外功能。应用会根据你的队伍颜色来解锁 -  - POLIS 警员看到 MDT,拖车员看到 MyTow,如此类推。
 
 > **平板 ≠ 手机。**[手机](/bandaraya/phone)是通用的 topbar 应用界面(MyPay、e-hailing、CAG、999、MyCar 等)。平板则是你从 backpack 中装备的队伍专属**工具**。
 
@@ -29,13 +29,13 @@ needs_review: true
 4. 点击应用图标进入该应用。
 5. 装备其他工具或按切换图标来关闭。
 
-Topbar 会有一个与平板相关的图标 —— 点击它就能切换开关而无需装备。
+Topbar 会有一个与平板相关的图标 -  - 点击它就能切换开关而无需装备。
 
 ---
 
 ## 应用
 
-### MDT — Mobile Data Terminal(POLIS)
+### MDT - Mobile Data Terminal(POLIS)
 
 警方信息终端。具备 Polis 品牌标识的警方风格真实界面、横向标签和等宽字体数据栏。
 
@@ -60,14 +60,14 @@ Topbar 会有一个与平板相关的图标 —— 点击它就能切换开关�
 
 ### MyEmergency
 
-紧急服务协调应用 —— 供紧急队伍(POLIS、BOMBA、KKM、SJAM)使用。管理事故来电,协调多队伍响应。
+紧急服务协调应用 -  - 供紧急队伍(POLIS、BOMBA、KKM、SJAM)使用。管理事故来电,协调多队伍响应。
 
 ### Vehicle Management
 
-通用车辆应用 —— 任何人只要有平板都可以使用其基本功能。功能包括:
-- **车牌查询** —— 查询车辆的注册信息
-- **注册管理** —— 注册你拥有的车辆
-- **Spawn 追踪** —— 查看你已 spawn 的车辆
+通用车辆应用 -  - 任何人只要有平板都可以使用其基本功能。功能包括:
+- **车牌查询** -  - 查询车辆的注册信息
+- **注册管理** -  - 注册你拥有的车辆
+- **Spawn 追踪** -  - 查看你已 spawn 的车辆
 
 ### MyTow
 
@@ -95,8 +95,8 @@ Topbar 会有一个与平板相关的图标 —— 点击它就能切换开关�
 
 平板通过两个事件频道接收通知:
 
-- **平板通知** —— 全局警报(火灾出动、999 来电、BOLO、管理员公告)。
-- **应用专属通知** —— 在特定应用的情境内(例如:计程车司机的新订单、POLIS 的 MDT 警报)。
+- **平板通知** -  - 全局警报(火灾出动、999 来电、BOLO、管理员公告)。
+- **应用专属通知** -  - 在特定应用的情境内(例如:计程车司机的新订单、POLIS 的 MDT 警报)。
 
 当通知到达时,topbar 上的平板图标会显示视觉指示,相关应用会跳动。
 
@@ -122,15 +122,15 @@ Topbar 会有一个与平板相关的图标 —— 点击它就能切换开关�
 
 ## 贴士与注意事项
 
-- **平板工具在 spawn 之间保持** —— 你死了也不会丢失它。
+- **平板工具在 spawn 之间保持** -  - 你死了也不会丢失它。
 - **Topbar 切换比装备更快**,适合快速查看。
-- **MDT BG Check 实时更新** —— 目标的位置是即时的。
-- **BOLO 在逮捕时自动清除** —— 无需手动清理。
-- **车牌查询对任何人都有效** —— 你无需是 POLIS 也能查询车牌。
+- **MDT BG Check 实时更新** -  - 目标的位置是即时的。
+- **BOLO 在逮捕时自动清除** -  - 无需手动清理。
+- **车牌查询对任何人都有效** -  - 你无需是 POLIS 也能查询车牌。
 
 ## 另请参阅
 
-- [紧急服务](/bandaraya/emergency-services) —— 使用平板的 POLIS / BOMBA / KKM 角色
-- [逮捕与法律](/bandaraya/arrest-and-law) —— BOLO / BG check 如何融入逮捕程序
-- [工作](/bandaraya/jobs) —— 给拖车员的 MyTow
-- [车辆](/bandaraya/vehicles) —— 注册与车牌查询
+- [紧急服务](/bandaraya/emergency-services) -  - 使用平板的 POLIS / BOMBA / KKM 角色
+- [逮捕与法律](/bandaraya/arrest-and-law) -  - BOLO / BG check 如何融入逮捕程序
+- [工作](/bandaraya/jobs) -  - 给拖车员的 MyTow
+- [车辆](/bandaraya/vehicles) -  - 注册与车牌查询

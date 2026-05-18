@@ -4,7 +4,7 @@ description: >-
   Panduan lengkap kedai, vendor NPC, gamepass, dan sistem ekonomi Bandar Ringgit
   (BR).
 lang: ms
-translated_from_hash: "d38c9f3b"
+translated_from_hash: "da86e9d0"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -34,7 +34,7 @@ Kedai yang dikendalikan NPC terletak di seluruh bandar. Pergi ke butang merah ke
 
 ### Kedai Serbaneka
 
-Snek dan minuman pada harga yang berpatutan — sesuai untuk roleplay.
+Snek dan minuman pada harga yang berpatutan - sesuai untuk roleplay.
 
 | Barangan | Harga (BR) |
 |---|---|
@@ -153,8 +153,8 @@ Sesetengah gamepass dikongsi merentas permainan MYSverse. Contohnya, gamepass Ta
 
 ## Tips untuk Pemain Baru
 
-1. **Mulakan dengan Pos Nasional** — ia tidak memerlukan pasukan dan merupakan cara paling mudah untuk memperoleh BR pertama anda.
-2. **Beli Toolkit awal** — pada harga BR 100 sahaja, ia penting untuk memastikan kenderaan anda berfungsi.
-3. **Gunakan peta mini** — lokasi kedai ditandakan, menjadikannya mudah ditemui.
-4. **Simpan di Vastrix** — deposit lebihan BR untuk menyimpannya dengan selamat.
-5. **Semak Kedai di menu utama** — gamepass dan barangan baru ditambah secara berkala.
+1. **Mulakan dengan Pos Nasional** - ia tidak memerlukan pasukan dan merupakan cara paling mudah untuk memperoleh BR pertama anda.
+2. **Beli Toolkit awal** - pada harga BR 100 sahaja, ia penting untuk memastikan kenderaan anda berfungsi.
+3. **Gunakan peta mini** - lokasi kedai ditandakan, menjadikannya mudah ditemui.
+4. **Simpan di Vastrix** - deposit lebihan BR untuk menyimpannya dengan selamat.
+5. **Semak Kedai di menu utama** - gamepass dan barangan baru ditambah secara berkala.

@@ -1,8 +1,8 @@
 ---
 title: 职业概览
-description: Sumaya 的三大平民职业方向 — 捕鱼、服务业、棕油业。
+description: Sumaya 的三大平民职业方向 - 捕鱼、服务业、棕油业。
 lang: zh
-translated_from_hash: "564a308e"
+translated_from_hash: "0f03e276"
 translated_on: 2026-05-18
 needs_review: true
 ---

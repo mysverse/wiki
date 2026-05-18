@@ -1,10 +1,10 @@
 ---
 title: Gamepass
 description: >-
-  Setiap gamepass Bandaraya dijelaskan — Pemandu Teksi, Lesen Senjata Api, HCC,
+  Setiap gamepass Bandaraya dijelaskan - Pemandu Teksi, Lesen Senjata Api, HCC,
   Radio Kereta, dan banyak lagi.
 lang: ms
-translated_from_hash: "a0e2692e"
+translated_from_hash: "2269b79d"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,10 +14,10 @@ Gamepass ialah pembelian Robux sekali sahaja yang membuka kunci sesuatu ciri, pa
 
 ## Ringkasan
 
-- **Taxi Driver (150 R$)** — murah, sesuai jika anda mahu buat kerja teksi.
-- **Car Radio (100 R$)** — paling murah, sekadar untuk suasana.
-- **Firearms Licence (1,250 R$)** — membuka kunci kedai senjata. Hanya jika anda mahu menembak.
-- **High Class Citizen (3,000 R$)** — paling mahal, terbaik jika anda kerap bermain (tambahan pendapatan + kereta mewah).
+- **Taxi Driver (150 R$)** - murah, sesuai jika anda mahu buat kerja teksi.
+- **Car Radio (100 R$)** - paling murah, sekadar untuk suasana.
+- **Firearms Licence (1,250 R$)** - membuka kunci kedai senjata. Hanya jika anda mahu menembak.
+- **High Class Citizen (3,000 R$)** - paling mahal, terbaik jika anda kerap bermain (tambahan pendapatan + kereta mewah).
 
 ---
 
@@ -38,13 +38,13 @@ Gamepass ialah pembelian Robux sekali sahaja yang membuka kunci sesuatu ciri, pa
 **Car Radio.** 100 R$ memberi anda muzik di mana-mana. Paling murah dan paling berguna secara menyeluruh.
 
 ### "Saya nak cari duit"
-**Taxi Driver** (150 R$) — akses kerja serta-merta, tanpa leceh. Pasangkan dengan Car Radio untuk suasana maksimum.
+**Taxi Driver** (150 R$) - akses kerja serta-merta, tanpa leceh. Pasangkan dengan Car Radio untuk suasana maksimum.
 
 ### "Saya nak roleplay dengan senjata"
-**Firearms Licence** (1,250 R$). Satu-satunya cara awam untuk memiliki senjata — **melainkan** anda berada dalam pasukan yang dikeluarkan senjata (POLIS, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Ambil perhatian bahawa kedai mempunyai **cooldown 5 minit** antara setiap pembelian.
+**Firearms Licence** (1,250 R$). Satu-satunya cara awam untuk memiliki senjata - **melainkan** anda berada dalam pasukan yang dikeluarkan senjata (POLIS, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Ambil perhatian bahawa kedai mempunyai **cooldown 5 minit** antara setiap pembelian.
 
 ### "Saya nak min-max"
-**High Class Citizen** (3,000 R$). Tambahan pendapatan yang akan membayar balik dirinya jika anda bermain dengan kerap. Disertakan dengan kenderaan mewah dan akses pasukan eksklusif. Jika anda hanya bermain sambil lewa, langkau sahaja — Robux itu lebih baik dibelanjakan pada developer products BR.
+**High Class Citizen** (3,000 R$). Tambahan pendapatan yang akan membayar balik dirinya jika anda bermain dengan kerap. Disertakan dengan kenderaan mewah dan akses pasukan eksklusif. Jika anda hanya bermain sambil lewa, langkau sahaja - Robux itu lebih baik dibelanjakan pada developer products BR.
 
 ### "Saya nak main banyak-banyak"
 HCC dahulu, kemudian Taxi Driver untuk pendapatan sampingan tambahan, kemudian Car Radio untuk suasana. Firearms Licence hanya jika roleplay pertempuran minat anda.
@@ -65,7 +65,7 @@ Jika anda mahu kereta mahal tertentu sekali sahaja, developer product BR lebih m
 
 ## Lihat juga
 
-- [Ekonomi](/bandaraya/economy) — ekonomi BR penuh
-- [Pasukan](/bandaraya/teams#special-teams) — butiran pasukan HCC dan Taxi Services
-- [Pekerjaan](/bandaraya/jobs) — POS, Taxi, Tow
-- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) — senjata
+- [Ekonomi](/bandaraya/economy) - ekonomi BR penuh
+- [Pasukan](/bandaraya/teams#special-teams) - butiran pasukan HCC dan Taxi Services
+- [Pekerjaan](/bandaraya/jobs) - POS, Taxi, Tow
+- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) - senjata

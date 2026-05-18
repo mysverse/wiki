@@ -1,16 +1,16 @@
 ---
 title: Kawalan
 description: >-
-  Setiap kawalan di Lebuhraya — papan kekunci, pad permainan, mudah alih, dan
+  Setiap kawalan di Lebuhraya - papan kekunci, pad permainan, mudah alih, dan
   input VR.
 lang: ms
-translated_from_hash: "9831158a"
+translated_from_hash: "d8b4a850"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Kawalan
 
-Lebuhraya menyokong papan kekunci, pad permainan, sentuh (telefon/tablet), dan VR. Permainan ini akan mengesan platform anda secara automatik dan memaparkan arahan yang betul dalam permainan — jika sesuatu kawalan dipaparkan di skrin, gunakan yang itu. Rujukan di bawah adalah rupa kekunci biasa yang digunakan.
+Lebuhraya menyokong papan kekunci, pad permainan, sentuh (telefon/tablet), dan VR. Permainan ini akan mengesan platform anda secara automatik dan memaparkan arahan yang betul dalam permainan - jika sesuatu kawalan dipaparkan di skrin, gunakan yang itu. Rujukan di bawah adalah rupa kekunci biasa yang digunakan.
 
 ## Memasuki dan keluar dari kenderaan
 
@@ -80,17 +80,17 @@ Kebanyakan interaksi dunia menggunakan Roblox ProximityPrompts: spawner, pintu, 
 
 Buka Menu Utama untuk akses:
 
-- **Home** — pengumuman dan gambaran keseluruhan
-- **Teams** — pilih pasukan anda / tukar pasukan
-- **Shop** — pembelian dalam permainan (prompt gamepass, token)
-- **Activity** — misi, cabaran, dan kemajuan season pass
-- **More** — grid kad untuk:
-  - **Career** — pangkat kerjaya dan kemajuan agensi anda
-  - **Jobs** — bar tier setiap cawangan dan ganjaran
-  - **Tokens** — token / boost aktif dan disimpan anda
-  - **Credits** — pasukan pembangunan dan penyumbang
-  - **Races** — menu time trial dan race PvP
-  - **Help** — tutorial apabila tersedia
+- **Home** - pengumuman dan gambaran keseluruhan
+- **Teams** - pilih pasukan anda / tukar pasukan
+- **Shop** - pembelian dalam permainan (prompt gamepass, token)
+- **Activity** - misi, cabaran, dan kemajuan season pass
+- **More** - grid kad untuk:
+  - **Career** - pangkat kerjaya dan kemajuan agensi anda
+  - **Jobs** - bar tier setiap cawangan dan ganjaran
+  - **Tokens** - token / boost aktif dan disimpan anda
+  - **Credits** - pasukan pembangunan dan penyumbang
+  - **Races** - menu time trial dan race PvP
+  - **Help** - tutorial apabila tersedia
 
 Halaman Career, tokens, credits, dan help kini dikumpulkan di bawah **More**.
 
@@ -98,23 +98,23 @@ Halaman Career, tokens, credits, dan help kini dikumpulkan di bawah **More**.
 
 Buka panel Settings (gear di Menu Utama) untuk toggle ini:
 
-- **Crash System** — hidupkan supaya perlanggaran benar-benar merosakkan kereta anda; sebagai balasan anda memperoleh **+15% XP** semasa aktif. Hanya tersedia apabila pemain pasukan Kesihatan berada di server (lihat FAQ).
-- **Overhead rank** — tunjuk atau sembunyikan pangkat/gelaran pasukan yang terapung di atas watak anda.
-- **First person view** — tukar mod kamera. Slash depan (`/`) menogol view dalam permainan.
-- **Vehicle Spawner: NEW** — pilih UI spawner kenderaan yang diperbaharui.
-- **Parking Brake** key — peta semula bind brek tangan.
-- **Shift + C** — toggle seluruh HUD (bagus untuk screenshot).
-- Reset / Change / Remove — pintasan pemposisian semula dan penyesuaian.
+- **Crash System** - hidupkan supaya perlanggaran benar-benar merosakkan kereta anda; sebagai balasan anda memperoleh **+15% XP** semasa aktif. Hanya tersedia apabila pemain pasukan Kesihatan berada di server (lihat FAQ).
+- **Overhead rank** - tunjuk atau sembunyikan pangkat/gelaran pasukan yang terapung di atas watak anda.
+- **First person view** - tukar mod kamera. Slash depan (`/`) menogol view dalam permainan.
+- **Vehicle Spawner: NEW** - pilih UI spawner kenderaan yang diperbaharui.
+- **Parking Brake** key - peta semula bind brek tangan.
+- **Shift + C** - toggle seluruh HUD (bagus untuk screenshot).
+- Reset / Change / Remove - pintasan pemposisian semula dan penyesuaian.
 
 ### Penunjuk HUD atas
 
-- **ActiveTokensHUD** — menunjukkan setiap token yang sedang aktif (2× XP Boost, Season Pass Boost, Team Access Pass) dengan baki masa dalam format `M:SS`. Token auto-sembunyi apabila tamat.
-- **StatusGui** — speedometer, minyak, arah GPS, dan vitals pemain.
-- **Leaderboard** — ketik untuk melihat semua pemain online, pasukan, level, dan studs dipandu. Anda boleh ketik baris untuk menghantar friend request atau block dari panel yang sama.
+- **ActiveTokensHUD** - menunjukkan setiap token yang sedang aktif (2× XP Boost, Season Pass Boost, Team Access Pass) dengan baki masa dalam format `M:SS`. Token auto-sembunyi apabila tamat.
+- **StatusGui** - speedometer, minyak, arah GPS, dan vitals pemain.
+- **Leaderboard** - ketik untuk melihat semua pemain online, pasukan, level, dan studs dipandu. Anda boleh ketik baris untuk menghantar friend request atau block dari panel yang sama.
 
 ## Alat (peralatan pekerjaan)
 
-Apabila anda memegang alat — kapak, pistol radar, taser, pager, hos bomba — kawalannya khusus untuk alat itu. Gunakan arahan pada skrin atau semak halaman pekerjaan untuk pasukan yang menggunakannya.
+Apabila anda memegang alat - kapak, pistol radar, taser, pager, hos bomba - kawalannya khusus untuk alat itu. Gunakan arahan pada skrin atau semak halaman pekerjaan untuk pasukan yang menggunakannya.
 
 ## Petua mudah alih
 
@@ -132,11 +132,11 @@ Apabila anda memegang alat — kapak, pistol radar, taser, pager, hos bomba — 
 
 ## Kebolehcapaian
 
-- Tetapan seluruh sistem Roblox terpakai — penapis buta warna, penskalaan UI, teks-ke-ucapan.
+- Tetapan seluruh sistem Roblox terpakai - penapis buta warna, penskalaan UI, teks-ke-ucapan.
 - Mod pasif boleh ditogol untuk mengelakkan interaksi alat dan senjata. Berguna jika anda tidak mahu ditarik ke dalam pertempuran atau main peranan kecemasan.
 
 ## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) — Bagaimana pemanduan bertukar menjadi tahap
-- [Vehicles](/lebuhraya/vehicles) — Menu spawn, pemilikan, bahan api
-- [Jobs](/lebuhraya/jobs) — Alat mana milik pasukan mana
+- [Economy and XP](/lebuhraya/economy) - Bagaimana pemanduan bertukar menjadi tahap
+- [Vehicles](/lebuhraya/vehicles) - Menu spawn, pemilikan, bahan api
+- [Jobs](/lebuhraya/jobs) - Alat mana milik pasukan mana

@@ -2,7 +2,7 @@
 title: 犯罪与法律
 description: Sumaya 的劫车、扒窃、通缉星级与监禁机制。
 lang: zh
-translated_from_hash: "731048c6"
+translated_from_hash: "fc85b19c"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -137,7 +137,7 @@ needs_review: true
 如果有以下情况，你**不会因**超速或碰撞**被罚**：
 
 - 你在**紧急车辆**（Polis、Bomba、Kesihatan）中，**siren 已开启**。这是执勤响应人员在前往呼叫途中避免处罚的方式。
-- 碰撞时你正处于 **passive mode**。Passive 驾驶者不会累积碰撞 offence points。（如果伤害系统启用，你仍会受到伤害 — passive 保护你免受 PvP 和 offence 罚单影响，而非碰撞物理。）
+- 碰撞时你正处于 **passive mode**。Passive 驾驶者不会累积碰撞 offence points。（如果伤害系统启用，你仍会受到伤害 - passive 保护你免受 PvP 和 offence 罚单影响，而非碰撞物理。）
 
 除此之外，所有人都是公平的目标。
 
@@ -193,12 +193,12 @@ Passive lock 意味着释放后的那段时间内你不能切换 passive mode - 
 
 POLIS 警官**电击**你或**拘留**你的瞬间，你进入 **30-second combat window**。在计时进行时：
 
-- 你的屏幕顶部会出现一个红色的 **"ENGAGED — CANNOT RESET"** 横幅，秒数倒数。
+- 你的屏幕顶部会出现一个红色的 **"ENGAGED - CANNOT RESET"** 横幅，秒数倒数。
 - **Reset** 按钮被锁定。点击 Reset 会显示 "Cannot Reset" 提示并不执行任何操作。
 - **主菜单 / 队伍切换**被锁定，即使你低于普通 `Wanted` 锁定的 wanted-star 阈值。
 - 每次新的电击/拘留**会刷新**计时器（不会叠加）。
 
-**在此窗口内死亡或离开**会让你被送往 **combat-evasion jail**，时长是普通 LTAA 时长的*两倍* — 严格来说比干净地接受逮捕更糟糕：
+**在此窗口内死亡或离开**会让你被送往 **combat-evasion jail**，时长是普通 LTAA 时长的*两倍* - 严格来说比干净地接受逮捕更糟糕：
 
 | Stars | Combat-evasion jail | （对比普通 LTAA）|
 |-------|---------------------|--------------------|

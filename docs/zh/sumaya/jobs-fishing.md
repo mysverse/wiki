@@ -1,8 +1,8 @@
 ---
 title: 捕鱼
-description: Sumaya 的捕鱼 — 钓点、鱼种、价格和职业晋升。
+description: Sumaya 的捕鱼 - 钓点、鱼种、价格和职业晋升。
 lang: zh
-translated_from_hash: "c128b604"
+translated_from_hash: "f5a12209"
 translated_on: 2026-05-18
 needs_review: true
 ---

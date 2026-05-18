@@ -1,14 +1,14 @@
 ---
-title: Glosari — Istilah Malaysia & Akronim Permainan
+title: Glosari - Istilah Malaysia & Akronim Permainan
 description: >-
-  Akronim Malaysia dan istilah dalam permainan — POLIS, BOMBA, KKM, CAG, LTAA,
+  Akronim Malaysia dan istilah dalam permainan - POLIS, BOMBA, KKM, CAG, LTAA,
   RTAA, MRT, dan banyak lagi.
 lang: ms
-translated_from_hash: "75024133"
+translated_from_hash: "8ee918a6"
 translated_on: 2026-05-18
 needs_review: true
 ---
-# Glosari — Istilah Malaysia & Akronim Permainan
+# Glosari - Istilah Malaysia & Akronim Permainan
 
 Bandaraya banyak bergantung pada nama Malaysia. Kalau anda bukan dari Malaysia (atau belum pernah lihat akronim tersebut), rujuk di sini.
 
@@ -16,8 +16,8 @@ Bandaraya banyak bergantung pada nama Malaysia. Kalau anda bukan dari Malaysia (
 
 | Istilah | Maksud |
 | --- | --- |
-| **BR** | **Bandar Ringgit** — mata wang dalam permainan. Anggap ia sebagai ringgit (RM) dalam permainan. |
-| **CAG** | **Click And Go** — kad transit nilai tersimpan dalam permainan (versi Bandaraya untuk Touch n Go). |
+| **BR** | **Bandar Ringgit** - mata wang dalam permainan. Anggap ia sebagai ringgit (RM) dalam permainan. |
+| **CAG** | **Click And Go** - kad transit nilai tersimpan dalam permainan (versi Bandaraya untuk Touch n Go). |
 
 ## Organisasi (pasukan)
 
@@ -35,15 +35,15 @@ Bandaraya banyak bergantung pada nama Malaysia. Kalau anda bukan dari Malaysia (
 | **OCG** | Organised Crime Group | Pasukan roleplay jenayah. |
 | **HCC** | High Class Citizen | Pasukan premium berbayar (gamepass). |
 | **PB** | Polis Bantuan | Polis bantuan transit (MyTransit). |
-| **MyTransit** | — | Pengendali bas dalam permainan (yang utama). |
-| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | — | Syarikat pengangkutan / e-hailing lain dalam permainan. |
-| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | Suruhanjaya Pengangkutan Awam Darat — mengeluarkan lesen kepada pengendali bas dalam permainan. |
+| **MyTransit** | - | Pengendali bas dalam permainan (yang utama). |
+| **Fermuda / FirstGroup / Flaxim / Fetch / Tompang** | - | Syarikat pengangkutan / e-hailing lain dalam permainan. |
+| **SPAD** | Suruhanjaya Pengangkutan Awam Darat | Suruhanjaya Pengangkutan Awam Darat - mengeluarkan lesen kepada pengendali bas dalam permainan. |
 
 ## Tempat
 
 | Istilah | Maksud |
 | --- | --- |
-| **IPD** | **Ibu Pejabat Polis Daerah** — Ibu Pejabat Polis Daerah. IPD Dang Wangi ialah balai polis utama dalam permainan. |
+| **IPD** | **Ibu Pejabat Polis Daerah** - Ibu Pejabat Polis Daerah. IPD Dang Wangi ialah balai polis utama dalam permainan. |
 | **Kem Wardieburn** | Kem tentera MAF. |
 | **KLBT** / **Bandar Bus Terminal** | Terminal Bas Kuala Lumpur. |
 | **Hazbank** | Bank dalam permainan (ya, anda boleh cuba rompak). |
@@ -52,12 +52,12 @@ Bandaraya banyak bergantung pada nama Malaysia. Kalau anda bukan dari Malaysia (
 
 | Istilah | Maksud |
 | --- | --- |
-| **LTAA** | **Leave To Avoid Arrest** — putuskan sambungan semasa ditahan. Akan menahan anda secara automatik selama 3 minit bila anda balik. Jangan buat. |
-| **RTAA** | **Reset To Avoid Arrest** — guna butang reset untuk lari. Butang reset akan dilumpuhkan pada 75 HP atau ke bawah untuk halang ini. |
+| **LTAA** | **Leave To Avoid Arrest** - putuskan sambungan semasa ditahan. Akan menahan anda secara automatik selama 3 minit bila anda balik. Jangan buat. |
+| **RTAA** | **Reset To Avoid Arrest** - guna butang reset untuk lari. Butang reset akan dilumpuhkan pada 75 HP atau ke bawah untuk halang ini. |
 | **Saman** | Bahasa Melayu untuk **saman / denda**. Dikeluarkan oleh polis. Bayar sahaja. |
-| **BOLO** | **Be On the LookOut** — amaran polis yang dikeluarkan terhadap seorang suspek. |
-| **MDT** | **Mobile Data Terminal** — aplikasi tablet polis dengan BG Check, senarai BOLO dan amaran. |
+| **BOLO** | **Be On the LookOut** - amaran polis yang dikeluarkan terhadap seorang suspek. |
+| **MDT** | **Mobile Data Terminal** - aplikasi tablet polis dengan BG Check, senarai BOLO dan amaran. |
 | **TapNGo** | Pintu tol lebuh raya dalam permainan (15 BR tunai / 12 BR dengan kad CAG). |
 | **Ammulaysia** | Peniaga senjata api berlesen. Memerlukan gamepass Firearms Licence. |
-| **MRT** | **Mass Rapid Transit** — kereta api Kajang Line untuk fast-travel. |
-| **ACS** | **Advanced Combat System** — enjin senjata (kendalikan tembakan, muat semula, kerosakan). |
+| **MRT** | **Mass Rapid Transit** - kereta api Kajang Line untuk fast-travel. |
+| **ACS** | **Advanced Combat System** - enjin senjata (kendalikan tembakan, muat semula, kerosakan). |

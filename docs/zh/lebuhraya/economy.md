@@ -2,7 +2,7 @@
 title: 经济与经验值
 description: Ringgit（BR）、1-500 级等级系统、XP 加成，以及 Lebuhraya 中最快的赚钱方法。
 lang: zh
-translated_from_hash: "ae86ce3e"
+translated_from_hash: "dcf8d3ab"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -10,7 +10,7 @@ needs_review: true
 
 Lebuhraya 的一切都围绕着两个数字:您的 **Ringgit (BR)** 和您的**等级**。本页说明两者如何运作、来源为何,以及如何更快地赚取。
 
-## Ringgit (BR) — 已追踪，但目前主要在后台
+## Ringgit (BR) - 已追踪，但目前主要在后台
 
 你的账户确实带有 BR 余额（初始为 **1000**，并会跨会话保留），但在当前版本的 Lebuhraya 中，它还不是主要玩法循环：
 
@@ -40,20 +40,20 @@ Lebuhraya 的一切都围绕着两个数字:您的 **Ringgit (BR)** 和您的**�
 
 ## 等级与 XP
 
-共有 **500 级**。每一级需要 **1000 XP** 才能完成。等级上限是固定的 — 您无法升级超过 500 级,但之后 XP 仍会继续累积用于徽章和职业级别。
+共有 **500 级**。每一级需要 **1000 XP** 才能完成。等级上限是固定的 - 您无法升级超过 500 级,但之后 XP 仍会继续累积用于徽章和职业级别。
 
 ### 赚取 XP
 
 XP 有两种类型:
 
-**驾驶 XP(被动)。** 每次您在驾驶座上行驶 **1500 stud**,就会获得 **50 XP**。计数器仅在您坐在座位上且移动速度比步行快时前进 — 停下的车辆不会获得 XP。这是大多数玩家最大的单一 XP 来源,尤其是在早期等级。
+**驾驶 XP(被动)。** 每次您在驾驶座上行驶 **1500 stud**,就会获得 **50 XP**。计数器仅在您坐在座位上且移动速度比步行快时前进 - 停下的车辆不会获得 XP。这是大多数玩家最大的单一 XP 来源,尤其是在早期等级。
 
 **工作 XP(主动)。** 每完成一次工作动作会奖励一部分 XP。
 
 | 工作 | XP 奖励 |
 |---|---|
 | Food Delivery | 每次送达 **250 XP** |
-| Taxi | 不等 — 每 stud 行程约 **0.11 至 0.13 XP**(4000-stud 行程 = 440 至 520 XP) |
+| Taxi | 不等 - 每 stud 行程约 **0.11 至 0.13 XP**(4000-stud 行程 = 440 至 520 XP) |
 | 其他工作 | 参见 [Jobs](/lebuhraya/jobs) 了解每项工作的详情 |
 
 ### XP 加成叠加
@@ -85,8 +85,8 @@ convoy 总倍率上限为 **+50%**。
 
 ## 哪些会重置,哪些会保存
 
-- **正式游戏**:等级、XP、BR、车辆、住房 — 当您离开 server 时全部自动保存。您无需手动保存。
-- **Studio / 测试 server**:加入时 XP 会重置为 0。会出现警告信息。这是正常的 — 您的正式进度不会受影响。
+- **正式游戏**:等级、XP、BR、车辆、住房 - 当您离开 server 时全部自动保存。您无需手动保存。
+- **Studio / 测试 server**:加入时 XP 会重置为 0。会出现警告信息。这是正常的 - 您的正式进度不会受影响。
 - **私人 server**:经济系统已禁用,因此您的余额不会改变,但主游戏中也不会丢失任何东西。
 
 > 如果您是使用 Fast Travel 的员工,请注意基于距离的 XP 在每次 fast-travel 后会暂停 5 分钟以防止偏差。普通玩家无法使用 Fast Travel,因此此冷却时间不适用于他们。
@@ -102,6 +102,6 @@ convoy 总倍率上限为 **+50%**。
 
 ## 下一步
 
-- [Vehicles](/lebuhraya/vehicles) — 燃油价格与所有权
-- [Jobs](/lebuhraya/jobs) — 每项工作的 XP / BR 细目
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — 如何获得 XP Boost gamepass
+- [Vehicles](/lebuhraya/vehicles) - 燃油价格与所有权
+- [Jobs](/lebuhraya/jobs) - 每项工作的 XP / BR 细目
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) - 如何获得 XP Boost gamepass

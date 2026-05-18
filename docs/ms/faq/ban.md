@@ -1,14 +1,14 @@
 ---
-title: Mengatasi Larangan — Soalan Lazim
+title: Mengatasi Larangan - Soalan Lazim
 description: >-
-  Apa yang perlu dibuat jika akaun Roblox anda dilarang — rayuan, bukti, dan
+  Apa yang perlu dibuat jika akaun Roblox anda dilarang - rayuan, bukti, dan
   akaun baharu.
 lang: ms
-translated_from_hash: "fbd0aaa2"
+translated_from_hash: "671ca4a6"
 translated_on: 2026-05-18
 needs_review: true
 ---
-# Mengatasi Larangan — Soalan Lazim
+# Mengatasi Larangan - Soalan Lazim
 
 ## Memahami Mesej Larangan
 

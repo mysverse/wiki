@@ -2,7 +2,7 @@
 title: Petua & Helah
 description: 'Interaksi tersembunyi, kerenah mudah alih, dan petua pakar untuk Sumaya.'
 lang: ms
-translated_from_hash: "bfe789ad"
+translated_from_hash: "1e068fc4"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -46,13 +46,13 @@ Sesetengah pembuat kopi ialah prop sebenar. Gunakan **Brew** dahulu, tunggu peri
 
 ### Anda mula dalam mod pasif, dan alat jenayah mengeluarkan anda
 
-Pemain baru muncul **pasif secara lalai** — anda kebal sehingga anda sengaja mematikannya (atau mengambil Slim Jim / Pickpocket Knife, yang akan mengeluarkan anda dari mod pasif secara automatik). Mematikannya akan kekal mati sehingga anda menogolnya semula.
+Pemain baru muncul **pasif secara lalai** - anda kebal sehingga anda sengaja mematikannya (atau mengambil Slim Jim / Pickpocket Knife, yang akan mengeluarkan anda dari mod pasif secara automatik). Mematikannya akan kekal mati sehingga anda menogolnya semula.
 
 **Anda tidak boleh mengaktifkan semula pasif jika:**
 - Anda memegang alat jenayah (jatuhkan dahulu).
 - Anda sedang dikehendaki (tunggu kemerosotan 5 minit).
-- Anda seorang pegawai POLIS (polis tidak pernah pasif — ia satu sifat pasukan).
-- Anda berada dalam **kunci pasif** selepas nahas/melaju/jenayah baru-baru ini (tempoh berskala dengan tahap bintang — lihat [Jenayah dan Undang-undang](/sumaya/crime-and-law)).
+- Anda seorang pegawai POLIS (polis tidak pernah pasif - ia satu sifat pasukan).
+- Anda berada dalam **kunci pasif** selepas nahas/melaju/jenayah baru-baru ini (tempoh berskala dengan tahap bintang - lihat [Jenayah dan Undang-undang](/sumaya/crime-and-law)).
 
 ### Toggle perlanggaran untuk lalu menerusi parking
 
@@ -142,7 +142,7 @@ Rawatan Kecederaan Otak Trauma memerlukan pesakit berbaring di atas katil peruba
 
 ### Bayaran balik 70% atas jualan
 
-Anda boleh menjual rumah anda dengan **70% daripada apa yang anda bayar**. Jadi "kos mencuba" yang berkesan untuk Modern Terrace Tier 3 (35,000 SR) ialah 10,500 SR — 30% yang dipegang oleh permainan. Wang sebenar, tetapi boleh dipulihkan jika anda komited untuk grind kembali.
+Anda boleh menjual rumah anda dengan **70% daripada apa yang anda bayar**. Jadi "kos mencuba" yang berkesan untuk Modern Terrace Tier 3 (35,000 SR) ialah 10,500 SR - 30% yang dipegang oleh permainan. Wang sebenar, tetapi boleh dipulihkan jika anda komited untuk grind kembali.
 
 ### Satu plot pada satu masa
 

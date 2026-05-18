@@ -1,8 +1,8 @@
 ---
 title: Gambaran Perkhidmatan Kecemasan
-description: 'POLIS, BOMBA, dan Kesihatan — perkhidmatan kecemasan di Sumaya.'
+description: 'POLIS, BOMBA, dan Kesihatan - perkhidmatan kecemasan di Sumaya.'
 lang: ms
-translated_from_hash: "deb96e43"
+translated_from_hash: "3554a580"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -23,8 +23,8 @@ Memilih salah satu pasukan ini meletakkan anda dalam keadaan **Bertugas** sebaik
 | | Kerjaya awam | Perkhidmatan kecemasan |
 |---|------------------|---------------------|
 | Cara menyertai | Aplikasi Careers di telefon | Pilihan pasukan di menu utama |
-| Tahap sektor maksimum | 100 (setiap sektor awam — fishing, service, agro) | 100 |
-| XP setiap tindakan | Tetap (Service 6/pelanggan, Agro 6/buah, Trawl 2/ikan, Rod 15/ikan) — tiada penskalaan tahap | Tetap setiap tindakan (Bomba 5/blok, Kesihatan 15-40/rawatan, Polis 50-400 berskala bintang) |
+| Tahap sektor maksimum | 100 (setiap sektor awam - fishing, service, agro) | 100 |
+| XP setiap tindakan | Tetap (Service 6/pelanggan, Agro 6/buah, Trawl 2/ikan, Rod 15/ikan) - tiada penskalaan tahap | Tetap setiap tindakan (Bomba 5/blok, Kesihatan 15-40/rawatan, Polis 50-400 berskala bintang) |
 | Alat | Diberikan apabila syif bermula | Diberikan apabila spawn |
 | Perlu clock in? | Ya | Tidak, sentiasa Bertugas |
 | Kenderaan dihadkan tahap? | Hanya trawler | Ya, beberapa dihadkan pada tahap sektor 15, 20, 35, 40, 45, 55, 65 |

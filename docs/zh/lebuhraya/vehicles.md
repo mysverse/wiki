@@ -1,14 +1,14 @@
 ---
 title: 车辆
-description: Lebuhraya 全部 127 款车型 — 生成、燃料、撞车机制和个性化定制。
+description: Lebuhraya 全部 127 款车型 - 生成、燃料、撞车机制和个性化定制。
 lang: zh
-translated_from_hash: "56b88180"
+translated_from_hash: "ab254b34"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 车辆
 
-Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车、卡车、巴士,以及一长串紧急/服务车辆变体。本页讲解如何生成车辆、加油、撞车后该怎么办,以及车库里有些什么车。
+Lebuhraya 配备了 **127 款车型** - 包括小型轿车、SUV、摩托车、卡车、巴士,以及一长串紧急/服务车辆变体。本页讲解如何生成车辆、加油、撞车后该怎么办,以及车库里有些什么车。
 
 ## 生成车辆
 
@@ -52,7 +52,7 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ## 在 Level 1 时能驾驶什么?
 
-你从一开始就可以使用 **27 辆车** — 足以找到你喜欢的。最便宜的是 **Handai EX5** 摩托车,售价 BR 1050。Premium / 超级跑车入门选项包括 NSN GT-R(BR 3,750)、Bagaini Chiron(BR 3,000)和 McLari 750(BR 3,000) — 价格比现实中便宜,但大部分属于 "Special" 类别(不可升级)。更常见的 Level 1 民用车价格在 BR 1,800–6,000 之间。
+你从一开始就可以使用 **27 辆车** - 足以找到你喜欢的。最便宜的是 **Handai EX5** 摩托车,售价 BR 1050。Premium / 超级跑车入门选项包括 NSN GT-R(BR 3,750)、Bagaini Chiron(BR 3,000)和 McLari 750(BR 3,000) - 价格比现实中便宜,但大部分属于 "Special" 类别(不可升级)。更常见的 Level 1 民用车价格在 BR 1,800–6,000 之间。
 
 ## 价格和解锁
 
@@ -65,9 +65,9 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 | L50–100 | BR 15,000 – 20,000 |
 | L125–150+ | BR 17,000 – 25,000(Prem/超级跑车区间) |
 
-部分团队专属车辆没有公开价格 — 它们会随着你在相应职业分支晋级而解锁。大约 **117 辆可生成车辆中有 55 辆** 被职业锁定(你需要在合适的等级加入合适的团队)。
+部分团队专属车辆没有公开价格 - 它们会随着你在相应职业分支晋级而解锁。大约 **117 辆可生成车辆中有 55 辆** 被职业锁定(你需要在合适的等级加入合适的团队)。
 
-大约 **28 辆车** 通过车辆生成器中的 **Dealership** 视图销售 — 这些是从 Myvi 到 Mustang 的标准民用车选择。
+大约 **28 辆车** 通过车辆生成器中的 **Dealership** 视图销售 - 这些是从 Myvi 到 Mustang 的标准民用车选择。
 
 ### 锁定卡片含义
 
@@ -92,8 +92,8 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 | 巴士 / MPV | Tayoti Hiace 系列、Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Vellfire |
 | 卡车 / 货运 | Rolvo FM、Rolvo FM Chassis、Rolvo FM RORO Truck、Sanica P310、Sanica P360 |
 | 出租车 | Perosatu Bezza Taxi、Protan Saga Taxi、Protan Waja Taxi、Protan Preve Taxi |
-| 紧急 — Bomba | Masubi Triton Emergency/Utility、Merze Atego LFRT、Sanica P310 FRT、Sanica P360 Tanker、Sanica 94D LFRT、Tayoti Hiace MTV EMRS |
-| 紧急 — 医疗 | Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV |
+| 紧急 - Bomba | Masubi Triton Emergency/Utility、Merze Atego LFRT、Sanica P310 FRT、Sanica P360 Tanker、Sanica 94D LFRT、Tayoti Hiace MTV EMRS |
+| 紧急 - 医疗 | Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV |
 | 警车 | Handai Civic Polis/HPV Polis 系列、Masubi Lancer HPV Polis、NSN 等 Polis Escort、Kasaki Ninja Polis、BMY M5 CS Polis 系列 |
 | 拖车 / 车间 | iZu Tow Truck KEMRonda、iZu Tow Bed KEMRonda、Renjer Loader 2012 |
 | 电动 | Besla Y、MYD Atto III、Ionic I、Ionic V、CITO Ami |
@@ -114,15 +114,15 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ### 加油
 
-将车停到油泵旁,屏幕上会出现 "Pump" 或 "Charge" 的提示。提示只会为你车辆所用的燃料类型显示 — 如果你开着汽油车停在柴油泵旁,游戏会告诉你 "this is the wrong type of pump, find a Petrol Pump."。JerryCan 也同样适用 — 在靠近油泵之前请选对燃料类型。
+将车停到油泵旁,屏幕上会出现 "Pump" 或 "Charge" 的提示。提示只会为你车辆所用的燃料类型显示 - 如果你开着汽油车停在柴油泵旁,游戏会告诉你 "this is the wrong type of pump, find a Petrol Pump."。JerryCan 也同样适用 - 在靠近油泵之前请选对燃料类型。
 
 > **目前燃料免费。** 上述价格(每升 1/2/3 BR)已在燃料系统配置中定义,但当前版本并未启用扣款钩子。加油不会扣除你任何 BR 余额。当经济系统正式上线时,这些价格将会生效。
 
 ### 加油地点
 
-- **PETROMAS Petrol Station** — 高速公路上的南向和北向站
-- **Radtrol Petrol Station** — 位于 Bandar Seri Putra
-- **Kompleks Petroliam dan Gas Radtrol** — Jersik 附近的大型加油综合设施
+- **PETROMAS Petrol Station** - 高速公路上的南向和北向站
+- **Radtrol Petrol Station** - 位于 Bandar Seri Putra
+- **Kompleks Petroliam dan Gas Radtrol** - Jersik 附近的大型加油综合设施
 
 ### 油箱耗尽
 
@@ -159,35 +159,35 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 **车辆耐久度**:
 - 标准民用车辆起始为 **100 Max Health**。
-- 警察/执法变体(Polis Trafik HPV、Polis Escort、KEMRonda Peronda Hilux、APJ Inspira/X70、Undercover)有 **200 Max Health** — 耐久度翻倍。
+- 警察/执法变体(Polis Trafik HPV、Polis Escort、KEMRonda Peronda Hilux、APJ Inspira/X70、Undercover)有 **200 Max Health** - 耐久度翻倍。
 - 紧急摩托车(Kasaki Ninja Polis、BMY R1200RT Polis)为 **180 Max Health**。
 - 每次碰撞必须超过 **30 stud/s 的相对速度** 才会造成伤害;低于此值只是轻碰反弹,高于此值则差值被乘数化为伤害。
 - 每次受击伤害默认 **10 点**(极高速碰撞时会更多)。
 
 ### 你的选择
 
-- **开进任何 petrol station 的维修区。** 共有 **10 个维修区** — 成对放在 PETROMAS Northbound、PETROMAS Southbound、Radtrol Bandar Seri Putra、Plaza Tol Jersik 和 RnR Sungai Merbang。停在区内会逐渐恢复你的车辆(大约每 5 秒恢复 10% 血量)。进入时屏幕上会出现确认提示。
-- **使用 Toolkit** 进行野外维修。Jerrycan Shop 的 Toolkit 每次使用可恢复约 **25% health** — 当你被困且到不了维修站时很有用。
+- **开进任何 petrol station 的维修区。** 共有 **10 个维修区** - 成对放在 PETROMAS Northbound、PETROMAS Southbound、Radtrol Bandar Seri Putra、Plaza Tol Jersik 和 RnR Sungai Merbang。停在区内会逐渐恢复你的车辆(大约每 5 秒恢复 10% 血量)。进入时屏幕上会出现确认提示。
+- **使用 Toolkit** 进行野外维修。Jerrycan Shop 的 Toolkit 每次使用可恢复约 **25% health** - 当你被困且到不了维修站时很有用。
 - **叫拖车**。KEMRonda 玩家带着拖车可以把你拖到车间。
 - **生成替换车辆**。如果你能到达车辆 spawner，生成另一辆车会清理你之前拥有的车辆，并给你一辆新车。
 
-如果你是新玩家,觉得撞车很可怕,第一次发生时会看到 **Crash Tutorial** — 那是你的游戏内入门指南。小心驾驶,使用手刹(**Space**),对马来西亚高速公路的车速保持警惕。
+如果你是新玩家,觉得撞车很可怕,第一次发生时会看到 **Crash Tutorial** - 那是你的游戏内入门指南。小心驾驶,使用手刹(**Space**),对马来西亚高速公路的车速保持警惕。
 
 ## Gravstone Workshop 的定制
 
-**Gravstone Workshop** 位于 Bandar Seri Putra,是游戏的喷漆与视觉定制店 — **不是** 维修中心。将车开入车间的内部区域,车间 GUI 会显示喷漆和车身选项。
+**Gravstone Workshop** 位于 Bandar Seri Putra,是游戏的喷漆与视觉定制店 - **不是** 维修中心。将车开入车间的内部区域,车间 GUI 会显示喷漆和车身选项。
 
 - **访问需要 Workshop gamepass。** 如果你没有,游戏会在你打开喷漆选项时提示你购买。
-- **可重新上色的喷漆区域** 包括车身、车窗、轮胎和轮毂 — 每部分可选不同颜色。
+- **可重新上色的喷漆区域** 包括车身、车窗、轮胎和轮毂 - 每部分可选不同颜色。
 - **调色器**:拖动色调、饱和度和亮度;车辆会随着你的调整实时更新。点击 Confirm 应用;Cancel 放弃。
 
-在此保存的喷漆会应用到你当前生成的车辆上,直到该会话结束。可解锁的喷漆(镀铬、渐变、哑光 — 见 *Passes and Boosts*)则通过另一个菜单应用。
+在此保存的喷漆会应用到你当前生成的车辆上,直到该会话结束。可解锁的喷漆(镀铬、渐变、哑光 - 见 *Passes and Boosts*)则通过另一个菜单应用。
 
 ## 定制
 
 车辆定制取决于具体型号。常见选项包括:
 
-- 喷漆颜色(通过 Gravstone Workshop — 见上文)
+- 喷漆颜色(通过 Gravstone Workshop - 见上文)
 - 车身配件
 - 车牌(见下文)
 
@@ -197,26 +197,26 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 车辆生成时，登记车牌会根据 spawner 所在区域分配，并遵循真实的马来西亚州属前缀系统：
 
-- **Bandar Seri Putra** spawner 发放 **Selangor plates** — `B%` 前缀（例如 BJH 1234）。
-- **Kampung Merbang** 和 **Jersik** spawner 发放 **Negeri Sembilan plates** — `N%` 前缀。
+- **Bandar Seri Putra** spawner 发放 **Selangor plates** - `B%` 前缀（例如 BJH 1234）。
+- **Kampung Merbang** 和 **Jersik** spawner 发放 **Negeri Sembilan plates** - `N%` 前缀。
 - 高速公路中部（区域之间）的 spawner 每次生成时随机 **50/50 在 B 和 N 之间选择**。
 
-所以你刚在休息站路边生成的车,这次可能是 B 牌,下次则是 N 牌 — 这是马来西亚玩家立即会注意到的小细节。
+所以你刚在休息站路边生成的车,这次可能是 B 牌,下次则是 N 牌 - 这是马来西亚玩家立即会注意到的小细节。
 
-**允许字符**为 `ABCDEFGHJKLMNPQRSTUVWXY` — I、O、V、Z 被排除（I/O 避免与 1/0 混淆，V 和 Z 留作特殊/军事用途）。
+**允许字符**为 `ABCDEFGHJKLMNPQRSTUVWXY` - I、O、V、Z 被排除（I/O 避免与 1/0 混淆，V 和 Z 留作特殊/军事用途）。
 
-### 军用车牌（稀有 — 特殊车辆）
+### 军用车牌（稀有 - 特殊车辆）
 
 部分 military / armed forces 车辆使用真实马来西亚 service plates：
 
 | 服务 | 车牌前缀 |
 |---|---|
-| PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat MYSverse — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut MYSverse — Navy) | `ZL` |
-| TUDM (Tentera Udara MYSverse — Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority) | `ZZ` |
-| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PAT (Panglima Angkatan Tentera MYSverse - Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat MYSverse - Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut MYSverse - Navy) | `ZL` |
+| TUDM (Tentera Udara MYSverse - Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan MYSverse - Defence Authority) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor - Johor Military Force) | `JZ` / `JMF` |
 | PMS | `PMS` |
 
 你会在 TUDM escort convoys、event parades 和 staff-spawned military vehicles 上看到这些，不是普通玩家车。
@@ -225,15 +225,15 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 所有紧急团队车辆(Bomba、Polis Trafik、Undercover Police、Kesihatan、KEMRonda)都配备使用游戏 ELS(紧急照明系统)的警灯条。切换 ELS:
 
-- 会播放 **三种闪烁模式** 之一 — 快速交替、慢速交替和快速复合。
+- 会播放 **三种闪烁模式** 之一 - 快速交替、慢速交替和快速复合。
 - 会复制到 server 中的所有玩家,所以每个人都看得到你的警灯。
-- 默认给予超速陷阱 **豁免** — 如果你在开启 ELS 时速度超过 200 stud/s,不会被判定 Speeding(紧急回应中)。不要滥用它;反作弊系统仍在监视。
+- 默认给予超速陷阱 **豁免** - 如果你在开启 ELS 时速度超过 200 stud/s,不会被判定 Speeding(紧急回应中)。不要滥用它;反作弊系统仍在监视。
 
 仅在回应事件时使用 ELS。开着警灯巡游是社区礼仪中不被允许的事。
 
 ## 高级车辆控制
 
-六辆特殊车辆有一个 **拖车/绞盘面板** — 当你在车厢内与控制面板互动时,会出现一个适合移动端的横向 HUD:
+六辆特殊车辆有一个 **拖车/绞盘面板** - 当你在车厢内与控制面板互动时,会出现一个适合移动端的横向 HUD:
 
 | 车辆 | 团队 | 面板 |
 |---|---|---|
@@ -262,6 +262,6 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ## 后续步骤
 
-- [经济与 XP](/lebuhraya/economy) — 结合背景了解燃料价格
-- [世界与地图](/lebuhraya/map) — 在哪里找到每个加油站
-- [团队与职业](/lebuhraya/teams) — 通过团队等级解锁的车辆
+- [经济与 XP](/lebuhraya/economy) - 结合背景了解燃料价格
+- [世界与地图](/lebuhraya/map) - 在哪里找到每个加油站
+- [团队与职业](/lebuhraya/teams) - 通过团队等级解锁的车辆

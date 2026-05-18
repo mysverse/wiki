@@ -1,13 +1,13 @@
 ---
 title: "Glossary - Malaysian Terms & Game Acronyms"
-description: "Malaysian acronyms and in-game terms explained — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
+description: "Malaysian acronyms and in-game terms explained - POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
 ---
 
-# Glossary - Malaysian Terms & Game Acronyms
+# Glossary - malaysian terms & game acronyms
 
 Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this page when a term is unfamiliar.
 
-## Money and Travel
+## Money and travel
 
 | Term | Meaning |
 | --- | --- |
@@ -17,7 +17,7 @@ Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this
 | **MRT** | Mass Rapid Transit. Bandaraya has MRT fast travel on the Kajang Line. |
 | **Monorail** | KL Monorail fast travel line. |
 
-## Organisations and Teams
+## Organisations and teams
 
 | Acronym | Full name | Meaning in game |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this
 | **Hazbank** | Robbable bank target. |
 | **CR** | Community Retail. |
 
-## Law and Roleplay
+## Law and roleplay
 
 | Term | Meaning |
 | --- | --- |

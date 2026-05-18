@@ -2,13 +2,13 @@
 title: Pas & Peningkatan
 description: 'Gamepass, peningkatan XP, dan faedah Premium di Lebuhraya.'
 lang: ms
-translated_from_hash: "bcab645c"
+translated_from_hash: "104eb496"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Pas & Peningkatan
 
-Halaman ini merangkum cara-cara anda boleh mempercepatkan kemajuan Lebuhraya anda — gamepass, Roblox Premium, Season Pass, dan acara istimewa.
+Halaman ini merangkum cara-cara anda boleh mempercepatkan kemajuan Lebuhraya anda - gamepass, Roblox Premium, Season Pass, dan acara istimewa.
 
 ## Gamepass pasukan
 
@@ -17,7 +17,7 @@ Lima pasukan dikunci di sebalik gamepass. Membeli pas itu memberikan anda akses 
 | Pasukan | Apa yang diberikan |
 |---|---|
 | **Taxi Driver** | Sertai pasukan Taxi Driver, dapatkan tambang dengan memandu penumpang NPC. Varian kenderaan teksi dibuka melalui peringkat kerjaya. |
-| **Bandaraya** | Pas bundle — termasuk akses Taxi Driver dan lain-lain. |
+| **Bandaraya** | Pas bundle - termasuk akses Taxi Driver dan lain-lain. |
 | **KEMRonda** | Akses polis bantuan lebuh raya. Trak tunda, alat bantuan tepi jalan. |
 | **Bomba** | Akses bomba dan penyelamat. Jentera bomba, hos, penyebar, gergaji rantai. |
 | **Polis Trafik** | Akses polis trafik. Taser, pistol radar, kenderaan polis. |
@@ -27,7 +27,7 @@ Gamepass ini adalah pembelian sekali sahaja dalam Robux. Cari ia di tab Store pe
 
 ## Gamepass XP Boost
 
-**+50% XP** kekal pada semua perkara yang anda lakukan. Bertindan dengan semua pengganda XP lain — Premium, konvoi, token, hujung minggu Double XP.
+**+50% XP** kekal pada semua perkara yang anda lakukan. Bertindan dengan semua pengganda XP lain - Premium, konvoi, token, hujung minggu Double XP.
 
 Bagi pemain yang merancang untuk bermain Lebuhraya jangka panjang, ini adalah salah satu gamepass yang paling berbaloi.
 
@@ -48,17 +48,17 @@ Semak Store dalam permainan untuk senarai semasa.
 
 ## Roblox Premium
 
-Pelanggan Roblox Premium mendapat **+25% XP** kekal di Lebuhraya, secara automatik — tiada pengaktifan diperlukan. Ini bertindan dengan setiap peningkatan lain. Jika anda sudah melanggan Roblox Premium, anda sebenarnya sentiasa berada pada ×1.25.
+Pelanggan Roblox Premium mendapat **+25% XP** kekal di Lebuhraya, secara automatik - tiada pengaktifan diperlukan. Ini bertindan dengan setiap peningkatan lain. Jika anda sudah melanggan Roblox Premium, anda sebenarnya sentiasa berada pada ×1.25.
 
 ## Season Pass
 
-Lebuhraya menjalankan **Season Pass** — trek kemajuan berjangka masa dengan ganjaran berperingkat.
+Lebuhraya menjalankan **Season Pass** - trek kemajuan berjangka masa dengan ganjaran berperingkat.
 
 ### Cara Season Pass berfungsi
 
 - Setiap musim berlangsung untuk tempoh yang ditetapkan (biasanya 5-6 minggu).
-- Anda memperoleh **Season XP** dengan menyelesaikan misi — cabaran objektif pendek yang dikaitkan dengan aktiviti permainan sedia ada.
-- Setiap peringkat yang anda lepasi memberikan **ganjaran** — biasanya item kosmetik, token, atau (secara sejarah) jalan pintas untuk membuka kunci sesuatu pasukan.
+- Anda memperoleh **Season XP** dengan menyelesaikan misi - cabaran objektif pendek yang dikaitkan dengan aktiviti permainan sedia ada.
+- Setiap peringkat yang anda lepasi memberikan **ganjaran** - biasanya item kosmetik, token, atau (secara sejarah) jalan pintas untuk membuka kunci sesuatu pasukan.
 - **Premium Track** (dibeli dengan gamepass) membuka laluan ganjaran selari untuk setiap peringkat. Pemain percuma mendapat ganjaran percuma; pemegang Premium mendapat ganjaran percuma dan premium kedua-duanya.
 
 ### Musim semasa: Season 2 "Lebuhraya"
@@ -69,11 +69,11 @@ Berjalan **20 Mac – 30 April 2026** (UTC+8). 13 peringkat. Ganjaran tertumpu p
 
 Pas Season 1 sebelumnya membuka kunci tiga pasukan lebih awal untuk pemain yang telah menyiapkannya:
 
-- **Waste Disposal** (biasanya Level 25 — sesetengah UI dalam permainan masih menyebut Level 50)
+- **Waste Disposal** (biasanya Level 25 - sesetengah UI dalam permainan masih menyebut Level 50)
 - **Logistics** (biasanya Level 75)
 - **Lumberjack** (biasanya Level 150)
 
-Pemain yang memperoleh buka kunci ini semasa Season 1 mengekalkan akses secara kekal. Ganjaran Season 2 adalah berbeza — semak menu Season dalam permainan untuk senarai peringkat semasa.
+Pemain yang memperoleh buka kunci ini semasa Season 1 mengekalkan akses secara kekal. Ganjaran Season 2 adalah berbeza - semak menu Season dalam permainan untuk senarai peringkat semasa.
 
 ## Token
 
@@ -81,15 +81,15 @@ Token adalah item peningkatan yang boleh digunakan yang disimpan dalam inventori
 
 Yang paling ketara:
 
-- Token **2× XP Boost** — +100% XP untuk tempoh yang ditetapkan
-- **Team Access Pass** — akses sementara kepada pasukan yang dikunci gamepass
-- **2× Season Pass Boost** — menggandakan perolehan Season Pass XP
+- Token **2× XP Boost** - +100% XP untuk tempoh yang ditetapkan
+- **Team Access Pass** - akses sementara kepada pasukan yang dikunci gamepass
+- **2× Season Pass Boost** - menggandakan perolehan Season Pass XP
 
 ## Acara Double XP & Free Trial
 
-Secara berkala, permainan menjalankan acara **2X XP** berjadual yang dikaitkan dengan cuti budaya Malaysia dan milestone MYSverse. Semasa acara aktif, pengganda XP asas setiap pemain menjadi ×2 — di atas Premium, konvoi, gamepass, dan token boost.
+Secara berkala, permainan menjalankan acara **2X XP** berjadual yang dikaitkan dengan cuti budaya Malaysia dan milestone MYSverse. Semasa acara aktif, pengganda XP asas setiap pemain menjadi ×2 - di atas Premium, konvoi, gamepass, dan token boost.
 
-Setiap acara 2X juga mengaktifkan **Gamepass Trial**: anda mendapat akses sementara percuma kepada pasukan gamepass premium (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) sepanjang acara. Permainan menunjukkan banner: *"Free Trial Started — Enjoy a free taste test of our premium gamepass teams!"* dan *"Free Trial Ended"* apabila tamat.
+Setiap acara 2X juga mengaktifkan **Gamepass Trial**: anda mendapat akses sementara percuma kepada pasukan gamepass premium (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) sepanjang acara. Permainan menunjukkan banner: *"Free Trial Started - Enjoy a free taste test of our premium gamepass teams!"* dan *"Free Trial Ended"* apabila tamat.
 
 Acara lepas termasuk:
 
@@ -103,7 +103,7 @@ Acara lepas termasuk:
 - **Chinese New Year / CNY** (biasanya akhir Januari hingga awal Mac)
 - **Hari Raya / Raya** (akhir Mac)
 
-Jadual mengikuti kalendar cuti umum Malaysia sebenar, jadi jangkakan kira-kira satu acara setiap 1-2 bulan. Pantau saluran komuniti MYSverse — Rafahia App, Discord, atau pemberitahuan banner dalam permainan — untuk pengumuman.
+Jadual mengikuti kalendar cuti umum Malaysia sebenar, jadi jangkakan kira-kira satu acara setiap 1-2 bulan. Pantau saluran komuniti MYSverse - Rafahia App, Discord, atau pemberitahuan banner dalam permainan - untuk pengumuman.
 
 ## Matematik penindanan
 
@@ -127,9 +127,9 @@ Sistem **Challenges** (boleh diakses daripada **Main Menu -> Activity**) memberi
 
 Ketiga-tiganya kini aktif:
 
-- **Daily Driver** (traveller) — pandu jarak sasaran
-- **Weekend Fisherman** (fishing) — tangkap beberapa ekor ikan
-- **Konvoi Harian** — luangkan masa dalam konvoi
+- **Daily Driver** (traveller) - pandu jarak sasaran
+- **Weekend Fisherman** (fishing) - tangkap beberapa ekor ikan
+- **Konvoi Harian** - luangkan masa dalam konvoi
 
 ### Cabaran mingguan (set semula setiap 7 hari)
 
@@ -138,24 +138,24 @@ Lima daripada tujuh modul mingguan kini aktif; dua dilumpuhkan untuk musim ini:
 - **Endurance Driver** (traveller)
 - **Successful Fisherman** (fishing)
 - **Konvoi Mingguan**
-- **Quiz Master (Advanced)** — quiz_adv
-- **Lap Time Legend** — laptime
-- *Quiz Master (basic) — kini dilumpuhkan*
-- *Lap Time Legend (Advanced) — kini dilumpuhkan*
+- **Quiz Master (Advanced)** - quiz_adv
+- **Lap Time Legend** - laptime
+- *Quiz Master (basic) - kini dilumpuhkan*
+- *Lap Time Legend (Advanced) - kini dilumpuhkan*
 
 ### Penemuan / pencapaian (sekali sahaja, kekal)
 
 34 matlamat sekali sahaja merentasi asas dan pencapaian penting. Sorotan:
 
-- **First Drive** — saat pertama anda duduk dalam kenderaan
-- **Jalan Jalan** — menjelajah peta
-- **Anak Murid** — lawat sekolah
-- **Cari Kerja** — cuba kerja pertama anda
-- **Bayar Tol** — melalui tol
-- **Penghantar Makanan** — selesaikan penghantaran makanan
-- **Penebang Kayu** — menebang kayu
-- **Pemandu Teksi** — selesaikan misi teksi
-- **Pemandu Lagenda** — pengakhiran jarak memandu
+- **First Drive** - saat pertama anda duduk dalam kenderaan
+- **Jalan Jalan** - menjelajah peta
+- **Anak Murid** - lawat sekolah
+- **Cari Kerja** - cuba kerja pertama anda
+- **Bayar Tol** - melalui tol
+- **Penghantar Makanan** - selesaikan penghantaran makanan
+- **Penebang Kayu** - menebang kayu
+- **Pemandu Teksi** - selesaikan misi teksi
+- **Pemandu Lagenda** - pengakhiran jarak memandu
 
 Ditambah 16 lencana pencapaian (berawalan `ach_`): pencapaian penting peringkat legenda jalan raya, pemandu maraton, pemancing mahir, speed demon, pembalap, convoy king, jack-of-all-trades, warga sejati, dan banyak lagi.
 
@@ -163,11 +163,11 @@ Ditambah 16 lencana pencapaian (berawalan `ach_`): pencapaian penting peringkat 
 
 Selain tahap anda dan pangkat kerjaya, katalog berasingan **42 unlockables** menjejaki kemajuan kosmetik. Diperoleh melalui season pass, acara, kod, dan pencapaian. Tiga jenis:
 
-- **12 cat kenderaan** — varian warna, kecerunan, dan tekstur (cth. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Pasang daripada menu penyesuaian kenderaan apabila memiliki kereta serasi cat.
-- **17 tajuk** — tag atas kepala kosmetik. Pilih satu untuk ditunjukkan di atas watak anda. Roster semasa termasuk: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
-- **13 lencana koleksi** — lencana hiasan (cth. "Pemandu Season 2 Dedicated") ditunjukkan pada profil anda.
+- **12 cat kenderaan** - varian warna, kecerunan, dan tekstur (cth. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Pasang daripada menu penyesuaian kenderaan apabila memiliki kereta serasi cat.
+- **17 tajuk** - tag atas kepala kosmetik. Pilih satu untuk ditunjukkan di atas watak anda. Roster semasa termasuk: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
+- **13 lencana koleksi** - lencana hiasan (cth. "Pemandu Season 2 Dedicated") ditunjukkan pada profil anda.
 
-Buka kunci yang aktif disimpan setiap pemain — anda mengekalkan segalanya yang anda perolehi merentasi sesi.
+Buka kunci yang aktif disimpan setiap pemain - anda mengekalkan segalanya yang anda perolehi merentasi sesi.
 
 ## Lencana Roblox untuk jarak memandu
 
@@ -180,13 +180,13 @@ Empat lencana Roblox sebenar dianugerahkan secara automatik apabila anda melepas
 | 500,000 stud | 500k Badge |
 | 1,000,000 stud | 1m Badge |
 
-Lencana dianugerahkan secara automatik semasa kaunter jarak anda meningkat — anda tidak perlu menuntutnya.
+Lencana dianugerahkan secara automatik semasa kaunter jarak anda meningkat - anda tidak perlu menuntutnya.
 
 Pencapaian kemenangan perlumbaan juga dijejaki dan mungkin menerima lencana dalam kemas kini akan datang.
 
 ## Developer product level segera
 
-Jika anda mahu melangkau grind level, Lebuhraya menawarkan empat **developer products** sekali beli yang boleh dibeli dengan Robux. Ini memberikan lonjakan level tetap serta-merta — berguna jika anda mengejar pasukan berlevel tertentu (contohnya Kesihatan pada Level 200).
+Jika anda mahu melangkau grind level, Lebuhraya menawarkan empat **developer products** sekali beli yang boleh dibeli dengan Robux. Ini memberikan lonjakan level tetap serta-merta - berguna jika anda mengejar pasukan berlevel tertentu (contohnya Kesihatan pada Level 200).
 
 | Produk | Kesan |
 |---|---|
@@ -195,20 +195,20 @@ Jika anda mahu melangkau grind level, Lebuhraya menawarkan empat **developer pro
 | +25 Levels | 25 level |
 | +50 Levels | 50 level |
 
-Level bonus dihadkan pada max level (500). XP yang diberikan **memintas susunan multiplier** — lompatan level tepat, tanpa kejutan. Cari dalam Shop permainan atau melalui Main Menu.
+Level bonus dihadkan pada max level (500). XP yang diberikan **memintas susunan multiplier** - lompatan level tepat, tanpa kejutan. Cari dalam Shop permainan atau melalui Main Menu.
 
 ## Apa yang perlu dibeli dahulu?
 
 Jika anda telah bermain selama beberapa hari dan ingin melabur:
 
-1. **Gamepass XP Boost** — pemecutan XP per-dolar terbaik. Kekal.
-2. **Gamepass pasukan yang anda gemari** — Bomba dan Polis Trafik adalah yang paling popular kerana sistem 999 sangat menyeronokkan.
-3. **Season Pass** (Premium Track) — hanya berbaloi jika anda aktif bermain semasa musim dan mahukan ganjaran khusus atau buka kunci kerja awal.
+1. **Gamepass XP Boost** - pemecutan XP per-dolar terbaik. Kekal.
+2. **Gamepass pasukan yang anda gemari** - Bomba dan Polis Trafik adalah yang paling popular kerana sistem 999 sangat menyeronokkan.
+3. **Season Pass** (Premium Track) - hanya berbaloi jika anda aktif bermain semasa musim dan mahukan ganjaran khusus atau buka kunci kerja awal.
 
-Jika anda melanggan Roblox Premium untuk permainan lain, itu sudah berfungsi untuk anda di sini — tiada perbelanjaan tambahan diperlukan.
+Jika anda melanggan Roblox Premium untuk permainan lain, itu sudah berfungsi untuk anda di sini - tiada perbelanjaan tambahan diperlukan.
 
 ## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) — Lihat tindanan pengganda penuh dalam konteks
-- [Teams and Careers](/lebuhraya/teams) — Pasukan mana memerlukan gamepass mana
-- [FAQ](/lebuhraya/faq) — Soalan lazim mengenai gamepass
+- [Economy and XP](/lebuhraya/economy) - Lihat tindanan pengganda penuh dalam konteks
+- [Teams and Careers](/lebuhraya/teams) - Pasukan mana memerlukan gamepass mana
+- [FAQ](/lebuhraya/faq) - Soalan lazim mengenai gamepass

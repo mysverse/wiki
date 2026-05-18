@@ -4,7 +4,7 @@ description: >-
   Ringgit (BR), tahap 1-500, pendaraban XP, dan cara terpantas untuk memperoleh
   di Lebuhraya.
 lang: ms
-translated_from_hash: "ae86ce3e"
+translated_from_hash: "dcf8d3ab"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -12,7 +12,7 @@ needs_review: true
 
 Segala-galanya di Lebuhraya berkisar pada dua nombor: **Ringgit (BR)** anda dan **tahap** anda. Halaman ini menerangkan cara kedua-duanya berfungsi, dari mana ia datang, dan bagaimana untuk memperoleh dengan lebih pantas.
 
-## Ringgit (BR) — dijejaki, tetapi kebanyakannya masih latar belakang
+## Ringgit (BR) - dijejaki, tetapi kebanyakannya masih latar belakang
 
 Akaun anda memang membawa baki BR (bermula pada **1000** dan berkekalan merentasi sesi), tetapi dalam versi Lebuhraya semasa ia belum menjadi gelung permainan utama:
 
@@ -42,20 +42,20 @@ Permainan kelihatan disediakan untuk penggunaan BR pada masa hadapan dalam:
 
 ## Tahap dan XP
 
-Terdapat **500 tahap**. Setiap tahap memerlukan **1000 XP** untuk dilengkapkan. Had tahap adalah tetap — anda tidak boleh naik tahap melepasi 500, tetapi XP terus bertambah ke arah lencana dan tier kerjaya selepas itu.
+Terdapat **500 tahap**. Setiap tahap memerlukan **1000 XP** untuk dilengkapkan. Had tahap adalah tetap - anda tidak boleh naik tahap melepasi 500, tetapi XP terus bertambah ke arah lencana dan tier kerjaya selepas itu.
 
 ### Memperoleh XP
 
 Terdapat dua jenis XP:
 
-**XP Pemanduan (pasif).** Setiap kali anda memandu **1500 stud** di tempat duduk pemandu, anda memperoleh **50 XP**. Pembilang hanya bergerak semasa anda berada di tempat duduk dan bergerak lebih laju daripada berjalan — kereta yang berhenti tidak memperoleh XP. Ini adalah sumber XP terbesar tunggal untuk kebanyakan pemain, terutamanya pada tahap awal.
+**XP Pemanduan (pasif).** Setiap kali anda memandu **1500 stud** di tempat duduk pemandu, anda memperoleh **50 XP**. Pembilang hanya bergerak semasa anda berada di tempat duduk dan bergerak lebih laju daripada berjalan - kereta yang berhenti tidak memperoleh XP. Ini adalah sumber XP terbesar tunggal untuk kebanyakan pemain, terutamanya pada tahap awal.
 
 **XP Kerja (aktif).** Setiap tindakan kerja yang dilengkapkan memberikan sebahagian XP.
 
 | Kerja | Ganjaran XP |
 |---|---|
 | Food Delivery | **250 XP** setiap penghantaran |
-| Taxi | Berubah-ubah — kira-kira **0.11 hingga 0.13 XP setiap stud** perjalanan (perjalanan 4000-stud = 440 hingga 520 XP) |
+| Taxi | Berubah-ubah - kira-kira **0.11 hingga 0.13 XP setiap stud** perjalanan (perjalanan 4000-stud = 440 hingga 520 XP) |
 | Kerja lain | Lihat [Jobs](/lebuhraya/jobs) untuk butiran setiap kerja |
 
 ### Tindanan pendarab XP
@@ -87,8 +87,8 @@ Jumlah pendarab convoy dihadkan pada **+50%**.
 
 ## Apa yang reset dan apa yang disimpan
 
-- **Permainan langsung**: Tahap, XP, BR, kenderaan, perumahan — semuanya disimpan secara automatik apabila anda meninggalkan server. Anda tidak perlu menyimpan secara manual.
-- **Studio / server ujian**: XP reset kepada 0 apabila anda masuk. Mesej amaran akan muncul. Ini adalah normal — kemajuan langsung anda tidak terjejas.
+- **Permainan langsung**: Tahap, XP, BR, kenderaan, perumahan - semuanya disimpan secara automatik apabila anda meninggalkan server. Anda tidak perlu menyimpan secara manual.
+- **Studio / server ujian**: XP reset kepada 0 apabila anda masuk. Mesej amaran akan muncul. Ini adalah normal - kemajuan langsung anda tidak terjejas.
 - **Server peribadi**: Ekonomi dimatikan jadi baki anda tidak berubah, tetapi tiada apa-apa hilang dalam permainan utama.
 
 > Jika anda kakitangan yang menggunakan Fast Travel, ambil perhatian bahawa XP berdasarkan jarak dihentikan seketika selama 5 minit selepas setiap fast-travel untuk mengelakkan herotan. Pemain biasa tidak mempunyai akses kepada Fast Travel, jadi cooldown ini tidak terpakai kepada mereka.
@@ -104,6 +104,6 @@ Jumlah pendarab convoy dihadkan pada **+50%**.
 
 ## Langkah seterusnya
 
-- [Vehicles](/lebuhraya/vehicles) — Harga minyak dan pemilikan
-- [Jobs](/lebuhraya/jobs) — Pecahan XP / BR setiap kerja
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — Cara mendapatkan gamepass XP Boost
+- [Vehicles](/lebuhraya/vehicles) - Harga minyak dan pemilikan
+- [Jobs](/lebuhraya/jobs) - Pecahan XP / BR setiap kerja
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Cara mendapatkan gamepass XP Boost

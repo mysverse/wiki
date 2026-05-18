@@ -1,14 +1,14 @@
 ---
 title: 工作
-description: Lebuhraya 全部工作说明 — 按机构分类（Pengangkutan 等），附薪资说明。
+description: Lebuhraya 全部工作说明 - 按机构分类（Pengangkutan 等），附薪资说明。
 lang: zh
-translated_from_hash: "b9e89212"
+translated_from_hash: "6baee86a"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 工作
 
-Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers](/lebuhraya/teams)）。本页是你在每项工作里实际**该做什么**的参考 — 如何开始、游戏循环、一般奖励以及工作的地点。
+Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers](/lebuhraya/teams)）。本页是你在每项工作里实际**该做什么**的参考 - 如何开始、游戏循环、一般奖励以及工作的地点。
 
 工作按组织它们的**机构**分类。
 
@@ -42,7 +42,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 **如何开始**：从主菜单加入 Taxi Driver 团队。从屏幕上的 TaxiGui 将 **Duty** 状态切换为开启。
 
 **你要做什么**：
-1. 值班时系统会分配一个接客点 — 驾车到正在等出租车的 NPC 处。
+1. 值班时系统会分配一个接客点 - 驾车到正在等出租车的 NPC 处。
 2. NPC 上车后，驾车到标示的放客点。
 3. 任务会在你停在放客点范围内（约 50 stud）时完成。
 4. 新任务会立即分配。
@@ -51,21 +51,21 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 - **XP** 按距离换算：约 **每 stud 0.11 到 0.13 XP**。4000 stud 的车费可获 440–520 XP。
 - BR payments 已计划在未来更新加入。
 
-**路线**：Pickup 和 dropoff 目前从城市中的 4 个 pickup points 和 4 个 dropoff points 抽取 — 在添加更多点位前，路线会逐渐重复。
+**路线**：Pickup 和 dropoff 目前从城市中的 4 个 pickup points 和 4 个 dropoff points 抽取 - 在添加更多点位前，路线会逐渐重复。
 
-**车辆**：任何车辆都可以，但想获得最佳收入就使用专用出租车 — Protan Saga Taxi、Perosatu Bezza Taxi、Protan Preve Taxi。更高等级的 Taxi Driver 会解锁更好的车型（以及更大的载客量）。
+**车辆**：任何车辆都可以，但想获得最佳收入就使用专用出租车 - Protan Saga Taxi、Perosatu Bezza Taxi、Protan Preve Taxi。更高等级的 Taxi Driver 会解锁更好的车型（以及更大的载客量）。
 
 ### Bus Driver
 
-**解锁**：免费 — 这是两个免费团队之一。
+**解锁**：免费 - 这是两个免费团队之一。
 
 **如何开始**：加入 Bus Driver 团队。使用 Bus Driver / bus vehicle spawner，并从 Bandar Seri Putra 的 **Depoh Bas** 开始一条路线。
 
 **你要做什么**：沿固定巴士路线行驶，在指定巴士站停车接送 NPC 乘客。完整路线会支付 XP；BR 报酬计划在未来更新加入。
 
-**车辆**：巴士 — Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Hiace Passenger/Transport 变种。
+**车辆**：巴士 - Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Hiace Passenger/Transport 变种。
 
-**巴士公司联属**：三个外部的 Roblox 组代表游戏世界中的巴士运营商 — **FirstGroup PLC**、**Fertua Transport** 和 **Hornbill Bus**。加入其中任一组即可在特定巴士上使用他们的涂装／品牌（纯粹角色扮演；这些组由社群营运）。
+**巴士公司联属**：三个外部的 Roblox 组代表游戏世界中的巴士运营商 - **FirstGroup PLC**、**Fertua Transport** 和 **Hornbill Bus**。加入其中任一组即可在特定巴士上使用他们的涂装／品牌（纯粹角色扮演；这些组由社群营运）。
 
 ### Logistics (Trucking)
 
@@ -78,9 +78,9 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 2. 将拖车挂到挂点，然后驾驶装载的卡车到送货目的地。
 3. 解挂并完成送货。
 
-**奖励**：送货过程中 **每公尺（~stud）0.09 XP**。5,000 stud 的运输可获约 450 XP — Trucking 是长途工作中的 XP 主力。
+**奖励**：送货过程中 **每公尺（~stud）0.09 XP**。5,000 stud 的运输可获约 450 XP - Trucking 是长途工作中的 XP 主力。
 
-**车辆**：重型货运卡车 — Rolvo FM、Rolvo FM RORO Truck、Sanica P310。
+**车辆**：重型货运卡车 - Rolvo FM、Rolvo FM RORO Truck、Sanica P310。
 
 ---
 
@@ -114,7 +114,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 - Post Office 最高等级：**20**
 - 每个 Post Office 等级所需 XP：`100 × level`（因此 Level 1 需 100 XP，Level 20 需 2,000 XP）
-- 每件包裹薪水（以 POS "Money" 保存）：`60 + (level × 10)` — Level 1 每单得 70，Level 20 每单得 260
+- 每件包裹薪水（以 POS "Money" 保存）：`60 + (level × 10)` - Level 1 每单得 70，Level 20 每单得 260
 
 当 BR 经济上线后，POS Money 预计会对接到你真实的 BR 余额。目前请把它当作个人进度计数器。
 
@@ -124,21 +124,21 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 ### Waste Disposal
 
-**解锁**：Level 25（较旧的游戏文本可能仍写 50 — level 25 才是当前的游戏内数值）。
+**解锁**：Level 25（较旧的游戏文本可能仍写 50 - level 25 才是当前的游戏内数值）。
 
 **如何开始**：加入 Waste Disposal 团队。阅读背包中的 **Waste Disposal Guide** tool。
 
 **你要做什么**：
 1. 将垃圾车驶到垃圾桶旁。地图上一共散布着 **114 个垃圾桶**。
 2. 与垃圾桶的 "trashProx" 提示互动以触发抬起动画。垃圾会累积在你的车上。
-3. 车装满后，驶到两座 **Stesen Insinerasi**（焚化站 — Bandar Seri Putra 和 Jersik）之一。
+3. 车装满后，驶到两座 **Stesen Insinerasi**（焚化站 - Bandar Seri Putra 和 Jersik）之一。
 4. 在焚化炉的区域丢弃即可结算。你会看到显示收入的 "Pay" 通知。
 
 **奖励**：在焚化炉处支付，与收集到的垃圾量成正比。路线越长、停点越多，报酬越高。
 
 **车辆**：来自 Waste Disposal 队伍车辆 spawner 的垃圾车。
 
-**关于报酬的说明**："Pay" 通知显示的是游戏内的金额，但 BR 经济尚未上线 — 实际入账到你账户的奖励是 XP。当经济上线后，该金额才会变成真正的 BR 入账。
+**关于报酬的说明**："Pay" 通知显示的是游戏内的金额，但 BR 经济尚未上线 - 实际入账到你账户的奖励是 XP。当经济上线后，该金额才会变成真正的 BR 入账。
 
 ---
 
@@ -157,7 +157,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **Tool**：Chainsaw、Spreaders、Fire（水喉）、Pager。
 
-**车辆**：消防车 — Merze Atego LFRT Bomba、Sanica P310 FRT Bomba、Sanica 94D LFRT Bomba、Sanica P360 Tanker、Masubi Triton 变种、Tayoti Hiace MTV EMRS。
+**车辆**：消防车 - Merze Atego LFRT Bomba、Sanica P310 FRT Bomba、Sanica 94D LFRT Bomba、Sanica P360 Tanker、Masubi Triton 变种、Tayoti Hiace MTV EMRS。
 
 **奖励**：每处理一起事件获得 XP。事件规模越大，报酬越高。
 
@@ -169,9 +169,9 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **你要做什么**：
 1. 响应并赶到事件地点（需在 12 stud 内才可互动）。
-2. **评估** 病人的伤势 — 别拖延。评估前等待超过 60 秒会带来生存惩罚。
+2. **评估** 病人的伤势 - 别拖延。评估前等待超过 60 秒会带来生存惩罚。
 3. 用你的 tool 按正确顺序**治疗**伤势（Splint、First Aid Kit、Bandage）。错误的治疗每次会使病人生存分数降低 3。
-4. **稳定化** — 成功稳定化可获 +15 生存。
+4. **稳定化** - 成功稳定化可获 +15 生存。
 5. 将病人放上担架，然后移入你的救护车（需在救护车 25 stud 内才能装载）。
 6. 送至 **Klinik Kesihatan Bandar Seri Putra** 或其他医院区域。
 
@@ -189,12 +189,12 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 | Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
 | Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
 
-每个治疗动作需要 **2-5 秒**。阅读病人的 dialogue clues — 带马来西亚风格的台词如 *"Aduh... I'm bleeding"*、*"My leg! I can't stand!"*、*"The fumes... help..."* 会提示问题。
+每个治疗动作需要 **2-5 秒**。阅读病人的 dialogue clues - 带马来西亚风格的台词如 *"Aduh... I'm bleeding"*、*"My leg! I can't stand!"*、*"The fumes... help..."* 会提示问题。
 
 **病人行为类型**（随机）：
-- **Cooperative (60%)** — 正常，会表达感谢
-- **Panicked (25%)** — 戏剧化（"I thought I was going to die!"）；仍会配合
-- **Aggressive (15%)** — 敌对（"Don't touch me!"、"Get away!"）；在你用第一个正确治疗让他们冷静前，survival 会 **2× 更快**下降
+- **Cooperative (60%)** - 正常，会表达感谢
+- **Panicked (25%)** - 戏剧化（"I thought I was going to die!"）；仍会配合
+- **Aggressive (15%)** - 敌对（"Don't touch me!"、"Get away!"）；在你用第一个正确治疗让他们冷静前，survival 会 **2× 更快**下降
 
 **完整流程**及完美案例 XP：
 
@@ -204,9 +204,9 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 | Injury treatment（全部正确） | 每个伤势 50-100 |
 | Stabilisation bonus | +50 |
 | Place on stretcher | +25 |
-| Load into ambulance | — |
+| Load into ambulance | - |
 | Admit to hospital | +100 |
-| Request evacuation（替代 — chopper） | +40 |
+| Request evacuation（替代 - chopper） | +40 |
 | Wrong treatment（惩罚） | -10（每次错误） |
 
 完美 Traumatic Brain Injury 案例 = 25 + 100 + 50 + 25 + 100 = **300 XP**（再加任何 multiplier，但固定 Assessment 奖励除外）。
@@ -227,7 +227,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **如何开始**：加入 KEMRonda 团队。
 
-**你要做什么**：高速公路辅助巡逻 — 协助抛锚的驾驶人、拖走受损车辆，并在事件周围设置交通管制（锥形筒、标志）。
+**你要做什么**：高速公路辅助巡逻 - 协助抛锚的驾驶人、拖走受损车辆，并在事件周围设置交通管制（锥形筒、标志）。
 
 **Tool**：Powertorch、Placeables SCone、Placeables PBSign、Advanced Tool Kit。
 
@@ -239,9 +239,9 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **如何开始**：加入 Polis Trafik 团队。
 
-**你要做什么**：交通执法 — 使用 **Radar Gun** 抓超速者、响应 999 事件、开罚单。
+**你要做什么**：交通执法 - 使用 **Radar Gun** 抓超速者、响应 999 事件、开罚单。
 
-**自动违规**：游戏会自动侦测两类交通违规 — **闯红灯**和**超速**。每次侦测到的违规会：
+**自动违规**：游戏会自动侦测两类交通违规 - **闯红灯**和**超速**。每次侦测到的违规会：
 - 在违规驾驶的屏幕上显示红色通知
 - 在他们的违规记录中添加一点
 - 触发一个 60 秒的 "passive lock"，阻挡某些互动
@@ -262,7 +262,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 **Tool**：与 Polis Trafik 相同。
 
-**车辆**：无标记变种 — Protan Persona Taxi（是的，真的）、Protan Saga Unmarked、Perosatu Bezza Unmarked、Protan X70 Unmarked、Masubi Lancer HPV Polis Tartan。
+**车辆**：无标记变种 - Protan Persona Taxi（是的，真的）、Protan Saga Unmarked、Perosatu Bezza Unmarked、Protan X70 Unmarked、Masubi Lancer HPV Polis Tartan。
 
 ---
 
@@ -274,7 +274,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 **如何开始**：加入 APJ 团队。
 
-**你要做什么**：Road Transport Agency — MYSverse 的道路交通管理机构。检查车辆、执行道路运输法规、与警方协调。
+**你要做什么**：Road Transport Agency - MYSverse 的道路交通管理机构。检查车辆、执行道路运输法规、与警方协调。
 
 **Tool**：Torchlight、Placeables SCone。
 
@@ -325,16 +325,16 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 ### School
 
-**如何开始**：前往 **SMK MYS II**（高速公路旁的中学 POI）。走进四个教室区之一 — Matematik、Sains、Sejarah、Geografi（数学、科学、历史、地理）。
+**如何开始**：前往 **SMK MYS II**（高速公路旁的中学 POI）。走进四个教室区之一 - Matematik、Sains、Sejarah、Geografi（数学、科学、历史、地理）。
 
-**你要做什么**：课程以 **2 分钟铃声周期** 运作 — 上下课时钟声会响起。在课堂中，会开始一场小测验。每道题都有计时 — 答得越快，加成越多。
+**你要做什么**：课程以 **2 分钟铃声周期** 运作 - 上下课时钟声会响起。在课堂中，会开始一场小测验。每道题都有计时 - 答得越快，加成越多。
 
 **每题正确答案的计分**：
 - 基础分：**10 分**
 - 时间奖励：若在 **2.5 秒** 内作答可获满额奖励；之后线性衰减至零
 - 每题正确答案 **250 XP**（适用倍率）
 
-学校也支撑每周挑战：**Quiz Master (Advanced)** — 每题在 2 秒内作答，连续答对 **28 道测验题** 可获 **1,000 XP**。较旧的基础版 "Quiz Master"（21 题 × 3 秒，奖励一辆 BMY M5 CS）目前已停用 — 因此只有进阶版小测在线。
+学校也支撑每周挑战：**Quiz Master (Advanced)** - 每题在 2 秒内作答，连续答对 **28 道测验题** 可获 **1,000 XP**。较旧的基础版 "Quiz Master"（21 题 × 3 秒，奖励一辆 BMY M5 CS）目前已停用 - 因此只有进阶版小测在线。
 
 **为什么值得去**：阅读时被动、低压力地获得 XP；学校是少数仍给经验值的 AFK 友好地点之一。班次之间去逛一逛很棒。
 
@@ -364,10 +364,10 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 | Red Snapper | 35 | 45 |
 | Tin Can | 20 | 0（垃圾） |
 | Boot | 20 | 0（垃圾） |
-| **Yifish** | **0.5** | **696**（jackpot — 约 87× Torpedo Scad！） |
-| meow | — | 独立 easter egg，非常稀有，独特奖励 |
+| **Yifish** | **0.5** | **696**（jackpot - 约 87× Torpedo Scad！） |
+| meow | - | 独立 easter egg，非常稀有，独特奖励 |
 
-**Yifish 是钓鱼人的 white whale。** 0.5% catch weight 让它比最常见鱼几乎稀有 100×，但单条 Yifish 出售可获得接近 700 XP — 超过两次 Food Delivery。若你有耐心，值得一钓。
+**Yifish 是钓鱼人的 white whale。** 0.5% catch weight 让它比最常见鱼几乎稀有 100×，但单条 Yifish 出售可获得接近 700 XP - 超过两次 Food Delivery。若你有耐心，值得一钓。
 
 **抛竿距离**：距离你站立的位置最远 80 stud。
 
@@ -378,7 +378,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 **如何开始**：走进食品店或 KeluargaMart 的收银台。
 
 **你要做什么**：
-1. 柜台会 spawn 一位 NPC 顾客。顾客的 avatar 是**从你的 Roblox 好友列表中随机挑选**的 — 所以如果你的好朋友也玩 Lebuhraya，他们可能以你下一位顾客的身份出现。（需要你至少有一位好友才能玩。）
+1. 柜台会 spawn 一位 NPC 顾客。顾客的 avatar 是**从你的 Roblox 好友列表中随机挑选**的 - 所以如果你的好朋友也玩 Lebuhraya，他们可能以你下一位顾客的身份出现。（需要你至少有一位好友才能玩。）
 2. 顾客会从可选菜单中点 1–4 样食品。
 3. 你有 **15–20 秒** 选对物品并完成订单。
 4. 在计时器结束前为他们服务，否则他们会生气离开（没有奖励）。
@@ -396,8 +396,8 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 **如何开始**：打开 **LBHRY_RaceMenu**（topbar）。选择一条赛道。
 
 **你要做什么**：
-- **Time Trial** — 独自与时钟竞速。创造赛道纪录。
-- **PvP Lobby** — 建立或加入一个 lobby，等玩家载入，开始比赛。
+- **Time Trial** - 独自与时钟竞速。创造赛道纪录。
+- **PvP Lobby** - 建立或加入一个 lobby，等玩家载入，开始比赛。
 
 **奖励如何计算**：XP = `baseXP × difficultyMul × placementMul × (PB ? 1.25 : 1.0)`；BR = `baseRinggit × difficultyMul × placementMul + (PB ? 50 : 0)`。被标记的场次（anti-cheat）只获得 10% XP，BR 为零。
 
@@ -410,23 +410,23 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 | DNF | 0.15×（仅 XP，无 BR） |
 | Time Trial（单人） | 1.0× |
 
-难度倍率：**Easy 1.0×、Medium 1.5×、Hard 2.0×** — 所以同样的名次在 Hard 赛道的报酬会翻倍。
+难度倍率：**Easy 1.0×、Medium 1.5×、Hard 2.0×** - 所以同样的名次在 Hard 赛道的报酬会翻倍。
 
 Personal Best 额外获得 **+25% XP** 以及 **固定 +50 BR 奖励**。
 
-**赛道**：目前游戏仅有一条活跃赛道 — **Test Sprint** — 一个 3 检查点、1 圈的简短练习回路，难度为 Easy，任何等级的 Civ 级车辆皆可参加。基础报酬：1,500 XP / 300 BR。在 PvP 中取得新的第 1 名 PB 可获 **3,750 XP 和 650 BR**；单人 Time Trial 的 PB 可获 **1,875 XP 和 350 BR**。Test Sprint 支持最多 6 名赛车手，赛前 lobby 30 秒、起跑倒数 5 秒、首位抵达终点后 60 秒完赛超时。
+**赛道**：目前游戏仅有一条活跃赛道 - **Test Sprint** - 一个 3 检查点、1 圈的简短练习回路，难度为 Easy，任何等级的 Civ 级车辆皆可参加。基础报酬：1,500 XP / 300 BR。在 PvP 中取得新的第 1 名 PB 可获 **3,750 XP 和 650 BR**；单人 Time Trial 的 PB 可获 **1,875 XP 和 350 BR**。Test Sprint 支持最多 6 名赛车手，赛前 lobby 30 秒、起跑倒数 5 秒、首位抵达终点后 60 秒完赛超时。
 
 "Jersik Race Track" POI 就是比赛在游戏世界中进行的地点。
 
-**提醒**：比赛奖励会跳过全局 XP 倍率叠加（它们已预先缩放） — 所以 2× Double XP 周末或 XP Boost gamepass 不会叠加在比赛报酬之上。其他 XP 路径（驾驶、工作）仍享有这些倍率。
+**提醒**：比赛奖励会跳过全局 XP 倍率叠加（它们已预先缩放） - 所以 2× Double XP 周末或 XP Boost gamepass 不会叠加在比赛报酬之上。其他 XP 路径（驾驶、工作）仍享有这些倍率。
 
-随着游戏更新，会有更多赛道 — 比赛系统支持时间徽章（例如 sub-30s、sub-20s 勋章），用于设计师配置的赛道。
+随着游戏更新，会有更多赛道 - 比赛系统支持时间徽章（例如 sub-30s、sub-20s 勋章），用于设计师配置的赛道。
 
 ### Convoy
 
 **如何开始**：在 Main Menu 或 convoy 图标中建立一个车队（你成为队长），或浏览 500 stud 范围内的公开车队并申请加入。
 
-**你要做什么**：最多 6 人一同驾驶在同一个车队中。彼此保持 200 stud 内的距离以维持加成激活。你有越多好友和同团队成员，XP 倍率就越高 — 最高可在基础 XP 叠加之上再 +50%。
+**你要做什么**：最多 6 人一同驾驶在同一个车队中。彼此保持 200 stud 内的距离以维持加成激活。你有越多好友和同团队成员，XP 倍率就越高 - 最高可在基础 XP 叠加之上再 +50%。
 
 完整说明请参阅 [Social Features](/lebuhraya/social-features)。
 
@@ -446,7 +446,7 @@ Personal Best 额外获得 **+25% XP** 以及 **固定 +50 BR 奖励**。
 
 - 事件类型：**车祸**、**伤员**。
 - 最多可同时有 **10 件事件** 开启。
-- 已解决的事件至少要 **30 秒** 后才发放奖励 — 这是最低响应窗口，目的是防止瞬间结案农奖。
+- 已解决的事件至少要 **30 秒** 后才发放奖励 - 这是最低响应窗口，目的是防止瞬间结案农奖。
 - 若事件被取消或你更换团队，你的指派将被移除。
 
 ---
@@ -455,10 +455,10 @@ Personal Best 额外获得 **+25% XP** 以及 **固定 +50 BR 奖励**。
 
 - **Level 10**：Food Delivery 是经典的入门工作。每单 250 XP，路线短，任何车辆都能跑。
 - **加入了 MYSverse 组？** Fishing 很轻松，节奏自定。
-- **想要动作？** Bomba 或 Polis Trafik（需要 gamepass）— 大量 999 事件、社交角色扮演。
+- **想要动作？** Bomba 或 Polis Trafik（需要 gamepass） - 大量 999 事件、社交角色扮演。
 - **想开几个小时车？** Logistics 或 Taxi（Taxi 需要 gamepass，Logistics 需要 Level 75 或 Season 1 Pass）。
 
 ## 下一步
 
-- [Teams and Careers](/lebuhraya/teams) — 职级头衔和 tier 进阶
-- [World and Map](/lebuhraya/map) — 每项工作的建筑位置
+- [Teams and Careers](/lebuhraya/teams) - 职级头衔和 tier 进阶
+- [World and Map](/lebuhraya/map) - 每项工作的建筑位置

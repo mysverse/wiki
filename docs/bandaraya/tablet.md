@@ -1,6 +1,6 @@
 ---
 title: "Tablet"
-description: "The team-gated tablet tool in Bandaraya — MDT, MyEmergency, MyTow, KKM Logger, and other apps."
+description: "The team-gated tablet tool in Bandaraya - MDT, MyEmergency, MyTow, KKM Logger, and other apps."
 ---
 
 # Tablet
@@ -14,7 +14,7 @@ The **tablet** is a team-gated tool. Apps appear based on your team and role.
 - Tablets show alerts, job tools, vehicle tools, and emergency apps.
 - The phone is universal; the tablet is role-based.
 
-## Using the Tablet
+## Using the tablet
 
 1. Open your backpack.
 2. Equip **Tablet**.
@@ -25,7 +25,7 @@ If the tablet does not appear, your team may not have tablet access.
 
 ## Apps
 
-### MDT - Mobile Data Terminal
+### MDT - mobile data terminal
 
 POLIS uses MDT for:
 
@@ -40,7 +40,7 @@ MDT is currently for POLIS and selected staff roles. KPTD and Polis Bantuan may 
 
 Emergency coordination app for response teams. It helps teams receive and coordinate incident calls.
 
-### Vehicle Management
+### Vehicle management
 
 Vehicle-related tools such as plate lookup, registration checks, and vehicle tracking for teams that receive the app.
 
@@ -48,15 +48,15 @@ Vehicle-related tools such as plate lookup, registration checks, and vehicle tra
 
 Tow app for towing work. POLIS and Towing Services can access it in the current setup.
 
-### KKM Logger
+### KKM logger
 
 Medical logging app for KKM.
 
-### Staff Tools
+### Staff tools
 
 Staff-only tools may appear for moderation or testing roles.
 
-## Current App Access
+## Current app access
 
 | Team | Apps |
 | --- | --- |
@@ -83,7 +83,7 @@ Tablet alerts can include emergency calls, fire incidents, BOLO updates, and app
 - Plate lookups and tow tools should be used only for valid roleplay reasons.
 - Use the phone for MyPay, e-hailing, 999, and CAG eWallet if those are all you need.
 
-## See Also
+## See also
 
 - [Emergency Services](/bandaraya/emergency-services)
 - [Arrest & Law](/bandaraya/arrest-and-law)

@@ -7,7 +7,7 @@ description: "Cars, boats, ambulances, spawners, and customisation in Sumaya."
 
 Sumaya has a large vehicle catalogue: civilian cars, Classic Car Pack cars, fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalogue with prices, and how to customise and care for them.
 
-## How to Spawn a Vehicle
+## How to spawn a vehicle
 
 Look for **vehicle spawner kiosks** around town. They show up as interactive prompts on street corners, dealerships, and at stations.
 
@@ -18,7 +18,7 @@ Look for **vehicle spawner kiosks** around town. They show up as interactive pro
    - **Rent**: pay a smaller one-time cost, the vehicle disappears when you respawn, log out, or spawn a different one.
    - **Buy**: pay the full price, the vehicle is yours permanently (and persists across sessions).
 
-### What If a Vehicle Is Greyed Out?
+### What if a vehicle is greyed out?
 
 If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of:
 
@@ -29,18 +29,18 @@ If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of
 
 Civilian vehicle spawners show only civilian cars, team spawners show only team vehicles, fishing-boat spawners show only trawlers.
 
-## Civilian Cars
+## Civilian cars
 
 All standard civilian cars are available at **player level 1**. Only two are free; the rest have rent and buy prices.
 
-### Free Starter Cars
+### Free starter cars
 
 These spawn without rent or buy cost:
 
 - Perosatu Axia
 - Protan Wira
 
-### Paid Standard Civilian Cars
+### Paid standard civilian cars
 
 | Vehicle | Rent | Buy |
 |---------|-----:|----:|
@@ -63,11 +63,11 @@ These spawn without rent or buy cost:
 
 The **Protan X70** is currently the most expensive standard civilian car.
 
-### Classic Car Pack
+### Classic car pack
 
 These cars show at the civilian dealer but require the Classic Car Pack gamepass. Non-owners see them locked with a gamepass prompt.
 
-## Vehicle Packs in the Shop
+## Vehicle packs in the shop
 
 The Shop now previews upcoming vehicle packs:
 
@@ -87,7 +87,7 @@ These cards currently show **Coming Soon** unless a final Roblox pass ID has bee
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
 
-## Fishing Trawlers
+## Fishing trawlers
 
 Trawlers spawn at fishing-boat spawners at docks, and only appear if you're clocked in to the **Fishing Sector**. See [Fishing](/sumaya/jobs-fishing).
 
@@ -99,7 +99,7 @@ Trawlers spawn at fishing-boat spawners at docks, and only appear if you're cloc
 
 Higher tiers carry more fish.
 
-## Police Vehicles (POLIS Only)
+## Police vehicles (POLIS only)
 
 Available only if you're on the POLIS team. Gated by a mix of **player level** and **sector level** (POLIS sector).
 
@@ -112,7 +112,7 @@ Available only if you're on the POLIS team. Gated by a mix of **player level** a
 
 The Wira is your starter patrol car. The Civic is the top-tier.
 
-## Bomba Vehicles (BOMBA Only)
+## Bomba vehicles (BOMBA only)
 
 Available only on the BOMBA team. Gated by Bomba sector level.
 
@@ -126,7 +126,7 @@ Available only on the BOMBA team. Gated by Bomba sector level.
 
 LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. The P360 Tanker is the heavy-utility apex Bomba vehicle, carrying its own water supply.
 
-## Ambulances (Kesihatan Only)
+## Ambulances (Kesihatan only)
 
 Available only on the Kesihatan team. Gated by Kesihatan sector level.
 
@@ -138,7 +138,7 @@ Available only on the Kesihatan team. Gated by Kesihatan sector level.
 
 "KKN" stands for **Kementerian Kesihatan Nasional** (National Ministry of Health). Each ambulance has cargo room for the stretcher.
 
-## Emergency Sirens (ELS)
+## Emergency sirens (ELS)
 
 Polis, Bomba, and Kesihatan vehicles all have an **Emergency Lighting System (ELS)**. While driving an emergency vehicle with the siren on:
 
@@ -164,7 +164,7 @@ Team vehicles usually are not customisable.
 
 Fuel is effectively **unlimited** in Sumaya right now - you don't need to worry about running out or refueling at gas stations. The fuel gauge on boats is tracked per-shift (for fishing trawlers), but cars run without fuel limits.
 
-## Collision Toggle
+## Collision toggle
 
 From your **Phone > Collision** app, you can toggle vehicle collisions on or off. With collisions off:
 
@@ -174,20 +174,20 @@ From your **Phone > Collision** app, you can toggle vehicle collisions on or off
 
 See [Phone and UI](/sumaya/phone) for more on the Collision app.
 
-## Camera When Entering a Vehicle
+## Camera when entering a vehicle
 
 When you sit in or leave a vehicle, the camera now eases into the driving view instead of snapping suddenly. The game adjusts the framing for desktop, tablet, and mobile controls automatically, so you do not need to change a setting.
 
 If you are using another camera mode, such as the phone Cinematic app, that mode keeps priority until you close it.
 
-## Ownership and Persistence
+## Ownership and persistence
 
 - **Rented vehicles** disappear when you respawn, log out, or spawn a different one.
 - **Bought vehicles** stay yours permanently. They show up in your profile's Owned Vehicles list.
 - If you buy a vehicle and later want to sell it, check the spawner - some vehicles may be sellable for partial refund (this varies).
 - If your owned vehicle is **carjacked** by someone else, it's marked stolen in the plate database, and Polis can recover it.
 
-## Plates and Registration
+## Plates and registration
 
 Every vehicle has a **number plate**. When you spawn a vehicle:
 
@@ -204,7 +204,7 @@ Every vehicle has a **number plate**. When you spawn a vehicle:
 - **Phasing mode for parking.** If someone's blocking you in, enable collision toggle to drive through them.
 - **Save for a Tier 2 or 3 trawler.** If you're committing to fishing, the bigger boats pay for themselves quickly.
 
-## What Next?
+## What next?
 
 - [Crime and Law](/sumaya/crime-and-law) for how carjacking works in detail.
 - [Polis](/sumaya/polis) for the police vehicle catalogue.

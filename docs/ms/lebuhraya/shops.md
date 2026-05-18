@@ -2,7 +2,7 @@
 title: Kedai
 description: 'Kedai makanan, snek, dan utiliti di seluruh Lebuhraya.'
 lang: ms
-translated_from_hash: "15444183"
+translated_from_hash: "f8e1b3fe"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -10,7 +10,7 @@ needs_review: true
 
 Lebuhraya mempunyai **12 buah kedai** yang bertaburan di seluruh peta. Kebanyakannya menjual barangan makanan yang boleh anda beli sebagai tool (makan untuk kesan permainan kecil atau guna untuk roleplay). Beberapa buah pula menjual peralatan khusus seperti jerrycan dan tech tools. Halaman ini menyenaraikan apa yang dijual oleh setiap kedai dan menunjukkan di mana anda boleh menemuinya.
 
-> **Kedai pada masa ini adalah percuma.** Penetapan harga barangan dilumpuhkan buat sementara waktu — berjalan ke kedai dan memilih sesuatu barang akan memberikannya kepada anda tanpa memotong BR. Ini mungkin berubah dalam kemas kini akan datang. Jerrycan Shop menguatkuasakan **had 2 jerrycan setiap pemain** dan **had 1 toolkit setiap pemain**; kedai-kedai lain umumnya tidak mengehadkan pembelian.
+> **Kedai pada masa ini adalah percuma.** Penetapan harga barangan dilumpuhkan buat sementara waktu - berjalan ke kedai dan memilih sesuatu barang akan memberikannya kepada anda tanpa memotong BR. Ini mungkin berubah dalam kemas kini akan datang. Jerrycan Shop menguatkuasakan **had 2 jerrycan setiap pemain** dan **had 1 toolkit setiap pemain**; kedai-kedai lain umumnya tidak mengehadkan pembelian.
 
 ## Kedai makanan
 
@@ -30,7 +30,7 @@ Masakan Malaysia dari pantai timur. Jangkakan barangan dari tradisi Kelantan dan
 
 ### Selera Kak Rinasmol
 
-Masakan ala rumah oleh "Kak Rinasmol" — satu lagi pilihan makan tengah hari berperisa tempatan.
+Masakan ala rumah oleh "Kak Rinasmol" - satu lagi pilihan makan tengah hari berperisa tempatan.
 
 ### Pingu Pepper Lunch
 
@@ -42,7 +42,7 @@ Kentang goreng dan sajian sampingan ala makanan segera.
 
 ### Encik Yang's Epic Snack
 
-Snek — manis dan masin, sesuai untuk dicapai semasa dalam perjalanan.
+Snek - manis dan masin, sesuai untuk dicapai semasa dalam perjalanan.
 
 ### Max Beef
 
@@ -79,7 +79,7 @@ Tempat tumpuan untuk memastikan kereta anda berisi minyak apabila anda tidak dap
 
 **Menjual**:
 
-- **Jerrycan** (had 2 setiap pemain) — kapasiti 10 L
+- **Jerrycan** (had 2 setiap pemain) - kapasiti 10 L
 - **Toolkit** (had 1 setiap pemain)
 
 ## KeluargaMart
@@ -95,7 +95,7 @@ Pengalaman pasar raya bersaiz penuh. Anda boleh berjalan di lorong-lorong, menga
 - **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
 - **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
 
-Seperti kedai lain, KeluargaMart kini percuma — ambil apa yang anda mahu. Pemain pasukan undang-undang (Polis, APJ) disekat daripada interaksi register untuk mengelakkan kelakuan tidak profesional semasa bertugas.
+Seperti kedai lain, KeluargaMart kini percuma - ambil apa yang anda mahu. Pemain pasukan undang-undang (Polis, APJ) disekat daripada interaksi register untuk mengelakkan kelakuan tidak profesional semasa bertugas.
 
 ## Interaksi Food Delivery
 
@@ -106,7 +106,7 @@ Lihat [Pekerjaan](/lebuhraya/jobs) untuk aliran penghantaran.
 ## Mekanik pembelian
 
 - Berjalan ke arah NPC kedai atau kaunter.
-- Sebuah ProximityPrompt akan muncul — berinteraksi untuk membuka menu kedai.
+- Sebuah ProximityPrompt akan muncul - berinteraksi untuk membuka menu kedai.
 - Pilih barang itu. Dalam build semasa, tiada BR ditolak; item diberikan secara percuma.
 - Barang itu akan muncul dalam inventori anda sebagai tool. Lengkapkannya untuk diguna / dimakan / dipamerkan.
 
@@ -116,6 +116,6 @@ Kedai-kedai ini tersebar di Bandar Seri Putra dan Jersik. Gunakan GPS Phone / si
 
 ## Langkah seterusnya
 
-- [Dunia dan Peta](/lebuhraya/map) — Di mana setiap kedai terletak secara fizikal
-- [Pekerjaan → Food Delivery](/lebuhraya/jobs#food-delivery) — Memperoleh XP dari kedai-kedai ini
-- [Perumahan](/lebuhraya/housing) — Perabot, yang anda perlukan untuk benar-benar menggunakan barangan dapur anda
+- [Dunia dan Peta](/lebuhraya/map) - Di mana setiap kedai terletak secara fizikal
+- [Pekerjaan → Food Delivery](/lebuhraya/jobs#food-delivery) - Memperoleh XP dari kedai-kedai ini
+- [Perumahan](/lebuhraya/housing) - Perabot, yang anda perlukan untuk benar-benar menggunakan barangan dapur anda

@@ -1,8 +1,8 @@
 ---
 title: மீன்பிடி
-description: 'Sumaya-வில் மீன்பிடி — இடங்கள், மீன் வகைகள், விலைகள், மற்றும் முன்னேற்றம்.'
+description: 'Sumaya-வில் மீன்பிடி - இடங்கள், மீன் வகைகள், விலைகள், மற்றும் முன்னேற்றம்.'
 lang: ta
-translated_from_hash: "c128b604"
+translated_from_hash: "f5a12209"
 translated_on: 2026-05-18
 needs_review: true
 ---

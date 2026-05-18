@@ -3,17 +3,17 @@ title: "Crime and Law"
 description: "Carjacking, pickpocketing, wanted stars, and jail in Sumaya."
 ---
 
-# Crime and Law
+# Crime and law
 
 Sumaya lets you play the criminal side if you want. This page covers the three main crimes available to players, how the offence and wanted-star system works, and what happens if you get caught.
 
 **Heads up:** Emergency-service players (POLIS, BOMBA, Kesihatan) are auto-demoted when they cross into 1-star wanted. The system removes your emergency vehicle and switches you to Malaysians if you qualify, otherwise Visitors. On-duty officers who hold crime tools also drop out of passive mode automatically, and the Polis team cannot use passive at all. Switch to Visitors or Malaysians first if you want to play criminal.
 
-## The Offence System
+## The offence system
 
 Every crime you commit adds **offence points**. The more points, the more **wanted stars** you get, which affects how police respond to you and how long you'll sit in jail if arrested.
 
-### Wanted Star Thresholds
+### Wanted star thresholds
 
 | Offence points | Wanted stars |
 |----------------|--------------|
@@ -24,11 +24,11 @@ Every crime you commit adds **offence points**. The more points, the more **want
 | 80-119 | 4 stars |
 | 120+ | 5 stars |
 
-### Wanted Decay
+### Wanted decay
 
 If you manage to lay low (no new offences) for **5 minutes straight**, your wanted status fully resets. A short decay timer means committing one big crime and hiding can be enough to avoid a chase.
 
-## Crimes You Can Commit
+## Crimes you can commit
 
 ### Carjacking
 
@@ -79,7 +79,7 @@ Steal Ringgit directly from another player's wallet.
 
 **Offence:** +20 points.
 
-#### NPC Pickpocketing
+#### NPC pickpocketing
 
 You can also pickpocket **civilian NPCs** that walk around the map:
 
@@ -89,7 +89,7 @@ You can also pickpocket **civilian NPCs** that walk around the map:
 
 NPC pickpocketing also costs offence points, but NPCs can't chase or report you, so it's a lower-risk way to farm.
 
-### Animal Trafficking
+### Animal trafficking
 
 Smuggle illegal wildlife across Sumaya for a cash payout.
 
@@ -116,7 +116,7 @@ The animal you get is random.
 
 **Offence:** +50 points - that's 1 star in a single action. Keep committing more and you'll ramp fast.
 
-### Other Offences
+### Other offences
 
 A few other actions add offence points even if they're not really "crime sprees":
 
@@ -132,15 +132,15 @@ A few other actions add offence points even if they're not really "crime sprees"
 You **can't be cited** for speeding or crashes if:
 
 - You're in an **emergency vehicle** (Polis, Bomba, Kesihatan) with the **siren active**. This is how on-duty responders avoid penalty on their way to a call.
-- You're currently in **passive mode** when you crash. Passive drivers don't accumulate crash offence points. (You'll still take injury damage if the injury system is on, though — passive protects from PvP and offence tickets, not crash physics.)
+- You're currently in **passive mode** when you crash. Passive drivers don't accumulate crash offence points. (You'll still take injury damage if the injury system is on, though - passive protects from PvP and offence tickets, not crash physics.)
 
 Outside of that, everyone is fair game.
 
-## Getting Arrested
+## Getting arrested
 
 If a POLIS player successfully uses handcuffs on you while you're wanted, you're **arrested** and sent to jail.
 
-### Jail Duration
+### Jail duration
 
 | Wanted stars at arrest | Jail time |
 |------------------------|-----------|
@@ -150,7 +150,7 @@ If a POLIS player successfully uses handcuffs on you while you're wanted, you're
 | 4 | 3 minutes |
 | 5 | 5 minutes |
 
-### While in Jail
+### While in jail
 
 - A jail HUD shows your remaining time.
 - You can't switch teams.
@@ -170,7 +170,7 @@ Instead of running from the cops, you can walk up to a **surrender prompt** (usu
 
 Passive lock means you can't toggle passive mode for that duration after release - so the cops still have a window to catch you if you restart.
 
-### Leaving Mid-Offence
+### Leaving mid-offence
 
 If you log out while wanted, you'll serve **more** jail time on your next session:
 
@@ -184,16 +184,16 @@ If you log out while wanted, you'll serve **more** jail time on your next sessio
 
 (LTAA = "Leave To Avoid Arrest".) Quitting doesn't save you.
 
-### Combat Timer (Engagement Window)
+### Combat timer (engagement window)
 
 The moment a POLIS officer **tases** you or **detains** you, you enter a **30-second combat window**. While the timer is ticking:
 
-- A red **"ENGAGED — CANNOT RESET"** banner appears at the top of your screen with the seconds counting down.
+- A red **"ENGAGED - CANNOT RESET"** banner appears at the top of your screen with the seconds counting down.
 - The **Reset** button is locked. Tapping Reset shows a "Cannot Reset" toast and does nothing.
 - The **main menu / team-switch** is locked, even if you're below the wanted-star threshold for the regular `Wanted` lock.
 - Each new tase/detain **refreshes** the timer (does not stack).
 
-**Dying or leaving during this window** routes you to a **combat-evasion jail** that's *double* the regular LTAA duration — strictly worse than serving out a clean arrest:
+**Dying or leaving during this window** routes you to a **combat-evasion jail** that's *double* the regular LTAA duration - strictly worse than serving out a clean arrest:
 
 | Stars | Combat-evasion jail | (vs. regular LTAA) |
 |-------|---------------------|--------------------|
@@ -207,7 +207,7 @@ If you were detained at the time of death/leave, an additional **+30 seconds** i
 
 **Translation:** if a cop has tased you, the cleanest play is to surrender or take the arrest. Resetting / Alt-F4 will cost you more time, not less.
 
-### Reset Cooldown (Out of Combat)
+### Reset cooldown (out of combat)
 
 Even when you're *not* in combat, pressing the Reset button no longer instantly kills you. A 12-second cooldown modal appears with a Cancel button, then your character is reloaded cleanly (no death animation, no dropped tools, no respawn screen). Useful for recovering from a stuck character without losing held items. The cooldown is auto-cancelled if you get tased, arrested, or leave the game mid-countdown.
 
@@ -220,7 +220,7 @@ Even when you're *not* in combat, pressing the Reset button no longer instantly 
 - **Animal trafficking is 50 points per run.** One run = 1 star minimum. Two runs without decay = 3 stars. Don't get greedy.
 - **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimizes downtime.
 
-## What Next?
+## What next?
 
 - [Polis](/sumaya/polis) to see the other side.
 - [Phone and UI](/sumaya/phone) for the Passive Mode toggle and the MDT app.

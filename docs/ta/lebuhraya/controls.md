@@ -1,16 +1,16 @@
 ---
 title: கட்டுப்பாடுகள்
 description: >-
-  Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு — விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR
+  Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு - விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR
   உள்ளீடுகள்.
 lang: ta
-translated_from_hash: "9831158a"
+translated_from_hash: "d8b4a850"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # கட்டுப்பாடுகள்
 
-லெபுஹ்ராயா விசைப்பலகை, கேம்பேட், தொடுதல் (கைபேசி/டேப்லெட்) மற்றும் VR-ஐ ஆதரிக்கிறது. விளையாட்டு உங்கள் தளத்தை தானாகவே கண்டறிந்து, விளையாட்டுக்குள் சரியான குறிப்புகளை காட்டுகிறது — திரையில் ஏதாவது கட்டுப்பாடு காட்டப்பட்டால், அதையே பயன்படுத்துங்கள். கீழே உள்ள குறிப்பு பொதுவான விசை இணைப்புகள் எப்படி இருக்கும் என்பதைக் காட்டுகிறது.
+லெபுஹ்ராயா விசைப்பலகை, கேம்பேட், தொடுதல் (கைபேசி/டேப்லெட்) மற்றும் VR-ஐ ஆதரிக்கிறது. விளையாட்டு உங்கள் தளத்தை தானாகவே கண்டறிந்து, விளையாட்டுக்குள் சரியான குறிப்புகளை காட்டுகிறது - திரையில் ஏதாவது கட்டுப்பாடு காட்டப்பட்டால், அதையே பயன்படுத்துங்கள். கீழே உள்ள குறிப்பு பொதுவான விசை இணைப்புகள் எப்படி இருக்கும் என்பதைக் காட்டுகிறது.
 
 ## வாகனங்களில் ஏறுதல் மற்றும் இறங்குதல்
 
@@ -80,17 +80,17 @@ needs_review: true
 
 முதன்மை மெனுவை திறந்து அணுகலாம்:
 
-- **Home** — அறிவிப்புகள் மற்றும் மேலோட்டம்
-- **Teams** — உங்கள் அணியைத் தேர்ந்தெடு / அணிகளை மாற்று
-- **Shop** — விளையாட்டுக்குள் கொள்முதல் (gamepass prompts, tokens)
-- **Activity** — missions, challenges, season pass progress
-- **More** — கீழ்க்கண்டவற்றிற்கான card grid:
-  - **Career** — உங்கள் தொழில் rank-கள் மற்றும் agency progress
-  - **Jobs** — ஒவ்வொரு branch-க்கான tier bars மற்றும் rewards
-  - **Tokens** — உங்கள் active மற்றும் stored tokens / boosts
-  - **Credits** — development team மற்றும் contributors
-  - **Races** — time trial மற்றும் PvP race menu
-  - **Help** — tutorials கிடைக்கும் போது
+- **Home** - அறிவிப்புகள் மற்றும் மேலோட்டம்
+- **Teams** - உங்கள் அணியைத் தேர்ந்தெடு / அணிகளை மாற்று
+- **Shop** - விளையாட்டுக்குள் கொள்முதல் (gamepass prompts, tokens)
+- **Activity** - missions, challenges, season pass progress
+- **More** - கீழ்க்கண்டவற்றிற்கான card grid:
+  - **Career** - உங்கள் தொழில் rank-கள் மற்றும் agency progress
+  - **Jobs** - ஒவ்வொரு branch-க்கான tier bars மற்றும் rewards
+  - **Tokens** - உங்கள் active மற்றும் stored tokens / boosts
+  - **Credits** - development team மற்றும் contributors
+  - **Races** - time trial மற்றும் PvP race menu
+  - **Help** - tutorials கிடைக்கும் போது
 
 Career, tokens, credits, மற்றும் help pages இப்போது **More**-க்குள் சேர்க்கப்பட்டுள்ளன.
 
@@ -98,23 +98,23 @@ Career, tokens, credits, மற்றும் help pages இப்போது 
 
 Settings panel-ஐ (Main Menu-வில் cogwheel) திறந்து இத்தகைய toggles-ஐ பயன்படுத்தலாம்:
 
-- **Crash System** — collisions உங்கள் காரை உண்மையாக damage செய்ய இதை on செய்யவும்; பதிலாக அது active இருக்கும் போது **+15% XP** கிடைக்கும். Server-ல் Kesihatan team player இருந்தால் மட்டுமே கிடைக்கும் (FAQ பார்க்கவும்).
-- **Overhead rank** — உங்கள் character மேல் மிதக்கும் team rank/title-ஐ show அல்லது hide செய்யவும்.
-- **First person view** — camera mode மாற்றவும். Forward-slash (`/`) game-இல் view-ஐ toggle செய்கிறது.
-- **Vehicle Spawner: NEW** — புதுப்பிக்கப்பட்ட vehicle spawner UI-க்கு opt in செய்யவும்.
-- **Parking Brake** key — handbrake bind-ஐ remap செய்யவும்.
-- **Shift + C** — முழு HUD-ஐ toggle செய்யவும் (screenshots-க்கு நல்லது).
-- Reset / Change / Remove — repositioning மற்றும் customisation shortcuts.
+- **Crash System** - collisions உங்கள் காரை உண்மையாக damage செய்ய இதை on செய்யவும்; பதிலாக அது active இருக்கும் போது **+15% XP** கிடைக்கும். Server-ல் Kesihatan team player இருந்தால் மட்டுமே கிடைக்கும் (FAQ பார்க்கவும்).
+- **Overhead rank** - உங்கள் character மேல் மிதக்கும் team rank/title-ஐ show அல்லது hide செய்யவும்.
+- **First person view** - camera mode மாற்றவும். Forward-slash (`/`) game-இல் view-ஐ toggle செய்கிறது.
+- **Vehicle Spawner: NEW** - புதுப்பிக்கப்பட்ட vehicle spawner UI-க்கு opt in செய்யவும்.
+- **Parking Brake** key - handbrake bind-ஐ remap செய்யவும்.
+- **Shift + C** - முழு HUD-ஐ toggle செய்யவும் (screenshots-க்கு நல்லது).
+- Reset / Change / Remove - repositioning மற்றும் customisation shortcuts.
 
 ### Top HUD indicators
 
-- **ActiveTokensHUD** — active tokens அனைத்தையும் (2× XP Boost, Season Pass Boost, Team Access Pass) `M:SS` format-ல் மீதமுள்ள நேரத்துடன் காட்டும். Tokens expired ஆனால் auto-hide ஆகும்.
-- **StatusGui** — speedometer, fuel, GPS heading, player vitals.
-- **Leaderboard** — online players, அவர்களின் team, level, மற்றும் studs driven பார்க்க tap செய்யவும். அதே panel-ல் ஒரு row-ஐ tap செய்து friend request அனுப்பவோ block செய்யவோ முடியும்.
+- **ActiveTokensHUD** - active tokens அனைத்தையும் (2× XP Boost, Season Pass Boost, Team Access Pass) `M:SS` format-ல் மீதமுள்ள நேரத்துடன் காட்டும். Tokens expired ஆனால் auto-hide ஆகும்.
+- **StatusGui** - speedometer, fuel, GPS heading, player vitals.
+- **Leaderboard** - online players, அவர்களின் team, level, மற்றும் studs driven பார்க்க tap செய்யவும். அதே panel-ல் ஒரு row-ஐ tap செய்து friend request அனுப்பவோ block செய்யவோ முடியும்.
 
 ## கருவிகள் (வேலை உபகரணங்கள்)
 
-நீங்கள் ஒரு கருவியை — கோடாரி, ரேடார் துப்பாக்கி, டேசர், பேஜர், தீயணைப்பு குழாய் — பிடித்திருக்கும்போது, கட்டுப்பாடுகள் அந்தக் கருவிக்குக் குறிப்பிட்டதாக இருக்கும். திரையில் காட்டப்படும் குறிப்புகளைப் பயன்படுத்துங்கள் அல்லது அதைப் பயன்படுத்தும் குழுவிற்கான வேலை பக்கத்தைப் பார்க்கவும்.
+நீங்கள் ஒரு கருவியை - கோடாரி, ரேடார் துப்பாக்கி, டேசர், பேஜர், தீயணைப்பு குழாய் - பிடித்திருக்கும்போது, கட்டுப்பாடுகள் அந்தக் கருவிக்குக் குறிப்பிட்டதாக இருக்கும். திரையில் காட்டப்படும் குறிப்புகளைப் பயன்படுத்துங்கள் அல்லது அதைப் பயன்படுத்தும் குழுவிற்கான வேலை பக்கத்தைப் பார்க்கவும்.
 
 ## கைபேசி குறிப்புகள்
 
@@ -132,11 +132,11 @@ Settings panel-ஐ (Main Menu-வில் cogwheel) திறந்து இ�
 
 ## அணுகல்தன்மை
 
-- Roblox-ன் முழு கணினி அமைப்புகள் பொருந்தும் — வண்ண குருட்டுத்தன்மை வடிகட்டிகள், UI அளவிடுதல், உரை-பேச்சு.
+- Roblox-ன் முழு கணினி அமைப்புகள் பொருந்தும் - வண்ண குருட்டுத்தன்மை வடிகட்டிகள், UI அளவிடுதல், உரை-பேச்சு.
 - கருவி மற்றும் ஆயுத தொடர்புகளை தடுக்க passive mode-ஐ மாற்றலாம். நீங்கள் சண்டை அல்லது அவசர roleplay-க்குள் இழுக்கப்பட விரும்பவில்லை என்றால் இது பயனுள்ளதாக இருக்கும்.
 
 ## அடுத்த படிகள்
 
-- [Economy and XP](/lebuhraya/economy) — ஓட்டுதல் எவ்வாறு நிலைகளாக மாறுகிறது
-- [Vehicles](/lebuhraya/vehicles) — ஸ்பான் மெனு, உரிமை, எரிபொருள்
-- [Jobs](/lebuhraya/jobs) — எந்தெந்த கருவிகள் எந்தெந்த அணிகளுக்கு சொந்தமானவை
+- [Economy and XP](/lebuhraya/economy) - ஓட்டுதல் எவ்வாறு நிலைகளாக மாறுகிறது
+- [Vehicles](/lebuhraya/vehicles) - ஸ்பான் மெனு, உரிமை, எரிபொருள்
+- [Jobs](/lebuhraya/jobs) - எந்தெந்த கருவிகள் எந்தெந்த அணிகளுக்கு சொந்தமானவை

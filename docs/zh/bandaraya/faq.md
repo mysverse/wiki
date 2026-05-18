@@ -2,7 +2,7 @@
 title: 常见问题
 description: Bandaraya 新玩家常见问题解答。
 lang: zh
-translated_from_hash: "aa73aa41"
+translated_from_hash: "992a505f"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -16,11 +16,11 @@ needs_review: true
 
 ### 如何快速赚取 BR?
 
-从 **Postal Service (POS)** 开始 — 无门槛,Level 1 每趟派送约 70 BR,Level 20 增至 260 BR。其他途径:
+从 **Postal Service (POS)** 开始 - 无门槛,Level 1 每趟派送约 70 BR,Level 20 增至 260 BR。其他途径:
 
-- **Taxi Driver**(gamepass 150 R$)— 若有订单,每分钟 BR 更快。
-- **巴士驾驶**(基于 group)— 若你喜欢固定路线工作,收入稳定。
-- **Towing**(基于 group)— 若你找到违规停放的车辆,每次夹车 500 BR。
+- **Taxi Driver**(gamepass 150 R$) - 若有订单,每分钟 BR 更快。
+- **巴士驾驶**(基于 group) - 若你喜欢固定路线工作,收入稳定。
+- **Towing**(基于 group) - 若你找到违规停放的车辆,每次夹车 500 BR。
 
 使用 **HCC gamepass** 后,所有工作收入都会提高。
 
@@ -28,13 +28,13 @@ needs_review: true
 
 ### 如何成为警察?
 
-在 Roblox 加入 **POLIS group 1182710 或 3048630**。任何军衔都可进入 POLIS 团队。大多数 group 有试用/培训流程 — 参加以晋升军衔。
+在 Roblox 加入 **POLIS group 1182710 或 3048630**。任何军衔都可进入 POLIS 团队。大多数 group 有试用/培训流程 - 参加以晋升军衔。
 
 请参阅[团队](/bandaraya/teams#emergency-services)。
 
 ### CAG 是什么,我需要吗?
 
-**CAG**(Click And Go)是 Bandaraya 的储值交通卡 — 游戏内的 TapNGo。在售卖亭以 100 BR 购买,按需充值。如果你需要,条件是:
+**CAG**(Click And Go)是 Bandaraya 的储值交通卡 - 游戏内的 TapNGo。在售卖亭以 100 BR 购买,按需充值。如果你需要,条件是:
 
 - 搭巴士(自动 5 BR 车资)
 - 使用 MRT / Monorail 快速通行(持通行证 30% / 50% 折扣)
@@ -97,18 +97,18 @@ needs_review: true
 
 ### 我在被拘留时离开,现在被自动逮捕。为什么?
 
-那是 **LTAA(Leave To Avoid Arrest)** 的执行。3 分钟计时器跨 server 存续 — 你不能通过愤而离场逃脱逮捕。
+那是 **LTAA(Leave To Avoid Arrest)** 的执行。3 分钟计时器跨 server 存续 - 你不能通过愤而离场逃脱逮捕。
 
 请参阅[逮捕与法律](/bandaraya/arrest-and-law#ltaa)。
 
 ### 我可以抢银行吗?
 
-可以 — **Hazbank** 是游戏内的抢劫目标。但请注意:
+可以 - **Hazbank** 是游戏内的抢劫目标。但请注意:
 
 - **server 至少需 10 名玩家**在线,抢劫才能开始。
 - 你必须破解金库(在 Decoder 设备上的限时小互动)。
-- 进入后,你站在随机一个收钱点 — 你的角色在倒数期间被锚定(所以你不能拿了就跑)。
-- POLIS 可在抢劫途中 **手动锁死金库** — 卷帘落下,你被困住。
+- 进入后,你站在随机一个收钱点 - 你的角色在倒数期间被锚定(所以你不能拿了就跑)。
+- POLIS 可在抢劫途中 **手动锁死金库** - 卷帘落下,你被困住。
 - 抢劫开始时,会向所有 POLIS / 现役出勤人员发出警报。
 - 预料会被捕。OCG(Organised Crime Group)会在有组织的活动中进行;独自尝试的平民通常会被抓。
 - 若你身为公共服务团队成员却背叛 = 严重违规。
@@ -131,8 +131,8 @@ needs_review: true
 
 两者都经营巴士,但是不同的 group:
 
-- **MyTransit**(group 5032738、10394166)— 游戏内主要的巴士运营商。
-- **Bus Services**(group 12143635、32663011、11122768、33328642)— SPAD 注册的私营巴士运营商。
+- **MyTransit**(group 5032738、10394166) - 游戏内主要的巴士运营商。
+- **Bus Services**(group 12143635、32663011、11122768、33328642) - SPAD 注册的私营巴士运营商。
 
 他们以不同公司身份 roleplay。车队不同。请参阅[团队](/bandaraya/teams#transport)和[工作](/bandaraya/jobs#bus-driving)。
 
@@ -152,11 +152,11 @@ needs_review: true
 
 ### 我因作弊被踢但其实没有。我该怎么做?
 
-反作弊已调整以允许真实战斗,但误判仍会发生。查看 kick 消息 — 它含有标签:
+反作弊已调整以允许真实战斗,但误判仍会发生。查看 kick 消息 - 它含有标签:
 
-- **RL** — rate limiting
-- **MV** — movement check
-- **WM** — weapon monitor
+- **RL** - rate limiting
+- **MV** - movement check
+- **WM** - weapon monitor
 
 将该标签提交给社群版主。最近的更新已特别修补了合法战斗、乘坐电梯、搜索以及 CCTV 操作期间的反作弊误判。
 
@@ -182,7 +182,7 @@ Bandaraya 不只追踪普通生命条：流血、疼痛和医疗处理都很重�
 
 ### 我的出租车"Start"按钮出错了。是我的错吗?
 
-不是 — 那是 R15 rig 的一个 bug,已在 v3.15.5 修复。请重试。
+不是 - 那是 R15 rig 的一个 bug,已在 v3.15.5 修复。请重试。
 
 ---
 
@@ -199,7 +199,7 @@ Bandaraya 不只追踪普通生命条：流血、疼痛和医疗处理都很重�
 
 ### 我可以和朋友一起玩吗?
 
-可以 — 邀请他们到同一个 server。团队系统允许混合团队组队(你可在同一 server 有 POLIS 和 BOMBA)。OCG 和 MAF 组队也很常见。
+可以 - 邀请他们到同一个 server。团队系统允许混合团队组队(你可在同一 server 有 POLIS 和 BOMBA)。OCG 和 MAF 组队也很常见。
 
 ### 会下雨吗?
 
@@ -221,4 +221,4 @@ Bandaraya 不只追踪普通生命条：流血、疼痛和医疗处理都很重�
 - [入门](/bandaraya/get-started)
 - [词汇表](/bandaraya/glossary)
 - [规则](/bandaraya/rules)
-- [README](/) — 完整目录
+- [README](/) - 完整目录

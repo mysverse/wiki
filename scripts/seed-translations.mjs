@@ -45,7 +45,7 @@ for (const enPath of walkEnPages()) {
       existed = true;
       const existing = matter(readFileSync(localePath, "utf8"));
 
-      // If hashes already match, the file is fresh — skip.
+      // If hashes already match, the file is fresh - skip.
       if (existing.data.translated_from_hash === enHash) {
         unchanged++;
         continue;
@@ -53,7 +53,7 @@ for (const enPath of walkEnPages()) {
 
       // Stale: decide whether to preserve the existing body or replace with EN.
       if (refreshStale) {
-        // Replace body with current EN — used after source drift to surface
+        // Replace body with current EN - used after source drift to surface
         // the newest content in all locales with needs_review: true.
         localeBody = enBody;
       } else {

@@ -1,8 +1,8 @@
 ---
 title: 队伍
-description: Bandaraya 所有队伍的完整指南 — 紧急服务、军事、交通、平民、政府等。
+description: Bandaraya 所有队伍的完整指南 - 紧急服务、军事、交通、平民、政府等。
 lang: zh
-translated_from_hash: "6ac5c18c"
+translated_from_hash: "7fd0557c"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,7 +14,7 @@ Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体�
 
 ### Visitors
 
-- **简介：** 所有新玩家的默认队伍。无论是出差还是旅游——自由探索城市。
+- **简介：** 所有新玩家的默认队伍。无论是出差还是旅游 -  - 自由探索城市。
 - **解锁条件：** 全部开放（默认队伍）。
 - **队伍颜色：** 亮绿色
 
@@ -36,7 +36,7 @@ Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体�
 
 ### Polis MYSverse (POLIS)
 
-- **简介：** MYSverse 警察——Bandaraya 的主要执法机构。运营多个部门，包括常规巡逻、刑事调查部（CID）、交通警察（JSPT）、特别行动部队（UTK）和装甲部队（GGK）。
+- **简介：** MYSverse 警察 -  - Bandaraya 的主要执法机构。运营多个部门，包括常规巡逻、刑事调查部（CID）、交通警察（JSPT）、特别行动部队（UTK）和装甲部队（GGK）。
 - **解锁条件：** MYSverse Sim Police 群组成员资格或相关 gamepass。
 - **队伍颜色：** 亮蓝色
 - **设施：** IPD Dang Wangi CID 办公室、IPD Dang Wangi JSPT 办公室、Balai Polis Kuala Lumpur
@@ -51,7 +51,7 @@ Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体�
 
 ### Kor Polis Tentera MYSverse (KPTD)
 
-- **简介：** MYSverse 宪兵队——负责执行军事法律和纪律。
+- **简介：** MYSverse 宪兵队 -  - 负责执行军事法律和纪律。
 - **解锁条件：** 需要群组成员资格。
 - **队伍颜色：** 亮红色
 - **车辆：** 专属 KPTD 车辆
@@ -87,7 +87,7 @@ Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体�
 
 ### Kementerian Kesihatan MYSverse（卫生部 / KKM）
 
-- **简介：** 国家卫生部——作为医疗人员拯救生命。
+- **简介：** 国家卫生部 -  - 作为医疗人员拯救生命。
 - **解锁条件：** 需要群组成员资格。
 - **队伍颜色：** 机构白
 - **设施：** KKM Ampang Clinic、Prince Court Medical Centre
@@ -104,7 +104,7 @@ Bandaraya 拥有各种各样的队伍，每个队伍都提供独特的游戏体�
 
 ### RELA Corps
 
-- **简介：** 人民志愿团——支持公共安全的平民志愿力量。
+- **简介：** 人民志愿团 -  - 支持公共安全的平民志愿力量。
 - **解锁条件：** 需要群组成员资格。
 - **队伍颜色：** New Yeller
 

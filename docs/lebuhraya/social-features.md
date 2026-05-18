@@ -3,34 +3,34 @@ title: "Social Features"
 description: "Convoy, 999 Emergency, and the in-game phone in Lebuhraya."
 ---
 
-# Social Features
+# Social features
 
-Lebuhraya has a few systems designed to make the game better when you play with others — the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
+Lebuhraya has a few systems designed to make the game better when you play with others - the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
 
 ## Convoy
 
 Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
 
-### Creating a Convoy
+### Creating a convoy
 
 1. Open the convoy menu (from the Main Menu or topbar).
-2. Select **Create convoy** — you become the leader.
+2. Select **Create convoy** - you become the leader.
 3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
 
-### Joining a Convoy
+### Joining a convoy
 
 - **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
 - **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
 
-Both sides of the handshake use the same 30-second timeout — if you miss it, just re-invite or re-request.
+Both sides of the handshake use the same 30-second timeout - if you miss it, just re-invite or re-request.
 
-### Convoy Rules
+### Convoy rules
 
 - **Maximum size**: 6 members
 - **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
 - **Leader**: Sets invite rules and can remove members
 
-### How the Bonus Stacks
+### How the bonus stacks
 
 The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
 
@@ -47,7 +47,7 @@ Passengers in a convoy vehicle get half the driver's bonus.
 
 A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
 
-## 999 Emergency System
+## 999 Emergency system
 
 Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
 
@@ -62,17 +62,17 @@ Lebuhraya's emergency services are player-driven. Any player can call 999; emerg
 
 Each active incident shows on responders' pagers with your location.
 
-### Responding (Emergency Teams)
+### Responding (emergency teams)
 
 If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
 
 1. Equip your **Pager** tool.
 2. View the active incidents panel.
-3. Tap to accept an incident — it becomes your assigned case.
+3. Tap to accept an incident - it becomes your assigned case.
 4. Drive to the location.
 5. Resolve the incident according to its type:
-   - **Car Crash** — Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
-   - **Injured Person** — Stabilise and transport to the hospital (Kesihatan).
+   - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
+   - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
 6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
 
 ### Limits
@@ -81,29 +81,29 @@ If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan*
 - The caller has a cooldown on repeated 999 calls.
 - If you change teams mid-incident, your assignment is cancelled.
 
-## The Phone
+## The phone
 
 Every player has a phone accessible from the topbar.
 
-### Built-In Features
+### Built-in features
 
 - **999 Emergency**
-- **GPS navigation** — set a waypoint to any POI
+- **GPS navigation** - set a waypoint to any POI
 - **System clock** showing in-game time
 
 ### Apps
 
-- **Rafahia App v3.0** — The MYSverse community's unified social app (messaging, profiles, cross-experience features).
+- **Rafahia App v3.0** - The MYSverse community's unified social app (messaging, profiles, cross-experience features).
 
 More phone apps may appear over time as the MYSverse platform adds features.
 
-### Phone Tips
+### Phone tips
 
 - Use the Phone when you need quick actions while staying in the world.
 - GPS waypoints are the safest way to reach a POI without staff-only fast travel.
 - If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
 
-## MyPod Music Player
+## MyPod music player
 
 **MyPod** is the topbar music player. It is not a vehicle spawner.
 
@@ -120,31 +120,31 @@ What MyPod does **not** do:
 - It does not despawn vehicles.
 - It does not replace the physical vehicle spawner pads/markers around the map.
 
-## The Tablet
+## The tablet
 
-A secondary device available from the topbar. Think of it as your "career HUD" — bigger screen, more data than the phone.
+A secondary device available from the topbar. Think of it as your "career HUD" - bigger screen, more data than the phone.
 
 ### Apps
 
-- **Vehicle** — View any nearby player's vehicle registration and driving licence info. Useful for roleplay scenes (spot check, insurance lookup). Licence visibility is team-gated — only certain teams (APJ, Polis) can view full licence details.
-- **Developer** *(staff only)* — Admin moderation view showing player details, BR balance, POS money, and message history.
-- **Moderator** *(staff only)* — Additional staff moderation tools.
+- **Vehicle** - View any nearby player's vehicle registration and driving licence info. Useful for roleplay scenes (spot check, insurance lookup). Licence visibility is team-gated - only certain teams (APJ, Polis) can view full licence details.
+- **Developer** *(staff only)* - Admin moderation view showing player details, BR balance, POS money, and message history.
+- **Moderator** *(staff only)* - Additional staff moderation tools.
 
-## Report System
+## Report system
 
 Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
 
-### What to Include
+### What to include
 
 Good reports are specific:
 
-- **What happened** — e.g. "Vehicle spawner opened but Spawn did nothing."
-- **Where** — town, shop, spawner, road, or approximate landmark.
-- **What you were doing** — team, vehicle, job, tool, menu.
-- **Whether it repeats** — once, every time, only on mobile, only in private server.
+- **What happened** - e.g. "Vehicle spawner opened but Spawn did nothing."
+- **Where** - town, shop, spawner, road, or approximate landmark.
+- **What you were doing** - team, vehicle, job, tool, menu.
+- **Whether it repeats** - once, every time, only on mobile, only in private server.
 - **Player names** if it is a player conduct issue.
 
-### When to Use It
+### When to use it
 
 Use Report for:
 
@@ -157,7 +157,7 @@ Use Report for:
 
 Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
 
-## Identity Card (IC)
+## Identity card (IC)
 
 Lebuhraya issues each player a **Malaysian-style identity card** in the Phone / Tablet app, generated with the real Malaysian IC format:
 
@@ -165,25 +165,25 @@ Lebuhraya issues each player a **Malaysian-style identity card** in the Phone / 
 YYMMDD-PB-XXXX
 ```
 
-- **YYMMDD** — your Roblox account-joined date (year, month, day).
-- **PB** — place-of-origin code. Default is **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) use different codes.
-- **XXXX** — the last four digits of your Roblox account ID.
+- **YYMMDD** - your Roblox account-joined date (year, month, day).
+- **PB** - place-of-origin code. Default is **14** (Wilayah Persekutuan / Federal Territory - Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) use different codes.
+- **XXXX** - the last four digits of your Roblox account ID.
 
-So if you joined Roblox on 15 March 2020 and your account ID ended in 6789, your IC would be **200315-14-6789**. Your IC is consistent every time you play — it won't change.
+So if you joined Roblox on 15 March 2020 and your account ID ended in 6789, your IC would be **200315-14-6789**. Your IC is consistent every time you play - it won't change.
 
 Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
 
-## Driving Licence
+## Driving licence
 
 Every player gets a **Driving Licence** as a tool in their backpack. The licence number is generated from your account-joined date and the last four digits of your Roblox account ID, so it's unique per player and consistent across sessions.
 
 **APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
 
-Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence — play along.
+Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence - play along.
 
-## Tokens and Boosts
+## Tokens and boosts
 
-Some temporary advantages come from **tokens** — consumable boost items in your inventory.
+Some temporary advantages come from **tokens** - consumable boost items in your inventory.
 
 | Token | Effect |
 |---|---|
@@ -191,7 +191,7 @@ Some temporary advantages come from **tokens** — consumable boost items in you
 | **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
 | **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
 
-### How to Get Tokens
+### How to get tokens
 
 - Career tier rewards (ranking up in a branch)
 - Season Pass tier rewards
@@ -199,20 +199,20 @@ Some temporary advantages come from **tokens** — consumable boost items in you
 - Sometimes bundled with gamepasses
 - Granted by a private-server owner during events or roleplay sessions
 
-### How to Use Tokens
+### How to use tokens
 
-Activate a token from your inventory (**Main Menu -> More -> Tokens**). The **Active Tokens HUD** appears automatically when at least one token is running — each active token shows its icon, name, and a **M:SS countdown**. Tokens run in parallel (you can have 2× XP Boost + Season Pass Boost + Team Access all going at once).
+Activate a token from your inventory (**Main Menu -> More -> Tokens**). The **Active Tokens HUD** appears automatically when at least one token is running - each active token shows its icon, name, and a **M:SS countdown**. Tokens run in parallel (you can have 2× XP Boost + Season Pass Boost + Team Access all going at once).
 
-Tokens **consume on activation** — once you start the timer you can't pause it. Save them for continuous play sessions.
+Tokens **consume on activation** - once you start the timer you can't pause it. Save them for continuous play sessions.
 
-> Tokens are **consumed on activation** — you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
+> Tokens are **consumed on activation** - you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
 
-## Chat and Messaging
+## Chat and messaging
 
-The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly — keep chat clean and respect MYSverse's community rules.
+The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly - keep chat clean and respect MYSverse's community rules.
 
-## Next Steps
+## Next steps
 
-- [Economy and XP](/lebuhraya/economy) — Where the convoy multiplier fits in
-- [Jobs](/lebuhraya/jobs) — Emergency-team job details
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) — Gamepasses vs tokens
+- [Economy and XP](/lebuhraya/economy) - Where the convoy multiplier fits in
+- [Jobs](/lebuhraya/jobs) - Emergency-team job details
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses vs tokens

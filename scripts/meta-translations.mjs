@@ -4,30 +4,30 @@
 export const META = {
   "index.md": {
     ms: {
-      title: "Wiki MYSverse — Mendokumentasikan MYSverse, satu pengalaman pada satu masa",
+      title: "Wiki MYSverse - Mendokumentasikan MYSverse, satu pengalaman pada satu masa",
       description: "Panduan lengkap pelayan permainan MYSverse termasuk Bandaraya, Lebuhraya dan banyak lagi. Oleh rakyat Malaysia, untuk semua.",
     },
     zh: {
-      title: "MYSverse 维基 — 一次记录一项 MYSverse 体验",
+      title: "MYSverse 维基 - 一次记录一项 MYSverse 体验",
       description: "涵盖 Bandaraya、Lebuhraya 等 MYSverse 游戏服务器的完整指南。由马来西亚人打造，为所有人服务。",
     },
     ta: {
-      title: "MYSverse விக்கி — ஒவ்வொரு அனுபவமாக MYSverse-ஐ ஆவணப்படுத்துகிறது",
+      title: "MYSverse விக்கி - ஒவ்வொரு அனுபவமாக MYSverse-ஐ ஆவணப்படுத்துகிறது",
       description: "Bandaraya, Lebuhraya மற்றும் பல MYSverse விளையாட்டு சேவையகங்களுக்கான முழுமையான வழிகாட்டி. மலேசியர்களால், அனைவருக்கும்.",
     },
   },
   "faq/ban.md": {
     ms: {
-      title: "Mengatasi Larangan — Soalan Lazim",
-      description: "Apa yang perlu dibuat jika akaun Roblox anda dilarang — rayuan, bukti, dan akaun baharu.",
+      title: "Mengatasi Larangan - Soalan Lazim",
+      description: "Apa yang perlu dibuat jika akaun Roblox anda dilarang - rayuan, bukti, dan akaun baharu.",
     },
     zh: {
-      title: "解除封禁 — 常见问题",
-      description: "Roblox 账号被封禁时的应对方法 — 申诉流程、证据准备和新账号事项。",
+      title: "解除封禁 - 常见问题",
+      description: "Roblox 账号被封禁时的应对方法 - 申诉流程、证据准备和新账号事项。",
     },
     ta: {
-      title: "தடையைக் கடக்க — அடிக்கடி கேட்கப்படும் கேள்விகள்",
-      description: "உங்கள் Roblox கணக்கு தடை செய்யப்பட்டால் என்ன செய்வது — மேல்முறையீடு, ஆதாரம் மற்றும் புதிய கணக்குகள்.",
+      title: "தடையைக் கடக்க - அடிக்கடி கேட்கப்படும் கேள்விகள்",
+      description: "உங்கள் Roblox கணக்கு தடை செய்யப்பட்டால் என்ன செய்வது - மேல்முறையீடு, ஆதாரம் மற்றும் புதிய கணக்குகள்.",
     },
   },
 
@@ -35,57 +35,57 @@ export const META = {
   "bandaraya/get-started.md": {
     ms: {
       title: "Mula dengan Bandaraya",
-      description: "Mulakan pengembaraan anda di Bandaraya — navigasi menu, peroleh Bandar Ringgit (BR), pilih pasukan, dan terokai Kuala Lumpur.",
+      description: "Mulakan pengembaraan anda di Bandaraya - navigasi menu, peroleh Bandar Ringgit (BR), pilih pasukan, dan terokai Kuala Lumpur.",
     },
     zh: {
       title: "开始体验 Bandaraya",
-      description: "在 Bandaraya 开始你的冒险 — 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。",
+      description: "在 Bandaraya 开始你的冒险 - 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。",
     },
     ta: {
       title: "Bandaraya-வில் தொடங்குங்கள்",
-      description: "Bandaraya-வில் உங்கள் பயணத்தைத் தொடங்குங்கள் — மெனுக்களில் செல்லுங்கள், Bandar Ringgit (BR) சம்பாதியுங்கள், அணியை தேர்ந்தெடுங்கள், கோலாலம்பூரை ஆராயுங்கள்.",
+      description: "Bandaraya-வில் உங்கள் பயணத்தைத் தொடங்குங்கள் - மெனுக்களில் செல்லுங்கள், Bandar Ringgit (BR) சம்பாதியுங்கள், அணியை தேர்ந்தெடுங்கள், கோலாலம்பூரை ஆராயுங்கள்.",
     },
   },
   "bandaraya/teams.md": {
     ms: {
       title: "Pasukan",
-      description: "Panduan lengkap semua pasukan di Bandaraya — perkhidmatan kecemasan, tentera, pengangkutan, awam, kerajaan, dan banyak lagi.",
+      description: "Panduan lengkap semua pasukan di Bandaraya - perkhidmatan kecemasan, tentera, pengangkutan, awam, kerajaan, dan banyak lagi.",
     },
     zh: {
       title: "队伍",
-      description: "Bandaraya 所有队伍的完整指南 — 紧急服务、军事、交通、平民、政府等。",
+      description: "Bandaraya 所有队伍的完整指南 - 紧急服务、军事、交通、平民、政府等。",
     },
     ta: {
       title: "அணிகள்",
-      description: "Bandaraya-வில் உள்ள அனைத்து அணிகளுக்கான முழுமையான வழிகாட்டி — அவசர சேவைகள், இராணுவம், போக்குவரத்து, குடிமக்கள், அரசு மற்றும் பல.",
+      description: "Bandaraya-வில் உள்ள அனைத்து அணிகளுக்கான முழுமையான வழிகாட்டி - அவசர சேவைகள், இராணுவம், போக்குவரத்து, குடிமக்கள், அரசு மற்றும் பல.",
     },
   },
   "bandaraya/jobs.md": {
     ms: {
       title: "Kerjaya",
-      description: "Setiap kerja di Bandaraya — perkhidmatan pos, pemandu teksi, tunda, pemandu bas, dan kerja agensi — dengan kadar gaji dan pangkat.",
+      description: "Setiap kerja di Bandaraya - perkhidmatan pos, pemandu teksi, tunda, pemandu bas, dan kerja agensi - dengan kadar gaji dan pangkat.",
     },
     zh: {
       title: "工作",
-      description: "Bandaraya 的各种工作 — 邮政服务、出租车、拖车、巴士司机以及机构岗位 — 包括薪资和级别说明。",
+      description: "Bandaraya 的各种工作 - 邮政服务、出租车、拖车、巴士司机以及机构岗位 - 包括薪资和级别说明。",
     },
     ta: {
       title: "வேலைகள்",
-      description: "Bandaraya-வில் உள்ள ஒவ்வொரு வேலை — அஞ்சல் சேவை, டாக்சி ஓட்டுநர், இழுப்பு, பஸ் ஓட்டுநர், மற்றும் நிறுவன வேலைகள் — சம்பள விகிதங்கள் மற்றும் தரங்களுடன்.",
+      description: "Bandaraya-வில் உள்ள ஒவ்வொரு வேலை - அஞ்சல் சேவை, டாக்சி ஓட்டுநர், இழுப்பு, பஸ் ஓட்டுநர், மற்றும் நிறுவன வேலைகள் - சம்பள விகிதங்கள் மற்றும் தரங்களுடன்.",
     },
   },
   "bandaraya/economy.md": {
     ms: {
       title: "Ekonomi",
-      description: "Bagaimana ekonomi Bandar Ringgit (BR) berfungsi — memperoleh, perbankan, memindahkan BR, dan produk pembangun.",
+      description: "Bagaimana ekonomi Bandar Ringgit (BR) berfungsi - memperoleh, perbankan, memindahkan BR, dan produk pembangun.",
     },
     zh: {
       title: "经济",
-      description: "Bandar Ringgit（BR）经济体系介绍 — 赚钱、银行操作、转账 BR 以及开发者商品。",
+      description: "Bandar Ringgit（BR）经济体系介绍 - 赚钱、银行操作、转账 BR 以及开发者商品。",
     },
     ta: {
       title: "பொருளாதாரம்",
-      description: "Bandar Ringgit (BR) பொருளாதாரம் எவ்வாறு வேலை செய்கிறது — சம்பாதித்தல், வங்கி, BR பரிமாற்றம், மற்றும் டெவலப்பர் பொருட்கள்.",
+      description: "Bandar Ringgit (BR) பொருளாதாரம் எவ்வாறு வேலை செய்கிறது - சம்பாதித்தல், வங்கி, BR பரிமாற்றம், மற்றும் டெவலப்பர் பொருட்கள்.",
     },
   },
   "bandaraya/vehicles.md": {
@@ -104,30 +104,30 @@ export const META = {
   },
   "bandaraya/getting-around.md": {
     ms: {
-      title: "Pengangkutan Awam di Bandaraya — Panduan",
-      description: "Pengangkutan awam di Bandaraya — MRT, LRT, monorel, bas, kad CAG, e-hailing, dan tol TapNGo.",
+      title: "Pengangkutan Awam di Bandaraya - Panduan",
+      description: "Pengangkutan awam di Bandaraya - MRT, LRT, monorel, bas, kad CAG, e-hailing, dan tol TapNGo.",
     },
     zh: {
       title: "Bandaraya 公共交通指南",
-      description: "Bandaraya 的公共交通 — MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。",
+      description: "Bandaraya 的公共交通 - MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。",
     },
     ta: {
-      title: "Bandaraya-வில் பயணிக்க — பொதுப் போக்குவரத்து வழிகாட்டி",
-      description: "Bandaraya-வில் பொதுப் போக்குவரத்து — MRT, LRT, மோனோரயில், பேருந்துகள், CAG கார்டு, இ-ஹெயிலிங், மற்றும் TapNGo டோல்கள்.",
+      title: "Bandaraya-வில் பயணிக்க - பொதுப் போக்குவரத்து வழிகாட்டி",
+      description: "Bandaraya-வில் பொதுப் போக்குவரத்து - MRT, LRT, மோனோரயில், பேருந்துகள், CAG கார்டு, இ-ஹெயிலிங், மற்றும் TapNGo டோல்கள்.",
     },
   },
   "bandaraya/emergency-services.md": {
     ms: {
       title: "Perkhidmatan Kecemasan",
-      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan keselamatan di Bandaraya.",
+      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD - perkhidmatan kecemasan dan keselamatan di Bandaraya.",
     },
     zh: {
       title: "紧急服务",
-      description: "POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。",
+      description: "POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD - Bandaraya 的紧急与安保服务。",
     },
     ta: {
       title: "அவசர சேவைகள்",
-      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD — Bandaraya-வின் அவசர மற்றும் பாதுகாப்பு சேவைகள்.",
+      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD - Bandaraya-வின் அவசர மற்றும் பாதுகாப்பு சேவைகள்.",
     },
   },
   "bandaraya/combat-and-health.md": {
@@ -147,57 +147,57 @@ export const META = {
   "bandaraya/arrest-and-law.md": {
     ms: {
       title: "Tangkapan & Undang-Undang",
-      description: "Bagaimana tangkapan berfungsi di Bandaraya — LTAA, RTAA, saman, tempoh penjara, dan hak suspek.",
+      description: "Bagaimana tangkapan berfungsi di Bandaraya - LTAA, RTAA, saman, tempoh penjara, dan hak suspek.",
     },
     zh: {
       title: "逮捕与法律",
-      description: "Bandaraya 逮捕机制介绍 — LTAA、RTAA、传票、监禁时长和嫌疑人权利。",
+      description: "Bandaraya 逮捕机制介绍 - LTAA、RTAA、传票、监禁时长和嫌疑人权利。",
     },
     ta: {
       title: "கைது & சட்டம்",
-      description: "Bandaraya-வில் கைதுகள் எப்படி நடைபெறுகின்றன — LTAA, RTAA, அழைப்பாணைகள், சிறை நேரம், மற்றும் சந்தேகநபர் உரிமைகள்.",
+      description: "Bandaraya-வில் கைதுகள் எப்படி நடைபெறுகின்றன - LTAA, RTAA, அழைப்பாணைகள், சிறை நேரம், மற்றும் சந்தேகநபர் உரிமைகள்.",
     },
   },
   "bandaraya/phone.md": {
     ms: {
       title: "Telefon",
-      description: "Telefon dalam permainan di Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow, mesej, dan aplikasi lain.",
+      description: "Telefon dalam permainan di Bandaraya - MyPay, e-hailing, 999, MyCar, MyTow, mesej, dan aplikasi lain.",
     },
     zh: {
       title: "手机",
-      description: "Bandaraya 的游戏内手机 — MyPay、电召车、999、MyCar、MyTow、短信和更多应用。",
+      description: "Bandaraya 的游戏内手机 - MyPay、电召车、999、MyCar、MyTow、短信和更多应用。",
     },
     ta: {
       title: "தொலைபேசி",
-      description: "Bandaraya-வில் விளையாட்டுக்குள் தொலைபேசி — MyPay, இ-ஹெயிலிங், 999, MyCar, MyTow, செய்திகள், மற்றும் பிற செயலிகள்.",
+      description: "Bandaraya-வில் விளையாட்டுக்குள் தொலைபேசி - MyPay, இ-ஹெயிலிங், 999, MyCar, MyTow, செய்திகள், மற்றும் பிற செயலிகள்.",
     },
   },
   "bandaraya/tablet.md": {
     ms: {
       title: "Tablet",
-      description: "Alat tablet khas pasukan di Bandaraya — MDT, MyEmergency, MyTow, KKM Logger, dan aplikasi lain.",
+      description: "Alat tablet khas pasukan di Bandaraya - MDT, MyEmergency, MyTow, KKM Logger, dan aplikasi lain.",
     },
     zh: {
       title: "平板电脑",
-      description: "Bandaraya 的队伍专属平板工具 — MDT、MyEmergency、MyTow、KKM Logger 及其他应用。",
+      description: "Bandaraya 的队伍专属平板工具 - MDT、MyEmergency、MyTow、KKM Logger 及其他应用。",
     },
     ta: {
       title: "டேப்லெட்",
-      description: "Bandaraya-வில் அணி-வரையறுக்கப்பட்ட டேப்லெட் கருவி — MDT, MyEmergency, MyTow, KKM Logger, மற்றும் பிற செயலிகள்.",
+      description: "Bandaraya-வில் அணி-வரையறுக்கப்பட்ட டேப்லெட் கருவி - MDT, MyEmergency, MyTow, KKM Logger, மற்றும் பிற செயலிகள்.",
     },
   },
   "bandaraya/gamepasses.md": {
     ms: {
       title: "Gamepass",
-      description: "Setiap gamepass Bandaraya dijelaskan — Pemandu Teksi, Lesen Senjata Api, HCC, Radio Kereta, dan banyak lagi.",
+      description: "Setiap gamepass Bandaraya dijelaskan - Pemandu Teksi, Lesen Senjata Api, HCC, Radio Kereta, dan banyak lagi.",
     },
     zh: {
       title: "游戏通行证",
-      description: "Bandaraya 全部游戏通行证说明 — 出租车司机、枪支执照、HCC、车载电台等。",
+      description: "Bandaraya 全部游戏通行证说明 - 出租车司机、枪支执照、HCC、车载电台等。",
     },
     ta: {
       title: "கேம்பாஸ்கள்",
-      description: "Bandaraya-வின் ஒவ்வொரு கேம்பாஸ் விளக்கம் — Taxi Driver, Firearms Licence, HCC, Car Radio, மற்றும் பல.",
+      description: "Bandaraya-வின் ஒவ்வொரு கேம்பாஸ் விளக்கம் - Taxi Driver, Firearms Licence, HCC, Car Radio, மற்றும் பல.",
     },
   },
   "bandaraya/locations.md": {
@@ -244,16 +244,16 @@ export const META = {
   },
   "bandaraya/glossary.md": {
     ms: {
-      title: "Glosari — Istilah Malaysia & Akronim Permainan",
-      description: "Akronim Malaysia dan istilah dalam permainan — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, dan banyak lagi.",
+      title: "Glosari - Istilah Malaysia & Akronim Permainan",
+      description: "Akronim Malaysia dan istilah dalam permainan - POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, dan banyak lagi.",
     },
     zh: {
-      title: "术语表 — 马来西亚用语与游戏缩写",
-      description: "马来西亚缩写与游戏术语解说 — POLIS、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。",
+      title: "术语表 - 马来西亚用语与游戏缩写",
+      description: "马来西亚缩写与游戏术语解说 - POLIS、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。",
     },
     ta: {
-      title: "சொற்களஞ்சியம் — மலேசிய சொற்கள் & விளையாட்டு சுருக்கங்கள்",
-      description: "மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.",
+      title: "சொற்களஞ்சியம் - மலேசிய சொற்கள் & விளையாட்டு சுருக்கங்கள்",
+      description: "மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் - POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.",
     },
   },
   "bandaraya/faq.md": {
@@ -275,29 +275,29 @@ export const META = {
   "lebuhraya/get-started.md": {
     ms: {
       title: "Mula",
-      description: "10 minit pertama anda di Lebuhraya — hasilkan kenderaan, peroleh BR, naik taraf, dan pandu di lebuh raya.",
+      description: "10 minit pertama anda di Lebuhraya - hasilkan kenderaan, peroleh BR, naik taraf, dan pandu di lebuh raya.",
     },
     zh: {
       title: "入门",
-      description: "你在 Lebuhraya 的前 10 分钟 — 生成车辆、赚取 BR、升级，然后上高速。",
+      description: "你在 Lebuhraya 的前 10 分钟 - 生成车辆、赚取 BR、升级，然后上高速。",
     },
     ta: {
       title: "தொடங்கு",
-      description: "Lebuhraya-வில் உங்கள் முதல் 10 நிமிடங்கள் — வாகனத்தை உருவாக்கவும், BR சம்பாதிக்கவும், நிலை உயர்த்தவும், நெடுஞ்சாலையை அடையவும்.",
+      description: "Lebuhraya-வில் உங்கள் முதல் 10 நிமிடங்கள் - வாகனத்தை உருவாக்கவும், BR சம்பாதிக்கவும், நிலை உயர்த்தவும், நெடுஞ்சாலையை அடையவும்.",
     },
   },
   "lebuhraya/controls.md": {
     ms: {
       title: "Kawalan",
-      description: "Setiap kawalan di Lebuhraya — papan kekunci, pad permainan, mudah alih, dan input VR.",
+      description: "Setiap kawalan di Lebuhraya - papan kekunci, pad permainan, mudah alih, dan input VR.",
     },
     zh: {
       title: "操作",
-      description: "Lebuhraya 的全部操作方式 — 键盘、手柄、移动端和 VR 输入。",
+      description: "Lebuhraya 的全部操作方式 - 键盘、手柄、移动端和 VR 输入。",
     },
     ta: {
       title: "கட்டுப்பாடுகள்",
-      description: "Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு — விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR உள்ளீடுகள்.",
+      description: "Lebuhraya-வில் ஒவ்வொரு கட்டுப்பாடு - விசைப்பலகை, கேம்பேட், கைபேசி, மற்றும் VR உள்ளீடுகள்.",
     },
   },
   "lebuhraya/teams.md": {
@@ -317,15 +317,15 @@ export const META = {
   "lebuhraya/jobs.md": {
     ms: {
       title: "Kerjaya",
-      description: "Setiap kerja di Lebuhraya — disusun mengikut agensi (Pengangkutan dan banyak lagi) dengan kadar gaji.",
+      description: "Setiap kerja di Lebuhraya - disusun mengikut agensi (Pengangkutan dan banyak lagi) dengan kadar gaji.",
     },
     zh: {
       title: "工作",
-      description: "Lebuhraya 全部工作说明 — 按机构分类（Pengangkutan 等），附薪资说明。",
+      description: "Lebuhraya 全部工作说明 - 按机构分类（Pengangkutan 等），附薪资说明。",
     },
     ta: {
       title: "வேலைகள்",
-      description: "Lebuhraya-வில் ஒவ்வொரு வேலை — நிறுவனம் வாரியாக வகைப்படுத்தப்பட்டது (Pengangkutan போன்றவை) சம்பள விகிதங்களுடன்.",
+      description: "Lebuhraya-வில் ஒவ்வொரு வேலை - நிறுவனம் வாரியாக வகைப்படுத்தப்பட்டது (Pengangkutan போன்றவை) சம்பள விகிதங்களுடன்.",
     },
   },
   "lebuhraya/economy.md": {
@@ -345,15 +345,15 @@ export const META = {
   "lebuhraya/vehicles.md": {
     ms: {
       title: "Kenderaan",
-      description: "Kesemua 127 model kenderaan di Lebuhraya — menghasilkan, bahan api, perlanggaran, dan penyesuaian.",
+      description: "Kesemua 127 model kenderaan di Lebuhraya - menghasilkan, bahan api, perlanggaran, dan penyesuaian.",
     },
     zh: {
       title: "车辆",
-      description: "Lebuhraya 全部 127 款车型 — 生成、燃料、撞车机制和个性化定制。",
+      description: "Lebuhraya 全部 127 款车型 - 生成、燃料、撞车机制和个性化定制。",
     },
     ta: {
       title: "வாகனங்கள்",
-      description: "Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் — உருவாக்கம், எரிபொருள், விபத்து, மற்றும் தனிப்பயனாக்கம்.",
+      description: "Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் - உருவாக்கம், எரிபொருள், விபத்து, மற்றும் தனிப்பயனாக்கம்.",
     },
   },
   "lebuhraya/shops.md": {
@@ -445,29 +445,29 @@ export const META = {
   "sumaya/get-started.md": {
     ms: {
       title: "Mula",
-      description: "Mula bermain Sumaya — menu utama, pemilihan pasukan, kawalan, dan lima minit pertama di bandar.",
+      description: "Mula bermain Sumaya - menu utama, pemilihan pasukan, kawalan, dan lima minit pertama di bandar.",
     },
     zh: {
       title: "入门",
-      description: "开始玩 Sumaya — 主菜单、队伍选择、操作以及你进城的头五分钟。",
+      description: "开始玩 Sumaya - 主菜单、队伍选择、操作以及你进城的头五分钟。",
     },
     ta: {
       title: "தொடங்கு",
-      description: "Sumaya விளையாட தொடங்குங்கள் — முதன்மை மெனு, அணி தேர்வு, கட்டுப்பாடுகள், மற்றும் நகரில் முதல் ஐந்து நிமிடங்கள்.",
+      description: "Sumaya விளையாட தொடங்குங்கள் - முதன்மை மெனு, அணி தேர்வு, கட்டுப்பாடுகள், மற்றும் நகரில் முதல் ஐந்து நிமிடங்கள்.",
     },
   },
   "sumaya/teams.md": {
     ms: {
       title: "Pasukan",
-      description: "Lima pasukan Sumaya — Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.",
+      description: "Lima pasukan Sumaya - Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.",
     },
     zh: {
       title: "队伍",
-      description: "Sumaya 的五支队伍 — Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。",
+      description: "Sumaya 的五支队伍 - Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。",
     },
     ta: {
       title: "அணிகள்",
-      description: "Sumaya-வின் ஐந்து அணிகள் — Visitors, Malaysians, POLIS, BOMBA, மற்றும் Kesihatan.",
+      description: "Sumaya-வின் ஐந்து அணிகள் - Visitors, Malaysians, POLIS, BOMBA, மற்றும் Kesihatan.",
     },
   },
   "sumaya/phone.md": {
@@ -515,29 +515,29 @@ export const META = {
   "sumaya/jobs.md": {
     ms: {
       title: "Gambaran Kerjaya",
-      description: "Tiga sektor kerjaya awam di Sumaya — memancing, perkhidmatan, dan kelapa sawit.",
+      description: "Tiga sektor kerjaya awam di Sumaya - memancing, perkhidmatan, dan kelapa sawit.",
     },
     zh: {
       title: "职业概览",
-      description: "Sumaya 的三大平民职业方向 — 捕鱼、服务业、棕油业。",
+      description: "Sumaya 的三大平民职业方向 - 捕鱼、服务业、棕油业。",
     },
     ta: {
       title: "வேலைகள் கண்ணோட்டம்",
-      description: "Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் — மீன்பிடி, சேவை, மற்றும் பனை எண்ணெய்.",
+      description: "Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் - மீன்பிடி, சேவை, மற்றும் பனை எண்ணெய்.",
     },
   },
   "sumaya/jobs-fishing.md": {
     ms: {
       title: "Memancing",
-      description: "Memancing di Sumaya — tempat, jenis ikan, harga, dan kemajuan.",
+      description: "Memancing di Sumaya - tempat, jenis ikan, harga, dan kemajuan.",
     },
     zh: {
       title: "捕鱼",
-      description: "Sumaya 的捕鱼 — 钓点、鱼种、价格和职业晋升。",
+      description: "Sumaya 的捕鱼 - 钓点、鱼种、价格和职业晋升。",
     },
     ta: {
       title: "மீன்பிடி",
-      description: "Sumaya-வில் மீன்பிடி — இடங்கள், மீன் வகைகள், விலைகள், மற்றும் முன்னேற்றம்.",
+      description: "Sumaya-வில் மீன்பிடி - இடங்கள், மீன் வகைகள், விலைகள், மற்றும் முன்னேற்றம்.",
     },
   },
   "sumaya/jobs-service.md": {
@@ -571,57 +571,57 @@ export const META = {
   "sumaya/emergency-services.md": {
     ms: {
       title: "Gambaran Perkhidmatan Kecemasan",
-      description: "POLIS, BOMBA, dan Kesihatan — perkhidmatan kecemasan di Sumaya.",
+      description: "POLIS, BOMBA, dan Kesihatan - perkhidmatan kecemasan di Sumaya.",
     },
     zh: {
       title: "紧急服务概览",
-      description: "POLIS、BOMBA 与 Kesihatan — Sumaya 的紧急服务介绍。",
+      description: "POLIS、BOMBA 与 Kesihatan - Sumaya 的紧急服务介绍。",
     },
     ta: {
       title: "அவசர சேவைகள் கண்ணோட்டம்",
-      description: "POLIS, BOMBA, மற்றும் Kesihatan — Sumaya-வின் அவசர சேவைகள்.",
+      description: "POLIS, BOMBA, மற்றும் Kesihatan - Sumaya-வின் அவசர சேவைகள்.",
     },
   },
   "sumaya/polis.md": {
     ms: {
       title: "Polis",
-      description: "Bermain sebagai POLIS di Sumaya — rondaan, tangkapan, pangkat, dan peralatan.",
+      description: "Bermain sebagai POLIS di Sumaya - rondaan, tangkapan, pangkat, dan peralatan.",
     },
     zh: {
       title: "警察",
-      description: "在 Sumaya 扮演 POLIS — 巡逻、逮捕、职级与装备。",
+      description: "在 Sumaya 扮演 POLIS - 巡逻、逮捕、职级与装备。",
     },
     ta: {
       title: "போலீஸ்",
-      description: "Sumaya-வில் POLIS விளையாடுதல் — ரோந்து, கைது, தரங்கள், மற்றும் உபகரணங்கள்.",
+      description: "Sumaya-வில் POLIS விளையாடுதல் - ரோந்து, கைது, தரங்கள், மற்றும் உபகரணங்கள்.",
     },
   },
   "sumaya/bomba.md": {
     ms: {
       title: "Bomba",
-      description: "Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden kebakaran.",
+      description: "Bermain sebagai BOMBA di Sumaya - jentera bomba, hidran, dan insiden kebakaran.",
     },
     zh: {
       title: "消防",
-      description: "在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。",
+      description: "在 Sumaya 扮演 BOMBA - 消防车、消火栓与火灾响应。",
     },
     ta: {
       title: "தீயணைப்பு",
-      description: "Sumaya-வில் BOMBA விளையாடுதல் — தீயணைப்பு வாகனங்கள், ஹைட்ரண்டுகள், மற்றும் தீ சம்பவங்கள்.",
+      description: "Sumaya-வில் BOMBA விளையாடுதல் - தீயணைப்பு வாகனங்கள், ஹைட்ரண்டுகள், மற்றும் தீ சம்பவங்கள்.",
     },
   },
   "sumaya/kesihatan.md": {
     ms: {
       title: "Kesihatan",
-      description: "Bermain sebagai Kesihatan di Sumaya — ambulans, rawatan, dan menghidupkan semula.",
+      description: "Bermain sebagai Kesihatan di Sumaya - ambulans, rawatan, dan menghidupkan semula.",
     },
     zh: {
       title: "医护",
-      description: "在 Sumaya 扮演 Kesihatan — 救护车、治疗与复苏。",
+      description: "在 Sumaya 扮演 Kesihatan - 救护车、治疗与复苏。",
     },
     ta: {
       title: "மருத்துவம்",
-      description: "Sumaya-வில் Kesihatan விளையாடுதல் — ஆம்புலன்ஸ், சிகிச்சை, மற்றும் மீட்பு.",
+      description: "Sumaya-வில் Kesihatan விளையாடுதல் - ஆம்புலன்ஸ், சிகிச்சை, மற்றும் மீட்பு.",
     },
   },
   "sumaya/vehicles.md": {

@@ -2,13 +2,13 @@
 title: Ciri Sosial
 description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
-translated_from_hash: "4c6589bb"
+translated_from_hash: "323e13bf"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Ciri Sosial
 
-Lebuhraya mempunyai beberapa sistem yang direka untuk menjadikan permainan lebih seronok apabila anda bermain dengan orang lain — sistem **Convoy** untuk memperoleh pendapatan bersama-sama, sistem **Kecemasan 999** untuk main peranan yang didorong pemain, **Phone** untuk aplikasi dan komunikasi, serta **Tokens** untuk rangsangan sementara.
+Lebuhraya mempunyai beberapa sistem yang direka untuk menjadikan permainan lebih seronok apabila anda bermain dengan orang lain - sistem **Convoy** untuk memperoleh pendapatan bersama-sama, sistem **Kecemasan 999** untuk main peranan yang didorong pemain, **Phone** untuk aplikasi dan komunikasi, serta **Tokens** untuk rangsangan sementara.
 
 ## Convoy
 
@@ -17,7 +17,7 @@ Memandu bersama, perolehi lebih. Convoy memberi ganjaran kepada permainan yang d
 ### Mencipta convoy
 
 1. Buka menu convoy (daripada Menu Utama atau bar atas).
-2. Pilih **Create convoy** — anda menjadi ketua.
+2. Pilih **Create convoy** - anda menjadi ketua.
 3. Sama ada jemput pemain tertentu atau tetapkan convoy sebagai awam supaya orang lain dalam lingkungan 500 stud boleh memohon untuk menyertai.
 
 ### Menyertai convoy
@@ -25,7 +25,7 @@ Memandu bersama, perolehi lebih. Convoy memberi ganjaran kepada permainan yang d
 - **Melalui jemputan**: Ketua menghantar jemputan kepada anda; terima dalam masa 30 saat atau ia akan luput. Anda juga boleh menolak.
 - **Melalui permohonan**: Buka menu convoy, lihat convoy awam dalam lingkungan 500 stud, dan mohon untuk menyertai. Ketua mempunyai 30 saat untuk meluluskan permohonan anda sebelum ia luput.
 
-Kedua-dua pihak menggunakan tempoh tamat 30 saat yang sama — jika anda terlepas, hanya jemput semula atau mohon semula.
+Kedua-dua pihak menggunakan tempoh tamat 30 saat yang sama - jika anda terlepas, hanya jemput semula atau mohon semula.
 
 ### Peraturan convoy
 
@@ -71,11 +71,11 @@ Jika anda berada dalam pasukan **Bomba**, **Polis Trafik**, **Undercover Police*
 
 1. Lengkapkan alat **Pager** anda.
 2. Lihat panel insiden aktif.
-3. Ketik untuk menerima insiden — ia menjadi kes yang ditugaskan kepada anda.
+3. Ketik untuk menerima insiden - ia menjadi kes yang ditugaskan kepada anda.
 4. Pandu ke lokasi tersebut.
 5. Selesaikan insiden mengikut jenisnya:
-   - **Car Crash** — Gunakan spreader/gergaji rantai untuk membebaskan pemandu yang terperangkap (Bomba), tampal kecederaan (Kesihatan), uruskan tempat kejadian (Polis).
-   - **Injured Person** — Stabilkan dan angkut ke hospital (Kesihatan).
+   - **Car Crash** - Gunakan spreader/gergaji rantai untuk membebaskan pemandu yang terperangkap (Bomba), tampal kecederaan (Kesihatan), uruskan tempat kejadian (Polis).
+   - **Injured Person** - Stabilkan dan angkut ke hospital (Kesihatan).
 6. Setelah anda berada di tempat kejadian dan tempoh respons minimum (**30 saat**) telah berlalu, selesaikan insiden untuk mendapat ganjaran.
 
 ### Had
@@ -91,12 +91,12 @@ Setiap pemain mempunyai telefon yang boleh diakses daripada bar atas.
 ### Ciri terbina dalam
 
 - **Kecemasan 999**
-- **Navigasi GPS** — tetapkan titik laluan ke mana-mana POI
+- **Navigasi GPS** - tetapkan titik laluan ke mana-mana POI
 - **Jam sistem** yang memaparkan masa dalam permainan
 
 ### Aplikasi
 
-- **Rafahia App v3.0** — Aplikasi sosial bersatu komuniti MYSverse (pemesejan, profil, ciri merentas pengalaman).
+- **Rafahia App v3.0** - Aplikasi sosial bersatu komuniti MYSverse (pemesejan, profil, ciri merentas pengalaman).
 
 Lebih banyak aplikasi telefon mungkin muncul dari semasa ke semasa apabila platform MYSverse menambah ciri.
 
@@ -125,13 +125,13 @@ Apa yang MyPod **tidak** lakukan:
 
 ## The Tablet
 
-Peranti sekunder yang tersedia daripada bar atas. Anggapkan ia sebagai "HUD kerjaya" anda — skrin lebih besar, lebih banyak data berbanding telefon.
+Peranti sekunder yang tersedia daripada bar atas. Anggapkan ia sebagai "HUD kerjaya" anda - skrin lebih besar, lebih banyak data berbanding telefon.
 
 ### Aplikasi
 
-- **Vehicle** — Lihat pendaftaran kenderaan dan maklumat lesen memandu mana-mana pemain berhampiran. Berguna untuk adegan main peranan (pemeriksaan rambang, carian insurans). Keterlihatan lesen dikawal pasukan — hanya pasukan tertentu (APJ, Polis) boleh melihat butiran lesen penuh.
-- **Developer** *(staf sahaja)* — Paparan moderasi admin yang menunjukkan butiran pemain, baki BR, wang POS, dan sejarah mesej.
-- **Moderator** *(staf sahaja)* — Alat moderasi staf tambahan.
+- **Vehicle** - Lihat pendaftaran kenderaan dan maklumat lesen memandu mana-mana pemain berhampiran. Berguna untuk adegan main peranan (pemeriksaan rambang, carian insurans). Keterlihatan lesen dikawal pasukan - hanya pasukan tertentu (APJ, Polis) boleh melihat butiran lesen penuh.
+- **Developer** *(staf sahaja)* - Paparan moderasi admin yang menunjukkan butiran pemain, baki BR, wang POS, dan sejarah mesej.
+- **Moderator** *(staf sahaja)* - Alat moderasi staf tambahan.
 
 ## Sistem Report
 
@@ -141,10 +141,10 @@ Gunakan sistem **Report** dalam permainan apabila anda perlu menghantar maklum b
 
 Laporan yang baik adalah khusus:
 
-- **Apa yang berlaku** — contohnya "Vehicle spawner opened but Spawn did nothing."
-- **Di mana** — bandar, kedai, spawner, jalan, atau landmark anggaran.
-- **Apa yang anda sedang buat** — pasukan, kenderaan, kerja, alat, menu.
-- **Sama ada ia berulang** — sekali, setiap kali, hanya di mobile, hanya di private server.
+- **Apa yang berlaku** - contohnya "Vehicle spawner opened but Spawn did nothing."
+- **Di mana** - bandar, kedai, spawner, jalan, atau landmark anggaran.
+- **Apa yang anda sedang buat** - pasukan, kenderaan, kerja, alat, menu.
+- **Sama ada ia berulang** - sekali, setiap kali, hanya di mobile, hanya di private server.
 - **Nama pemain** jika ia isu kelakuan pemain.
 
 ### Bila untuk menggunakannya
@@ -168,11 +168,11 @@ Lebuhraya mengeluarkan **kad pengenalan gaya Malaysia** kepada setiap pemain dal
 YYMMDD-PB-XXXX
 ```
 
-- **YYMMDD** — tarikh akaun Roblox anda menyertai (tahun, bulan, hari).
-- **PB** — kod asal pemain. Lalai ialah **14** (sektor KL MYSverse) untuk kebanyakan pemain; ID khusus (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) menggunakan kod berbeza.
-- **XXXX** — empat digit terakhir ID akaun Roblox anda.
+- **YYMMDD** - tarikh akaun Roblox anda menyertai (tahun, bulan, hari).
+- **PB** - kod asal pemain. Lalai ialah **14** (sektor KL MYSverse) untuk kebanyakan pemain; ID khusus (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) menggunakan kod berbeza.
+- **XXXX** - empat digit terakhir ID akaun Roblox anda.
 
-Jadi jika anda menyertai Roblox pada 15 Mac 2020 dan ID akaun anda berakhir dengan 6789, IC anda ialah **200315-14-6789**. IC anda konsisten setiap kali bermain — ia tidak berubah.
+Jadi jika anda menyertai Roblox pada 15 Mac 2020 dan ID akaun anda berakhir dengan 6789, IC anda ialah **200315-14-6789**. IC anda konsisten setiap kali bermain - ia tidak berubah.
 
 Kad pengenalan khusus (Kad Polis untuk penguatkuasaan undang-undang, KKM untuk perubatan, dll.) dikeluarkan secara automatik berdasarkan pasukan anda. Gunakan `/me show IC` atau berinteraksi dengan NPC roleplay untuk menunjukkannya.
 
@@ -182,11 +182,11 @@ Setiap pemain mendapat **Driving Licence** sebagai tool dalam beg galas mereka. 
 
 **Pegawai APJ** boleh menggantung lesen pemain untuk beberapa minit. Pemain yang digantung melihat sepanduk: *"APJ: Your driver licence has been suspended for X minutes."* Penggantungan dibatalkan secara automatik, atau boleh dibatalkan lebih awal oleh ahli APJ.
 
-Mempunyai lesen yang digantung secara teknikalnya tidak menghalang anda daripada memandu, tetapi ia adalah akibat main peranan — ikut serta dalam permainan.
+Mempunyai lesen yang digantung secara teknikalnya tidak menghalang anda daripada memandu, tetapi ia adalah akibat main peranan - ikut serta dalam permainan.
 
 ## Token dan Rangsangan
 
-Beberapa kelebihan sementara datang daripada **token** — item rangsangan yang boleh digunakan dalam inventori anda.
+Beberapa kelebihan sementara datang daripada **token** - item rangsangan yang boleh digunakan dalam inventori anda.
 
 | Token | Kesan |
 |---|---|
@@ -204,16 +204,16 @@ Beberapa kelebihan sementara datang daripada **token** — item rangsangan yang 
 
 ### Cara menggunakan token
 
-Buka token daripada inventori anda (**Main Menu -> More -> Tokens**). **Active Tokens HUD** muncul secara automatik apabila sekurang-kurangnya satu token berjalan — setiap token aktif menunjukkan ikon, nama, dan countdown **M:SS**. Token berjalan selari (anda boleh mempunyai 2× XP Boost + Season Pass Boost + Team Access sekali gus).
+Buka token daripada inventori anda (**Main Menu -> More -> Tokens**). **Active Tokens HUD** muncul secara automatik apabila sekurang-kurangnya satu token berjalan - setiap token aktif menunjukkan ikon, nama, dan countdown **M:SS**. Token berjalan selari (anda boleh mempunyai 2× XP Boost + Season Pass Boost + Team Access sekali gus).
 
-Token **digunakan semasa pengaktifan** — setelah pemasa bermula anda tidak boleh pause. Simpan untuk sesi permainan berterusan.
+Token **digunakan semasa pengaktifan** - setelah pemasa bermula anda tidak boleh pause. Simpan untuk sesi permainan berterusan.
 
 ## Sembang dan pemesejan
 
-Sembang Roblox standard tersedia melalui **/** (slash). Sembang pasukan adalah pilihan jika anda mahu bercakap hanya dengan pasukan semasa anda. Mesra main peranan — kekalkan sembang bersih dan hormati peraturan komuniti MYSverse.
+Sembang Roblox standard tersedia melalui **/** (slash). Sembang pasukan adalah pilihan jika anda mahu bercakap hanya dengan pasukan semasa anda. Mesra main peranan - kekalkan sembang bersih dan hormati peraturan komuniti MYSverse.
 
 ## Langkah seterusnya
 
-- [Ekonomi dan XP](/lebuhraya/economy) — Tempat pengganda convoy bersesuaian
-- [Pekerjaan](/lebuhraya/jobs) — Butiran pekerjaan pasukan kecemasan
-- [Pass dan Rangsangan](/lebuhraya/passes-and-boosts) — Gamepass berbanding token
+- [Ekonomi dan XP](/lebuhraya/economy) - Tempat pengganda convoy bersesuaian
+- [Pekerjaan](/lebuhraya/jobs) - Butiran pekerjaan pasukan kecemasan
+- [Pass dan Rangsangan](/lebuhraya/passes-and-boosts) - Gamepass berbanding token

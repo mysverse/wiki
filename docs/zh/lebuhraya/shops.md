@@ -2,7 +2,7 @@
 title: 商店
 description: Lebuhraya 的食品、零食和杂货商店汇总。
 lang: zh
-translated_from_hash: "15444183"
+translated_from_hash: "f8e1b3fe"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -10,7 +10,7 @@ needs_review: true
 
 Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool 购买的食品(食用后会带来小幅游戏效果，或可用于 roleplay)。少数则售卖专门装备，例如 jerrycan 和 tech tools。本页列出每间商店售卖的物品，并指引你前往这些商店的位置。
 
-> **商店目前免费。** 物品定价暂时关闭——走到商店前选择物品即可获得，无需扣除 BR。这在未来更新中可能会改变。Jerrycan Shop 强制执行 **每位玩家最多 2 个 jerrycan** 和 **每位玩家最多 1 个 toolkit** 的限制；其他商店一般不限制购买数量。
+> **商店目前免费。** 物品定价暂时关闭 -  - 走到商店前选择物品即可获得，无需扣除 BR。这在未来更新中可能会改变。Jerrycan Shop 强制执行 **每位玩家最多 2 个 jerrycan** 和 **每位玩家最多 1 个 toolkit** 的限制；其他商店一般不限制购买数量。
 
 ## 食品商店
 
@@ -30,7 +30,7 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 ### Selera Kak Rinasmol
 
-由「Kak Rinasmol」掌厨的家常菜——又一个充满本地风味的午餐选择。
+由「Kak Rinasmol」掌厨的家常菜 -  - 又一个充满本地风味的午餐选择。
 
 ### Pingu Pepper Lunch
 
@@ -42,7 +42,7 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 ### Encik Yang's Epic Snack
 
-零食——甜咸俱备，适合途中随手抓取。
+零食 -  - 甜咸俱备，适合途中随手抓取。
 
 ### Max Beef
 
@@ -79,7 +79,7 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 **售卖**：
 
-- **Jerrycan**（每位玩家限 2 个）——10 L 容量
+- **Jerrycan**（每位玩家限 2 个） -  - 10 L 容量
 - **Toolkit**（每位玩家限 1 个）
 
 ## KeluargaMart
@@ -95,7 +95,7 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 - **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
 - **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
 
-和其他商店一样，KeluargaMart 目前免费 — 想拿什么就拿什么。执法队伍玩家（Polis、APJ）会被阻止使用 register 互动，以避免值勤时的不专业行为。
+和其他商店一样，KeluargaMart 目前免费 - 想拿什么就拿什么。执法队伍玩家（Polis、APJ）会被阻止使用 register 互动，以避免值勤时的不专业行为。
 
 ## Food Delivery 互动
 
@@ -106,7 +106,7 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 ## 购买机制
 
 - 走到商店 NPC 或柜台前。
-- 会出现一个 ProximityPrompt——与之互动以打开商店菜单。
+- 会出现一个 ProximityPrompt -  - 与之互动以打开商店菜单。
 - 选择物品。在当前 build 中不会扣除 BR；物品会免费发放。
 - 物品会作为 tool 出现在你的 inventory 中。装备它即可使用 / 食用 / 展示。
 
@@ -116,6 +116,6 @@ Lebuhraya 在地图上分布着 **12 间商店**。大多数售卖可作为 tool
 
 ## 后续步骤
 
-- [世界与地图](/lebuhraya/map) — 每间商店的实际位置
-- [工作 → Food Delivery](/lebuhraya/jobs#food-delivery) — 从这些商店赚取 XP
-- [住房](/lebuhraya/housing) — 家具，你需要它才能真正使用厨房物品
+- [世界与地图](/lebuhraya/map) - 每间商店的实际位置
+- [工作 → Food Delivery](/lebuhraya/jobs#food-delivery) - 从这些商店赚取 XP
+- [住房](/lebuhraya/housing) - 家具，你需要它才能真正使用厨房物品

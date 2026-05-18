@@ -2,13 +2,13 @@
 title: 队伍与职业
 description: Lebuhraya 全部 18 支队伍及 20 级职级体系。
 lang: zh
-translated_from_hash: "9fff3580"
+translated_from_hash: "fbc4f2d1"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 队伍与职业
 
-Lebuhraya 有 **18 个队伍**。每个队伍代表游戏中马来西亚高速公路社会的不同角色 — 从 delivery rider 到 firefighter。加入队伍会解锁 job activities、队伍专属制服，有时也会解锁特殊车辆。
+Lebuhraya 有 **18 个队伍**。每个队伍代表游戏中马来西亚高速公路社会的不同角色 - 从 delivery rider 到 firefighter。加入队伍会解锁 job activities、队伍专属制服，有时也会解锁特殊车辆。
 
 你的 **career tier** 位于队伍系统之上。你可以通过在工作中获得分支专属 XP，从 **Trainee** 一路晋升到最高职位（例如 Senior Assistant Commissioner 或 Fire Commissioner）。
 
@@ -35,7 +35,7 @@ Teams 标签使用 carousel：
 | 队伍 | 说明 |
 |---|---|
 | **Visitors** | 你加入时的默认队伍。适合扮演通勤者或游客。 |
-| **Bus Driver** | 驾驶 minivan 和 bus 运行固定路线。免费并向所有人开放 — 很好的入门点。 |
+| **Bus Driver** | 驾驶 minivan 和 bus 运行固定路线。免费并向所有人开放 - 很好的入门点。 |
 
 ### 通过 MYSverse 社群会员解锁
 
@@ -52,11 +52,11 @@ Malaysians 队伍是 community-role 队伍，不是普通付费 career branch。
 | **Food Delivery** | 10 | 使用摩托车把店铺订单送给客户。 |
 | **Waste Disposal** | 25 | 从垃圾桶收集垃圾并送到焚化站。 |
 | **Post Office** | 50 | 为 Pos Nasional 递送信件和包裹。 |
-| **Logistics** | 75 | Freight trucking — 用 Rolvo FM 或 Sanica P-series 运货。 |
+| **Logistics** | 75 | Freight trucking - 用 Rolvo FM 或 Sanica P-series 运货。 |
 | **Power Nasional** | 100 | 国家电力公共事业承包工作。 |
 | **Lumberjack** | 150 | 用斧头砍树并运输木材。 |
-| **Kesihatan** | 200 | 国家卫生部 — 驾驶 ambulances、治疗 patients、响应 999 medical calls。 |
-| **APJ** | 300 | Road Transport Agency — 执行驾驶和车辆法规。 |
+| **Kesihatan** | 200 | 国家卫生部 - 驾驶 ambulances、治疗 patients、响应 999 medical calls。 |
+| **APJ** | 300 | Road Transport Agency - 执行驾驶和车辆法规。 |
 
 > Waste Disposal、Logistics 和 Lumberjack 队伍可通过购买 **Season 1 Season Pass** 提前解锁。部分游戏内文字可能仍引用旧 level 数值；以上数字是当前游戏内要求。
 
@@ -81,7 +81,7 @@ Malaysians 队伍是 community-role 队伍，不是普通付费 career branch。
 
 ## Career tiers 与 ranks
 
-每个队伍（Visitors 和系统队伍除外）最多有 **20 个 career tiers**。你通过完成该队伍工作获得 branch-specific XP — 例如 Taxi mission、作为 Bomba 响应 999 call、作为 Logistics 递送 freight。XP 足够后就会 rank up。
+每个队伍（Visitors 和系统队伍除外）最多有 **20 个 career tiers**。你通过完成该队伍工作获得 branch-specific XP - 例如 Taxi mission、作为 Bomba 响应 999 call、作为 Logistics 递送 freight。XP 足够后就会 rank up。
 
 打开 **Main Menu -> More -> Career** 查看整体 career status。打开 **Main Menu -> More -> Jobs** 查看 branch tier progress 和 rewards。
 
@@ -91,7 +91,7 @@ Tier 曲线为：
 
 - **Tier 1** 需要 500 XP
 - 每个后续 tier 比前一个多需要 **15% XP**
-- **Tier 20** 单独约需 **7,100 XP** — 从零开始累计约 **51,000 XP**
+- **Tier 20** 单独约需 **7,100 XP** - 从零开始累计约 **51,000 XP**
 
 你可以在 **Main Menu -> More -> Career** 查看当前 tier 和 XP progress。
 
@@ -132,7 +132,7 @@ Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Ar
 达到 tier milestone 可解锁：
 
 - 显示在角色和 leaderboard 上的**新 rank title**
-- **Career vehicles** — 例如更高 tier 的 Bomba rank 解锁更大的 fire trucks；更高 tier 的 Taxi Driver rank 解锁更好的 taxi models
+- **Career vehicles** - 例如更高 tier 的 Bomba rank 解锁更大的 fire trucks；更高 tier 的 Taxi Driver rank 解锁更好的 taxi models
 - 偶尔有 **cosmetic items**（uniforms、accessories）
 
 Career vehicles 在你的 tier 足够高之前，不会显示在对应 team vehicle spawner 中。
@@ -149,7 +149,7 @@ Career vehicles 在你的 tier 足够高之前，不会显示在对应 team vehi
 
 ## 制服与服装
 
-每个队伍都有自己的 **uniform kit** — 与角色相关的帽子、背心、配件。加入队伍后，你可以通过 career customisation menu 穿上队伍制服。示例 kit：
+每个队伍都有自己的 **uniform kit** - 与角色相关的帽子、背心、配件。加入队伍后，你可以通过 career customisation menu 穿上队伍制服。示例 kit：
 
 - **KEMRonda**: Beret、PB Patch、Reflective Vest
 - **Polis Trafik**: Cap、Bike Jacket、Duty Belt、Reflective Coat
@@ -158,5 +158,5 @@ Career vehicles 在你的 tier 足够高之前，不会显示在对应 team vehi
 
 ## 后续步骤
 
-- [工作](/zh/lebuhraya/jobs) — 每个队伍在典型 shift 中实际做什么
-- [通行证与加成](/zh/lebuhraya/passes-and-boosts) — Gamepass 和 Season Pass
+- [工作](/zh/lebuhraya/jobs) - 每个队伍在典型 shift 中实际做什么
+- [通行证与加成](/zh/lebuhraya/passes-and-boosts) - Gamepass 和 Season Pass

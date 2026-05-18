@@ -1,9 +1,9 @@
 ---
 title: "Arrest & Law"
-description: "How arrests work in Bandaraya — LTAA, RTAA, summons, jail time, and suspect rights."
+description: "How arrests work in Bandaraya - LTAA, RTAA, summons, jail time, and suspect rights."
 ---
 
-# Arrest & Law
+# Arrest & law
 
 This page explains arrests, detainment, summons, searches, and police alerts from both sides of the roleplay.
 
@@ -16,7 +16,7 @@ This page explains arrests, detainment, summons, searches, and police alerts fro
 - **RTAA:** reset is disabled at low health to prevent escape.
 - **Saman:** police summons are deducted immediately.
 
-## Who Can Arrest
+## Who can arrest
 
 | Team | Notes |
 | --- | --- |
@@ -28,9 +28,9 @@ Other teams can call police, witness, assist, or roleplay scene support, but the
 
 The Yang di-Pertuan Persekutuan has ceremonial law-enforcement equipment, but real arrest processing should still involve POLIS, KPTD, or Polis Bantuan.
 
-## The Arrest Flow
+## The arrest flow
 
-### Officer Perspective
+### Officer perspective
 
 1. **Detain** the suspect.
 2. **Move or ground** the suspect if the scene needs control.
@@ -40,7 +40,7 @@ The Yang di-Pertuan Persekutuan has ceremonial law-enforcement equipment, but re
 
 Officers should explain the charge, keep the scene in character, and avoid unnecessary force.
 
-### Suspect Perspective
+### Suspect perspective
 
 When arrested:
 
@@ -49,19 +49,19 @@ When arrested:
 - Your tools and movement are restricted.
 - After 3 minutes, you are released and can choose a team again.
 
-## LTAA - Leave to Avoid Arrest
+## LTAA - leave to avoid arrest
 
 Leaving while detained, cuffed, or being arrested is LTAA. The game can apply the arrest timer when you return, even in a later session.
 
 Do not rage-quit to escape a scene. It usually makes the outcome worse.
 
-## RTAA - Reset to Avoid Arrest
+## RTAA - reset to avoid arrest
 
 Resetting to escape roleplay is RTAA. Bandaraya prevents this by disabling reset when your health is at or below 75 HP.
 
 If you are injured, wait for treatment, continue the scene, or let the arrest play out.
 
-## Saman Summons
+## Saman summons
 
 Police can issue summons for traffic or minor offences.
 
@@ -86,17 +86,17 @@ Officers can request to search you.
 
 Police may use fingerprinting or ID checks during investigations. This helps confirm identity during arrests, BOLOs, and summons.
 
-## BOLO Alerts
+## BOLO alerts
 
 A **BOLO** is a police alert for a suspect. POLIS can create and review BOLOs through the MDT tablet. A BOLO helps officers coordinate, but it is not a licence to break roleplay or skip proper procedure.
 
-## Getting Out of Trouble
+## Getting out of trouble
 
 - Wait out the 3-minute timer.
 - Stay in character.
 - Appeal through the community server if you believe staff review is needed.
 
-## What Not to Do
+## What not to do
 
 These can lead to moderation action:
 
@@ -106,7 +106,7 @@ These can lead to moderation action:
 - Abusing tools while detained, cuffed, injured, or arrested.
 - Going rogue while on a public-service team.
 
-## See Also
+## See also
 
 - [Emergency Services](/bandaraya/emergency-services)
 - [Tablet](/bandaraya/tablet)

@@ -2,7 +2,7 @@
 title: 战斗与健康
 description: Bandaraya 的武器、护甲、受伤机制和医疗系统。
 lang: zh
-translated_from_hash: "2c4e4f94"
+translated_from_hash: "700a7ffd"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -15,7 +15,7 @@ Bandaraya 有详细的武器、受伤和医疗系统。本页说明开火时会�
 - 大部分平民都不能带枪。你需要 **Firearms Licence gamepass**(1,250 R$),或者你得在会发枪的队伍里(POLIS、KPTD、MAF、Developers、Moderation、Yang di-Pertuan Persekutuan)。
 - 子弹会穿透透明的 / 不会碰撞的 / **Glass / Ignorable** 部件。它们会被 **Armor / EShield** 部件挡下。有些车辆是防弹的。
 - 受伤时:你会流失 **血液** (Sangue),并累积 **疼痛** (Dor)。流血、打夹板、包扎。医护人员(KKM / SJAM)可以稳定你的状况。
-- **重置按钮在 75 HP 或以下会被禁用** — 你不能用自杀来逃脱麻烦的状况。
+- **重置按钮在 75 HP 或以下会被禁用** - 你不能用自杀来逃脱麻烦的状况。
 - **KKM 或 SJAM 在线时,bleedout 计时是 5 分钟。** 医护人员值班时,被动 HP 回血也会被禁用。如果没有医护人员及时救你,你就会 respawn。
 
 ---
@@ -41,7 +41,7 @@ Bandaraya 有详细的武器、受伤和医疗系统。本页说明开火时会�
 - 后坐力、散布和射速因武器而异。
 - 边跑边射比瞄准射击准度差。
 
-ACS 经过实战检验 — 合法武器的正常 DPS 大约 ~1500,峰值 ~3000。反作弊已调整到可以允许真正的战斗,不会踢走合法玩家。
+ACS 经过实战检验 - 合法武器的正常 DPS 大约 ~1500,峰值 ~3000。反作弊已调整到可以允许真正的战斗,不会踢走合法玩家。
 
 ### 子弹穿透
 
@@ -52,18 +52,18 @@ ACS 经过实战检验 — 合法武器的正常 DPS 大约 ~1500,峰值 ~3000�
   - **Non-colliding**
   - 命名为 **Glass** 或 **Ignorable**
 - **停在**任何命名为以下名称的部件:
-  - **Armor** — 永远挡子弹
-  - **EShield** — 能量护盾,挡子弹
+  - **Armor** - 永远挡子弹
+  - **EShield** - 能量护盾,挡子弹
 
 这对掩护很重要:如果一堵齐胸高的墙是透明的,它可能挡不住子弹;木栅栏如果是会碰撞的,就会挡住子弹。
 
 ### 防弹车辆
 
-有些车辆的座舱周围放了 `Armor` 部件 — 车内**完全防弹**。
+有些车辆的座舱周围放了 `Armor` 部件 - 车内**完全防弹**。
 
-- **AV4** (POLIS) — 座舱周围有 29 个装甲部件
+- **AV4** (POLIS) - 座舱周围有 29 个装甲部件
 - **V150** (POLIS)
-- **UTK Hilux 变体** — 防弹座舱
+- **UTK Hilux 变体** - 防弹座舱
 
 一般的平民车辆**不**防弹。Proton Persona 挡不住子弹。
 
@@ -126,24 +126,24 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 
 | 物品 | 用途 |
 | --- | --- |
-| **Morfina** | 吗啡 — 止痛 |
-| **Epinefrina** | 肾上腺素 — 兴奋剂,帮助复苏 |
-| **Aspirina** | 阿司匹林 — 轻度止痛 |
-| **Energetico** | 能量饮料 — 体力 |
+| **Morfina** | 吗啡 - 止痛 |
+| **Epinefrina** | 肾上腺素 - 兴奋剂,帮助复苏 |
+| **Aspirina** | 阿司匹林 - 轻度止痛 |
+| **Energetico** | 能量饮料 - 体力 |
 
 ### 血液 & 静脉
 
 | 物品 | 用途 |
 | --- | --- |
-| **SacoDeSangue** | 血袋 — 恢复血量 |
+| **SacoDeSangue** | 血袋 - 恢复血量 |
 | **Catheter** | 静脉导管 |
 
 ### 伤口护理
 
 | 物品 | 用途 |
 | --- | --- |
-| **Bandagem** | 绷带 — 包扎伤口,减缓流血 |
-| **Tourniquet** | 止血带 — 止住肢体出血 |
+| **Bandagem** | 绷带 - 包扎伤口,减缓流血 |
+| **Tourniquet** | 止血带 - 止住肢体出血 |
 | **Splint** | 稳定骨折 |
 | **Prolene / Nylon** | 缝合材料 |
 
@@ -171,7 +171,7 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 
 | 物品 | 用途 |
 | --- | --- |
-| **Defib** | 除颤器 — 重启心跳停止的心脏 |
+| **Defib** | 除颤器 - 重启心跳停止的心脏 |
 
 ---
 
@@ -180,37 +180,37 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 ### 自我治疗(平民)
 
 - **被动回血:** 每秒恢复最大 HP 的 1%(每 3 秒以 3% 为一 tick 结算),前提是没在被主动治疗中(`TraumaKitHealing` 会暂停它)而且没在流血。
-- **自己包扎** — 减缓流血,恢复一些 HP。
-- **喝 / 吃** — 小幅提升。
+- **自己包扎** - 减缓流血,恢复一些 HP。
+- **喝 / 吃** - 小幅提升。
 
 ### 医护治疗 (KKM / SJAM)
 
 医护人员可以:
 
-1. **止血** — 用止血带或绷带。
-2. **补血** — 用血袋。
-3. **止痛** — 用吗啡。
-4. **Defib** — 如果你的心跳停了。
-5. **做手术**(只有 KKM)— 手术刀、麻醉、缝合。
+1. **止血** - 用止血带或绷带。
+2. **补血** - 用血袋。
+3. **止痛** - 用吗啡。
+4. **Defib** - 如果你的心跳停了。
+5. **做手术**(只有 KKM) - 手术刀、麻醉、缝合。
 
 坐好别乱跑。
 
 ### Bleedout 计时
 
-- **KKM 或 SJAM 在线**(队伍:Institutional white / Forest green):倒下之后有 5 分钟 bleedout 窗口。被动回血会被禁用 — 必须靠医护人员救你。
+- **KKM 或 SJAM 在线**(队伍:Institutional white / Forest green):倒下之后有 5 分钟 bleedout 窗口。被动回血会被禁用 - 必须靠医护人员救你。
 - **没有医护在线:** 你可以随时 respawn(没医护的话,游戏不会把你扣着)。
 
 ### 重置按钮
 
-重置按钮在 **75 HP 或以下会被禁用** — 这是为了阻止 **RTAA**(reset 来逃避逮捕)。如果你受伤了,硬撑过去或等医护。
+重置按钮在 **75 HP 或以下会被禁用** - 这是为了阻止 **RTAA**(reset 来逃避逮捕)。如果你受伤了,硬撑过去或等医护。
 
 见 [Arrest & Law](/bandaraya/arrest-and-law#rtaa)。
 
 ---
 
-## Hardpoint — 占点 / 突袭游戏模式
+## Hardpoint - 占点 / 突袭游戏模式
 
-**Hardpoint** 是一个占点游戏模式,基本上完全保留给 **OCG vs OCG** 的团体活动。它不是日常功能 — 只有 OCG 领袖发起突袭时才会运行。
+**Hardpoint** 是一个占点游戏模式,基本上完全保留给 **OCG vs OCG** 的团体活动。它不是日常功能 - 只有 OCG 领袖发起突袭时才会运行。
 
 Raid 的进行方式:
 
@@ -237,9 +237,9 @@ Raid 的进行方式:
 
 ## 另见
 
-- [Arrest & Law](/bandaraya/arrest-and-law) — 拘留、逮捕机制、LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) — KKM + SJAM 角色
-- [Economy](/bandaraya/economy) — Ammulaysia 和 Illegal Dealer 店铺
-- [Gamepasses](/bandaraya/gamepasses) — Firearms Licence
-- [Vehicles](/bandaraya/vehicles) — 防弹车辆列表
-- [Rules](/bandaraya/rules) — 战斗礼仪和严重违规
+- [Arrest & Law](/bandaraya/arrest-and-law) - 拘留、逮捕机制、LTAA / RTAA
+- [Emergency Services](/bandaraya/emergency-services) - KKM + SJAM 角色
+- [Economy](/bandaraya/economy) - Ammulaysia 和 Illegal Dealer 店铺
+- [Gamepasses](/bandaraya/gamepasses) - Firearms Licence
+- [Vehicles](/bandaraya/vehicles) - 防弹车辆列表
+- [Rules](/bandaraya/rules) - 战斗礼仪和严重违规

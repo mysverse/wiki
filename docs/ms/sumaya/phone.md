@@ -2,7 +2,7 @@
 title: Telefon & UI
 description: '12 aplikasi telefon, HUD, dan peta mini di Sumaya.'
 lang: ms
-translated_from_hash: "9b5574d6"
+translated_from_hash: "afb76c5b"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -117,10 +117,10 @@ Rantaian quest selamat datang bermula secara automatik pada penyertaan pertama d
 
 Panduan anda kepada mercu tanda Sumaya. Aplikasi Jelajah memaparkan setiap Point of Interest di bandar dan yang mana telah anda lawati:
 
-- Pil kemajuan di bahagian atas — `<discovered> / <total> ditemui` ("dijumpai").
+- Pil kemajuan di bahagian atas - `<discovered> / <total> ditemui` ("dijumpai").
 - Penapis: **Semua**, **Ditemui**, **Belum**.
 - Senarai kad yang boleh ditatal. POI yang ditemui menunjukkan titik kategori berwarna, nama mercu tanda, dan penerangan ringkas. POI yang dikunci dipaparkan sebagai `???` dengan hanya kategori kelihatan.
-- Ketik kad untuk skrin perincian — penerangan penuh, ringkasan ganjaran, dan (jika anda telah menemuinya) butang **Baca Maklumat** untuk membuka semula infografik mercu tanda.
+- Ketik kad untuk skrin perincian - penerangan penuh, ringkasan ganjaran, dan (jika anda telah menemuinya) butang **Baca Maklumat** untuk membuka semula infografik mercu tanda.
 
 Apabila anda berjalan ke dalam POI yang ditandakan buat kali pertama, aplikasi memaparkan toast `Ditemui: <name>` dan entri bertukar daripada terkunci kepada ditemui. Ganjaran POI dimasukkan ke akaun bank anda secara automatik.
 
@@ -213,21 +213,21 @@ Jika anda mati, menukar pasukan, meninggalkan kerja, atau objektif hilang, panel
 
 Di bawah peta mini, widget **StatusGui** memaparkan **tahap Citizen** anda dan (apabila pada kerja atau pasukan kecemasan) **tahap + pangkat sektor aktif** anda. Ia adalah dua baris padat:
 
-- **Baris atas** — `Citizen <Level>` dengan bar kemajuan dan angka `progress / max`. Sentiasa kelihatan.
-- **Baris bawah** — sektor semasa anda. Pada pasukan POLIS / BOMBA / Kesihatan ia sentiasa menjejak sektor pasukan anda. Pada pasukan awam ia menjejak sektor yang anda sedang berdaftar masuk (atau yang terkini jika anda memperoleh XP dalam tempoh 30 saat yang lalu, kemudian disembunyikan). Untuk perkhidmatan awam ia memaparkan **pangkat** anda (cth. "Sergeant"); untuk sektor awam ia memaparkan `progress / max` mentah.
+- **Baris atas** - `Citizen <Level>` dengan bar kemajuan dan angka `progress / max`. Sentiasa kelihatan.
+- **Baris bawah** - sektor semasa anda. Pada pasukan POLIS / BOMBA / Kesihatan ia sentiasa menjejak sektor pasukan anda. Pada pasukan awam ia menjejak sektor yang anda sedang berdaftar masuk (atau yang terkini jika anda memperoleh XP dalam tempoh 30 saat yang lalu, kemudian disembunyikan). Untuk perkhidmatan awam ia memaparkan **pangkat** anda (cth. "Sergeant"); untuk sektor awam ia memaparkan `progress / max` mentah.
 
-Baris bawah memudar masuk dan keluar apabila anda menukar kerja / pasukan. Tiada kawalan manual ke atas apa yang dijejakinya — ia automatik.
+Baris bawah memudar masuk dan keluar apabila anda menukar kerja / pasukan. Tiada kawalan manual ke atas apa yang dijejakinya - ia automatik.
 
 ## Ikon TopBar
 
 TopBar Roblox di tengah-atas skrin memaparkan barisan ikon Sumaya yang kecil. Dari kiri ke kanan:
 
-- **Map** — togol HUD peta mini hidup/mati.
-- **Tasks** — togol kad tugasan hidup/mati (hanya muncul apabila ada sekurang-kurangnya satu kad aktif).
-- **Status** — togol widget Status hidup/mati.
-- **Open Menu** (ikon rumah) — buka semula menu utama di tengah permainan supaya anda boleh menukar pasukan atau memilih sektor lain. Ini **tidak akan respawn anda** melainkan anda benar-benar memilih pasukan baharu. Dikunci semasa anda ditahan, dikehendaki, atau dalam pertempuran (baru-baru ini ditase / ditahan).
+- **Map** - togol HUD peta mini hidup/mati.
+- **Tasks** - togol kad tugasan hidup/mati (hanya muncul apabila ada sekurang-kurangnya satu kad aktif).
+- **Status** - togol widget Status hidup/mati.
+- **Open Menu** (ikon rumah) - buka semula menu utama di tengah permainan supaya anda boleh menukar pasukan atau memilih sektor lain. Ini **tidak akan respawn anda** melainkan anda benar-benar memilih pasukan baharu. Dikunci semasa anda ditahan, dikehendaki, atau dalam pertempuran (baru-baru ini ditase / ditahan).
 
-Keempat-empat togol kekal untuk sesi tersebut — ia tidak bertahan dalam pemulaan semula pelayan, tetapi ia bertahan respawn.
+Keempat-empat togol kekal untuk sesi tersebut - ia tidak bertahan dalam pemulaan semula pelayan, tetapi ia bertahan respawn.
 
 ## Sembang
 

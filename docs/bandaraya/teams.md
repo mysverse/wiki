@@ -1,6 +1,6 @@
 ---
 title: "Teams"
-description: "Complete guide to every team in Bandaraya — emergency services, military, transport, civilian, government, and more."
+description: "Complete guide to every team in Bandaraya - emergency services, military, transport, civilian, government, and more."
 ---
 
 # Teams
@@ -15,7 +15,7 @@ Bandaraya is team-based roleplay. Your team decides where you spawn, what tools 
 - Most other teams require a Roblox group, rank, whitelist, or gamepass.
 - Some teams only appear in the menu when someone is on them. If a team disappears, it usually returns when a qualified player joins.
 
-## How Team Access Works
+## How team access works
 
 You will only see a team if you qualify. Access can come from:
 
@@ -29,7 +29,7 @@ You will only see a team if you qualify. Access can come from:
 
 Tools are granted automatically when you spawn. If your team tools do not appear, try respawning first.
 
-## Default Teams
+## Default teams
 
 | Team | Access | Notes |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Tools are granted automatically when you spawn. If your team tools do not appear
 | **Malaysians** | MYSverse group | Main civilian team. |
 | **Arrested** | Automatic | Assigned by the arrest system. |
 
-## Emergency Services
+## Emergency services
 
 | Team | Access | What they do |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ See [Emergency Services](/bandaraya/emergency-services) for role details.
 | **MYSverse Armed Forces (MAF)** | MAF group access | Military and ceremonial roleplay. |
 | **Military Police (KPTD)** | KPTD group | Military police. Can arrest. |
 
-## Transport, Taxi, and Tow
+## Transport, taxi, and tow
 
 | Team | Access | Notes |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ See [Emergency Services](/bandaraya/emergency-services) for role details.
 
 See [Jobs](/bandaraya/jobs) for how these roles earn BR.
 
-## Government and Royalty
+## Government and royalty
 
 | Team | Access | Notes |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ See [Jobs](/bandaraya/jobs) for how these roles earn BR.
 | **Yang di-Pertuan Persekutuan** | High MYSverse rank | Special ceremonial role with unique equipment. |
 | **Foreign Representative** | Whitelist | Diplomatic role. |
 
-## Special Teams
+## Special teams
 
 | Team | Access | Notes |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ See [Jobs](/bandaraya/jobs) for how these roles earn BR.
 | **Moderation Team** | Staff group/rank access | Moderators. |
 | **Developers** | MYSverse staff access | Development and testing team. |
 
-## How to Qualify
+## How to qualify
 
 1. Find the relevant group through MYSverse community channels.
 2. Join or apply.
@@ -108,7 +108,7 @@ For gamepass teams, buy the pass and wait for the team to appear. For whitelist 
 - BR, owned vehicles, and CAG data stay with your account when switching teams.
 - Public-service teams must stay in role. Going rogue is a severe rule violation.
 
-## See Also
+## See also
 
 - [Emergency Services](/bandaraya/emergency-services)
 - [Jobs](/bandaraya/jobs)

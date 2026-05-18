@@ -1,10 +1,10 @@
 ---
 title: Mula
 description: >-
-  Mula bermain Sumaya — menu utama, pemilihan pasukan, kawalan, dan lima minit
+  Mula bermain Sumaya - menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: "6af5df94"
+translated_from_hash: "2ef9751f"
 translated_on: 2026-05-18
 needs_review: true
 ---

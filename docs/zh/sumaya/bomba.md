@@ -1,8 +1,8 @@
 ---
 title: 消防
-description: 在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。
+description: 在 Sumaya 扮演 BOMBA - 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: "98365ef0"
+translated_from_hash: "eff996fa"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,7 +14,7 @@ needs_review: true
 
 ## 入门指南
 
-在主菜单选择 **BOMBA**。你出生时背包里会有一支 **Fire Extinguisher**,屏幕上会显示 BombaGui — 无需打卡。**Hose** 本身不是起始工具:你抵达事故现场时从消防车或 hydrant 上的 hose 接口取得。
+在主菜单选择 **BOMBA**。你出生时背包里会有一支 **Fire Extinguisher**,屏幕上会显示 BombaGui - 无需打卡。**Hose** 本身不是起始工具:你抵达事故现场时从消防车或 hydrant 上的 hose 接口取得。
 
 前往消防局取用车辆,或等待火灾警报在你的小地图上弹出。
 
@@ -32,17 +32,17 @@ needs_review: true
 
 Sumaya 目前在 **九个火灾模板** 之间轮换,每个都预先构建了自己的位置和方块布局:
 
-- **3 个车辆碰撞事故** — 警察局外、Hazbank 外、MFC 附近。
-- **6 个建筑火灾** — Jalan Padas Dua(两个变体)、Kedai Emas Tai Loi、Perbankan Elektronik、旧 KKN 诊所、Radtrol Jalan Kepala Ikan。
+- **3 个车辆碰撞事故** - 警察局外、Hazbank 外、MFC 附近。
+- **6 个建筑火灾** - Jalan Padas Dua(两个变体)、Kedai Emas Tai Loi、Perbankan Elektronik、旧 KKN 诊所、Radtrol Jalan Kepala Ikan。
 
-服务器每场事故随机挑选一个。你任务 HUD 上的卡片会显示 **IncidentType**("Car Crash" 或 "Building Fire")以及 **Location** 名称,这样你在抵达之前就知道要去面对什么。MDT 应用程序会自动获取相同的数据 — 调度员看到的是可读的位置字符串,而不仅是坐标。
+服务器每场事故随机挑选一个。你任务 HUD 上的卡片会显示 **IncidentType**("Car Crash" 或 "Building Fire")以及 **Location** 名称,这样你在抵达之前就知道要去面对什么。MDT 应用程序会自动获取相同的数据 - 调度员看到的是可读的位置字符串,而不仅是坐标。
 
 ## 扑灭火灾
 
 ### Hose
 
 1. 装备你的 hose。
-2. 寻找水源 - 可以是 **hydrant**(镇上有几个 — 寻找红/黄色柱状模型)或 **tanker truck**。
+2. 寻找水源 - 可以是 **hydrant**(镇上有几个 - 寻找红/黄色柱状模型)或 **tanker truck**。
 3. 将 hose 末端连接到水源提示处。
 4. 瞄准火焰方块并喷射。
 

@@ -1,10 +1,10 @@
 ---
 title: Kesihatan
 description: >-
-  Bermain sebagai Kesihatan di Sumaya — ambulans, rawatan, dan menghidupkan
+  Bermain sebagai Kesihatan di Sumaya - ambulans, rawatan, dan menghidupkan
   semula.
 lang: ms
-translated_from_hash: "227133cd"
+translated_from_hash: "3c9b6d52"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -28,14 +28,14 @@ Permainan teras Kesihatan adalah merawat **kecederaan** - kerosakan yang dialami
 
 ### Apabila sistem kecederaan aktif
 
-Sistem kecederaan **auto-aktif setiap kali sekurang-kurangnya seorang pemain Kesihatan berada di pelayan** — semata-mata dengan berada dalam pasukan, anda menghidupkan suis untuk semua orang. Apabila ia hidup:
+Sistem kecederaan **auto-aktif setiap kali sekurang-kurangnya seorang pemain Kesihatan berada di pelayan** - semata-mata dengan berada dalam pasukan, anda menghidupkan suis untuk semua orang. Apabila ia hidup:
 
 - Pemain dan NPC boleh mengalami kecederaan sebenar dan bukan mati serta-merta.
 - Kecederaan memerlukan rawatan perubatan untuk sembuh.
 - **Setiap pemain di pelayan mendapat +15% XP tahap pemain** (XP sektor tidak terjejas).
 - Sistem kecederaan kekal aktif untuk seluruh server selagi sekurang-kurangnya seorang pemain Kesihatan bertugas.
 
-Pelayan menyahaktifkan sistem kecederaan sebaik sahaja pemain Kesihatan terakhir keluar. Jadi sekadar log masuk sebagai Kesihatan sudah cukup untuk "mengaktifkan" ia — tiada togol manual diperlukan. Galakan +15% XP itu adalah satu perkara besar: ia terpakai pada setiap kerja, setiap penangkapan, setiap penuaian - jadi apabila Kesihatan hidup, seluruh pelayan mendapat manfaat. Ini adalah sebab tunggal terbesar untuk mempunyai pemain perubatan.
+Pelayan menyahaktifkan sistem kecederaan sebaik sahaja pemain Kesihatan terakhir keluar. Jadi sekadar log masuk sebagai Kesihatan sudah cukup untuk "mengaktifkan" ia - tiada togol manual diperlukan. Galakan +15% XP itu adalah satu perkara besar: ia terpakai pada setiap kerja, setiap penangkapan, setiap penuaian - jadi apabila Kesihatan hidup, seluruh pelayan mendapat manfaat. Ini adalah sebab tunggal terbesar untuk mempunyai pemain perubatan.
 
 ### Jenis kecederaan
 

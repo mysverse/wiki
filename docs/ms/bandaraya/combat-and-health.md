@@ -2,7 +2,7 @@
 title: Pertempuran & Kesihatan
 description: 'Senjata, perisai, kecederaan, dan sistem perubatan di Bandaraya.'
 lang: ms
-translated_from_hash: "2c4e4f94"
+translated_from_hash: "700a7ffd"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -15,7 +15,7 @@ Bandaraya mempunyai sistem senjata, kecederaan, dan perubatan yang terperinci. H
 - Kebanyakan orang awam tidak boleh membawa senjata api. Anda perlukan **gamepass Firearms Licence** (1,250 R$), atau anda perlu berada dalam pasukan yang mengeluarkannya (POLIS, KPTD, MAF, Developers, Moderation, Yang di-Pertuan Persekutuan).
 - Peluru menembusi bahagian yang lutsinar / tidak berlanggar / **Glass / Ignorable**. Ia berhenti pada bahagian **Armor / EShield**. Sesetengah kenderaan kalis peluru.
 - Apabila cedera: anda kehilangan **darah** (Sangue) dan dapat **kesakitan** (Dor). Berdarah, bidai, balut. Paramedik (KKM / SJAM) boleh menstabilkan anda.
-- **Butang reset dilumpuhkan pada 75 HP atau lebih rendah** — anda tidak boleh bunuh diri untuk lepaskan diri daripada situasi susah.
+- **Butang reset dilumpuhkan pada 75 HP atau lebih rendah** - anda tidak boleh bunuh diri untuk lepaskan diri daripada situasi susah.
 - **Pemasa bleedout ialah 5 minit apabila KKM atau SJAM berada dalam talian.** Regenerasi HP pasif juga dilumpuhkan semasa paramedik bertugas. Jika tiada paramedik menyelamatkan anda tepat pada masanya, anda akan respawn.
 
 ---
@@ -41,7 +41,7 @@ Orang awam tidak boleh berjalan-jalan dengan rifle. Firearms Licence membuka Amm
 - Recoil, serakan, dan kadar tembakan berbeza mengikut senjata.
 - Tembakan sambil berlari kurang tepat berbanding tembakan yang dibidik.
 
-ACS telah diuji dalam pertempuran — DPS biasa adalah sehingga ~1500 dengan senjata sah, puncak ~3000. Anti-cheat telah ditala untuk membolehkan pertempuran sebenar tanpa kick pemain sah.
+ACS telah diuji dalam pertempuran - DPS biasa adalah sehingga ~1500 dengan senjata sah, puncak ~3000. Anti-cheat telah ditala untuk membolehkan pertempuran sebenar tanpa kick pemain sah.
 
 ### Penembusan peluru
 
@@ -52,18 +52,18 @@ Peluru yang menembusi bahagian bergantung pada jenis bahagian tersebut:
   - **Non-colliding**
   - Dinamakan **Glass** atau **Ignorable**
 - **Berhenti pada** sebarang bahagian yang dinamakan:
-  - **Armor** — sentiasa menghalang peluru
-  - **EShield** — perisai tenaga, menghalang peluru
+  - **Armor** - sentiasa menghalang peluru
+  - **EShield** - perisai tenaga, menghalang peluru
 
 Ini penting untuk perlindungan: dinding setinggi dada mungkin tidak menghentikan peluru jika ia lutsinar; pagar kayu akan menghentikannya jika ia boleh berlanggar.
 
 ### Kenderaan kalis peluru
 
-Sesetengah kenderaan mempunyai bahagian `Armor` yang diletakkan di sekeliling kabin — ia **kalis peluru sepenuhnya** di dalam.
+Sesetengah kenderaan mempunyai bahagian `Armor` yang diletakkan di sekeliling kabin - ia **kalis peluru sepenuhnya** di dalam.
 
-- **AV4** (POLIS) — 29 bahagian perisai di sekeliling kabin
+- **AV4** (POLIS) - 29 bahagian perisai di sekeliling kabin
 - **V150** (POLIS)
-- **Variasi UTK Hilux** — kabin kalis peluru
+- **Variasi UTK Hilux** - kabin kalis peluru
 
 Kereta awam biasa **tidak** kalis peluru. Proton Persona tidak akan menghentikan peluru.
 
@@ -126,24 +126,24 @@ Terletak dalam kit anda jika anda mempunyai akses pasukan/tool yang betul. Senar
 
 | Item | Tujuan |
 | --- | --- |
-| **Morfina** | Morfin — pelega kesakitan |
-| **Epinefrina** | Epinefrin — perangsang, membantu menghidupkan semula |
-| **Aspirina** | Aspirin — pelega kesakitan ringan |
-| **Energetico** | Minuman tenaga — stamina |
+| **Morfina** | Morfin - pelega kesakitan |
+| **Epinefrina** | Epinefrin - perangsang, membantu menghidupkan semula |
+| **Aspirina** | Aspirin - pelega kesakitan ringan |
+| **Energetico** | Minuman tenaga - stamina |
 
 ### Darah & IV
 
 | Item | Tujuan |
 | --- | --- |
-| **SacoDeSangue** | Beg darah — memulihkan isipadu darah |
+| **SacoDeSangue** | Beg darah - memulihkan isipadu darah |
 | **Catheter** | Kateter IV |
 
 ### Rawatan luka
 
 | Item | Tujuan |
 | --- | --- |
-| **Bandagem** | Pembalut — membalut luka, memperlahankan pendarahan |
-| **Tourniquet** | Tourniquet penuh — menghentikan pendarahan pada anggota |
+| **Bandagem** | Pembalut - membalut luka, memperlahankan pendarahan |
+| **Tourniquet** | Tourniquet penuh - menghentikan pendarahan pada anggota |
 | **Splint** | Menstabilkan patah tulang |
 | **Prolene / Nylon** | Bahan jahitan |
 
@@ -171,7 +171,7 @@ Terletak dalam kit anda jika anda mempunyai akses pasukan/tool yang betul. Senar
 
 | Item | Tujuan |
 | --- | --- |
-| **Defib** | Defibrilator — menghidupkan semula jantung yang terhenti |
+| **Defib** | Defibrilator - menghidupkan semula jantung yang terhenti |
 
 ---
 
@@ -180,8 +180,8 @@ Terletak dalam kit anda jika anda mempunyai akses pasukan/tool yang betul. Senar
 ### Rawatan sendiri (orang awam)
 
 - **Regenerasi pasif:** 1% HP maksimum sesaat (digunakan dalam tick 3 saat sebanyak 3% setiap satu) apabila tidak sedang dirawat secara aktif (`TraumaKitHealing` menjedakannya) dan tidak berdarah.
-- **Balut diri sendiri** — memperlahankan pendarahan, menambah sedikit HP.
-- **Minuman / makanan** — peningkatan kecil.
+- **Balut diri sendiri** - memperlahankan pendarahan, menambah sedikit HP.
+- **Minuman / makanan** - peningkatan kecil.
 
 ### Rawatan paramedik (KKM / SJAM)
 
@@ -191,26 +191,26 @@ Seorang paramedik boleh:
 2. **Memulihkan darah** dengan beg darah.
 3. **Melegakan kesakitan** dengan morfin.
 4. **Defib** jika jantung anda terhenti.
-5. **Melakukan pembedahan** (KKM sahaja) — scalpel, ubat bius, jahitan.
+5. **Melakukan pembedahan** (KKM sahaja) - scalpel, ubat bius, jahitan.
 
 Duduk diam dan jangan lari.
 
 ### Pemasa bleedout
 
-- **KKM atau SJAM dalam talian** (pasukan: Institutional white / Forest green): Tetingkap bleedout 5 minit setelah tumbang. Regenerasi pasif dilumpuhkan — paramedik yang perlu menyelamatkan anda.
+- **KKM atau SJAM dalam talian** (pasukan: Institutional white / Forest green): Tetingkap bleedout 5 minit setelah tumbang. Regenerasi pasif dilumpuhkan - paramedik yang perlu menyelamatkan anda.
 - **Tiada paramedik dalam talian:** anda boleh respawn bila-bila masa (permainan tidak menahan anda sebagai tebusan jika tiada paramedik).
 
 ### Butang reset
 
-Butang reset **dilumpuhkan pada 75 HP atau lebih rendah** — ini untuk menghentikan **RTAA** (reset untuk elak penahanan). Jika anda cedera, lawan terus atau tunggu paramedik.
+Butang reset **dilumpuhkan pada 75 HP atau lebih rendah** - ini untuk menghentikan **RTAA** (reset untuk elak penahanan). Jika anda cedera, lawan terus atau tunggu paramedik.
 
 Lihat [Penahanan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
 
 ---
 
-## Hardpoint — mod permainan rampasan / serbuan
+## Hardpoint - mod permainan rampasan / serbuan
 
-**Hardpoint** ialah mod permainan titik rampasan yang dikhaskan hampir keseluruhannya untuk acara kumpulan **OCG vs OCG**. Ia bukan ciri harian — ia berjalan apabila seorang ketua OCG mencetuskan serbuan.
+**Hardpoint** ialah mod permainan titik rampasan yang dikhaskan hampir keseluruhannya untuk acara kumpulan **OCG vs OCG**. Ia bukan ciri harian - ia berjalan apabila seorang ketua OCG mencetuskan serbuan.
 
 Cara raid berjalan:
 
@@ -237,9 +237,9 @@ Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. POLIS 
 
 ## Lihat juga
 
-- [Penahanan & Undang-Undang](/bandaraya/arrest-and-law) — penahanan, mekanik penangkapan, LTAA / RTAA
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan KKM + SJAM
-- [Ekonomi](/bandaraya/economy) — kedai Ammulaysia dan Illegal Dealer
-- [Gamepass](/bandaraya/gamepasses) — Firearms Licence
-- [Kenderaan](/bandaraya/vehicles) — senarai kenderaan kalis peluru
-- [Peraturan](/bandaraya/rules) — etika pertempuran dan pelanggaran teruk
+- [Penahanan & Undang-Undang](/bandaraya/arrest-and-law) - penahanan, mekanik penangkapan, LTAA / RTAA
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - peranan KKM + SJAM
+- [Ekonomi](/bandaraya/economy) - kedai Ammulaysia dan Illegal Dealer
+- [Gamepass](/bandaraya/gamepasses) - Firearms Licence
+- [Kenderaan](/bandaraya/vehicles) - senarai kenderaan kalis peluru
+- [Peraturan](/bandaraya/rules) - etika pertempuran dan pelanggaran teruk

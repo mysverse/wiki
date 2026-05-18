@@ -2,7 +2,7 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: "c9c4ac51"
+translated_from_hash: "415ef0c5"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -23,9 +23,9 @@ needs_review: true
 | **Kesihatan** | 健康 / 医疗。 | 医疗 / 护理人员紧急服务团队。 |
 | **Polis** | 警察。 | 执法紧急服务团队。缩写为 POLIS。 |
 | **Jom** | "走吧"（非正式）。 | 从主菜单进入世界的按钮。 |
-| **Jelajah** | "探索" / "旅程"。 | 手机上的发现日志应用 — 追踪你已找到的地标（POI）以及仍被锁定的地标。 |
+| **Jelajah** | "探索" / "旅程"。 | 手机上的发现日志应用 - 追踪你已找到的地标（POI）以及仍被锁定的地标。 |
 | **Ditemui** | "找到" / "发现"。 | 用于 Jelajah 应用的进度标签（`<n> / <total> ditemui`）。 |
-| **Baca Maklumat** | "阅读信息"。 | 已发现的 Jelajah POI 详情页上的 CTA 按钮 — 重新打开地标的信息图。 |
+| **Baca Maklumat** | "阅读信息"。 | 已发现的 Jelajah POI 详情页上的 CTA 按钮 - 重新打开地标的信息图。 |
 | **Belum** | "尚未"。 | Jelajah 中针对你尚未发现的地标的筛选标签。 |
 | **Semua** | "全部"。 | Jelajah 中针对完整 POI 列表的筛选标签。 |
 | **Daerah** | 区域 / 地区。 | Sumaya 地图的区域。 |

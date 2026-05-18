@@ -2,7 +2,7 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: "4b1b966c"
+translated_from_hash: "8b1e7c64"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -19,7 +19,7 @@ Setiap pemain baharu bermula dengan:
 - **100 Ringgit** dalam **dompet**.
 - **1,000 Ringgit** dalam **bank**.
 
-Itu cukup untuk mengambil beberapa item kedai dan mula memandu kereta permulaan percuma (**Perosatu Axia** atau **Protan Wira**). Sewaan kereta awam berbayar bermula pada **1,250 SR**, jadi dompet permulaan anda sahaja tidak cukup untuk sewaan; rumah juga belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** — lihat [Perumahan](/sumaya/housing)).
+Itu cukup untuk mengambil beberapa item kedai dan mula memandu kereta permulaan percuma (**Perosatu Axia** atau **Protan Wira**). Sewaan kereta awam berbayar bermula pada **1,250 SR**, jadi dompet permulaan anda sahaja tidak cukup untuk sewaan; rumah juga belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** - lihat [Perumahan](/sumaya/housing)).
 
 ## Dompet lawan bank
 
@@ -155,7 +155,7 @@ Lihat [Perumahan](/sumaya/housing).
 Harga sangat berbeza-beza. Julat kasar:
 
 - **Item makanan** dari gerai makanan: 1-5 SR (alat kosmetik / roleplay, sebenarnya tidak memulihkan kelaparan dalam binaan semasa).
-- **Tin gas** untuk bot: 75-125 SR. Merah mengisi 25% tangki (75 SR), Hijau 50% (100 SR), Hitam **100% — pengisian penuh** (125 SR). Bahan api bot maksimum ialah 100; lebihan dihadkan. **Pengisian semula hanya berfungsi apabila bahan api semasa di bawah 75** — cuba mengisi penuh bot yang sudah tinggi tidak menghasilkan apa-apa dan tidak menggunakan tin tersebut.
+- **Tin gas** untuk bot: 75-125 SR. Merah mengisi 25% tangki (75 SR), Hijau 50% (100 SR), Hitam **100% - pengisian penuh** (125 SR). Bahan api bot maksimum ialah 100; lebihan dihadkan. **Pengisian semula hanya berfungsi apabila bahan api semasa di bawah 75** - cuba mengisi penuh bot yang sudah tinggi tidak menghasilkan apa-apa dan tidak menggunakan tin tersebut.
 - **Alat** (Slim Jim, Pickpocket Knife, dll.): 50-500 SR.
 - **Item kosmetik**: berbeza-beza.
 
@@ -176,7 +176,7 @@ Ini berkumpul atas bayaran setiap tindakan. Rancang sesi anda untuk mencapai pen
 - **Bankkan sebahagian besar Ringgit anda.** Dompet adalah untuk perbelanjaan, bank adalah untuk simpanan. Jangan sekali-kali bawa lebih daripada yang anda mampu kehilangan dalam dompet anda.
 - **Tangkapan 5-bintang adalah jackpot.** Jika anda Polis dan seseorang berada pada 120+ mata kesalahan, tunggu mereka.
 - **Penyeludupan adalah bernilai tinggi tetapi berisiko tinggi.** 2,000 SR untuk Hornbill adalah hebat, tetapi anda akan dapat bintang. Rancang untuknya.
-- **Simpan sebelum membeli.** Rumah kini pembelian lima digit (25,000–35,000 SR) — rancang penggilapan berbilang syif, bukan tindakan terdesak.
+- **Simpan sebelum membeli.** Rumah kini pembelian lima digit (25,000–35,000 SR) - rancang penggilapan berbilang syif, bukan tindakan terdesak.
 - **Trawler membayar diri sendiri.** Tier 2 pada 25,000 SR terasa mahal, tetapi jika anda komited untuk memancing, kapasiti tambahan akan memulihkan kos.
 - **Sinergi pasukan.** Rakan sepasukan Bomba + Kesihatan dalam kawasan yang sama = anda berdua memperoleh. Perubatan mendapat pesakit (mangsa terbakar), Bomba mendapat rakan sepasukan berhampiran kebakaran untuk 10 XP setiap satu.
 - **Jangan abaikan aplikasi 999.** Panggilan awam memberikan pasukan kecemasan bayaran mudah - hantar mereka dan anda mungkin mendapat interaksi yang berhampiran ganjaran.

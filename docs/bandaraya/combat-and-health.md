@@ -3,7 +3,7 @@ title: "Combat & Health"
 description: "Weapons, armour, injuries, and the medical system in Bandaraya."
 ---
 
-# Combat & Health
+# Combat & health
 
 Combat in Bandaraya is meant to support roleplay, not replace it. Public-service teams should follow their rules of engagement, and civilians should understand that violence brings police response.
 
@@ -18,7 +18,7 @@ Combat in Bandaraya is meant to support roleplay, not replace it. Public-service
 
 ## Weapons
 
-### How to Get a Weapon
+### How to get a weapon
 
 | Source | Requirement |
 | --- | --- |
@@ -29,14 +29,14 @@ Combat in Bandaraya is meant to support roleplay, not replace it. Public-service
 
 Civilians should not expect unrestricted rifles. Legal civilian firearms require the Firearms Licence gamepass.
 
-### Basic Controls
+### Basic controls
 
 - **Left-click** to fire.
 - **R** to reload.
 - **B** or a tool-specific key may holster some weapons.
 - Accuracy depends on movement, stance, recoil, and weapon type.
 
-## Cover and Vehicles
+## Cover and vehicles
 
 Not every visual object is good cover. Thick walls, armoured panels, and proper cover are safer than thin fences or glass.
 
@@ -70,7 +70,7 @@ Bandaraya tracks more than simple HP. You can suffer:
 
 If you are badly hurt, stop moving and call for medical help.
 
-## Medical Treatment
+## Medical treatment
 
 Medics may use:
 
@@ -84,13 +84,13 @@ Medics may use:
 
 KKM generally has the broadest medical role. SJAM supports ambulance and first-aid response.
 
-## Bleedout and Reset
+## Bleedout and reset
 
 - If **KKM or SJAM** are on duty, downed players have a 5-minute bleedout window.
 - If no medic team is on duty, the game avoids holding players down unnecessarily.
 - Reset is disabled at or below **75 HP** to stop reset-to-avoid-arrest behaviour.
 
-## Hardpoint Raids
+## Hardpoint raids
 
 Hardpoint is an organised OCG capture-point mode used for group events. If you are not part of the event, you can watch from a distance, but do not interfere.
 
@@ -102,7 +102,7 @@ Hardpoint is an organised OCG capture-point mode used for group events. If you a
 - Wait for medics when KKM or SJAM are available.
 - Gun shops have cooldowns; do not spam purchases.
 
-## See Also
+## See also
 
 - [Arrest & Law](/bandaraya/arrest-and-law)
 - [Emergency Services](/bandaraya/emergency-services)

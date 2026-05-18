@@ -1,20 +1,20 @@
 ---
 title: Mula
 description: >-
-  10 minit pertama anda di Lebuhraya — hasilkan kenderaan, peroleh BR, naik
+  10 minit pertama anda di Lebuhraya - hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: "4fb4c2ec"
+translated_from_hash: "6b03224d"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # Mula
 
-Selamat datang ke Lebuhraya. Halaman ini memandu anda melalui sesi pertama anda — daripada menyertai server sehinggalah memperoleh Ringgit (BR) pertama anda dan mengambil kerja pertama.
+Selamat datang ke Lebuhraya. Halaman ini memandu anda melalui sesi pertama anda - daripada menyertai server sehinggalah memperoleh Ringgit (BR) pertama anda dan mengambil kerja pertama.
 
 ## Apa itu Lebuhraya?
 
-Lebuhraya ialah pengalaman main peranan pemanduan yang berlatarbelakangkan lebuh raya Malaysia. Pandu kereta, motosikal, lori, dan bas antara tiga kawasan utama. Ambil kerja — daripada penghantaran makanan sehinggalah memadam kebakaran — untuk memperoleh Ringgit dan naik taraf. Beli rumah, sertai konvoi bersama rakan-rakan, atau sekadar berjalan-jalan.
+Lebuhraya ialah pengalaman main peranan pemanduan yang berlatarbelakangkan lebuh raya Malaysia. Pandu kereta, motosikal, lori, dan bas antara tiga kawasan utama. Ambil kerja - daripada penghantaran makanan sehinggalah memadam kebakaran - untuk memperoleh Ringgit dan naik taraf. Beli rumah, sertai konvoi bersama rakan-rakan, atau sekadar berjalan-jalan.
 
 Nama "Lebuhraya" bermaksud "highway" dalam Bahasa Melayu.
 
@@ -22,7 +22,7 @@ Nama "Lebuhraya" bermaksud "highway" dalam Bahasa Melayu.
 
 Apabila anda menyertai buat kali pertama, anda akan muncul dalam pasukan **Visitors** dengan:
 
-- Baki permulaan **1000 BR** (Ringgit) — **dijejak tetapi belum digunakan**. Sistem mata wang ini dirancang, belum aktif (lihat [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) untuk butiran). Buat masa ini, semuanya percuma.
+- Baki permulaan **1000 BR** (Ringgit) - **dijejak tetapi belum digunakan**. Sistem mata wang ini dirancang, belum aktif (lihat [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) untuk butiran). Buat masa ini, semuanya percuma.
 - **Level 1**, 0 XP
 - Tiada kenderaan (anda akan hasilkan satu dari spawner kenderaan dunia)
 
@@ -60,12 +60,12 @@ Pilihan mesra permulaan termasuk kereta kompak seperti **Protan Waja**, **Perosa
 
 ## Memandu dan memperoleh XP pertama anda
 
-Anda memperoleh XP hanya dengan memandu. Setiap **1500 stud** yang anda tempuh dalam tempat duduk pemandu memberikan anda **50 XP**. Itu sudah cukup untuk melepasi peningkatan level 1 → 2 dalam kira-kira 20 minit pemanduan santai. Tiada penalti untuk pemanduan perlahan — pastikan kenderaan terus bergerak dan XP akan terus bertambah.
+Anda memperoleh XP hanya dengan memandu. Setiap **1500 stud** yang anda tempuh dalam tempat duduk pemandu memberikan anda **50 XP**. Itu sudah cukup untuk melepasi peningkatan level 1 → 2 dalam kira-kira 20 minit pemanduan santai. Tiada penalti untuk pemanduan perlahan - pastikan kenderaan terus bergerak dan XP akan terus bertambah.
 
 Mahu lebih pantas?
 
-- **Buat kerja** — setiap tindakan yang siap memberikan XP bonus
-- **Memandu bersama rakan** dalam konvoi — sehingga +50% bonus XP
+- **Buat kerja** - setiap tindakan yang siap memberikan XP bonus
+- **Memandu bersama rakan** dalam konvoi - sehingga +50% bonus XP
 - **Aktifkan token XP Boost** daripada inventori anda untuk 2× XP
 - **Acara hujung minggu** sekali-sekala menggandakan XP semua orang
 
@@ -100,7 +100,7 @@ Kenderaan mengalami kerosakan apabila anda melanggar sesuatu. Kenderaan yang ros
 
 ## Nota tentang server ujian
 
-Jika anda menyertai **Studio test server** atau server persendirian, anda akan melihat amaran bahawa "XP will be reset to 0." Ini adalah normal — server ujian tidak menyimpan kemajuan supaya pembangun boleh menguji dengan fresh. Pada permainan langsung, XP dan BR anda disimpan secara automatik apabila anda keluar.
+Jika anda menyertai **Studio test server** atau server persendirian, anda akan melihat amaran bahawa "XP will be reset to 0." Ini adalah normal - server ujian tidak menyimpan kemajuan supaya pembangun boleh menguji dengan fresh. Pada permainan langsung, XP dan BR anda disimpan secara automatik apabila anda keluar.
 
 ## Langkah seterusnya
 

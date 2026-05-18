@@ -1,6 +1,6 @@
 ---
 title: "Economy"
-description: "How the Bandaraya Ringgit (BR) economy works — earning, banking, transferring BR, and Robux purchases."
+description: "How the Bandaraya Ringgit (BR) economy works - earning, banking, transferring BR, and Robux purchases."
 ---
 
 # Economy
@@ -14,7 +14,7 @@ Bandaraya uses **BR (Bandar Ringgit)** for cash. You earn BR through jobs, trans
 - Jobs are the main way to earn BR through gameplay.
 - Public-service teams focus on roleplay and tools, not salary farming.
 
-## Your Two Wallets
+## Your two wallets
 
 | Wallet | Used for | How to top up |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ HCC provides an income boost for job earnings.
 
 The **Classic Car Dealer** sells civilian vehicles. You can buy, rent, and paint vehicles. Purchased vehicles are saved to your account.
 
-### Transport and Services
+### Transport and services
 
 | Service | Cost |
 | --- | --- |
@@ -66,7 +66,7 @@ The **Classic Car Dealer** sells civilian vehicles. You can buy, rent, and paint
 
 See [Getting Around](/bandaraya/getting-around) for transport pricing.
 
-## BR Purchases with Robux
+## BR purchases with Robux
 
 | Product | Robux | BR |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ See [Gamepasses](/bandaraya/gamepasses) for details.
 - Do not use CAG as a savings account; it is for transport.
 - If you buy a vehicle, respawn it from the dealership or relevant spawner later.
 
-## See Also
+## See also
 
 - [Jobs](/bandaraya/jobs)
 - [Gamepasses](/bandaraya/gamepasses)

@@ -2,7 +2,7 @@
 title: Jenayah & Undang-Undang
 description: 'Rompakan kereta, mencopet, bintang dicari, dan penjara di Sumaya.'
 lang: ms
-translated_from_hash: "731048c6"
+translated_from_hash: "fc85b19c"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -137,7 +137,7 @@ Beberapa tindakan lain menambah offence points walaupun ia bukan benar-benar "cr
 Anda **tidak boleh disaman** kerana memandu laju atau kemalangan jika:
 
 - Anda berada dalam **kenderaan kecemasan** (Polis, Bomba, Kesihatan) dengan **siren aktif**. Begini cara responder yang bertugas mengelak penalti dalam perjalanan ke panggilan.
-- Anda sedang berada dalam **passive mode** semasa berlaku kemalangan. Pemandu passive tidak terkumpul mata offence kemalangan. (Anda masih akan menerima kerosakan kecederaan jika sistem kecederaan dihidupkan, walaupun begitu — passive melindungi daripada PvP dan tiket offence, bukan fizik kemalangan.)
+- Anda sedang berada dalam **passive mode** semasa berlaku kemalangan. Pemandu passive tidak terkumpul mata offence kemalangan. (Anda masih akan menerima kerosakan kecederaan jika sistem kecederaan dihidupkan, walaupun begitu - passive melindungi daripada PvP dan tiket offence, bukan fizik kemalangan.)
 
 Selain itu, semua orang adalah sasaran adil.
 
@@ -193,12 +193,12 @@ Jika anda log keluar semasa dicari, anda akan menjalani lebih **banyak** masa pe
 
 Saat seorang pegawai POLIS **menase** anda atau **menahan** anda, anda memasuki **30-second combat window**. Semasa pemasa berdetik:
 
-- Banner merah **"ENGAGED — CANNOT RESET"** muncul di bahagian atas skrin anda dengan saat berdetik.
+- Banner merah **"ENGAGED - CANNOT RESET"** muncul di bahagian atas skrin anda dengan saat berdetik.
 - Butang **Reset** dikunci. Mengetuk Reset menunjukkan toast "Cannot Reset" dan tidak melakukan apa-apa.
 - **Menu utama / pertukaran pasukan** dikunci, walaupun anda di bawah ambang wanted-star untuk kunci `Wanted` biasa.
 - Setiap tase/tahanan baharu **menyegarkan** pemasa (tidak bertindan).
 
-**Mati atau keluar semasa tetingkap ini** mengarahkan anda ke **combat-evasion jail** yang adalah *dua kali* tempoh LTAA biasa — sangat lebih teruk daripada menjalankan tangkapan yang bersih:
+**Mati atau keluar semasa tetingkap ini** mengarahkan anda ke **combat-evasion jail** yang adalah *dua kali* tempoh LTAA biasa - sangat lebih teruk daripada menjalankan tangkapan yang bersih:
 
 | Stars | Combat-evasion jail | (vs. LTAA biasa) |
 |-------|---------------------|--------------------|

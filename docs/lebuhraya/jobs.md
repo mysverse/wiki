@@ -1,17 +1,17 @@
 ---
 title: "Jobs"
-description: "Every job in Lebuhraya — grouped by agency (Pengangkutan and more) with pay rates."
+description: "Every job in Lebuhraya - grouped by agency (Pengangkutan and more) with pay rates."
 ---
 
 # Jobs
 
-Every job in Lebuhraya belongs to a team (see [Teams and Careers](/lebuhraya/teams)). This page is the reference for what you actually **do** on each job — how to start it, the gameplay loop, typical rewards, and where the job takes place.
+Every job in Lebuhraya belongs to a team (see [Teams and Careers](/lebuhraya/teams)). This page is the reference for what you actually **do** on each job - how to start it, the gameplay loop, typical rewards, and where the job takes place.
 
 Jobs are grouped by the **agency** that organises them.
 
 ---
 
-## Before You Start a Job
+## Before you start a job
 
 Most jobs follow the same basic pattern:
 
@@ -32,16 +32,16 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 ---
 
-## Pengangkutan (Transport)
+## Pengangkutan (transport)
 
-### Taxi Driver
+### Taxi driver
 
 **Unlock**: Taxi Driver gamepass (or the Bandaraya gamepass, which includes Taxi access).
 
 **How to start**: Join the Taxi Driver team from the Main Menu. Toggle your **Duty** status to on from the TaxiGui on screen.
 
 **What you do**:
-1. When you're on duty, a pickup point is assigned — drive to the NPC waiting for a taxi.
+1. When you're on duty, a pickup point is assigned - drive to the NPC waiting for a taxi.
 2. The NPC gets in your taxi. Drive to the marked dropoff point.
 3. The mission completes when you stop within range (about 50 studs) of the dropoff.
 4. A new mission is assigned immediately.
@@ -50,23 +50,23 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 - **XP** scales with distance: about **0.11 to 0.13 XP per stud**. A 4000-stud fare pays 440–520 XP.
 - BR payments are planned for a future update.
 
-**Routes**: Pickups and dropoffs are currently drawn from 4 pickup points and 4 dropoff points in the city — routes repeat over time until more are added.
+**Routes**: Pickups and dropoffs are currently drawn from 4 pickup points and 4 dropoff points in the city - routes repeat over time until more are added.
 
-**Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi — Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
+**Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi - Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
 
-### Bus Driver
+### Bus driver
 
-**Unlock**: Free — this is one of two free teams.
+**Unlock**: Free - this is one of two free teams.
 
 **How to start**: Join the Bus Driver team. Use a Bus Driver / bus vehicle spawner and begin a route from the **Depoh Bas** in Bandar Seri Putra.
 
 **What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Full routes pay XP; BR payouts are planned for a future update.
 
-**Vehicle**: Buses — Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
+**Vehicle**: Buses - Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
 
-**Bus company affiliations**: Three external Roblox groups represent in-universe bus operators — **FirstGroup PLC**, **Fertua Transport**, and **Hornbill Bus**. Join any of them to carry their livery / branding on select buses (purely roleplay; the groups are community-run).
+**Bus company affiliations**: Three external Roblox groups represent in-universe bus operators - **FirstGroup PLC**, **Fertua Transport**, and **Hornbill Bus**. Join any of them to carry their livery / branding on select buses (purely roleplay; the groups are community-run).
 
-### Logistics (Trucking)
+### Logistics (trucking)
 
 **Unlock**: Level 75, or earlier with the Season 1 Season Pass.
 
@@ -77,15 +77,15 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 2. Hitch the trailer to the hook point and drive the loaded truck to the delivery destination.
 3. Unhitch and complete the delivery.
 
-**Rewards**: **0.09 XP per metre** (~stud) travelled during the delivery. A 5,000-stud haul pays ~450 XP — Trucking is the XP workhorse of the long-distance jobs.
+**Rewards**: **0.09 XP per metre** (~stud) travelled during the delivery. A 5,000-stud haul pays ~450 XP - Trucking is the XP workhorse of the long-distance jobs.
 
-**Vehicle**: Heavy-freight trucks — Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
+**Vehicle**: Heavy-freight trucks - Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
 
 ---
 
-## Perkhidmatan (Services)
+## Perkhidmatan (services)
 
-### Food Delivery
+### Food delivery
 
 **Unlock**: Level 10. This is usually your first real job.
 
@@ -101,7 +101,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
 
-### Post Office
+### Post office
 
 **Unlock**: Level 50.
 
@@ -113,7 +113,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 - Max Post Office level: **20**
 - XP per Post Office level: `100 × level` (so Level 1 needs 100 XP, Level 20 needs 2,000 XP)
-- Salary per package (stored as POS "Money"): `60 + (level × 10)` — at Level 1 you earn 70 per delivery, at Level 20 you earn 260
+- Salary per package (stored as POS "Money"): `60 + (level × 10)` - at Level 1 you earn 70 per delivery, at Level 20 you earn 260
 
 When the BR economy goes live, POS Money is expected to bridge into your real BR balance. For now, think of it as a personal progress counter.
 
@@ -121,27 +121,27 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **Vehicle**: Handai EX5 Pos (motorcycle) or Tayoti Hilux Pos (truck).
 
-### Waste Disposal
+### Waste disposal
 
-**Unlock**: Level 25 (older game text may still say 50 — level 25 is the current in-game value).
+**Unlock**: Level 25 (older game text may still say 50 - level 25 is the current in-game value).
 
 **How to start**: Join the Waste Disposal team. Read the **Waste Disposal Guide** tool in your inventory.
 
 **What you do**:
 1. Drive your rubbish truck to a trash bin. There are **114 bins** scattered across the map.
 2. Interact with the bin's "trashProx" prompt to trigger the lifting animation. Trash accumulates on your truck.
-3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations — Bandar Seri Putra and Jersik).
+3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations - Bandar Seri Putra and Jersik).
 4. Deposit at the incinerator's zone to cash out. You'll see a "Pay" notification with your earnings.
 
 **Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
 
 **Vehicle**: Rubbish truck from the Waste Disposal team vehicle spawner.
 
-**Note on pay**: The "Pay" notification shows an in-world amount, but the BR economy isn't live yet — XP is the payout that actually lands on your account. The amount becomes a real BR credit once the economy goes live.
+**Note on pay**: The "Pay" notification shows an in-world amount, but the BR economy isn't live yet - XP is the payout that actually lands on your account. The amount becomes a real BR credit once the economy goes live.
 
 ---
 
-## Kecemasan (Emergency)
+## Kecemasan (emergency)
 
 ### Bomba
 
@@ -156,11 +156,11 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **Tools**: Chainsaw, Spreaders, Fire (hose), Pager.
 
-**Vehicle**: Fire trucks — Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, Masubi Triton variants, Tayoti Hiace MTV EMRS.
+**Vehicle**: Fire trucks - Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, Masubi Triton variants, Tayoti Hiace MTV EMRS.
 
 **Rewards**: XP per incident resolved. Larger incidents pay more.
 
-### Kesihatan (KKN Medic)
+### Kesihatan (KKN medic)
 
 **Unlock**: Level 200.
 
@@ -168,9 +168,9 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 
 **What you do**:
 1. Respond to the incident location (within 12 studs to interact).
-2. **Assess** the patient's injuries — don't dawdle. Waiting longer than 60 seconds before assessing incurs a survival penalty.
+2. **Assess** the patient's injuries - don't dawdle. Waiting longer than 60 seconds before assessing incurs a survival penalty.
 3. **Treat** the injuries in the correct order using your tools (Splint, First Aid Kit, Bandage). Wrong treatments reduce the patient's survival score by 3 per mistake.
-4. **Stabilise** — a successful stabilisation gives +15 survival.
+4. **Stabilise** - a successful stabilisation gives +15 survival.
 5. Load the patient onto a stretcher, then into your ambulance (must be within 25 studs of the ambulance to load).
 6. Transport to **Klinik Kesihatan Bandar Seri Putra** or another hospital zone.
 
@@ -188,12 +188,12 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 | Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
 | Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
 
-Treatment actions take **2–5 seconds** each to perform. Read the patient's dialogue clues — Malaysian-flavored lines like *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* hint at what's wrong.
+Treatment actions take **2–5 seconds** each to perform. Read the patient's dialogue clues - Malaysian-flavored lines like *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* hint at what's wrong.
 
 **Patient behaviour types** (randomised):
-- **Cooperative (60%)** — normal, thankful dialogue
-- **Panicked (25%)** — dramatic ("I thought I was going to die!"); still cooperates
-- **Aggressive (15%)** — hostile ("Don't touch me!", "Get away!"); survival decays **2× faster** until you calm them with the first correct treatment
+- **Cooperative (60%)** - normal, thankful dialogue
+- **Panicked (25%)** - dramatic ("I thought I was going to die!"); still cooperates
+- **Aggressive (15%)** - hostile ("Don't touch me!", "Get away!"); survival decays **2× faster** until you calm them with the first correct treatment
 
 **Full flow** and XP per perfect case:
 
@@ -203,9 +203,9 @@ Treatment actions take **2–5 seconds** each to perform. Read the patient's dia
 | Injury treatment (all correct) | 50–100 per injury |
 | Stabilisation bonus | +50 |
 | Place on stretcher | +25 |
-| Load into ambulance | — |
+| Load into ambulance | - |
 | Admit to hospital | +100 |
-| Request evacuation (alternate — chopper) | +40 |
+| Request evacuation (alternate - chopper) | +40 |
 | Wrong treatment (penalty) | −10 (per mistake) |
 
 A perfect Traumatic Brain Injury case = 25 + 100 + 50 + 25 + 100 = **300 XP** (plus any multipliers except the flat Assessment reward).
@@ -216,7 +216,7 @@ A perfect Traumatic Brain Injury case = 25 + 100 + 50 + 25 + 100 = **300 XP** (p
 
 ---
 
-## Polis (Police)
+## Polis (police)
 
 All police teams share the 999 emergency dispatch and can use the same enforcement tools. What differs is where they spawn, the uniform, and the vehicle liveries.
 
@@ -226,21 +226,21 @@ All police teams share the 999 emergency dispatch and can use the same enforceme
 
 **How to start**: Join the KEMRonda team.
 
-**What you do**: Highway auxiliary patrol — assist stranded motorists, tow damaged vehicles, set up traffic management (cones, signs) around incidents.
+**What you do**: Highway auxiliary patrol - assist stranded motorists, tow damaged vehicles, set up traffic management (cones, signs) around incidents.
 
 **Tools**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
 
 **Vehicle**: KEMRonda PB Peronda Hilux variants, iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
 
-### Polis Trafik
+### Polis trafik
 
 **Unlock**: Polis Trafik gamepass.
 
 **How to start**: Join the Polis Trafik team.
 
-**What you do**: Traffic law enforcement — use the **Radar Gun** to catch speeders, respond to 999 incidents, issue tickets.
+**What you do**: Traffic law enforcement - use the **Radar Gun** to catch speeders, respond to 999 incidents, issue tickets.
 
-**Automatic offences**: The game detects two traffic violations automatically — **running a red light** and **speeding**. Each detected offence:
+**Automatic offences**: The game detects two traffic violations automatically - **running a red light** and **speeding**. Each detected offence:
 - Shows a red notification on the offending driver's screen
 - Adds a point to their violation record
 - Triggers a 60-second "passive lock" that blocks certain interactions
@@ -251,7 +251,7 @@ Polis Trafik players can be notified of detected offences and respond.
 
 **Vehicle**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, and various escort variants.
 
-### Undercover Police
+### Undercover police
 
 **Unlock**: Undercover Police gamepass.
 
@@ -261,11 +261,11 @@ Polis Trafik players can be notified of detected offences and respond.
 
 **Tools**: Same as Polis Trafik.
 
-**Vehicle**: Unmarked variants — Protan Persona Taxi (yes, really), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
+**Vehicle**: Unmarked variants - Protan Persona Taxi (yes, really), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
 
 ---
 
-## Penguatkuasaan (Enforcement)
+## Penguatkuasaan (enforcement)
 
 ### APJ
 
@@ -273,7 +273,7 @@ Polis Trafik players can be notified of detected offences and respond.
 
 **How to start**: Join the APJ team.
 
-**What you do**: Road Transport Agency — the equivalent of MYSverse road transport authority. Inspect vehicles, enforce road transport regulations, coordinate with police.
+**What you do**: Road Transport Agency - the equivalent of MYSverse road transport authority. Inspect vehicles, enforce road transport regulations, coordinate with police.
 
 **Tools**: Torchlight, Placeables SCone.
 
@@ -281,9 +281,9 @@ Polis Trafik players can be notified of detected offences and respond.
 
 ---
 
-## Sumber (Resources)
+## Sumber (resources)
 
-### Power Nasional
+### Power nasional
 
 **Unlock**: Level 100.
 
@@ -320,24 +320,24 @@ Formula: `10 + (level-1)×0.5 + (level-1)²×0.00197`, so storage grows almost l
 
 ---
 
-## Back to School
+## Back to school
 
 ### School
 
-**How to start**: Head to **SMK MYS II** (the secondary school POI on the highway). Walk into any of the four classroom zones — Matematik, Sains, Sejarah, Geografi (Math, Science, History, Geography).
+**How to start**: Head to **SMK MYS II** (the secondary school POI on the highway). Walk into any of the four classroom zones - Matematik, Sains, Sejarah, Geografi (Math, Science, History, Geography).
 
-**What you do**: Classes run on a **2-minute bell cycle** — the bell chimes as classes begin and end. While in a class, a quiz starts. Each question is timed — answer faster for a bigger bonus.
+**What you do**: Classes run on a **2-minute bell cycle** - the bell chimes as classes begin and end. While in a class, a quiz starts. Each question is timed - answer faster for a bigger bonus.
 
 **Scoring per correct answer**:
 - Base score: **10 points**
 - Time bonus: up to a full bonus if you answer within **2.5 seconds**; decays linearly to zero after that
 - **250 XP** per correct answer (multipliers apply)
 
-The school also powers a weekly challenge: **Quiz Master (Advanced)** — answer **28 quiz questions within 2 seconds each** for **1,000 XP**. The older basic "Quiz Master" variant (21 questions × 3 seconds, rewarded a BMY M5 CS) is currently disabled — so only the advanced quiz is live.
+The school also powers a weekly challenge: **Quiz Master (Advanced)** - answer **28 quiz questions within 2 seconds each** for **1,000 XP**. The older basic "Quiz Master" variant (21 questions × 3 seconds, rewarded a BMY M5 CS) is currently disabled - so only the advanced quiz is live.
 
 **Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
 
-## Community Jobs (Malaysians Group)
+## Community jobs (malaysians group)
 
 These activities are available to anyone on the **Malaysians** team (join the MYSverse group at rank 1+).
 
@@ -363,10 +363,10 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 | Red Snapper | 35 | 45 |
 | Tin Can | 20 | 0 (junk) |
 | Boot | 20 | 0 (junk) |
-| **Yifish** | **0.5** | **696** (jackpot — ~87× a Torpedo Scad!) |
-| meow | — | separate easter egg, very rare, unique reward |
+| **Yifish** | **0.5** | **696** (jackpot - ~87× a Torpedo Scad!) |
+| meow | - | separate easter egg, very rare, unique reward |
 
-**Yifish is the fisherman's white whale.** Its 0.5% catch weight makes it almost 100× rarer than the most common fish, but a single Yifish sell pays nearly 700 XP — more than two Food Delivery runs. Worth casting for if you have patience.
+**Yifish is the fisherman's white whale.** Its 0.5% catch weight makes it almost 100× rarer than the most common fish, but a single Yifish sell pays nearly 700 XP - more than two Food Delivery runs. Worth casting for if you have patience.
 
 **Casting range**: up to 80 studs from where you're standing.
 
@@ -377,7 +377,7 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 **How to start**: Walk into a cashier station at a food shop or the KeluargaMart.
 
 **What you do**:
-1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** — so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
+1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** - so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
 2. The customer requests 1–4 food items from the available menu.
 3. You have **15–20 seconds** to select the right items and complete the order.
 4. Serve them before the timer expires or they leave angry (no reward).
@@ -388,15 +388,15 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 
 ---
 
-## Open to Everyone
+## Open to everyone
 
 ### Racing
 
 **How to start**: Open the **LBHRY_RaceMenu** (topbar). Select a track.
 
 **What you do**:
-- **Time Trial** — race alone against the clock. Set track records.
-- **PvP Lobby** — create or join a lobby, wait for players to load in, start the race.
+- **Time Trial** - race alone against the clock. Set track records.
+- **PvP Lobby** - create or join a lobby, wait for players to load in, start the race.
 
 **How rewards are calculated**: XP = `baseXP × difficultyMul × placementMul × (PB ? 1.25 : 1.0)`; BR = `baseRinggit × difficultyMul × placementMul + (PB ? 50 : 0)`. Flagged sessions (anti-cheat) get 10% XP and zero BR.
 
@@ -409,23 +409,23 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 | DNF | 0.15× (XP only, no BR) |
 | Time Trial (solo) | 1.0× |
 
-Difficulty multipliers: **Easy 1.0×, Medium 1.5×, Hard 2.0×** — so the same placement on a Hard track pays double.
+Difficulty multipliers: **Easy 1.0×, Medium 1.5×, Hard 2.0×** - so the same placement on a Hard track pays double.
 
 Personal Bests get an extra **+25% XP** and a **flat +50 BR bonus**.
 
-**Tracks**: Currently the game has one active track — **Test Sprint** — a short 3-checkpoint, 1-lap proving loop on Easy difficulty, open to Civ-class vehicles at any level. Base payout: 1,500 XP / 300 BR. A new 1st-place PB in PvP yields **3,750 XP and 650 BR**; a solo Time Trial PB yields **1,875 XP and 350 BR**. Test Sprint supports up to 6 racers, with a 30-second pre-race lobby, 5-second start countdown, and 60-second finish timeout after the first finisher.
+**Tracks**: Currently the game has one active track - **Test Sprint** - a short 3-checkpoint, 1-lap proving loop on Easy difficulty, open to Civ-class vehicles at any level. Base payout: 1,500 XP / 300 BR. A new 1st-place PB in PvP yields **3,750 XP and 650 BR**; a solo Time Trial PB yields **1,875 XP and 350 BR**. Test Sprint supports up to 6 racers, with a 30-second pre-race lobby, 5-second start countdown, and 60-second finish timeout after the first finisher.
 
 The "Jersik Race Track" POI is the in-world location where racing happens.
 
-**Heads up**: Race rewards bypass the global XP multiplier stack (they're already pre-scaled) — so a 2× Double XP weekend or XP Boost gamepass won't stack on top of race payouts. Other XP paths (driving, jobs) still get the multipliers.
+**Heads up**: Race rewards bypass the global XP multiplier stack (they're already pre-scaled) - so a 2× Double XP weekend or XP Boost gamepass won't stack on top of race payouts. Other XP paths (driving, jobs) still get the multipliers.
 
-Expect more tracks as the game updates — the race system supports time badges (e.g. sub-30s, sub-20s medals) for tracks that designers configure.
+Expect more tracks as the game updates - the race system supports time badges (e.g. sub-30s, sub-20s medals) for tracks that designers configure.
 
 ### Convoy
 
 **How to start**: In the Main Menu or convoy icon, create a convoy (you become the leader) or browse public convoys within 500 studs and request to join.
 
-**What you do**: Drive with up to 6 people in the same convoy. Stay within 200 studs of each other to keep the bonus active. The more friends and same-team members you have, the higher the XP multiplier — up to +50% on top of the base XP stack.
+**What you do**: Drive with up to 6 people in the same convoy. Stay within 200 studs of each other to keep the bonus active. The more friends and same-team members you have, the higher the XP multiplier - up to +50% on top of the base XP stack.
 
 See [Social Features](/lebuhraya/social-features) for the full breakdown.
 
@@ -439,25 +439,25 @@ See [Housing](/lebuhraya/housing) for details.
 
 ---
 
-## 999 Emergency System
+## 999 Emergency system
 
 Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If you're on an emergency team (Bomba, Polis Trafik, Undercover Police, Kesihatan), equip your **Pager** to see active incidents and accept one.
 
 - Incident types: **Car Crash**, **Injured Person**.
 - Up to **10 incidents** can be open at once.
-- A resolved incident takes at least **30 seconds** before rewards are paid out — this is the minimum response window to discourage instant-resolve farming.
+- A resolved incident takes at least **30 seconds** before rewards are paid out - this is the minimum response window to discourage instant-resolve farming.
 - If the incident is cancelled or you change teams, your assignment is dropped.
 
 ---
 
-## Which Job Should I Start With?
+## Which job should I start with?
 
 - **Level 10**: Food Delivery is the classic starter. 250 XP per delivery, short routes, uses any vehicle.
 - **Got the MYSverse group?** Fishing is chill and self-paced.
-- **Want action?** Bomba or Polis Trafik (requires gamepass) — lots of 999 incidents, social roleplay.
+- **Want action?** Bomba or Polis Trafik (requires gamepass) - lots of 999 incidents, social roleplay.
 - **Want to drive for hours?** Logistics or Taxi (Taxi needs gamepass, Logistics needs Level 75 or Season 1 Pass).
 
-## Next Steps
+## Next steps
 
-- [Teams and Careers](/lebuhraya/teams) — Rank titles and tier progression
-- [World and Map](/lebuhraya/map) — Where every job's buildings are located
+- [Teams and Careers](/lebuhraya/teams) - Rank titles and tier progression
+- [World and Map](/lebuhraya/map) - Where every job's buildings are located

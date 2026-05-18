@@ -65,11 +65,11 @@ const REPLACEMENTS = [
   { from: /Angkatan Tentera Malaysia/g, to: "Angkatan Tentera MYSverse" },
 
   // Military/service plate expansions
-  { from: /PAT \(Panglima Angkatan Tentera — Chief of Armed Forces\)/g, to: "PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces)" },
-  { from: /TDM \(Tentera Darat Malaysia — Army\)/g, to: "TDM (Tentera Darat MYSverse — Army)" },
-  { from: /TLDM \(Tentera Laut Diraja Malaysia — Royal Navy\)/g, to: "TLDM (Tentera Laut MYSverse — Navy)" },
-  { from: /TUDM \(Tentera Udara Diraja Malaysia — Royal Air Force\)/g, to: "TUDM (Tentera Udara MYSverse — Air Force)" },
-  { from: /KEMHAN \(Kementerian Pertahanan — Ministry of Defence\)/g, to: "KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority)" },
+  { from: /PAT \(Panglima Angkatan Tentera (?:\u2014|-) Chief of Armed Forces\)/g, to: "PAT (Panglima Angkatan Tentera MYSverse - Chief of Armed Forces)" },
+  { from: /TDM \(Tentera Darat Malaysia (?:\u2014|-) Army\)/g, to: "TDM (Tentera Darat MYSverse - Army)" },
+  { from: /TLDM \(Tentera Laut Diraja Malaysia (?:\u2014|-) Royal Navy\)/g, to: "TLDM (Tentera Laut MYSverse - Navy)" },
+  { from: /TUDM \(Tentera Udara Diraja Malaysia (?:\u2014|-) Royal Air Force\)/g, to: "TUDM (Tentera Udara MYSverse - Air Force)" },
+  { from: /KEMHAN \(Kementerian Pertahanan (?:\u2014|-) Ministry of Defence\)/g, to: "KEMHAN (Kementerian Pertahanan MYSverse - Defence Authority)" },
 
   // Clean up the redundant "PDRM (Polis MYSverse)" pattern → canonical "Polis MYSverse (POLIS)"
   { from: /\*\*PDRM \(Polis MYSverse\)\*\*/g, to: "**Polis MYSverse (POLIS)**" },
@@ -79,8 +79,8 @@ const REPLACEMENTS = [
   // Standalone PDRM acronym → POLIS (word boundary preserves code identifiers like PDRMHeliSpawner)
   { from: /\bPDRM\b/g, to: "POLIS" },
 
-  // JIM glossary entry and similar — JIM already an acronym for Jabatan Imigresen, keep but
-  // ensure expansion uses MYSverse — already handled above.
+  // JIM glossary entry and similar - JIM already an acronym for Jabatan Imigresen, keep but
+  // ensure expansion uses MYSverse - already handled above.
 
   // "HM Supreme Lord of Malaysia" → "HM Supreme Lord of MYSverse" (the monarch role in-game)
   { from: /HM Supreme Lord of Malaysia/g, to: "HM Supreme Lord of MYSverse" },

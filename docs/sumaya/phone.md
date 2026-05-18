@@ -7,17 +7,17 @@ description: "The 12 phone apps, HUD, and minimap in Sumaya."
 
 Your phone is your hub for almost everything in Sumaya: jobs, quests, emergency calls, settings, and more. This page covers every app, plus the rest of the in-game HUD (minimap, task card, chat).
 
-## Opening the Phone
+## Opening the phone
 
 Tap the phone icon on your screen. The phone slides up and shows a grid of apps. You can have it open while walking and driving.
 
 To close it, tap outside the phone or use the close button.
 
-## Loading and Transition Overlays
+## Loading and transition overlays
 
 When you join, respawn, or move through the main menu, Sumaya may show a loading overlay with the logo and rotating Malaysia facts. This is normal transition UI; it fades when the menu or character state is ready.
 
-## Phone Apps
+## Phone apps
 
 Sumaya's phone has **14 apps** plus the home screen. Some apps only appear when they are useful: Emergency999 appears after your character spawns, and MDT is for emergency-service teams.
 
@@ -110,14 +110,14 @@ View your current quest chain progress:
 
 The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
-### Jelajah (Discovery Journal)
+### Jelajah (discovery journal)
 
 Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
 
-- A progress pill at the top — `<discovered> / <total> ditemui` ("found").
+- A progress pill at the top - `<discovered> / <total> ditemui` ("found").
 - Filters: **Semua** (all), **Ditemui** (discovered), **Belum** (not yet).
 - A scrollable list of cards. Discovered POIs show a coloured category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
-- Tap a card for the detail screen — full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
+- Tap a card for the detail screen - full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
 
 When you visit a POI for the first time, the app surfaces a `Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
 
@@ -136,7 +136,7 @@ Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so ro
 
 Use this for roleplay scenarios (call for a fire, report a crime, need medical).
 
-### MDT (Mobile Data Terminal)
+### MDT (mobile data terminal)
 
 Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT is your dispatch console:
 
@@ -146,15 +146,15 @@ Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT i
 
 See [Polis](/sumaya/polis) for more on the MDT.
 
-### Home Screen
+### Home screen
 
 The main phone home screen with the app grid. Not a separate app you launch.
 
-## The Minimap
+## The minimap
 
 In the top-right corner, you'll see a minimap showing the area around you.
 
-### What the Minimap Shows
+### What the minimap shows
 
 - **Your position** (the arrow at the centre).
 - **Roads and buildings** around you.
@@ -162,7 +162,7 @@ In the top-right corner, you'll see a minimap showing the area around you.
 - **Waypoints** you've placed or that have been set by the game (quest markers, MDT calls).
 - **Other players** and NPCs may appear as dots depending on context.
 
-### Expanding the Minimap
+### Expanding the minimap
 
 Click the minimap (or press the expand button) to open the **full-screen map**. You can:
 
@@ -170,7 +170,7 @@ Click the minimap (or press the expand button) to open the **full-screen map**. 
 - Pan around to see other parts of Sumaya.
 - Hit **F** to **fit all your waypoints** into view at once.
 
-### Custom Waypoints
+### Custom waypoints
 
 In the full-screen map:
 
@@ -180,14 +180,14 @@ In the full-screen map:
 
 Custom waypoints are great for marking your favourite fishing spot, your friend's house, or where you parked your trawler.
 
-### The Guidance Beam
+### The guidance beam
 
 You'll often see a **coloured beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colours are consistent:
 
 - Red (bright): quest markers, important objectives.
 - Other colours: custom waypoints in their chosen colour.
 
-## The Task Card
+## The task card
 
 In the top-left corner, you'll often see a **task card** - a small panel that describes your current objective. It might show:
 
@@ -196,35 +196,35 @@ In the top-left corner, you'll often see a **task card** - a small panel that de
 - A patient you're treating.
 - A carjacking drop-off zone.
 
-### Collapsing the Task Card
+### Collapsing the task card
 
 On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
 
-## Gig Minigame Panels
+## Gig minigame panels
 
 Some gig jobs open a small interaction panel for paperwork, choices, sequence checks, or timing checks. These panels fade in and out, scale to phone/tablet/desktop screens, and may briefly focus the camera on the relevant passenger, parcel, vehicle, scene, or route marker.
 
 If you die, switch teams, leave the job, or the objective disappears, the panel and camera focus clean up automatically.
 
-## Status Widget (Top-Right)
+## Status widget (top-right)
 
 Below the minimap, the **StatusGui** widget shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
 
-- **Top row** — `Citizen <Level>` with a progress bar and `progress / max` numeric. Always visible.
-- **Bottom row** — your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows raw `progress / max`.
+- **Top row** - `Citizen <Level>` with a progress bar and `progress / max` numeric. Always visible.
+- **Bottom row** - your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows raw `progress / max`.
 
-The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks — it's automatic.
+The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks - it's automatic.
 
-## TopBar Icons
+## TopBar icons
 
 Roblox's TopBar at the top-centre of the screen shows a row of small Sumaya icons. From left to right:
 
-- **Map** — toggles the minimap HUD on/off.
-- **Tasks** — toggles the task card on/off (only appears when there's at least one active card).
-- **Status** — toggles the Status widget on/off.
-- **Open Menu** (house icon) — re-opens the main menu mid-game so you can switch teams or pick a different sector. This **doesn't respawn you** unless you actually pick a new team. Locked while you're arrested, wanted, or in combat (recently tased / detained).
+- **Map** - toggles the minimap HUD on/off.
+- **Tasks** - toggles the task card on/off (only appears when there's at least one active card).
+- **Status** - toggles the Status widget on/off.
+- **Open Menu** (house icon) - re-opens the main menu mid-game so you can switch teams or pick a different sector. This **doesn't respawn you** unless you actually pick a new team. Locked while you're arrested, wanted, or in combat (recently tased / detained).
 
-All four toggles persist for the session — they don't survive a server restart, but they do survive respawn.
+All four toggles persist for the session - they don't survive a server restart, but they do survive respawn.
 
 ## Chat
 
@@ -232,13 +232,13 @@ Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a me
 
 Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
 
-### Public Services Channel
+### Public services channel
 
 If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
 
 Your access auto-updates when you switch teams.
 
-## Banner Notifications
+## Banner notifications
 
 You'll see slide-in banner notifications for:
 
@@ -250,7 +250,7 @@ You'll see slide-in banner notifications for:
 
 Banners auto-dismiss after a few seconds.
 
-## Wallet / Bank Display
+## Wallet / bank display
 
 Your current Ringgit balance is shown in a small HUD near the top of the screen. Open the full wallet details via the phone or the ATM. See [Economy](/sumaya/economy).
 
@@ -264,7 +264,7 @@ Your current Ringgit balance is shown in a small HUD near the top of the screen.
 - **Collapse the task card when driving mobile.** The extra screen real-estate matters on small screens.
 - **Profile app for flex.** Your ranks show here. Screenshot-worthy once you hit high-tier ranks.
 
-## What Next?
+## What next?
 
 - [Quests](/sumaya/quests) for the discovery chain you'll see in the Quest app.
 - [Polis](/sumaya/polis) for MDT details.

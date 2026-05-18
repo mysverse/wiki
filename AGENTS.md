@@ -2,9 +2,9 @@
 
 Agent-facing instructions for the MYSverse Wiki monorepo. Read this first if you are an autonomous coding agent (Claude Code, Codex, OpenHands, Cursor, Aider, custom harness) being asked to update or maintain this wiki.
 
-This is a **VitePress** monorepo serving wikis for three MYSverse games — **Bandaraya**, **Lebuhraya**, **Sumaya** — in four locales (EN root + `ms`, `zh`, `ta`).
+This is a **VitePress** monorepo serving wikis for three MYSverse games - **Bandaraya**, **Lebuhraya**, **Sumaya** - in four locales (EN root + `ms`, `zh`, `ta`).
 
-For human-facing translation policy, see [`TRANSLATIONS.md`](./TRANSLATIONS.md). This file is the *operational runbook* — what to run, in what order, how to verify.
+For human-facing translation policy, see [`TRANSLATIONS.md`](./TRANSLATIONS.md). This file is the *operational runbook* - what to run, in what order, how to verify.
 
 ---
 
@@ -35,12 +35,11 @@ scripts/
   seed-translations.mjs          Initial locale mirror creation
   meta-translations.mjs          Lookup table of translated frontmatter
   apply-meta-translations.mjs    Apply translated title/description/H1
-  lint-style.mjs                 British English/title-case/player-facing style lint
+  lint-style.mjs                 British English/sentence-case/player-facing style lint
   lint-markdown.mjs              Heading/table/container/whitespace lint
   check-links.mjs                Internal link integrity check
 TRANSLATIONS.md                  Translation policy (human-facing)
 STYLE.md                         Hard player-facing and English style rules
-CLAUDE.md                        Claude-specific entrypoint; defers to AGENTS.md
 AGENTS.md                        ← you are here
 ```
 
@@ -61,13 +60,13 @@ Paths are absolute in `scripts/migrate-source.mjs`. Edit the `SOURCE_ROOTS` map 
 ## Core invariants
 
 1. **EN is the single source of truth.** Locale files mirror EN structure 1:1.
-2. **Every page lives at a canonical slug** defined in `scripts/slug-maps.mjs`. Don't invent new slugs — add them to the map.
+2. **Every page lives at a canonical slug** defined in `scripts/slug-maps.mjs`. Don't invent new slugs - add them to the map.
 3. **Translation freshness is hash-tracked.** Each locale page's frontmatter `translated_from_hash` is the SHA1-8 of the EN body that was translated. Mismatch = stale.
 4. **Sidebar is generated, not hand-edited.** Modify labels in `docs/.vitepress/sidebar.ts`.
 5. **Real-life Malaysian agency names are rebranded** to MYSverse Sim equivalents (PDRM → POLIS, etc.). See `scripts/rebrand-agencies.mjs` for the full replacement table.
 6. **All internal links are absolute, locale-aware:** `[label](/bandaraya/teams)` from EN, `[label](/ms/bandaraya/teams)` from MS. Never relative `file.md`.
 7. **`needs_review: true`** on a locale page renders a yellow banner. Set `false` only after a native speaker has confirmed.
-8. **English docs are player-facing British English.** Enforce with `pnpm run lint:style` and follow [`STYLE.md`](./STYLE.md).
+8. **English docs are player-facing British English with sentence-case headings and no em dashes.** Enforce with `pnpm run lint:style` and follow [`STYLE.md`](./STYLE.md).
 
 ---
 
@@ -76,7 +75,8 @@ Paths are absolute in `scripts/migrate-source.mjs`. Edit the `SOURCE_ROOTS` map 
 These are hard rules for English source pages. `scripts/lint-style.mjs` catches the common mechanical regressions, but agents must still use judgement.
 
 - **Use British English:** colour, customisation, customise, catalogue, favourite, behaviour, armour, centre, grey, levelling, towards, offence, defence, analyse, organise, specialisation. Use **number plate**, not "license plate".
-- **Use title case for EN Markdown headings.** Keep short connector words lowercase unless first/last: and, or, the, to, with, in, on, of, for, from, by.
+- **Use sentence case for EN Markdown headings.** Capitalise only the first word and proper nouns, brands, acronyms, and fixed game terms.
+- **Do not use em dashes.** Use a comma, colon, semicolon, parentheses, or a simple hyphen instead.
 - **Keep docs player-facing.** Explain what the player sees or does. Remove implementation details such as internal flags, backend/debug wording, Roblox tag names, source-code mechanics, Discord logging, datastore behaviour, and moderation tooling internals.
 - **Use player-facing monetisation terms.** Prefer "Robux purchase", "Robux offer", or "gamepass"; avoid "developer product" and "dev product".
 - **Do not brute-rebrand Malaysia/Malaysian.** Rebrand real-life agencies and official organisations to MYSverse equivalents, but keep Malaysia/Malaysian for language, culture, holidays, geography inspiration, and contexts where "MYSverse" would confuse players.
@@ -104,7 +104,7 @@ git diff --numstat docs/
 # 3. Apply agency rebrand to freshly migrated files.
 node scripts/rebrand-agencies.mjs
 
-# 4. Edit scripts/refresh-stale.mjs — set DRIFTED to the slugs whose EN
+# 4. Edit scripts/refresh-stale.mjs - set DRIFTED to the slugs whose EN
 #    BODY substantively changed (not just hash drift from normalization).
 #    Slugs not in DRIFTED get a hash-only bump (existing translation preserved).
 # Then:
@@ -114,20 +114,20 @@ node scripts/refresh-stale.mjs
 #    (a) Inline (preferred): translate in-conversation, one slug at a time,
 #        editing all three locale files (ms/zh/ta) with the EN body replaced
 #        by a translation. Frontmatter (title/description) is already
-#        translated — leave it untouched. See "Translation rules" below.
+#        translated - leave it untouched. See "Translation rules" below.
 #    (b) Parallel agents: dispatch one subagent per drifted slug; each
 #        handles all 3 locales. Pattern is in this repo's git history.
-# Do NOT build an SDK wrapper script for translation — user preference.
+# Do NOT build an SDK wrapper script for translation - user preference.
 
 # 6. Fix any H1/frontmatter drift in the locale files.
 node scripts/apply-meta-translations.mjs
 
 # 7. Verify.
-node scripts/lint-style.mjs         # British English/title-case/player-facing style
+node scripts/lint-style.mjs         # British English/sentence-case/player-facing style
 node scripts/lint-markdown.mjs       # heading/table/container/whitespace
 node scripts/check-links.mjs         # internal link integrity
-pnpm run check-translations          # freshness — must be Fresh N / Stale 0 / Missing 0
-pnpm docs:build                      # full VitePress build — must finish without errors
+pnpm run check-translations          # freshness - must be Fresh N / Stale 0 / Missing 0
+pnpm docs:build                      # full VitePress build - must finish without errors
 ```
 
 ### B. "Add a new page" (single page, EN-first)
@@ -136,14 +136,14 @@ pnpm docs:build                      # full VitePress build — must finish with
 2. Re-run `node scripts/migrate-source.mjs <game>` (or hand-write `docs/<game>/<slug>.md` with proper frontmatter).
 3. Add the page to `docs/.vitepress/sidebar.ts` under the right game's items (and add labels for all 4 locales in `EN_LABELS`/`MS_LABELS`/`ZH_LABELS`/`TA_LABELS`).
 4. Update `scripts/meta-translations.mjs` with translated `title`/`description` for ms/zh/ta. Optional but recommended.
-5. Run `node scripts/seed-translations.mjs` — creates `docs/{ms,zh,ta}/<game>/<slug>.md` mirrors with EN body + `needs_review: true`.
+5. Run `node scripts/seed-translations.mjs` - creates `docs/{ms,zh,ta}/<game>/<slug>.md` mirrors with EN body + `needs_review: true`.
 6. Translate the 3 locale bodies inline.
 7. Run `node scripts/apply-meta-translations.mjs` + verification steps from workflow A step 7.
 
 ### C. "Edit an existing EN page"
 
 1. Edit `docs/<game>/<slug>.md` directly.
-2. `pnpm run check-translations` — it will report 3 stale entries (ms/zh/ta).
+2. `pnpm run check-translations` - it will report 3 stale entries (ms/zh/ta).
 3. Either:
    - Translate the locale bodies and update their `translated_from_hash` to the new EN hash, OR
    - Add the slug to `DRIFTED` in `scripts/refresh-stale.mjs` then run it, then translate, then run `apply-meta-translations.mjs`.
@@ -160,9 +160,17 @@ pnpm docs:build                      # full VitePress build — must finish with
 
 ## Verification gates (must all pass before declaring done)
 
+Run the full gate as a single command:
+
+```bash
+pnpm run verify
+```
+
+Equivalent expanded sequence:
+
 ```bash
 pnpm install                               # if dependencies changed
-pnpm run lint:style                        # British English/title-case/player-facing style
+pnpm run lint:style                        # British English/sentence-case/player-facing style
 node scripts/lint-markdown.mjs             # exit 0
 node scripts/check-links.mjs               # exit 0
 pnpm run check-translations                # Fresh N / Stale 0 / Missing 0
@@ -173,12 +181,12 @@ If any of these fail, fix before reporting completion. Do not report "done" with
 
 ---
 
-## Translation rules (summary — see `TRANSLATIONS.md` for full)
+## Translation rules (summary - see `TRANSLATIONS.md` for full)
 
 **Translate:** prose, headings, table cells, list items, frontmatter `title`/`description`, image `alt` text, custom-container titles.
 
 **Preserve verbatim:**
-- Link URLs (`[label](/path)` — translate the label, never the path)
+- Link URLs (`[label](/path)` - translate the label, never the path)
 - Image paths
 - Code blocks and inline code
 - VitePress directives (`::: tip`, `::: warning`, `::: danger`, `::: info`, `::: details`)
@@ -188,9 +196,9 @@ If any of these fail, fix before reporting completion. Do not report "done" with
 - Malay loanwords (keep as-is in all locales): mamak, kampung, Jom, Jelajah, Belum, Semua, Ditemui, Baca Maklumat, Sadaqa, Abang Samseng, Pasaram, Nelayan, Sdn. Bhd., Jalan, Lorong, Daerah, Ringgit, Bomba, Polis, Kesihatan
 
 **Locale conventions:**
-- `ms` — natural Malaysian Bahasa Melayu. Reuse: Pasukan (Teams), Kenderaan (Vehicles), Telefon (Phone), Ekonomi (Economy), Kerjaya (Jobs/Careers), Perumahan (Housing), Mula (Get started), Soalan Lazim (FAQ).
-- `zh` — Malaysian-style Simplified Mandarin. Reuse: 城市 (Bandaraya context), 高速公路 (Lebuhraya context), 队伍 (Teams), 车辆 (Vehicles), 手机 (Phone), 经济 (Economy), 职业 (Jobs), 房屋 (Housing), 入门 (Get started), 任务 (Quests).
-- `ta` — modern Malaysian Tamil. Reuse: நகரம் (Bandaraya context), நெடுஞ்சாலை (Lebuhraya context), அணிகள் (Teams), வாகனங்கள் (Vehicles), தொலைபேசி (Phone), பொருளாதாரம் (Economy), வேலைகள் (Jobs), வீட்டுவசதி (Housing), தொடங்கு (Get started), பணிகள் (Quests). Transliterate brand names where natural.
+- `ms` - natural Malaysian Bahasa Melayu. Reuse: Pasukan (Teams), Kenderaan (Vehicles), Telefon (Phone), Ekonomi (Economy), Kerjaya (Jobs/Careers), Perumahan (Housing), Mula (Get started), Soalan Lazim (FAQ).
+- `zh` - Malaysian-style Simplified Mandarin. Reuse: 城市 (Bandaraya context), 高速公路 (Lebuhraya context), 队伍 (Teams), 车辆 (Vehicles), 手机 (Phone), 经济 (Economy), 职业 (Jobs), 房屋 (Housing), 入门 (Get started), 任务 (Quests).
+- `ta` - modern Malaysian Tamil. Reuse: நகரம் (Bandaraya context), நெடுஞ்சாலை (Lebuhraya context), அணிகள் (Teams), வாகனங்கள் (Vehicles), தொலைபேசி (Phone), பொருளாதாரம் (Economy), வேலைகள் (Jobs), வீட்டுவசதி (Housing), தொடங்கு (Get started), பணிகள் (Quests). Transliterate brand names where natural.
 
 **Mechanics:**
 - One source sentence → one target sentence. No editorial additions, no translator notes.
@@ -216,13 +224,14 @@ If running serially, just translate inline in-conversation.
 ## Things NOT to do
 
 - **Don't build a translation wrapper script** around `@anthropic-ai/sdk` or any other LLM SDK. Translation work belongs inline (in-conversation), not in a shipped Node script. The user has explicitly rejected this approach.
-- **Don't write into `MEMORY.md`** describing this project state — code is the source of truth; memory entries about "current state" go stale.
+- **Don't write into `MEMORY.md`** describing this project state - code is the source of truth; memory entries about "current state" go stale.
 - **Don't commit until explicitly asked.** Generate the diff, report it, wait.
 - **Don't bypass hooks** (`--no-verify`, `--no-gpg-sign`). If a hook fails, fix the underlying issue.
 - **Don't add `## See also` sections that duplicate content already in source-wiki `## Tips` or `## What next?` sections.** Source wikis already have these.
-- **Don't auto-fix every lint warning blindly.** The lint script flags Windows CRLF as trailing whitespace only if you didn't normalize first — check `lint-markdown.mjs`'s `\r\n?/g` strip is intact.
-- **Don't touch `docs/index.md`'s `layout: home` block** when running the lint — those pages legitimately have no body H1.
+- **Don't auto-fix every lint warning blindly.** The lint script flags Windows CRLF as trailing whitespace only if you didn't normalize first - check `lint-markdown.mjs`'s `\r\n?/g` strip is intact.
+- **Don't touch `docs/index.md`'s `layout: home` block** when running the lint - those pages legitimately have no body H1.
 - **Don't brute-replace all Malaysia/Malaysian references.** The rebrand requirement is about real-life agencies/organisations and official in-game equivalents, not culture, language, holidays, or geography inspiration.
+- **Don't overwrite translated locale bodies for style-only EN changes.** When the EN edit is purely stylistic (British spelling, sentence-case, em-dash removal) and the translated meaning remains valid, refresh the hash only. Translate locale bodies only when the EN meaning substantively changes.
 
 ---
 
@@ -239,7 +248,7 @@ If running serially, just translate inline in-conversation.
 
 ## When in doubt
 
-1. Run `pnpm run lint:style`, `pnpm run check-translations`, and `node scripts/lint-markdown.mjs` first — current state is often the answer.
+1. Run `pnpm run lint:style`, `pnpm run check-translations`, and `node scripts/lint-markdown.mjs` first - current state is often the answer.
 2. Re-read `STYLE.md` for player-facing/British English rules and `TRANSLATIONS.md` for translation specifics.
 3. Look at the most recent commit affecting `docs/` for the canonical pattern.
 4. If introducing new automation, write a new script under `scripts/` rather than inlining shell in this file.

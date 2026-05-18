@@ -2,7 +2,7 @@
 title: 车辆
 description: Sumaya 的汽车、船只、救护车、生成器与个性化定制。
 lang: zh
-translated_from_hash: "1d782519"
+translated_from_hash: "fa5c5843"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -148,7 +148,7 @@ LFRT = Light Fire Rescue Tender。FRT = Fire Rescue Tender。Sanica P360 Tanker 
 Polis、Bomba 与 Kesihatan 的车辆都装备了 **Emergency Lighting System (ELS)**。在驾驶紧急车辆并启动警笛时：
 
 - 你拥有**闪烁的红/蓝/白灯**。
-- 你**豁免违规**——超速与撞车都不计入。
+- 你**豁免违规** -  - 超速与撞车都不计入。
 - 其他玩家会收到音频/视觉警告，知道你正在驶来。
 
 停车时关闭警笛。豁免仅在你实际驾驶且警笛启动时生效。
@@ -157,9 +157,9 @@ Polis、Bomba 与 Kesihatan 的车辆都装备了 **Emergency Lighting System (E
 
 具有 `Color = true` 的民用车辆支持颜色定制。生成车辆时或在你的车辆资料中查找 **Paint / Customize** 选项。你可以更改：
 
-- **车身颜色**——车辆的烤漆。
-- **轮辋颜色**——车轮轮辋（前提是该模型有标记轮辋部件）。
-- **车窗着色**——任意 `Color3`，应用于标记为 `VehicleWindow` 的部件。
+- **车身颜色** -  - 车辆的烤漆。
+- **轮辋颜色** -  - 车轮轮辋（前提是该模型有标记轮辋部件）。
+- **车窗着色** -  - 任意 `Color3`，应用于标记为 `VehicleWindow` 的部件。
 
 某些车辆（**Protan Wira**、**Protan Saga**、**Perosatu Axia**、**Perosatu Myvi 2020**）有预设调色板（例如白、银、黑、红、米色）。其他可定制车辆接受任何颜色。
 
@@ -167,7 +167,7 @@ Polis、Bomba 与 Kesihatan 的车辆都装备了 **Emergency Lighting System (E
 
 ## 燃料
 
-Sumaya 目前的燃料实际上**无限**——你无须担心耗尽燃料或在加油站加油。船上的燃料表按班次追踪（适用于捕鱼拖网船），但车辆没有燃料限制。
+Sumaya 目前的燃料实际上**无限** -  - 你无须担心耗尽燃料或在加油站加油。船上的燃料表按班次追踪（适用于捕鱼拖网船），但车辆没有燃料限制。
 
 ## 碰撞切换
 
@@ -189,7 +189,7 @@ Sumaya 目前的燃料实际上**无限**——你无须担心耗尽燃料或在
 
 - **租用的车辆**会在你重生、登出或生成另一辆车时消失。
 - **购买的车辆**永久属于你。它们会显示在你的资料的 Owned Vehicles 列表中。
-- 如果你购买了车辆并日后想出售，请查看生成器——某些车辆可能可以出售以获得部分退款（视情况而定）。
+- 如果你购买了车辆并日后想出售，请查看生成器 -  - 某些车辆可能可以出售以获得部分退款（视情况而定）。
 - 如果你拥有的车辆被他人**劫持**，它会在车牌数据库中被标记为失窃，Polis 可以追回。
 
 ## 车牌与登记

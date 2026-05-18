@@ -7,29 +7,29 @@ description: "Plots, templates, tiers, furniture, and selling homes in Sumaya."
 
 Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, and lock it up against intruders. Housing is a persistent purchase - once you buy in, your house is yours across sessions.
 
-## Finding a Plot
+## Finding a plot
 
 Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show small preview houses so you can spot available land from the street.
 
 Sumaya currently has **63 claimable plots**, each visible from the world before you claim it.
 
-## Buying a House at the Real Estate Office
+## Buying a house at the real estate office
 
-House purchases happen exclusively at the **Real Estate Office** (the marked building in the town centre — the Residence phone app's empty state has a "Show on Map" button that pins it for you):
+House purchases happen exclusively at the **Real Estate Office** (the marked building in the town centre - the Residence phone app's empty state has a "Show on Map" button that pins it for you):
 
 1. Travel to the Real Estate Office. The phone Residence app's empty state surfaces a 5-minute waypoint.
 2. Walk inside and open the **RealEstateGui** (the buy / preview kiosk).
 3. Browse plots and house templates, preview each on the kiosk, then confirm a purchase.
 
-The server enforces a **15-stud proximity check** on the Buy action — you must be physically inside the office, so a UI bypass elsewhere can't fake a purchase. Each player is limited to **one plot at a time**.
+The server enforces a **15-stud proximity check** on the Buy action - you must be physically inside the office, so a UI bypass elsewhere can't fake a purchase. Each player is limited to **one plot at a time**.
 
 The phone Residence app is **management-only** after purchase: lock doors, switch lights, enter placement mode, sell back. It does not handle the buy flow.
 
-## Picking a House
+## Picking a house
 
 Inside the Real Estate Office, you'll pick from the four templates. Each has a tier and a price.
 
-### House Templates
+### House templates
 
 | Template | Tier | Price |
 |----------|------|-------|
@@ -38,7 +38,7 @@ Inside the Real Estate Office, you'll pick from the four templates. Each has a t
 | Compact Bornean | Tier 2 | 32,000 Ringgit |
 | Modern Terrace | Tier 3 | 35,000 Ringgit |
 
-Compact Bornean is **slightly more expensive** than the Spacious Bornean (despite being smaller) because its layout — open hall + larger porch — is in higher demand for the kampung roleplay scene.
+Compact Bornean is **slightly more expensive** than the Spacious Bornean (despite being smaller) because its layout - open hall + larger porch - is in higher demand for the kampung roleplay scene.
 
 **Bornean** houses are the traditional Malaysian kampung-style homes - wooden, stilts, tropical roofing. **Modern Terrace** is the contemporary urban equivalent - multi-story, glass, clean lines.
 
@@ -59,7 +59,7 @@ Furniture items include:
 
 Prices vary by item; each individual piece has a price tag you'll see when browsing. Buy what you want, then place it via the Placement Mode (below).
 
-## Placement Mode
+## Placement mode
 
 To decorate:
 
@@ -73,7 +73,7 @@ To decorate:
 
 Furniture placement saves automatically. When you rejoin next session, everything is where you left it.
 
-## Doors and Locks
+## Doors and locks
 
 Your house has doors at entry points. From the Residence app (or directly at the door), you can:
 
@@ -99,7 +99,7 @@ Tired of your house? Sell it back and keep **70% of what you paid**. The game ke
 
 After selling, your plot is back in the pool - anyone (including you) can claim it again.
 
-## Privacy and Intrusion
+## Privacy and intrusion
 
 Your house is your space. A few things to know:
 
@@ -109,14 +109,14 @@ Your house is your space. A few things to know:
 
 ## Tips
 
-- **Start small.** Go with the 25,000 Ringgit Small Bornean for your first house — it's the cheapest entry into the housing system. You'll know by the time you're ready to upgrade.
-- **The 70% refund is a safety net.** Changing your mind costs 30%. On a 35,000 SR Modern Terrace that's a 10,500 SR sting — non-trivial, but you're not bankrupted.
+- **Start small.** Go with the 25,000 Ringgit Small Bornean for your first house - it's the cheapest entry into the housing system. You'll know by the time you're ready to upgrade.
+- **The 70% refund is a safety net.** Changing your mind costs 30%. On a 35,000 SR Modern Terrace that's a 10,500 SR sting - non-trivial, but you're not bankrupted.
 - **Lights on vs off for screenshots.** The lighting makes a big difference. Try both for phone Camera screenshots of your space.
 - **Lock up on logout.** Habit worth getting into. Unlocked doors invite roleplay disruption.
 - **One plot per player is the rule.** Don't try to claim two - the system prevents it anyway.
 - **Furniture placement is save-instant.** You don't lose your layout if you crash mid-placement.
 
-## What Next?
+## What next?
 
 - [Economy](/sumaya/economy) for where to get the Ringgit to afford a house.
 - [Phone and UI](/sumaya/phone) for the Residence app.

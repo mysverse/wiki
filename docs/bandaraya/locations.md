@@ -3,11 +3,11 @@ title: "Map & Locations"
 description: "Landmarks, buildings, streets, stations, hospitals, and shops across Bandaraya."
 ---
 
-# Map & Locations
+# Map & locations
 
 Use this page to find major places in Bandaraya's Kuala Lumpur.
 
-## Emergency and Public-Service Bases
+## Emergency and public-service bases
 
 | Place | Purpose |
 | --- | --- |
@@ -32,7 +32,7 @@ Use this page to find major places in Bandaraya's Kuala Lumpur.
 
 Every MRT and Monorail station has a nearby CAG kiosk. Ampang Park and Raja Chulan have two entrances with kiosks.
 
-## Shops and Services
+## Shops and services
 
 | Place | What it is for |
 | --- | --- |
@@ -46,14 +46,14 @@ Every MRT and Monorail station has a nearby CAG kiosk. Ampang Park and Raja Chul
 | **Toolkit** | Tools. |
 | **Costume / Art / Signs** | Roleplay and cosmetic items. |
 
-## Fuel and Charging
+## Fuel and charging
 
 | Place | Fuel type |
 | --- | --- |
 | **Radtrol Gas Station at Jalan Pinang** | Petrol / diesel |
 | **Community Retail charging stations** | Electric charging |
 
-## Banks and Robbery
+## Banks and robbery
 
 | Place | Notes |
 | --- | --- |
@@ -80,11 +80,11 @@ You may recognise:
 - Community Retail
 - Plaza Rakyat
 
-## CCTV and Police Assets
+## CCTV and police assets
 
 CCTV is a POLIS operational tool controlled from IPD Dang Wangi. Civilians generally do not interact with CCTV systems.
 
-## Vehicle Spawners
+## Vehicle spawners
 
 Spawners are spread across the city by role:
 
@@ -97,7 +97,7 @@ Spawners are spread across the city by role:
 
 You can only use spawners your team is allowed to use.
 
-## See Also
+## See also
 
 - [Getting Around](/bandaraya/getting-around)
 - [Vehicles](/bandaraya/vehicles)

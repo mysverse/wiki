@@ -1,13 +1,13 @@
 ---
 title: "Vehicles"
-description: "All 127 vehicle models in Lebuhraya — spawning, fuel, crashing, and customisation."
+description: "All 127 vehicle models in Lebuhraya - spawning, fuel, crashing, and customisation."
 ---
 
 # Vehicles
 
-Lebuhraya ships with **127 vehicle models** — compact cars, SUVs, motorcycles, trucks, buses, and a long list of emergency / service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
+Lebuhraya ships with **127 vehicle models** - compact cars, SUVs, motorcycles, trucks, buses, and a long list of emergency / service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
 
-## Spawning a Vehicle
+## Spawning a vehicle
 
 Walk to a physical **vehicle spawner** in the world and use its prompt. These are the spawner pads/markers placed around the map, including Basic/Civ, Bike, Premium, Special, and team-specific spawners.
 
@@ -15,7 +15,7 @@ Walk to a physical **vehicle spawner** in the world and use its prompt. These ar
 
 Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears on an available spawner pad, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
 
-### What the Spawner Screen Shows
+### What the spawner screen shows
 
 The refreshed spawner has three main areas:
 
@@ -25,7 +25,7 @@ The refreshed spawner has three main areas:
 
 After you click **Spawn**, some spawners ask you to choose an open pad and paint/colour option. If the pad is occupied, choose a different pad or wait for the other vehicle to move.
 
-### Spawner Types
+### Spawner types
 
 Different physical spawners show different vehicle categories:
 
@@ -47,11 +47,11 @@ If you are on a job team, civilian spawners may block access with a warning. Swi
 - When you leave the server, your vehicle disappears.
 - Only one owned vehicle is active per player. Spawning a new vehicle from a vehicle spawner cleans up your previous one.
 
-## What Can I Drive at Level 1?
+## What can I drive at level 1?
 
-You have access to **27 vehicles** from the start — enough to find something you like. The cheapest is the **Handai EX5** motorcycle at BR 1050. Premium / supercar starters include the NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), and McLari 750 (BR 3,000) — cheaper than they would be in reality, but most are "Special" category (not upgradeable). The more common Level 1 civilian cars sit around BR 1,800–6,000.
+You have access to **27 vehicles** from the start - enough to find something you like. The cheapest is the **Handai EX5** motorcycle at BR 1050. Premium / supercar starters include the NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), and McLari 750 (BR 3,000) - cheaper than they would be in reality, but most are "Special" category (not upgradeable). The more common Level 1 civilian cars sit around BR 1,800–6,000.
 
-## Pricing and Unlocks
+## Pricing and unlocks
 
 Vehicle prices scale loosely with level. Rough guide:
 
@@ -62,11 +62,11 @@ Vehicle prices scale loosely with level. Rough guide:
 | L50–100 | BR 15,000 – 20,000 |
 | L125–150+ | BR 17,000 – 25,000 (Prem/Supercar territory) |
 
-Some team-only vehicles don't have a public price — they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
+Some team-only vehicles don't have a public price - they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
 
-About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner — these are the standard civilian choices from Myvi to Mustang.
+About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner - these are the standard civilian choices from Myvi to Mustang.
 
-### Locked-Card Meanings
+### Locked-card meanings
 
 | Lock text | Meaning |
 |---|---|
@@ -75,7 +75,7 @@ About **28 vehicles** are sold through the **Dealership** view in the vehicle sp
 | **Vehicle locked** | You do not own the special/gamepass/code vehicle |
 | Missing from list | Wrong spawner type, wrong team, hidden vehicle, or requirement not met |
 
-## Vehicle Categories
+## Vehicle categories
 
 Most of the fleet is loosely parodied from real Malaysian and global brands. If you know a real car, there's probably a stand-in here.
 
@@ -89,8 +89,8 @@ Most of the fleet is loosely parodied from real Malaysian and global brands. If 
 | Buses / MPVs | Tayoti Hiace variants, Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
 | Trucks / cargo | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
 | Taxis | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
-| Emergency — Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
-| Emergency — Medical | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
+| Emergency - Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
+| Emergency - Medical | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
 | Police | Handai Civic Polis/HPV Polis variants, Masubi Lancer HPV Polis, NSN etc. Polis Escort, Kasaki Ninja Polis, BMY M5 CS Polis variants |
 | Tow / workshop | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
 | Electric | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
@@ -111,17 +111,17 @@ The default tank is **40 litres**. A JerryCan carries 10 litres.
 
 ### Refuelling
 
-Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses — if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans — pick the right fuel type before approaching the pump.
+Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses - if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans - pick the right fuel type before approaching the pump.
 
 > **Fuel is currently free.** The prices above (1/2/3 BR per litre) are defined in the fuel system config but the charge hook isn't active in this version. Refuelling deducts nothing from your BR balance. When the economy goes live these prices will apply.
 
-### Where to Refuel
+### Where to refuel
 
-- **PETROMAS Petrol Station** — Northbound and Southbound stations on the highway
-- **Radtrol Petrol Station** — In Bandar Seri Putra
-- **Kompleks Petroliam dan Gas Radtrol** — Large refuelling complex near Jersik
+- **PETROMAS Petrol Station** - Northbound and Southbound stations on the highway
+- **Radtrol Petrol Station** - In Bandar Seri Putra
+- **Kompleks Petroliam dan Gas Radtrol** - Large refuelling complex near Jersik
 
-### Running Out
+### Running out
 
 If your tank hits zero, the engine cuts out. Options:
 
@@ -129,108 +129,108 @@ If your tank hits zero, the engine cuts out. Options:
 2. Return to a physical vehicle spawner and spawn a replacement vehicle.
 3. Ask a KEMRonda player for a tow.
 
-## Spawner Troubleshooting
+## Spawner troubleshooting
 
-### I See "You Cannot Access This Spawner While Working"
+### I see "you cannot access this spawner while working"
 
 You are on a job team and using a civilian spawner. Switch to **Visitors** or use your team spawner.
 
-### I See "You Must Be on the X Team"
+### I see "you must be on the x team"
 
 That spawner is team-specific. Join the named team first, including any level, gamepass, or group requirement.
 
-### The Spawner Opens but the Vehicle Will Not Spawn
+### The spawner opens but the vehicle will not spawn
 
 - Pick a different pad; the first one may be occupied.
 - Check that the card says **SPAWN**, not **LOCKED**.
 - Move closer to the spawner if the prompt disappeared.
 - If the UI got stuck behind another menu, close all menus with Esc/Backspace and reopen the spawner.
 
-### A Vehicle Is Too Bright or Lights Are Stuck On
+### A vehicle is too bright or lights are stuck on
 
 Some vehicles spawn with headlights, ELS, or strong lighting effects depending on time of day and vehicle type. Toggle lights off from the vehicle controls, or respawn the vehicle if the lights stay stuck.
 
-## Crashing and Repairs
+## Crashing and repairs
 
 Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
 
 **Vehicle toughness**:
 - Standard civilian vehicles start with **100 Max Health**.
-- Police / law enforcement variants (Polis Trafik HPV, Polis Escort, KEMRonda Peronda Hilux, APJ Inspira/X70, Undercover) have **200 Max Health** — double the durability.
+- Police / law enforcement variants (Polis Trafik HPV, Polis Escort, KEMRonda Peronda Hilux, APJ Inspira/X70, Undercover) have **200 Max Health** - double the durability.
 - Emergency motorcycles (Kasaki Ninja Polis, BMY R1200RT Polis) get **180 Max Health**.
 - Every collision must exceed **30 studs/s relative velocity** to deal damage; below that you tap and bounce, above that the difference is multiplied into damage.
 - Damage-per-hit defaults to **10 points** (more for very high-speed impacts).
 
-### Your Options
+### Your options
 
-- **Drive into a repair zone at any petrol station.** There are **10 repair zones** — placed in pairs at PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, and RnR Sungai Merbang. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
-- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop restore about **25% health per use** — handy when you're stranded and can't reach a repair station.
+- **Drive into a repair zone at any petrol station.** There are **10 repair zones** - placed in pairs at PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, and RnR Sungai Merbang. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
+- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop restore about **25% health per use** - handy when you're stranded and can't reach a repair station.
 - **Call a tow**. KEMRonda players with a tow truck can haul you to a workshop.
 - **Spawn a replacement**. If you can reach a vehicle spawner, spawning another vehicle clears your previous owned vehicle and gives you a fresh one.
 
-If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens — that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
+If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens - that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
 
-## Customisation at Gravstone Workshop
+## Customisation at Gravstone workshop
 
-**Gravstone Workshop** in Bandar Seri Putra is the game's paint & visual customisation shop — **not** a repair centre. Drive your vehicle into the workshop's interior zone and a workshop GUI appears with paint and body options.
+**Gravstone Workshop** in Bandar Seri Putra is the game's paint & visual customisation shop - **not** a repair centre. Drive your vehicle into the workshop's interior zone and a workshop GUI appears with paint and body options.
 
 - **Access requires the Workshop gamepass.** If you don't own it, the game prompts you to purchase when you open a paint option.
-- **Paint zones** you can recolour include the body, windows, tyres, and rims — each picks up a separate colour.
+- **Paint zones** you can recolour include the body, windows, tyres, and rims - each picks up a separate colour.
 - **Colour picker**: drag the hue, saturation, and value; the car updates in real-time as you adjust. Click Confirm to apply; Cancel to discard.
 
-Paints saved here are applied to your currently-spawned vehicle for the duration of the session. Unlockable paints (chrome, gradient, matte — see *Passes and Boosts*) are applied through a separate menu.
+Paints saved here are applied to your currently-spawned vehicle for the duration of the session. Unlockable paints (chrome, gradient, matte - see *Passes and Boosts*) are applied through a separate menu.
 
 ## Customisation
 
 Vehicle customisation depends on the specific model. Common options include:
 
-- Paint colour (via Gravstone Workshop — see above)
+- Paint colour (via Gravstone Workshop - see above)
 - Body accessories
 - Number plates (see below)
 
 Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
 
-## Number Plates
+## Number plates
 
 When a vehicle spawns, its registration plate is assigned based on the region of the spawner, following the actual Malaysian state-prefix system:
 
-- **Bandar Seri Putra** spawners issue **Selangor plates** — `B%` prefix (e.g. BJH 1234).
-- **Kampung Merbang** and **Jersik** spawners issue **Negeri Sembilan plates** — `N%` prefix.
+- **Bandar Seri Putra** spawners issue **Selangor plates** - `B%` prefix (e.g. BJH 1234).
+- **Kampung Merbang** and **Jersik** spawners issue **Negeri Sembilan plates** - `N%` prefix.
 - Spawners along the middle of the highway (between regions) randomly pick **50/50 between B and N** each time you spawn.
 
-So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next — a small detail that Malaysian players immediately notice.
+So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next - a small detail that Malaysian players immediately notice.
 
-**Allowed characters** are `ABCDEFGHJKLMNPQRSTUVWXY` — I, O, V, and Z are excluded (I/O avoid confusion with 1/0, V and Z are reserved for special/military use).
+**Allowed characters** are `ABCDEFGHJKLMNPQRSTUVWXY` - I, O, V, and Z are excluded (I/O avoid confusion with 1/0, V and Z are reserved for special/military use).
 
-### Military Plates (Rare — Special Vehicles)
+### Military plates (rare - special vehicles)
 
 Some military / armed forces vehicles carry authentic Malaysian service plates:
 
 | Service | Plate prefix |
 |---|---|
-| PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat MYSverse — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut MYSverse — Navy) | `ZL` |
-| TUDM (Tentera Udara MYSverse — Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority) | `ZZ` |
-| JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
+| PAT (Panglima Angkatan Tentera MYSverse - Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat MYSverse - Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut MYSverse - Navy) | `ZL` |
+| TUDM (Tentera Udara MYSverse - Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan MYSverse - Defence Authority) | `ZZ` |
+| JMF (Askar Timbalan Setia Negeri Johor - Johor Military Force) | `JZ` / `JMF` |
 | PMS | `PMS` |
 
-You'll see these on TUDM escort convoys, event parades, and staff-spawned military vehicles — not typical player cars.
+You'll see these on TUDM escort convoys, event parades, and staff-spawned military vehicles - not typical player cars.
 
-## Emergency Lights (ELS)
+## Emergency lights (ELS)
 
 All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) carry a lightbar that uses the game's ELS (Emergency Lighting System). Toggling ELS:
 
-- Plays one of **three flash patterns** — fast alternating, slow alternating, and rapid complex.
+- Plays one of **three flash patterns** - fast alternating, slow alternating, and rapid complex.
 - Is replicated to all players in the server so everyone sees your lights.
-- Grants an implicit speed-trap **immunity** — if you're over 200 studs/s with ELS active, you don't get a Speeding offence (emergency response in progress). Don't abuse this; the anti-cheat still watches.
+- Grants an implicit speed-trap **immunity** - if you're over 200 studs/s with ELS active, you don't get a Speeding offence (emergency response in progress). Don't abuse this; the anti-cheat still watches.
 
 Use ELS only when responding to an incident. Cruising with lights on is a community etiquette no-no.
 
-## Advanced Vehicle Controls
+## Advanced vehicle controls
 
-Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
+Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
 
 | Vehicle | Team | Panel |
 |---|---|---|
@@ -257,8 +257,8 @@ Six specialised vehicles have a **tow/winch panel** — a mobile-friendly landsc
 
 The controls are shared across all six vehicles, so once you learn one you've learnt them all.
 
-## Next Steps
+## Next steps
 
-- [Economy and XP](/lebuhraya/economy) — Fuel prices in context
-- [World and Map](/lebuhraya/map) — Where to find every station
-- [Teams and Careers](/lebuhraya/teams) — Vehicles unlocked by team tier
+- [Economy and XP](/lebuhraya/economy) - Fuel prices in context
+- [World and Map](/lebuhraya/map) - Where to find every station
+- [Teams and Careers](/lebuhraya/teams) - Vehicles unlocked by team tier

@@ -1,6 +1,6 @@
 ---
 title: "Phone"
-description: "The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow, messages, and more apps."
+description: "The in-game phone in Bandaraya - MyPay, e-hailing, 999, MyCar, MyTow, messages, and more apps."
 ---
 
 # Phone
@@ -13,7 +13,7 @@ Every player has an in-game **Phone** from the topbar. The phone is separate fro
 - Apps vary by experience.
 - In Bandaraya, the most useful apps are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
 
-## Universal Apps
+## Universal apps
 
 These can appear across MYSverse experiences:
 
@@ -29,9 +29,9 @@ These can appear across MYSverse experiences:
 | **Settings** | Phone settings. |
 | **Rafahia** | Clothing brand app. |
 
-## Bandaraya Apps
+## Bandaraya apps
 
-### MyPay - Send BR to Another Player
+### MyPay - send BR to another player
 
 1. Open **MyPay**.
 2. Search for a player.
@@ -41,7 +41,7 @@ These can appear across MYSverse experiences:
 
 Transfers require both players to be in the same server and for the sender to have enough BR.
 
-### E-Hailing - Book a Taxi
+### E-hailing - book a taxi
 
 1. Open **e-hailing**.
 2. Enter a destination and optional description.
@@ -81,7 +81,7 @@ Request or track towing help from your phone.
 - 999 alerts go to real players, not NPCs.
 - CAG eWallet is best for checking status; use kiosks for transactions.
 
-## See Also
+## See also
 
 - [Tablet](/bandaraya/tablet)
 - [Getting Around](/bandaraya/getting-around)

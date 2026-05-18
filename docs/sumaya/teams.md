@@ -1,13 +1,13 @@
 ---
 title: "Teams"
-description: "The five teams of Sumaya — Visitors, Malaysians, POLIS, BOMBA, and Kesihatan."
+description: "The five teams of Sumaya - Visitors, Malaysians, POLIS, BOMBA, and Kesihatan."
 ---
 
 # Teams
 
 Sumaya has **five teams**. Your team decides your role in the world - civilian, cop, firefighter, or paramedic. You pick a team from the main menu when you first join, and you can switch to a different team any time from the menu.
 
-## The Five Teams
+## The five teams
 
 | Team | Colour | Role | Open to everyone? |
 |------|--------|------|-------------------|
@@ -70,7 +70,7 @@ Kesihatan ("keh-see-ha-tan") is the medical service - doctors, nurses, paramedic
 
 Kesihatan also unlocks a game-wide **+15% player-level XP bonus** when their injury system is active, which benefits everyone on the server. See [Kesihatan](/sumaya/kesihatan).
 
-## Switching Teams
+## Switching teams
 
 Open the main menu again (from the phone or the pause screen) and pick a different team. Your data, money, vehicles, house, and XP carry across - teams just affect your role and appearance.
 
@@ -80,7 +80,7 @@ A few things to know:
 - Switching to a law-enforcement team (POLIS) clears any current civilian job you were doing.
 - Your player level and sector levels **persist** across teams. If you've levelled up the Bomba sector, that rank stays put even if you switch to Visitors and come back later.
 
-## Which Team Should I Pick?
+## Which team should I pick?
 
 Rough guide:
 
@@ -90,7 +90,7 @@ Rough guide:
 - **You like helping people**: Kesihatan. Every treatment matters, and your work boosts XP for everyone.
 - **You want a quiet session**: Any civilian team. Do some fishing, buy a house, cruise around.
 
-## What Next?
+## What next?
 
 - [Careers overview](/sumaya/jobs) for civilian jobs.
 - [Emergency services overview](/sumaya/emergency-services) for the differences between Bomba, Polis, and Kesihatan.

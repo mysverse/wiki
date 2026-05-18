@@ -1,15 +1,15 @@
 ---
 title: "Getting Started"
-description: "Start your adventure in Bandaraya — navigate menus, earn Bandaraya Ringgit (BR), pick a team, and explore Kuala Lumpur."
+description: "Start your adventure in Bandaraya - navigate menus, earn Bandaraya Ringgit (BR), pick a team, and explore Kuala Lumpur."
 ---
 
-# Getting Started
+# Getting started
 
 **Bandaraya** is a Malaysian city roleplay experience on Roblox, set in Kuala Lumpur. You choose a role, spawn into the city, and play out everyday or emergency-service stories with other players.
 
 The in-game currency is **BR (Bandar Ringgit)**. Prices in this wiki use BR unless they are labelled **R$** for Robux.
 
-## What You Can Do
+## What you can do
 
 - **Pick a role.** Be a civilian, police officer, firefighter, medic, soldier, bus driver, taxi driver, postal worker, tow operator, or another specialist role.
 - **Work for money.** Deliver mail, drive taxis, operate buses, tow vehicles, or buy BR if you want a quicker start.
@@ -20,19 +20,19 @@ The in-game currency is **BR (Bandar Ringgit)**. Prices in this wiki use BR unle
 - **Roleplay law and consequences.** POLIS can detain, cuff, arrest, and issue summons. Suspects serve a short jail timer and return to play.
 - **Shop and customise.** Buy food, clothes, tools, cars, and certain licensed items.
 
-## The Setting
+## The setting
 
 Bandaraya covers a game version of Kuala Lumpur. You will see real-KL-inspired places such as the PETRONAS area, Ampang Park, Bukit Bintang, IPD Dang Wangi, major hotels, bank towers, bus hubs, and MRT/Monorail stations.
 
 Many teams are based on Malaysian institutions, including **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, and **KPTD**. If an acronym is unfamiliar, check the [Glossary](/bandaraya/glossary).
 
-## Who Runs This
+## Who runs this
 
 - **Creator:** MYSverse
 - **Currency:** BR, earned in game or bought with Robux
 - **Current version:** Bandaraya v3.15.8
 
-## Next Steps
+## Next steps
 
 - Brand new? Read [Getting Started](/bandaraya/get-started).
 - Choosing a role? See [Teams](/bandaraya/teams).
@@ -40,7 +40,7 @@ Many teams are based on Malaysian institutions, including **POLIS**, **BOMBA**, 
 - Just travelling? Read [Getting Around](/bandaraya/getting-around).
 - Need a quick answer? Check [FAQ](/bandaraya/faq).
 
-## See Also
+## See also
 
 - [Getting Started](/bandaraya/get-started)
 - [Teams](/bandaraya/teams)
@@ -59,7 +59,7 @@ Your first ten minutes in Bandaraya, from joining the server to moving around KL
 4. Use MRT, bus, taxi, or a vehicle to travel.
 5. Read the rules before joining law, emergency, or combat roleplay.
 
-## 1. Team Selection
+## 1. Team selection
 
 When you join, the team menu opens.
 
@@ -68,7 +68,7 @@ When you join, the team menu opens.
 
 Police, fire, military, taxi, HCC, and other specialist teams require group access, rank, whitelist, or gamepass. See [Teams](/bandaraya/teams).
 
-## 2. First Spawn
+## 2. First spawn
 
 After choosing a team, you spawn at a team-appropriate location. You may have:
 
@@ -78,7 +78,7 @@ After choosing a team, you spawn at a team-appropriate location. You may have:
 - A minimap and full map.
 - Topbar icons for phone, map, and other available tools.
 
-## 3. Basic Controls
+## 3. Basic controls
 
 | Key | Action |
 | --- | --- |
@@ -91,7 +91,7 @@ After choosing a team, you spawn at a team-appropriate location. You may have:
 
 On mobile, use the on-screen controls and tap prompts.
 
-## 4. Try Something
+## 4. Try something
 
 ### Drive
 
@@ -103,7 +103,7 @@ On mobile, use the on-screen controls and tap prompts.
 
 See [Vehicles](/bandaraya/vehicles).
 
-### Use Public Transport
+### Use public transport
 
 1. Walk to an MRT or Monorail station.
 2. Pick a destination on the same line.
@@ -120,7 +120,7 @@ See [Getting Around](/bandaraya/getting-around).
 
 See [Jobs](/bandaraya/jobs).
 
-## 5. Dying, Resetting, and Rejoining
+## 5. Dying, resetting, and rejoining
 
 - Reset works unless your health is at or below 75 HP.
 - If KKM or SJAM are on duty, downed players get a 5-minute bleedout window.
@@ -128,7 +128,7 @@ See [Jobs](/bandaraya/jobs).
 
 See [Combat & Health](/bandaraya/combat-and-health) and [Arrest & Law](/bandaraya/arrest-and-law).
 
-## First-Session Checklist
+## First-session checklist
 
 - [ ] Picked a team.
 - [ ] Opened the map.
@@ -137,7 +137,7 @@ See [Combat & Health](/bandaraya/combat-and-health) and [Arrest & Law](/bandaray
 - [ ] Visited a landmark.
 - [ ] Read the rules.
 
-## Controls Reference
+## Controls reference
 
 ### Vehicle
 
@@ -165,7 +165,7 @@ See [Combat & Health](/bandaraya/combat-and-health) and [Arrest & Law](/bandaray
 - Keep some BR for fuel, tolls, fines, and emergencies.
 - Use CAG if you plan to ride buses or fast travel often.
 
-## See Also
+## See also
 
 - [Teams](/bandaraya/teams)
 - [Jobs](/bandaraya/jobs)

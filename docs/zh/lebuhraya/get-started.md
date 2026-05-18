@@ -1,18 +1,18 @@
 ---
 title: 入门
-description: 你在 Lebuhraya 的前 10 分钟 — 生成车辆、赚取 BR、升级，然后上高速。
+description: 你在 Lebuhraya 的前 10 分钟 - 生成车辆、赚取 BR、升级，然后上高速。
 lang: zh
-translated_from_hash: "4fb4c2ec"
+translated_from_hash: "6b03224d"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 入门
 
-欢迎来到 Lebuhraya。本页带你走过首次游玩体验 — 从加入 server 到赚取你的第一笔 Ringgit (BR) 以及接下第一份工作。
+欢迎来到 Lebuhraya。本页带你走过首次游玩体验 - 从加入 server 到赚取你的第一笔 Ringgit (BR) 以及接下第一份工作。
 
 ## 什么是 Lebuhraya？
 
-Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体验。在三大主要区域之间驾驶轿车、摩托车、罗里和巴士。接工作 — 从送餐到救火 — 来赚取 Ringgit 和升级。买房子、与朋友结伴组车队，或者单纯兜风也行。
+Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体验。在三大主要区域之间驾驶轿车、摩托车、罗里和巴士。接工作 - 从送餐到救火 - 来赚取 Ringgit 和升级。买房子、与朋友结伴组车队，或者单纯兜风也行。
 
 "Lebuhraya" 这个名字在马来语中的意思是 "highway"。
 
@@ -20,7 +20,7 @@ Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体�
 
 首次加入时，你会在 **Visitors** 团队中生成，并拥有：
 
-- **1000 BR**（Ringgit）起始余额 — **已记录但尚未使用**。货币系统正在规划中，尚未上线（详情请看 [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live)）。目前一切都是免费的。
+- **1000 BR**（Ringgit）起始余额 - **已记录但尚未使用**。货币系统正在规划中，尚未上线（详情请看 [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live)）。目前一切都是免费的。
 - **Level 1**，0 XP
 - 没有车辆（你会从世界中的车辆 spawner 生成一辆）
 
@@ -58,12 +58,12 @@ Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体�
 
 ## 驾驶并赚取你的第一点 XP
 
-你只需驾驶就可以赚取 XP。每在驾驶座上行驶 **1500 stud**，你就会获得 **50 XP**。这大约足够你在 20 分钟的休闲兜风中完成 level 1 → 2 的升级。缓慢驾驶不会受到惩罚 — 只要车辆持续移动，XP 就会持续累积。
+你只需驾驶就可以赚取 XP。每在驾驶座上行驶 **1500 stud**，你就会获得 **50 XP**。这大约足够你在 20 分钟的休闲兜风中完成 level 1 → 2 的升级。缓慢驾驶不会受到惩罚 - 只要车辆持续移动，XP 就会持续累积。
 
 想要更快吗？
 
-- **做工作** — 每完成一项动作都会获得额外 XP
-- **与朋友组车队驾驶** — 最高可获得 +50% XP 奖励
+- **做工作** - 每完成一项动作都会获得额外 XP
+- **与朋友组车队驾驶** - 最高可获得 +50% XP 奖励
 - **从库存中启用 XP Boost 代币**即可获得 2× XP
 - **周末活动**偶尔会让所有人的 XP 翻倍
 
@@ -98,7 +98,7 @@ Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体�
 
 ## 关于 test server 的注意事项
 
-如果你加入 **Studio test server** 或私人 server，你会看到警告 "XP will be reset to 0."。这是正常的 — test server 不保存进度，让开发者可以在全新状态下测试。在正式游戏中，你离开时 XP 和 BR 会自动保存。
+如果你加入 **Studio test server** 或私人 server，你会看到警告 "XP will be reset to 0."。这是正常的 - test server 不保存进度，让开发者可以在全新状态下测试。在正式游戏中，你离开时 XP 和 BR 会自动保存。
 
 ## 后续步骤
 

@@ -1,14 +1,14 @@
 ---
 title: 工作
-description: Bandaraya 的各种工作 — 邮政服务、出租车、拖车、巴士司机以及机构岗位 — 包括薪资和级别说明。
+description: Bandaraya 的各种工作 - 邮政服务、出租车、拖车、巴士司机以及机构岗位 - 包括薪资和级别说明。
 lang: zh
-translated_from_hash: "4692dd76"
+translated_from_hash: "1a06c7b3"
 translated_on: 2026-05-18
 needs_review: true
 ---
 # 工作
 
-在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。POLIS / BOMBA / KKM 等岗位不在此页 — 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/bandaraya/emergency-services)。
+在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。POLIS / BOMBA / KKM 等岗位不在此页 - 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/bandaraya/emergency-services)。
 
 ## 简要概览
 
@@ -23,11 +23,11 @@ needs_review: true
 
 ## Postal Service (POS)
 
-最常见的首选工作。不需要 gamepass — 但你必须处于 **偏平民的队伍**： **Visitors**、 **Malaysians**、 **High Class Citizen** 或 **Developers**。POLIS / BOMBA / KKM 等等不能作为 POS 打卡上班（游戏会在开始工作那一步挡住你）。
+最常见的首选工作。不需要 gamepass - 但你必须处于 **偏平民的队伍**： **Visitors**、 **Malaysians**、 **High Class Citizen** 或 **Developers**。POLIS / BOMBA / KKM 等等不能作为 POS 打卡上班（游戏会在开始工作那一步挡住你）。
 
 ### 流程
 
-1. 在 POS 终端机前 **开工**（寻找 POS 标牌 — 见 [地图](/bandaraya/locations)）。
+1. 在 POS 终端机前 **开工**（寻找 POS 标牌 - 见 [地图](/bandaraya/locations)）。
 2. 从附近的 **Postbox** **收取包裹**。你会随身携带。
 3. 把收取的包裹在 **Station** **处理**。
 4. **派送**到城市里的 **Mailboxes**。
@@ -64,7 +64,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 ### 小贴士
 
-- 持续前进 — 派送地点分布得很广。
+- 持续前进 - 派送地点分布得很广。
 - 电单车在拥堵中移动较快；货车一次能载更多。
 - **不要以 POS 身份做乱。** 滥用工作队伍来作案是可被封禁的违规行为。
 
@@ -76,7 +76,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 ### 进入条件
 
-- **Taxi Driver gamepass** (150 R$) — 最便宜的办法。
+- **Taxi Driver gamepass** (150 R$) - 最便宜的办法。
 - **或者** 加入 **Taxi Services** group（SSM 注册）。
 
 如果你在同一 session 中途购买 gamepass，系统会**自动检测购买**（无需重新加入），Taxi Services 队伍会在几秒内出现在你的队伍菜单中。
@@ -92,7 +92,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 5. 接载乘客。
 6. 乘客上车后 **开始**行程。
 7. 把他们载到目的地。
-8. **结束**行程 — 你会获得 BR（`stud 距离 × 公司费率`，最少 30 stud），你的乘客数会增加。
+8. **结束**行程 - 你会获得 BR（`stud 距离 × 公司费率`，最少 30 stud），你的乘客数会增加。
 
 当班次结束时登出。
 
@@ -125,14 +125,14 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 ### 小贴士
 
 - **安全驾驶。** 乘客在你车里死亡的话，角色扮演体验不会太好。
-- **开始前检查目的地。** 有些预订是垃圾 — 你可以取消。
+- **开始前检查目的地。** 有些预订是垃圾 - 你可以取消。
 - **你的钱和乘客数会在 session 之间保存。** 你在累积职业生涯。
 
 ---
 
 ## Towing
 
-你站在秩序一方 — 锁住违法停车的车，并向车主收取 500 BR 才能解开。
+你站在秩序一方 - 锁住违法停车的车，并向车主收取 500 BR 才能解开。
 
 ### 进入条件
 
@@ -163,7 +163,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 ### 小贴士
 
 - **锁车是一个大动作。** 只在真正合理的情况下执行（堵住车道、堵住斑马线、严重违停在禁停线上）。随意锁车骚扰平民是可被封禁的违规行为。
-- 动作会通过 webhook 记录在 Discord 上 — 工作人员可以看到是谁锁了谁。
+- 动作会通过 webhook 记录在 Discord 上 - 工作人员可以看到是谁锁了谁。
 - 远程解锁（从拖车 tablet）也是一种选择。
 
 ---
@@ -180,7 +180,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 1. 在你所属经营者的车场 spawn 一辆巴士。
 2. 驾驶 KL 周围的路线。
-3. 乘客坐上乘客座位即登车 — 他们的车资会自动处理（CAG 卡或现金 5 BR）。
+3. 乘客坐上乘客座位即登车 - 他们的车资会自动处理（CAG 卡或现金 5 BR）。
 4. 到下一个站时让他们下车。
 
 ### 可用的巴士型号
@@ -193,7 +193,7 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 ### 小贴士
 
 - **司机免费搭乘。** 如果你坐在司机位置，不会被扣车资。
-- **通勤者使用 CAG 卡** — 他们可能有也可能没有。如果没有，车资变成欠款；那是他们和 kiosk 的事，不关你的事。
+- **通勤者使用 CAG 卡** - 他们可能有也可能没有。如果没有，车资变成欠款；那是他们和 kiosk 的事，不关你的事。
 - **不要为了去吃午饭而跳过站点。** 角色扮演的完整性很重要。
 
 ---
@@ -202,17 +202,17 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 | 工作 | 进入门槛 | 每小时 BR（约略） | 角色扮演深度 |
 | --- | --- | --- | --- |
-| **POS** | 无 | 中等，稳定 | 低 — 派送循环 |
-| **Taxi** | 150 R$ 或 group | 起伏，量大时高 | 高 — 乘客 + 交通 |
+| **POS** | 无 | 中等，稳定 | 低 - 派送循环 |
+| **Taxi** | 150 R$ 或 group | 起伏，量大时高 | 高 - 乘客 + 交通 |
 | **Tow** | group | 每次行动高，但次数少 | 中 |
-| **Bus** | group | 取决于路线 | 高 — 固定路线、交通 |
+| **Bus** | group | 取决于路线 | 高 - 固定路线、交通 |
 
 有 **HCC gamepass** 的话，以上所有工作每次行动的 BR 都会提升。
 
 ## 另见
 
-- [经济](/bandaraya/economy) — 完整的赚钱/花钱参考
-- [Gamepasses](/bandaraya/gamepasses) — Taxi Driver、HCC
-- [队伍](/bandaraya/teams) — 交通队伍进入条件
-- [车辆](/bandaraya/vehicles) — spawn、燃油、车行
-- [Tablet](/bandaraya/tablet) — MyTow 和 Vehicle Management 应用
+- [经济](/bandaraya/economy) - 完整的赚钱/花钱参考
+- [Gamepasses](/bandaraya/gamepasses) - Taxi Driver、HCC
+- [队伍](/bandaraya/teams) - 交通队伍进入条件
+- [车辆](/bandaraya/vehicles) - spawn、燃油、车行
+- [Tablet](/bandaraya/tablet) - MyTow 和 Vehicle Management 应用

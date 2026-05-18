@@ -7,7 +7,7 @@ description: "Malay words and in-game terms explained for Sumaya players."
 
 A reference list of Malaysian (Malay) words and Sumaya-specific game terms.
 
-## Malaysian Words
+## Malaysian words
 
 These come from everyday Malaysian/Malay vocabulary. You'll see them throughout the game.
 
@@ -18,9 +18,9 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Kesihatan** | Health / medical. | The medical / paramedic emergency-service team. |
 | **Polis** | Police. | The law-enforcement emergency-service team. Abbreviated POLIS. |
 | **Jom** | "Let's go" (informal). | The button to enter the world from the main menu. |
-| **Jelajah** | "Explore" / "journey". | The phone discovery-journal app — tracks landmarks (POIs) you've found vs. ones still locked. |
+| **Jelajah** | "Explore" / "journey". | The phone discovery-journal app - tracks landmarks (POIs) you've found vs. ones still locked. |
 | **Ditemui** | "Found" / "discovered". | Used in the Jelajah app's progress pill (`<n> / <total> ditemui`). |
-| **Baca Maklumat** | "Read information". | CTA button on a discovered Jelajah POI's detail screen — re-opens the landmark's infographic. |
+| **Baca Maklumat** | "Read information". | CTA button on a discovered Jelajah POI's detail screen - re-opens the landmark's infographic. |
 | **Belum** | "Not yet". | Filter pill in Jelajah for landmarks you haven't discovered yet. |
 | **Semua** | "All". | Filter pill in Jelajah for the full POI list. |
 | **Daerah** | District / region. | Regions of Sumaya's map. |
@@ -37,7 +37,7 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Jalan** | Road / street. | Appears in street names like "Jalan Triden", "Jalan Bawang". |
 | **Lorong** | Lane / alley. | Smaller streets like "Lorong Pais", "Lorong Kicai". |
 
-### Malaysian Rank Abbreviations
+### Malaysian rank abbreviations
 
 These appear in Bomba ranks:
 
@@ -76,7 +76,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | DCP | Deputy Commissioner of Police |
 | CP | Commissioner of Police |
 
-## Game-Specific Terms
+## Game-specific terms
 
 | Term | Definition |
 |------|------------|
@@ -121,7 +121,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Status widget** | The two-row top-right HUD panel showing Citizen level + active sector. Hidden by tapping the Status icon in the topbar. |
 | **TopBar icons** | The small Map / Tasks / Status / Open Menu icons at the top-centre of the screen. Tap to toggle each HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying. |
 
-## Abbreviations Commonly Seen
+## Abbreviations commonly seen
 
 | Abbrev | Meaning |
 |--------|---------|
@@ -133,7 +133,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | PvP | Player vs Player |
 | ATM | Automated Teller Machine |
 
-## What Next?
+## What next?
 
 - [Getting Started](/) if you're new.
 - Any of the specific sections (see the [README](/) for the full TOC).

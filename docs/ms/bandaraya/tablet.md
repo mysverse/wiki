@@ -1,17 +1,17 @@
 ---
 title: Tablet
 description: >-
-  Alat tablet khas pasukan di Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
+  Alat tablet khas pasukan di Bandaraya - MDT, MyEmergency, MyTow, KKM Logger,
   dan aplikasi lain.
 lang: ms
-translated_from_hash: "d28c2b27"
+translated_from_hash: "e68f2619"
 translated_on: 2026-05-18
 needs_review: true
 ---
 
 # Tablet
 
-**Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda — pegawai POLIS nampak MDT, operator tunda nampak MyTow, dan sebagainya.
+**Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda - pegawai POLIS nampak MDT, operator tunda nampak MyTow, dan sebagainya.
 
 > **Tablet ≠ Telefon.** [Telefon](/bandaraya/phone) ialah permukaan aplikasi topbar universal (MyPay, e-hailing, CAG, 999, MyCar, dan lain-lain). Tablet pula ialah **alat** khas pasukan yang anda lengkapkan daripada backpack anda.
 
@@ -32,13 +32,13 @@ needs_review: true
 4. Klik ikon aplikasi untuk masuk ke aplikasi tersebut.
 5. Lengkapkan alat lain atau tekan ikon togol untuk menutup.
 
-Topbar mendapat ikon yang terikat dengan tablet — ketik ikon itu untuk togol buka/tutup tanpa perlu lengkapkan.
+Topbar mendapat ikon yang terikat dengan tablet - ketik ikon itu untuk togol buka/tutup tanpa perlu lengkapkan.
 
 ---
 
 ## Aplikasi
 
-### MDT — Mobile Data Terminal (POLIS)
+### MDT - Mobile Data Terminal (POLIS)
 
 Terminal maklumat polis. UI autentik polis dengan jenama Polis, tab mendatar, medan data monospace.
 
@@ -63,14 +63,14 @@ Khas POLIS sahaja; pasukan lain akan nampak tab yang dikelabukan.
 
 ### MyEmergency
 
-Aplikasi koordinasi perkhidmatan kecemasan — untuk pasukan kecemasan (POLIS, BOMBA, KKM, SJAM). Uruskan panggilan insiden, selaraskan respons berbilang pasukan.
+Aplikasi koordinasi perkhidmatan kecemasan - untuk pasukan kecemasan (POLIS, BOMBA, KKM, SJAM). Uruskan panggilan insiden, selaraskan respons berbilang pasukan.
 
 ### Vehicle Management
 
-Aplikasi kenderaan serbaguna — sesiapa yang ada tablet boleh guna untuk kegunaan asas. Ciri-ciri termasuk:
-- **Carian plat** — cari maklumat pendaftaran kenderaan
-- **Pengurusan pendaftaran** — daftar kenderaan yang anda miliki
-- **Penjejakan spawn** — lihat kenderaan yang telah anda spawn
+Aplikasi kenderaan serbaguna - sesiapa yang ada tablet boleh guna untuk kegunaan asas. Ciri-ciri termasuk:
+- **Carian plat** - cari maklumat pendaftaran kenderaan
+- **Pengurusan pendaftaran** - daftar kenderaan yang anda miliki
+- **Penjejakan spawn** - lihat kenderaan yang telah anda spawn
 
 ### MyTow
 
@@ -98,8 +98,8 @@ Alat dan diagnostik pembangun. Pembangun sahaja.
 
 Tablet menerima notifikasi melalui dua saluran acara:
 
-- **Notifikasi tablet** — amaran global (panggilan kebakaran, panggilan 999, BOLO, pengumuman admin).
-- **Notifikasi khusus aplikasi** — dalam konteks aplikasi tertentu (contoh: tempahan baharu untuk pemandu teksi, amaran MDT untuk POLIS).
+- **Notifikasi tablet** - amaran global (panggilan kebakaran, panggilan 999, BOLO, pengumuman admin).
+- **Notifikasi khusus aplikasi** - dalam konteks aplikasi tertentu (contoh: tempahan baharu untuk pemandu teksi, amaran MDT untuk POLIS).
 
 Apabila notifikasi tiba, ikon tablet pada topbar akan mendapat penunjuk visual, dan aplikasi yang berkaitan akan berdenyut.
 
@@ -125,15 +125,15 @@ Jika aplikasi yang anda jangkakan tiada di situ, semak pasukan anda.
 
 ## Tip & perkara penting
 
-- **Alat tablet kekal merentasi spawn** — anda tidak akan hilangnya apabila mati.
+- **Alat tablet kekal merentasi spawn** - anda tidak akan hilangnya apabila mati.
 - **Togol topbar lebih pantas daripada melengkapkan** untuk tinjauan cepat.
-- **MDT BG Check dikemas kini secara langsung** — lokasi sasaran adalah terkini.
-- **BOLO dibatalkan automatik apabila ditangkap** — tiada pembersihan manual diperlukan.
-- **Carian plat berfungsi untuk semua orang** — anda tidak perlu jadi POLIS untuk mencari plat kenderaan.
+- **MDT BG Check dikemas kini secara langsung** - lokasi sasaran adalah terkini.
+- **BOLO dibatalkan automatik apabila ditangkap** - tiada pembersihan manual diperlukan.
+- **Carian plat berfungsi untuk semua orang** - anda tidak perlu jadi POLIS untuk mencari plat kenderaan.
 
 ## Lihat juga
 
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — peranan POLIS / BOMBA / KKM yang menggunakan tablet
-- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) — bagaimana BOLO / BG check berfungsi dalam tangkapan
-- [Pekerjaan](/bandaraya/jobs) — MyTow untuk operator tunda
-- [Kenderaan](/bandaraya/vehicles) — pendaftaran dan carian plat
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - peranan POLIS / BOMBA / KKM yang menggunakan tablet
+- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) - bagaimana BOLO / BG check berfungsi dalam tangkapan
+- [Pekerjaan](/bandaraya/jobs) - MyTow untuk operator tunda
+- [Kenderaan](/bandaraya/vehicles) - pendaftaran dan carian plat

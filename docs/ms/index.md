@@ -1,10 +1,10 @@
 ---
-title: 'Wiki MYSverse — Mendokumentasikan MYSverse, satu pengalaman pada satu masa'
+title: 'Wiki MYSverse - Mendokumentasikan MYSverse, satu pengalaman pada satu masa'
 description: >-
   Panduan lengkap pelayan permainan MYSverse termasuk Bandaraya, Lebuhraya dan
   banyak lagi. Oleh rakyat Malaysia, untuk semua.
 lang: ms
-translated_from_hash: b5551d9a
+translated_from_hash: 8fc88668
 translated_on: 2026-05-18T00:00:00.000Z
 needs_review: true
 layout: home

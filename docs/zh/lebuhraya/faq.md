@@ -2,7 +2,7 @@
 title: 常见问题与技巧
 description: Lebuhraya 新玩家的常见问题与快速上手技巧。
 lang: zh
-translated_from_hash: "d22790a4"
+translated_from_hash: "3b7f88d1"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,14 +14,14 @@ needs_review: true
 
 ### 为什么我加入测试服时 XP 被重置?
 
-测试服(包括 Studio playtest)会故意将 XP 重置为 0,以便开发者可以用全新的账户测试功能。"XP will be reset to 0" 的警告信息是正常的。您的**正式游戏进度不受影响** — 只有测试服是一次性的。
+测试服(包括 Studio playtest)会故意将 XP 重置为 0,以便开发者可以用全新的账户测试功能。"XP will be reset to 0" 的警告信息是正常的。您的**正式游戏进度不受影响** - 只有测试服是一次性的。
 
 ### 我无法打开车辆生成器。为什么?
 
 有几种可能:
 
-- 您可能需要完全载入 — 加入后等待几秒钟。
-- 可能有一个 UI 叠加层在上面 — 关闭任何已打开的菜单(Esc 或 Backspace)。
+- 您可能需要完全载入 - 加入后等待几秒钟。
+- 可能有一个 UI 叠加层在上面 - 关闭任何已打开的菜单(Esc 或 Backspace)。
 - 你需要靠近世界中的实体车辆 spawner prompt。MyPod 顶栏图标只是音乐播放器。
 - 你可能在工作队伍上，却试图使用平民 spawner。切回 Visitors 或使用你的队伍 spawner。
 - 你可能正在使用队伍专属 spawner。请先加入指定队伍。
@@ -51,8 +51,8 @@ needs_review: true
 最快升级的公式:
 
 1. **在 DriveSeat 中持续驾驶。** 被动 XP 为每 1500 stud 获得 50。
-2. **做工作** — 达到 10 级后,Food Delivery 每次送货支付 250 XP。
-3. **与同一队伍的朋友组队** — 最多 +50% 奖励。
+2. **做工作** - 达到 10 级后,Food Delivery 每次送货支付 250 XP。
+3. **与同一队伍的朋友组队** - 最多 +50% 奖励。
 4. **在长时间游戏前启用 2× XP 代币**。
 5. **在 Double XP Weekend 期间玩**(如有公告)。
 6. **订阅 Roblox Premium** 获得永久 +25%。
@@ -64,9 +64,9 @@ needs_review: true
 
 警察队伍需要 gamepass:
 
-- **KEMRonda** — 高速公路辅助(交通援助、拖车)。
-- **Polis Trafik** — 交通执法。
-- **Undercover Police** — 便衣执法。
+- **KEMRonda** - 高速公路辅助(交通援助、拖车)。
+- **Polis Trafik** - 交通执法。
+- **Undercover Police** - 便衣执法。
 
 购买您想要的队伍的 gamepass,然后从 Main Menu → Teams 标签页加入。
 
@@ -74,11 +74,11 @@ needs_review: true
 
 ### 我要怎么为车加油?
 
-1. 开车到加油站 — 高速公路上的 **PETROMAS**,Bandar Seri Putra 的 **Radtrol**。
+1. 开车到加油站 - 高速公路上的 **PETROMAS**,Bandar Seri Putra 的 **Radtrol**。
 2. 停在与您的燃料类型匹配的泵旁(Petrol、Diesel 或 Electric)。
-3. 屏幕上会出现一个提示 — 互动以加油/充电。
+3. 屏幕上会出现一个提示 - 互动以加油/充电。
 
-在此版本游戏中,燃料**目前免费**。配置价格(Electric 1 / Petrol 2 / Diesel 3 BR 每公升)已定义但尚未收取 — 加油不会从您的余额扣除任何 BR。
+在此版本游戏中,燃料**目前免费**。配置价格(Electric 1 / Petrol 2 / Diesel 3 BR 每公升)已定义但尚未收取 - 加油不会从您的余额扣除任何 BR。
 
 ### 我的车没油了,被困住了。现在怎么办?
 
@@ -86,13 +86,13 @@ needs_review: true
 
 1. 在 **Jerrycan Shop** **购买 JerryCan**,在任何加油站装满(匹配燃料类型),然后倒入您的油箱。
 2. 从实体车辆 spawner **生成一辆替换车辆**。你会失去当前车辆位置，但会得到一辆新车。
-3. **请求 KEMRonda 玩家**拖车 — 他们可以把您带到最近的加油站。
+3. **请求 KEMRonda 玩家**拖车 - 他们可以把您带到最近的加油站。
 
 ### 我在哪里修理我的车?
 
-地图周围布置有 **10 个修理区**。将您的车辆开进去,会出现一个提示 — 确认,保持停在那里,生命值大约每 5 秒恢复 10%,直到完全修复。如果该区域已被其他玩家使用,您无法修理。
+地图周围布置有 **10 个修理区**。将您的车辆开进去,会出现一个提示 - 确认,保持停在那里,生命值大约每 5 秒恢复 10%,直到完全修复。如果该区域已被其他玩家使用,您无法修理。
 
-Bandar Seri Putra 的 **Gravstone Workshop** 是一家**改装店**(喷漆、车身),不是修理店 — 不要去那里期望修车。
+Bandar Seri Putra 的 **Gravstone Workshop** 是一家**改装店**(喷漆、车身),不是修理店 - 不要去那里期望修车。
 
 ### 999 紧急系统如何运作?
 
@@ -106,20 +106,20 @@ Bandar Seri Putra 的 **Gravstone Workshop** 是一家**改装店**(喷漆、车
 
 ### 伤害系统是什么,为什么它很重要?
 
-当 **Kesihatan(医护)玩家加入 server** 时,伤害系统会**自动为所有人激活** — 包括您。这免费为您提供每次 XP 奖励 **+15% XP 倍增**,与 Premium、车队、代币和其他加成叠加。当最后一位医护离开时,它会再次关闭。
+当 **Kesihatan(医护)玩家加入 server** 时,伤害系统会**自动为所有人激活** - 包括您。这免费为您提供每次 XP 奖励 **+15% XP 倍增**,与 Premium、车队、代币和其他加成叠加。当最后一位医护离开时,它会再次关闭。
 
-权衡:开启伤害系统后,严重的车祸可能会对您造成需要医疗治疗的伤害。这些伤害成为医护响应的 999 事件 — 这就是整个循环按设计运作的方式。
+权衡:开启伤害系统后,严重的车祸可能会对您造成需要医疗治疗的伤害。这些伤害成为医护响应的 999 事件 - 这就是整个循环按设计运作的方式。
 
 **小贴士**:如果您在 server 大厅看到医护,您就能获得免费的额外 XP。小心驾驶,您就很少需要治疗。
 
 ### 什么是 Passive 模式?
 
-Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、电击枪、绷带和类似装备 — 在**两个方向上**:
+Passive 模式是一个切换选项,它阻止基于工具的互动 - 武器、电击枪、绷带和类似装备 - 在**两个方向上**:
 
 - 您无法对其他玩家使用工具。
 - 其他玩家也无法对您使用工具。
 
-如果您不想被拖入战斗或紧急角色扮演,请从 Main Menu 启用它。当您准备参与时关闭它。注意:标准驾驶和工作操作不受影响 — passive 只阻止武器和医疗工具。
+如果您不想被拖入战斗或紧急角色扮演,请从 Main Menu 启用它。当您准备参与时关闭它。注意:标准驾驶和工作操作不受影响 - passive 只阻止武器和医疗工具。
 
 ### 我可以拥有一间房子吗?
 
@@ -127,7 +127,7 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 
 ### 我要如何快速旅行?
 
-**普通玩家无法使用快速旅行。** 它是 MYSverse 版主和开发者用于活动协调的仅限工作人员工具。对于其他人来说,GPS 路标系统(在您的 Phone 上)是您四处移动的方式 — 开完整个距离,您边开边赚 XP。GPS 显示一道沿着道路通往您目标的发光光束。
+**普通玩家无法使用快速旅行。** 它是 MYSverse 版主和开发者用于活动协调的仅限工作人员工具。对于其他人来说,GPS 路标系统(在您的 Phone 上)是您四处移动的方式 - 开完整个距离,您边开边赚 XP。GPS 显示一道沿着道路通往您目标的发光光束。
 
 (如果您看到 FastTravel 菜单出现,意味着您已被授予工作人员访问权限。)
 
@@ -136,12 +136,12 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 请检查这些:
 
 - 您是否在另一个车队成员的 **200 stud** 以内?奖励仅在您靠近时才适用。
-- 车队是否真的处于活动状态?检查车队面板 — 它会显示您当前的倍数。
+- 车队是否真的处于活动状态?检查车队面板 - 它会显示您当前的倍数。
 - 您是**乘客**吗?乘客获得司机奖励的一半。
 
 ### 代币是什么?
 
-您库存中的消耗品,提供临时加成 — 2× XP、Season Pass XP 倍增或临时队伍访问权限。从库存激活。请参阅[社交功能 → 代币](/lebuhraya/social-features#tokens-and-boosts)。
+您库存中的消耗品,提供临时加成 - 2× XP、Season Pass XP 倍增或临时队伍访问权限。从库存激活。请参阅[社交功能 → 代币](/lebuhraya/social-features#tokens-and-boosts)。
 
 ### 如何报告 bug 或玩家?
 
@@ -149,11 +149,11 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 
 ### 有单人/私人模式吗?
 
-有 — **私人 server** 可用（从 Roblox experience 页面购买）。请查看下方专门的 **[私人 server](#私人-server)** 部分，了解 server owner 得到什么、常见用途和限制。
+有 - **私人 server** 可用（从 Roblox experience 页面购买）。请查看下方专门的 **[私人 server](#私人-server)** 部分，了解 server owner 得到什么、常见用途和限制。
 
 ### 有促销码吗?
 
-有 — 打开 **Main Menu -> Shop** 并使用 code redemption 输入框。有几个代码是永久有效的:
+有 - 打开 **Main Menu -> Shop** 并使用 code redemption 输入框。有几个代码是永久有效的:
 
 | 代码 | 奖励 | 使用次数 |
 |---|---|---|
@@ -166,7 +166,7 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 | `laksa` | 免费 ZulBezza 彩蛋 | 一次 |
 | `MYS5KFOLLOWERS` | 免费 Intero Citie Bas Sekolah(Bus Driver spawner) | 一次 |
 
-活动代码(有时限)偶尔会针对社区活动、大会和道歉补偿出现 — 请关注 MYSverse 频道获取这些代码。
+活动代码(有时限)偶尔会针对社区活动、大会和道歉补偿出现 - 请关注 MYSverse 频道获取这些代码。
 
 ## wiki 可能未提及的小贴士
 
@@ -176,7 +176,7 @@ Passive 模式是一个切换选项,它阻止基于工具的互动 — 武器、
 
 ### 将您的车辆与工作匹配
 
-Tayoti Hiace 是一辆载客厢型车 — 不要开它去 Race Track。Perosatu Myvi 适合送餐,但对货运来说没用。在[车辆](/lebuhraya/vehicles#vehicle-categories)中查看车辆类别。
+Tayoti Hiace 是一辆载客厢型车 - 不要开它去 Race Track。Perosatu Myvi 适合送餐,但对货运来说没用。在[车辆](/lebuhraya/vehicles#vehicle-categories)中查看车辆类别。
 
 ### 电动车的优势
 
@@ -188,7 +188,7 @@ Tayoti Hiace 是一辆载客厢型车 — 不要开它去 Race Track。Perosatu 
 
 ### 为固定的游戏时段保留代币
 
-不要启用 2× XP 代币然后分心 — 计时器不会暂停。在您计划有一小时不受打扰的游戏时间时使用它们。
+不要启用 2× XP 代币然后分心 - 计时器不会暂停。在您计划有一小时不受打扰的游戏时间时使用它们。
 
 ### 留意 Double XP Weekends
 
@@ -204,11 +204,11 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 
 ### 报告 bug 和反馈
 
-如果您遇到 bug 或有建议,游戏内的 **Report** 系统(MYS_ReportSystem ScreenGui)会直接发送给 MYSverse 团队。使用它 — 开发者会阅读这些。
+如果您遇到 bug 或有建议,游戏内的 **Report** 系统(MYS_ReportSystem ScreenGui)会直接发送给 MYSverse 团队。使用它 - 开发者会阅读这些。
 
 ## 私人 server
 
-私人 server 是 Roblox 的 "VIP server" 功能 — 你支付 Robux 来开一个只有你和受邀者能加入的 server instance。了解它能做什么后，它是 Lebuhraya 最强大的功能之一。
+私人 server 是 Roblox 的 "VIP server" 功能 - 你支付 Robux 来开一个只有你和受邀者能加入的 server instance。了解它能做什么后，它是 Lebuhraya 最强大的功能之一。
 
 ### 用途
 
@@ -216,13 +216,13 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 
 **结构化活动。** Race night、convoy meet、紧急训练、驾照考试和截图拍摄，都适合在 owner 控制一切的空地图中进行。
 
-**无压力练习。** 学开重型卡车、在 race track 提升 lap time，或和朋友排练 999 medic response — 都比在拥挤 public server 中容易。
+**无压力练习。** 学开重型卡车、在 race track 提升 lap time，或和朋友排练 999 medic response - 都比在拥挤 public server 中容易。
 
 **内容创作。** Streamer 和视频创作者用私人 server 拍摄，避免其他玩家破坏镜头。你可以自由摆放车辆、布置场景和 reset。
 
 ### Server owner 得到什么
 
-当你进入自己的私人 server 时，**你会自动获得 Adonis admin level 200** — 一套相当完整的 moderation commands。
+当你进入自己的私人 server 时，**你会自动获得 Adonis admin level 200** - 一套相当完整的 moderation commands。
 
 - **Moderate 你的访客**：kick、ban（仅限该私人 server）、mute、freeze、respawn、teleport、spectate。
 - **布置场景**：teleport 任何玩家（或自己）到任意地点、fly、noclip、改变 gravity、为访客 spawn 车辆。
@@ -277,9 +277,9 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 
 ### 游戏因更新关闭时会怎样?
 
-Lebuhraya 使用 "soft shutdown" 系统，避免你失去 session。Server 重启时，你会看到顺滑的屏幕提示出现（其他 UI fade out），并会在更新部署后**自动 teleport 到新 server**。离开时进度会自动保存 — XP、BR、levels、vehicles、housing，全部保留。
+Lebuhraya 使用 "soft shutdown" 系统，避免你失去 session。Server 重启时，你会看到顺滑的屏幕提示出现（其他 UI fade out），并会在更新部署后**自动 teleport 到新 server**。离开时进度会自动保存 - XP、BR、levels、vehicles、housing，全部保留。
 
-你不需要做任何事 — 让 teleport 完成即可。如果你正和朋友 convoy，他们会被单独 teleport（你们可能重新加入不同 server，所以之后再集合）。
+你不需要做任何事 - 让 teleport 完成即可。如果你正和朋友 convoy，他们会被单独 teleport（你们可能重新加入不同 server，所以之后再集合）。
 
 ## 在哪里可以找到更多
 
@@ -287,4 +287,4 @@ Lebuhraya 使用 "soft shutdown" 系统，避免你失去 session。Server 重�
 - 游戏页面:Roblox 上的 Lebuhraya(Place ID 4892731894)
 - 相关体验:Bandaraya(城市对应版本)、Sumaya(MYSverse 中的其他)
 
-愉快驾驶 — *selamat memandu!*
+愉快驾驶 - *selamat memandu!*

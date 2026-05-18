@@ -2,7 +2,7 @@
 title: 规则
 description: Bandaraya 中可能导致封禁的行为，以及申诉的方式。
 lang: zh
-translated_from_hash: "7b2c24f8"
+translated_from_hash: "6b6b998b"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -30,11 +30,11 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 在聊天中重复发送或发送无意义的文字。不要这样做。
 
-### 2. LTAA — Leave To Avoid Arrest
+### 2. LTAA - Leave To Avoid Arrest
 
 在被拘留或逮捕过程中断开连接。你重新加入时游戏会自动施加 3 分钟逮捕，而 LTAA 本身仍会被视为额外的违规行为。参见 [逮捕与法律](/bandaraya/arrest-and-law#ltaa)。
 
-### 3. RTAA — Reset To Avoid Arrest
+### 3. RTAA - Reset To Avoid Arrest
 
 使用重置按钮逃脱。游戏现在会在 75 HP 或以下时禁用重置，以阻止此类行为。任何尝试仍会被计算。参见 [逮捕与法律](/bandaraya/arrest-and-law#rtaa)。
 
@@ -94,11 +94,11 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ### 5. 分享个人信息
 
-不要 dox。不要分享任何人的个人详情 — 无论是你自己的还是他人的。
+不要 dox。不要分享任何人的个人详情 - 无论是你自己的还是他人的。
 
 ### 6. 违反 Roblox 服务条款
 
-- **种族主义** — 包括暗语形式的种族主义
+- **种族主义** - 包括暗语形式的种族主义
 - **讨论敏感话题**
 - **任何形式的 NSFW 内容**
 - **Online-dating**
@@ -123,7 +123,7 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ## Penal Code 参考
 
-除了玩家规则外，游戏内 POLIS 和司法 roleplay 也会参考 **MYSverse Penal Code** — 这是随游戏提供的 2,380 行 MYSverse 世界内刑事法律指南。警员可在逮捕记录中引用条文编号 (例如 "Section 302 — Punishment for murder")。这只是 roleplay 氛围设定，不会在上列内容之外新增可封禁的罪名。
+除了玩家规则外，游戏内 POLIS 和司法 roleplay 也会参考 **MYSverse Penal Code** - 这是随游戏提供的 2,380 行 MYSverse 世界内刑事法律指南。警员可在逮捕记录中引用条文编号 (例如 "Section 302 - Punishment for murder")。这只是 roleplay 氛围设定，不会在上列内容之外新增可封禁的罪名。
 
 ## 申诉
 
@@ -139,16 +139,16 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ## 小贴士与需要注意的事项
 
-- **anti-cheat 已经过调校。** 合法的战斗不会将你 kick 出（武器 DPS 阈值为 3000+；射速容差最高为每秒 40 发）。如果你被不公平地 kick 出，kick 讯息会包含一个标签（RL、MV、WM）— 将它交给 moderator 以便快速处理。
-- **合法的 teleport 与电梯已在白名单中** — 使用 Aries Hotel 的电梯或 IPD Dang Wangi 的升降机不会将你 kick 出。
-- **Discord 日志记录大多数操作** — 拖车夹、逮捕、伤害事件。不要试图 exploit 并掩盖痕迹。
+- **anti-cheat 已经过调校。** 合法的战斗不会将你 kick 出（武器 DPS 阈值为 3000+；射速容差最高为每秒 40 发）。如果你被不公平地 kick 出，kick 讯息会包含一个标签（RL、MV、WM） - 将它交给 moderator 以便快速处理。
+- **合法的 teleport 与电梯已在白名单中** - 使用 Aries Hotel 的电梯或 IPD Dang Wangi 的升降机不会将你 kick 出。
+- **Discord 日志记录大多数操作** - 拖车夹、逮捕、伤害事件。不要试图 exploit 并掩盖痕迹。
 - **游戏会记录击杀** 以便进行管理审查（在 v3.12.15 中新增）。
 - **账号年龄门槛：** 你需要至少 60 天的 Roblox 账号年龄才能游玩（在 v3.9.0 中设定，以对抗 bot/新账号滥用）。
 - **保持安全，公平游玩。** 就这样。
 
 ## 另见
 
-- [逮捕与法律](/bandaraya/arrest-and-law) — LTAA / RTAA 机制
-- [紧急服务](/bandaraya/emergency-services) — rogue 叛变的后果
-- [常见问题](/bandaraya/faq) — 关于规则的常见问题
+- [逮捕与法律](/bandaraya/arrest-and-law) - LTAA / RTAA 机制
+- [紧急服务](/bandaraya/emergency-services) - rogue 叛变的后果
+- [常见问题](/bandaraya/faq) - 关于规则的常见问题
 - 官方规则文本：`docs/game-rules.md`

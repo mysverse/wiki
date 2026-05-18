@@ -2,7 +2,7 @@
 title: Soalan Lazim & Petua
 description: Soalan biasa dan kemenangan pantas untuk pemain Lebuhraya yang baharu.
 lang: ms
-translated_from_hash: "d22790a4"
+translated_from_hash: "3b7f88d1"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -14,14 +14,14 @@ Soalan biasa, petua kualiti hidup, dan perkara yang pemain berpengalaman harap m
 
 ### Kenapa XP saya reset bila saya sertai server ujian?
 
-Server ujian (termasuk playtest Studio) me-reset XP kepada 0 dengan sengaja, supaya pembangun boleh menguji ciri-ciri terhadap akaun yang baharu. Mesej amaran "XP will be reset to 0" adalah normal. **Kemajuan permainan langsung anda tidak terjejas** — hanya server ujian sahaja yang boleh dibuang.
+Server ujian (termasuk playtest Studio) me-reset XP kepada 0 dengan sengaja, supaya pembangun boleh menguji ciri-ciri terhadap akaun yang baharu. Mesej amaran "XP will be reset to 0" adalah normal. **Kemajuan permainan langsung anda tidak terjejas** - hanya server ujian sahaja yang boleh dibuang.
 
 ### Saya tak boleh buka pemunculan kenderaan. Kenapa?
 
 Beberapa kemungkinan:
 
-- Anda mungkin perlu loading sepenuhnya dahulu — tunggu beberapa saat selepas menyertai.
-- Satu lapisan UI mungkin berada di atasnya — tutup mana-mana menu yang terbuka (Esc atau Backspace).
+- Anda mungkin perlu loading sepenuhnya dahulu - tunggu beberapa saat selepas menyertai.
+- Satu lapisan UI mungkin berada di atasnya - tutup mana-mana menu yang terbuka (Esc atau Backspace).
 - Anda perlu berada dekat prompt spawner kenderaan fizikal di dunia. Ikon topbar MyPod hanyalah pemain muzik.
 - Anda mungkin berada pada pasukan kerja dan cuba menggunakan spawner awam. Tukar ke Visitors atau gunakan spawner pasukan anda.
 - Anda mungkin menggunakan spawner khusus pasukan. Sertai pasukan yang dinamakan dahulu.
@@ -51,8 +51,8 @@ Semuanya berada di **Main Menu -> More**. Menu tahap atas kini menunjukkan **Hom
 Formula untuk naik level terpantas:
 
 1. **Memandu berterusan dalam DriveSeat.** XP pasif ialah 50 setiap 1500 stud.
-2. **Buat kerja** — Food Delivery membayar 250 XP setiap penghantaran selepas anda mencapai level 10.
-3. **Berkonvoi dengan rakan dalam pasukan yang sama** — sehingga +50% bonus.
+2. **Buat kerja** - Food Delivery membayar 250 XP setiap penghantaran selepas anda mencapai level 10.
+3. **Berkonvoi dengan rakan dalam pasukan yang sama** - sehingga +50% bonus.
 4. **Aktifkan token XP 2×** sebelum sesi panjang.
 5. **Main semasa Double XP Weekend** jika diumumkan.
 6. **Langgan Roblox Premium** untuk +25% kekal.
@@ -64,9 +64,9 @@ Dengan menyusun semua ini, anda boleh naik level 10–20× lebih pantas berbandi
 
 Pasukan polis memerlukan gamepass:
 
-- **KEMRonda** — Bantuan lebuh raya (bantuan trafik, tunda).
-- **Polis Trafik** — Penguatkuasaan undang-undang trafik.
-- **Undercover Police** — Penguatkuasaan berpakaian preman.
+- **KEMRonda** - Bantuan lebuh raya (bantuan trafik, tunda).
+- **Polis Trafik** - Penguatkuasaan undang-undang trafik.
+- **Undercover Police** - Penguatkuasaan berpakaian preman.
 
 Beli gamepass untuk pasukan yang anda mahu, kemudian sertai dari Main Menu → tab Teams.
 
@@ -74,11 +74,11 @@ Jika anda ingin bekerja dalam penguatkuasaan undang-undang tanpa gamepass, **APJ
 
 ### Bagaimana saya mengisi minyak kereta?
 
-1. Pandu ke stesen — **PETROMAS** di lebuh raya, **Radtrol** di Bandar Seri Putra.
+1. Pandu ke stesen - **PETROMAS** di lebuh raya, **Radtrol** di Bandar Seri Putra.
 2. Berhenti di sebelah pam yang sepadan dengan jenis bahan api anda (Petrol, Diesel, atau Electric).
-3. Satu prompt akan muncul pada skrin — berinteraksi untuk mengepam / mengecas.
+3. Satu prompt akan muncul pada skrin - berinteraksi untuk mengepam / mengecas.
 
-Bahan api **kini percuma** dalam versi permainan ini. Harga konfigurasi (Electric 1 / Petrol 2 / Diesel 3 BR setiap liter) telah ditentukan tetapi belum lagi dikenakan — mengisi semula tidak mengurangkan mana-mana BR daripada baki anda.
+Bahan api **kini percuma** dalam versi permainan ini. Harga konfigurasi (Electric 1 / Petrol 2 / Diesel 3 BR setiap liter) telah ditentukan tetapi belum lagi dikenakan - mengisi semula tidak mengurangkan mana-mana BR daripada baki anda.
 
 ### Kereta saya kehabisan minyak dan saya terkandas. Apa sekarang?
 
@@ -86,13 +86,13 @@ Anda ada tiga pilihan:
 
 1. **Beli JerryCan** di **Jerrycan Shop**, isinya di mana-mana stesen (sepadankan jenis bahan api), dan tuangkan ke dalam tangki anda.
 2. **Spawn kenderaan ganti** dari spawner kenderaan fizikal. Anda akan hilang kedudukan kenderaan semasa tetapi mendapat tangki baharu.
-3. **Minta pemain KEMRonda** untuk menunda — mereka boleh membawa anda ke stesen terdekat.
+3. **Minta pemain KEMRonda** untuk menunda - mereka boleh membawa anda ke stesen terdekat.
 
 ### Di manakah saya membaiki kereta saya?
 
-Terdapat **10 zon pembaikan** yang diletakkan di sekitar peta. Pandu kenderaan anda ke dalam satu dan satu prompt akan muncul — sahkan, kekal diparkir, dan kesihatan akan pulih kira-kira 10% setiap 5 saat sehingga dibaiki sepenuhnya. Anda tidak boleh membaiki jika zon itu sedang digunakan oleh pemain lain.
+Terdapat **10 zon pembaikan** yang diletakkan di sekitar peta. Pandu kenderaan anda ke dalam satu dan satu prompt akan muncul - sahkan, kekal diparkir, dan kesihatan akan pulih kira-kira 10% setiap 5 saat sehingga dibaiki sepenuhnya. Anda tidak boleh membaiki jika zon itu sedang digunakan oleh pemain lain.
 
-**Gravstone Workshop** di Bandar Seri Putra ialah **kedai penyesuaian** (cat, badan), bukan kedai pembaikan — jangan pergi ke sana mengharapkan pembaikan.
+**Gravstone Workshop** di Bandar Seri Putra ialah **kedai penyesuaian** (cat, badan), bukan kedai pembaikan - jangan pergi ke sana mengharapkan pembaikan.
 
 ### Bagaimana sistem Kecemasan 999 berfungsi?
 
@@ -106,20 +106,20 @@ Lihat [Ciri Sosial → Kecemasan 999](/lebuhraya/social-features#999-emergency-s
 
 ### Apakah Sistem Kecederaan dan kenapa ia penting?
 
-Apabila **pemain Kesihatan (medik) menyertai server**, sistem kecederaan **diaktifkan secara automatik untuk semua orang** — termasuk anda. Ini memberi anda **+15% pendarab XP** secara percuma pada setiap anugerah XP, menyusun dengan Premium, konvoi, token, dan boost lain. Apabila medik terakhir keluar, ia dimatikan semula.
+Apabila **pemain Kesihatan (medik) menyertai server**, sistem kecederaan **diaktifkan secara automatik untuk semua orang** - termasuk anda. Ini memberi anda **+15% pendarab XP** secara percuma pada setiap anugerah XP, menyusun dengan Premium, konvoi, token, dan boost lain. Apabila medik terakhir keluar, ia dimatikan semula.
 
-Tukar gantinya: dengan sistem kecederaan aktif, kemalangan berat boleh mengakibatkan kecederaan pada anda yang memerlukan rawatan perubatan. Kecederaan itu menjadi insiden 999 yang dijawab oleh medik — iaitu keseluruhan gelung yang berfungsi seperti yang direka.
+Tukar gantinya: dengan sistem kecederaan aktif, kemalangan berat boleh mengakibatkan kecederaan pada anda yang memerlukan rawatan perubatan. Kecederaan itu menjadi insiden 999 yang dijawab oleh medik - iaitu keseluruhan gelung yang berfungsi seperti yang direka.
 
 **Petua**: jika anda melihat seorang medik di lobi server, anda mendapat XP tambahan percuma. Pandu dengan berhati-hati dan anda jarang memerlukan rawatan.
 
 ### Apakah mod Passive?
 
-Mod Passive ialah togol yang menghalang interaksi berasaskan alat — senjata, taser, pembalut, dan peralatan serupa — dalam **kedua-dua arah**:
+Mod Passive ialah togol yang menghalang interaksi berasaskan alat - senjata, taser, pembalut, dan peralatan serupa - dalam **kedua-dua arah**:
 
 - Anda tidak boleh menggunakan alat pada pemain lain.
 - Pemain lain tidak boleh menggunakan alat pada anda.
 
-Hidupkannya dari Main Menu jika anda tidak mahu ditarik ke dalam pertempuran atau roleplay kecemasan. Matikannya apabila anda bersedia untuk menyertai. Nota: pemanduan standard dan tindakan kerja tidak terjejas — passive hanya menghalang senjata dan alat perubatan.
+Hidupkannya dari Main Menu jika anda tidak mahu ditarik ke dalam pertempuran atau roleplay kecemasan. Matikannya apabila anda bersedia untuk menyertai. Nota: pemanduan standard dan tindakan kerja tidak terjejas - passive hanya menghalang senjata dan alat perubatan.
 
 ### Bolehkah saya memiliki rumah?
 
@@ -127,7 +127,7 @@ Ya. Lawati **Pangsapuri Seri Putra** di Bandar Seri Putra, tuntut satu plot, pil
 
 ### Bagaimana saya fast travel?
 
-**Fast travel tidak tersedia untuk pemain biasa.** Ia adalah alat khusus kakitangan yang digunakan oleh moderator dan pembangun MYSverse untuk koordinasi acara. Untuk semua orang lain, sistem waypoint GPS (pada Phone anda) adalah cara anda bergerak — pandu keseluruhan jarak dan anda akan memperoleh XP semasa anda pergi. GPS menunjukkan pancaran bercahaya yang mengikut jalan ke sasaran anda.
+**Fast travel tidak tersedia untuk pemain biasa.** Ia adalah alat khusus kakitangan yang digunakan oleh moderator dan pembangun MYSverse untuk koordinasi acara. Untuk semua orang lain, sistem waypoint GPS (pada Phone anda) adalah cara anda bergerak - pandu keseluruhan jarak dan anda akan memperoleh XP semasa anda pergi. GPS menunjukkan pancaran bercahaya yang mengikut jalan ke sasaran anda.
 
 (Jika anda melihat menu FastTravel muncul, itu bermakna anda telah diberi akses kakitangan.)
 
@@ -136,12 +136,12 @@ Ya. Lawati **Pangsapuri Seri Putra** di Bandar Seri Putra, tuntut satu plot, pil
 Periksa ini:
 
 - Adakah anda berada dalam lingkungan **200 stud** daripada ahli konvoi lain? Bonus hanya dikenakan apabila anda berdekatan.
-- Adakah konvoi itu benar-benar aktif? Periksa panel konvoi — ia menunjukkan pendarab semasa anda.
+- Adakah konvoi itu benar-benar aktif? Periksa panel konvoi - ia menunjukkan pendarab semasa anda.
 - Adakah anda seorang **penumpang**? Penumpang mendapat separuh daripada bonus pemandu.
 
 ### Apakah token?
 
-Item yang boleh digunakan dalam inventori anda yang memberi boost sementara — XP 2×, penggandaan XP Season Pass, atau akses pasukan sementara. Aktifkan dari inventori. Lihat [Ciri Sosial → Token](/lebuhraya/social-features#tokens-and-boosts).
+Item yang boleh digunakan dalam inventori anda yang memberi boost sementara - XP 2×, penggandaan XP Season Pass, atau akses pasukan sementara. Aktifkan dari inventori. Lihat [Ciri Sosial → Token](/lebuhraya/social-features#tokens-and-boosts).
 
 ### Bagaimana saya melaporkan bug atau pemain?
 
@@ -149,11 +149,11 @@ Buka sistem **Report** dalam permainan dan terangkan apa yang berlaku, di mana i
 
 ### Adakah terdapat mod pemain tunggal / persendirian?
 
-Ya — **server persendirian** tersedia (beli dari halaman experience Roblox). Lihat bahagian **[Server persendirian](#server-persendirian)** khusus di bawah untuk semua yang pemilik dapat, kegunaan biasa, dan hadnya.
+Ya - **server persendirian** tersedia (beli dari halaman experience Roblox). Lihat bahagian **[Server persendirian](#server-persendirian)** khusus di bawah untuk semua yang pemilik dapat, kegunaan biasa, dan hadnya.
 
 ### Adakah terdapat kod promosi?
 
-Ya — buka **Main Menu -> Shop** dan gunakan medan penebusan kod. Beberapa kod aktif secara kekal:
+Ya - buka **Main Menu -> Shop** dan gunakan medan penebusan kod. Beberapa kod aktif secara kekal:
 
 | Kod | Ganjaran | Penggunaan |
 |---|---|---|
@@ -166,7 +166,7 @@ Ya — buka **Main Menu -> Shop** dan gunakan medan penebusan kod. Beberapa kod 
 | `laksa` | Telur Paskah ZulBezza Percuma | Sekali |
 | `MYS5KFOLLOWERS` | Intero Citie Bas Sekolah Percuma (pemunculan Bus Driver) | Sekali |
 
-Kod acara (terhad masa) kadang-kadang muncul untuk acara komuniti, konvensyen, dan permohonan maaf — perhatikan saluran MYSverse untuk kod-kod tersebut.
+Kod acara (terhad masa) kadang-kadang muncul untuk acara komuniti, konvensyen, dan permohonan maaf - perhatikan saluran MYSverse untuk kod-kod tersebut.
 
 ## Petua yang mungkin tidak disebut oleh wiki
 
@@ -176,7 +176,7 @@ Apa pun yang anda lakukan, berada dalam DriveSeat memberi perhatian kepada jalan
 
 ### Padankan kenderaan anda dengan kerja
 
-Tayoti Hiace ialah van penumpang — jangan bawanya ke Race Track. Perosatu Myvi sesuai untuk penghantaran makanan tetapi tidak berguna untuk barang-barang berat. Lihat kategori kenderaan di [Kenderaan](/lebuhraya/vehicles#vehicle-categories).
+Tayoti Hiace ialah van penumpang - jangan bawanya ke Race Track. Perosatu Myvi sesuai untuk penghantaran makanan tetapi tidak berguna untuk barang-barang berat. Lihat kategori kenderaan di [Kenderaan](/lebuhraya/vehicles#vehicle-categories).
 
 ### Kelebihan kereta elektrik
 
@@ -188,7 +188,7 @@ Rekrut satu atau dua kawan dalam pasukan yang sama. Mulakan konvoi. Rapat bersam
 
 ### Simpan token untuk sesi yang bersedia
 
-Jangan aktifkan token XP 2× dan kemudian terganggu — pemasa tidak berhenti. Gunakannya apabila anda mempunyai satu jam permainan tanpa gangguan yang dirancang.
+Jangan aktifkan token XP 2× dan kemudian terganggu - pemasa tidak berhenti. Gunakannya apabila anda mempunyai satu jam permainan tanpa gangguan yang dirancang.
 
 ### Perhatikan Double XP Weekends
 
@@ -204,11 +204,11 @@ Lebuhraya ialah permainan roleplay. Pemain yang bersungguh-sungguh dengan syif p
 
 ### Laporkan bug dan maklum balas
 
-Jika anda menemui bug atau mempunyai cadangan, sistem **Report** dalam permainan (MYS_ReportSystem ScreenGui) menghantar terus kepada pasukan MYSverse. Gunakannya — para pembangun membaca ini.
+Jika anda menemui bug atau mempunyai cadangan, sistem **Report** dalam permainan (MYS_ReportSystem ScreenGui) menghantar terus kepada pasukan MYSverse. Gunakannya - para pembangun membaca ini.
 
 ## Server persendirian
 
-Server persendirian ialah ciri "VIP server" Roblox — anda membayar Robux untuk membuka instance server yang hanya boleh dimasuki oleh anda dan orang yang anda jemput. Ia salah satu ciri Lebuhraya paling berkuasa apabila anda tahu apa yang boleh dibuat.
+Server persendirian ialah ciri "VIP server" Roblox - anda membayar Robux untuk membuka instance server yang hanya boleh dimasuki oleh anda dan orang yang anda jemput. Ia salah satu ciri Lebuhraya paling berkuasa apabila anda tahu apa yang boleh dibuat.
 
 ### Kegunaan
 
@@ -216,13 +216,13 @@ Server persendirian ialah ciri "VIP server" Roblox — anda membayar Robux untuk
 
 **Acara berstruktur.** Malam race, pertemuan konvoi, latihan kecemasan, ujian lesen, dan sesi screenshot semuanya mendapat manfaat daripada peta kosong di mana pemilik mengawal apa yang berlaku.
 
-**Latihan tanpa tekanan.** Belajar memandu trak berat, memperbaiki masa lap di race track, atau berlatih respons medic 999 dengan rakan — semuanya lebih mudah di server persendirian berbanding server awam yang sibuk.
+**Latihan tanpa tekanan.** Belajar memandu trak berat, memperbaiki masa lap di race track, atau berlatih respons medic 999 dengan rakan - semuanya lebih mudah di server persendirian berbanding server awam yang sibuk.
 
 **Penciptaan kandungan.** Streamer dan pencipta video menggunakan server persendirian untuk merakam tanpa pemain lain mengganggu shot. Anda boleh pose kenderaan, susun adegan, dan reset dengan bebas tanpa gangguan.
 
 ### Apa yang pemilik server dapat
 
-Apabila anda menyertai server persendirian sendiri, **anda diberikan Adonis admin level 200 secara automatik** — set perintah moderasi yang besar.
+Apabila anda menyertai server persendirian sendiri, **anda diberikan Adonis admin level 200 secara automatik** - set perintah moderasi yang besar.
 
 - **Moderate tetamu anda**: kick, ban (daripada server persendirian itu sahaja), mute, freeze, respawn, teleport, spectate.
 - **Sediakan adegan**: teleport mana-mana pemain (atau diri sendiri) ke mana-mana lokasi, fly, noclip, ubah gravity, spawn kenderaan untuk tetamu.
@@ -277,9 +277,9 @@ Guna `:cmds` sebagai rujukan utama untuk sintaks command dan keperluan permissio
 
 ### Apa berlaku apabila permainan ditutup untuk kemas kini?
 
-Lebuhraya menggunakan sistem "soft shutdown" supaya sesi anda tidak hilang. Apabila server sedang dimulakan semula, anda akan melihat prompt pada skrin yang lancar muncul (UI lain fade out), dan anda akan **dipindahkan secara automatik ke server baharu** selepas kemas kini dideploy. Progress anda disimpan secara automatik ketika keluar — XP, BR, level, kenderaan, housing, semuanya berkekalan.
+Lebuhraya menggunakan sistem "soft shutdown" supaya sesi anda tidak hilang. Apabila server sedang dimulakan semula, anda akan melihat prompt pada skrin yang lancar muncul (UI lain fade out), dan anda akan **dipindahkan secara automatik ke server baharu** selepas kemas kini dideploy. Progress anda disimpan secara automatik ketika keluar - XP, BR, level, kenderaan, housing, semuanya berkekalan.
 
-Anda tidak perlu melakukan apa-apa — biarkan teleport selesai. Jika anda memandu dalam konvoi bersama rakan, mereka akan diteleport secara individu (anda mungkin menyertai server berasingan, jadi berkumpul semula selepas itu).
+Anda tidak perlu melakukan apa-apa - biarkan teleport selesai. Jika anda memandu dalam konvoi bersama rakan, mereka akan diteleport secara individu (anda mungkin menyertai server berasingan, jadi berkumpul semula selepas itu).
 
 ## Tempat untuk mencari lebih banyak
 
@@ -287,4 +287,4 @@ Anda tidak perlu melakukan apa-apa — biarkan teleport selesai. Jika anda meman
 - Halaman permainan: Lebuhraya di Roblox (Place ID 4892731894)
 - Experience berkaitan: Bandaraya (rakan sejawat bandar), Sumaya (yang lain dalam MYSverse)
 
-Selamat memandu — *selamat memandu!*
+Selamat memandu - *selamat memandu!*

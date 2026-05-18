@@ -4,7 +4,7 @@ description: >-
   Kelakuan yang boleh menyebabkan anda dilarang di Bandaraya, dan cara membuat
   rayuan.
 lang: ms
-translated_from_hash: "7b2c24f8"
+translated_from_hash: "6b6b998b"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -32,11 +32,11 @@ Anda boleh **diharamkan dari server** bagi mana-mana yang berikut:
 
 Memenuhi chat dengan teks berulang atau tiada makna. Jangan.
 
-### 2. LTAA — Leave To Avoid Arrest
+### 2. LTAA - Leave To Avoid Arrest
 
 Putus sambungan semasa ditahan atau sedang ditangkap. Permainan akan memberikan tangkapan 3 minit secara automatik apabila anda menyertai semula, dan LTAA masih dikira sebagai pelanggaran peraturan tambahan. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#ltaa).
 
-### 3. RTAA — Reset To Avoid Arrest
+### 3. RTAA - Reset To Avoid Arrest
 
 Menggunakan butang reset untuk melarikan diri. Permainan kini menyahdayakan reset pada 75 HP atau ke bawah untuk menghalang perkara ini. Percubaan masih dikira. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
 
@@ -96,11 +96,11 @@ Mengelak ban diambil serius.
 
 ### 5. Berkongsi maklumat peribadi
 
-Jangan dox. Jangan kongsi butiran peribadi sesiapa — milik anda atau orang lain.
+Jangan dox. Jangan kongsi butiran peribadi sesiapa - milik anda atau orang lain.
 
 ### 6. Melanggar Syarat Perkhidmatan Roblox
 
-- **Perkauman** — termasuk perkauman berkod
+- **Perkauman** - termasuk perkauman berkod
 - **Membincangkan topik sensitif**
 - **Kandungan NSFW** dalam apa jua bentuk
 - **Online-dating**
@@ -125,7 +125,7 @@ Ini bukan peraturan rasmi, tetapi ia memastikan permainan kekal menyeronokkan:
 
 ## Rujukan Kanun Keseksaan
 
-Selain peraturan pemain, roleplay POLIS dan kehakiman dalam permainan merujuk kepada **MYSverse Penal Code** — panduan undang-undang jenayah dalam dunia MYSverse sepanjang 2,380 baris yang disertakan bersama permainan. Pegawai boleh memetik nombor seksyen (contohnya "Section 302 — Punishment for murder") dalam rekod tangkapan. Ini untuk warna roleplay dan tidak menambah kesalahan boleh ban baharu selain yang disenaraikan di atas.
+Selain peraturan pemain, roleplay POLIS dan kehakiman dalam permainan merujuk kepada **MYSverse Penal Code** - panduan undang-undang jenayah dalam dunia MYSverse sepanjang 2,380 baris yang disertakan bersama permainan. Pegawai boleh memetik nombor seksyen (contohnya "Section 302 - Punishment for murder") dalam rekod tangkapan. Ini untuk warna roleplay dan tidak menambah kesalahan boleh ban baharu selain yang disenaraikan di atas.
 
 ## Rayuan
 
@@ -141,16 +141,16 @@ Mana-mana ban, kekal atau sementara, boleh dirayu.
 
 ## Tip & perkara yang perlu diketahui
 
-- **Anti-cheat telah ditala.** Pertarungan yang sah tidak akan kick anda (ambang DPS senjata 3000+; toleransi kadar tembakan sehingga 40 tembakan/saat). Jika anda di-kick secara tidak adil, mesej kick termasuk tag (RL, MV, WM) — bawa itu kepada moderator untuk penyelesaian pantas.
-- **Teleport dan lif yang sah adalah dalam senarai putih (whitelisted)** — anda tidak akan di-kick kerana menggunakan lif Aries Hotel atau elevator IPD Dang Wangi.
-- **Logging Discord menjejaki kebanyakan tindakan** — klem tunda, tangkapan, peristiwa damage. Jangan cuba exploit dan menutup jejak anda.
+- **Anti-cheat telah ditala.** Pertarungan yang sah tidak akan kick anda (ambang DPS senjata 3000+; toleransi kadar tembakan sehingga 40 tembakan/saat). Jika anda di-kick secara tidak adil, mesej kick termasuk tag (RL, MV, WM) - bawa itu kepada moderator untuk penyelesaian pantas.
+- **Teleport dan lif yang sah adalah dalam senarai putih (whitelisted)** - anda tidak akan di-kick kerana menggunakan lif Aries Hotel atau elevator IPD Dang Wangi.
+- **Logging Discord menjejaki kebanyakan tindakan** - klem tunda, tangkapan, peristiwa damage. Jangan cuba exploit dan menutup jejak anda.
 - **Permainan mencatat kematian (kills)** untuk semakan moderasi (ditambah dalam v3.12.15).
 - **Had umur akaun:** anda memerlukan sekurang-kurangnya 60 hari umur akaun Roblox untuk bermain (ditetapkan dalam v3.9.0 untuk membanteras penyalahgunaan bot/akaun baharu).
 - **Kekal selamat, bermain adil.** Itu sahaja.
 
 ## Lihat juga
 
-- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) — mekanik LTAA / RTAA
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) — akibat pergi rogue
-- [Soalan Lazim](/bandaraya/faq) — soalan lazim tentang peraturan
+- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) - mekanik LTAA / RTAA
+- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - akibat pergi rogue
+- [Soalan Lazim](/bandaraya/faq) - soalan lazim tentang peraturan
 - Teks peraturan rasmi: `docs/game-rules.md`

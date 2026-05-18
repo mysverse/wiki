@@ -2,7 +2,7 @@
 title: பணிகள்
 description: Sumaya-வில் 12-படி கண்டுபிடிப்பு பணித் தொடர்.
 lang: ta
-translated_from_hash: "d1c60876"
+translated_from_hash: "ffb6c3f4"
 translated_on: 2026-05-18
 needs_review: true
 ---

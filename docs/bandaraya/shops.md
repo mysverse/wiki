@@ -3,13 +3,13 @@ title: "Shops & Economy in Bandaraya"
 description: "Complete guide to shops, NPC vendors, gamepasses, and the Bandaraya Ringgit (BR) economy system."
 ---
 
-# Shops & Economy in Bandaraya
+# Shops & economy in Bandaraya
 
 Bandaraya has a rich in-game economy centred around the **Bandaraya Ringgit (BR)** currency. Earn BR through jobs, spend it at shops, and manage your finances through in-game banking.
 
 ## Earning BR
 
-### Jobs & Income
+### Jobs & income
 
 | Job | Team Required | Description |
 |---|---|---|
@@ -17,18 +17,18 @@ Bandaraya has a rich in-game economy centred around the **Bandaraya Ringgit (BR)
 | Taxi Driver | Taxi (gamepass) | Transport players around the city for fare income. |
 | Team Salary | Agency teams | Periodic salary payments based on your active team (Police, Military, Bomba, etc.). |
 
-### Other Income
+### Other income
 
 - **Criminal activities:** Bank robberies and other illicit activities can yield large BR rewards but carry significant risk.
 - **Transfers:** Other players can send you BR via the in-game phone.
 
-## In-Game Shops
+## In-game shops
 
 NPC-operated shops are located throughout the city. Walk up to a shop's red button to browse and purchase items.
 
-### Convenience Store
+### Convenience store
 
-Snacks and drinks at affordable prices — perfect for roleplay.
+Snacks and drinks at affordable prices - perfect for roleplay.
 
 | Item | Price (BR) |
 |---|---|
@@ -50,7 +50,7 @@ Snacks and drinks at affordable prices — perfect for roleplay.
 
 A Malaysian-style tea and coffee shop with an ice cream machine and cosy seating.
 
-### Bartender (Club Kunyet)
+### Bartender (club kunyet)
 
 Drinks served at Club Kunyet nightclub:
 
@@ -64,36 +64,36 @@ Drinks served at Club Kunyet nightclub:
 | Rad's Bepis | 120 |
 | Grav's Oil Drink | 5,000 |
 
-### Matkool (Ice Cream)
+### Matkool (ice cream)
 
 A traditional Malaysian ice cream vendor selling various flavours including Aiskrim Durian, Jagung, Kacang Merah, Bandung, Milo, Oren, Green Split, Yellow Split, and Traffic Light.
 
-### Keluarga Mart
+### Keluarga mart
 
 A grocery store offering various food and household items.
 
-### Toolkit Shop
+### Toolkit shop
 
 | Item | Price (BR) | Description |
 |---|---|---|
 | Toolkit | 100 | Repairs a disabled vehicle (2 uses). Click the button on the engine to fix. |
 | Jerrycan | 800 | Refuel a vehicle. |
 
-### Art Shop
+### Art shop
 
 Purchase art pieces and decorative items.
 
-### Signs Shop
+### Signs shop
 
 Purchase placeable signs for roleplay scenarios.
 
-### Costume Shop
+### Costume shop
 
 Purchase outfits and costume items to customise your character's appearance.
 
-## Special Vendors
+## Special vendors
 
-### Gun Dealer
+### Gun dealer
 
 ::: warning Firearms Licence Required
 You must own the **Firearms Licence** gamepass to purchase from the Gun Dealer.
@@ -133,7 +133,7 @@ Deposit your BR into a secure Vastrix bank account at ATM terminals located thro
 
 Gamepasses are purchased with Robux through the main menu **Shop** tab and provide permanent perks.
 
-### Key Gamepasses
+### Key gamepasses
 
 | Gamepass | Description |
 |---|---|
@@ -145,10 +145,10 @@ Gamepasses are purchased with Robux through the main menu **Shop** tab and provi
 Some gamepasses are shared across MYSverse games. For example, the Taxi Driver gamepass may grant access in both Bandaraya and Lebuhraya.
 :::
 
-## Tips for New Players
+## Tips for new players
 
-1. **Start with Pos Nasional** — it requires no team and is the easiest way to earn your first BR.
-2. **Buy a Toolkit early** — at only BR 100, it's essential for keeping your vehicle running.
-3. **Use the minimap** — shop locations are marked, making them easy to find.
-4. **Save at Vastrix** — deposit excess BR to keep it safe.
-5. **Check the main menu Shop** — new gamepasses and items are added regularly.
+1. **Start with Pos Nasional** - it requires no team and is the easiest way to earn your first BR.
+2. **Buy a Toolkit early** - at only BR 100, it's essential for keeping your vehicle running.
+3. **Use the minimap** - shop locations are marked, making them easy to find.
+4. **Save at Vastrix** - deposit excess BR to keep it safe.
+5. **Check the main menu Shop** - new gamepasses and items are added regularly.

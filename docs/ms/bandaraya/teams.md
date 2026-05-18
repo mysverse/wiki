@@ -1,10 +1,10 @@
 ---
 title: Pasukan
 description: >-
-  Panduan lengkap semua pasukan di Bandaraya — perkhidmatan kecemasan, tentera,
+  Panduan lengkap semua pasukan di Bandaraya - perkhidmatan kecemasan, tentera,
   pengangkutan, awam, kerajaan, dan banyak lagi.
 lang: ms
-translated_from_hash: "6ac5c18c"
+translated_from_hash: "7fd0557c"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -16,7 +16,7 @@ Bandaraya menawarkan pelbagai jenis pasukan, masing-masing dengan pengalaman per
 
 ### Visitors
 
-- **Penerangan:** Pasukan lalai untuk semua pemain baru. Urusan atau bersantai — terokai bandar dengan bebas.
+- **Penerangan:** Pasukan lalai untuk semua pemain baru. Urusan atau bersantai - terokai bandar dengan bebas.
 - **Buka Kunci:** Akses Penuh (pasukan lalai).
 - **Warna Pasukan:** Hijau cerah
 
@@ -38,7 +38,7 @@ Pasukan-pasukan ini bertumpu pada menjaga ketertiban, bertindak balas terhadap i
 
 ### Polis MYSverse (POLIS)
 
-- **Penerangan:** Polis MYSverse — agensi penguatkuasaan undang-undang utama di Bandaraya. Beroperasi melalui pelbagai bahagian termasuk rondaan biasa, Jabatan Siasatan Jenayah (CID), polis trafik (JSPT), operasi khas (UTK), dan unit berperisai (GGK).
+- **Penerangan:** Polis MYSverse - agensi penguatkuasaan undang-undang utama di Bandaraya. Beroperasi melalui pelbagai bahagian termasuk rondaan biasa, Jabatan Siasatan Jenayah (CID), polis trafik (JSPT), operasi khas (UTK), dan unit berperisai (GGK).
 - **Buka Kunci:** Keahlian kumpulan MYSverse Sim Police atau gamepass berkaitan.
 - **Warna Pasukan:** Biru cerah
 - **Kemudahan:** Pejabat CID IPD Dang Wangi, Pejabat JSPT IPD Dang Wangi, Balai Polis Kuala Lumpur
@@ -53,7 +53,7 @@ Pasukan-pasukan ini bertumpu pada menjaga ketertiban, bertindak balas terhadap i
 
 ### Kor Polis Tentera MYSverse (KPTD)
 
-- **Penerangan:** Kor Polis Tentera MYSverse — menguatkuasakan undang-undang dan disiplin tentera.
+- **Penerangan:** Kor Polis Tentera MYSverse - menguatkuasakan undang-undang dan disiplin tentera.
 - **Buka Kunci:** Keahlian kumpulan diperlukan.
 - **Warna Pasukan:** Merah cerah
 - **Kenderaan:** Kenderaan khusus KPTD
@@ -89,7 +89,7 @@ Pasukan-pasukan ini bertumpu pada menjaga ketertiban, bertindak balas terhadap i
 
 ### Kementerian Kesihatan MYSverse (Kementerian Kesihatan / KKM)
 
-- **Penerangan:** Kementerian kesihatan kebangsaan — selamatkan nyawa sebagai kakitangan perubatan.
+- **Penerangan:** Kementerian kesihatan kebangsaan - selamatkan nyawa sebagai kakitangan perubatan.
 - **Buka Kunci:** Keahlian kumpulan diperlukan.
 - **Warna Pasukan:** Putih institusi
 - **Kemudahan:** Klinik KKM Ampang, Prince Court Medical Centre
@@ -106,7 +106,7 @@ Pasukan-pasukan ini bertumpu pada menjaga ketertiban, bertindak balas terhadap i
 
 ### RELA Corps
 
-- **Penerangan:** Ikatan Relawan Rakyat — pasukan sukarelawan awam yang menyokong keselamatan awam.
+- **Penerangan:** Ikatan Relawan Rakyat - pasukan sukarelawan awam yang menyokong keselamatan awam.
 - **Buka Kunci:** Keahlian kumpulan diperlukan.
 - **Warna Pasukan:** New Yeller
 

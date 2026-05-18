@@ -2,7 +2,7 @@
 title: Kelapa Sawit (Pertanian)
 description: Kerja kelapa sawit dan pertanian di Sumaya.
 lang: ms
-translated_from_hash: "cc69382a"
+translated_from_hash: "f582401a"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -39,7 +39,7 @@ Sektor Agro menyediakan **empat tahap** sabit dan baldi pinggang. Tahap yang leb
 | 1 | 12 s | 10 Buah | 1 | Percuma | Percuma |
 | 2 | 10 s | 30 Buah | 20 | 4,000 SR | 2,000 SR |
 | 3 | 7 s | 60 Buah | 40 | 5,000 SR | 2,500 SR |
-| 4 | 5 s | 100 Buah | 60 | 8,000 SR | 100 SR (kemungkinan pepijat keseimbangan — mungkin dinaikkan dalam tampalan akan datang) |
+| 4 | 5 s | 100 Buah | 60 | 8,000 SR | 100 SR (kemungkinan pepijat keseimbangan - mungkin dinaikkan dalam tampalan akan datang) |
 
 Baldi tahap-4 muat satu tandan penuh (sehingga 100 Buah setiap pokok sawit), jadi pemain sektor-60 yang lengkap kelengkapan boleh membersihkan satu pokok tanpa berjalan kembali ke titik pengumpulan.
 
@@ -57,15 +57,15 @@ Kerana semuanya dimasukkan ke bank pada penghujung syif, jika anda mati atau tid
 
 ## Menaikkan tahap
 
-Sektor Agro kini berhad pada **tahap 100**, sama seperti setiap sektor awam dan perkhidmatan kecemasan yang lain. (Dahulunya berhenti pada 25 — tangga jangka panjang dilancarkan pada lewat 2025.)
+Sektor Agro kini berhad pada **tahap 100**, sama seperti setiap sektor awam dan perkhidmatan kecemasan yang lain. (Dahulunya berhenti pada 25 - tangga jangka panjang dilancarkan pada lewat 2025.)
 
-XP setiap penuaian adalah **tetap pada 6 XP setiap Buah** tanpa mengira tahap sektor anda. Lengkung XP semakin panjang dengan setiap tahap (tahap N memerlukan 100 × N XP), jadi tanggapan "tahap awal pantas, tahap kemudian perlahan" datang daripada bar yang melebar, bukan daripada ganjaran setiap tindakan yang berubah. Naik taraf sabit dan baldi tahap 2/3/4 adalah cara sebenar tahap kemudian menjadi lebih cekap — pemotongan lebih pantas dan baldi lebih besar = lebih banyak Buah seminit.
+XP setiap penuaian adalah **tetap pada 6 XP setiap Buah** tanpa mengira tahap sektor anda. Lengkung XP semakin panjang dengan setiap tahap (tahap N memerlukan 100 × N XP), jadi tanggapan "tahap awal pantas, tahap kemudian perlahan" datang daripada bar yang melebar, bukan daripada ganjaran setiap tindakan yang berubah. Naik taraf sabit dan baldi tahap 2/3/4 adalah cara sebenar tahap kemudian menjadi lebih cekap - pemotongan lebih pantas dan baldi lebih besar = lebih banyak Buah seminit.
 
 ## Petua
 
 - **Baldi penuh.** Perhatikan kapasiti baldi anda - sebaik sahaja penuh, anda mungkin perlu memunggah sebelum meneruskan. (Bergantung pada susunan peta, pemunggahan berlaku di titik pengumpulan.)
 - **Penghujung syif penting.** Sentiasa clock out sebelum log keluar - jika anda terputus di tengah syif, pendapatan tertangguh anda mungkin hilang.
-- **Grind jangka panjang.** Memandangkan Agro kini berhad pada 100, rancang untuk jangka masa panjang — XP tahap awal adalah kecil, jadi bonus 50 XP setiap syif berkompaun dengan baik jika anda susun bersama dengan peningkatan Kesihatan +15%.
+- **Grind jangka panjang.** Memandangkan Agro kini berhad pada 100, rancang untuk jangka masa panjang - XP tahap awal adalah kecil, jadi bonus 50 XP setiap syif berkompaun dengan baik jika anda susun bersama dengan peningkatan Kesihatan +15%.
 - **Bonus 50 XP penghujung-syif adalah XP-pemain sahaja.** Ia masuk ke akaun global anda, bukan ke sektor Agro. Pertimbangkan itu apabila merancang syif.
 - **Susun bersama peningkatan XP Kesihatan.** Jika sistem kecederaan Kesihatan aktif, bonus 50 XP penghujung-syif menjadi 57.5 XP (+15%).
 

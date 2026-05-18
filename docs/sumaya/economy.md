@@ -7,16 +7,16 @@ description: "Ringgit (SR), wallet vs bank mechanics, and earning in Sumaya."
 
 Sumaya's currency is the **Ringgit**, abbreviated **SR** (Sumaya Ringgit) in the UI. This page covers how to earn, store, and spend it.
 
-## Your Starting Balance
+## Your starting balance
 
 Every new player begins with:
 
 - **100 Ringgit** in the **wallet**.
 - **1,000 Ringgit** in the **bank**.
 
-That's enough to grab a few shop items and start driving the free starter cars (**Perosatu Axia** or **Protan Wira**). Paid civilian rentals start at **1,250 SR**, so your starting wallet alone is not enough for a rental; houses are also out of reach at the start (Tier 1 is **25,000 SR** — see [Housing](/sumaya/housing)).
+That's enough to grab a few shop items and start driving the free starter cars (**Perosatu Axia** or **Protan Wira**). Paid civilian rentals start at **1,250 SR**, so your starting wallet alone is not enough for a rental; houses are also out of reach at the start (Tier 1 is **25,000 SR** - see [Housing](/sumaya/housing)).
 
-## Wallet vs Bank
+## Wallet vs bank
 
 You have two separate balances:
 
@@ -44,7 +44,7 @@ ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you 
 - **Deposit** from wallet to bank. No limit.
 - **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
 
-## Paying Another Player in Person (Sadaqa / Donate)
+## Paying another player in person (Sadaqa / donate)
 
 For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
 
@@ -54,13 +54,13 @@ For casual hand-offs, equip your **Wallet** tool and walk up to another player. 
 
 Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new player. For larger transfers, use the **ATM Transfer** (bank-to-bank by username).
 
-## Earning Ringgit
+## Earning ringgit
 
-### From Jobs
+### From jobs
 
 Per-action payouts. Totals depend on how long you work.
 
-### Income / Job XP Booster
+### Income / job XP booster
 
 A future **Income / Job XP Booster** pass is visible in the Shop as a disabled **Coming Soon** card. When it is enabled, it is designed to add **25% more job Ringgit** and **25% more job-sector XP** for eligible work: Bomba, Polis arrests/radar, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, and gig jobs.
 
@@ -88,7 +88,7 @@ It does **not** boost player-level XP, quest rewards, crime payouts, ATM transfe
 | Polis (milestone every 5 arrests) | +200 SR bonus |
 | Polis (radar capture) | 50 SR to wallet |
 
-### From Crime
+### From crime
 
 Higher risk, higher reward. Rewards go to your bank.
 
@@ -101,11 +101,11 @@ Higher risk, higher reward. Rewards go to your bank.
 | Illegal Pangolin trafficking | 1,000 SR to bank |
 | Illegal Hornbill trafficking | 2,000 SR to bank |
 
-### From Quests
+### From quests
 
 The 12-quest chain pays a total of **2,900 Ringgit** from individual quest rewards plus a **1,500 Ringgit finale bonus**, for a total of **4,400 Ringgit** to your bank if you complete the whole chain. See [Quests](/sumaya/quests).
 
-## Biggest Earners (Ranked)
+## Biggest earners (ranked)
 
 Roughly, from highest per-hour to lowest, assuming you stay busy:
 
@@ -121,7 +121,7 @@ Roughly, from highest per-hour to lowest, assuming you stay busy:
 10. **Rod fishing** - quick SR, player XP only, best for casual play.
 11. **Trawl fishing** - slower SR but the only way to level the fishing sector.
 
-## Spending Ringgit
+## Spending ringgit
 
 ### Vehicles
 
@@ -150,13 +150,13 @@ See [Housing](/sumaya/housing).
 Prices vary widely. A rough range:
 
 - **Food items** from food stalls: 1-5 SR (cosmetic / roleplay tools, don't actually restore hunger in the current build).
-- **Gas cans** for boats: 75-125 SR. Red replenishes 25% of the tank (75 SR), Green 50% (100 SR), Black **100% — full refuel** (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** — trying to top off an already-high boat does nothing and doesn't consume the can.
+- **Gas cans** for boats: 75-125 SR. Red replenishes 25% of the tank (75 SR), Green 50% (100 SR), Black **100% - full refuel** (125 SR). Boat fuel max is 100; overflow is clamped. **Refill only works when current fuel is below 75** - trying to top off an already-high boat does nothing and doesn't consume the can.
 - **Tools** (Slim Jim, Pickpocket Knife, etc.): 50-500 SR.
 - **Cosmetic items**: variable.
 
 Shops are scattered across Sumaya. The minimap marks each one.
 
-## Milestone Bonuses (Stack These)
+## Milestone bonuses (stack these)
 
 Remember:
 
@@ -171,12 +171,12 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 - **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
 - **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
 - **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Houses are now five-digit purchases (25,000–35,000 SR) — plan a multi-shift grind, not an impulse.
+- **Save before you buy.** Houses are now five-digit purchases (25,000–35,000 SR) - plan a multi-shift grind, not an impulse.
 - **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
 - **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
 - **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
 
-## What Next?
+## What next?
 
 - [Progression](/sumaya/progression) for how XP and Ringgit interact.
 - Gig jobs for short-run payout details.

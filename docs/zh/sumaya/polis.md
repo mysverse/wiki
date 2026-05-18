@@ -1,8 +1,8 @@
 ---
 title: 警察
-description: 在 Sumaya 扮演 POLIS — 巡逻、逮捕、职级与装备。
+description: 在 Sumaya 扮演 POLIS - 巡逻、逮捕、职级与装备。
 lang: zh
-translated_from_hash: "d9102608"
+translated_from_hash: "70f9a4a0"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -95,7 +95,7 @@ needs_review: true
 
 在最终逮捕之前,嫌疑人进入 **detained** 状态。一旦被拘留:
 - 他们以 **4-stud offset** 跟随您,限制在 **20 studs maximum** 范围内(他们无法乱跑)。
-- **60-second detain timeout** 启动 — 如果您未在 60 秒内完成逮捕,拘留将自动释放。
+- **60-second detain timeout** 启动 - 如果您未在 60 秒内完成逮捕,拘留将自动释放。
 - 在被拘留期间,他们仍然可以尝试在提示处 **surrender** 以将自己的监禁时间减半。
 
 当您想在登记前将嫌疑人带到特定地点(警察局、surrender 提示)时,拘留非常有用。
@@ -171,8 +171,8 @@ needs_review: true
 在您的 **taser** 命中或您的 **detain** 成功的那一刻,**30-second combat window** 在嫌疑人身上打开。计时器有效期间:
 
 - 他们的 **Reset** 按钮被锁定,主菜单 / 切换团队即使在 1 星以下也被锁定。
-- 如果他们因任何原因死亡(摔落、车祸、reset/forced death、或您电击他们次数过多)— combat-evasion jail 启动。
-- 如果他们离开游戏 — combat-evasion jail 会排队等待他们的下一个会话。
+- 如果他们因任何原因死亡(摔落、车祸、reset/forced death、或您电击他们次数过多) - combat-evasion jail 启动。
+- 如果他们离开游戏 - combat-evasion jail 会排队等待他们的下一个会话。
 
 Combat-evasion jail 是常规 LTAA 时长的 **double**:1–5 stars 时为 60 / 120 / 240 / 360 / 600 秒,如果当时被拘留则加上 +30 秒。**您将获得按星级缩放的完整 XP + Ringgit,如同您干净利落地逮捕了他们一样**,加上 50% 附近警员的分配。如果您想要报酬，请保持在线直到结果处理完成。
 
@@ -180,7 +180,7 @@ Combat-evasion jail 是常规 LTAA 时长的 **double**:1–5 stars 时为 60 / 
 
 ## 测速陷阱与雷达
 
-Sumaya 有 **two separate speeding systems** — 自动区域和您的手动 radar gun。
+Sumaya 有 **two separate speeding systems** - 自动区域和您的手动 radar gun。
 
 ### 测速陷阱区域(自动)
 
@@ -188,7 +188,7 @@ Sumaya 有 **two separate speeding systems** — 自动区域和您的手动 rad
 
 区域以每位驾驶员 30 秒的冷却时间循环,所以反复超速通过的人会迅速累积罚单。
 
-带 **siren active** 的紧急车辆豁免 — 您响应时不会给自己开罚单。
+带 **siren active** 的紧急车辆豁免 - 您响应时不会给自己开罚单。
 
 ### Radar gun(手动,用于大超速者)
 

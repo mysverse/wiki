@@ -1,10 +1,10 @@
 ---
 title: வேலைகள் கண்ணோட்டம்
 description: >-
-  Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் — மீன்பிடி, சேவை, மற்றும் பனை
+  Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் - மீன்பிடி, சேவை, மற்றும் பனை
   எண்ணெய்.
 lang: ta
-translated_from_hash: "564a308e"
+translated_from_hash: "0f03e276"
 translated_on: 2026-05-18
 needs_review: true
 ---

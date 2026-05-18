@@ -1,13 +1,13 @@
 ---
 title: "Emergency Services"
-description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security services of Bandaraya."
+description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD - the emergency and security services of Bandaraya."
 ---
 
-# Emergency Services
+# Emergency services
 
 Public-service roles are central to Bandaraya. This page explains what each emergency or uniformed team is expected to do.
 
-## Quick Reference
+## Quick reference
 
 | Team | Main role | Arrest power |
 | --- | --- | --- |
@@ -20,11 +20,11 @@ Public-service roles are central to Bandaraya. This page explains what each emer
 | **MAF** | Military roleplay | No standard police role |
 | **KPTD** | Military police | Yes |
 
-## POLIS - Police
+## POLIS - police
 
 POLIS is the main law-enforcement team.
 
-### What You Do
+### What you do
 
 - Patrol the city in marked or unmarked police vehicles.
 - Respond to 999 calls and BOLO alerts.
@@ -33,7 +33,7 @@ POLIS is the main law-enforcement team.
 - Use the MDT tablet app for background checks and BOLOs.
 - Staff IPD Dang Wangi and coordinate with other responders.
 
-### Common Tools
+### Common tools
 
 POLIS may receive a taser, baton, cuffs, search tool, Saman tool, radar gun, flashlight, fingerprint scanner, clamp, traffic wand, whistle, police tape, and placeables.
 
@@ -46,15 +46,15 @@ POLIS may receive a taser, baton, cuffs, search tool, Saman tool, radar gun, fla
 
 See [Arrest & Law](/bandaraya/arrest-and-law) for the arrest flow.
 
-## Polis Bantuan
+## Polis bantuan
 
 Polis Bantuan MyTransit supports policing around transit areas. They can assist with detainment and arrests, but roleplay should normally stay around bus, MRT, and Monorail operations.
 
-## BOMBA - Fire & Rescue
+## BOMBA - fire & rescue
 
 BOMBA handles fire and rescue incidents.
 
-### What You Do
+### What you do
 
 - Respond to fire call-outs.
 - Use hydrants and hoses to extinguish fires.
@@ -62,15 +62,15 @@ BOMBA handles fire and rescue incidents.
 - Carry injured players out of unsafe areas.
 - Support traffic control around major incidents.
 
-### Fire Incidents
+### Fire incidents
 
 Fire incidents can appear when BOMBA is on duty. BOMBA players receive alerts with a map pin, sound, and tablet notification. Incidents have a time limit and are cleaned up if nobody is left on BOMBA duty.
 
-## KKM - Health Ministry
+## KKM - health ministry
 
 KKM is the main medical team.
 
-### What You Do
+### What you do
 
 - Treat injured and downed players.
 - Use medical tools such as bandages, morphine, blood bags, and defibrillators.
@@ -91,13 +91,13 @@ RELA supports public-order scenes with basic tools such as baton, search, and fl
 
 The MYSverse Armed Forces operate from Kem Wardieburn. MAF roleplay focuses on military duties, parades, base operations, and special events. Regular MAF members should not act like city police.
 
-## KPTD - Military Police
+## KPTD - military police
 
 KPTD is the military police branch. They can arrest and handle military-police matters, especially around MAF personnel and military scenes.
 
 Standard Saman summons are handled by POLIS and Polis Bantuan. KPTD should focus on military-police matters.
 
-## Combined Operations
+## Combined operations
 
 Large incidents often involve multiple teams:
 
@@ -114,7 +114,7 @@ Large incidents often involve multiple teams:
 - Keep descriptions short and factual when using law or medical tools.
 - Use your tablet if your team has one.
 
-## See Also
+## See also
 
 - [Arrest & Law](/bandaraya/arrest-and-law)
 - [Combat & Health](/bandaraya/combat-and-health)

@@ -15,7 +15,7 @@ Bandaraya has a large vehicle roster: civilian cars, motorcycles, buses, tow tru
 - Crashes damage vehicles.
 - Bought dealership vehicles are saved to your account.
 
-## Spawning a Vehicle
+## Spawning a vehicle
 
 1. Walk to a vehicle spawner or the Classic Car Dealer.
 2. Interact with the prompt.
@@ -47,7 +47,7 @@ Mouse steering gives finer control than keyboard-only steering.
 
 To refuel, drive to the pump or charger, exit, interact, pay BR, and wait for the fuel bar.
 
-## Crash Damage
+## Crash damage
 
 Vehicles can be damaged by:
 
@@ -58,11 +58,11 @@ Vehicles can be damaged by:
 
 Drive carefully. Deliberate vehicle griefing can lead to moderation action.
 
-## Registration and Plates
+## Registration and plates
 
 Spawned vehicles receive plates automatically. Police and tablet users with access can use plate lookup for traffic stops, tow work, and vehicle management.
 
-## Armoured Vehicles
+## Armoured vehicles
 
 Some vehicles protect occupants better than normal cars:
 
@@ -72,11 +72,11 @@ Some vehicles protect occupants better than normal cars:
 
 Civilian cars are not bulletproof.
 
-## Dealership: Classic Car Dealer
+## Dealership: classic car dealer
 
 The Classic Car Dealer sells civilian vehicles.
 
-### Common Brands
+### Common brands
 
 - Proton
 - Perodua
@@ -106,7 +106,7 @@ POLIS and BOMBA have team helicopter spawners. Civilians cannot spawn emergency 
 - Respawn a damaged or lost vehicle from the correct spawner.
 - Do not use vehicles to spawn-ram, block scenes, or harass players.
 
-## See Also
+## See also
 
 - [Economy](/bandaraya/economy)
 - [Jobs](/bandaraya/jobs)

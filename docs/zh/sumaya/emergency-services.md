@@ -1,8 +1,8 @@
 ---
 title: 紧急服务概览
-description: POLIS、BOMBA 与 Kesihatan — Sumaya 的紧急服务介绍。
+description: POLIS、BOMBA 与 Kesihatan - Sumaya 的紧急服务介绍。
 lang: zh
-translated_from_hash: "deb96e43"
+translated_from_hash: "3554a580"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -23,8 +23,8 @@ Sumaya 有三支紧急服务队伍:
 | | 平民职业 | 紧急服务 |
 |---|------------------|---------------------|
 | 如何加入 | 手机上的 Careers 应用 | 主菜单队伍选择 |
-| 最高领域等级 | 100 (每个平民领域 — fishing、service、agro) | 100 |
-| 每次行动的 XP | 固定 (Service 每位顾客 6,Agro 每个水果 6,Trawl 每条鱼 2,Rod 每条鱼 15) — 无等级缩放 | 每次行动固定 (Bomba 每块 5,Kesihatan 每次治疗 15-40,Polis 50-400 按星级缩放) |
+| 最高领域等级 | 100 (每个平民领域 - fishing、service、agro) | 100 |
+| 每次行动的 XP | 固定 (Service 每位顾客 6,Agro 每个水果 6,Trawl 每条鱼 2,Rod 每条鱼 15) - 无等级缩放 | 每次行动固定 (Bomba 每块 5,Kesihatan 每次治疗 15-40,Polis 50-400 按星级缩放) |
 | 工具 | 上班时给予 | spawn 时给予 |
 | 需要打卡? | 需要 | 不需要,始终当班 |
 | 等级限制的载具? | 仅 trawler | 是,数辆在领域等级 15、20、35、40、45、55、65 解锁 |

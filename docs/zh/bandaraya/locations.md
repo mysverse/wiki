@@ -2,7 +2,7 @@
 title: 地图与地点
 description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
-translated_from_hash: "1fc23133"
+translated_from_hash: "d025eb43"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -64,7 +64,7 @@ needs_review: true
 
 | 地点 | 内容 |
 | --- | --- |
-| **Classic Car Dealer** | 平民车辆 dealership — 购买、租用、喷漆。也出售 HCC 豪华车辆。 |
+| **Classic Car Dealer** | 平民车辆 dealership - 购买、租用、喷漆。也出售 HCC 豪华车辆。 |
 
 ## 燃油与充电
 
@@ -77,7 +77,7 @@ needs_review: true
 
 | 地点 | 备注 |
 | --- | --- |
-| **Hazbank** | 游戏内银行。潜在抢劫目标 — 需要 **10+ 名玩家在线** 才能开始抢劫。 |
+| **Hazbank** | 游戏内银行。潜在抢劫目标 - 需要 **10+ 名玩家在线** 才能开始抢劫。 |
 | **Vastrix Bank** | 存款、银行模块 |
 
 ## 地标高楼
@@ -124,30 +124,30 @@ needs_review: true
 
 ## 其他地标
 
-- **Asean Kuala Lumpur** — ASEAN 综合楼
-- **AKClot** — 停车场
+- **Asean Kuala Lumpur** - ASEAN 综合楼
+- **AKClot** - 停车场
 - **UAE Embassy**
-- **Plaza Rakyat** — 宣传电视屏幕
-- **Community Retail (CR)** — 宣传电视屏幕；附近有充电站
+- **Plaza Rakyat** - 宣传电视屏幕
+- **Community Retail (CR)** - 宣传电视屏幕；附近有充电站
 
 ## 基础设施
 
-- **Roads** — 带道路标线的完整路网
-- **Traffic Lights** — 4 路和 3 路红绿灯，支持自动和手动控制
-- **RoadSigns** — 路牌
-- **Streetlights** — 2-way Bandaraya 街灯模型
+- **Roads** - 带道路标线的完整路网
+- **Traffic Lights** - 4 路和 3 路红绿灯，支持自动和手动控制
+- **RoadSigns** - 路牌
+- **Streetlights** - 2-way Bandaraya 街灯模型
 - **Bus lanes** 沿 Jalan Ampang
 - **Bike lanes** 沿 Jalan Ampang
 
 ## 植被与装饰
 
 - **棕榈树、大树、环境植被**
-- **Raya 2024** decorations (季节性 — 目前在城市中可见)
+- **Raya 2024** decorations (季节性 - 目前在城市中可见)
 - 其他节庆套装 (Merdeka、CNY、Halloween) 存放在 storage 中，并按季节轮换
 
 ## CCTV
 
-**Orwell CCTV System** — KL 各处共有 **30 个摄像头** (已验证)，由 IPD Dang Wangi 内的 CCTV 桌控制。包含 PTZ (pan-tilt-zoom)、bullet cameras，以及 DME / HEROS 系列固定摄像头。
+**Orwell CCTV System** - KL 各处共有 **30 个摄像头** (已验证)，由 IPD Dang Wangi 内的 CCTV 桌控制。包含 PTZ (pan-tilt-zoom)、bullet cameras，以及 DME / HEROS 系列固定摄像头。
 
 覆盖范围包括受真实 KL 启发的地点：
 - **Menara Maxis pickup** 与 Jalan Lorong Kuda × Jalan Stonor
@@ -160,32 +160,32 @@ needs_review: true
 - **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
 - **Traders' Hotel**
 
-CCTV 是 POLIS 的行动资产 — 平民不会与画面 feed 互动。建筑上的摄像头 decal 到处可见，用于增强视觉真实感。
+CCTV 是 POLIS 的行动资产 - 平民不会与画面 feed 互动。建筑上的摄像头 decal 到处可见，用于增强视觉真实感。
 
 ## 特殊地点
 
-- **HardPoints** — Hardpoint gamemode 的 raid / capture 点
-- **Armoury** — 武器 / 装备储藏 (team-gated)
-- **e-hailing pickup points** — 分布在城市各处，用于出租车运营
-- **Inzun Notes** — 互动笔记系统
-- **Waypoints** — 100+ 个 waypoint 标记，用于导航和地点追踪
-- **Global Piano Connector** — 互动钢琴
-- **Mannequin** displays — 服装展示
+- **HardPoints** - Hardpoint gamemode 的 raid / capture 点
+- **Armoury** - 武器 / 装备储藏 (team-gated)
+- **e-hailing pickup points** - 分布在城市各处，用于出租车运营
+- **Inzun Notes** - 互动笔记系统
+- **Waypoints** - 100+ 个 waypoint 标记，用于导航和地点追踪
+- **Global Piano Connector** - 互动钢琴
+- **Mannequin** displays - 服装展示
 
 ## 车辆生成地点
 
 城市中有 30+ 个车辆 spawner，按运营方组织：
 
-- **POLIS** — 多个 (Reg、Transports、JSPT、POLIS Heli)
-- **BOMBA** — Bomba Spawner、Bomba Utility、BOMBA Heli
-- **MAF** — MAF、MAF Civilian、GGK、KPTD
-- **Transport** — MyTransit、FirstGroup、Fermuda、FermudaDev、FLAXIM、FLAXIM 2、Fetch、Tompang
-- **Taxi** — Taxi Spawner
-- **POS** — POS Spawner
-- **Tow** — TOW Vehicles
-- **KKM / SJAM** — StJohn Spawner (SJAM)，以及通过队伍使用 KKM
-- **Special** — OCG、DEV Vehicles、DEV Vehicles 2、ARE、SPAD、JIM
-- **Civilian** — Classic Car Dealer
+- **POLIS** - 多个 (Reg、Transports、JSPT、POLIS Heli)
+- **BOMBA** - Bomba Spawner、Bomba Utility、BOMBA Heli
+- **MAF** - MAF、MAF Civilian、GGK、KPTD
+- **Transport** - MyTransit、FirstGroup、Fermuda、FermudaDev、FLAXIM、FLAXIM 2、Fetch、Tompang
+- **Taxi** - Taxi Spawner
+- **POS** - POS Spawner
+- **Tow** - TOW Vehicles
+- **KKM / SJAM** - StJohn Spawner (SJAM)，以及通过队伍使用 KKM
+- **Special** - OCG、DEV Vehicles、DEV Vehicles 2、ARE、SPAD、JIM
+- **Civilian** - Classic Car Dealer
 
 你只能使用你的队伍被授权的 spawner。参见[车辆](/zh/bandaraya/vehicles)。
 
@@ -193,17 +193,17 @@ CCTV 是 POLIS 的行动资产 — 平民不会与画面 feed 互动。建筑上
 
 50+ 个玩家生成点按队伍组织 (`PlayerSpawns`)：
 
-- **Emergency** — POLIS、BOMBA、KKM、SJAM
-- **Military** — MAF、KPTD
-- **Transport** — MyTransit、FirstGroup、Fermuda、Flaxim、Fetch、Bus Services、Taxi Services、Towing Services
-- **Government** — Government、Royal Family、Yang di-Pertuan Persekutuan、Foreign Rep
-- **Default** — Visitors、Malaysians、Arrested
-- **Other** — Developers、Moderation、OCG、NWS、JIM、HCC、RELA、TransitKL
+- **Emergency** - POLIS、BOMBA、KKM、SJAM
+- **Military** - MAF、KPTD
+- **Transport** - MyTransit、FirstGroup、Fermuda、Flaxim、Fetch、Bus Services、Taxi Services、Towing Services
+- **Government** - Government、Royal Family、Yang di-Pertuan Persekutuan、Foreign Rep
+- **Default** - Visitors、Malaysians、Arrested
+- **Other** - Developers、Moderation、OCG、NWS、JIM、HCC、RELA、TransitKL
 
 ## 另请参阅
 
-- [出行](/zh/bandaraya/getting-around) — MRT、巴士、CAG kiosk
-- [车辆](/zh/bandaraya/vehicles) — spawner、dealership
-- [紧急服务](/zh/bandaraya/emergency-services) — IPD、BOMBA、KKM 地点
-- [经济](/zh/bandaraya/economy) — 商店及其售卖内容
-- [工作](/zh/bandaraya/jobs) — POS postbox 和 mailbox 地点 (游戏内)
+- [出行](/zh/bandaraya/getting-around) - MRT、巴士、CAG kiosk
+- [车辆](/zh/bandaraya/vehicles) - spawner、dealership
+- [紧急服务](/zh/bandaraya/emergency-services) - IPD、BOMBA、KKM 地点
+- [经济](/zh/bandaraya/economy) - 商店及其售卖内容
+- [工作](/zh/bandaraya/jobs) - POS postbox 和 mailbox 地点 (游戏内)

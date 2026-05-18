@@ -1,8 +1,8 @@
 ---
 title: 游戏通行证
-description: Bandaraya 全部游戏通行证说明 — 出租车司机、枪支执照、HCC、车载电台等。
+description: Bandaraya 全部游戏通行证说明 - 出租车司机、枪支执照、HCC、车载电台等。
 lang: zh
-translated_from_hash: "a0e2692e"
+translated_from_hash: "2269b79d"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -12,10 +12,10 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 
 ## 简要说明
 
-- **Taxi Driver(150 R$)** — 便宜,适合想做出租车工作的你。
-- **Car Radio(100 R$)** — 最便宜,纯粹为了氛围。
-- **Firearms Licence(1,250 R$)** — 解锁枪械商店。只有你想开枪时才买。
-- **High Class Citizen(3,000 R$)** — 最贵,若你常玩则最值得(收入加成 + 豪车)。
+- **Taxi Driver(150 R$)** - 便宜,适合想做出租车工作的你。
+- **Car Radio(100 R$)** - 最便宜,纯粹为了氛围。
+- **Firearms Licence(1,250 R$)** - 解锁枪械商店。只有你想开枪时才买。
+- **High Class Citizen(3,000 R$)** - 最贵,若你常玩则最值得(收入加成 + 豪车)。
 
 ---
 
@@ -36,13 +36,13 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 **Car Radio。** 100 R$ 让你随处有音乐。最便宜也最普遍实用。
 
 ### “我想赚钱”
-**Taxi Driver**(150 R$)— 即时上岗,门槛低。搭配 Car Radio 获得最大氛围感。
+**Taxi Driver**(150 R$) - 即时上岗,门槛低。搭配 Car Radio 获得最大氛围感。
 
 ### “我想拿枪角色扮演”
-**Firearms Licence**(1,250 R$)。平民唯一合法取得武器的途径 — **除非**你加入会配发武器的队伍(POLIS、KPTD、MAF、Moderation、Developers、Yang di-Pertuan Persekutuan)。请注意商店每次购买之间有 **5 分钟的冷却时间**。
+**Firearms Licence**(1,250 R$)。平民唯一合法取得武器的途径 - **除非**你加入会配发武器的队伍(POLIS、KPTD、MAF、Moderation、Developers、Yang di-Pertuan Persekutuan)。请注意商店每次购买之间有 **5 分钟的冷却时间**。
 
 ### “我想极致优化”
-**High Class Citizen**(3,000 R$)。若你常玩,收入加成会自己回本。附带豪车与专属队伍访问权。若你只是偶尔玩,就别买 — 那些 Robux 拿来买 BR developer products 更划算。
+**High Class Citizen**(3,000 R$)。若你常玩,收入加成会自己回本。附带豪车与专属队伍访问权。若你只是偶尔玩,就别买 - 那些 Robux 拿来买 BR developer products 更划算。
 
 ### “我打算大量游玩”
 先买 HCC,再买 Taxi Driver 作为额外副业收入,然后 Car Radio 为氛围。Firearms Licence 仅在你喜欢战斗角色扮演时才需要。
@@ -63,7 +63,7 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 
 ## 另见
 
-- [经济](/bandaraya/economy) — BR 经济完整说明
-- [队伍](/bandaraya/teams#special-teams) — HCC 与 Taxi Services 队伍详情
-- [工作](/bandaraya/jobs) — POS、Taxi、Tow
-- [战斗与健康](/bandaraya/combat-and-health) — 武器
+- [经济](/bandaraya/economy) - BR 经济完整说明
+- [队伍](/bandaraya/teams#special-teams) - HCC 与 Taxi Services 队伍详情
+- [工作](/bandaraya/jobs) - POS、Taxi、Tow
+- [战斗与健康](/bandaraya/combat-and-health) - 武器

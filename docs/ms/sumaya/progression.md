@@ -2,7 +2,7 @@
 title: Kemajuan
 description: 'XP, tahap, pangkat, dan jalan terpantas untuk naik di Sumaya.'
 lang: ms
-translated_from_hash: "9ae5ab9e"
+translated_from_hash: "22aa863c"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -43,7 +43,7 @@ Berikut adalah berapa banyak XP yang diberikan oleh tindakan yang berbeza. Kedua
 
 | Tindakan | XP (skala dengan tahap) |
 |--------|------------------------|
-| Memancing dengan joran (per ikan dijual, 5 spesies) | 15 XP kepada pemain sahaja — TIDAK memajukan sektor fishing |
+| Memancing dengan joran (per ikan dijual, 5 spesies) | 15 XP kepada pemain sahaja - TIDAK memajukan sektor fishing |
 | Pukat tunda (per ikan ditarik) | 2 XP kepada pemain dan sektor fishing |
 | Selesaikan pesanan mamak / makanan segera | Tetap **6 XP** setiap pelanggan + **bonus 10 XP akhir syif** jika minimum disajikan. Tiada skala tahap. |
 | Tuaian kelapa sawit | ~5 XP pada tahap 1, meningkat dengan tahap sektor |
@@ -226,8 +226,8 @@ Mahu naik tahap dengan cepat? Berikut adalah taktik kasar:
 ### Strategi pelbagai sektor
 
 - Semua yang anda peroleh dalam sektor menaikkan akaun pemain anda secara selari.
-- Setiap sektor kini menetap pada tahap 100 — tidak lagi ada sektor "tangga terpendek". Pilih kadar mana yang sesuai dengan apa yang anda nikmati.
-- Fishing adalah paling pasif — naikkan tahapnya semasa anda melakukan perkara lain.
+- Setiap sektor kini menetap pada tahap 100 - tidak lagi ada sektor "tangga terpendek". Pilih kadar mana yang sesuai dengan apa yang anda nikmati.
+- Fishing adalah paling pasif - naikkan tahapnya semasa anda melakukan perkara lain.
 
 ## Pemindahan XP berlebihan
 

@@ -1,8 +1,8 @@
 ---
 title: 入门
-description: 开始玩 Sumaya — 主菜单、队伍选择、操作以及你进城的头五分钟。
+description: 开始玩 Sumaya - 主菜单、队伍选择、操作以及你进城的头五分钟。
 lang: zh
-translated_from_hash: "6af5df94"
+translated_from_hash: "2ef9751f"
 translated_on: 2026-05-18
 needs_review: true
 ---

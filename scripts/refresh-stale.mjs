@@ -61,7 +61,7 @@ for (const enPath of walkEnPages()) {
       continue;
     }
 
-    // Stale — pick strategy
+    // Stale - pick strategy
     if (isDrifted) {
       parsed.content = "\n" + enBody;
     }
@@ -82,5 +82,5 @@ for (const enPath of walkEnPages()) {
 }
 
 console.log(
-  `\n${dryRun ? "Would update" : "Updated"} — body+hash: ${bodyRefresh}, hash-only: ${hashOnly}, unchanged: ${unchanged}.`
+  `\n${dryRun ? "Would update" : "Updated"} - body+hash: ${bodyRefresh}, hash-only: ${hashOnly}, unchanged: ${unchanged}.`
 );

@@ -1,8 +1,8 @@
 ---
 title: Polis
-description: 'Bermain sebagai POLIS di Sumaya — rondaan, tangkapan, pangkat, dan peralatan.'
+description: 'Bermain sebagai POLIS di Sumaya - rondaan, tangkapan, pangkat, dan peralatan.'
 lang: ms
-translated_from_hash: "d9102608"
+translated_from_hash: "70f9a4a0"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -95,7 +95,7 @@ Aliran asas:
 
 Sebelum tangkapan akhir, suspek memasuki keadaan **detained**. Setelah ditahan:
 - Mereka mengikut anda pada **4-stud offset**, dihadkan dalam **20 studs maximum** (mereka tidak boleh berkeliaran).
-- **60-second detain timeout** akan bermula — jika anda tidak menyelesaikan tangkapan dalam 60 s, tahanan akan dilepaskan secara automatik.
+- **60-second detain timeout** akan bermula - jika anda tidak menyelesaikan tangkapan dalam 60 s, tahanan akan dilepaskan secara automatik.
 - Semasa ditahan, mereka masih boleh cuba **surrender** pada prom untuk mengurangkan masa penjara mereka separuh.
 
 Tahanan berguna apabila anda mahu membawa suspek ke lokasi tertentu (balai polis, prom penyerahan diri) sebelum mendaftarkan mereka.
@@ -171,8 +171,8 @@ Jadi tidak, berhenti tidak akan menyelamatkan anda.
 **30-second combat window** dibuka pada suspek pada saat **taser** anda mengenai sasaran atau **detain** anda berjaya. Semasa pemasa aktif:
 
 - Butang **Reset** mereka dikunci, dan menu utama / pertukaran pasukan dikunci walaupun di bawah 1-star.
-- Jika mereka mati atas apa-apa sebab (jatuh, kemalangan, reset/kematian paksa, atau anda menaser mereka terlalu banyak kali) — combat-evasion jail bermula.
-- Jika mereka meninggalkan permainan — combat-evasion jail dijadualkan untuk sesi seterusnya mereka.
+- Jika mereka mati atas apa-apa sebab (jatuh, kemalangan, reset/kematian paksa, atau anda menaser mereka terlalu banyak kali) - combat-evasion jail bermula.
+- Jika mereka meninggalkan permainan - combat-evasion jail dijadualkan untuk sesi seterusnya mereka.
 
 Combat-evasion jail adalah **double** tempoh LTAA biasa: 60 / 120 / 240 / 360 / 600 saat pada 1–5 stars, ditambah +30 saat jika mereka ditahan pada masa itu. **Anda menerima XP + Ringgit penuh berskala bintang yang dikreditkan seolah-olah anda telah menangkap mereka dengan bersih**, ditambah pembahagian 50% pegawai berdekatan. Kekal dalam talian sehingga keputusan diproses jika anda mahu bayaran.
 
@@ -180,7 +180,7 @@ Dalam amalan ini bermakna: setelah anda menaser suspek, anda telah pun mengunci 
 
 ## Perangkap kelajuan dan radar
 
-Sumaya mempunyai **two separate speeding systems** — zon automatik dan radar gun manual anda.
+Sumaya mempunyai **two separate speeding systems** - zon automatik dan radar gun manual anda.
 
 ### Zon perangkap kelajuan (auto)
 
@@ -188,7 +188,7 @@ Terdapat **3 speed trap zones** dalam dunia, setiap satu dengan had yang dipapar
 
 Zon dikitar semula bagi setiap pemandu pada cooldown 30 saat, jadi seseorang yang memandu laju berulang kali akan mengumpul saman dengan cepat.
 
-Kenderaan kecemasan dengan **siren active** mereka dikecualikan — anda tidak akan menyaman diri sendiri semasa menyahut panggilan.
+Kenderaan kecemasan dengan **siren active** mereka dikecualikan - anda tidak akan menyaman diri sendiri semasa menyahut panggilan.
 
 ### Radar gun (manual, untuk pelaju besar)
 

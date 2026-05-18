@@ -2,7 +2,7 @@
 title: Misi
 description: Rantaian misi penemuan 12 langkah di Sumaya.
 lang: ms
-translated_from_hash: "d1c60876"
+translated_from_hash: "ffb6c3f4"
 translated_on: 2026-05-18
 needs_review: true
 ---
