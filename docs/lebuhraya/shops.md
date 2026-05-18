@@ -9,7 +9,7 @@ Lebuhraya has **12 shops** scattered across the map. Most sell food items you ca
 
 > **Shops are currently free.** Item pricing is temporarily disabled — walking up to a shop and selecting an item gives it to you without deducting BR. This may change in a future update. The Jerrycan Shop enforces a **2-per-player jerrycan limit** and a **1-per-player toolkit limit**; other shops generally do not cap purchases.
 
-## Food shops
+## Food Shops
 
 ### Kedai Nasi Campur Long Kee
 
@@ -62,7 +62,7 @@ A classic Malaysian convenience store. Grab a drink, a chocolate bar, or an ice 
 - **Ice cream**: Asteroid, Solero, IcyGrape
 - **Savoury**: Potato (chips), Pandan (cake)
 
-## Specialised shops
+## Specialised Shops
 
 ### Abang' Frik Tech Tools
 
@@ -94,24 +94,24 @@ A full-size supermarket experience. You can walk the aisles, pick items off shel
 
 Like the other shops, KeluargaMart is currently free — grab whatever you fancy. Law-team players (Polis, APJ) are blocked from the register interaction to discourage unprofessional behaviour on duty.
 
-## Food Delivery interactions
+## Food Delivery Interactions
 
 Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
 
 See [Jobs](/lebuhraya/jobs) for the delivery flow.
 
-## Buying mechanics
+## Buying Mechanics
 
 - Walk up to the shop NPC or counter.
 - A ProximityPrompt appears — interact to open the shop menu.
 - Select the item. In the current build, no BR is deducted; the item is granted for free.
 - The item appears in your inventory as a tool. Equip it to use / eat / display it.
 
-## Where to find them
+## Where to Find Them
 
 Shops are spread across Bandar Seri Putra and Jersik. Use the Phone GPS / topbar waypoint system to route to a shop you select. See [World and Map](/lebuhraya/map) for the regional layout.
 
-## Next steps
+## Next Steps
 
 - [World and Map](/lebuhraya/map) — Where each shop is physically located
 - [Jobs → Food Delivery](/lebuhraya/jobs#food-delivery) — Earning XP from these shops

@@ -2,8 +2,8 @@
 title: Telefon & UI
 description: '12 aplikasi telefon, HUD, dan peta mini di Sumaya.'
 lang: ms
-translated_from_hash: 552de054
-translated_on: '2026-05-17'
+translated_from_hash: "9b5574d6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Telefon & UI
@@ -22,7 +22,7 @@ Apabila anda menyertai, respawn, atau bergerak melalui menu utama, Sumaya mungki
 
 ## Aplikasi telefon
 
-Sumaya mempunyai **14 entri aplikasi** ditambah pelancar utama telefon (dipanggil `PhoneUI` secara dalaman). Sesetengah aplikasi hanya muncul apabila sesuai: Emergency999 memerlukan watak anda sudah spawn, MDT adalah untuk pasukan perkhidmatan kecemasan, dan DevTools adalah untuk pembangun sahaja.
+Telefon Sumaya mempunyai **14 aplikasi** serta skrin utama. Sesetengah aplikasi hanya muncul apabila berguna: Emergency999 muncul selepas watak anda spawn, MDT untuk pasukan perkhidmatan kecemasan, dan alat khas pembangun kekal tersembunyi daripada pemain biasa.
 
 ### Tetapan
 
@@ -124,7 +124,7 @@ Panduan anda kepada mercu tanda Sumaya. Aplikasi Jelajah memaparkan setiap Point
 
 Apabila anda berjalan ke dalam POI yang ditandakan buat kali pertama, aplikasi memaparkan toast `Ditemui: <name>` dan entri bertukar daripada terkunci kepada ditemui. Ganjaran POI dimasukkan ke akaun bank anda secara automatik.
 
-POI ialah ciri yang sedang dalam pembangunan. Build langsung mentakrifkan **Menara Jam**, **Pasar Sumaya**, dan **Pantai Sumaya**, tetapi dunia kini tiada bahagian pencetus `SumayaPOI` yang ditag. Jika mercu tanda itu tidak terbuka ketika anda melawatnya, itu ialah jurang penempatan kandungan, bukan sesuatu yang anda lakukan salah.
+POI ialah ciri yang sedang dalam pembangunan. Build langsung termasuk **Menara Jam**, **Pasar Sumaya**, dan **Pantai Sumaya**. Jika mercu tanda itu tidak terbuka ketika anda melawatnya, itu ialah jurang penempatan kandungan, bukan sesuatu yang anda lakukan salah.
 
 ### Emergency999
 
@@ -149,13 +149,7 @@ Hanya kelihatan pada **pasukan perkhidmatan kecemasan** (POLIS, BOMBA, Kesihatan
 
 Lihat [Polis](/sumaya/polis) untuk maklumat lanjut tentang MDT.
 
-### DevTools
-
-Aplikasi penyahpepijatan khas pembangun. Anda tidak akan melihatnya sebagai pemain biasa. Abaikan.
-
-Untuk penguji yang dibenarkan, DevTools kini termasuk semakan backend untuk placeholder monetization: entitlement catalog/overrides, simulasi produk tunai, pemilikan vehicle pack, keadaan scaffold radio, dan ujian pengkhususan POLIS.
-
-### PhoneUI (pelancar utama)
+### Skrin utama
 
 Skrin utama telefon dengan grid aplikasi. Bukan aplikasi berasingan yang anda lancarkan.
 

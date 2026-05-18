@@ -2,8 +2,8 @@
 title: 队伍
 description: Sumaya 的五支队伍 — Visitors、Malaysians、POLIS、BOMBA 与 Kesihatan。
 lang: zh
-translated_from_hash: 00882afa
-translated_on: '2026-04-21'
+translated_from_hash: "77a2b90e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 队伍
@@ -14,7 +14,6 @@ Sumaya 有五个队伍，每个队伍都有独特的角色、工具和职责。�
 
 ### 访客（Visitors）
 
-<!-- TODO: 添加访客队伍截图 -->
 <!-- ![访客](/images/sumaya/teams/visitors.png) -->
 
 所有新玩家的默认队伍。
@@ -35,14 +34,13 @@ Sumaya 有五个队伍，每个队伍都有独特的角色、工具和职责。�
 
 ### POLIS（警察）
 
-<!-- TODO: 添加 POLIS 队伍工具或执勤截图 -->
 <!-- ![POLIS](/images/sumaya/teams/polis.png) -->
 
 加入 POLIS 担任执法人员，维护 Sumaya 的秩序。
 
 - **颜色：** 蓝色
 - **要求：** 无
-- **工作部门：** Token_Polis
+- **工作部门：** Polis
 - **职业发展：** 是 — 晋升以解锁新装备和职责
 
 **提供的工具：**
@@ -66,14 +64,13 @@ POLIS 成员还可以使用**测速陷阱 GUI**，显示捕获的车辆速度，
 
 ### BOMBA（消防与救援）
 
-<!-- TODO: 添加 BOMBA 灭火截图 -->
 <!-- ![BOMBA](/images/sumaya/teams/bomba.png) -->
 
 加入 BOMBA 响应火灾事件并保护城市。
 
 - **颜色：** 红色
 - **要求：** 无
-- **工作部门：** Token_Bomba
+- **工作部门：** Bomba
 - **职业发展：** 是
 - **专用 GUI：** 是 — BOMBA 成员获得专用界面用于跟踪和响应火灾事件
 
@@ -104,14 +101,13 @@ BOMBA 和 POLIS 队伍可以使用可放置工具，如锥桶、标志和路障�
 
 ### Kesihatan（医疗服务）
 
-<!-- TODO: 添加 Kesihatan 队伍在医院的截图 -->
 <!-- ![Kesihatan](/images/sumaya/teams/kesihatan.png) -->
 
 加入 Kesihatan 提供医疗护理并响应健康紧急事件。
 
 - **颜色：** 白色
 - **要求：** 无
-- **工作部门：** Token_Kesihatan
+- **工作部门：** Kesihatan
 - **职业发展：** 是
 
 **提供的工具：**

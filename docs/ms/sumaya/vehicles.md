@@ -2,8 +2,8 @@
 title: Kenderaan
 description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
-translated_from_hash: 61c50e55
-translated_on: '2026-05-17'
+translated_from_hash: "1d782519"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -74,7 +74,7 @@ Kereta ini muncul di pengedar awam tetapi memerlukan gamepass Classic Car Pack. 
 
 ## Vehicle packs in the Shop
 
-Shop kini mempunyai kad placeholder untuk pek kenderaan akan datang:
+Shop kini memaparkan pratonton pek kenderaan akan datang:
 
 - **Premium EV Vehicles**
 - **Premium Sports Vehicles**

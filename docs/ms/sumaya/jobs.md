@@ -4,8 +4,8 @@ description: >-
   Tiga sektor kerjaya awam di Sumaya — memancing, perkhidmatan, dan kelapa
   sawit.
 lang: ms
-translated_from_hash: 920129b9
-translated_on: '2026-05-17'
+translated_from_hash: "564a308e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

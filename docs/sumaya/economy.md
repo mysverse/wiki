@@ -7,7 +7,7 @@ description: "Ringgit (SR), wallet vs bank mechanics, and earning in Sumaya."
 
 Sumaya's currency is the **Ringgit**, abbreviated **SR** (Sumaya Ringgit) in the UI. This page covers how to earn, store, and spend it.
 
-## Your starting balance
+## Your Starting Balance
 
 Every new player begins with:
 
@@ -16,7 +16,7 @@ Every new player begins with:
 
 That's enough to grab a few shop items and start driving the free starter cars (**Perosatu Axia** or **Protan Wira**). Paid civilian rentals start at **1,250 SR**, so your starting wallet alone is not enough for a rental; houses are also out of reach at the start (Tier 1 is **25,000 SR** — see [Housing](/sumaya/housing)).
 
-## Wallet vs bank
+## Wallet vs Bank
 
 You have two separate balances:
 
@@ -44,7 +44,7 @@ ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you 
 - **Deposit** from wallet to bank. No limit.
 - **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
 
-## Paying another player in person (Sadaqa / Donate)
+## Paying Another Player in Person (Sadaqa / Donate)
 
 For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
 
@@ -56,7 +56,7 @@ Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new play
 
 ## Earning Ringgit
 
-### From jobs
+### From Jobs
 
 Per-action payouts. Totals depend on how long you work.
 
@@ -88,7 +88,7 @@ It does **not** boost player-level XP, quest rewards, crime payouts, ATM transfe
 | Polis (milestone every 5 arrests) | +200 SR bonus |
 | Polis (radar capture) | 50 SR to wallet |
 
-### From crime
+### From Crime
 
 Higher risk, higher reward. Rewards go to your bank.
 
@@ -101,11 +101,11 @@ Higher risk, higher reward. Rewards go to your bank.
 | Illegal Pangolin trafficking | 1,000 SR to bank |
 | Illegal Hornbill trafficking | 2,000 SR to bank |
 
-### From quests
+### From Quests
 
 The 12-quest chain pays a total of **2,900 Ringgit** from individual quest rewards plus a **1,500 Ringgit finale bonus**, for a total of **4,400 Ringgit** to your bank if you complete the whole chain. See [Quests](/sumaya/quests).
 
-## Biggest earners (ranked)
+## Biggest Earners (Ranked)
 
 Roughly, from highest per-hour to lowest, assuming you stay busy:
 
@@ -141,7 +141,7 @@ See [Vehicles](/sumaya/vehicles).
 - **Tier 1 house** (Small Bornean): 25,000 Ringgit.
 - **Tier 2 house** (Spacious / Compact Bornean): 29,000 / 32,000 Ringgit.
 - **Tier 3 house** (Modern Terrace, two cosmetic variants): 35,000 Ringgit.
-- **Furniture**: per-item prices stored on each model's `Price` attribute — varies widely.
+- **Furniture**: prices vary widely by item.
 
 See [Housing](/sumaya/housing).
 
@@ -156,7 +156,7 @@ Prices vary widely. A rough range:
 
 Shops are scattered across Sumaya. The minimap marks each one.
 
-## Milestone bonuses (stack these)
+## Milestone Bonuses (Stack These)
 
 Remember:
 
@@ -176,10 +176,10 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 - **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
 - **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
 
-## What next?
+## What Next?
 
 - [Progression](/sumaya/progression) for how XP and Ringgit interact.
 - Gig jobs for short-run payout details.
-- [Vehicles](/sumaya/vehicles) for the price catalog.
+- [Vehicles](/sumaya/vehicles) for the price catalogue.
 - [Housing](/sumaya/housing) for house prices.
 - [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.

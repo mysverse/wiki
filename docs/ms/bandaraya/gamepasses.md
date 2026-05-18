@@ -4,8 +4,8 @@ description: >-
   Setiap gamepass Bandaraya dijelaskan — Pemandu Teksi, Lesen Senjata Api, HCC,
   Radio Kereta, dan banyak lagi.
 lang: ms
-translated_from_hash: 983acf92
-translated_on: '2026-04-21'
+translated_from_hash: "a0e2692e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Gamepass

@@ -2,8 +2,8 @@
 title: சொற்களஞ்சியம்
 description: Sumaya வீரர்களுக்கு மலாய் சொற்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம்.
 lang: ta
-translated_from_hash: db93a1f9
-translated_on: '2026-05-17'
+translated_from_hash: "c9c4ac51"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -97,7 +97,6 @@ Polis-க்கு, சுருக்கங்கள் MYSverse Police (POLIS)
 | **Team** | உங்கள் பாத்திரம் (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
 | **Sector** | ஒரு வேலை வகை: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
 | **Rank** | ஒரு sector-க்குள் உங்கள் கௌரவ பட்டம் (எ.கா. "Fire Officer"). அலங்காரம் மட்டுமே. |
-| **Token** | sector-க்கான உள் பெயர் (எ.கா. "Token_Bomba"). விளையாட்டில் இதை அரிதாகவே பார்ப்பீர்கள். |
 | **Plot** | உங்கள் வீட்டைக் கட்ட முடியும் ஒரு அண்டை பகுதியில் ஒரு நிலம். ஒரு வீரருக்கு ஒன்று. |
 | **Tier** (வீடு) | வீடு தர நிலை: Tier 1 (மலிவான), Tier 2 (நடுத்தர), Tier 3 (உயர்தர). |
 | **Tier** (trawler) | மீன்பிடி படகு தரம்: Tier 1 (இலவசம்), Tier 2 (25k), Tier 3 (37k). |

@@ -5,135 +5,113 @@ description: "Complete guide to every team in Bandaraya — emergency services, 
 
 # Teams
 
-Bandaraya is team-based roleplay. Your team decides where you spawn, what tools you get, what vehicles you can drive, which tablet apps you see, and — honestly — what story you live out.
+Bandaraya is team-based roleplay. Your team decides where you spawn, what tools you receive, which vehicles you can use, and which tablet apps appear.
 
 ## TL;DR
 
-- **Visitors** (open to all) and **Malaysians** (free MYSverse group) are civilian teams anyone can join.
-- **Arrested** is automatic — you don't pick it.
-- Every other team needs one of: a **Roblox group** at a minimum rank, a **whitelist** entry, or a **gamepass**.
-- Teams auto-disappear from the list when nobody is on them and auto-reappear when someone joins. Don't panic if a team isn't visible — try again later.
+- **Visitors** is open to everyone.
+- **Malaysians** requires the main MYSverse group.
+- **Arrested** is automatic after an arrest.
+- Most other teams require a Roblox group, rank, whitelist, or gamepass.
+- Some teams only appear in the menu when someone is on them. If a team disappears, it usually returns when a qualified player joins.
 
----
+## How Team Access Works
 
-## How team access works
+You will only see a team if you qualify. Access can come from:
 
-You'll see a team in the menu only if you qualify. Access can come from any of:
-
-| Gate | What you need |
+| Gate | What it means |
 | --- | --- |
-| **Roblox group membership** | Join the relevant group on the Roblox site (most teams). |
-| **Minimum rank in that group** | Work your way up through the group's ranks (trials, cadet, etc.). |
-| **MYSverse main group rank** | Some teams (e.g., HCC, Yang di-Pertuan Persekutuan) require a specific rank in the MYSverse group (1143446). |
-| **Whitelist** | Some teams (e.g., Foreign Representative) only admit named players. |
-| **Gamepass** | Some teams (Taxi Services + Firearms Licence-gated) unlock with a Robux gamepass. |
+| **Group membership** | Join the relevant Roblox group. |
+| **Minimum rank** | Some teams require rank progression or training. |
+| **Main-group rank** | Some special teams use MYSverse rank. |
+| **Whitelist** | Staff-controlled access for special roles. |
+| **Gamepass** | Taxi Services and HCC can be unlocked through gamepasses. |
 
-**Tools** are handed out automatically when you spawn — you don't shop for them. If your team is supposed to have the cuffs and you didn't get them, respawn.
+Tools are granted automatically when you spawn. If your team tools do not appear, try respawning first.
 
-**Switching** teams opens the team menu again. Your BR, vehicles, and CAG card follow you across teams.
+## Default Teams
 
----
+| Team | Access | Notes |
+| --- | --- | --- |
+| **Visitors** | Open to everyone | General civilian team. |
+| **Malaysians** | MYSverse group | Main civilian team. |
+| **Arrested** | Automatic | Assigned by the arrest system. |
 
-## Default teams (anyone can join)
+## Emergency Services
 
-| Team | Colour | Requirement | Notes |
-| --- | --- | --- | --- |
-| **Visitors** | Bright green | None | "Business or pleasure?" Open to all. |
-| **Malaysians** | Bright yellow | MYSverse group (1143446) | The proud civilian default. Free group. |
-| **Arrested** | Bright violet | Automatic | You don't pick this. The police do. See [Arrest & Law](/bandaraya/arrest-and-law). |
+| Team | Access | What they do |
+| --- | --- | --- |
+| **POLIS / Polis MYSverse** | POLIS group access | Police patrols, arrests, traffic work, summons, MDT. |
+| **Polis Bantuan MyTransit** | Polis Bantuan rank 2+ | Transit policing around bus and rail areas. |
+| **BOMBA** | BOMBA group | Fire and rescue response. |
+| **KKM** | KKM group | Medical treatment and hospital roleplay. |
+| **SJAM** | SJAM rank 2+ | Volunteer ambulance support. |
+| **RELA Corps** | RELA group | Scene support, search, and crowd control. |
 
----
-
-## Emergency services
-
-| Team | Group(s) | Rank | What they do |
-| --- | --- | --- | --- |
-| **Polis MYSverse (POLIS)** | 1182710, 3048630 | Any | MYSverse Police. Arrest, patrol, traffic, summons, MDT. |
-| **Polis Bantuan MyTransit** | 6563708 | 2+ | Transit police — polices bus/MRT stations. Limited arrest powers. |
-| **BOMBA (Bomba MYSverse)** | 2957304 | Any | Fire & Rescue. Respond to incidents, operate hydrants and hoses. |
-| **KKM (Kementerian Kesihatan)** | 5760632 | Any | Ministry of Health. Treat downed players; when KKM are online the bleedout timer stretches to 5 minutes. |
-| **SJAM (St. John Ambulans)** | 3027933 | 2+ | Volunteer ambulance service. |
-| **RELA Corps** | 2855852 | Any | Volunteer force. Basic tools. |
-
-Want to play emergency? See [Emergency Services](/bandaraya/emergency-services).
-
----
+See [Emergency Services](/bandaraya/emergency-services) for role details.
 
 ## Military
 
-| Team | Group(s) | Rank | Notes |
-| --- | --- | --- | --- |
-| **MYSverse Armed Forces (MAF)** | 2817130, 2849945, 2817134 | 3+ | The army. |
-| **Military Police (KPTD)** | 2817141 | Any | Kor Polis Tentera MYSverse. Can arrest. |
+| Team | Access | Notes |
+| --- | --- | --- |
+| **MYSverse Armed Forces (MAF)** | MAF group access | Military and ceremonial roleplay. |
+| **Military Police (KPTD)** | KPTD group | Military police. Can arrest. |
 
----
-
-## Transport (bus, taxi, e-hailing, tow)
-
-| Team | Group(s) / other | Rank | Notes |
-| --- | --- | --- | --- |
-| **MyTransit** | 5032738, 10394166 | 5+ / 2+ | "MYS Greatest Bus Company!" Main bus operator. |
-| **Fetch** | 5413661 | — | Malaysia's first in-game e-hailing company. |
-| **Flaxim** | 32894117 | — | Non-livery taxi company. |
-| **Fermuda** | 9255468 | — | Transport company. |
-| **Tompang** | 10394166 | 2+ | Another transport brand. |
-| **FirstGroup / Bus Services** | 12143635, 32663011, 11122768, 33328642 | Any | SPAD-registered bus operators. |
-| **Taxi Services** | Multiple SSM-registered groups | — | Licensed taxi drivers. Requires **Taxi Driver gamepass** (150 R$) or group membership. |
-| **Towing Services** | Multiple tow-service groups | — | Clamp vehicles, tow them, collect 500 BR per clamp removal. |
-
-Want to play transport? See [Jobs](/bandaraya/jobs).
-
----
-
-## Government & royalty
+## Transport, Taxi, and Tow
 
 | Team | Access | Notes |
 | --- | --- | --- |
-| **Government** | MYSverse rank 11+ or group 16602842 | General government team. |
-| **Royal Family** | Various royal-family groups | Sultan, sultanas, royal heirs. |
-| **Yang di-Pertuan Persekutuan** | MYSverse rank 220+ | HM Supreme Lord of MYSverse. Gets arrest tools and armaments. |
-| **Foreign Representative** | Whitelist + MYSverse rank 6 | Hidden from public list — diplomats only. |
+| **MyTransit** | MyTransit group/rank access | Main bus operator. |
+| **Fetch** | Fetch group | E-hailing company. |
+| **Flaxim** | Flaxim group | Taxi/e-hailing company. |
+| **Fermuda** | Fermuda group | Transport company. |
+| **Tompang** | Tompang group/rank access | Transport brand. |
+| **FirstGroup / Bus Services** | Approved bus groups | Bus operators. |
+| **Taxi Services** | Taxi group or Taxi Driver gamepass | Taxi driver job access. |
+| **Towing Services** | Tow group access | Clamp, tow, and recovery work. |
 
----
+See [Jobs](/bandaraya/jobs) for how these roles earn BR.
 
-## Special teams
+## Government and Royalty
 
 | Team | Access | Notes |
 | --- | --- | --- |
-| **High Class Citizen (HCC)** | MYSverse rank 6 / group 35006850 / **HCC gamepass** (3,000 R$) | Extra income, luxury vehicles, posh vibes. |
-| **JIM (Jabatan Imigresen MYSverse)** | Group 5231965 | Immigration Department. |
-| **NWS** | Group 16410742, rank 248 | Official in-game news agency. |
-| **Organised Crime Group (OCG)** | Group 34128077 | Verified criminal-roleplay outfits. |
-| **Moderation Team** | Group 35006850, rank 50+ | Game moderators. |
-| **Developers** | Group 5674011 | The people building the game. |
+| **Government** | Government group or MYSverse rank | Government roleplay. |
+| **Royal Family** | Royal-family group access | Royal roleplay. |
+| **Yang di-Pertuan Persekutuan** | High MYSverse rank | Special ceremonial role with unique equipment. |
+| **Foreign Representative** | Whitelist | Diplomatic role. |
 
----
+## Special Teams
 
-## How to qualify
+| Team | Access | Notes |
+| --- | --- | --- |
+| **High Class Citizen (HCC)** | HCC gamepass, MYSverse rank, or approved group | Premium civilian role, extra income, luxury vehicles. |
+| **JIM** | Immigration group | Immigration roleplay. |
+| **NWS** | News group/rank access | News agency roleplay. |
+| **Organised Crime Group (OCG)** | Approved OCG group | Criminal roleplay groups. |
+| **Moderation Team** | Staff group/rank access | Moderators. |
+| **Developers** | MYSverse staff access | Development and testing team. |
 
-Most teams are gated on **Roblox groups**. To apply:
+## How to Qualify
 
-1. Open the group's Roblox page (typically linked from MYSverse's Discord / community).
-2. Join if it's open, or apply if it's application-only.
-3. Attend trials / training if required. For POLIS, BOMBA, KKM, MAF — most run recruitment events and rank-based training.
-4. Once you're in at the required rank, the team becomes selectable from the in-game menu.
+1. Find the relevant group through MYSverse community channels.
+2. Join or apply.
+3. Attend training, trials, or recruitment if the group requires it.
+4. Reopen the team menu after you qualify.
 
-For **gamepass-gated** teams (Taxi Services, High Class Citizen), buy the gamepass and the team appears on your menu.
+For gamepass teams, buy the pass and wait for the team to appear. For whitelist teams, staff must add you.
 
-For **whitelist** teams (Foreign Representative), you have to be added by staff.
+## Tips
 
-## Tips & gotchas
+- If a team is missing, confirm you meet the rank or pass requirement.
+- Team tools appear on spawn, so respawn after switching.
+- BR, owned vehicles, and CAG data stay with your account when switching teams.
+- Public-service teams must stay in role. Going rogue is a severe rule violation.
 
-- **Team disappeared?** It gets auto-removed when no one is on it. The game recreates it when someone joins. Not a bug.
-- **You're stuck on Visitors?** You might not meet the rank requirement. Double-check in your group's rank table on Roblox.
-- **Team-tools didn't appear?** Try respawning. Tools are granted on spawn.
-- **Switching teams clears some states.** Your CAG wallet, BR, and stored vehicles persist. Duty-related flags (on-call, signed-in driver) do not.
-- **Going rogue is a severe violation.** If you're on POLIS, BOMBA, KKM, MAF, or any public-services team and start committing crime, that's a ban. See [Rules](/bandaraya/rules#severe-violations).
+## See Also
 
-## See also
-
-- [Emergency Services](/bandaraya/emergency-services) — what POLIS/BOMBA/KKM/SJAM/RELA/MAF actually do
-- [Jobs](/bandaraya/jobs) — transport teams and their jobs
-- [Arrest & Law](/bandaraya/arrest-and-law) — how the police system works
-- [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC, etc.
-- [Glossary](/bandaraya/glossary) — acronyms
+- [Emergency Services](/bandaraya/emergency-services)
+- [Jobs](/bandaraya/jobs)
+- [Arrest & Law](/bandaraya/arrest-and-law)
+- [Gamepasses](/bandaraya/gamepasses)
+- [Glossary](/bandaraya/glossary)

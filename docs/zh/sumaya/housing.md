@@ -2,8 +2,8 @@
 title: 房屋
 description: Sumaya 的地块、户型模板、等级、家具以及出售房屋说明。
 lang: zh
-translated_from_hash: bae34b5a
-translated_on: '2026-04-30'
+translated_from_hash: "075bc1c5"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -14,9 +14,9 @@ Sumaya 让你认领一块地皮、购买房子、用家具布置内部，并锁�
 
 ## 寻找地块
 
-Sumaya 的社区（kampung 街道如 Lorong Pais、Jalan Triden、Jalan Bawang、Lorong Kicai）划分为**地块**。未认领的地块会显示为占位房屋——小型视觉替身，告诉你该地块可用。
+Sumaya 的社区（kampung 街道如 Lorong Pais、Jalan Triden、Jalan Bawang、Lorong Kicai）划分为**地块**。未认领的地块会显示小型预览房屋，让你从街上就能看出哪里可用。
 
-Sumaya 目前有 **63 claimable plots**，每个都有一个占位物，可以从世界中预览。
+Sumaya 目前有 **63 claimable plots**，每块地在认领前都可以从世界中看见。
 
 ## 在 Real Estate Office 购买房屋
 

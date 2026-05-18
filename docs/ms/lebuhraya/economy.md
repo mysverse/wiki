@@ -4,40 +4,39 @@ description: >-
   Ringgit (BR), tahap 1-500, pendaraban XP, dan cara terpantas untuk memperoleh
   di Lebuhraya.
 lang: ms
-translated_from_hash: 5542a6bf
-translated_on: '2026-04-21'
+translated_from_hash: "ae86ce3e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Ekonomi & XP
 
 Segala-galanya di Lebuhraya berkisar pada dua nombor: **Ringgit (BR)** anda dan **tahap** anda. Halaman ini menerangkan cara kedua-duanya berfungsi, dari mana ia datang, dan bagaimana untuk memperoleh dengan lebih pantas.
 
-## Ringgit (BR) — dijejaki tetapi belum aktif
+## Ringgit (BR) — dijejaki, tetapi kebanyakannya masih latar belakang
 
-Sistem mata wang Lebuhraya **dilaksanakan sebahagian sahaja**. Akaun anda memang membawa baki BR (bermula pada **1000** dan berkekalan merentasi sesi), tetapi dalam versi permainan semasa:
+Akaun anda memang membawa baki BR (bermula pada **1000** dan berkekalan merentasi sesi), tetapi dalam versi Lebuhraya semasa ia belum menjadi gelung permainan utama:
 
-- **Tiada apa-apa di Lebuhraya memaparkan baki BR anda.** Tiada bacaan HUD, tiada entri leaderstat, tiada aplikasi Phone yang menunjukkannya. Satu-satunya skrip yang membaca baki anda ialah alat admin khusus kakitangan di dalam aplikasi Tablet.
-- **Satu-satunya laluan pendapatan aktif ialah perlumbaan.** Memenangi perlumbaan memanggil `Currency.Debit` dan mengkreditkan akaun anda. Setiap "pembayaran" lain yang anda jangkakan (Food Delivery, gaji Post Office, yuran tunda, jualan minyak, pembelian kedai, kos pembaikan) kini menjadi no-op di Lebuhraya — hooknya wujud tetapi dikomen, distub, atau dipintas.
-- **Tiada apa-apa di Lebuhraya membelanjakan BR.** Kedai adalah percuma. Pam minyak tidak mengenakan caj. Tol tidak mengenakan caj. Zon pembaikan tidak mengenakan caj. Perabot perumahan tidak mengenakan caj. Pembangun telah menyediakan infrastrukturnya dan banyak sistem kerja mempunyai cabang `rewardMode = "BR"` yang ditinggalkan sebagai TODO.
-- **Pembilang per-kerja dalaman adalah berasingan.** Post Office mengira nilai `Salary`, tetapi ia disimpan dalam DataStore kerja itu sendiri, bukan dalam akaun BR anda.
+- **Baki BR anda belum dipaparkan dalam menu biasa.** Tiada bacaan HUD, telefon, atau menu tetap untuknya.
+- **Perlumbaan ialah satu-satunya cara yang disahkan untuk menambah BR sekarang.** Aktiviti lain kebanyakannya memberi XP atau kemajuan khusus kerja.
+- **Kebanyakan kos harian belum dicaj.** Kedai, pam minyak, tol, zon pembaikan, dan perabot rumah kini percuma dalam permainan biasa.
+- **Sesetengah kerja menunjukkan kaunter sendiri.** Contohnya, Post Office boleh menunjukkan wang kerja, tetapi ia berasingan daripada baki BR biasa anda.
 
 **Apa ertinya ini kepada anda**: jangan rancang permainan anda berdasarkan BR. Pilih kerja berdasarkan kadar XPnya, pilih kenderaan berdasarkan cara ia dipandu (bukan harga), dan nikmati semuanya secara percuma buat masa sekarang. Apabila BR aktif kelak, baki anda dari perlumbaan akan dibawa ke hadapan.
 
 ### Apa yang dijejaki sekarang
 
-- Baki permulaan: **1000 BR** (dikongsi merentasi sesi MYSverse Lebuhraya, disimpan di bawah kunci DataStore2 `ringgit`).
+- Baki permulaan: **1000 BR**, dikongsi merentasi sesi MYSverse Lebuhraya anda.
 - Sumber pendapatan aktif: Ganjaran perlumbaan sahaja.
-- Sumber perbelanjaan aktif: tiada dalam kod khusus Lebuhraya.
-- Sistem MYSverse berkongsi (Dealership, Tow, TapNGo) mengandungi logik perbelanjaan langsung yang mungkin atau mungkin tidak dicetus di Lebuhraya — anda tidak akan nampak caj di skrin walau apa-apa pun.
+- Sumber perbelanjaan aktif: tiada sumber perbelanjaan langsung yang disahkan dalam permainan biasa.
 
 ### Apa yang akan guna BR kelak (dirancang)
 
-Berdasarkan petunjuk dalam kod, yang berikut telah dirancang tetapi belum disambung:
+Permainan kelihatan disediakan untuk penggunaan BR pada masa hadapan dalam:
 
-- Pembayaran minyak di PETROMAS / Radtrol (harga sudah ditakrifkan: 1/2/3 BR/L)
-- Pembelian kedai (item kedai mempunyai medan `Price`)
-- Food Delivery, Checkout, Lumberjack, Fishing — semuanya mempunyai cabang ganjaran `BR` / `Both` kosong
-- Gaji Post Office yang disambung ke akaun BR sebenar
+- Pembayaran minyak di PETROMAS / Radtrol
+- Pembelian kedai
+- Ganjaran Food Delivery, Checkout, Lumberjack, dan Fishing
+- Gaji Post Office menjadi BR biasa
 - Dealership kenderaan / pembelian
 - Kos pembaikan di zon pembaikan
 

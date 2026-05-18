@@ -2,8 +2,8 @@
 title: 操作
 description: Lebuhraya 的全部操作方式 — 键盘、手柄、移动端和 VR 输入。
 lang: zh
-translated_from_hash: 922cf692
-translated_on: '2026-05-17'
+translated_from_hash: "9831158a"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 操作
@@ -90,7 +90,7 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
   - **Races** — time trial 和 PvP race 菜单
   - **Help** — 可用时显示教程
 
-旧的 Career/Tokens/Credits/Help 标签在内部仍存在，但玩家会通过 **More** 进入。
+Career、tokens、credits 和 help 页面现在都归在 **More** 下。
 
 ### 可调整的设置
 
@@ -131,7 +131,7 @@ Lebuhraya 支持键盘、手柄、触控（手机/平板）和 VR。游戏会自
 ## 无障碍
 
 - 适用 Roblox 的系统级设置 — 色盲滤镜、UI 缩放、文本转语音。
-- 可以切换被动模式以阻止工具与武器交互（即你的 `Passive` 玩家属性）。如果你不想被卷入战斗或紧急角色扮演，这很有用。
+- 可以切换被动模式以阻止工具与武器交互。如果你不想被卷入战斗或紧急角色扮演，这很有用。
 
 ## 下一步
 

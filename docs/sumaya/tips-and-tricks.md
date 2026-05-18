@@ -7,39 +7,39 @@ description: "Hidden interactions, mobile quirks, and expert tips for Sumaya."
 
 Non-obvious stuff that'll save you time or make you look smart. Everything here is mechanically real - no folklore.
 
-## Minimap tricks
+## Minimap Tricks
 
-### Long-press to drop custom waypoints
+### Long-Press to Drop Custom Waypoints
 
 Open the **full-screen minimap** (click the minimap, or tap the expand button). Then **long-press** (about half a second) anywhere on the map to drop a custom waypoint. You can:
 
 - **Rename** it.
-- **Change its color**.
+- **Change its colour**.
 - **Delete** it.
 
-Waypoints **persist across sessions**, so mark your favorite fishing spot once and it's there forever.
+Waypoints **persist across sessions**, so mark your favourite fishing spot once and it's there forever.
 
-### F to fit all waypoints
+### F to Fit All Waypoints
 
 In the full-screen map, press **F** to zoom out to fit **all your waypoints** in view at once. Great for planning a multi-stop trip.
 
-### Guidance beam follows the nearest waypoint
+### Guidance Beam Follows the Nearest Waypoint
 
-The colored beam from your character is the game's way of pointing at the **most important waypoint** right now - a quest step, an active fire, a 999 call. If you want to override it temporarily, set a custom waypoint with higher priority (or just ignore it).
+The coloured beam from your character is the game's way of pointing at the **most important waypoint** right now - a quest step, an active fire, a 999 call. If you want to override it temporarily, set a custom waypoint with higher priority (or just ignore it).
 
-## World tricks
+## World Tricks
 
-### Travel pads save the fishing commute
+### Travel Pads Save the Fishing Commute
 
 At the fishing area, use **Travel to Fishing Pontoon** to jump out to the pontoon and **Travel to Land** to come back. It is quicker than swimming or driving around when you only need to fish or spawn a trawler.
 
-### Coffee makers are interactable
+### Coffee Makers Are Interactable
 
 Some coffee makers are real props. Use **Brew** first, wait for the pot to fill, then use **Take Coffee** to receive a coffee item in your backpack.
 
-## Phone tricks
+## Phone Tricks
 
-### You start passive, and crime tools drop you out
+### You Start Passive, and Crime Tools Drop You Out
 
 New players spawn **passive by default** — you're invulnerable until you deliberately turn it off (or pick up a Slim Jim / Pickpocket Knife, which auto-drops you out of passive). Flipping it off stays off until you toggle back.
 
@@ -49,11 +49,11 @@ New players spawn **passive by default** — you're invulnerable until you delib
 - You're a POLIS officer (cops are never passive — it's a team property).
 - You're within a **passive lock** after a recent crash/speeding/crime (duration scales with star level — see [Crime and Law](/sumaya/crime-and-law)).
 
-### Collision toggle to phase through parking
+### Collision Toggle to Phase Through Parking
 
 Stuck behind a player's parked car? Open the **Collision** app on your phone and disable collisions. Your vehicle now phases through others. Drive out, re-enable collisions.
 
-### Camera app captures in-game
+### Camera App Captures In-Game
 
 The **Camera** app on your phone takes in-world screenshots. Good for:
 
@@ -61,35 +61,35 @@ The **Camera** app on your phone takes in-world screenshots. Good for:
 - Capturing roleplay moments.
 - Recording a 5-star arrest for the memories.
 
-### Dismiss the task card
+### Dismiss the Task Card
 
 The task card (top-left) can cover mobile driving controls. Tap the **chevron (^)** icon on the card to collapse it to a minimum size. Tap again to re-expand. Quest progress continues either way.
 
-## Driving tricks
+## Driving Tricks
 
-### Sirens = no tickets
+### Sirens = No Tickets
 
 If you're in a **Polis, Bomba, or Kesihatan vehicle with the siren active**, you're automatically exempt from speeding and crash offences. Flip the siren on when you're responding. Flip it off when you park, so others don't think you're still on a call.
 
-### Free starter cars
+### Free Starter Cars
 
 Only the **Perosatu Axia** and **Protan Wira** are free standard civilian cars. Use one while you save, then rent a cheaper paid car like the Protan Wira Aeroback or Protan Putra before buying outright.
 
-### Vehicle camera eases in
+### Vehicle Camera Eases In
 
 Entering a vehicle now blends into the driving camera instead of snapping. If the view feels different on mobile, that is intentional - it frames around touch controls.
 
-### Trawlers are free on shift
+### Trawlers Are Free on Shift
 
 The Tier 1 Trawler spawns for free as long as you're clocked in to the Fishing Sector. You only pay for the bigger Tier 2 (25k) and Tier 3 (37k) trawlers.
 
-## Money tricks
+## Money Tricks
 
-### Bank your big money
+### Bank Your Big Money
 
 Your **wallet** can be pickpocketed (80-300 SR stolen at a time). The **bank** can't. Keep maybe 500 SR in your wallet for shops, stash the rest.
 
-### Milestone bonus timing
+### Milestone Bonus Timing
 
 Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrests made. One more action gets you the milestone bonus:
 
@@ -97,59 +97,59 @@ Don't end your session at 14 fires extinguished, 9 treatments given, or 4 arrest
 - Kesihatan: **+150 SR at 10 treatments.**
 - Polis: **+200 SR at 5 arrests.**
 
-### Use gig jobs to fill dead time
+### Use Gig Jobs to Fill Dead Time
 
 If you are between long shifts, grab a gig job. The quick minigame panels tell you exactly what to do, and interrupted runs clean up when you die or switch teams.
 
-### Help Bomba for passive XP
+### Help Bomba for Passive XP
 
 If you're POLIS or Kesihatan and stand within **512 studs** of an active fire while Bomba firefighters extinguish blocks, you earn **10 player XP per block** without doing anything. Good for grinding while waiting for criminals or patients.
 
-### 5-star arrests are worth camping
+### 5-Star Arrests Are Worth Camping
 
 A single 5-star arrest = 400 XP + 1,200 Ringgit to the arresting officer, and 200 XP / 600 Ringgit to any nearby officer. If someone's trafficking Hornbills and pickpocketing players, they'll rack up stars fast. Be ready.
 
-## Quest tricks
+## Quest Tricks
 
-### Quests trigger in the background
+### Quests Trigger in the Background
 
 You don't need to focus on quests. They auto-complete as you play normally. Just make sure to open the **Quest app** occasionally to claim rewards.
 
-### Ordered steps for lore quests
+### Ordered Steps for Lore Quests
 
 The last two quests ("A Day in Sumaya", "The Ringgit Grind") have **strict step order**. If you spawn a vehicle before checking your phone, the vehicle-step won't count. Read the step list in order and do them one at a time.
 
-### Service sector requires level 50
+### Service Sector Requires Level 50
 
 The "Jack of All Trades" quest asks you to sample all three civilian sectors. Service (Mamak/Fast Food) requires **level 50 in another sector** to unlock. If you can't progress on this quest, that's why - go grind fishing or palm oil to level 50 first.
 
-## Kesihatan tricks
+## Kesihatan Tricks
 
-### +15% XP boost benefits everyone
+### +15% XP Boost Benefits Everyone
 
 The injury system auto-activates the moment a Kesihatan player joins the server, and **all players** get +15% player-level XP for as long as at least one Kesihatan is online. Deactivates when the last Kesihatan leaves. The boost doesn't affect sector XP. If you see a Kesihatan player online, your grinding time is 15% more efficient.
 
-### TBI treatment is hands-off once bedded
+### TBI Treatment Is Hands-Off Once Bedded
 
 Traumatic Brain Injury treatment requires the patient to lie on a medical bed for 30 seconds. While that timer runs, **you can treat other patients**. Don't just stand watching.
 
-## Housing tricks
+## Housing Tricks
 
-### 70% refund on sale
+### 70% Refund on Sale
 
 You can sell your house for **70% of what you paid**. So the effective "cost of trying" a Tier 3 Modern Terrace (35,000 SR) is 10,500 SR — the 30% the game keeps. Real money, but recoverable if you commit to grinding it back.
 
-### One plot at a time
+### One Plot at a Time
 
 The system enforces a **1 plot per player** limit. Don't try to hoard.
 
-### Furniture saves automatically
+### Furniture Saves Automatically
 
 Place furniture, walk away. It's saved. No confirmation needed.
 
-## Crime tricks
+## Crime Tricks
 
-### Surrender cuts jail time in half
+### Surrender Cuts Jail Time in Half
 
 Instead of running from cops, find a **surrender prompt** (usually near police stations) and turn yourself in. Your jail time is roughly halved:
 
@@ -158,7 +158,7 @@ Instead of running from cops, find a **surrender prompt** (usually near police s
 
 You do get a passive lock after release, but it's still way shorter.
 
-### Don't log out while wanted
+### Don't Log Out While Wanted
 
 If you leave mid-offence, the **LTAA** (Leave To Avoid Arrest) system hits you with longer jail on return:
 
@@ -167,39 +167,39 @@ If you leave mid-offence, the **LTAA** (Leave To Avoid Arrest) system hits you w
 
 Quitting doesn't help. Serve or surrender.
 
-### Decay if you hide
+### Decay If You Hide
 
 If you commit no new offences for **5 minutes**, your wanted status fully clears. Commit the Hornbill run, bank the 2,000 SR, then lay low - don't speed back to the scene of your last crime.
 
-## Mobile tips
+## Mobile Tips
 
-### Collapse HUD elements
+### Collapse HUD Elements
 
 Task card and phone both eat screen space. Collapse what you're not actively using. Especially helpful during a chase sequence where every pixel matters.
 
-### Double-tap to sprint
+### Double-Tap to Sprint
 
 On most mobile setups, double-tap the joystick to toggle sprint. Much more ergonomic than holding a sprint button.
 
-### Phone camera isn't zoomable
+### Phone Camera Isn't Zoomable
 
 The in-game camera app takes screenshots at a fixed framing. If you want cinematic shots, use the **Cinematic** app for a free-roaming camera view, then screenshot externally.
 
-## Roleplay tricks
+## Roleplay Tricks
 
-### Passive mode for conversations
+### Passive Mode for Conversations
 
 If you're trying to have a roleplay conversation, flip passive mode on. No one can hit you, carjack you, or drag you into combat. Flip back off when you're done.
 
-### 999 calls for immersion
+### 999 Calls for Immersion
 
 Any civilian can dial 999 and **type a custom message** describing the emergency. Emergency teams see your call in the MDT with your location. Great for setting up roleplay scenarios (report a robbery, call a fire, request medical evac).
 
-### Lights and doors for ambience
+### Lights and Doors for Ambience
 
 Your house has togglable lights and doors. Leave lights off for a dusk screenshot. Lock doors when you're home "off duty". Unlock them for in-game parties.
 
-## What next?
+## What Next?
 
 - [Phone and UI](/sumaya/phone) for more detail on every phone app.
 - [Crime and Law](/sumaya/crime-and-law) for the surrender, decay, and passive lock details.

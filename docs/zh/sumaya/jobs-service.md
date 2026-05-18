@@ -2,8 +2,8 @@
 title: 服务业（Mamak 与快餐）
 description: Sumaya 的 mamak 与快餐服务业职业介绍。
 lang: zh
-translated_from_hash: 7794f1f1
-translated_on: '2026-04-30'
+translated_from_hash: "fae94681"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

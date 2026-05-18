@@ -2,8 +2,8 @@
 title: அணிகள் & தொழில்கள்
 description: Lebuhraya-வில் உள்ள 18 அணிகள் மற்றும் 20-அடுக்கு தரவரிசை அமைப்பு.
 lang: ta
-translated_from_hash: e48fefe3
-translated_on: '2026-05-17'
+translated_from_hash: "9fff3580"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # அணிகள் & தொழில்கள்
@@ -55,7 +55,7 @@ Malaysians team community-role team; சாதாரண paid career branch அ�
 | **Logistics** | 75 | Freight trucking — Rolvo FM அல்லது Sanica P-series கொண்டு cargo haul செய்யுங்கள். |
 | **Power Nasional** | 100 | National electric utility contractor work. |
 | **Lumberjack** | 150 | Axe கொண்டு trees fell செய்து logs haul செய்யுங்கள். |
-| **Kesihatan** | 200 | National Health Ministry — ambulances ஓட்டுங்கள், patients treat செய்யுங்கள், 999 medical calls respond செய்யுங்கள். |
+| **Kesihatan** | 200 | Health-service team — ambulances ஓட்டுங்கள், patients treat செய்யுங்கள், 999 medical calls respond செய்யுங்கள். |
 | **APJ** | 300 | Road Transport Agency — driving மற்றும் vehicle regulations enforce செய்யுங்கள். |
 
 > Waste Disposal, Logistics, Lumberjack teams **Season 1 Season Pass** வாங்கினால் முன்கூட்டியே unlock செய்யலாம். சில in-game text பழைய level values-ஐ இன்னும் குறிப்பிடலாம்; மேலுள்ள numbers current in-game requirements.
@@ -76,7 +76,7 @@ Gamepasses பெறுவது எப்படி என்பதற்கு 
 
 | Team | Description |
 |---|---|
-| **Developers** | MYSverse staff-க்கான internal team. நேரடியாக join செய்ய முடியாது. |
+| **Developers** | MYSverse staff team. நேரடியாக join செய்ய முடியாது. |
 | **Arrested** | Player Polis Trafik மூலம் arrested ஆனால் தானாக assign செய்யப்படும். |
 
 ## Career tiers மற்றும் ranks

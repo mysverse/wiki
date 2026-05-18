@@ -4,8 +4,8 @@ description: >-
   கடைகள், NPC விற்பனையாளர்கள், கேம்பாஸ்கள், மற்றும் Bandar Ringgit (BR)
   பொருளாதார அமைப்புக்கான முழுமையான வழிகாட்டி.
 lang: ta
-translated_from_hash: d38c9f3b
-translated_on: '2026-04-21'
+translated_from_hash: "d38c9f3b"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Bandaraya-வில் கடைகள் & பொருளாதாரம்

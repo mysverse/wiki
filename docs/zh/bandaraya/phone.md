@@ -2,8 +2,8 @@
 title: 手机
 description: Bandaraya 的游戏内手机 — MyPay、电召车、999、MyCar、MyTow、短信和更多应用。
 lang: zh
-translated_from_hash: 466708b8
-translated_on: '2026-04-21'
+translated_from_hash: "7e35c215"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 手机
@@ -42,7 +42,7 @@ Bandaraya 里每一位玩家都携带一部**游戏内手机** — 顶栏上的�
 
 ### MyPay — 给其他玩家转账 BR
 
-玩家之间的 BR 转账。类似马来西亚现实中的 MyPay / DuitNow。
+玩家之间的 BR 转账。类似MYSverse 世界内的即时转账。
 
 1. 打开 **MyPay**。
 2. 按名称**搜索**玩家。
@@ -57,7 +57,7 @@ Bandaraya 里每一位玩家都携带一部**游戏内手机** — 顶栏上的�
 - 双方玩家都不在**诈骗屏蔽名单**上(罕见 — 仅当管理员标记账户时)
 - 你确实拥有这些 BR — 扣款会在入账前先检查
 
-如果 MyPay 暂时停用(管理员切换 `MyPayEnabled`),你会看到"已停用"的界面 — 应用会变灰,任何转账都无法进行。
+如果 MyPay 被服务器暂时停用，你会看到"已停用"的界面 — 应用会变灰，任何转账都无法进行。
 
 每次完成的转账都会记录到游戏的 Discord(供管理审查)。
 

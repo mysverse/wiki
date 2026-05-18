@@ -2,8 +2,8 @@
 title: 逮捕与法律
 description: Bandaraya 逮捕机制介绍 — LTAA、RTAA、传票、监禁时长和嫌疑人权利。
 lang: zh
-translated_from_hash: 6371bf02
-translated_on: '2026-04-21'
+translated_from_hash: "7ae2e337"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 逮捕与法律
@@ -17,7 +17,7 @@ Bandaraya 的逮捕如何运作 — 从执法人员和嫌疑人的双重视角�
 - **LTAA**(leave to avoid arrest): 在被拘留时断线 → 回来后自动被捕 3 分钟。
 - **RTAA**(reset to avoid arrest): HP 75 或以下时重置按钮被停用。
 - **Saman**(传票): 由执法人员当场开出的罚款。
-- **申诉**: 通过 Malaysia 社群服务器的管理员处理。
+- **申诉**: 通过 MYSverse 社群服务器的管理员处理。
 
 ---
 
@@ -42,7 +42,7 @@ RELA、BOMBA、KKM、MAF 基层、SJAM、平民: **没有逮捕权**。他们可
 ### 1. 拘留
 
 - 靠近嫌疑人。
-- 使用 **Detain** 动作(通过 cuffEvents)。
+- 从手铐菜单使用 **Detain** 动作。
 - 嫌疑人进入被拘留状态 — 角色播放投降动画,移动受限。
 
 ### 2. 拖拽(可选)
@@ -63,22 +63,22 @@ RELA、BOMBA、KKM、MAF 基层、SJAM、平民: **没有逮捕权**。他们可
 
 ### 5. 逮捕
 
-- 使用 Arrest 动作(通过 cuffEvents 或环形菜单)。
+- 从手铐或环形菜单使用 Arrest 动作。
 - 嫌疑人队伍变更为 **Arrested**。
 - **3 分钟释放倒计时** 开始。
 - 创建 **逮捕记录**,包含:
-  - 执法人员 ID
+  - 执法人员信息
   - 逮捕时间
-  - 地点(X、Y、Z)
-  - 类似 `KL-{UserId}-{Index}` 的 **参考编号**
+  - 逮捕地点
+  - **案件参考编号**
   - 逮捕描述
   - OCG 标志(如嫌疑人属于 OCG 队伍)
 
-Discord webhook 会触发以记录此逮捕。
+Staff log 会发送给管理团队审查。
 
 ### 基于距离的逮捕
 
-执法人员可以使用 `ArrestPlayerByDistance` — 在一定范围内逮捕某人,无需亲自给其上铐。用于嫌疑人已倒下或在远距离下服从的情形。
+执法人员可能有近距离逮捕选项，用于嫌疑人已经倒下或在附近配合的情况。
 
 ---
 
@@ -153,7 +153,7 @@ Discord webhook 会触发以记录此逮捕。
 ## 如何脱身
 
 - **等满 3 分钟。**
-- **申诉** 通过 Malaysia 社群服务器 — 管理员处理争议和封禁。
+- **申诉** 通过 MYSverse 社群服务器 — 管理员处理争议和封禁。
 - **保持角色** — 向执法人员求情、在角色扮演中提供贿赂,或只是接受逮捕都是合法的。
 
 ## 不应该做的事

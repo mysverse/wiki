@@ -5,110 +5,86 @@ description: "The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, M
 
 # Phone
 
-Every player in Bandaraya carries an **in-game Phone** — a topbar icon that opens a multi-app device. Different from the **Tablet** (which is a team-only tool); the Phone is universal.
+Every player has an in-game **Phone** from the topbar. The phone is separate from the team tablet.
 
 ## TL;DR
 
-- Tap the phone icon on your topbar.
-- Tap an app to open it.
-- Many apps; the most useful ones in Bandaraya are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
+- Open it from the topbar phone icon.
+- Apps vary by experience.
+- In Bandaraya, the most useful apps are **MyPay**, **e-hailing**, **CAG eWallet**, **999**, **MyCar**, and **MyTow**.
 
----
+## Universal Apps
 
-## How to open it
-
-The phone lives on your topbar. Tap the icon. On mobile, the topbar icons are at the top of the screen; on desktop, same place. The phone overlay slides in.
-
-## Apps — universal (all MYSverse games)
+These can appear across MYSverse experiences:
 
 | App | What it does |
 | --- | --- |
-| **MYSair** | Airline bookings / travel between experiences. |
-| **Elections** | MYSverse elections — vote, view campaigns. |
-| **Blog** | Read community blog posts. |
-| **NWS** | National Wire Services — official in-game news feed. |
-| **Parlimen** | View Parlimen (parliament) proceedings. |
-| **Message** | Peer-to-peer chat ("wasap"). |
-| **Camera** | Take in-game photos. |
-| **Settings** | Phone settings — background image, etc. |
-| **Rafahia** | Clothing brand app — browse catalog. |
+| **MYSair** | Travel and airline-related features. |
+| **Elections** | MYSverse election features. |
+| **Blog** | Community posts. |
+| **NWS** | News feed. |
+| **Parlimen** | Parliament information. |
+| **Message** | Player messaging. |
+| **Camera** | In-game photos. |
+| **Settings** | Phone settings. |
+| **Rafahia** | Clothing brand app. |
 
-## Apps — Bandaraya-only
+## Bandaraya Apps
 
-These apps are added when you're in Bandaraya. They don't appear in Lebuhraya or other experiences.
-
-### MyPay — send BR to another player
-
-Peer-to-peer BR transfer. Like Malaysia's real-world MyPay / DuitNow.
+### MyPay - Send BR to Another Player
 
 1. Open **MyPay**.
-2. **Search** for a player by name.
-3. Pick them from the list.
-4. Enter an amount (fractional BR supported — rounded to 2 decimals), or tap a **quick-amount** preset.
-5. Tap **Send**.
+2. Search for a player.
+3. Enter an amount or pick a preset.
+4. Send the request.
+5. The recipient accepts or denies it.
 
-The recipient gets a notification on their own phone with **Accept / Deny** buttons. If they accept, the BR moves. If denied or ignored, nothing happens.
+Transfers require both players to be in the same server and for the sender to have enough BR.
 
-**Balance** is shown on the send screen so you know what you have to spend. Transfers require:
-- Both players to be **in the same server** (you can't send across servers)
-- Neither player to be on the **fraud blocklist** (rare — only if an admin has flagged an account)
-- You to actually have the BR — the debit is checked before credit
-
-If MyPay is temporarily disabled (admin toggles `MyPayEnabled`), you'll see a "disabled" screen instead — the app is grey and no transfers go through.
-
-Each completed transfer is logged to the game's Discord (for moderation visibility).
-
-### e-hailing — book a taxi
-
-Book a ride without walking up to a physical taxi company desk.
+### E-Hailing - Book a Taxi
 
 1. Open **e-hailing**.
-2. Enter your **destination** and (optional) **description**.
-3. Pick a driver from the available list.
-4. Wait for them to accept, then get picked up.
+2. Enter a destination and optional description.
+3. Pick an available driver.
+4. Wait for pickup.
 
-Fare is based on distance × company rate (see [Jobs — Taxi Driver](/bandaraya/jobs#how-the-fare-is-calculated)).
+Taxi fares are based on the driver company and trip distance. See [Jobs](/bandaraya/jobs#taxi-driver).
 
 ### CAG eWallet
 
-Browse-only view of your Click And Go transit card. Balance, trips, monthly pass, designs, lifetime stats. **Purchase buttons deep-link to the nearest physical kiosk** — you can't buy from the phone directly. See [Getting Around](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+View your CAG balance, pass status, designs, and recent trips. Purchases and top-ups still happen at station kiosks.
 
-### 999 — emergency reporting
+See [Getting Around](/bandaraya/getting-around#cag-click-and-go-card).
+
+### 999
 
 Report a crime, fire, medical emergency, or accident.
 
 1. Open **999**.
-2. Fill in the **nature** (what's happening) and **description** (details).
-3. Submit.
+2. Fill in what is happening.
+3. Submit the report.
 
-The alert pings the relevant emergency team (POLIS for crime, BOMBA for fire, KKM for medical). Don't abuse this — false calls waste responder time.
+The alert goes to the relevant emergency team. False reports waste responder time and can be treated as rule-breaking.
 
-Also available in Lebuhraya.
+### MyCar
 
-### MyCar — control your spawned vehicle
-
-Remote-control your vehicle without sitting in it — lights, horn, emergency signals, door locks.
+Control your spawned vehicle remotely, depending on vehicle support. Examples include locks, horn, lights, or emergency signals.
 
 ### MyTow
 
-Same MyTow as the Tablet app, but on your phone. Report the need for a tow, or track your tow job. Useful if you're a civilian who got clamped and want to contact a tow operator.
+Request or track towing help from your phone.
 
-## How apps appear / disappear
+## Tips
 
-Apps with a "place" restriction only show in that place. For example, **e-hailing** only appears in Bandaraya; **Rules** only appears in Lebuhraya. When you travel to a different MYSverse experience (via MYSair), your app grid changes.
+- The phone is always a topbar app. The tablet is a team tool.
+- MyPay requires the recipient to accept.
+- 999 alerts go to real players, not NPCs.
+- CAG eWallet is best for checking status; use kiosks for transactions.
 
-## Tips & gotchas
+## See Also
 
-- **Mobile text input** was fixed in v3.15.3 — if you find any phone text field unresponsive on mobile, report it as a regression.
-- **Phone ≠ Tablet.** The Tablet is a tool you equip from your backpack (team-gated). The Phone is a universal topbar app surface.
-- **MyPay requires the recipient to accept** — don't try to force-pay someone. They must be online.
-- **999 goes to real players** (officers on duty), not NPCs. Be patient.
-- **CAG eWallet on the phone is read-only** — to buy / top up / change pass you must visit a kiosk. The phone just shows you your info.
-
-## See also
-
-- [Tablet](/bandaraya/tablet) — team-gated tool with different apps (MDT, MyEmergency, etc.)
-- [Getting Around](/bandaraya/getting-around) — CAG eWallet (on the phone)
-- [Jobs](/bandaraya/jobs) — e-hailing books bookings for Taxi Driver roles
-- [Economy](/bandaraya/economy) — BR currency (MyPay transfers)
-- [Emergency Services](/bandaraya/emergency-services) — 999 calls go to on-duty POLIS/BOMBA/KKM
+- [Tablet](/bandaraya/tablet)
+- [Getting Around](/bandaraya/getting-around)
+- [Jobs](/bandaraya/jobs)
+- [Economy](/bandaraya/economy)
+- [Emergency Services](/bandaraya/emergency-services)

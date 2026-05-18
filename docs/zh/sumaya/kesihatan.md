@@ -2,8 +2,8 @@
 title: 医护
 description: 在 Sumaya 扮演 Kesihatan — 救护车、治疗与复苏。
 lang: zh
-translated_from_hash: 48961d5b
-translated_on: '2026-04-30'
+translated_from_hash: "227133cd"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -31,7 +31,7 @@ Kesihatan 的核心玩法是治疗**伤势** - 玩家或 NPC 遭受的、无法�
 - 玩家和 NPC 会受到正常的伤势，而不是即刻死亡。
 - 伤势需要医疗治疗才能痊愈。
 - **服务器上每位玩家获得 +15% 玩家等级 XP**（不影响 sector XP）。
-- 每位玩家的角色在系统启动时携带 `InjurySystemEnabled = true` 属性。
+- 只要至少一名 Kesihatan 玩家当班，受伤系统就会对整个服务器保持启用。
 
 最后一名 Kesihatan 玩家离开的那一刻，服务器会停用受伤系统。因此，只需以 Kesihatan 身份登入就足以"启动"它 — 不需要手动切换。那 +15% XP 加成是件大事：它适用于每份工作、每次逮捕、每次收获 - 所以当 Kesihatan 启动时,整个服务器都受益。这是有医疗玩家在场的最大单一原因。
 

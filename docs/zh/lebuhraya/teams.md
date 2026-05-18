@@ -2,8 +2,8 @@
 title: 队伍与职业
 description: Lebuhraya 全部 18 支队伍及 20 级职级体系。
 lang: zh
-translated_from_hash: e48fefe3
-translated_on: '2026-05-17'
+translated_from_hash: "9fff3580"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 队伍与职业
@@ -76,7 +76,7 @@ Malaysians 队伍是 community-role 队伍，不是普通付费 career branch。
 
 | 队伍 | 说明 |
 |---|---|
-| **Developers** | MYSverse staff 内部队伍。无法直接加入。 |
+| **Developers** | MYSverse staff 队伍。无法直接加入。 |
 | **Arrested** | 玩家被 Polis Trafik 逮捕时自动分配。 |
 
 ## Career tiers 与 ranks

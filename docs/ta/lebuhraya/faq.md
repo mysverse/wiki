@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் புதிய வீரர்களுக்கான பொதுவான கேள்விகள் மற்றும் விரைவான
   உதவிக்குறிப்புகள்.
 lang: ta
-translated_from_hash: 3c08148c
-translated_on: '2026-05-17'
+translated_from_hash: "d22790a4"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # அடிக்கடி கேட்கப்படும் கேள்விகள் & குறிப்புகள்
@@ -230,11 +230,11 @@ Private servers என்பது Roblox-ன் "VIP server" feature — நீ
 - **Scenes அமைக்கவும்**: எந்த player-யையும் (அல்லது உங்களை) எந்த location-க்கும் teleport செய்யவும், fly, noclip, gravity மாற்றவும், guests-க்கு vehicles spawn செய்யவும்.
 - **Admin delegate செய்யவும்**: `:admin @PlayerName` போன்ற Adonis commands பயன்படுத்தி நம்பகமான friends-ஐ உங்கள் server-க்குள் moderator / admin ஆக உயர்த்தவும். அவர்களுக்கும் அதே tools கிடைக்கும். வேறு admin tiers-க்கு `:mod`, `:headadmin` போன்றவற்றையும் பயன்படுத்தலாம்.
 - **Duration manage செய்யவும்**: boot-everyone, shutdown, தற்போதைய server-இலிருந்து புதிய server reserve செய்யவும்.
-- **Experience-ஐ உங்கள் வழியில் நடத்தவும்**: custom messages அமைக்கவும், custom scripts உருவாக்கவும் (Lua தெரிந்தால்), game time மாற்றவும், weather toggle செய்யவும் (`!rainon` / `!rainoff`).
+- **Experience-ஐ உங்கள் வழியில் நடத்தவும்**: custom messages அமைக்கவும், game time மாற்றவும், weather toggle செய்யவும், உங்கள் குழுவுக்கான scenes அமைக்கவும்.
 
-**Moderator persistence**: private server-ல் நீங்கள் grant செய்த admins, அந்த server-க்கு குறிப்பிட்ட DataStore (`privateServer_<yourUserId>`) கீழ் சேமிக்கப்படுவார்கள், public servers-இலிருந்து தனி. உங்கள் private server-ல் admins sessions முழுவதும் admin-ஆகவே இருப்பார்கள். வேறு எந்த server-லும் admin rights கிடைக்காது.
+**Moderator access உங்கள் private server-க்குள் மட்டுமே இருக்கும்.** நீங்கள் promote செய்த நண்பர்கள் உங்கள் private server-ல் sessions முழுவதும் அந்த access-ஐ வைத்திருப்பார்கள், ஆனால் வேறு எந்த server-லும் admin rights கிடைக்காது.
 
-**Cross-server features disabled** — Trello audit logs மற்றும் cross-server commands private servers-ல் இயங்காது. இதனால் உங்கள் server self-contained ஆகவும் வெளிப்புற dependencies இல்லாமலும் இருக்கும்.
+**Cross-server moderation features private servers-ல் disabled**, அதனால் உங்கள் server தனியாகவே இருக்கும்.
 
 ### Limitations
 
@@ -269,9 +269,9 @@ Owner ஆகவோ owner grant செய்தவராகவோ admin level க
 | `:unmod @player` | moderator status நீக்கு |
 | `:shutdown` | server shut down செய்ய |
 
-**Note**: ஒருவரை full Admin (level 200) அல்லது அதற்கு மேல் promote செய்வது default Adonis-ல் பொதுவாக HeadAdmin-level permissions தேவைப்படும். Owner ஆக நீங்கள் Admin level (200), அதனால் Moderator-க்கு promote செய்ய இயலும், ஆனால் Admin-க்கு பொதுவாக இல்லை. நம்பகமான friend-க்கு Admin-tier power தேவை என்றால் Moderator rights grant செய்தால் பல use cases போதும்; இல்லையெனில் உண்மையில் ஏற்கப்படுவது என்ன என்பதை `:cmds`-ல் பார்க்கவும்.
+**Note**: Private-server owners பொதுவாக trusted friends-ஐ Moderator ஆக promote செய்ய முடியும்; அது பெரும்பாலான event-hosting தேவைகளுக்கு போதுமானது. அதிக admin tiers உங்கள் permission level-ல் கிடைக்காமல் இருக்கலாம்; server ஏற்கும் விஷயங்களை `:cmds`-ல் பார்க்கவும்.
 
-முழு syntax-க்கு Roblox Creator Hub-ல் Adonis documentation பார்க்கவும் — நூற்றுக்கணக்கான commands உள்ளன, ஒவ்வொன்றுக்கும் தேவையான exact level Adonis defaults மற்றும் game's `Permissions` overrides-ஐப் பொறுத்தது.
+உங்கள் server-இல் command syntax மற்றும் permission requirements-க்கு `:cmds`-ஐ source of truth ஆகப் பயன்படுத்தவும்.
 
 ### Admin செய்ய முடியாத ஒன்று
 

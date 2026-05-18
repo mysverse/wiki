@@ -2,8 +2,8 @@
 title: Dunia & Peta
 description: 'Bandar Seri Putra, Jersik, Kampung Merbang, dan 29 lokasi utama di Lebuhraya.'
 lang: ms
-translated_from_hash: 34c75ad4
-translated_on: '2026-05-17'
+translated_from_hash: "a383919c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Dunia & Peta
@@ -105,7 +105,7 @@ Lebuhraya mempunyai kitaran siang-malam secara langsung dan hujan rawak.
 
 **Kitaran masa**: masa dalam permainan bergerak sebanyak **1 minit setiap saat dunia sebenar**, jadi satu hari penuh dalam permainan mengambil masa 24 minit sebenar. Lampu jalan dan lampu papan iklan menyala secara automatik pada **6:00 PM** dan kekal menyala sehingga **6:40 AM**. Pandu dengan lampu depan pada waktu tersebut untuk penglihatan — dan hormati suasana; sesetengah jalan jauh lebih gelap pada waktu malam.
 
-**Hujan**: hujan berkala muncul secara rawak. Secara purata, hujan turun setiap **30–60 minit** dan berlangsung selama **5–10 minit**. Anda akan mendengar bunyi hujan dan melihat kesan hujan pada skrin semasa ia aktif. Jalan tidak menjadi licin, tetapi jarak penglihatan berkurangan. Admin boleh menghidupkan/mematikan hujan dengan arahan sembang `!rainon` / `!rainoff` semasa acara.
+**Hujan**: hujan berkala muncul secara rawak. Secara purata, hujan turun setiap **30–60 minit** dan berlangsung selama **5–10 minit**. Anda akan mendengar bunyi hujan dan melihat kesan hujan pada skrin semasa ia aktif. Jalan tidak menjadi licin, tetapi jarak penglihatan berkurangan. Staff juga boleh menghidupkan atau mematikan hujan semasa acara.
 
 ## Lampu isyarat dan persimpangan
 

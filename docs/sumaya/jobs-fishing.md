@@ -7,7 +7,7 @@ description: "Fishing in Sumaya — spots, fish types, prices, and progression."
 
 Fishing is one of Sumaya's three main civilian career sectors. You can fish two ways: with a **rod** on the pier (quick, casual) or with a **trawler boat** out on the water (bigger-scale, sector-level grind). The two systems pay differently and level different things.
 
-## Getting started
+## Getting Started
 
 1. Open your phone and tap the **Careers** app.
 2. Pick **Fishing Sector**.
@@ -16,11 +16,11 @@ Fishing is one of Sumaya's three main civilian career sectors. You can fish two 
 
 Once you're on shift, you'll get a fishing rod in your backpack and the fishing HUD appears.
 
-### Getting to the fishing pontoon
+### Getting to the Fishing Pontoon
 
 Some docks have travel pads that shortcut between land and the fishing pontoon. Use the **Travel to Fishing Pontoon** prompt to head out, and the **Travel to Land** prompt to come back.
 
-## Rod fishing (casual)
+## Rod Fishing (Casual)
 
 Equip the rod, aim at water within **80 studs**, and cast. There's roughly a **1-in-3 chance** of a catch per cast. Reel in what you hook.
 
@@ -38,11 +38,11 @@ XP and Ringgit payouts are applied when you **sell** the fish at the dock.
 
 **Important:** rod fishing XP only levels your **player account** (global XP), not your fishing sector level. If you want to climb the fishing sector ladder and unlock better trawlers, you need to trawl.
 
-## Trawl fishing (sector grind)
+## Trawl Fishing (Sector Grind)
 
 The big earner is **trawl fishing** with a boat. You spawn a trawler from a water-side vehicle spawner, drive out, and pull fish in bulk.
 
-### Per-fish rewards
+### Per-Fish Rewards
 
 Trawling is flat-rate:
 
@@ -51,7 +51,7 @@ Trawling is flat-rate:
 
 The numbers look small, but trawlers hold a lot of fish, and sector XP lets you afford bigger boats.
 
-### Trawler boats
+### Trawler Boats
 
 | Tier | Price | How to get |
 |------|-------|------------|
@@ -65,7 +65,7 @@ Trawlers can run out of fuel on long trips. Keep an eye on the fuel gauge on you
 
 **Refueling:** Buy a **Gas Can** from the Boat Gas Can shop - Red (+25 fuel, 75 SR), Green (+50 fuel, 100 SR), or Black (+75 fuel, 125 SR). Equip it and use the trawler's interact prompt. Note: fuel caps at 100, and **refill only works when your current fuel is below 75** - you can't top off a mostly-full tank.
 
-### How to trawl fish
+### How to Trawl Fish
 
 1. Clock in to the fishing sector.
 2. Walk up to a fishing boat spawner at a dock.
@@ -74,22 +74,22 @@ Trawlers can run out of fuel on long trips. Keep an eye on the fuel gauge on you
 5. Use the trawl to pull in fish.
 6. Come back to the dock to sell and/or unload.
 
-## Clocking out and selling
+## Clocking Out and Selling
 
 When you clock out, your total trawl earnings are paid to you as a single paycheck. You'll see a **Nelayan Sdn. Bhd.** ("Fisherman Co.") pay slip when the shift ends.
 
 Rod-fished fish are sold individually at a shop prompt instead of waiting for end-of-shift.
 
-## Leveling up
+## Levelling Up
 
 The fishing sector goes up to **level 100**. Only **trawl fishing** earns sector XP - rod fishing pays player XP only.
 
 Higher sector level doesn't directly increase your per-fish rewards. What it does:
 
 - Better rank titles (nothing mechanical, just prestige).
-- Unlocks the `Token_Keli` token at **level 50**, which is the threshold for unlocking the **Service sector** (Mamak / Fast Food).
+- Unlocks the **Service sector** (Mamak / Fast Food) at **level 50**.
 
-## Unlocking the service sector
+## Unlocking the Service Sector
 
 Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unlock the ability to work in the **service sector** (Mamak / Fast Food). See [Service sector](/sumaya/jobs-service).
 
@@ -103,7 +103,7 @@ Reach **level 50** in the fishing sector (or Agriculture / palm oil) and you unl
 - **Dock respawn.** If you die while fishing, your shift ends. Just re-clock in.
 - **Multiplier cap is 5.** Rod rewards can be multiplied up to 5x by in-world bonuses; beyond that the server caps it.
 
-## What next?
+## What Next?
 
 - [Service sector](/sumaya/jobs-service) once you're fishing sector level 50.
 - [Palm oil](/sumaya/jobs-palm-oil) if you want higher payouts.

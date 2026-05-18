@@ -9,28 +9,28 @@ description: "Playing Kesihatan (medical) in Sumaya — ambulances, treatment, a
 
 Kesihatan is also special because **your job boosts the entire server**. Keep reading.
 
-## Getting started
+## Getting Started
 
 Pick **Kesihatan** on the main menu. Your medical kit spawns in your backpack: first aid kit, bandage, splint, and more unlocked by level.
 
 Head to the hospital for more tools and equipment, or respond to 999 calls and field incidents.
 
-## The injury system
+## The Injury System
 
 Kesihatan's core gameplay is treating **injuries** - damage sustained by players or NPCs that can't be healed by simply respawning.
 
-### When the injury system is active
+### When the Injury System Is Active
 
 The injury system **auto-activates whenever at least one Kesihatan player is on the server** — just by being on the team, you flip the switch for everyone. When it's on:
 
 - Players and NPCs can suffer proper injuries instead of insta-dying.
 - Injuries require medical treatment to heal.
 - **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
-- Each player's character carries an `InjurySystemEnabled = true` attribute while the system is live.
+- The injury system stays active for the whole server while at least one Kesihatan player is on duty.
 
 The server deactivates the injury system the moment the last Kesihatan player leaves. So just logging in as Kesihatan is enough to "activate" it — no manual toggle needed. That +15% XP boost is a big deal: it applies to every job, every arrest, every harvest - so when Kesihatan is on, the whole server benefits. This is the single biggest reason to have medical players on.
 
-### Injury types
+### Injury Types
 
 | Injury | What it is | Treatment |
 |--------|------------|-----------|
@@ -50,7 +50,7 @@ You can't heal someone until you know what's wrong.
 
 **Reward:** 15 XP per diagnosis.
 
-### Bandage (minor wounds)
+### Bandage (Minor Wounds)
 
 1. Equip the **Bandage** tool.
 2. Stand within 10 studs of the patient.
@@ -59,7 +59,7 @@ You can't heal someone until you know what's wrong.
 
 **Reward:** 30 XP + 100 Ringgit.
 
-### Splint (broken bones)
+### Splint (Broken Bones)
 
 1. Equip the **Splint**.
 2. Stand within 10 studs.
@@ -77,13 +77,13 @@ For diagnosis confirmation on serious injuries, use the imaging machines at the 
 
 Either diagnosis pays **20 XP**.
 
-### TBI and medical beds
+### TBI and Medical Beds
 
 TBI is the most serious injury. Treatment requires the patient to **lie on a medical bed** for about **30 seconds** of bed rest, which gradually heals them.
 
 The hospital has multiple medical beds, plus an X-Ray machine, an MRI machine, and a stretcher for transporting patients.
 
-## Rewards summary
+## Rewards Summary
 
 | Action | XP | Ringgit |
 |--------|-----|---------|
@@ -142,7 +142,7 @@ From level 81 onward, you're the top. No further rank changes as you push to the
 - **Mass casualty events.** If there's a big crash or incident, multiple casualties means multiple fast payouts. Bring stretchers.
 - **Work with Bomba.** Firefighters get burned; after you put out a fire, expect bandage customers. Bonus: standing within 512 studs of an active fire earns you **10 player XP per block extinguished** (player XP only, no SR) - so camping a fire is free passive XP for Kesihatan.
 
-## What next?
+## What Next?
 
 - [Polis](/sumaya/polis) for the law enforcement side.
 - [Bomba](/sumaya/bomba) for the firefighter counterpart.

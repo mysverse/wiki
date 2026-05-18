@@ -2,8 +2,8 @@
 title: 车辆
 description: Lebuhraya 全部 127 款车型 — 生成、燃料、撞车机制和个性化定制。
 lang: zh
-translated_from_hash: da3dc13b
-translated_on: '2026-05-17'
+translated_from_hash: "56b88180"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 车辆
@@ -151,7 +151,7 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 ### 车辆太亮或灯卡住打开
 
-某些车辆会根据时间和车辆类型，在 spawn 时打开 headlights/ELS 或强光效果。请从车辆控制中关灯，或在 scripted state 卡住时 respawn 车辆。
+某些车辆会根据时间和车辆类型，在 spawn 时打开 headlights、ELS 或强光效果。请从车辆控制中关灯，或如果灯光卡住就 respawn 车辆。
 
 ## 撞车与维修
 
@@ -211,11 +211,11 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 
 | 服务 | 车牌前缀 |
 |---|---|
-| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
-| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat MYSverse — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut MYSverse — Navy) | `ZL` |
+| TUDM (Tentera Udara MYSverse — Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority) | `ZZ` |
 | JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
 | PMS | `PMS` |
 
@@ -256,7 +256,7 @@ Lebuhraya 配备了 **127 款车型** — 包括小型轿车、SUV、摩托车�
 | **[** | 降下车床/坡道 |
 | **]** | 升起车床/坡道 |
 
-**访问规则**:你始终可以使用面板,只要 (a) 你拥有该车,(b) 你在匹配的团队中(KEMRonda / Bomba / Kesihatan),或 (c) 你是管理员。否则会出现一个带速率限制的 "Access Denied" 横幅。
+**访问规则**:你始终可以使用面板,只要 (a) 你拥有该车,(b) 你在匹配的团队中(KEMRonda / Bomba / Kesihatan),或 (c) 你有 staff access。否则会出现 "Access Denied" 横幅。
 
 这六辆车共享相同的控制,所以只要你学会一辆,就掌握了全部。
 

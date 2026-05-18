@@ -4,8 +4,8 @@ description: >-
   Kesemua 127 model kenderaan di Lebuhraya — menghasilkan, bahan api,
   perlanggaran, dan penyesuaian.
 lang: ms
-translated_from_hash: da3dc13b
-translated_on: '2026-05-17'
+translated_from_hash: "56b88180"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Kenderaan
@@ -82,7 +82,7 @@ Lebih kurang **28 kenderaan** dijual melalui pandangan **Dealership** dalam peng
 
 ## Kategori kenderaan
 
-Kebanyakan armada dibuat parodi secara longgar dari jenama sebenar Malaysia dan global. Jika anda mengenali kereta sebenar, kemungkinan besar ada penggantinya di sini.
+Kebanyakan armada dibuat parodi secara longgar dari jenama Malaysia dan global. Jika anda mengenali kereta sebenar, kemungkinan besar ada penggantinya di sini.
 
 | Kategori | Contoh |
 |---|---|
@@ -153,7 +153,7 @@ Spawner itu khusus pasukan. Sertai pasukan yang dinamakan dahulu, termasuk apa-a
 
 ### Kenderaan terlalu terang atau lampu tersekat hidup
 
-Sesetengah kenderaan spawn dengan headlights/ELS atau kesan cahaya kuat bergantung pada masa hari dan jenis kenderaan. Matikan lampu daripada kawalan kenderaan, atau respawn kenderaan jika state skrip tersekat.
+Sesetengah kenderaan spawn dengan headlights, ELS, atau kesan cahaya kuat bergantung pada masa hari dan jenis kenderaan. Matikan lampu daripada kawalan kenderaan, atau respawn kenderaan jika lampu tersekat.
 
 ## Perlanggaran dan pembaikan
 
@@ -213,11 +213,11 @@ Sesetengah kenderaan tentera / angkatan bersenjata membawa plat perkhidmatan Mal
 
 | Perkhidmatan | Awalan plat |
 |---|---|
-| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
-| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat MYSverse — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut MYSverse — Navy) | `ZL` |
+| TUDM (Tentera Udara MYSverse — Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority) | `ZZ` |
 | JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
 | PMS | `PMS` |
 
@@ -258,7 +258,7 @@ Enam kenderaan khusus mempunyai **panel tunda/winch** — HUD landskap mesra mud
 | **[** | Turunkan bed / ramp |
 | **]** | Naikkan bed / ramp |
 
-**Peraturan akses**: Anda sentiasa boleh menggunakan panel jika (a) anda memiliki kenderaan, (b) anda dalam pasukan yang sepadan (KEMRonda / Bomba / Kesihatan), atau (c) anda seorang admin. Jika tidak, sepanduk "Access Denied" yang dihadkan kadar akan muncul.
+**Peraturan akses**: Anda sentiasa boleh menggunakan panel jika (a) anda memiliki kenderaan, (b) anda dalam pasukan yang sepadan (KEMRonda / Bomba / Kesihatan), atau (c) anda mempunyai akses staff. Jika tidak, sepanduk "Access Denied" akan muncul.
 
 Kawalan dikongsi merentasi keenam-enam kenderaan, jadi sebaik sahaja anda belajar satu, anda telah mempelajari semuanya.
 

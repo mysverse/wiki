@@ -5,129 +5,87 @@ description: "The team-gated tablet tool in Bandaraya — MDT, MyEmergency, MyTo
 
 # Tablet
 
-The in-game **tablet** is a multi-app device that surfaces extra features to your team. Apps are unlocked based on your team colour — a POLIS officer sees the MDT, a tow operator sees MyTow, and so on.
-
-> **Tablet ≠ Phone.** The [Phone](/bandaraya/phone) is a universal topbar app surface (MyPay, e-hailing, CAG, 999, MyCar, etc.). The Tablet is a team-gated **tool** you equip from your backpack.
+The **tablet** is a team-gated tool. Apps appear based on your team and role.
 
 ## TL;DR
 
-- Equip your **tablet tool** to open the device.
-- Apps appear based on your team.
-- Tablets also display notifications and alerts.
-- The topbar gets an icon for quick toggling.
+- Equip the Tablet tool if your team receives it.
+- Apps differ by team.
+- Tablets show alerts, job tools, vehicle tools, and emergency apps.
+- The phone is universal; the tablet is role-based.
 
----
-
-## Using the tablet
+## Using the Tablet
 
 1. Open your backpack.
-2. Equip the **Tablet** tool (given if your team qualifies).
-3. The tablet UI opens.
-4. Click an app icon to enter that app.
-5. Equip a different tool or press the toggle icon to close.
+2. Equip **Tablet**.
+3. Choose an app.
+4. Use the topbar tablet icon for quick toggling when available.
 
-The topbar gets an icon tied to the tablet — tap it to toggle open/closed without equipping.
-
----
+If the tablet does not appear, your team may not have tablet access.
 
 ## Apps
 
-### MDT — Mobile Data Terminal (POLIS)
+### MDT - Mobile Data Terminal
 
-The police information terminal. Police-authentic UI with Polis branding, horizontal tabs, monospace data fields.
+POLIS uses MDT for:
 
-#### BG Check
-Look up any player:
-- Team and rank
-- Active BOLO status
-- Last arrest record
-- Their current position
+- **BG Check:** look up a player, team, rank, BOLO status, last arrest, and location.
+- **BOLO List:** view active police alerts.
+- **Add BOLO:** create a police alert with a reason.
+- **Docs:** quick notes on BOLO behaviour.
 
-Useful for deciding whether to stop someone.
-
-#### BOLO List
-See all active BOLOs (Be On the LookOut alerts) in real time. A BOLO is automatically cleared when the suspect is arrested.
-
-#### Add BOLO
-Put a player on BOLO with a reason:
-- All on-duty officers get notified with a badge, sound, and toast alert.
-- Broadcasts across the POLIS team in real time.
-
-POLIS-only; other teams see a greyed-out tab.
+MDT is currently for POLIS and selected staff roles. KPTD and Polis Bantuan may have policing tools, but they do not receive the same MDT app by default.
 
 ### MyEmergency
 
-Emergency services coordination app — for emergency teams (POLIS, BOMBA, KKM, SJAM). Manage incident calls, coordinate multi-team responses.
+Emergency coordination app for response teams. It helps teams receive and coordinate incident calls.
 
 ### Vehicle Management
 
-General-purpose vehicle app — anyone with the tablet can use it for basics. Features include:
-- **Plate lookup** — find a vehicle's registration info
-- **Registration management** — register vehicles you own
-- **Spawn tracking** — see vehicles you've spawned
+Vehicle-related tools such as plate lookup, registration checks, and vehicle tracking for teams that receive the app.
 
 ### MyTow
 
-Tow operator app:
-- View active tows
-- Request a tow job
-- Manage clamps remotely (remove a clamp from the tablet, no need to walk back)
+Tow app for towing work. POLIS and Towing Services can access it in the current setup.
 
 ### KKM Logger
 
-Health ministry app:
-- Log medical actions
-- Track patient treatments
-- Incident reporting for medical audits
+Medical logging app for KKM.
 
-KKM-only.
+### Staff Tools
 
-### Developer App
+Staff-only tools may appear for moderation or testing roles.
 
-Developer tools and diagnostics. Devs only.
+## Current App Access
 
----
+| Team | Apps |
+| --- | --- |
+| **POLIS** | MDT, MyEmergency, Vehicle Management, MyTow |
+| **Polis Bantuan** | MyEmergency, Vehicle Management |
+| **KPTD** | MyEmergency, Vehicle Management |
+| **BOMBA** | MyEmergency, Vehicle Management |
+| **KKM** | MyEmergency, KKM Logger |
+| **SJAM** | MyEmergency, Vehicle Management |
+| **RELA** | MyEmergency, Vehicle Management |
+| **MAF** | MyEmergency, Vehicle Management |
+| **Towing Services** | MyTow, Vehicle Management |
+| **Moderation Team** | MDT, MyEmergency, Vehicle Management |
+| **Developers** | Staff Tools, MDT, Vehicle Management |
 
 ## Notifications
 
-Tablets receive notifications via two event channels:
+Tablet alerts can include emergency calls, fire incidents, BOLO updates, and app-specific notices. If an app pulses or shows a badge, open it and check the latest alert.
 
-- **Tablet notifications** — global alerts (fire callouts, 999 calls, BOLOs, admin announcements).
-- **App-specific notifications** — within a given app's context (e.g., new booking for taxi drivers, MDT alerts for POLIS).
+## Tips
 
-When a notification arrives, the tablet icon on the topbar gets a visual indicator, and the relevant app pulses.
+- If an expected app is missing, check your team first.
+- MDT alerts should be used to support roleplay, not skip procedure.
+- Plate lookups and tow tools should be used only for valid roleplay reasons.
+- Use the phone for MyPay, e-hailing, 999, and CAG eWallet if those are all you need.
 
----
+## See Also
 
-## Team restrictions
-
-Which apps you see depends on your team's `TeamColor`:
-
-| Team | Apps available |
-| --- | --- |
-| **POLIS, KPTD, Polis Bantuan** | MDT, MyEmergency, Vehicle Management |
-| **BOMBA** | MyEmergency, Vehicle Management |
-| **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
-| **Towing Services** | MyTow, Vehicle Management |
-| **MyTransit, Bus Services** | Vehicle Management |
-| **Developers** | Developer App + all others |
-| **Civilians (Visitors, Malaysians)** | Vehicle Management only (basic plate lookup) |
-
-If an app you expect isn't there, check your team.
-
----
-
-## Tips & gotchas
-
-- **Tablet tool persists across spawns** — you don't lose it when you die.
-- **Topbar toggle is faster than equipping** for quick peeks.
-- **MDT BG Check updates live** — the target's location is current.
-- **BOLO auto-clears on arrest** — no manual cleanup needed.
-- **Plate lookup works for anyone** — you don't need POLIS to search a vehicle plate.
-
-## See also
-
-- [Emergency Services](/bandaraya/emergency-services) — POLIS / BOMBA / KKM roles that use the tablet
-- [Arrest & Law](/bandaraya/arrest-and-law) — how BOLOs / BG checks fit into arrests
-- [Jobs](/bandaraya/jobs) — MyTow for tow operators
-- [Vehicles](/bandaraya/vehicles) — registration and plate lookup
+- [Emergency Services](/bandaraya/emergency-services)
+- [Arrest & Law](/bandaraya/arrest-and-law)
+- [Jobs](/bandaraya/jobs)
+- [Vehicles](/bandaraya/vehicles)

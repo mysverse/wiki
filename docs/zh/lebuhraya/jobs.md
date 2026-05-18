@@ -2,8 +2,8 @@
 title: 工作
 description: Lebuhraya 全部工作说明 — 按机构分类（Pengangkutan 等），附薪资说明。
 lang: zh
-translated_from_hash: c6e58d53
-translated_on: '2026-05-17'
+translated_from_hash: "b9e89212"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 工作
@@ -49,7 +49,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **奖励**：
 - **XP** 按距离换算：约 **每 stud 0.11 到 0.13 XP**。4000 stud 的车费可获 440–520 XP。
-- BR payments 已计划（根据 economy audit，call path 存在但尚未对用户可见）。
+- BR payments 已计划在未来更新加入。
 
 **路线**：Pickup 和 dropoff 目前从城市中的 4 个 pickup points 和 4 个 dropoff points 抽取 — 在添加更多点位前，路线会逐渐重复。
 
@@ -61,7 +61,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **如何开始**：加入 Bus Driver 团队。使用 Bus Driver / bus vehicle spawner，并从 Bandar Seri Putra 的 **Depoh Bas** 开始一条路线。
 
-**你要做什么**：沿固定巴士路线行驶，在指定巴士站停车接送 NPC 乘客。跑完整条路线会获得 XP（BR 报酬已在计划中但尚未接通 — 参阅 *Economy and XP*）。
+**你要做什么**：沿固定巴士路线行驶，在指定巴士站停车接送 NPC 乘客。完整路线会支付 XP；BR 报酬计划在未来更新加入。
 
 **车辆**：巴士 — Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Hiace Passenger/Transport 变种。
 
@@ -98,7 +98,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 3. 驾车到路点上的顾客位置。
 4. 与顾客 NPC 互动，将餐点交给对方。
 
-**奖励**：每单送餐 **固定 250 XP**。较旧文字可能提到 BR，但当前 active payout path 实际入账 XP；BR-facing 数额应视为 planned economy work，直到该工作的 BR earn path 启用。
+**奖励**：每单送餐 **固定 250 XP**。如果较旧的游戏文字提到 BR，请暂时把它当作未来经济系统的描述。
 
 **车辆**：任何都可以。在蜿蜒的街道上，摩托车（Handai EX5）通常最快。
 
@@ -110,7 +110,7 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 
 **你要做什么**：从四个邮政区（**Bandar Seri Putra**、**Jersik**、**Kampung Merbang**、**Putra Mahkota**）之一的邮筒收取包裹，处理后送到标示的信箱地址。
 
-**奖励**：**每件包裹 25 XP**，外加一个工作内的 "Money" 计数器，每送一件就增加。Money 值储存在 Post Office 自己的存档记录里 — 它**不是**你日常的 BR 余额（目前货币系统也没有实际使用它）。这项工作拥有独立于你主角色等级的内部等级系统：
+**奖励**：**每件包裹 25 XP**，外加一个工作专属的 "Money" 计数器，每送一件就增加。这个计数器**不是**你的普通 BR 余额。此工作也有自己的等级系统，和你的主玩家等级分开：
 
 - Post Office 最高等级：**20**
 - 每个 Post Office 等级所需 XP：`100 × level`（因此 Level 1 需 100 XP，Level 20 需 2,000 XP）
@@ -274,7 +274,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 **如何开始**：加入 APJ 团队。
 
-**你要做什么**：Road Transport Agency — 相当于马来西亚的 Jabatan Pengangkutan Jalan。检查车辆、执行道路运输法规、与警方协调。
+**你要做什么**：Road Transport Agency — MYSverse 的道路交通管理机构。检查车辆、执行道路运输法规、与警方协调。
 
 **Tool**：Torchlight、Placeables SCone。
 
@@ -371,7 +371,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 **抛竿距离**：距离你站立的位置最远 80 stud。
 
-**贩售**：鱼可在 fishing-port 店铺区域出售。奖励仅为 **XP** — BR 奖励路径尚未实现（每条鱼的奖励配置中都是 `BR=0`）。稀有渔获会比常见鱼支付更多 XP。
+**贩售**：鱼可在 fishing-port 店铺区域出售。目前奖励只有 **XP**。稀有渔获会比常见鱼支付更多 XP。
 
 ### Checkout
 
@@ -385,7 +385,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 **奖励**：每位服务过的顾客随机 **3–8 XP**，在你轮班结束时结算。每分钟的收益率并非最高，但这是一种社交且低压力的玩法，还能看到熟悉的脸孔。
 
-**提醒**：奖励仅有 XP — BR 奖励分支尚未实现。
+**提醒**：目前奖励只有 XP；BR 奖励计划在未来经济更新加入。
 
 ---
 
@@ -414,7 +414,7 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 
 Personal Best 额外获得 **+25% XP** 以及 **固定 +50 BR 奖励**。
 
-**赛道**：目前游戏仅有一条活跃赛道 — **Test Sprint** — 一个 3 检查点、1 圈的简短练习回路，难度为 Easy，任何等级的 Civ 级车辆皆可参加。基础报酬：1,500 XP / 300 BR。在 PvP 中取得新的第 1 名 PB 可获 **3,750 XP 和 650 BR**；单人 Time Trial 的 PB 可获 **1,875 XP 和 350 BR**。系统每场比赛最多支持 8 位 lobby 玩家（TestSprint 通过其赛道属性限制为 6 位），赛前 lobby 30 秒、起跑倒数 5 秒、首位抵达终点后 60 秒完赛超时。
+**赛道**：目前游戏仅有一条活跃赛道 — **Test Sprint** — 一个 3 检查点、1 圈的简短练习回路，难度为 Easy，任何等级的 Civ 级车辆皆可参加。基础报酬：1,500 XP / 300 BR。在 PvP 中取得新的第 1 名 PB 可获 **3,750 XP 和 650 BR**；单人 Time Trial 的 PB 可获 **1,875 XP 和 350 BR**。Test Sprint 支持最多 6 名赛车手，赛前 lobby 30 秒、起跑倒数 5 秒、首位抵达终点后 60 秒完赛超时。
 
 "Jersik Race Track" POI 就是比赛在游戏世界中进行的地点。
 

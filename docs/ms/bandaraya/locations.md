@@ -4,8 +4,8 @@ description: >-
   Mercu tanda, bangunan, jalan, stesen, hospital, dan kedai di seluruh
   Bandaraya.
 lang: ms
-translated_from_hash: c84a59b5
-translated_on: '2026-05-17'
+translated_from_hash: "1fc23133"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Peta & Lokasi
@@ -137,7 +137,7 @@ Menara KL yang mudah dikenali ini diwakili dengan tepat:
 - **Roads** — rangkaian jalan penuh dengan marking
 - **Traffic Lights** — 4-hala dan 3-hala, dengan kawalan auto dan manual
 - **RoadSigns** — papan tanda
-- **Streetlights** — model lampu jalan DBKL 2-hala
+- **Streetlights** — model lampu jalan Bandaraya 2-hala
 - **Bus lanes** sepanjang Jalan Ampang
 - **Bike lanes** sepanjang Jalan Ampang
 

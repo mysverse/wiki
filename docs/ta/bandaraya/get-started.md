@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வில் உங்கள் பயணத்தைத் தொடங்குங்கள் — மெனுக்களில் செல்லுங்கள், Bandar
   Ringgit (BR) சம்பாதியுங்கள், அணியை தேர்ந்தெடுங்கள், கோலாலம்பூரை ஆராயுங்கள்.
 lang: ta
-translated_from_hash: e5298009
-translated_on: '2026-05-17'
+translated_from_hash: "73e8c651"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Bandaraya-வில் தொடங்குங்கள்
@@ -31,7 +31,7 @@ needs_review: true
 
 Bandaraya என்பது விளையாட்டுக்குள் உள்ள **Kuala Lumpur** பகுதி. நீங்கள் உண்மையான landmark-களை அடையாளம் காண்பீர்கள் — **Maxis Tower**, **Grand Hyatt**, **Public Bank**, **PETRONAS** பகுதி, **Ampang Park**, **Bukit Bintang**, மேலும் உண்மையான KL இடங்களில் station-களுடன் கூடிய விரிவான MRT/Monorail network (Conlay, Persiaran KLCC, Ampang Park; Bukit Bintang, Raja Chulan, Bukit Nanas).
 
-அணிகள் உண்மையான மலேசிய நிறுவனங்கள்: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. Transit card — **CAG** — Bandaraya-வின் Touch n Go ஒப்பானது; empty card debt, monthly passes, Deepavali, Merdeka, Raya-க்கு இணைக்கப்பட்ட collectable designs வரை கொண்டது.
+அணிகள் மலேசிய பாணி நிறுவனங்கள்: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. Transit card — **CAG** — Bandaraya-வின் Touch n Go ஒப்பானது; empty card debt, monthly passes, Deepavali, Merdeka, Raya-க்கு இணைக்கப்பட்ட collectable designs வரை கொண்டது.
 
 ஒரு acronym அர்த்தம் தெரியவில்லையா? [சொற்களஞ்சியம்](/ta/bandaraya/glossary) அனைத்தையும் கொண்டுள்ளது.
 
@@ -184,7 +184,7 @@ Police, fire, military போன்ற அணிகளுக்கு group memb
 
 ## குறிப்புகள் & கவனிக்க வேண்டியவை
 
-- **Team colours முக்கியம்.** உங்கள் team's `TeamColor` எந்த spawner-களைப் பயன்படுத்தலாம், எந்த tools கிடைக்கும், எந்த tablet apps தெரியும் என்பதைக் கட்டுப்படுத்துகிறது.
+- **உங்கள் அணி முக்கியம்.** உங்கள் தற்போதைய அணி எந்த spawns, tools, vehicles, மற்றும் tablet apps கிடைக்கும் என்பதை தீர்மானிக்கிறது.
 - **Teams வரும், போகும்.** Players இல்லாத team, team list-இலிருந்து தானாக நீக்கப்படும் (Visitors, Malaysians, Arrested தவிர). ஒரு team மறைந்தால் கவலைப்பட வேண்டாம் — யாராவது சேர்ந்தவுடன் அது திரும்பும்.
 - **காயமடைந்தபோது reset செய்யாதீர்கள்.** அது உங்கள் நலனுக்காக முடக்கப்பட்டுள்ளது (anti-RTAA), மேலும் arrest-இலிருந்து cheating செய்து தப்புவதைத் தடுக்கிறது.
 - **CAG card பயன்படுத்துங்கள்.** Public transport-ஐ சில தடவைகளுக்கு மேல் பயன்படுத்தினால், 100 BR மதிப்புள்ளது.

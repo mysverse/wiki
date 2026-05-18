@@ -4,8 +4,8 @@ description: >-
   Telefon dalam permainan di Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow,
   mesej, dan aplikasi lain.
 lang: ms
-translated_from_hash: 466708b8
-translated_on: '2026-04-21'
+translated_from_hash: "7e35c215"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Telefon
@@ -44,7 +44,7 @@ Aplikasi ini ditambah apabila anda berada di Bandaraya. Ia tidak muncul di Lebuh
 
 ### MyPay — hantar BR kepada pemain lain
 
-Pemindahan BR rakan ke rakan. Seperti MyPay / DuitNow dunia sebenar Malaysia.
+Pemindahan BR rakan ke rakan. Seperti pemindahan segera dalam dunia MYSverse.
 
 1. Buka **MyPay**.
 2. **Cari** pemain mengikut nama.
@@ -59,7 +59,7 @@ Penerima akan mendapat pemberitahuan pada telefon mereka sendiri dengan butang *
 - Kedua-dua pemain tidak berada dalam **senarai sekatan penipuan** (jarang berlaku — hanya jika admin telah menandakan akaun)
 - Anda benar-benar memiliki BR tersebut — debit disemak sebelum kredit
 
-Jika MyPay dilumpuhkan buat sementara waktu (admin mengalih `MyPayEnabled`), anda akan melihat skrin "dilumpuhkan" sebaliknya — aplikasi akan kelabu dan tiada pemindahan akan berlaku.
+Jika MyPay dilumpuhkan buat sementara waktu oleh server, anda akan melihat skrin "dilumpuhkan" sebaliknya — aplikasi akan kelabu dan tiada pemindahan akan berlaku.
 
 Setiap pemindahan yang selesai direkodkan ke Discord permainan (untuk keterlihatan moderasi).
 

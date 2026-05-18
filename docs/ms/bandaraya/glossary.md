@@ -1,23 +1,23 @@
 ---
 title: Glosari — Istilah Malaysia & Akronim Permainan
 description: >-
-  Akronim Malaysia dan istilah dalam permainan — PDRM, BOMBA, KKM, CAG, LTAA,
+  Akronim Malaysia dan istilah dalam permainan — POLIS, BOMBA, KKM, CAG, LTAA,
   RTAA, MRT, dan banyak lagi.
 lang: ms
-translated_from_hash: ad09a143
-translated_on: '2026-04-21'
+translated_from_hash: "75024133"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Glosari — Istilah Malaysia & Akronim Permainan
 
-Bandaraya banyak bergantung pada nama Malaysia sebenar. Kalau anda bukan dari Malaysia (atau belum pernah lihat akronim tersebut), rujuk di sini.
+Bandaraya banyak bergantung pada nama Malaysia. Kalau anda bukan dari Malaysia (atau belum pernah lihat akronim tersebut), rujuk di sini.
 
 ## Mata wang & duit
 
 | Istilah | Maksud |
 | --- | --- |
 | **BR** | **Bandar Ringgit** — mata wang dalam permainan. Anggap ia sebagai ringgit (RM) dalam permainan. |
-| **CAG** | **Click And Go** — kad transit nilai tersimpan dalam permainan (versi Bandaraya untuk Touch n Go Malaysia). |
+| **CAG** | **Click And Go** — kad transit nilai tersimpan dalam permainan (versi Bandaraya untuk Touch n Go). |
 
 ## Organisasi (pasukan)
 
@@ -61,4 +61,3 @@ Bandaraya banyak bergantung pada nama Malaysia sebenar. Kalau anda bukan dari Ma
 | **Ammulaysia** | Peniaga senjata api berlesen. Memerlukan gamepass Firearms Licence. |
 | **MRT** | **Mass Rapid Transit** — kereta api Kajang Line untuk fast-travel. |
 | **ACS** | **Advanced Combat System** — enjin senjata (kendalikan tembakan, muat semula, kerosakan). |
-| **Saude** | Bahasa Portugis untuk "kesihatan". Nama dalaman sistem kesihatan. Anda tak akan nampak perkataan ini dalam UI, tapi baik untuk tahu. |

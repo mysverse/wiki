@@ -2,8 +2,8 @@
 title: 常见问题与技巧
 description: Lebuhraya 新玩家的常见问题与快速上手技巧。
 lang: zh
-translated_from_hash: 3c08148c
-translated_on: '2026-05-17'
+translated_from_hash: "d22790a4"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 常见问题与技巧
@@ -228,11 +228,11 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 - **布置场景**：teleport 任何玩家（或自己）到任意地点、fly、noclip、改变 gravity、为访客 spawn 车辆。
 - **委派 admin**：使用 Adonis 命令如 `:admin @PlayerName`，把可信朋友提升为你 server 内的 moderator / admin。他们会获得同样工具。你也可以用 `:mod`、`:headadmin` 等不同 admin tier。
 - **管理时长**：boot-everyone、shutdown、从当前 server 内 reserve 新 server。
-- **按你的方式运行体验**：设置自定义消息、创建自定义 scripts（如果你懂 Lua）、调整游戏时间、切换天气 (`!rainon` / `!rainoff`)。
+- **按你的方式运行体验**：设置自定义消息、调整游戏时间、切换天气，并为你的群组布置场景。
 
-**Moderator persistence**：你在私人 server 中授予的 admin 会存储在该 server 专属 DataStore (`privateServer_<yourUserId>`) 下，和 public server 分开。Admin 会在*你的*私人 server 中跨 session 保持。他们不会在其他 server 获得 admin 权限。
+**Moderator 权限只留在你的私人 server 内。** 你提升的朋友会在*你的*私人 server 中跨 session 保留权限，但不会在其他 server 获得 admin 权限。
 
-**跨 server 功能会禁用** — Trello audit logs 和 cross-server commands 不会在私人 server 中运行。这让你的 server 保持自包含，不依赖外部服务。
+**跨 server 管理功能会在私人 server 中禁用**，所以你的 server 会保持独立。
 
 ### 限制
 
@@ -267,9 +267,9 @@ Lebuhraya 是一款角色扮演游戏。认真执行 999 医疗班次的玩家�
 | `:unmod @player` | 撤销 moderator 状态 |
 | `:shutdown` | 关闭 server |
 
-**注意**：将某人提升为完整 Admin (level 200) 或更高，通常在默认 Adonis 中需要 HeadAdmin-level 权限。作为 owner 你是 Admin level (200)，所以通常可以自由提升到 Moderator，但不一定能提升到 Admin。如果可信朋友需要 Admin-tier 权力，你可以授予 Moderator 权限，这已覆盖大多数用途；否则请看 `:cmds` 中实际接受的命令。
+**注意**：Private server owner 通常可以把可信朋友提升为 Moderator，这已足够大多数 event hosting 需求。更高 admin tier 可能不在你的权限范围内；请查看 `:cmds` 看你的 server 接受哪些操作。
 
-完整语法请查阅 Roblox Creator Hub 上的 Adonis 文档 — 命令有数百个，每个命令所需的准确 level 取决于 Adonis 默认值和游戏的 `Permissions` overrides。
+在你的 server 内，`:cmds` 是 command syntax 和 permission requirements 的主要参考。
 
 ### Admin 做不到的一件事
 

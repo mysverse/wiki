@@ -2,8 +2,8 @@
 title: Soalan Lazim
 description: Soalan biasa pemain baharu di Bandaraya.
 lang: ms
-translated_from_hash: 9febc650
-translated_on: '2026-05-17'
+translated_from_hash: "aa73aa41"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Soalan Lazim
@@ -34,7 +34,7 @@ Lihat [Pasukan](/bandaraya/teams#emergency-services).
 
 ### Apa itu CAG dan adakah saya perlukannya?
 
-**CAG** (Click And Go) ialah kad transit nilai tersimpan Bandaraya — Touch n Go dalam permainan. Beli di kiosk dengan harga 100 BR, tambah nilai mengikut keperluan. Anda perlukannya jika anda:
+**CAG** (Click And Go) ialah kad transit nilai tersimpan Bandaraya — TapNGo dalam permainan. Beli di kiosk dengan harga 100 BR, tambah nilai mengikut keperluan. Anda perlukannya jika anda:
 
 - Naik bas (tambang automatik 5 BR)
 - Gunakan perjalanan pantas MRT / Monorail (diskaun 30% / 50% dengan pas)
@@ -93,7 +93,7 @@ Kereta yang dibeli auto-simpan ke akaun anda setiap 30 saat. Respawn di Classic 
 
 Tunggu **pemasa pelepasan 3 minit**. Selepas itu, anda boleh pilih pasukan sekali lagi.
 
-Jika anda rasa ditangkap secara salah, rayu melalui server komuniti Malaysia (lihat [Peraturan](/bandaraya/rules#appeals)).
+Jika anda rasa ditangkap secara salah, rayu melalui server komuniti MYSverse (lihat [Peraturan](/bandaraya/rules#appeals)).
 
 ### Saya keluar semasa ditahan dan sekarang saya auto-ditangkap. Kenapa?
 
@@ -164,7 +164,7 @@ Lihat [Peraturan](/bandaraya/rules#tips--gotchas).
 
 ### Bagaimana saya dapatkan alat Punch?
 
-Ia ganjaran quest pada **Level 25**. Anda perlu grind hingga level 25 melalui apa sahaja sasaran quest (aktiviti roleplay). Pada masa ini ia satu-satunya quest yang didaftarkan dengan sistem quest permainan. (UI quest "Pushup" wujud dalam codebase tetapi belum ada backend yang berfungsi.)
+Ia ganjaran quest pada **Level 25**. Teruskan melengkapkan aktiviti roleplay sehingga ganjaran quest terbuka.
 
 ### Apakah versi permainan?
 
@@ -176,9 +176,9 @@ Kerosakan perlanggaran ditunjukkan secara visual. Perlanggaran berat menghasilka
 
 Lihat [Kenderaan](/bandaraya/vehicles#vehicle-health--crash-damage).
 
-### Apa itu Saude?
+### Apa berlaku apabila saya cedera?
 
-Bahasa Portugis untuk "kesihatan". Ia nama dalaman untuk sistem kesihatan Bandaraya (darah, kesakitan, kecederaan, kit perubatan). Anda tidak akan nampak perkataan "Saude" sebagai pemain — ia hanya istilah pembangun untuk sistem tersebut. Lihat [Combat & Health](/bandaraya/combat-and-health).
+Bandaraya menjejak lebih daripada bar kesihatan biasa: pendarahan, kesakitan, dan rawatan perubatan semuanya penting. Jika anda cedera parah, panggil bantuan, biarkan pemain perubatan merawat anda, dan elakkan reset keluar daripada scene. Lihat [Combat & Health](/bandaraya/combat-and-health).
 
 ### Butang "Start" teksi saya beri ralat. Salah saya ke?
 
@@ -203,7 +203,7 @@ Ya — jemput mereka ke server yang sama. Sistem pasukan membenarkan parti pasuk
 
 ### Adakah ia pernah hujan?
 
-Ya, tetapi hujan **dikawal oleh admin** — pembangun hidupkan dan matikan melalui arahan sembang. Ia bukan kitaran cuaca berkekalan. Apabila hujan hidup, zarah 3D jatuh di sekeliling anda, langit berawan, dan bunyi hujan dimainkan; jika tidak cuaca cerah. Prestasi permainan anda tidak terjejas apabila hujan mati.
+Ya, tetapi hujan dikawal untuk event dan bukan kitaran cuaca berkekalan. Apabila hujan hidup, zarah jatuh di sekeliling anda, langit berawan, dan bunyi hujan dimainkan; jika tidak cuaca cerah. Prestasi permainan anda tidak terjejas apabila hujan mati.
 
 ### Saya tidak bercakap Bahasa Melayu. Adakah saya akan keliru?
 

@@ -2,8 +2,8 @@
 title: 平板电脑
 description: Bandaraya 的队伍专属平板工具 — MDT、MyEmergency、MyTow、KKM Logger 及其他应用。
 lang: zh
-translated_from_hash: 1d97fc65
-translated_on: '2026-04-21'
+translated_from_hash: "d28c2b27"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 平板电脑
@@ -104,7 +104,7 @@ Topbar 会有一个与平板相关的图标 —— 点击它就能切换开关�
 
 ## 队伍限制
 
-你能看到哪些应用取决于你队伍的 `TeamColor`:
+你能看到哪些应用取决于你当前的队伍:
 
 | 队伍 | 可用应用 |
 | --- | --- |

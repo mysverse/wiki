@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் உங்கள் முதல் 10 நிமிடங்கள் — வாகனத்தை உருவாக்கவும், BR
   சம்பாதிக்கவும், நிலை உயர்த்தவும், நெடுஞ்சாலையை அடையவும்.
 lang: ta
-translated_from_hash: 271bfa19
-translated_on: '2026-05-17'
+translated_from_hash: "4fb4c2ec"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # தொடங்கு

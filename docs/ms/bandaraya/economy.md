@@ -4,8 +4,8 @@ description: >-
   Bagaimana ekonomi Bandar Ringgit (BR) berfungsi — memperoleh, perbankan,
   memindahkan BR, dan produk pembangun.
 lang: ms
-translated_from_hash: ae4fab89
-translated_on: '2026-04-21'
+translated_from_hash: "66e475d0"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Ekonomi

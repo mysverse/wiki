@@ -2,8 +2,8 @@
 title: Soalan Lazim & Petua
 description: Soalan biasa dan kemenangan pantas untuk pemain Lebuhraya yang baharu.
 lang: ms
-translated_from_hash: 3c08148c
-translated_on: '2026-05-17'
+translated_from_hash: "d22790a4"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Soalan Lazim & Petua
@@ -228,11 +228,11 @@ Apabila anda menyertai server persendirian sendiri, **anda diberikan Adonis admi
 - **Sediakan adegan**: teleport mana-mana pemain (atau diri sendiri) ke mana-mana lokasi, fly, noclip, ubah gravity, spawn kenderaan untuk tetamu.
 - **Delegasi admin**: gunakan arahan Adonis seperti `:admin @PlayerName` untuk menaikkan rakan dipercayai kepada moderator / admin dalam server anda. Mereka akan mendapat alat yang sama. Anda juga boleh `:mod`, `:headadmin`, dll., untuk tier admin berbeza.
 - **Urus tempoh**: boot-everyone, shutdown, reserve server baharu dari dalam server semasa.
-- **Jalankan pengalaman cara anda**: tetapkan mesej tersuai, cipta script tersuai (jika anda tahu Lua), ubah masa permainan, toggle cuaca (`!rainon` / `!rainoff`).
+- **Jalankan pengalaman cara anda**: tetapkan mesej tersuai, ubah masa permainan, toggle cuaca, dan bina scene untuk kumpulan anda.
 
-**Moderator persistence**: admin yang anda beri dalam server persendirian disimpan di bawah DataStore khusus server itu (`privateServer_<yourUserId>`), berasingan daripada server awam. Admin kekal admin merentas sesi dalam server persendirian *anda*. Mereka tidak mendapat hak admin di server lain.
+**Akses moderator kekal dalam server persendirian anda.** Rakan yang anda naikkan pangkat mengekalkan akses itu merentas sesi dalam server persendirian *anda*, tetapi mereka tidak mendapat hak admin di server lain.
 
-**Ciri rentas server dinyahdayakan** — log audit Trello dan arahan rentas server tidak berjalan dalam server persendirian. Ini mengekalkan server anda berdikari dan bebas daripada kebergantungan luaran.
+**Ciri moderasi rentas server dinyahdayakan** dalam server persendirian, jadi server anda kekal berdikari.
 
 ### Had
 
@@ -267,9 +267,9 @@ Setelah anda ada admin level (sama ada sebagai pemilik atau diberi oleh pemilik)
 | `:unmod @player` | Tarik balik status moderator |
 | `:shutdown` | Tutup server |
 
-**Nota**: Menaikkan seseorang kepada Admin penuh (level 200) atau lebih tinggi biasanya memerlukan kebenaran HeadAdmin dalam default Adonis. Sebagai pemilik anda berada pada Admin level (200), jadi anda boleh menaikkan ke Moderator dengan bebas tetapi biasanya bukan ke Admin. Jika rakan dipercayai perlu kuasa tier Admin, anda boleh beri hak Moderator dan itu meliputi kebanyakan kegunaan; jika tidak, lihat `:cmds` untuk apa yang benar-benar diterima.
+**Nota**: Pemilik private server biasanya boleh menaikkan rakan dipercayai kepada Moderator, yang mencukupi untuk kebanyakan keperluan event. Tier admin lebih tinggi mungkin tidak tersedia daripada permission level anda; semak `:cmds` untuk melihat apa yang diterima oleh server anda.
 
-Rujuk dokumentasi Adonis di Roblox Creator Hub untuk sintaks penuh — ada ratusan arahan, dan level tepat yang diperlukan untuk setiap satu bergantung pada default Adonis serta override `Permissions` permainan.
+Guna `:cmds` sebagai rujukan utama untuk sintaks command dan keperluan permission dalam server anda.
 
 ### Satu perkara yang admin tidak boleh buat
 

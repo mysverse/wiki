@@ -119,15 +119,15 @@ export const META = {
   "bandaraya/emergency-services.md": {
     ms: {
       title: "Perkhidmatan Kecemasan",
-      description: "PDRM, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan keselamatan di Bandaraya.",
+      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan keselamatan di Bandaraya.",
     },
     zh: {
       title: "紧急服务",
-      description: "PDRM、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。",
+      description: "POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。",
     },
     ta: {
       title: "அவசர சேவைகள்",
-      description: "PDRM, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD — Bandaraya-வின் அவசர மற்றும் பாதுகாப்பு சேவைகள்.",
+      description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD — Bandaraya-வின் அவசர மற்றும் பாதுகாப்பு சேவைகள்.",
     },
   },
   "bandaraya/combat-and-health.md": {
@@ -245,15 +245,15 @@ export const META = {
   "bandaraya/glossary.md": {
     ms: {
       title: "Glosari — Istilah Malaysia & Akronim Permainan",
-      description: "Akronim Malaysia dan istilah dalam permainan — PDRM, BOMBA, KKM, CAG, LTAA, RTAA, MRT, dan banyak lagi.",
+      description: "Akronim Malaysia dan istilah dalam permainan — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, dan banyak lagi.",
     },
     zh: {
       title: "术语表 — 马来西亚用语与游戏缩写",
-      description: "马来西亚缩写与游戏术语解说 — PDRM、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。",
+      description: "马来西亚缩写与游戏术语解说 — POLIS、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。",
     },
     ta: {
       title: "சொற்களஞ்சியம் — மலேசிய சொற்கள் & விளையாட்டு சுருக்கங்கள்",
-      description: "மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் — PDRM, BOMBA, KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.",
+      description: "மலேசிய சுருக்கங்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம் — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, மற்றும் பல.",
     },
   },
   "bandaraya/faq.md": {

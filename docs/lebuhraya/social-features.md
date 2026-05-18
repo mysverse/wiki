@@ -11,26 +11,26 @@ Lebuhraya has a few systems designed to make the game better when you play with 
 
 Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
 
-### Creating a convoy
+### Creating a Convoy
 
 1. Open the convoy menu (from the Main Menu or topbar).
 2. Select **Create convoy** — you become the leader.
 3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
 
-### Joining a convoy
+### Joining a Convoy
 
 - **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
 - **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
 
 Both sides of the handshake use the same 30-second timeout — if you miss it, just re-invite or re-request.
 
-### Convoy rules
+### Convoy Rules
 
 - **Maximum size**: 6 members
 - **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
 - **Leader**: Sets invite rules and can remove members
 
-### How the bonus stacks
+### How the Bonus Stacks
 
 The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
 
@@ -62,7 +62,7 @@ Lebuhraya's emergency services are player-driven. Any player can call 999; emerg
 
 Each active incident shows on responders' pagers with your location.
 
-### Responding (emergency teams)
+### Responding (Emergency Teams)
 
 If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
 
@@ -85,7 +85,7 @@ If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan*
 
 Every player has a phone accessible from the topbar.
 
-### Built-in features
+### Built-In Features
 
 - **999 Emergency**
 - **GPS navigation** — set a waypoint to any POI
@@ -97,7 +97,7 @@ Every player has a phone accessible from the topbar.
 
 More phone apps may appear over time as the MYSverse platform adds features.
 
-### Phone tips
+### Phone Tips
 
 - Use the Phone when you need quick actions while staying in the world.
 - GPS waypoints are the safest way to reach a POI without staff-only fast travel.
@@ -130,11 +130,11 @@ A secondary device available from the topbar. Think of it as your "career HUD" �
 - **Developer** *(staff only)* — Admin moderation view showing player details, BR balance, POS money, and message history.
 - **Moderator** *(staff only)* — Additional staff moderation tools.
 
-## Report system
+## Report System
 
 Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
 
-### What to include
+### What to Include
 
 Good reports are specific:
 
@@ -144,7 +144,7 @@ Good reports are specific:
 - **Whether it repeats** — once, every time, only on mobile, only in private server.
 - **Player names** if it is a player conduct issue.
 
-### When to use it
+### When to Use It
 
 Use Report for:
 
@@ -152,7 +152,7 @@ Use Report for:
 - vehicle spawn/fuel/repair problems
 - job tasks that cannot complete
 - map holes, stuck spots, or bad collisions
-- abusive player behavior
+- abusive player behaviour
 - feedback on balance, payouts, and roleplay tools
 
 Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
@@ -166,16 +166,16 @@ YYMMDD-PB-XXXX
 ```
 
 - **YYMMDD** — your Roblox account-joined date (year, month, day).
-- **PB** — place of birth code. Default is **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) use different codes.
-- **XXXX** — the last four digits of your Roblox UserId.
+- **PB** — place-of-origin code. Default is **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) use different codes.
+- **XXXX** — the last four digits of your Roblox account ID.
 
-So if you joined Roblox on 15 March 2020 with UserId 123456789, your IC would be **200315-14-6789**. Your IC is consistent every time you play — it won't change.
+So if you joined Roblox on 15 March 2020 and your account ID ended in 6789, your IC would be **200315-14-6789**. Your IC is consistent every time you play — it won't change.
 
 Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
 
 ## Driving Licence
 
-Every player gets a **Driving Licence** as a Tool in their backpack. The licence number is generated from your account-joined date and the last four digits of your UserId, so it's unique per player and consistent across sessions.
+Every player gets a **Driving Licence** as a tool in their backpack. The licence number is generated from your account-joined date and the last four digits of your Roblox account ID, so it's unique per player and consistent across sessions.
 
 **APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
 
@@ -191,15 +191,15 @@ Some temporary advantages come from **tokens** — consumable boost items in you
 | **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
 | **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
 
-### How to get tokens
+### How to Get Tokens
 
 - Career tier rewards (ranking up in a branch)
 - Season Pass tier rewards
 - Promotional events
 - Sometimes bundled with gamepasses
-- Admin-granted (in private servers your server owner can use debug commands to grant any token to any player for any duration)
+- Granted by a private-server owner during events or roleplay sessions
 
-### How to use tokens
+### How to Use Tokens
 
 Activate a token from your inventory (**Main Menu -> More -> Tokens**). The **Active Tokens HUD** appears automatically when at least one token is running — each active token shows its icon, name, and a **M:SS countdown**. Tokens run in parallel (you can have 2× XP Boost + Season Pass Boost + Team Access all going at once).
 
@@ -207,11 +207,11 @@ Tokens **consume on activation** — once you start the timer you can't pause it
 
 > Tokens are **consumed on activation** — you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
 
-## Chat and messaging
+## Chat and Messaging
 
 The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly — keep chat clean and respect MYSverse's community rules.
 
-## Next steps
+## Next Steps
 
 - [Economy and XP](/lebuhraya/economy) — Where the convoy multiplier fits in
 - [Jobs](/lebuhraya/jobs) — Emergency-team job details

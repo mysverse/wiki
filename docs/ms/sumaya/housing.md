@@ -2,8 +2,8 @@
 title: Perumahan
 description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
-translated_from_hash: bae34b5a
-translated_on: '2026-04-30'
+translated_from_hash: "075bc1c5"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -14,9 +14,9 @@ Sumaya membolehkan anda menuntut sebidang plot tanah, membeli rumah, menghiasiny
 
 ## Mencari plot
 
-Kawasan kejiranan Sumaya (jalan-jalan kampung seperti Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) terbahagi kepada **plot**. Plot yang belum dituntut akan dipaparkan sebagai rumah pemegang tempat — bentuk visual kecil yang menandakan plot itu masih tersedia.
+Kawasan kejiranan Sumaya (jalan-jalan kampung seperti Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) terbahagi kepada **plot**. Plot yang belum dituntut menunjukkan rumah pratonton kecil supaya anda boleh nampak tanah yang tersedia dari jalan.
 
-Sumaya kini mempunyai **63 claimable plots**, setiap satu dengan pemegang tempat yang boleh anda tinjau dari dalam dunia.
+Sumaya kini mempunyai **63 claimable plots**, setiap satu boleh dilihat dari dunia sebelum anda menuntutnya.
 
 ## Membeli rumah di Real Estate Office
 

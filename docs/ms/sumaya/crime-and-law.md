@@ -2,8 +2,8 @@
 title: Jenayah & Undang-Undang
 description: 'Rompakan kereta, mencopet, bintang dicari, dan penjara di Sumaya.'
 lang: ms
-translated_from_hash: e44a4fb1
-translated_on: '2026-05-17'
+translated_from_hash: "731048c6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

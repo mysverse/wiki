@@ -2,8 +2,8 @@
 title: 开始体验 Bandaraya
 description: 在 Bandaraya 开始你的冒险 — 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。
 lang: zh
-translated_from_hash: e5298009
-translated_on: '2026-05-17'
+translated_from_hash: "73e8c651"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -30,7 +30,7 @@ needs_review: true
 
 Bandaraya 是游戏中的 **吉隆坡** 区域。你会认出真实地标 — **Maxis Tower**、**Grand Hyatt**、**Public Bank**、**PETRONAS** 区域、**Ampang Park**、**Bukit Bintang**，以及完整的 MRT/Monorail 网络，车站位于真实 KL 地点 (Conlay、Persiaran KLCC、Ampang Park；Bukit Bintang、Raja Chulan、Bukit Nanas)。
 
-队伍是真实的马来西亚机构：**POLIS**、**BOMBA**、**KKM**、**SJAM**、**RELA**、**MAF**、**KPTD**。交通卡 — **CAG** — 是 Bandaraya 的 Touch n Go 类似物，包括空卡欠费、月票，以及与 Deepavali、Merdeka 和 Raya 相关的收藏设计。
+队伍是马来西亚风格机构：**POLIS**、**BOMBA**、**KKM**、**SJAM**、**RELA**、**MAF**、**KPTD**。交通卡 — **CAG** — 是 Bandaraya 的 Touch n Go 类似物，包括空卡欠费、月票，以及与 Deepavali、Merdeka 和 Raya 相关的收藏设计。
 
 不确定某个缩写是什么意思？[词汇表](/zh/bandaraya/glossary)列出了全部。
 
@@ -183,7 +183,7 @@ Bandaraya 是游戏中的 **吉隆坡** 区域。你会认出真实地标 — **
 
 ## 提示与注意事项
 
-- **队伍颜色很重要。** 你的队伍 `TeamColor` 控制你能使用哪些 spawner、会获得哪些工具，以及能看到哪些 tablet app。
+- **你的队伍很重要。** 当前队伍决定你可用的 spawn、工具、车辆和 tablet app。
 - **队伍会出现和消失。** 没有玩家的队伍会自动从队伍列表移除 (Visitors、Malaysians 和 Arrested 除外)。如果某个队伍消失，不用担心 — 有人加入时它会回来。
 - **受伤时不要 reset。** 它为了你好而被禁用 (anti-RTAA)，也防止你作弊逃离逮捕。
 - **使用 CAG 卡。** 如果你会多次使用公共交通，花 100 BR 很值得。

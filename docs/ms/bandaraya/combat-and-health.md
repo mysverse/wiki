@@ -2,13 +2,13 @@
 title: Pertempuran & Kesihatan
 description: 'Senjata, perisai, kecederaan, dan sistem perubatan di Bandaraya.'
 lang: ms
-translated_from_hash: '56782173'
-translated_on: '2026-04-21'
+translated_from_hash: "2c4e4f94"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pertempuran & Kesihatan
 
-Bandaraya menggunakan **ACS (Advanced Combat System)** untuk senjata dan sistem kesihatan yang terperinci (nama dalaman: **Saude**, bahasa Portugis untuk "kesihatan"). Halaman ini menerangkan apa yang berlaku apabila peluru berterbangan dan apabila darah mengalir — dari kedua-dua belah pihak.
+Bandaraya mempunyai sistem senjata, kecederaan, dan perubatan yang terperinci. Halaman ini menerangkan apa yang berlaku apabila tembakan berlaku, bagaimana kecederaan mempengaruhi anda, dan bagaimana pemain perubatan membantu roleplay terus berjalan.
 
 ## TL;DR
 
@@ -93,7 +93,7 @@ Bandaraya memodelkan kesihatan sebagai tiga dimensi, bukan hanya HP:
 | --- | --- | --- |
 | **Sangue** (Darah) | Tahap darah, 0–100 | Menurun apabila anda berdarah. Pada 0, jantung anda berhenti. |
 | **Dor** (Kesakitan) | Tahap kesakitan | Kesakitan tinggi mengaburkan skrin anda dan memperlahankan anda. |
-| **HP** (Humanoid) | Kesihatan Roblox standard | Menurun ke 0 membunuh anda terus. |
+| **Kesihatan** | Bar kesihatan biasa anda | Jika turun ke 0, anda mati serta-merta. |
 
 Tambah stamina, oksigen, dan pelbagai posisi (berlari, menyerah, digari, berdarah, tumbang, dll.).
 
@@ -212,14 +212,14 @@ Lihat [Penahanan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
 
 **Hardpoint** ialah mod permainan titik rampasan yang dikhaskan hampir keseluruhannya untuk acara kumpulan **OCG vs OCG**. Ia bukan ciri harian — ia berjalan apabila seorang ketua OCG mencetuskan serbuan.
 
-Cara ia berfungsi (disahkan):
+Cara raid berjalan:
 
 - Seorang ketua OCG (rank 150+ dalam kumpulan OCG utama) menaip **`:startraid <Defenders> <Hostiles>`** dalam chat, memilih dua daripada: `BC` (Basilicata Camorra), `OCG-Beta`, `Nightraiders`, `Ekstranet`.
-- **Point** (pencetus rampasan dalam `Workspace.HardPoints`) diaktifkan — menjadi kelihatan, pencetus menjadi solid.
-- Pemain dalam kumpulan pembela / musuh yang ditetapkan menyentuh pencetus untuk merampas untuk pasukan mereka. Pemain mati tidak boleh merampas (`DeathCap = false`).
+- **Capture point** diaktifkan dan kelihatan di dunia.
+- Pemain dalam kumpulan pembela / musuh yang ditetapkan memegang point untuk menjaringkan mata bagi pasukan mereka. Pemain mati tidak boleh capture.
 - **Pemasa:** 300 saat pada titik aktif. Pasukan mengumpul skor semasa mereka memegangnya.
-- **Ambang kemenangan:** 1250 mata, atau admin OCG menaip **`:cancelraid`**.
-- **HardpointUI** menunjukkan dua bar kemajuan (Home / Away) + bingkai pengumuman + skor + pemasa.
+- **Ambang kemenangan:** 1250 mata, atau hos OCG membatalkan raid.
+- UI raid menunjukkan kemajuan kedua-dua pasukan, skor, dan baki masa.
 
 Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. POLIS / KPTD / BOMBA / KKM tidak mengambil bahagian.
 

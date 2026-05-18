@@ -2,8 +2,8 @@
 title: தொலைபேசி & UI
 description: 'Sumaya-வில் 12 தொலைபேசி செயலிகள், HUD, மற்றும் சிறு வரைபடம்.'
 lang: ta
-translated_from_hash: 552de054
-translated_on: '2026-05-17'
+translated_from_hash: "9b5574d6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -24,7 +24,7 @@ needs_review: true
 
 ## தொலைபேசி செயலிகள்
 
-Sumaya-வில் **14 app entries** மற்றும் தொலைபேசி-முகப்பு துவக்கி (உள்ளார்ந்து `PhoneUI` என்று அழைக்கப்படுகிறது) உள்ளன. சில செயலிகள் பொருத்தமானபோது மட்டும் தோன்றும்: Emergency999-க்கு உங்கள் character spawned ஆகி இருக்க வேண்டும், MDT emergency-service teams-க்கு, DevTools developer-only.
+Sumaya phone-ல் **14 apps** மற்றும் home screen உள்ளது. சில apps பயனுள்ளதாக இருக்கும் போது மட்டும் தோன்றும்: Emergency999 உங்கள் character spawn ஆன பிறகு தோன்றும், MDT emergency-service teams-க்கு, developer-only tools சாதாரண players-க்கு மறைந்திருக்கும்.
 
 ### அமைப்புகள்
 
@@ -126,7 +126,7 @@ Sumaya-வின் சின்னங்களுக்கான உங்க�
 
 நீங்கள் முதல் முறையாக ஒரு tagged POI-க்குள் நடக்கும்போது, செயலி `Ditemui: <name>` toast-ஐ காட்டும் மற்றும் entry பூட்டப்பட்டதிலிருந்து கண்டுபிடிக்கப்பட்டதாக மாறும். POI வெகுமதிகள் தானாகவே உங்கள் வங்கிக் கணக்கில் வைப்பு செய்யப்படும்.
 
-POI-கள் முன்னேற்றத்தில் உள்ள அம்சம். Live build **Menara Jam**, **Pasar Sumaya**, மற்றும் **Pantai Sumaya**-ஐ வரையறுக்கிறது, ஆனால் உலகத்தில் தற்போது `SumayaPOI` trigger parts tagged இல்லை. நீங்கள் அவற்றைப் பார்வையிட்டும் landmarks unlock ஆகவில்லை என்றால், அது content-placement gap; நீங்கள் தவறாக செய்தது அல்ல.
+POI-கள் முன்னேற்றத்தில் உள்ள அம்சம். Live build **Menara Jam**, **Pasar Sumaya**, மற்றும் **Pantai Sumaya**-ஐ கொண்டுள்ளது. நீங்கள் அவற்றைப் பார்வையிட்டும் landmarks unlock ஆகவில்லை என்றால், அது content-placement gap; நீங்கள் தவறாக செய்தது அல்ல.
 
 ### Emergency999
 
@@ -151,13 +151,7 @@ POI-கள் முன்னேற்றத்தில் உள்ள அம�
 
 MDT பற்றி மேலும் [Polis](/sumaya/polis)-ஐ பார்க்கவும்.
 
-### DevTools
-
-டெவலப்பருக்கு மட்டுமே பிழைத்திருத்த செயலி. ஒரு சாதாரண வீரராக நீங்கள் இதைப் பார்க்க மாட்டீர்கள். புறக்கணிக்கவும்.
-
-அனுமதிக்கப்பட்ட testers-க்கு, DevTools இப்போது monetization placeholders-க்கான backend checks-ஐ கொண்டுள்ளது: entitlement catalog/overrides, cash-product simulation, vehicle pack ownership, radio scaffold state, மற்றும் POLIS specialization testing.
-
-### PhoneUI (முகப்பு துவக்கி)
+### முகப்பு திரை
 
 செயலி கட்டத்துடன் முக்கிய தொலைபேசி முகப்பு திரை. நீங்கள் துவக்கும் தனி செயலி அல்ல.
 

@@ -4,8 +4,8 @@ description: >-
   Bagaimana tangkapan berfungsi di Bandaraya — LTAA, RTAA, saman, tempoh
   penjara, dan hak suspek.
 lang: ms
-translated_from_hash: 6371bf02
-translated_on: '2026-04-21'
+translated_from_hash: "7ae2e337"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Tangkapan & Undang-Undang
@@ -19,7 +19,7 @@ Bagaimana tangkapan berfungsi di Bandaraya — dari perspektif pegawai dan suspe
 - **LTAA** (leave to avoid arrest): keluar permainan semasa ditahan → auto-ditangkap selama 3 minit apabila kembali.
 - **RTAA** (reset to avoid arrest): butang reset dinyahaktifkan pada HP 75 atau kurang.
 - **Saman**: denda serta-merta daripada pegawai.
-- **Rayuan**: melalui moderator pelayan komuniti Malaysia.
+- **Rayuan**: melalui moderator pelayan komuniti MYSverse.
 
 ---
 
@@ -44,7 +44,7 @@ RELA, BOMBA, KKM, anggota bawahan MAF, SJAM, orang awam: **tiada kuasa tangkapan
 ### 1. Tahan
 
 - Dekati suspek.
-- Gunakan tindakan **Detain** (melalui cuffEvents).
+- Gunakan tindakan **Detain** daripada menu cuff.
 - Suspek dipegang dalam keadaan ditahan — watak mereka memainkan animasi menyerah diri, pergerakan disekat.
 
 ### 2. Heret (pilihan)
@@ -65,22 +65,22 @@ RELA, BOMBA, KKM, anggota bawahan MAF, SJAM, orang awam: **tiada kuasa tangkapan
 
 ### 5. Tangkap
 
-- Gunakan tindakan Arrest (melalui cuffEvents atau menu radial).
+- Gunakan tindakan Arrest daripada menu cuff atau radial.
 - Pasukan suspek bertukar kepada **Arrested**.
 - **Pemasa pelepasan 3 minit** bermula.
 - **Rekod tangkapan** dicipta dengan:
-  - ID pegawai
+  - Butiran pegawai
   - Masa tangkapan
-  - Lokasi (X, Y, Z)
-  - **Nombor rujukan** seperti `KL-{UserId}-{Index}`
+  - Lokasi tangkapan
+  - **Nombor rujukan kes**
   - Keterangan tangkapan
   - Bendera OCG (jika suspek berada dalam pasukan OCG)
 
-Webhook Discord dicetuskan untuk log tangkapan.
+Log staff dihantar untuk semakan moderasi.
 
 ### Tangkapan berasaskan jarak
 
-Pegawai boleh menggunakan `ArrestPlayerByDistance` — menangkap seseorang dalam lingkungan tanpa menggarinya secara fizikal. Digunakan untuk situasi di mana suspek sudah tumbang atau akur dari jauh.
+Pegawai mungkin mempunyai pilihan tangkapan jarak dekat untuk situasi di mana suspek sudah tumbang atau akur berhampiran.
 
 ---
 
@@ -155,7 +155,7 @@ Alat **FingerPrint Scanner** — mengenal pasti anda. Muncul dalam UI pegawai.
 ## Cara keluar daripada masalah
 
 - **Tunggu sampai habis 3 minit.**
-- **Buat rayuan** melalui pelayan komuniti Malaysia — moderator mengendalikan pertikaian dan larangan.
+- **Buat rayuan** melalui pelayan komuniti MYSverse — moderator mengendalikan pertikaian dan larangan.
 - **Kekal dalam watak** — merayu kepada pegawai, menawarkan rasuah (dalam roleplay), atau sekadar menerima tangkapan adalah semua sah.
 
 ## Apa yang TIDAK BOLEH buat

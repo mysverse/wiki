@@ -2,8 +2,8 @@
 title: 常见问题
 description: Bandaraya 新玩家常见问题解答。
 lang: zh
-translated_from_hash: 9febc650
-translated_on: '2026-05-17'
+translated_from_hash: "aa73aa41"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 常见问题
@@ -34,7 +34,7 @@ needs_review: true
 
 ### CAG 是什么,我需要吗?
 
-**CAG**(Click And Go)是 Bandaraya 的储值交通卡 — 游戏内的 Touch n Go。在售卖亭以 100 BR 购买,按需充值。如果你需要,条件是:
+**CAG**(Click And Go)是 Bandaraya 的储值交通卡 — 游戏内的 TapNGo。在售卖亭以 100 BR 购买,按需充值。如果你需要,条件是:
 
 - 搭巴士(自动 5 BR 车资)
 - 使用 MRT / Monorail 快速通行(持通行证 30% / 50% 折扣)
@@ -93,7 +93,7 @@ needs_review: true
 
 等待 **3 分钟释放计时器**。之后,你可以再次选择团队。
 
-若你认为被错误逮捕,通过 Malaysia 社群 server 上诉(见[规则](/bandaraya/rules#appeals))。
+若你认为被错误逮捕,通过 MYSverse 社群 server 上诉(见[规则](/bandaraya/rules#appeals))。
 
 ### 我在被拘留时离开,现在被自动逮捕。为什么?
 
@@ -164,7 +164,7 @@ needs_review: true
 
 ### 如何取得 Punch 工具?
 
-它是 **Level 25** 的任务奖励。你必须通过任务所指向的活动(roleplay 活动)肝到 25 级。目前它是唯一已注册到游戏任务系统的任务。(代码库里有一个 "Pushup" 任务 UI,但还没有可用的后端。)
+这是 **Level 25** 的任务奖励。继续完成角色扮演活动，直到任务奖励解锁。
 
 ### 游戏版本是什么?
 
@@ -176,9 +176,9 @@ needs_review: true
 
 请参阅[车辆](/bandaraya/vehicles#vehicle-health--crash-damage)。
 
-### Saude 是什么?
+### 我受伤时会发生什么?
 
-葡萄牙语的"健康"。这是 Bandaraya 健康系统的内部名称(血液、疼痛、伤势、医疗包)。作为玩家你不会看到"Saude"这个词 — 它只是该系统的开发术语。请参阅[战斗与健康](/bandaraya/combat-and-health)。
+Bandaraya 不只追踪普通生命条：流血、疼痛和医疗处理都很重要。如果你受了重伤，请呼叫支援，让医疗玩家治疗你，并避免直接 reset 退出场景。请参阅[战斗与健康](/bandaraya/combat-and-health)。
 
 ### 我的出租车"Start"按钮出错了。是我的错吗?
 
@@ -203,7 +203,7 @@ needs_review: true
 
 ### 会下雨吗?
 
-会,但雨是 **admin 切换的** — 开发者通过聊天命令开关。它不是持续的天气循环。下雨时,3D 粒子会在你周围落下,天空转阴,并播放雨声;否则天气晴朗。雨关闭时,你的游戏性能不受影响。
+会，但雨是活动控制的，不是持续天气循环。下雨时，粒子会在你周围落下，天空转阴，并播放雨声；否则天气晴朗。雨关闭时，你的游戏性能不受影响。
 
 ### 我不会马来语。我会迷路吗?
 

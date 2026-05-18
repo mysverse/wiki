@@ -2,8 +2,8 @@
 title: 游戏通行证
 description: Bandaraya 全部游戏通行证说明 — 出租车司机、枪支执照、HCC、车载电台等。
 lang: zh
-translated_from_hash: 983acf92
-translated_on: '2026-04-21'
+translated_from_hash: "a0e2692e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 游戏通行证

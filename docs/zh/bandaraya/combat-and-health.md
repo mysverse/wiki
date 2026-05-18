@@ -2,13 +2,13 @@
 title: 战斗与健康
 description: Bandaraya 的武器、护甲、受伤机制和医疗系统。
 lang: zh
-translated_from_hash: '56782173'
-translated_on: '2026-04-21'
+translated_from_hash: "2c4e4f94"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 战斗与健康
 
-Bandaraya 的武器使用 **ACS (Advanced Combat System)**,还有一套详细的健康系统(内部名称:**Saude**,葡萄牙语“健康”的意思)。这一页讲解子弹飞来飞去、血流满地时会发生什么 — 从双方角度来看。
+Bandaraya 有详细的武器、受伤和医疗系统。本页说明开火时会发生什么、伤势怎样影响你，以及医疗玩家如何让场景继续进行。
 
 ## TL;DR
 
@@ -93,7 +93,7 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 | --- | --- | --- |
 | **Sangue** (血液) | 血量,0–100 | 流血时会下降。到 0 就心跳停止。 |
 | **Dor** (疼痛) | 疼痛程度 | 高疼痛会让你的屏幕模糊并减慢你的速度。 |
-| **HP** (Humanoid) | 标准 Roblox 血量 | 降到 0 直接死亡。 |
+| **生命值** | 你的普通生命条 | 降到 0 会直接死亡。 |
 
 还有体力、氧气和一堆姿态(奔跑、投降、被铐、流血、倒下等等)。
 
@@ -212,14 +212,14 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 
 **Hardpoint** 是一个占点游戏模式,基本上完全保留给 **OCG vs OCG** 的团体活动。它不是日常功能 — 只有 OCG 领袖发起突袭时才会运行。
 
-运作方式(已验证):
+Raid 的进行方式:
 
 - 一位 OCG 领袖(主 OCG 团队中 rank 150+)在聊天栏输入 **`:startraid <Defenders> <Hostiles>`**,从以下两个选项中选:`BC`(Basilicata Camorra)、`OCG-Beta`、`Nightraiders`、`Ekstranet`。
-- **Point**(`Workspace.HardPoints` 中的占点触发器)启动 — 变成可见,触发器变成实体。
-- 指定的 defender / hostile 队伍的玩家碰触发器来为自己队伍占点。死掉的玩家不能占点 (`DeathCap = false`)。
+- **占领点**会启动，并在世界中显示出来。
+- 指定 defender / hostile 队伍的玩家守住占领点，为自己的队伍得分。死亡玩家不能占点。
 - **计时:** 启用的点上是 300 秒。队伍占着的时候会累计分数。
-- **获胜门槛:** 1250 分,或者 OCG admin 输入 **`:cancelraid`**。
-- **HardpointUI** 显示两条进度条(Home / Away) + 公告框 + 分数 + 计时。
+- **获胜门槛:** 1250 分，或由 OCG 主持人取消 raid。
+- Raid UI 会显示双方进度、分数和剩余时间。
 
 如果你不是 OCG,你可以看但不能得分。POLIS / KPTD / BOMBA / KKM 不参加。
 

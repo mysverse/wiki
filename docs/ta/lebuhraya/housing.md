@@ -2,8 +2,8 @@
 title: வீடு
 description: Lebuhraya-வில் மனையை உரிமையாக்கி உங்கள் வீட்டைக் கட்டுங்கள்.
 lang: ta
-translated_from_hash: b6b29bc2
-translated_on: '2026-04-21'
+translated_from_hash: "9a15bc13"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # வீடு

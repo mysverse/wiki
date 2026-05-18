@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வின் ஒவ்வொரு கேம்பாஸ் விளக்கம் — Taxi Driver, Firearms Licence, HCC,
   Car Radio, மற்றும் பல.
 lang: ta
-translated_from_hash: 983acf92
-translated_on: '2026-04-21'
+translated_from_hash: "a0e2692e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # கேம்பாஸ்கள்

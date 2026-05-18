@@ -2,8 +2,8 @@
 title: 通行证与加成
 description: Lebuhraya 的游戏通行证、XP 加成及 Premium 会员权益。
 lang: zh
-translated_from_hash: '90144865'
-translated_on: '2026-05-17'
+translated_from_hash: "bcab645c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 通行证与加成
@@ -180,9 +180,9 @@ Lebuhraya 运行 **Season Pass**——具有分级奖励的限时进度轨道。
 | 500,000 stud | 500k Badge |
 | 1,000,000 stud | 1m Badge |
 
-徽章随着你的距离计数器增加而由 server 权威颁发——你无需领取。
+徽章会随着你的距离计数器增加自动颁发——你无需领取。
 
-比赛胜利里程碑(1、10、50、100 次胜利;10、50 次完赛;10、100 次试练)也在内部追踪;这些的 Roblox 徽章 ID 可能会在未来更新中添加。
+比赛胜利里程碑也会被追踪，并可能在未来更新获得徽章。
 
 ## 即时 level developer products
 

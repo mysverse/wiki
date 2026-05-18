@@ -4,8 +4,8 @@ description: >-
   10 minit pertama anda di Lebuhraya — hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: 271bfa19
-translated_on: '2026-05-17'
+translated_from_hash: "4fb4c2ec"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Mula

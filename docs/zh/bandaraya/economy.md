@@ -2,8 +2,8 @@
 title: 经济
 description: Bandar Ringgit（BR）经济体系介绍 — 赚钱、银行操作、转账 BR 以及开发者商品。
 lang: zh
-translated_from_hash: ae4fab89
-translated_on: '2026-04-21'
+translated_from_hash: "66e475d0"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 经济

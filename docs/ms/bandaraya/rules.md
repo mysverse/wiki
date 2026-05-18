@@ -4,15 +4,15 @@ description: >-
   Kelakuan yang boleh menyebabkan anda dilarang di Bandaraya, dan cara membuat
   rayuan.
 lang: ms
-translated_from_hash: d3008d61
-translated_on: '2026-05-17'
+translated_from_hash: "7b2c24f8"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Peraturan
 
 Bandaraya ialah permainan roleplay. Ada peraturan. Bacanya. Ikutinya. Anda akan diharamkan (banned) jika tidak.
 
-Teks peraturan rasmi terletak dalam permainan (`infoModules.GameRules`) dan dicerminkan dalam `docs/game-rules.md` wiki sumber. Halaman ini ialah ringkasan yang mesra pemain.
+Halaman ini ialah ringkasan mesra pemain bagi peraturan dalam permainan.
 
 ## TL;DR
 
@@ -125,13 +125,13 @@ Ini bukan peraturan rasmi, tetapi ia memastikan permainan kekal menyeronokkan:
 
 ## Rujukan Kanun Keseksaan
 
-Selain peraturan pemain, roleplay POLIS dan kehakiman dalam permainan merujuk kepada **Laws of Malaysia, Penal Code (Act 574)** — rujukan 2,380 baris undang-undang jenayah Malaysia sebenar yang disertakan bersama permainan. Pegawai boleh memetik nombor seksyen (contohnya "Section 302 — Punishment for murder") dalam rekod tangkapan. Ini untuk warna roleplay dan tidak menambah kesalahan boleh ban baharu selain yang disenaraikan di atas.
+Selain peraturan pemain, roleplay POLIS dan kehakiman dalam permainan merujuk kepada **MYSverse Penal Code** — panduan undang-undang jenayah dalam dunia MYSverse sepanjang 2,380 baris yang disertakan bersama permainan. Pegawai boleh memetik nombor seksyen (contohnya "Section 302 — Punishment for murder") dalam rekod tangkapan. Ini untuk warna roleplay dan tidak menambah kesalahan boleh ban baharu selain yang disenaraikan di atas.
 
 ## Rayuan
 
 Mana-mana ban, kekal atau sementara, boleh dirayu.
 
-1. Sertai **server komuniti Malaysia**.
+1. Sertai **server komuniti MYSverse**.
 2. Hubungi moderator atau pentadbir.
 3. Rayuan diproses melalui **server Moderasi**.
 

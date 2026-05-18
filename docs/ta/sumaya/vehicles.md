@@ -4,8 +4,8 @@ description: >-
   Sumaya-வில் கார்கள், படகுகள், ஆம்புலன்ஸ்கள், ஸ்பானர்கள், மற்றும்
   தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: 61c50e55
-translated_on: '2026-05-17'
+translated_from_hash: "1d782519"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -76,7 +76,7 @@ Sumaya-வில் ஒரு பெரிய வாகனப் பட்டி
 
 ## Shop-இல் Vehicle packs
 
-Shop இப்போது வரவிருக்கும் vehicle packs-க்கு placeholder cards கொண்டுள்ளது:
+Shop இப்போது வரவிருக்கும் vehicle packs-ஐ preview செய்கிறது:
 
 - **Premium EV Vehicles**
 - **Premium Sports Vehicles**

@@ -7,7 +7,7 @@ description: "Start playing Sumaya — main menu, team pick, controls, and the f
 
 Your first few minutes in Sumaya. This page covers the main menu, team selection, controls, and the first things you should do once you're in the world.
 
-## The main menu
+## The Main Menu
 
 When you join Sumaya, you'll see a main menu screen before you spawn. From here you pick a **team**, which decides what role you play - a regular civilian, a cop, a firefighter, or a paramedic. The team you pick affects the tools you start with and the jobs you can do.
 
@@ -17,7 +17,7 @@ When you're ready, hit **Jom** ("let's go" in Malay) to drop into the world.
 
 During loading or team changes, Sumaya may show a black loading overlay with rotating Malaysia facts. It fades automatically once the game is ready.
 
-## Picking a team
+## Picking a Team
 
 There are five teams. Three of them (POLIS, BOMBA, Kesihatan) are emergency services with specific duties. The other two (Visitors and Malaysians) let you play as a regular person.
 
@@ -33,7 +33,7 @@ See [Teams](/sumaya/teams) for more detail on each one, including what tools you
 
 **Not sure which to pick?** Start as **Visitors**. You can try civilian jobs (fishing, mamak, palm oil) or short gig work right away, and you can switch to an emergency service team later once you've had a look around.
 
-## Your starting money
+## Your Starting Money
 
 Every new player begins with:
 
@@ -57,29 +57,29 @@ Sumaya uses standard Roblox movement. On PC:
 
 On mobile and gamepad, the on-screen buttons and standard Roblox gamepad bindings work as expected.
 
-## Your first five minutes
+## Your First Five Minutes
 
 Here's what to do right after you spawn:
 
-### 1. Open your phone
+### 1. Open Your Phone
 
 The phone is your main hub. Tap the phone icon on your screen to open it. You'll see apps for careers, quests, emergency calls, settings, and more. See [Phone and UI](/sumaya/phone) for the full list.
 
 Opening the phone also counts as a step for your first quest.
 
-### 2. Check the quest app
+### 2. Check the Quest App
 
 You're automatically started on the **Welcome to Sumaya** quest chain: 12 quests that teach you the basics and pay out XP and Ringgit as you go. Each quest tells you exactly what to do next.
 
 Open the **Quest** app on your phone to see your current objective. A red guidance beam and a marker on the minimap will often point you to the right place. See [Quests](/sumaya/quests) for the full chain.
 
-### 3. Spawn a vehicle
+### 3. Spawn a Vehicle
 
-Walk up to any **vehicle spawner kiosk** (look for the prompts scattered around town). Pick a car, rent or buy it, and drive off. The free starter cars are **Perosatu Axia** and **Protan Wira**; the rest of the standard civilian catalog costs Ringgit to rent or buy.
+Walk up to any **vehicle spawner kiosk** (look for the prompts scattered around town). Pick a car, rent or buy it, and drive off. The free starter cars are **Perosatu Axia** and **Protan Wira**; the rest of the standard civilian catalogue costs Ringgit to rent or buy.
 
 See [Vehicles](/sumaya/vehicles) for the full list and how the spawner works.
 
-### 4. Start a civilian job
+### 4. Start a Civilian Job
 
 Walk up to any **career station** (fishing dock, mamak stall, palm plantation) and press the interact prompt to clock in. You can also take short gig jobs when they are available, such as E-Hailing, parcel delivery, towing, reporting, tour guiding, and restaurant supply runs. You'll earn Ringgit and XP while you work. Jobs are described in [Careers overview](/sumaya/jobs).
 
@@ -91,7 +91,7 @@ Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the p
 
 Some world props are interactive even when they are not part of a quest. Fishing-area travel pads can move you between land and the pontoon, and some coffee makers let you brew and take coffee.
 
-## HUD overview
+## HUD Overview
 
 While you're in the world, you'll see:
 
@@ -107,7 +107,7 @@ Hold **Left Shift** or **Left Control** to sprint. Walk speed is 10 studs/s; spr
 
 Sprint toggles off automatically when you enter a vehicle seat.
 
-## What next?
+## What Next?
 
 - Pick a [team](/sumaya/teams) and a [career](/sumaya/jobs).
 - Read up on the [phone and UI](/sumaya/phone) so you know where things are.

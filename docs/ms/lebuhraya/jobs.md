@@ -4,8 +4,8 @@ description: >-
   Setiap kerja di Lebuhraya — disusun mengikut agensi (Pengangkutan dan banyak
   lagi) dengan kadar gaji.
 lang: ms
-translated_from_hash: c6e58d53
-translated_on: '2026-05-17'
+translated_from_hash: "b9e89212"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Kerjaya
@@ -51,7 +51,7 @@ Buka **Main Menu -> Activity** untuk menjejak missions/challenges, dan **Main Me
 
 **Ganjaran**:
 - **XP** berskala mengikut jarak: kira-kira **0.11 hingga 0.13 XP per stud**. Tambang sejauh 4000 stud membayar 440–520 XP.
-- Pembayaran BR dirancang (menurut audit ekonomi, laluan panggilan wujud tetapi belum kelihatan kepada pengguna).
+- Pembayaran BR dirancang untuk kemas kini akan datang.
 
 **Laluan**: Pickup dan dropoff kini diambil daripada 4 pickup point dan 4 dropoff point dalam bandar — laluan akan berulang dari masa ke masa sehingga lebih banyak ditambah.
 
@@ -63,7 +63,7 @@ Buka **Main Menu -> Activity** untuk menjejak missions/challenges, dan **Main Me
 
 **Cara memulakan**: Sertai pasukan Bus Driver. Gunakan spawner kenderaan Bus Driver / bas dan mulakan laluan dari **Depoh Bas** di Bandar Seri Putra.
 
-**Apa yang anda lakukan**: Pandu laluan bas yang tetap, berhenti di perhentian bas yang ditetapkan untuk mengambil dan menurunkan penumpang NPC. Laluan penuh membayar XP (pembayaran BR dirancang tetapi belum disambungkan — lihat *Economy and XP*).
+**Apa yang anda lakukan**: Pandu laluan bas yang tetap, berhenti di perhentian bas yang ditetapkan untuk mengambil dan menurunkan penumpang NPC. Laluan penuh membayar XP; pembayaran BR dirancang untuk kemas kini akan datang.
 
 **Kenderaan**: Bas — Intero Citie, TKL_K230UB, TKL_Harimau Evo, varian Tayoti Hiace Passenger/Transport.
 
@@ -100,7 +100,7 @@ Buka **Main Menu -> Activity** untuk menjejak missions/challenges, dan **Main Me
 3. Pandu ke lokasi pelanggan pada waypoint anda.
 4. Berinteraksi dengan NPC pelanggan untuk menyerahkan pesanan.
 
-**Ganjaran**: **250 XP tetap** setiap penghantaran. Teks lama mungkin menyebut BR, tetapi laluan payout aktif kini mendaratkan XP; jumlah BR-facing patut dianggap sebagai kerja ekonomi yang dirancang sehingga laluan pendapatan BR diaktifkan untuk kerja ini.
+**Ganjaran**: **250 XP tetap** setiap penghantaran. Jika teks lama dalam permainan menyebut BR, anggap ia sebagai wording ekonomi masa depan buat masa ini.
 
 **Kenderaan**: Apa-apa sahaja. Motosikal (Handai EX5) selalunya paling laju untuk jalan berliku.
 
@@ -112,7 +112,7 @@ Buka **Main Menu -> Activity** untuk menjejak missions/challenges, dan **Main Me
 
 **Apa yang anda lakukan**: Kumpul bungkusan dari peti pos di salah satu daripada empat zon pos (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), proseskannya, dan hantar ke alamat peti surat yang ditandakan.
 
-**Ganjaran**: **25 XP setiap bungkusan** serta pembilang "Money" dalam kerja yang bertambah dengan setiap penghantaran. Nilai Money disimpan dalam rekod simpanan Post Office sendiri — ia **bukan** baki BR biasa anda (yang mana sistem mata wang tidak menggunakannya secara aktif buat masa ini). Kerja ini mempunyai sistem level dalamannya sendiri, berasingan daripada level pemain utama anda:
+**Ganjaran**: **25 XP setiap bungkusan** serta pembilang "Money" khusus kerja yang bertambah dengan setiap penghantaran. Pembilang itu **bukan** baki BR biasa anda. Kerja ini juga mempunyai sistem level sendiri, berasingan daripada level pemain utama anda:
 
 - Level Post Office maksimum: **20**
 - XP setiap level Post Office: `100 × level` (jadi Level 1 perlukan 100 XP, Level 20 perlukan 2,000 XP)
@@ -276,7 +276,7 @@ Pemain Polis Trafik boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 
 **Cara memulakan**: Sertai pasukan APJ.
 
-**Apa yang anda lakukan**: Agensi Pengangkutan Jalan — setara dengan Jabatan Pengangkutan Jalan Malaysia. Periksa kenderaan, kuatkuasakan peraturan pengangkutan jalan, selaraskan dengan pihak polis.
+**Apa yang anda lakukan**: Agensi Pengangkutan Jalan — setara dengan agensi pengangkutan jalan MYSverse. Periksa kenderaan, kuatkuasakan peraturan pengangkutan jalan, selaraskan dengan pihak polis.
 
 **Tool**: Torchlight, Placeables SCone.
 
@@ -373,7 +373,7 @@ Aktiviti-aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians**
 
 **Jarak lemparan**: sehingga 80 stud dari tempat anda berdiri.
 
-**Menjual**: Ikan dijual di zon kedai pelabuhan memancing. Ganjaran ialah **XP sahaja** — laluan ganjaran BR belum dilaksanakan (setiap ikan mempunyai `BR=0` dalam konfigurasi ganjarannya). Tangkapan jarang membayar jauh lebih banyak XP daripada ikan biasa.
+**Menjual**: Ikan dijual di zon kedai pelabuhan memancing. Ganjaran ialah **XP sahaja** buat masa ini. Tangkapan jarang membayar jauh lebih banyak XP daripada ikan biasa.
 
 ### Checkout
 
@@ -387,7 +387,7 @@ Aktiviti-aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians**
 
 **Ganjaran**: Rawak **3–8 XP setiap pelanggan yang dilayan**, dikira pada akhir syif anda. Bukan kadar tertinggi per minit, tetapi cara bermain yang sosial dan bertekanan rendah serta dapat melihat wajah yang dikenali.
 
-**Perhatian**: Ganjaran adalah XP sahaja — cabang ganjaran BR belum dilaksanakan lagi.
+**Perhatian**: Ganjaran adalah XP sahaja buat masa ini; ganjaran BR dirancang untuk kemas kini ekonomi akan datang.
 
 ---
 
@@ -416,7 +416,7 @@ Pengganda kesukaran: **Easy 1.0×, Medium 1.5×, Hard 2.0×** — jadi kedudukan
 
 Personal Best mendapat tambahan **+25% XP** dan **bonus tetap +50 BR**.
 
-**Trek**: Pada masa ini permainan mempunyai satu trek aktif — **Test Sprint** — gelung pembuktian ringkas 3 checkpoint, 1 pusingan pada kesukaran Easy, terbuka kepada kenderaan kelas Civ pada mana-mana level. Pembayaran asas: 1,500 XP / 300 BR. PB kedudukan pertama baharu dalam PvP memberikan **3,750 XP dan 650 BR**; PB Time Trial solo memberikan **1,875 XP dan 350 BR**. Sistem ini menyokong sehingga 8 pemain lobi per perlumbaan (TestSprint dihadkan kepada 6 melalui atribut trek), lobi pra-perlumbaan 30 saat, kira detik mula 5 saat, tamat masa akhir 60 saat selepas pemain pertama menamatkan.
+**Trek**: Pada masa ini permainan mempunyai satu trek aktif — **Test Sprint** — gelung pembuktian ringkas 3 checkpoint, 1 pusingan pada kesukaran Easy, terbuka kepada kenderaan kelas Civ pada mana-mana level. Pembayaran asas: 1,500 XP / 300 BR. PB kedudukan pertama baharu dalam PvP memberikan **3,750 XP dan 650 BR**; PB Time Trial solo memberikan **1,875 XP dan 350 BR**. Test Sprint menyokong sehingga 6 pelumba, dengan lobi pra-perlumbaan 30 saat, kira detik mula 5 saat, dan tamat masa akhir 60 saat selepas pemain pertama menamatkan.
 
 POI "Jersik Race Track" ialah lokasi dalam dunia permainan di mana perlumbaan berlangsung.
 

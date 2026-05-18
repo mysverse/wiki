@@ -4,8 +4,8 @@ description: >-
   Bandaraya முழுவதும் உள்ள சிறப்புத் தலங்கள், கட்டிடங்கள், தெருக்கள்,
   நிலையங்கள், மருத்துவமனைகள், மற்றும் கடைகள்.
 lang: ta
-translated_from_hash: c84a59b5
-translated_on: '2026-05-17'
+translated_from_hash: "1fc23133"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # வரைபடம் & இடங்கள்
@@ -137,7 +137,7 @@ Bandaraya-வின் Kuala Lumpur பகுதியில் எது எங
 - **Roads** — markings உடன் முழு road network
 - **Traffic Lights** — auto மற்றும் manual controls உடன் 4-way மற்றும் 3-way
 - **RoadSigns** — signage
-- **Streetlights** — 2-way DBKL streetlight models
+- **Streetlights** — 2-way Bandaraya streetlight models
 - **Bus lanes** Jalan Ampang sepanjang
 - **Bike lanes** Jalan Ampang sepanjang
 

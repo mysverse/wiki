@@ -2,8 +2,8 @@
 title: 社交功能
 description: Lebuhraya 的车队、999 紧急呼叫及游戏内手机功能。
 lang: zh
-translated_from_hash: f4d91280
-translated_on: '2026-05-17'
+translated_from_hash: "4c6589bb"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 社交功能
@@ -169,16 +169,16 @@ YYMMDD-PB-XXXX
 ```
 
 - **YYMMDD** — 你的 Roblox 账号加入日期（年、月、日）。
-- **PB** — 出生地代码。多数玩家默认为 **14**（Wilayah Persekutuan / Federal Territory — Kuala Lumpur）；专用 ID（Kad Polis、KKM、JBPM、SJAM、PHG、MKT）使用不同代码。
-- **XXXX** — 你的 Roblox UserId 后四位。
+- **PB** — 玩家来源代码。多数玩家默认为 **14**（MYSverse KL 区域）；专用 ID（Kad Polis、KKM、BOMBA、SJAM、PHG、MKT）使用不同代码。
+- **XXXX** — 你的 Roblox 账号 ID 后四位。
 
-因此，如果你在 2020 年 3 月 15 日加入 Roblox，UserId 为 123456789，你的 IC 会是 **200315-14-6789**。每次游玩你的 IC 都一致，不会改变。
+因此，如果你在 2020 年 3 月 15 日加入 Roblox，并且账号 ID 以 6789 结尾，你的 IC 会是 **200315-14-6789**。每次游玩你的 IC 都一致，不会改变。
 
 特殊身份证（执法用 Kad Polis、医疗用 KKM 等）会根据你的队伍自动发放。使用 `/me show IC` 或与 roleplay NPC 互动即可出示。
 
 ## 驾驶执照
 
-每位玩家都会在背包中获得一个作为 Tool 的 **Driving Licence**。执照号码根据您帐户加入日期和 UserId 的最后四位数生成,因此每位玩家都是独一无二的,并且在不同会话中保持一致。
+每位玩家都会在背包中获得一个 **Driving Licence** tool。执照号码根据你的账号加入日期和 Roblox 账号 ID 后四位生成，因此每位玩家都是独一无二的，并且在不同会话中保持一致。
 
 **APJ 官员**可以吊销玩家的执照若干分钟。被吊销的玩家会看到横幅:*"APJ: Your driver licence has been suspended for X minutes."* 吊销会自动解除,或者可以由 APJ 成员提前撤销。
 
@@ -200,7 +200,7 @@ YYMMDD-PB-XXXX
 - Season Pass 等级奖励
 - 促销活动
 - 有时与 gamepass 捆绑
-- Admin 授予（在 private server 中，server owner 可使用 debug commands，把任意 token 以任意时长授予任意玩家）
+- 由 private server owner 在 event 或 roleplay session 中授予
 
 ### 如何使用 token
 

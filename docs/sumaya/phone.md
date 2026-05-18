@@ -7,27 +7,27 @@ description: "The 12 phone apps, HUD, and minimap in Sumaya."
 
 Your phone is your hub for almost everything in Sumaya: jobs, quests, emergency calls, settings, and more. This page covers every app, plus the rest of the in-game HUD (minimap, task card, chat).
 
-## Opening the phone
+## Opening the Phone
 
 Tap the phone icon on your screen. The phone slides up and shows a grid of apps. You can have it open while walking and driving.
 
 To close it, tap outside the phone or use the close button.
 
-## Loading and transition overlays
+## Loading and Transition Overlays
 
 When you join, respawn, or move through the main menu, Sumaya may show a loading overlay with the logo and rotating Malaysia facts. This is normal transition UI; it fades when the menu or character state is ready.
 
-## Phone apps
+## Phone Apps
 
-Sumaya has **14 app entries** plus a phone-home launcher (called `PhoneUI` internally). Some apps only show when they make sense: Emergency999 needs your character to be spawned, MDT is for emergency-service teams, and DevTools is developer-only.
+Sumaya's phone has **14 apps** plus the home screen. Some apps only appear when they are useful: Emergency999 appears after your character spawns, and MDT is for emergency-service teams.
 
 ### Settings
 
-Customize your phone's look:
+Customise your phone's look:
 
-- **Phone color** - the device chassis.
-- **Casing color** - inside trim.
-- **Wallpaper** - gradient (customizable colors), solid, or custom image.
+- **Phone colour** - the device chassis.
+- **Casing colour** - inside trim.
+- **Wallpaper** - gradient (customisable colours), solid, or custom image.
 
 ### Camera
 
@@ -110,18 +110,18 @@ View your current quest chain progress:
 
 The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
-### Jelajah (Discovery journal)
+### Jelajah (Discovery Journal)
 
 Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
 
 - A progress pill at the top — `<discovered> / <total> ditemui` ("found").
 - Filters: **Semua** (all), **Ditemui** (discovered), **Belum** (not yet).
-- A scrollable list of cards. Discovered POIs show a colored category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
+- A scrollable list of cards. Discovered POIs show a coloured category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
 - Tap a card for the detail screen — full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
 
-When you walk into a tagged POI for the first time, the app surfaces a `Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
+When you visit a POI for the first time, the app surfaces a `Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
 
-POIs are an in-progress feature. The live build defines **Menara Jam**, **Pasar Sumaya**, and **Pantai Sumaya**, but the world currently has no `SumayaPOI` trigger parts tagged. If those landmarks do not unlock while you visit them, it is a content-placement gap, not something you are doing wrong.
+POIs are still being rolled out. If a landmark does not unlock while you visit it, you are not doing anything wrong; try another landmark and check back after future updates.
 
 ### Emergency999
 
@@ -142,33 +142,27 @@ Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT i
 
 - **Calls tab** - active 999 calls. See who's calling, where, and why. Set a waypoint or mark a call as responded.
 - **Wanted tab** (POLIS only) - list of currently-wanted suspects with star levels and offence counts. Tap to set a waypoint.
-- **Plate checker** (POLIS only) - look up a license plate to see the registered owner and whether the vehicle is stolen.
+- **Plate checker** (POLIS only) - look up a number plate to see the registered owner and whether the vehicle is stolen.
 
 See [Polis](/sumaya/polis) for more on the MDT.
 
-### DevTools
-
-Developer-only debugging app. You won't see it as a regular player. Ignore.
-
-For authorised testers, DevTools now includes backend checks for monetization placeholders: entitlement catalog/overrides, cash-product simulation, vehicle pack ownership, radio scaffold state, and POLIS specialization testing.
-
-### PhoneUI (home launcher)
+### Home Screen
 
 The main phone home screen with the app grid. Not a separate app you launch.
 
-## The minimap
+## The Minimap
 
 In the top-right corner, you'll see a minimap showing the area around you.
 
-### What the minimap shows
+### What the Minimap Shows
 
-- **Your position** (the arrow at the center).
+- **Your position** (the arrow at the centre).
 - **Roads and buildings** around you.
 - **Points of interest** (POIs): hospital, police station, fire station, vehicle spawners, shops, career stations.
 - **Waypoints** you've placed or that have been set by the game (quest markers, MDT calls).
 - **Other players** and NPCs may appear as dots depending on context.
 
-### Expanding the minimap
+### Expanding the Minimap
 
 Click the minimap (or press the expand button) to open the **full-screen map**. You can:
 
@@ -176,24 +170,24 @@ Click the minimap (or press the expand button) to open the **full-screen map**. 
 - Pan around to see other parts of Sumaya.
 - Hit **F** to **fit all your waypoints** into view at once.
 
-### Custom waypoints
+### Custom Waypoints
 
 In the full-screen map:
 
 - **Long-press** (about 0.5 seconds) on a location to drop a custom waypoint.
-- **Right-click** an existing waypoint for a context menu (rename, change color, delete).
+- **Right-click** an existing waypoint for a context menu (rename, change colour, delete).
 - Your waypoints **persist across sessions**.
 
-Custom waypoints are great for marking your favorite fishing spot, your friend's house, or where you parked your trawler.
+Custom waypoints are great for marking your favourite fishing spot, your friend's house, or where you parked your trawler.
 
-### The guidance beam
+### The Guidance Beam
 
-You'll often see a **colored beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colors are consistent:
+You'll often see a **coloured beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colours are consistent:
 
 - Red (bright): quest markers, important objectives.
-- Other colors: custom waypoints in their chosen color.
+- Other colours: custom waypoints in their chosen colour.
 
-## The task card
+## The Task Card
 
 In the top-left corner, you'll often see a **task card** - a small panel that describes your current objective. It might show:
 
@@ -202,17 +196,17 @@ In the top-left corner, you'll often see a **task card** - a small panel that de
 - A patient you're treating.
 - A carjacking drop-off zone.
 
-### Collapsing the task card
+### Collapsing the Task Card
 
 On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
 
-## Gig minigame panels
+## Gig Minigame Panels
 
 Some gig jobs open a small interaction panel for paperwork, choices, sequence checks, or timing checks. These panels fade in and out, scale to phone/tablet/desktop screens, and may briefly focus the camera on the relevant passenger, parcel, vehicle, scene, or route marker.
 
 If you die, switch teams, leave the job, or the objective disappears, the panel and camera focus clean up automatically.
 
-## Status widget (top-right)
+## Status Widget (Top-Right)
 
 Below the minimap, the **StatusGui** widget shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
 
@@ -221,7 +215,7 @@ Below the minimap, the **StatusGui** widget shows your **Citizen level** and (wh
 
 The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks — it's automatic.
 
-## TopBar icons
+## TopBar Icons
 
 Roblox's TopBar at the top-centre of the screen shows a row of small Sumaya icons. From left to right:
 
@@ -238,13 +232,13 @@ Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a me
 
 Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
 
-### Public Services channel
+### Public Services Channel
 
 If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
 
 Your access auto-updates when you switch teams.
 
-## Banner notifications
+## Banner Notifications
 
 You'll see slide-in banner notifications for:
 
@@ -256,7 +250,7 @@ You'll see slide-in banner notifications for:
 
 Banners auto-dismiss after a few seconds.
 
-## Wallet / bank display
+## Wallet / Bank Display
 
 Your current Ringgit balance is shown in a small HUD near the top of the screen. Open the full wallet details via the phone or the ATM. See [Economy](/sumaya/economy).
 
@@ -270,7 +264,7 @@ Your current Ringgit balance is shown in a small HUD near the top of the screen.
 - **Collapse the task card when driving mobile.** The extra screen real-estate matters on small screens.
 - **Profile app for flex.** Your ranks show here. Screenshot-worthy once you hit high-tier ranks.
 
-## What next?
+## What Next?
 
 - [Quests](/sumaya/quests) for the discovery chain you'll see in the Quest app.
 - [Polis](/sumaya/polis) for MDT details.

@@ -1,9 +1,9 @@
 ---
 title: 紧急服务
-description: PDRM、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。
+description: POLIS、BOMBA、KKM、SJAM、RELA、MAF 和 KPTD — Bandaraya 的紧急与安保服务。
 lang: zh
-translated_from_hash: beab5c89
-translated_on: '2026-04-21'
+translated_from_hash: "ae08e195"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 紧急服务
@@ -73,7 +73,7 @@ POLIS 拥有最大的车队:
 
 ### 直升机
 
-POLIS 拥有 **PDRMHeliSpawner** — 空中警务。从警局 ViewportFrame 选择器 spawn。
+POLIS 可以使用警局直升机进行空中巡逻。在可用时，打开警局车辆选择器并选择直升机。
 
 ### 期望
 
@@ -129,7 +129,7 @@ POLIS 拥有 **PDRMHeliSpawner** — 空中警务。从警局 ViewportFrame 选�
 - **需要 BOMBA 在线**:如果所有 BOMBA 在事件中途离开值班,火灾会自动被清除。
 - **后加入者**:如果您在事件中途切换到 BOMBA,您的客户端会向 server 询问当前状态,地图图钉会立即显示。
 - **地图上有 5 个消防栓** — 策略性地定位自己。
-- **Auto-sign** — 加入 BOMBA 会自动为您打卡进行值班追踪(每个 session 一个 Discord webhook)。
+- **Auto-sign** — 加入 BOMBA 会自动为您打卡进行值班追踪。
 
 ---
 

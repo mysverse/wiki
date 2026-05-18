@@ -7,7 +7,7 @@ description: "Every control in Lebuhraya — keyboard, gamepad, mobile, and VR i
 
 Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game — if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
 
-## Entering and exiting vehicles
+## Entering and Exiting Vehicles
 
 Stand within about **6 studs** of a driver or passenger seat.
 
@@ -20,7 +20,7 @@ Stand within about **6 studs** of a driver or passenger seat.
 
 The same input exits the seat.
 
-### Seat permissions
+### Seat Permissions
 
 Driver seats are usually locked to the vehicle's owner. If you try to sit in someone else's car, you'll be blocked unless they've unlocked it for you.
 
@@ -40,7 +40,7 @@ Driving uses the A-Chassis system. Defaults:
 
 > Vehicle lighting controls vary between the older and newer chassis systems in the game. Always follow the on-screen prompts for the specific vehicle you're in.
 
-## Walking around
+## Walking Around
 
 Standard Roblox controls.
 
@@ -63,7 +63,7 @@ Standard Roblox controls.
 | Close any popup | **Esc** or **Backspace** | Tap close/back | **B** / back button where shown |
 | Confirm focused button | Click / Enter where focused | Tap | **A** |
 
-### Proximity prompts
+### Proximity Prompts
 
 Most world interactions use Roblox ProximityPrompts: spawners, doors, job counters, fuel pumps, repair zones, tow panels, and shop counters.
 
@@ -71,7 +71,7 @@ Most world interactions use Roblox ProximityPrompts: spawners, doors, job counte
 - Hold the shown key/button until the circle completes if it has a hold duration.
 - If the prompt says you are on the wrong team or at the wrong fuel pump type, the prompt is working; follow the warning.
 
-### Main Menu tabs
+### Main Menu Tabs
 
 Open the Main Menu to access:
 
@@ -87,9 +87,9 @@ Open the Main Menu to access:
   - **Races** — time trial and PvP race menu
   - **Help** — tutorials when available
 
-The old Career/Tokens/Credits/Help tabs still exist internally, but players reach them through **More**.
+Career, tokens, credits, and help pages are grouped under **More**.
 
-### Settings you can tweak
+### Settings You Can Tweak
 
 Open the Settings panel (cogwheel in the Main Menu) for these toggles:
 
@@ -101,17 +101,17 @@ Open the Settings panel (cogwheel in the Main Menu) for these toggles:
 - **Shift + C** — toggle the entire HUD (good for screenshots).
 - Reset / Change / Remove — repositioning and customisation shortcuts.
 
-### Top HUD indicators
+### Top HUD Indicators
 
 - **ActiveTokensHUD** — shows every currently-active token (2× XP Boost, Season Pass Boost, Team Access Pass) with remaining time in `M:SS` format. Tokens auto-hide when expired.
 - **StatusGui** — speedometer, fuel, GPS heading, and player vitals.
 - **Leaderboard** — tap to see all online players, their team, level, and studs driven. You can tap a row to send a friend request or block from the same panel.
 
-## Tools (jobs equipment)
+## Tools (Jobs Equipment)
 
 When you hold a tool — axe, radar gun, taser, pager, fire hose — the controls are specific to that tool. Use the on-screen prompts or check the job page for the team that uses it.
 
-## Mobile tips
+## Mobile Tips
 
 - The game respects mobile layout; driving on a phone works but is easier on a tablet.
 - Most ProximityPrompts (enter doors, talk to NPCs, start jobs) show a round button on screen. Tap it.
@@ -119,7 +119,7 @@ When you hold a tool — axe, radar gun, taser, pager, fire hose — the control
 - Avoid holding the bottom corners for non-driving UI; Roblox's movement stick and jump button live there.
 - If a card grid or menu feels crowded, rotate the device to landscape. The Main Menu's More and Teams views are designed to fit short landscape screens.
 
-## Gamepad tips
+## Gamepad Tips
 
 - Menu buttons are selectable. If focus seems lost, close and reopen the menu so the game can select the first button again.
 - Use the D-pad/left stick to move between cards, **A** to confirm, and **B** to back out where the UI shows a back or close action.
@@ -128,9 +128,9 @@ When you hold a tool — axe, radar gun, taser, pager, fire hose — the control
 ## Accessibility
 
 - Roblox's system-wide settings apply — colourblind filters, UI scaling, text-to-speech.
-- Passive mode can be toggled to prevent tool and weapon interactions (your `Passive` player attribute). Useful if you don't want to be pulled into combat or emergency roleplay.
+- Passive mode can be toggled to prevent tool and weapon interactions. Useful if you don't want to be pulled into combat or emergency roleplay.
 
-## Next steps
+## Next Steps
 
 - [Economy and XP](/lebuhraya/economy) — How driving turns into levels
 - [Vehicles](/lebuhraya/vehicles) — Spawn menu, ownership, fuel

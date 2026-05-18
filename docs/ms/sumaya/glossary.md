@@ -2,8 +2,8 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: db93a1f9
-translated_on: '2026-05-17'
+translated_from_hash: "c9c4ac51"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -97,7 +97,6 @@ Untuk Polis, singkatan adalah berdasarkan inisial pangkat MYSverse Police (POLIS
 | **Team** | Peranan anda (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
 | **Sector** | Jenis pekerjaan: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
 | **Rank** | Tajuk prestij anda dalam satu sektor (cth. "Fire Officer"). Hanya kosmetik. |
-| **Token** | Nama dalaman untuk sektor (cth. "Token_Bomba"). Anda jarang melihatnya dalam permainan. |
 | **Plot** | Sekeping tanah dalam kejiranan di mana anda boleh membina rumah. Satu per pemain. |
 | **Tier** (rumah) | Tahap kualiti rumah: Tier 1 (murah), Tier 2 (sederhana), Tier 3 (premium). |
 | **Tier** (bot tunda) | Kualiti bot menangkap ikan: Tier 1 (percuma), Tier 2 (25k), Tier 3 (37k). |

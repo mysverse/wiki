@@ -5,62 +5,51 @@ description: "Every Bandaraya gamepass explained — Taxi Driver, Firearms Licen
 
 # Gamepasses
 
-Gamepasses are one-time Robux purchases that unlock a feature, team, or perk forever on your account. Four exist.
+Gamepasses are one-time Robux purchases. They unlock a feature, job access, or perk permanently on your Roblox account.
 
-## TL;DR
+## Quick List
 
-- **Taxi Driver (150 R$)** — cheap, good if you want to do the taxi job.
-- **Car Radio (100 R$)** — cheapest, pure vibes.
-- **Firearms Licence (1,250 R$)** — unlocks the gun shop. Only if you want to shoot.
-- **High Class Citizen (3,000 R$)** — priciest, best if you play a lot (income boost + luxury cars).
-
----
-
-## Full list
-
-| Gamepass | Robux | What it does |
+| Gamepass | Price | What it gives |
 | --- | --- | --- |
-| **Car Radio** | R$ 100 | Play music through your vehicle's radio while driving. Separate from team radio (which is free + uses TextChatService with voice STT/TTS). |
-| **Firearms Licence** | R$ 1,250 | Unlocks **Ammulaysia** (the licensed gun dealer). Civilian firearms are otherwise inaccessible. |
-| **High Class Citizen (HCC)** | R$ 3,000 | Increased BR income, access to luxury cars (BMW i7, Volvo XC90, Mercedes C300), HCC team membership. |
-| **Taxi Driver** | R$ 150 | Drive taxis and earn per trip without needing a Taxi Services group. Lets you join the Taxi Services team. |
+| **Car Radio** | R$ 100 | Play music through your vehicle radio. |
+| **Taxi Driver** | R$ 150 | Join Taxi Services and earn from taxi jobs without needing a taxi group. |
+| **Firearms Licence** | R$ 1,250 | Buy firearms from Ammulaysia. |
+| **High Class Citizen (HCC)** | R$ 3,000 | HCC team access, increased income, and luxury vehicle access. |
 
----
+## Which Should I Buy First?
 
-## Which to buy first
+### I Just Want Extra Atmosphere
 
-### "I want to chill and drive"
-**Car Radio.** 100 R$ gets you music everywhere. Cheapest and most universally useful.
+Buy **Car Radio**. It is the cheapest pass and works well if you spend a lot of time driving.
 
-### "I want to earn money"
-**Taxi Driver** (150 R$) — instant job access, low friction. Pair with Car Radio for maximum vibe.
+### I Want to Earn BR
 
-### "I want to roleplay with guns"
-**Firearms Licence** (1,250 R$). The only civilian way to a weapon — **unless** you're on a team that gets them issued (POLIS, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Be aware shops have a **5-minute cooldown** between purchases.
+Buy **Taxi Driver** if you enjoy picking up passengers and driving around the city. It is the lowest-cost job pass.
 
-### "I want to min-max"
-**High Class Citizen** (3,000 R$). Income boost that pays for itself if you play regularly. Comes with luxury vehicles and exclusive team access. If you only play casually, skip — the Robux is better spent on BR developer products.
+### I Want Civilian Firearms
 
-### "I want to play a lot"
-HCC first, then Taxi Driver for extra side income, then Car Radio for vibes. Firearms Licence only if combat roleplay is your thing.
+Buy **Firearms Licence**. It unlocks Ammulaysia, the legal gun dealer. Public-service and military teams may already receive team-issued weapons, so check your role first.
 
-## Gamepasses vs. developer products
+### I Play a Lot
 
-- **Gamepasses** are one-time, permanent unlocks.
-- **Developer products** (see [Economy](/bandaraya/economy#developer-products-buy-br-with-robux)) are consumable BR top-ups.
+Buy **High Class Citizen** if you want long-term income benefits, luxury vehicles, and the HCC team.
 
-If you want a specific expensive car once, a BR developer product is cheaper. If you want a perk that pays off across every session, buy a gamepass.
+## Gamepasses vs. BR Purchases
 
-## Tips & gotchas
+- **Gamepasses** are permanent.
+- **BR purchases** are one-time currency top-ups.
 
-- **Gamepasses can't be refunded** once purchased. Robux back takes >3 days from Roblox anyway.
-- **Check your account first.** You already own a gamepass? Don't pay twice.
-- **Team access is automatic.** The moment you own the Taxi Driver gamepass, the Taxi Services team appears in your team menu.
-- **HCC stacks with jobs.** If you do POS or Taxi with HCC, your per-delivery / per-trip earnings go up.
+If you want a permanent role or perk, buy a gamepass. If you only need money for one big purchase, a BR top-up may make more sense.
 
-## See also
+## Tips
 
-- [Economy](/bandaraya/economy) — full BR economy
-- [Teams](/bandaraya/teams#special-teams) — HCC and Taxi Services team details
-- [Jobs](/bandaraya/jobs) — POS, Taxi, Tow
-- [Combat & Health](/bandaraya/combat-and-health) — weapons
+- Check whether you already qualify through a group or team before buying.
+- Team access usually appears automatically after purchase.
+- HCC boosts job income, so it is more valuable if you play jobs often.
+
+## See Also
+
+- [Economy](/bandaraya/economy)
+- [Teams](/bandaraya/teams#special-teams)
+- [Jobs](/bandaraya/jobs)
+- [Combat & Health](/bandaraya/combat-and-health)

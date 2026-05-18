@@ -7,13 +7,13 @@ description: "Common questions and quick wins for new Lebuhraya players."
 
 Common questions, quality-of-life tips, and the things experienced players wish they'd known earlier.
 
-## Common questions
+## Common Questions
 
-### Why did my XP reset when I joined a test server?
+### Why Did My XP Reset When I Joined a Test Server?
 
 Test servers (including Studio playtests) reset XP to 0 on purpose, so developers can test features against a fresh account. The warning message "XP will be reset to 0" is normal. Your **live game progress is not affected** — it's only the test server that's disposable.
 
-### I can't open the vehicle spawner. Why?
+### I Can't Open the Vehicle Spawner. Why?
 
 A few possibilities:
 
@@ -24,11 +24,11 @@ A few possibilities:
 - You may be using a team-only spawner. Join the named team first.
 - If the issue persists, rejoin the server.
 
-### Is MyPod the vehicle spawner?
+### Is MyPod the Vehicle Spawner?
 
 No. **MyPod** is the music player. It has playback controls, volume, shuffle/repeat, favourites, a track list, and an auto-play-in-vehicle option. Vehicles are spawned from physical spawner pads/markers in the world.
 
-### The vehicle spawner opens, but my vehicle is locked or missing.
+### The Vehicle Spawner Opens, but My Vehicle Is Locked or Missing.
 
 Check the card and spawner type:
 
@@ -39,11 +39,11 @@ Check the card and spawner type:
 
 See [Vehicles -> Spawner troubleshooting](/lebuhraya/vehicles#spawner-troubleshooting).
 
-### Where did Career, Tokens, Credits, and Races go?
+### Where Did Career, Tokens, Credits, and Races Go?
 
 They are under **Main Menu -> More**. The top-level menu now shows **Home**, **Teams**, **Shop**, **Activity**, and **More**. Activity contains missions/challenges/season progress; More contains secondary panels such as Career, Jobs, Tokens, Credits, Races, and Help.
 
-### What's the fastest way to level up?
+### What's the Fastest Way to Level Up?
 
 The formula for fastest levelling:
 
@@ -57,7 +57,7 @@ The formula for fastest levelling:
 
 Stacking all of these, you can hit levels 10–20× faster than a solo player driving alone.
 
-### I want to be a police officer. How?
+### I Want to Be a Police Officer. How?
 
 Police teams require a gamepass:
 
@@ -69,7 +69,7 @@ Buy the gamepass for the team you want, then join from the Main Menu → Teams t
 
 If you want to work in law enforcement without a gamepass, **APJ** (level 300) is a Road Transport Agency team, but it's a long way off.
 
-### How do I refuel my car?
+### How Do I Refuel My Car?
 
 1. Drive to a station — **PETROMAS** on the highway, **Radtrol** in Bandar Seri Putra.
 2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
@@ -77,7 +77,7 @@ If you want to work in law enforcement without a gamepass, **APJ** (level 300) i
 
 Fuel is **currently free** in this version of the game. Config prices (Electric 1 / Petrol 2 / Diesel 3 BR per litre) are defined but not yet being charged — refuelling doesn't deduct any BR from your balance.
 
-### My car ran out of fuel and I'm stranded. What now?
+### My Car Ran Out of Fuel and I'm Stranded. What Now?
 
 You have three options:
 
@@ -85,13 +85,13 @@ You have three options:
 2. **Spawn a replacement vehicle** from a physical vehicle spawner. You'll lose your current vehicle position but get a fresh tank.
 3. **Ask a KEMRonda player** for a tow — they can take you to the nearest station.
 
-### Where do I repair my car?
+### Where Do I Repair My Car?
 
 There are **10 repair zones** placed around the map. Drive your vehicle into one and a prompt will appear — confirm, stay parked, and health regenerates roughly 10% per 5 seconds until fully repaired. You can't repair if the zone is already being used by another player.
 
 **Gravstone Workshop** in Bandar Seri Putra is a **customisation shop** (paint, body), not a repair shop — don't go there expecting a fix.
 
-### How does the 999 Emergency system work?
+### How Does the 999 Emergency System Work?
 
 Any player can call 999 from their Phone (topbar → 999 app). Emergency responders on duty (Bomba, Polis Trafik, Undercover Police, Kesihatan) see the incident on their **Pager** tool and can accept it.
 
@@ -101,7 +101,7 @@ Any player can call 999 from their Phone (topbar → 999 app). Emergency respond
 
 See [Social Features → 999 Emergency](/lebuhraya/social-features#999-emergency-system) for the full flow.
 
-### What's the Injury System and why does it matter?
+### What's the Injury System and Why Does It Matter?
 
 When a **Kesihatan (medic) player joins the server**, the injury system **automatically activates for everyone** — including you. This gives you a **+15% XP multiplier** for free on every XP award, stacking with Premium, convoy, token, and other boosts. When the last medic leaves, it turns off again.
 
@@ -109,7 +109,7 @@ The trade-off: with injury system on, heavy crashes can inflict injuries on you 
 
 **Tip**: if you see a medic in the server lobby, you're getting free extra XP. Drive careful and you'll rarely need treatment.
 
-### What is Passive mode?
+### What Is Passive Mode?
 
 Passive mode is a toggle that prevents tool-based interactions — weapons, tasers, bandages, and similar gear — in **both directions**:
 
@@ -118,17 +118,17 @@ Passive mode is a toggle that prevents tool-based interactions — weapons, tase
 
 Turn it on from the Main Menu if you don't want to be pulled into combat or emergency roleplay. Turn it off when you're ready to participate. Note: standard driving and job actions aren't affected — passive only blocks weapons and medical tools.
 
-### Can I own a house?
+### Can I Own a House?
 
 Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose from four house templates (3 kampung styles + 1 modern terrace), and customise. See [Housing](/lebuhraya/housing).
 
-### How do I fast travel?
+### How Do I Fast Travel?
 
 **Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around — drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
 
 (If you ever see the FastTravel menu appear, it means you've been granted staff access.)
 
-### I joined a convoy but I'm not getting the bonus.
+### I Joined a Convoy but I'm Not Getting the Bonus.
 
 Check these:
 
@@ -136,19 +136,19 @@ Check these:
 - Is the convoy actually active? Check the convoy panel — it shows your current multiplier.
 - Are you a **passenger**? Passengers get half the driver's bonus.
 
-### What are tokens?
+### What Are Tokens?
 
 Consumable items in your inventory that give temporary boosts — 2× XP, Season Pass XP doubler, or temporary team access. Activate from the inventory. See [Social Features → Tokens](/lebuhraya/social-features#tokens-and-boosts).
 
-### How do I report a bug or player?
+### How Do I Report a Bug or Player?
 
 Open the in-game **Report** system and describe what happened, where it happened, what team/vehicle/tool/menu you were using, and whether it repeats. For player reports, include the player name and what they did. See [Social Features -> Report system](/lebuhraya/social-features#report-system).
 
-### Is there a single-player / private mode?
+### Is There a Single-Player / Private Mode?
 
 Yes — **private servers** are available (purchase from the Roblox experience page). See the dedicated **[Private servers](#private-servers)** section below for everything the owner gets, common use cases, and the limitations.
 
-### Are there promo codes?
+### Are There Promo Codes?
 
 Yes — open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
 
@@ -165,25 +165,25 @@ Yes — open **Main Menu -> Shop** and use the code redemption field. A few code
 
 Event codes (time-limited) occasionally appear for community events, conventions, and apology makegoods — watch MYSverse channels for them.
 
-## Tips the wiki might not have mentioned
+## Tips the Wiki Might Not Have Mentioned
 
-### "Drive long" is always profitable
+### "Drive Long" Is Always Profitable
 
 Whatever you're doing, being in a DriveSeat paying attention to the road gives you free XP. Even while on your way to a job, you're earning.
 
-### Match your vehicle to the job
+### Match Your Vehicle to the Job
 
 A Tayoti Hiace is a passenger van — don't take one to the Race Track. A Perosatu Myvi is fine for food delivery but useless for freight. Look at the vehicle category in [Vehicles](/lebuhraya/vehicles#vehicle-categories).
 
-### The electric car advantage
+### The Electric Car Advantage
 
 Electric vehicles cost 1 BR per litre vs 3 BR for diesel. Over hundreds of hours of driving, this adds up significantly. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
 
-### Friend up before grinding
+### Friend Up Before Grinding
 
 Recruit one or two friends on the same team. Start a convoy. Stick together within 200 studs. Your XP per hour roughly doubles versus solo play.
 
-### Save tokens for anchored sessions
+### Save Tokens for Anchored Sessions
 
 Don't pop a 2× XP token and then get distracted — the timer doesn't pause. Use them when you have an hour of uninterrupted play planned.
 
@@ -191,23 +191,23 @@ Don't pop a 2× XP token and then get distracted — the timer doesn't pause. Us
 
 Keep an eye on the MYSverse community channels. A Double XP Weekend is the highest-leverage time to use other boosts.
 
-### If a shop doesn't show prices
+### If a Shop Doesn't Show Prices
 
 Prices vary by shop and sometimes by item. Always check the in-game menu before buying, especially for expensive items like house furniture.
 
-### Respect the roleplay
+### Respect the Roleplay
 
 Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously don't appreciate being rammed off the road; traffic police trying to catch speeders don't appreciate being taunted. Drive with respect; the social scene is half the fun.
 
-### Report bugs and feedback
+### Report Bugs and Feedback
 
 If you hit a bug or have suggestions, the in-game **Report** system (MYS_ReportSystem ScreenGui) sends directly to the MYSverse team. Use it — the devs read these.
 
-## Private servers
+## Private Servers
 
 Private servers are Roblox's "VIP server" feature — you pay Robux to spin up a server instance that only you and people you invite can join. They're one of Lebuhraya's most powerful features once you know what they can do.
 
-### Use cases
+### Use Cases
 
 **Dedicated roleplay communities.** Many MYSverse-adjacent groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) run their own private Lebuhraya servers as persistent hangout spaces. Because private servers are isolated, your group isn't interrupted by random drivers, and your scenes can run uninterrupted for hours.
 
@@ -217,7 +217,7 @@ Private servers are Roblox's "VIP server" feature — you pay Robux to spin up a
 
 **Content creation.** Streamers and video creators use private servers to film without other players disrupting shots. You can freely pose vehicles, stage scenes, and reset without griefers.
 
-### What the server owner gets
+### What the Server Owner Gets
 
 When you join your own private server, **you're automatically granted Adonis admin level 200** — a substantial suite of moderation commands.
 
@@ -225,11 +225,11 @@ When you join your own private server, **you're automatically granted Adonis adm
 - **Set up scenes**: teleport any player (or yourself) to any location, fly, noclip, change gravity, spawn vehicles for guests.
 - **Delegate admin**: use Adonis commands like `:admin @PlayerName` to promote trusted friends to moderator / admin status within your server. They'll get the same tools. You can also `:mod`, `:headadmin`, etc., for different admin tiers.
 - **Manage duration**: boot-everyone, shutdown, reserve a new server from inside the current one.
-- **Run the experience your way**: set custom messages, create custom scripts (if you know Lua), adjust game time, toggle weather (`!rainon` / `!rainoff`).
+- **Run the experience your way**: set custom messages, adjust game time, toggle weather, and stage scenes for your group.
 
-**Moderator persistence**: admins you grant in a private server are stored under a DataStore specific to that server (`privateServer_<yourUserId>`), separate from the public servers. Admins stay admin across sessions in *your* private server. They don't get admin rights in any other server.
+**Moderator access stays inside your private server.** Friends you promote keep that access across sessions in *your* private server, but they don't get admin rights anywhere else.
 
-**Cross-server features are disabled** — Trello audit logs and cross-server commands don't run in private servers. That keeps your server self-contained and free of external dependencies.
+**Cross-server moderation features are disabled** in private servers, so your server stays self-contained.
 
 ### Limitations
 
@@ -244,7 +244,7 @@ The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explain
 
 If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
 
-### Accessing admin commands
+### Accessing Admin Commands
 
 Once you have admin level (either as the owner or granted by the owner), type `:cmds` in chat to open the Adonis command list. Common commands available to Admins (level 200):
 
@@ -264,21 +264,21 @@ Once you have admin level (either as the owner or granted by the owner), type `:
 | `:unmod @player` | Revoke moderator status |
 | `:shutdown` | Shut down the server |
 
-**Note**: Promoting someone to full Admin (level 200) or higher usually requires HeadAdmin-level permissions in default Adonis. As the owner you're at Admin level (200), so you can freely promote to Moderator but not typically to Admin. If you need a trusted friend to have Admin-tier power, you can grant Moderator rights and that covers most use-cases; otherwise see `:cmds` for what's actually accepted.
+**Note**: Private-server owners can usually promote trusted friends to Moderator, which covers most event-hosting needs. Higher admin tiers may not be available from your permission level; check `:cmds` to see what your server accepts.
 
-Consult the Adonis documentation on the Roblox Creator Hub for the full syntax — there are hundreds of commands, and the exact level required for each depends on the Adonis defaults plus the game's `Permissions` overrides.
+Use `:cmds` as the source of truth for command syntax and permission requirements inside your server.
 
-### One thing admin can't do
+### One Thing Admin Can't Do
 
 **Admin level doesn't override team gates.** If a team requires a gamepass (Bomba, Polis Trafik, etc.), a level threshold (Kesihatan L200, APJ L300), or group membership (Malaysians), you still need to meet those requirements. Admin is for moderation, not for free team access. (You *can* grant your guests a **Team Access Pass token** if you want them on a gated team temporarily.)
 
-### What happens when the game shuts down for an update?
+### What Happens When the Game Shuts Down for an Update?
 
 Lebuhraya uses a "soft shutdown" system so you don't lose your session. When the servers are restarting, you'll see a smooth on-screen prompt appear (other UIs fade out), and you'll be **automatically teleported to a fresh server** once the update is deployed. Your progress is saved automatically on the way out — XP, BR, levels, vehicles, housing, everything persists.
 
 You don't need to do anything — just let the teleport complete. If you're driving in convoy with friends, they'll be teleported individually (you may re-join separate servers, so regroup after).
 
-## Where to find more
+## Where to Find More
 
 - MYSverse community: Roblox group **1143446**
 - Game page: Lebuhraya on Roblox (Place ID 4892731894)

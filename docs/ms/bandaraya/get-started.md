@@ -4,14 +4,14 @@ description: >-
   Mulakan pengembaraan anda di Bandaraya — navigasi menu, peroleh Bandar Ringgit
   (BR), pilih pasukan, dan terokai Kuala Lumpur.
 lang: ms
-translated_from_hash: e5298009
-translated_on: '2026-05-17'
+translated_from_hash: "73e8c651"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
 # Mula dengan Bandaraya
 
-**Bandaraya** ialah pengalaman roleplay bandar Malaysia di Roblox, berlatar di Kuala Lumpur. Anda menyertai pasukan yang mewakili organisasi Malaysia sebenar — polis, bomba, kesihatan, tentera, pengangkutan, orang awam, diraja — dan menjalani hidup di bandar. Memandu, bekerja, menangkap, menyelamat, menaiki MRT, memesan di mamak, duduk dalam trafik. Pilihan anda.
+**Bandaraya** ialah pengalaman roleplay bandar Malaysia di Roblox, berlatar di Kuala Lumpur. Anda menyertai pasukan yang mewakili organisasi bergaya Malaysia — polis, bomba, kesihatan, tentera, pengangkutan, orang awam, diraja — dan menjalani hidup di bandar. Memandu, bekerja, menangkap, menyelamat, menaiki MRT, memesan di mamak, duduk dalam trafik. Pilihan anda.
 
 Mata wang dalam permainan ialah **BR (Bandar Ringgit)**. Semua harga dalam wiki ini adalah dalam BR melainkan dilabel sebaliknya (R$ = Robux).
 
@@ -22,7 +22,7 @@ Mata wang dalam permainan ialah **BR (Bandar Ringgit)**. Semua harga dalam wiki 
 - **Memandu.** 200+ kenderaan merentas 25+ organisasi — Proton, Perodua, Toyota, Honda, BMW, dan armada kecemasan khusus Malaysia.
 - **Bergerak.** Naik bas (duduk, tambang automatik), perjalanan pantas melalui MRT Kajang Line atau KL Monorail, atau pandu melalui tol TapNGo.
 - **Beli kereta.** Lawati Classic Car Dealer, pilih model, pilih warna, beli atau sewa, dan ia disimpan ke akaun anda.
-- **Guna kad CAG.** Versi Bandaraya untuk Touch n Go — satu kad untuk bas, MRT, dan tol, dengan pilihan pas bulanan.
+- **Guna kad CAG.** Versi Bandaraya untuk TapNGo — satu kad untuk bas, MRT, dan tol, dengan pilihan pas bulanan.
 - **Balas kecemasan.** Insiden kebakaran sebenar, panggilan sebenar, pesakit sebenar.
 - **Ditangkap (cuba elakkan).** POLIS akan menahan, menggari, dan menangkap anda. Ada tempoh bertenang 3 minit, kemudian anda bebas semula.
 - **Membeli-belah.** Makanan, pakaian, alat, malah pasaran gelap. Senjata api memerlukan gamepass Firearms Licence.
@@ -32,7 +32,7 @@ Mata wang dalam permainan ialah **BR (Bandar Ringgit)**. Semua harga dalam wiki 
 
 Bandaraya ialah bahagian **Kuala Lumpur** dalam permainan. Anda akan kenal mercu tanda sebenar — **Maxis Tower**, **Grand Hyatt**, **Public Bank**, kawasan **PETRONAS**, **Ampang Park**, **Bukit Bintang**, dan rangkaian MRT/Monorail yang lengkap dengan stesen di lokasi KL sebenar (Conlay, Persiaran KLCC, Ampang Park; Bukit Bintang, Raja Chulan, Bukit Nanas).
 
-Pasukan ialah institusi Malaysia sebenar: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. Kad transit — **CAG** — ialah analog Touch n Go Bandaraya, termasuk hutang pada kad kosong, pas bulanan, dan reka bentuk koleksi yang terikat dengan Deepavali, Merdeka, dan Raya.
+Pasukan ialah institusi bergaya Malaysia: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. Kad transit — **CAG** — ialah analog Touch n Go Bandaraya, termasuk hutang pada kad kosong, pas bulanan, dan reka bentuk koleksi yang terikat dengan Deepavali, Merdeka, dan Raya.
 
 Tidak pasti maksud sesuatu akronim? [Glosari](/ms/bandaraya/glossary) ada semuanya.
 
@@ -185,7 +185,7 @@ Pilih satu:
 
 ## Tip & perkara perlu tahu
 
-- **Warna pasukan penting.** `TeamColor` pasukan anda mengawal spawner yang boleh digunakan, alat yang diberi, dan aplikasi tablet yang anda lihat.
+- **Pasukan anda penting.** Pasukan semasa anda menentukan spawn, alat, kenderaan, dan aplikasi tablet yang tersedia.
 - **Pasukan datang dan pergi.** Pasukan tanpa pemain dikeluarkan secara automatik daripada senarai pasukan (kecuali Visitors, Malaysians, dan Arrested). Jangan risau jika satu pasukan hilang — ia kembali apabila seseorang menyertainya.
 - **Jangan reset apabila cedera.** Ia dilumpuhkan untuk kebaikan anda sendiri (anti-RTAA), dan ia menghentikan anda daripada menipu keluar dari tangkapan.
 - **Guna kad CAG.** Jika anda akan menggunakan pengangkutan awam lebih daripada beberapa kali, ia berbaloi dengan 100 BR.

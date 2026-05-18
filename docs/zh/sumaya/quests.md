@@ -2,8 +2,8 @@
 title: 任务
 description: Sumaya 的 12 步探索任务链。
 lang: zh
-translated_from_hash: '295324e2'
-translated_on: '2026-05-17'
+translated_from_hash: "d1c60876"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

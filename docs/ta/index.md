@@ -4,8 +4,8 @@ description: >-
   Bandaraya, Lebuhraya மற்றும் பல MYSverse விளையாட்டு சேவையகங்களுக்கான முழுமையான
   வழிகாட்டி. மலேசியர்களால், அனைவருக்கும்.
 lang: ta
-translated_from_hash: 3c718ab7
-translated_on: '2026-04-22'
+translated_from_hash: b5551d9a
+translated_on: 2026-05-18T00:00:00.000Z
 needs_review: true
 layout: home
 hero:

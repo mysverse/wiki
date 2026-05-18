@@ -4,8 +4,8 @@ description: >-
   Alat tablet khas pasukan di Bandaraya — MDT, MyEmergency, MyTow, KKM Logger,
   dan aplikasi lain.
 lang: ms
-translated_from_hash: 1d97fc65
-translated_on: '2026-04-21'
+translated_from_hash: "d28c2b27"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -107,7 +107,7 @@ Apabila notifikasi tiba, ikon tablet pada topbar akan mendapat penunjuk visual, 
 
 ## Sekatan pasukan
 
-Aplikasi yang anda nampak bergantung pada `TeamColor` pasukan anda:
+Aplikasi yang anda nampak bergantung pada pasukan semasa anda:
 
 | Pasukan | Aplikasi tersedia |
 | --- | --- |

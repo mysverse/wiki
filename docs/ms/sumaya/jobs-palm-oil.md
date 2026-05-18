@@ -2,8 +2,8 @@
 title: Kelapa Sawit (Pertanian)
 description: Kerja kelapa sawit dan pertanian di Sumaya.
 lang: ms
-translated_from_hash: 29b7dd93
-translated_on: '2026-04-30'
+translated_from_hash: "cc69382a"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

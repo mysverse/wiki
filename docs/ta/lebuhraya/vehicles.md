@@ -4,8 +4,8 @@ description: >-
   Lebuhraya-வில் உள்ள அனைத்து 127 வாகன மாதிரிகள் — உருவாக்கம், எரிபொருள்,
   விபத்து, மற்றும் தனிப்பயனாக்கம்.
 lang: ta
-translated_from_hash: da3dc13b
-translated_on: '2026-05-17'
+translated_from_hash: "56b88180"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # வாகனங்கள்
@@ -153,7 +153,7 @@ Refreshed spawner மூன்று main areas கொண்டது:
 
 ### Vehicle மிகவும் bright அல்லது lights stuck on
 
-சில vehicles time of day மற்றும் vehicle type அடிப்படையில் headlights/ELS அல்லது strong lighting effects உடன் spawn ஆகும். Vehicle controls-ல் lights off செய்யவும், அல்லது scripted state stuck ஆனால் vehicle respawn செய்யவும்.
+சில vehicles time of day மற்றும் vehicle type அடிப்படையில் headlights, ELS, அல்லது strong lighting effects உடன் spawn ஆகும். Vehicle controls-ல் lights off செய்யவும், அல்லது lights stuck ஆனால் vehicle respawn செய்யவும்.
 
 ## விபத்து மற்றும் பழுதுபார்த்தல்
 
@@ -213,11 +213,11 @@ Bandar Seri Putra-வில் உள்ள **Gravstone Workshop** கேமி�
 
 | Service | Plate prefix |
 |---|---|
-| PAT (Panglima Angkatan Tentera — Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat Malaysia — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut Diraja Malaysia — Royal Navy) | `ZL` |
-| TUDM (Tentera Udara Diraja Malaysia — Royal Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan — Ministry of Defence) | `ZZ` |
+| PAT (Panglima Angkatan Tentera MYSverse — Chief of Armed Forces) | `Z` |
+| TDM (Tentera Darat MYSverse — Army) | `ZA` / `ZB` / `ZC` / `ZD` |
+| TLDM (Tentera Laut MYSverse — Navy) | `ZL` |
+| TUDM (Tentera Udara MYSverse — Air Force) | `ZU` |
+| KEMHAN (Kementerian Pertahanan MYSverse — Defence Authority) | `ZZ` |
 | JMF (Askar Timbalan Setia Negeri Johor — Johor Military Force) | `JZ` / `JMF` |
 | PMS | `PMS` |
 
@@ -258,7 +258,7 @@ Bandar Seri Putra-வில் உள்ள **Gravstone Workshop** கேமி�
 | **[** | bed / ramp-ஐ கீழே இறக்கு |
 | **]** | bed / ramp-ஐ மேலே உயர்த்து |
 
-**அணுகல் விதிகள்**: நீங்கள் எப்போதும் ஒரு பலகத்தை பயன்படுத்தலாம் (a) நீங்கள் வாகனத்தை சொந்தமாக வைத்திருந்தால், (b) நீங்கள் பொருந்தும் அணியில் இருந்தால் (KEMRonda / Bomba / Kesihatan), அல்லது (c) நீங்கள் ஒரு admin ஆக இருந்தால். இல்லையெனில், விகிதம்-வரம்பிடப்பட்ட "Access Denied" பதாகை தோன்றும்.
+**அணுகல் விதிகள்**: நீங்கள் எப்போதும் ஒரு பலகத்தை பயன்படுத்தலாம் (a) நீங்கள் வாகனத்தை சொந்தமாக வைத்திருந்தால், (b) நீங்கள் பொருந்தும் அணியில் இருந்தால் (KEMRonda / Bomba / Kesihatan), அல்லது (c) உங்களுக்கு staff access இருந்தால். இல்லையெனில், "Access Denied" பதாகை தோன்றும்.
 
 கட்டுப்பாடுகள் ஆறு வாகனங்களிலும் பகிரப்படுகின்றன, எனவே நீங்கள் ஒன்றை கற்றுக்கொண்டவுடன் அனைத்தையும் கற்றுக்கொண்டீர்கள்.
 

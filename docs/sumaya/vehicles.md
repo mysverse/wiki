@@ -1,13 +1,13 @@
 ---
 title: "Vehicles"
-description: "Cars, boats, ambulances, spawners, and customization in Sumaya."
+description: "Cars, boats, ambulances, spawners, and customisation in Sumaya."
 ---
 
 # Vehicles
 
-Sumaya has a large vehicle catalog: civilian cars, Classic Car Pack cars, fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalog with prices, and how to customize and care for them.
+Sumaya has a large vehicle catalogue: civilian cars, Classic Car Pack cars, fishing trawlers, police cars, fire trucks, and ambulances. This page covers how to spawn them, the full catalogue with prices, and how to customise and care for them.
 
-## How to spawn a vehicle
+## How to Spawn a Vehicle
 
 Look for **vehicle spawner kiosks** around town. They show up as interactive prompts on street corners, dealerships, and at stations.
 
@@ -18,7 +18,7 @@ Look for **vehicle spawner kiosks** around town. They show up as interactive pro
    - **Rent**: pay a smaller one-time cost, the vehicle disappears when you respawn, log out, or spawn a different one.
    - **Buy**: pay the full price, the vehicle is yours permanently (and persists across sessions).
 
-### What if a vehicle is grayed out?
+### What If a Vehicle Is Greyed Out?
 
 If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of:
 
@@ -29,18 +29,18 @@ If you can't spawn a vehicle, the spawner will tell you why. Usually it's one of
 
 Civilian vehicle spawners show only civilian cars, team spawners show only team vehicles, fishing-boat spawners show only trawlers.
 
-## Civilian cars
+## Civilian Cars
 
 All standard civilian cars are available at **player level 1**. Only two are free; the rest have rent and buy prices.
 
-### Free starter cars
+### Free Starter Cars
 
 These spawn without rent or buy cost:
 
 - Perosatu Axia
 - Protan Wira
 
-### Paid standard civilian cars
+### Paid Standard Civilian Cars
 
 | Vehicle | Rent | Buy |
 |---------|-----:|----:|
@@ -67,9 +67,9 @@ The **Protan X70** is currently the most expensive standard civilian car.
 
 These cars show at the civilian dealer but require the Classic Car Pack gamepass. Non-owners see them locked with a gamepass prompt.
 
-## Vehicle packs in the Shop
+## Vehicle Packs in the Shop
 
-The Shop now includes placeholder cards for upcoming vehicle packs:
+The Shop now previews upcoming vehicle packs:
 
 - **Premium EV Vehicles**
 - **Premium Sports Vehicles**
@@ -87,7 +87,7 @@ These cards currently show **Coming Soon** unless a final Roblox pass ID has bee
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
 
-## Fishing trawlers
+## Fishing Trawlers
 
 Trawlers spawn at fishing-boat spawners at docks, and only appear if you're clocked in to the **Fishing Sector**. See [Fishing](/sumaya/jobs-fishing).
 
@@ -99,7 +99,7 @@ Trawlers spawn at fishing-boat spawners at docks, and only appear if you're cloc
 
 Higher tiers carry more fish.
 
-## Police vehicles (POLIS only)
+## Police Vehicles (POLIS Only)
 
 Available only if you're on the POLIS team. Gated by a mix of **player level** and **sector level** (POLIS sector).
 
@@ -112,7 +112,7 @@ Available only if you're on the POLIS team. Gated by a mix of **player level** a
 
 The Wira is your starter patrol car. The Civic is the top-tier.
 
-## Bomba vehicles (BOMBA only)
+## Bomba Vehicles (BOMBA Only)
 
 Available only on the BOMBA team. Gated by Bomba sector level.
 
@@ -126,7 +126,7 @@ Available only on the BOMBA team. Gated by Bomba sector level.
 
 LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. The P360 Tanker is the heavy-utility apex Bomba vehicle, carrying its own water supply.
 
-## Ambulances (Kesihatan only)
+## Ambulances (Kesihatan Only)
 
 Available only on the Kesihatan team. Gated by Kesihatan sector level.
 
@@ -138,7 +138,7 @@ Available only on the Kesihatan team. Gated by Kesihatan sector level.
 
 "KKN" stands for **Kementerian Kesihatan Nasional** (National Ministry of Health). Each ambulance has cargo room for the stretcher.
 
-## Emergency sirens (ELS)
+## Emergency Sirens (ELS)
 
 Polis, Bomba, and Kesihatan vehicles all have an **Emergency Lighting System (ELS)**. While driving an emergency vehicle with the siren on:
 
@@ -148,23 +148,23 @@ Polis, Bomba, and Kesihatan vehicles all have an **Emergency Lighting System (EL
 
 Turn the siren off when you park. The exemption only applies while actively driving with the siren active.
 
-## Customization
+## Customisation
 
-Civilian vehicles with `Color = true` support color customization. Look for the **Paint / Customize** option when you spawn a vehicle, or from your vehicle profile. You can change:
+Some civilian vehicles support colour customisation. Look for the **Paint / Customise** option when you spawn a vehicle, or from your vehicle profile. You can change:
 
-- **Body color** - the car's paint.
-- **Rim color** - the wheel rims, where the model has rim parts tagged.
-- **Window tint** - any `Color3`, applied to parts tagged `VehicleWindow`.
+- **Body colour** - the car's paint.
+- **Rim colour** - the wheel rims, where supported.
+- **Window tint** - the vehicle windows, where supported.
 
-Some vehicles (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) have pre-set palettes (e.g. White, Silver, Black, Red, Beige). Other customizable vehicles accept any color.
+Some vehicles (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) have pre-set palettes (e.g. White, Silver, Black, Red, Beige). Other customisable vehicles accept any colour.
 
-Team vehicles usually are not customizable.
+Team vehicles usually are not customisable.
 
 ## Fuel
 
 Fuel is effectively **unlimited** in Sumaya right now - you don't need to worry about running out or refueling at gas stations. The fuel gauge on boats is tracked per-shift (for fishing trawlers), but cars run without fuel limits.
 
-## Collision toggle
+## Collision Toggle
 
 From your **Phone > Collision** app, you can toggle vehicle collisions on or off. With collisions off:
 
@@ -174,22 +174,22 @@ From your **Phone > Collision** app, you can toggle vehicle collisions on or off
 
 See [Phone and UI](/sumaya/phone) for more on the Collision app.
 
-## Camera when entering a vehicle
+## Camera When Entering a Vehicle
 
 When you sit in or leave a vehicle, the camera now eases into the driving view instead of snapping suddenly. The game adjusts the framing for desktop, tablet, and mobile controls automatically, so you do not need to change a setting.
 
 If you are using another camera mode, such as the phone Cinematic app, that mode keeps priority until you close it.
 
-## Ownership and persistence
+## Ownership and Persistence
 
 - **Rented vehicles** disappear when you respawn, log out, or spawn a different one.
 - **Bought vehicles** stay yours permanently. They show up in your profile's Owned Vehicles list.
 - If you buy a vehicle and later want to sell it, check the spawner - some vehicles may be sellable for partial refund (this varies).
 - If your owned vehicle is **carjacked** by someone else, it's marked stolen in the plate database, and Polis can recover it.
 
-## Plates and registration
+## Plates and Registration
 
-Every vehicle has a **license plate**. When you spawn a vehicle:
+Every vehicle has a **number plate**. When you spawn a vehicle:
 
 - The plate is tied to your user ID as the registered owner.
 - POLIS can look up any plate from the MDT to see who owns a vehicle.
@@ -204,10 +204,10 @@ Every vehicle has a **license plate**. When you spawn a vehicle:
 - **Phasing mode for parking.** If someone's blocking you in, enable collision toggle to drive through them.
 - **Save for a Tier 2 or 3 trawler.** If you're committing to fishing, the bigger boats pay for themselves quickly.
 
-## What next?
+## What Next?
 
 - [Crime and Law](/sumaya/crime-and-law) for how carjacking works in detail.
-- [Polis](/sumaya/polis) for the police vehicle catalog.
+- [Polis](/sumaya/polis) for the police vehicle catalogue.
 - [Bomba](/sumaya/bomba) for fire truck details.
 - [Kesihatan](/sumaya/kesihatan) for ambulance details.
 - [Phone and UI](/sumaya/phone) for the Collision and Profile apps.

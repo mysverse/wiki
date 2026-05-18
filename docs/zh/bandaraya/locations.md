@@ -2,8 +2,8 @@
 title: 地图与地点
 description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
-translated_from_hash: c84a59b5
-translated_on: '2026-05-17'
+translated_from_hash: "1fc23133"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 地图与地点
@@ -135,7 +135,7 @@ needs_review: true
 - **Roads** — 带道路标线的完整路网
 - **Traffic Lights** — 4 路和 3 路红绿灯，支持自动和手动控制
 - **RoadSigns** — 路牌
-- **Streetlights** — 2-way DBKL 街灯模型
+- **Streetlights** — 2-way Bandaraya 街灯模型
 - **Bus lanes** 沿 Jalan Ampang
 - **Bike lanes** 沿 Jalan Ampang
 

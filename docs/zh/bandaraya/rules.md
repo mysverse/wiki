@@ -2,15 +2,15 @@
 title: 规则
 description: Bandaraya 中可能导致封禁的行为，以及申诉的方式。
 lang: zh
-translated_from_hash: d3008d61
-translated_on: '2026-05-17'
+translated_from_hash: "7b2c24f8"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 规则
 
 Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守。否则你会被封禁。
 
-官方规则文本在游戏内 (`infoModules.GameRules`)，并镜像在源 wiki 的 `docs/game-rules.md`。本页是方便玩家阅读的摘要。
+本页是游戏内规则的玩家友好摘要。
 
 ## TL;DR
 
@@ -123,13 +123,13 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ## Penal Code 参考
 
-除了玩家规则外，游戏内 POLIS 和司法 roleplay 也会参考 **Laws of Malaysia, Penal Code (Act 574)** — 这是随游戏提供的 2,380 行真实马来西亚刑事法律参考。警员可在逮捕记录中引用条文编号 (例如 "Section 302 — Punishment for murder")。这只是 roleplay 氛围设定，不会在上列内容之外新增可封禁的罪名。
+除了玩家规则外，游戏内 POLIS 和司法 roleplay 也会参考 **MYSverse Penal Code** — 这是随游戏提供的 2,380 行 MYSverse 世界内刑事法律指南。警员可在逮捕记录中引用条文编号 (例如 "Section 302 — Punishment for murder")。这只是 roleplay 氛围设定，不会在上列内容之外新增可封禁的罪名。
 
 ## 申诉
 
 任何封禁，无论是永久或暂时，都可以申诉。
 
-1. 加入 **Malaysia 社群 server**。
+1. 加入 **MYSverse 社群 server**。
 2. 联系 moderator 或管理员。
 3. 申诉通过 **Moderation server** 处理。
 

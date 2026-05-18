@@ -1,11 +1,11 @@
 ---
 title: Perkhidmatan Kecemasan
 description: >-
-  PDRM, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan
+  POLIS, BOMBA, KKM, SJAM, RELA, MAF, dan KPTD — perkhidmatan kecemasan dan
   keselamatan di Bandaraya.
 lang: ms
-translated_from_hash: beab5c89
-translated_on: '2026-04-21'
+translated_from_hash: "ae08e195"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Perkhidmatan Kecemasan
@@ -75,7 +75,7 @@ POLIS mempunyai armada terbesar:
 
 ### Helikopter
 
-POLIS mempunyai **PDRMHeliSpawner** — polis udara. Spawn dari pemilih ViewportFrame balai.
+POLIS boleh menggunakan helikopter balai untuk rondaan udara. Buka pemilih kenderaan balai dan pilih helikopter apabila tersedia.
 
 ### Jangkaan
 
@@ -131,11 +131,11 @@ Kebakaran spawn di sekitar peta apabila **sekurang-kurangnya seorang ahli BOMBA 
 - **Memerlukan BOMBA dalam talian**: jika semua BOMBA meninggalkan tugas di tengah-tengah insiden, kebakaran tersebut dibersihkan secara automatik.
 - **Penyertaan lewat**: jika anda bertukar ke BOMBA di tengah-tengah insiden, klien anda meminta server untuk keadaan semasa dan pin peta akan muncul dengan serta-merta.
 - **5 pili bomba** di seluruh peta — tempatkan diri anda secara strategik.
-- **Auto-sign** — menyertai BOMBA secara automatik mendaftarkan anda untuk penjejakan tugas (Discord webhook setiap sesi).
+- **Auto-sign** — menyertai BOMBA secara automatik mendaftarkan anda untuk penjejakan tugas.
 
 ---
 
-## KKM (Kementerian Kesihatan) — Kementerian Kesihatan
+## KKM (Kementerian Kesihatan MYSverse) — Kementerian Kesihatan
 
 Kumpulan: 5760632. Mana-mana pangkat.
 
@@ -193,7 +193,7 @@ Mandat terhad — menyokong POLIS di tempat kejadian, kawalan orang ramai. Tiada
 
 ---
 
-## MAF (Angkatan Tentera Malaysia) — Tentera
+## MAF (Angkatan Tentera MYSverse) — Tentera
 
 Kumpulan: 2817130, 2849945, 2817134. Pangkat 3+.
 

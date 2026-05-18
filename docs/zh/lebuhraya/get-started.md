@@ -2,8 +2,8 @@
 title: 入门
 description: 你在 Lebuhraya 的前 10 分钟 — 生成车辆、赚取 BR、升级，然后上高速。
 lang: zh
-translated_from_hash: 271bfa19
-translated_on: '2026-05-17'
+translated_from_hash: "4fb4c2ec"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 入门

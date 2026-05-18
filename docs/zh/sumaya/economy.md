@@ -2,8 +2,8 @@
 title: 经济
 description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
-translated_from_hash: '7e369425'
-translated_on: '2026-05-17'
+translated_from_hash: "4b1b966c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -146,7 +146,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 - **Tier 1 房屋**（Small Bornean）：25,000 Ringgit。
 - **Tier 2 房屋**（Spacious / Compact Bornean）：29,000 / 32,000 Ringgit。
 - **Tier 3 房屋**（Modern Terrace，两种外观变体）：35,000 Ringgit。
-- **家具**：每件物品的价格存储在每个模型的 `Price` 属性中 — 差异很大。
+- **家具**：价格因物品而异，差异很大。
 
 见[房屋](/sumaya/housing)。
 

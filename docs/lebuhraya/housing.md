@@ -7,7 +7,7 @@ description: "Claim a plot and build your home in Lebuhraya."
 
 Lebuhraya has a **residence system** where you can claim a plot, place a house, decorate it with furniture, and use it as your own base. It's one of the game's most social features — invite friends over, lock the doors, throw a kampung-style gathering.
 
-## Claiming a plot
+## Claiming a Plot
 
 Plots are located at **Pangsapuri Seri Putra** in Bandar Seri Putra. The total number of available plots is set by the server; if all plots are taken, you'll see a **0 available** indicator.
 
@@ -18,7 +18,7 @@ Plots are located at **Pangsapuri Seri Putra** in Bandar Seri Putra. The total n
 
 Your plot is tied to your account. Leave the server and your house persists; come back and it's still there.
 
-## House templates
+## House Templates
 
 You pick from four templates when you claim a plot:
 
@@ -39,7 +39,7 @@ Change the paint colour of the house exterior.
 
 ### Furniture
 
-Add items from the furniture catalog. Available pieces include:
+Add items from the furniture catalogue. Available pieces include:
 
 - **Bookshelf**
 - **Single Bed**
@@ -58,21 +58,21 @@ Doors can be **locked** or **unlocked**. A locked door keeps other players out, 
 
 Toggle interior lighting on or off. Useful for setting the mood at night.
 
-## Who can enter?
+## Who Can Enter?
 
 - **You** — always.
 - **Other players** — only if your doors are unlocked.
 - **Team-mates** — no special access by default; same rules apply.
 
-## Leaving or moving
+## Leaving or Moving
 
 If you want to abandon your plot to claim a different one, use the housing menu's **release** option. Your current house and furniture are removed when you release the plot. Consider saving your layout design in a screenshot before you release — there's no automatic restore.
 
-## A note on prices and counts
+## A Note on Prices and Counts
 
 The exact BR cost for each house and furniture piece, and the total number of plots available server-side, depend on the live game state. The in-game menu is always the source of truth for these numbers.
 
-## Next steps
+## Next Steps
 
 - [World and Map](/lebuhraya/map) — How to get to Pangsapuri Seri Putra
 - [Economy and XP](/lebuhraya/economy) — Saving up BR for that Modern Terrace

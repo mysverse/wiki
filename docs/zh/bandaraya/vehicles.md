@@ -2,8 +2,8 @@
 title: 车辆
 description: 在 Bandaraya 生成、驾驶、加油以及购买或租赁车辆的完整指南。
 lang: zh
-translated_from_hash: 92a4a5da
-translated_on: '2026-05-17'
+translated_from_hash: "d729719d"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 车辆
@@ -136,8 +136,8 @@ Bandaraya 使用 **A-Chassis** 物理引擎。控制:
 
 POLIS 和 BOMBA 在各自的站点有直升机生成器。团队专属 — 平民无法生成。
 
-- 通过屏幕上的 **ViewportFrame** 选择器生成。
-- 生成的直升机在摧毁后 8 秒会重新生成。
+- 使用站点屏幕上的车辆选择器。
+- 前一架直升机被摧毁后，8 秒后会有替换直升机可用。
 
 不要把直升机撞进建筑物。
 

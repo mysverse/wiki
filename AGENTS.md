@@ -35,9 +35,12 @@ scripts/
   seed-translations.mjs          Initial locale mirror creation
   meta-translations.mjs          Lookup table of translated frontmatter
   apply-meta-translations.mjs    Apply translated title/description/H1
+  lint-style.mjs                 British English/title-case/player-facing style lint
   lint-markdown.mjs              Heading/table/container/whitespace lint
   check-links.mjs                Internal link integrity check
 TRANSLATIONS.md                  Translation policy (human-facing)
+STYLE.md                         Hard player-facing and English style rules
+CLAUDE.md                        Claude-specific entrypoint; defers to AGENTS.md
 AGENTS.md                        ← you are here
 ```
 
@@ -64,6 +67,22 @@ Paths are absolute in `scripts/migrate-source.mjs`. Edit the `SOURCE_ROOTS` map 
 5. **Real-life Malaysian agency names are rebranded** to MYSverse Sim equivalents (PDRM → POLIS, etc.). See `scripts/rebrand-agencies.mjs` for the full replacement table.
 6. **All internal links are absolute, locale-aware:** `[label](/bandaraya/teams)` from EN, `[label](/ms/bandaraya/teams)` from MS. Never relative `file.md`.
 7. **`needs_review: true`** on a locale page renders a yellow banner. Set `false` only after a native speaker has confirmed.
+8. **English docs are player-facing British English.** Enforce with `pnpm run lint:style` and follow [`STYLE.md`](./STYLE.md).
+
+---
+
+## Documentation style rules
+
+These are hard rules for English source pages. `scripts/lint-style.mjs` catches the common mechanical regressions, but agents must still use judgement.
+
+- **Use British English:** colour, customisation, customise, catalogue, favourite, behaviour, armour, centre, grey, levelling, towards, offence, defence, analyse, organise, specialisation. Use **number plate**, not "license plate".
+- **Use title case for EN Markdown headings.** Keep short connector words lowercase unless first/last: and, or, the, to, with, in, on, of, for, from, by.
+- **Keep docs player-facing.** Explain what the player sees or does. Remove implementation details such as internal flags, backend/debug wording, Roblox tag names, source-code mechanics, Discord logging, datastore behaviour, and moderation tooling internals.
+- **Use player-facing monetisation terms.** Prefer "Robux purchase", "Robux offer", or "gamepass"; avoid "developer product" and "dev product".
+- **Do not brute-rebrand Malaysia/Malaysian.** Rebrand real-life agencies and official organisations to MYSverse equivalents, but keep Malaysia/Malaysian for language, culture, holidays, geography inspiration, and contexts where "MYSverse" would confuse players.
+- **Do not invent blanket wording like "MYSverse-inspired".** If a place is inspired by Malaysia or Kuala Lumpur, say that naturally. If an in-game agency/team represents an official body, use the MYSverse term.
+
+Run `pnpm run lint:style` after editing EN pages. If it fails, fix the wording rather than suppressing the check.
 
 ---
 
@@ -104,6 +123,7 @@ node scripts/refresh-stale.mjs
 node scripts/apply-meta-translations.mjs
 
 # 7. Verify.
+node scripts/lint-style.mjs         # British English/title-case/player-facing style
 node scripts/lint-markdown.mjs       # heading/table/container/whitespace
 node scripts/check-links.mjs         # internal link integrity
 pnpm run check-translations          # freshness — must be Fresh N / Stale 0 / Missing 0
@@ -142,6 +162,7 @@ pnpm docs:build                      # full VitePress build — must finish with
 
 ```bash
 pnpm install                               # if dependencies changed
+pnpm run lint:style                        # British English/title-case/player-facing style
 node scripts/lint-markdown.mjs             # exit 0
 node scripts/check-links.mjs               # exit 0
 pnpm run check-translations                # Fresh N / Stale 0 / Missing 0
@@ -201,6 +222,7 @@ If running serially, just translate inline in-conversation.
 - **Don't add `## See also` sections that duplicate content already in source-wiki `## Tips` or `## What next?` sections.** Source wikis already have these.
 - **Don't auto-fix every lint warning blindly.** The lint script flags Windows CRLF as trailing whitespace only if you didn't normalize first — check `lint-markdown.mjs`'s `\r\n?/g` strip is intact.
 - **Don't touch `docs/index.md`'s `layout: home` block** when running the lint — those pages legitimately have no body H1.
+- **Don't brute-replace all Malaysia/Malaysian references.** The rebrand requirement is about real-life agencies/organisations and official in-game equivalents, not culture, language, holidays, or geography inspiration.
 
 ---
 
@@ -217,7 +239,7 @@ If running serially, just translate inline in-conversation.
 
 ## When in doubt
 
-1. Run `pnpm run check-translations` and `node scripts/lint-markdown.mjs` first — current state is often the answer.
-2. Re-read `TRANSLATIONS.md` for translation specifics.
+1. Run `pnpm run lint:style`, `pnpm run check-translations`, and `node scripts/lint-markdown.mjs` first — current state is often the answer.
+2. Re-read `STYLE.md` for player-facing/British English rules and `TRANSLATIONS.md` for translation specifics.
 3. Look at the most recent commit affecting `docs/` for the canonical pattern.
 4. If introducing new automation, write a new script under `scripts/` rather than inlining shell in this file.

@@ -2,8 +2,8 @@
 title: Pas & Peningkatan
 description: 'Gamepass, peningkatan XP, dan faedah Premium di Lebuhraya.'
 lang: ms
-translated_from_hash: '90144865'
-translated_on: '2026-05-17'
+translated_from_hash: "bcab645c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pas & Peningkatan
@@ -180,9 +180,9 @@ Empat lencana Roblox sebenar dianugerahkan secara automatik apabila anda melepas
 | 500,000 stud | 500k Badge |
 | 1,000,000 stud | 1m Badge |
 
-Lencana dianugerahkan secara berkuasa server semasa kaunter jarak anda meningkat — anda tidak perlu menuntutnya.
+Lencana dianugerahkan secara automatik semasa kaunter jarak anda meningkat — anda tidak perlu menuntutnya.
 
-Pencapaian kemenangan perlumbaan (1, 10, 50, 100 kemenangan; 10, 50 selesai; 10, 100 percubaan) juga dijejaki secara dalaman; ID lencana Roblox untuk ini mungkin ditambah dalam kemas kini akan datang.
+Pencapaian kemenangan perlumbaan juga dijejaki dan mungkin menerima lencana dalam kemas kini akan datang.
 
 ## Developer product level segera
 

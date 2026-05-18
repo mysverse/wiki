@@ -7,13 +7,13 @@ description: "Plots, templates, tiers, furniture, and selling homes in Sumaya."
 
 Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, and lock it up against intruders. Housing is a persistent purchase - once you buy in, your house is yours across sessions.
 
-## Finding a plot
+## Finding a Plot
 
-Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show up as placeholder houses — small visual stand-ins that tell you the plot is available.
+Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show small preview houses so you can spot available land from the street.
 
-Sumaya currently has **63 claimable plots**, each with a placeholder you can preview from the world.
+Sumaya currently has **63 claimable plots**, each visible from the world before you claim it.
 
-## Buying a house at the Real Estate Office
+## Buying a House at the Real Estate Office
 
 House purchases happen exclusively at the **Real Estate Office** (the marked building in the town centre — the Residence phone app's empty state has a "Show on Map" button that pins it for you):
 
@@ -25,11 +25,11 @@ The server enforces a **15-stud proximity check** on the Buy action — you must
 
 The phone Residence app is **management-only** after purchase: lock doors, switch lights, enter placement mode, sell back. It does not handle the buy flow.
 
-## Picking a house
+## Picking a House
 
 Inside the Real Estate Office, you'll pick from the four templates. Each has a tier and a price.
 
-### House templates
+### House Templates
 
 | Template | Tier | Price |
 |----------|------|-------|
@@ -48,7 +48,7 @@ The house template you pick determines what your plot looks like from the outsid
 
 ## Furniture
 
-Once you own a house, you can decorate the inside with furniture. Furniture is organized into **three tiers** matching the house tiers, though you can mix and match what you place inside.
+Once you own a house, you can decorate the inside with furniture. Furniture is organised into **three tiers** matching the house tiers, though you can mix and match what you place inside.
 
 Furniture items include:
 
@@ -59,7 +59,7 @@ Furniture items include:
 
 Prices vary by item; each individual piece has a price tag you'll see when browsing. Buy what you want, then place it via the Placement Mode (below).
 
-## Placement mode
+## Placement Mode
 
 To decorate:
 
@@ -73,7 +73,7 @@ To decorate:
 
 Furniture placement saves automatically. When you rejoin next session, everything is where you left it.
 
-## Doors and locks
+## Doors and Locks
 
 Your house has doors at entry points. From the Residence app (or directly at the door), you can:
 
@@ -99,7 +99,7 @@ Tired of your house? Sell it back and keep **70% of what you paid**. The game ke
 
 After selling, your plot is back in the pool - anyone (including you) can claim it again.
 
-## Privacy and intrusion
+## Privacy and Intrusion
 
 Your house is your space. A few things to know:
 
@@ -116,7 +116,7 @@ Your house is your space. A few things to know:
 - **One plot per player is the rule.** Don't try to claim two - the system prevents it anyway.
 - **Furniture placement is save-instant.** You don't lose your layout if you crash mid-placement.
 
-## What next?
+## What Next?
 
 - [Economy](/sumaya/economy) for where to get the Ringgit to afford a house.
 - [Phone and UI](/sumaya/phone) for the Residence app.

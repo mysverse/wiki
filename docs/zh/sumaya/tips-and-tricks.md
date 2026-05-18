@@ -2,8 +2,8 @@
 title: 小贴士
 description: Sumaya 的隐藏互动、移动端小窍门与高手建议。
 lang: zh
-translated_from_hash: 06f13503
-translated_on: '2026-05-17'
+translated_from_hash: "bfe789ad"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

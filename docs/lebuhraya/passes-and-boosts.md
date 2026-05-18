@@ -7,7 +7,7 @@ description: "Gamepasses, XP boosts, and Premium benefits in Lebuhraya."
 
 This page rounds up the ways you can accelerate your Lebuhraya progress — gamepasses, Roblox Premium, Season Passes, and special events.
 
-## Team gamepasses
+## Team Gamepasses
 
 Five teams are locked behind gamepasses. Buying the pass gives you permanent access to that team from the Main Menu.
 
@@ -22,19 +22,19 @@ Five teams are locked behind gamepasses. Buying the pass gives you permanent acc
 
 These gamepasses are one-time purchases in Robux. Look for them in the experience's Store tab or from NPCs at the relevant agency buildings.
 
-## XP Boost gamepass
+## XP Boost Gamepass
 
 A permanent **+50% XP** on everything you do. Stacks with all other XP multipliers — Premium, convoy, tokens, Double XP weekends.
 
 For players who plan on playing Lebuhraya long-term, this is one of the best-value gamepasses.
 
-## Workshop gamepass
+## Workshop Gamepass
 
 Unlocks the paint and body customisation menu at **Gravstone Workshop** in Bandar Seri Putra. With it, you can recolour your vehicle's body, windows, tyres, and rims through a real-time colour picker. Without it, the workshop prompts you to buy before letting you change anything.
 
-## Other gamepass perks
+## Other Gamepass Perks
 
-Smaller gamepasses and dev products may exist for:
+Smaller Robux offers may exist for:
 
 - Special vehicles or vehicle categories
 - Cosmetic items
@@ -51,18 +51,18 @@ Roblox Premium subscribers get a permanent **+25% XP** in Lebuhraya, automatical
 
 Lebuhraya runs **Season Passes** — time-limited progression tracks with tiered rewards.
 
-### How Season Passes work
+### How Season Passes Work
 
 - Each season lasts a set period (typically 5-6 weeks).
 - You earn **Season XP** by completing missions — short objective challenges linked to existing gameplay activities.
 - Every tier you clear grants a **reward** — typically a cosmetic item, token, or (historically) a shortcut to unlocking a team.
 - A **Premium Track** (purchased with a gamepass) unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
 
-### Current season: Season 2 "Lebuhraya"
+### Current Season: Season 2 "Lebuhraya"
 
 Running **March 20 – April 30, 2026** (UTC+8). 13 tiers. Rewards focus on XP drops, 2× XP and Season Pass Boost tokens, badges (like "Season 2 Pioneer"), and unlockable paints (e.g. "Copper Kampung").
 
-### Season 1 legacy unlocks
+### Season 1 Legacy Unlocks
 
 The previous Season 1 pass unlocked three teams early for players who completed it:
 
@@ -82,7 +82,7 @@ Most notable:
 - **Team Access Pass** — temporary access to a gamepass-locked team
 - **2× Season Pass Boost** — doubles Season Pass XP gains
 
-## Double XP & Free Trial events
+## Double XP & Free Trial Events
 
 Periodically, the game runs scheduled **2X XP events** tied to Malaysian cultural holidays and MYSverse milestones. While an event is active, every player's base XP multiplier becomes ×2 — on top of Premium, convoy, gamepass, and token boosts.
 
@@ -102,7 +102,7 @@ Past events have included:
 
 Schedules follow the actual Malaysian public-holiday calendar, so expect roughly one event every 1–2 months. Watch MYSverse's community channels — the Rafahia App, Discord, or in-game banner notifications — for announcements.
 
-## The math of stacking
+## How Stacking Works
 
 Here's a maxed-out XP scenario:
 
@@ -116,11 +116,11 @@ Here's a maxed-out XP scenario:
 
 That's a level 50 in what would ordinarily take to hit level 12. Use these during serious grind sessions.
 
-## Challenges and achievements
+## Challenges and Achievements
 
 The **Challenges** system (accessible from **Main Menu -> Activity**) rewards you for playing the game's day-to-day activities. Three categories exist:
 
-### Daily challenges (reset every 24 h)
+### Daily Challenges (Reset Every 24 H)
 
 All three are currently active:
 
@@ -128,7 +128,7 @@ All three are currently active:
 - **Weekend Fisherman** (fishing) — catch a number of fish
 - **Konvoi Harian** — spend time in convoy
 
-### Weekly challenges (reset every 7 days)
+### Weekly Challenges (Reset Every 7 Days)
 
 Five of the seven weekly modules are currently active; two are disabled for this season:
 
@@ -140,7 +140,7 @@ Five of the seven weekly modules are currently active; two are disabled for this
 - *Quiz Master (basic) — currently disabled*
 - *Lap Time Legend (Advanced) — currently disabled*
 
-### Discovery / achievements (one-time, permanent)
+### Discovery / Achievements (One-Time, Permanent)
 
 34 one-time goals across fundamentals and milestones. Highlights:
 
@@ -156,7 +156,7 @@ Five of the seven weekly modules are currently active; two are disabled for this
 
 Plus 16 achievement badges (prefixed `ach_`): road-legend tier milestones, marathon driver, master angler, speed demon, pembalap (racer), convoy king, jack-of-all-trades, warga sejati (true citizen), and more.
 
-## Unlockable rewards
+## Unlockable Rewards
 
 Beyond your level and career ranks, a separate catalogue of **42 unlockables** tracks cosmetic progression. Earned through season passes, events, codes, and achievements. Three types:
 
@@ -166,7 +166,7 @@ Beyond your level and career ranks, a separate catalogue of **42 unlockables** t
 
 Active unlocks are saved per-player — you keep everything you earn across sessions.
 
-## Roblox badges for driving distance
+## Roblox Badges for Driving Distance
 
 Four real Roblox badges auto-award when you pass mileage milestones:
 
@@ -177,13 +177,13 @@ Four real Roblox badges auto-award when you pass mileage milestones:
 | 500,000 studs | 500k Badge |
 | 1,000,000 studs | 1m Badge |
 
-Badges are awarded server-authoritatively as your distance counter increments — you don't need to claim them.
+Badges are awarded automatically as your distance counter increases — you don't need to claim them.
 
-Race-win milestones (1, 10, 50, 100 wins; 10, 50 finishes; 10, 100 trials) are also tracked internally; Roblox badge IDs for these may be added in future updates.
+Race-win milestones are also tracked and may receive badges in future updates.
 
-## Instant-level developer products
+## Instant-Level Robux Purchases
 
-If you want to skip grinding levels, Lebuhraya offers four one-time **developer products** you can buy with Robux. These grant flat level bumps instantly — useful if you're chasing a specific level-gated team (say, Kesihatan at Level 200).
+If you want to skip grinding levels, Lebuhraya offers four one-time **Robux purchases**. These grant flat level bumps instantly — useful if you're chasing a specific level-gated team (say, Kesihatan at Level 200).
 
 | Product | Effect |
 |---|---|
@@ -194,7 +194,7 @@ If you want to skip grinding levels, Lebuhraya offers four one-time **developer 
 
 Bonus levels are capped at the max level (500). The XP granted **bypasses the multiplier stack** — exact level jumps, no surprises. Find them in the in-game Shop or via the Main Menu.
 
-## What to buy first?
+## What to Buy First?
 
 If you've played for a few days and want to invest:
 
@@ -204,7 +204,7 @@ If you've played for a few days and want to invest:
 
 If you're subscribed to Roblox Premium for other games, that's already working for you here — no extra spend needed.
 
-## Next steps
+## Next Steps
 
 - [Economy and XP](/lebuhraya/economy) — See the full multiplier stack in context
 - [Teams and Careers](/lebuhraya/teams) — Which teams need which gamepass

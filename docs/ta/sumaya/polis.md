@@ -2,8 +2,8 @@
 title: போலீஸ்
 description: 'Sumaya-வில் POLIS விளையாடுதல் — ரோந்து, கைது, தரங்கள், மற்றும் உபகரணங்கள்.'
 lang: ta
-translated_from_hash: '26236145'
-translated_on: '2026-05-17'
+translated_from_hash: "d9102608"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -26,16 +26,16 @@ needs_review: true
 
 POLIS sector-ஐ நீங்கள் level up செய்யும்போது சில உடைகள் மற்றும் தொகுப்பு பகுதிகள் திறக்கப்படும் (level 1-இல் Duty Belt + Beret, 10-இல் Reflective Vest, 20-இல் Reflective Coat). மூன்று அவசர சேவைகள் முழுவதும் முழு career-item அட்டவணைக்கு [Progression](/sumaya/progression) காண்க.
 
-## வைக்கக்கூடிய போக்குவரத்து/குற்ற நிகழ்வு பொருட்கள் மற்றும் specializations
+## வைக்கக்கூடிய traffic items மற்றும் specializations
 
-விளையாட்டில் **5 placeable tools** வரையறுக்கப்பட்டுள்ளன (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — ஒவ்வொன்றிற்கும் வேலை செய்யும் placement handler மற்றும் `PlaceableItemsLeft` counter உள்ளது. சாதாரண POLIS loadout இன்னும் அவற்றை தானாக வழங்காது.
+Traffic cones, signs, மற்றும் umbrellas testing அல்லது special roleplay sessions-ல் தோன்றலாம். அவை இன்னும் சாதாரண POLIS loadout-ன் பகுதி அல்ல.
 
-இரண்டு எதிர்கால POLIS specializations இப்போது backend/shop placeholders-ஆக உள்ளன:
+இரண்டு எதிர்கால POLIS specializations திட்டமிடப்பட்டுள்ளன:
 
 | Specialization | நிலை |
 |--------------|------|
-| **Traffic POLIS Role** | Coming Soon. Dev/testing path radar + road-control placeables வழங்க முடியும். |
-| **Unmarked POLIS Role** | Coming Soon. Dev/testing path Concealed Badge + Plate Finder வழங்க முடியும். |
+| **Traffic POLIS Role** | Coming Soon. Radar மற்றும் road-control பணிகளுக்காக. |
+| **Unmarked POLIS Role** | Coming Soon. Plain-clothes patrol மற்றும் plate checks-க்காக. |
 
 இவை team selection-இல் தனி அணிகள் அல்ல. சாதாரண POLIS team-இல் இருக்கும்போது வேலை செய்யும் வகையில் அமைக்கப்பட்டவை.
 
@@ -171,10 +171,10 @@ Passive lock என்றால் விடுதலைக்குப் ப�
 உங்கள் **taser** ஒரு hit-ஐ அடித்த அல்லது உங்கள் **detain** வெற்றி பெற்ற தருணத்தில் ஒரு சந்தேக நபர் மீது **30-second combat window** திறக்கப்படுகிறது. டைமர் இயங்கிக்கொண்டிருக்கும் போது:
 
 - அவர்களின் **Reset** பொத்தான் பூட்டப்பட்டுள்ளது, மற்றும் முதன்மை மெனு / அணி-மாற்றம் 1-star-க்கு கீழே கூட பூட்டப்பட்டுள்ளது.
-- அவர்கள் எந்த காரணத்திற்காகவும் இறந்தால் (வீழ்ச்சி, மோதல், தற்கொலை-script `Health=0`, நீங்கள் அவர்களை அதிக முறை tase செய்தல்) — combat-evasion jail தொடங்குகிறது.
+- அவர்கள் எந்த காரணத்திற்காகவும் இறந்தால் (வீழ்ச்சி, மோதல், reset/forced death, அல்லது நீங்கள் அவர்களை அதிக முறை tase செய்தல்) — combat-evasion jail தொடங்குகிறது.
 - அவர்கள் விளையாட்டிலிருந்து வெளியேறினால் — combat-evasion jail அவர்களின் அடுத்த session-க்கு வரிசையில் வைக்கப்படுகிறது.
 
-Combat-evasion jail வழக்கமான LTAA காலத்தின் **double**: 1–5 stars-இல் 60 / 120 / 240 / 360 / 600 விநாடிகள், மேலும் அந்த நேரத்தில் detain ஆகியிருந்தால் +30 விநாடிகள். **நீங்கள் அவர்களை சுத்தமாக கைது செய்திருந்ததைப் போல முழு star-scaled XP + Ringgit credit செய்யப்படும்**, மேலும் 50% அருகிலுள்ள அதிகாரி பகிர்வு. Engager-offline விளிம்பு வழக்கு: credit பறிமுதல் செய்யப்படுகிறது, எனவே நீங்கள் payout விரும்பினால் ஆன்லைனில் இருங்கள்.
+Combat-evasion jail வழக்கமான LTAA காலத்தின் **double**: 1–5 stars-இல் 60 / 120 / 240 / 360 / 600 விநாடிகள், மேலும் அந்த நேரத்தில் detain ஆகியிருந்தால் +30 விநாடிகள். **நீங்கள் அவர்களை சுத்தமாக கைது செய்திருந்ததைப் போல முழு star-scaled XP + Ringgit credit செய்யப்படும்**, மேலும் 50% அருகிலுள்ள அதிகாரி பகிர்வு. Payout வேண்டும் என்றால் result process ஆகும் வரை online-ல் இருங்கள்.
 
 நடைமுறையில் இது அர்த்தம்: ஒரு சந்தேக நபரை நீங்கள் tase செய்தவுடன், நீங்கள் ஏற்கனவே credit-ஐ பூட்டி விட்டீர்கள். அவர்கள் போக்குவரத்தில் ஓடிச் சென்று இறந்தாலும், உங்கள் ரோந்து இன்னும் scoring செய்கிறது.
 

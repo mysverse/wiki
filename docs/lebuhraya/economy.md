@@ -7,32 +7,31 @@ description: "Ringgit (BR), levels 1-500, XP multipliers, and the fastest ways t
 
 Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
 
-## Ringgit (BR) — tracked but not yet live
+## Ringgit (BR) — Tracked, but Mostly Background for Now
 
-Lebuhraya's currency system is **partially implemented**. Your account does carry a BR balance (it starts at **1000** and persists across sessions), but in the current version of the game:
+Your account carries a BR balance (it starts at **1000** and persists across sessions), but in the current version of Lebuhraya it is not a major gameplay loop yet:
 
-- **Nothing in Lebuhraya displays your BR balance.** There's no HUD readout, no leaderstat entry, no Phone app that shows it. The only script that reads your balance is a staff-only admin tool inside the Tablet app.
-- **The only active earn path is racing.** Winning races calls `Currency.Debit` and credits your account. Every other "payment" you might expect (Food Delivery, Post Office salary, tow fees, fuel sales, shop purchases, repair costs) is currently a no-op in Lebuhraya — the hooks exist but are commented out, stubbed, or bypassed.
-- **Nothing in Lebuhraya spends BR.** Shops are free. Fuel pumps don't charge. Tolls don't charge. Repair zones don't charge. Housing furniture doesn't charge. Developers have the infrastructure ready and many job systems have `rewardMode = "BR"` branches left as TODOs.
-- **Internal per-job counters are separate.** Post Office computes a `Salary` value, but it's stored in that job's own DataStore, not your BR account.
+- **Your BR balance is not shown in normal menus yet.** There is no regular HUD, phone, or menu readout for it.
+- **Racing is the only confirmed way to add BR right now.** Other activities mainly reward XP or job-specific progress.
+- **Most everyday costs are not charged yet.** Shops, fuel pumps, tolls, repair zones, and housing furniture are currently free in normal play.
+- **Some jobs show their own counters.** For example, Post Office can show job money, but that is separate from your regular BR balance.
 
 **What this means for you**: don't budget your game plans around BR. Pick jobs for their XP rate, pick vehicles for how they drive (not their price tag), and enjoy everything currently for free. When BR goes live, your race-earned balance will carry forward.
 
-### What's tracked right now
+### What's Tracked Right Now
 
-- Starting balance: **1000 BR** (shared across MYSverse Lebuhraya sessions, stored under DataStore2 key `ringgit`).
+- Starting balance: **1000 BR**, shared across your MYSverse Lebuhraya sessions.
 - Active earn source: Race rewards only.
-- Active spend sources: none in Lebuhraya-specific code.
-- Shared MYSverse systems (Dealership, Tow, TapNGo) contain live spend logic that may or may not trigger in Lebuhraya — you won't see charges on-screen either way.
+- Active spend sources: no confirmed live spend source in normal play.
 
-### What will eventually use BR (planned)
+### What Will Eventually Use BR (Planned)
 
-Based on code hints the following are planned but not currently wired up:
+The game appears prepared for future BR use in:
 
-- Fuel payments at PETROMAS / Radtrol (prices already defined: 1/2/3 BR/L)
-- Shop purchases (shop items have a `Price` field)
-- Food Delivery, Checkout, Lumberjack, Fishing — all have empty `BR` / `Both` reward branches
-- Post Office salary bridging to the real BR account
+- Fuel payments at PETROMAS / Radtrol
+- Shop purchases
+- Food Delivery, Checkout, Lumberjack, and Fishing rewards
+- Post Office salary becoming regular BR
 - Vehicle dealership / purchases
 - Repair costs at repair zones
 
@@ -54,7 +53,7 @@ There are two kinds of XP:
 | Taxi | Varies — about **0.11 to 0.13 XP per stud** of the trip (a 4000-stud trip = 440 to 520 XP) |
 | Other jobs | See [Jobs](/lebuhraya/jobs) for per-job details |
 
-### The XP multiplier stack
+### The XP Multiplier Stack
 
 Multiple bonuses stack **additively** on top of your base ×1 multiplier. The final multiplier is applied to every XP award.
 
@@ -69,7 +68,7 @@ Multiple bonuses stack **additively** on top of your base ×1 multiplier. The fi
 
 So a Premium player in a full convoy during a double-XP weekend, with an XP Boost token active, can reach well above ×3 multiplier. Stacking these is the fastest way to hit level 500.
 
-### Convoy bonus breakdown
+### Convoy Bonus Breakdown
 
 Convoy bonuses stack in their own way:
 
@@ -81,7 +80,7 @@ Convoy bonuses stack in their own way:
 
 The total convoy multiplier is capped at **+50%**.
 
-## What resets and what saves
+## What Resets and What Saves
 
 - **Live game**: Level, XP, BR, vehicles, housing — all saved automatically when you leave the server. You don't need to manually save.
 - **Studio / test servers**: XP resets to 0 when you join. A warning message appears. This is normal — your live progress is not affected.
@@ -89,7 +88,7 @@ The total convoy multiplier is capped at **+50%**.
 
 > If you're a staff member who uses Fast Travel, note that distance-based XP is paused for 5 minutes after each fast-travel to prevent skew. Normal players don't have access to Fast Travel, so this cooldown doesn't apply to them.
 
-## Tips for levelling fast
+## Tips for Levelling Fast
 
 1. **Stay in the driver seat on long routes.** Long-distance driving is the single biggest source of passive XP.
 2. **Do Food Delivery starting at Level 10.** 250 XP per delivery is the best flat rate until higher tiers unlock.
@@ -98,7 +97,7 @@ The total convoy multiplier is capped at **+50%**.
 5. **Save XP Boost tokens for long sessions.** The +100% is duration-based, so use it during commitment blocks (a full evening of racing or delivery).
 6. **Weekend events** occasionally double XP for everyone. Watch for announcements.
 
-## Next steps
+## Next Steps
 
 - [Vehicles](/lebuhraya/vehicles) — Fuel pricing and ownership
 - [Jobs](/lebuhraya/jobs) — Per-job XP / BR breakdown

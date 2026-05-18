@@ -2,8 +2,8 @@
 title: பொருளாதாரம்
 description: 'Ringgit (SR), பணப்பை vs வங்கி, மற்றும் Sumaya-வில் சம்பாதிக்கும் வழிகள்.'
 lang: ta
-translated_from_hash: '7e369425'
-translated_on: '2026-05-17'
+translated_from_hash: "4b1b966c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -146,7 +146,7 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 - **Tier 1 வீடு** (Small Bornean): 25,000 Ringgit.
 - **Tier 2 வீடு** (Spacious / Compact Bornean): 29,000 / 32,000 Ringgit.
 - **Tier 3 வீடு** (Modern Terrace, இரண்டு cosmetic variants): 35,000 Ringgit.
-- **தளபாடங்கள்**: ஒவ்வொரு model-இன் `Price` attribute-இல் சேமிக்கப்பட்ட ஒவ்வொரு பொருளுக்கான விலைகள் — பரவலாக மாறுபடும்.
+- **தளபாடங்கள்**: ஒவ்வொரு item-க்கும் விலை பரவலாக மாறுபடும்.
 
 [வீட்டுவசதி](/sumaya/housing)-ஐ பார்க்கவும்.
 

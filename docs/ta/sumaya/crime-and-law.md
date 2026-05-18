@@ -2,8 +2,8 @@
 title: குற்றம் & சட்டம்
 description: 'Sumaya-வில் கார் திருட்டு, பைதிருட்டு, வான்ட் நட்சத்திரங்கள், மற்றும் சிறை.'
 lang: ta
-translated_from_hash: e44a4fb1
-translated_on: '2026-05-17'
+translated_from_hash: "731048c6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

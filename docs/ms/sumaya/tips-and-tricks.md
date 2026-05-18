@@ -2,8 +2,8 @@
 title: Petua & Helah
 description: 'Interaksi tersembunyi, kerenah mudah alih, dan petua pakar untuk Sumaya.'
 lang: ms
-translated_from_hash: 06f13503
-translated_on: '2026-05-17'
+translated_from_hash: "bfe789ad"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

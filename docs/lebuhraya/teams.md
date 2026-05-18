@@ -9,15 +9,15 @@ There are **18 teams** in Lebuhraya. Each one represents a different role in the
 
 Your **career tier** sits on top of the team system. You can rank up from **Trainee** all the way to the top of the chain (like Senior Assistant Commissioner or Fire Commissioner) by earning branch-specific XP on the job.
 
-## How to join a team
+## How to Join a Team
 
 Open the **Main Menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time (though some roleplay situations, like an assigned 999 incident, will be cancelled when you swap).
 
-### Reading the Teams screen
+### Reading the Teams Screen
 
 The Teams tab uses a carousel:
 
-- The centered card is the team currently in focus.
+- The centred card is the team currently in focus.
 - Side cards preview nearby teams; click/tap or use arrows to move through the carousel.
 - A lock or dimmed card means you do not currently meet the requirement.
 - The lower info panel shows the full team name, description, current-team status, and join/confirm action.
@@ -25,16 +25,16 @@ The Teams tab uses a carousel:
 
 If you are on a job team and try to open a civilian vehicle spawner, the game may warn that you cannot access that spawner while working. Switch back to **Visitors** or a non-job team if you want civilian spawner access.
 
-## The 18 teams
+## The 18 Teams
 
-### Free for everyone
+### Free for Everyone
 
 | Team | Description |
 |---|---|
 | **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
 | **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone — a good entry point. |
 
-### Unlocked by MYSverse community membership
+### Unlocked by MYSverse Community Membership
 
 | Team | How to unlock |
 |---|---|
@@ -42,7 +42,7 @@ If you are on a job team and try to open a civilian vehicle spawner, the game ma
 
 The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
 
-### Unlocked by level
+### Unlocked by Level
 
 | Team | Level | Role |
 |---|---|---|
@@ -52,12 +52,12 @@ The Malaysians team is the community-role team, not a normal paid career branch.
 | **Logistics** | 75 | Freight trucking — haul cargo with a Rolvo FM or Sanica P-series. |
 | **Power Nasional** | 100 | National electric utility contractor work. |
 | **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
-| **Kesihatan** | 200 | The National Health Ministry — drive ambulances, treat patients, respond to 999 medical calls. |
+| **Kesihatan** | 200 | The health-service team — drive ambulances, treat patients, respond to 999 medical calls. |
 | **APJ** | 300 | Road Transport Agency — enforce driving and vehicle regulations. |
 
 > The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
 
-### Unlocked by gamepass
+### Unlocked by Gamepass
 
 | Team | Role |
 |---|---|
@@ -69,20 +69,20 @@ The Malaysians team is the community-role team, not a normal paid career branch.
 
 See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepasses.
 
-### System teams
+### System Teams
 
 | Team | Description |
 |---|---|
-| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
+| **Developers** | MYSverse staff team. Not joinable directly. |
 | **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
 
-## Career tiers and ranks
+## Career Tiers and Ranks
 
 Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job — driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
 
 Open **Main Menu -> More -> Career** to view your overall career status. Open **Main Menu -> More -> Jobs** to inspect branch tier progress and rewards.
 
-### How tier XP scales
+### How Tier XP Scales
 
 The tier curve is:
 
@@ -92,7 +92,7 @@ The tier curve is:
 
 You can see your current tier and XP progress in **Main Menu -> More -> Career**.
 
-### Rank titles
+### Rank Titles
 
 Ranks are named specific to each team. A few examples:
 
@@ -111,7 +111,7 @@ Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipm
 **Food Delivery** (Perkhidmatan agency):
 Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
 
-### The six agencies
+### The Six Agencies
 
 Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
 
@@ -124,7 +124,7 @@ Teams are grouped into six agencies. This matters because some tier rewards (veh
 | **Sumber** (Resources) | Power Nasional, Lumberjack |
 | **Penguatkuasaan** (Enforcement) | APJ |
 
-## Tier rewards
+## Tier Rewards
 
 Hitting a tier milestone can unlock:
 
@@ -134,7 +134,7 @@ Hitting a tier milestone can unlock:
 
 Career vehicles won't show in their matching team vehicle spawner until your tier is high enough.
 
-### Why a vehicle is missing from the spawner
+### Why a Vehicle Is Missing from the Spawner
 
 If a vehicle exists in the wiki but does not appear in your spawner, check:
 
@@ -144,7 +144,7 @@ If a vehicle exists in the wiki but does not appear in your spawner, check:
 4. Do you meet the career tier requirement?
 5. Is it a gamepass/team vehicle that requires ownership or a Team Access token?
 
-## Uniforms and outfits
+## Uniforms and Outfits
 
 Each team has its own **uniform kit** — hats, vests, accessories specific to the role. You can put on your team uniform through the career customisation menu once you're on a team. Sample kits:
 
@@ -153,7 +153,7 @@ Each team has its own **uniform kit** — hats, vests, accessories specific to t
 - **Bomba**: Neckguard, Light, Respirator, Command Helmet
 - **Kesihatan**: Medical gear including Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
 
-## Next steps
+## Next Steps
 
 - [Jobs](/lebuhraya/jobs) — What each team actually does on a typical shift
 - [Passes and Boosts](/lebuhraya/passes-and-boosts) — Gamepasses and the Season Pass

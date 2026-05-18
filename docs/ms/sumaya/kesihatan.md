@@ -4,8 +4,8 @@ description: >-
   Bermain sebagai Kesihatan di Sumaya — ambulans, rawatan, dan menghidupkan
   semula.
 lang: ms
-translated_from_hash: 48961d5b
-translated_on: '2026-04-30'
+translated_from_hash: "227133cd"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -33,7 +33,7 @@ Sistem kecederaan **auto-aktif setiap kali sekurang-kurangnya seorang pemain Kes
 - Pemain dan NPC boleh mengalami kecederaan sebenar dan bukan mati serta-merta.
 - Kecederaan memerlukan rawatan perubatan untuk sembuh.
 - **Setiap pemain di pelayan mendapat +15% XP tahap pemain** (XP sektor tidak terjejas).
-- Setiap watak pemain membawa atribut `InjurySystemEnabled = true` semasa sistem aktif.
+- Sistem kecederaan kekal aktif untuk seluruh server selagi sekurang-kurangnya seorang pemain Kesihatan bertugas.
 
 Pelayan menyahaktifkan sistem kecederaan sebaik sahaja pemain Kesihatan terakhir keluar. Jadi sekadar log masuk sebagai Kesihatan sudah cukup untuk "mengaktifkan" ia — tiada togol manual diperlukan. Galakan +15% XP itu adalah satu perkara besar: ia terpakai pada setiap kerja, setiap penangkapan, setiap penuaian - jadi apabila Kesihatan hidup, seluruh pelayan mendapat manfaat. Ini adalah sebab tunggal terbesar untuk mempunyai pemain perubatan.
 

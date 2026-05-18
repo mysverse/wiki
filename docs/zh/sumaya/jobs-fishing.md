@@ -2,8 +2,8 @@
 title: 捕鱼
 description: Sumaya 的捕鱼 — 钓点、鱼种、价格和职业晋升。
 lang: zh
-translated_from_hash: 1a7b6ae3
-translated_on: '2026-05-17'
+translated_from_hash: "c128b604"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 捕鱼
@@ -90,7 +90,7 @@ XP 和 Ringgit 奖励会在你于码头**出售**鱼时发放。
 较高的职业等级不会直接增加每条鱼的奖励。它的作用是:
 
 - 更好的职阶头衔(没有机制作用,只是威望)。
-- 在**第 50 级**解锁 `Token_Keli` 代币,这是解锁**服务业**(Mamak / Fast Food)的门槛。
+- 在**第 50 级**解锁**服务业**(Mamak / Fast Food)。
 
 ## 解锁服务业
 

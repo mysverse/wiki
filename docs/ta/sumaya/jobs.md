@@ -4,8 +4,8 @@ description: >-
   Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் — மீன்பிடி, சேவை, மற்றும் பனை
   எண்ணெய்.
 lang: ta
-translated_from_hash: 920129b9
-translated_on: '2026-05-17'
+translated_from_hash: "564a308e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

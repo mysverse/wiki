@@ -7,7 +7,7 @@ description: "Bandar Seri Putra, Jersik, Kampung Merbang, and 29 key locations a
 
 Lebuhraya is set on a stretch of Malaysian highway with three main regions connected by toll plazas and rest stops. This page maps out where everything is.
 
-## The regions
+## The Regions
 
 ### Bandar Seri Putra
 
@@ -58,7 +58,7 @@ A plaza / neighbourhood zone.
 - **Plaza Tol Putra Mahkota** — Second major toll plaza
 - **Taman Mahkota** — Housing / residential zone
 
-## Highway landmarks
+## Highway Landmarks
 
 The highway connects all three regions. Notable stops:
 
@@ -69,13 +69,13 @@ The highway connects all three regions. Notable stops:
 - **Plaza Tol Jersik** — Toll collection
 - **Plaza Tol Putra Mahkota** — Toll collection
 
-## Other points of interest
+## Other Points of Interest
 
 - **SMK MYS II** — Secondary school
 - **Fishing Port** — Malaysians-team fishing location
 - **Haunted House** — An easter egg / roleplay spot; explore at your own risk
 
-## Where to go when you need…
+## Where to Go When You Need…
 
 | What you need | Where to go |
 |---|---|
@@ -96,19 +96,19 @@ The highway connects all three regions. Notable stops:
 | Pray | Masjid Kampung Merbang or Masjid Bandar Seri Putra |
 | Hang out | RnR rest stops or Dus Doffee |
 
-## Weather and time of day
+## Weather and Time of Day
 
 Lebuhraya has a live day-night cycle and random rainfall.
 
 **Time cycle**: in-game time advances by **1 minute every real-world second**, so a full in-game day takes 24 real minutes. Streetlights and billboard lights turn on automatically at **6:00 PM** and remain on until **6:40 AM**. Drive with headlights during those hours for visibility — and respect the atmosphere; some roads are meaningfully darker at night.
 
-**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a screen rain effect while it's active. Roads don't become slippery, but visibility drops. Admins can toggle rain on/off with chat commands `!rainon` / `!rainoff` during events.
+**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a screen rain effect while it's active. Roads don't become slippery, but visibility drops. Staff may also turn rain on or off during events.
 
-## Traffic lights and junctions
+## Traffic Lights and Junctions
 
 Junction traffic lights at intersections coordinate across multiple signal groups (e.g. the `BSP_Main` junction in Bandar Seri Putra has two alternating phases). Standalone lights cycle Green → Yellow → Red independently. Stopping at red is enforced by the anti-cheat system — see *Speed traps and tolls* below for details on the **Red Light** offence.
 
-## Speed traps and tolls
+## Speed Traps and Tolls
 
 Selected highway stretches have **speed traps** that measure your vehicle's speed as you pass through.
 
@@ -123,7 +123,7 @@ Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to
 
 Fast Travel exists in the game but is gated to **MYSverse staff only** (moderators / devs), used for event coordination. If you're not staff, you'll drive every journey — so plan routes accordingly. Every stud you drive is XP, so the scenic route is often the profitable one.
 
-## Next steps
+## Next Steps
 
 - [Shops](/lebuhraya/shops) — What each shop sells
 - [Jobs](/lebuhraya/jobs) — Which buildings belong to which job

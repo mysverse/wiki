@@ -5,46 +5,42 @@ description: "Start your adventure in Bandaraya — navigate menus, earn Bandara
 
 # Getting Started
 
-**Bandaraya** is a Malaysian city roleplay experience on Roblox, set in Kuala Lumpur. You join a team representing a real Malaysian organisation — police, fire, health, military, transport, civilian, royalty — and live life in the city. Drive, work, arrest, rescue, take the MRT, order from a mamak, sit in traffic. Your choice.
+**Bandaraya** is a Malaysian city roleplay experience on Roblox, set in Kuala Lumpur. You choose a role, spawn into the city, and play out everyday or emergency-service stories with other players.
 
-The in-game currency is **BR (Bandar Ringgit)**. All prices in this wiki are in BR unless labelled otherwise (R$ = Robux).
+The in-game currency is **BR (Bandar Ringgit)**. Prices in this wiki use BR unless they are labelled **R$** for Robux.
 
-## What you can do
+## What You Can Do
 
-- **Pick a role.** Civilian, police (POLIS), firefighter (BOMBA), doctor (KKM), soldier (MAF), bus driver, taxi driver, postie, tower. Every team has its own tools, vehicles, and stories.
-- **Work for money.** Deliver mail (POS), drive a taxi, tow illegally-parked cars, drive a bus route — or climb the police ranks and keep the city safe.
-- **Drive.** 200+ vehicles across 25+ organisations — Proton, Perodua, Toyota, Honda, BMW, and Malaysia-specific emergency fleets.
-- **Get around.** Board a bus (sit, automatic fare), fast-travel via MRT Kajang Line or KL Monorail, or drive through TapNGo toll gates.
-- **Buy a car.** Visit the Classic Car Dealer, pick a model, choose a colour, buy or rent, and it's saved to your account.
-- **Use the CAG card.** Bandaraya's take on Touch n Go — one card for buses, MRT, and tolls, with a monthly pass option.
-- **Respond to emergencies.** Real fire incidents, real calls, real patients.
-- **Get arrested (try not to).** POLIS will detain, cuff, and arrest you. There's a 3-minute cool-off, then you're back out.
-- **Shop.** Food, clothes, tools, even a black market. Guns need a Firearms Licence gamepass.
-- **Roleplay.** The game rewards staying in character.
+- **Pick a role.** Be a civilian, police officer, firefighter, medic, soldier, bus driver, taxi driver, postal worker, tow operator, or another specialist role.
+- **Work for money.** Deliver mail, drive taxis, operate buses, tow vehicles, or buy BR if you want a quicker start.
+- **Drive.** Use civilian cars, motorcycles, buses, emergency vehicles, military vehicles, and helicopters if your team has access.
+- **Travel around KL.** Ride buses, fast-travel by MRT or Monorail, or drive through TapNGo toll gates.
+- **Use CAG.** The Click And Go card handles buses, MRT/Monorail discounts, toll discounts, and monthly passes.
+- **Respond to emergencies.** Police, fire, medical, and military teams all have distinct roles.
+- **Roleplay law and consequences.** POLIS can detain, cuff, arrest, and issue summons. Suspects serve a short jail timer and return to play.
+- **Shop and customise.** Buy food, clothes, tools, cars, and certain licensed items.
 
-## The setting
+## The Setting
 
-Bandaraya is an in-game section of **Kuala Lumpur**. You'll recognise real landmarks — **Maxis Tower**, **Grand Hyatt**, **Public Bank**, the **PETRONAS** area, **Ampang Park**, **Bukit Bintang**, and a fleshed-out MRT/Monorail network with stations at real KL locations (Conlay, Persiaran KLCC, Ampang Park; Bukit Bintang, Raja Chulan, Bukit Nanas).
+Bandaraya covers a game version of Kuala Lumpur. You will see real-KL-inspired places such as the PETRONAS area, Ampang Park, Bukit Bintang, IPD Dang Wangi, major hotels, bank towers, bus hubs, and MRT/Monorail stations.
 
-The teams are real Malaysian institutions: **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, **KPTD**. The transit card — **CAG** — is Bandaraya's Touch n Go analogue, down to debt on empty cards, monthly passes, and collectible designs tied to Deepavali, Merdeka, and Raya.
+Many teams are based on Malaysian institutions, including **POLIS**, **BOMBA**, **KKM**, **SJAM**, **RELA**, **MAF**, and **KPTD**. If an acronym is unfamiliar, check the [Glossary](/bandaraya/glossary).
 
-Not sure what an acronym means? The [glossary](/bandaraya/glossary) has every one of them.
+## Who Runs This
 
-## Who runs this
+- **Creator:** MYSverse
+- **Currency:** BR, earned in game or bought with Robux
+- **Current version:** Bandaraya v3.15.8
 
-- **Main group:** MYSverse (1143446)
-- **Built by:** the developer group at MYSverse
-- **Currency:** BR (Bandar Ringgit), earned in-game, top-up-able with Robux via developer products
+## Next Steps
 
-## Next steps
+- Brand new? Read [Getting Started](/bandaraya/get-started).
+- Choosing a role? See [Teams](/bandaraya/teams).
+- Want money? Start with [Jobs](/bandaraya/jobs) and [Economy](/bandaraya/economy).
+- Just travelling? Read [Getting Around](/bandaraya/getting-around).
+- Need a quick answer? Check [FAQ](/bandaraya/faq).
 
-- **Brand new?** Start at [Getting Started](/bandaraya/get-started).
-- **Choosing a role?** See [Teams](/bandaraya/teams).
-- **Want to earn money fast?** Start with [Jobs](/bandaraya/jobs) and [Economy](/bandaraya/economy).
-- **Just want to travel?** Read [Getting Around](/bandaraya/getting-around).
-- **Everything else:** the [README](/) has a grouped table of contents and a quick-find.
-
-## See also
+## See Also
 
 - [Getting Started](/bandaraya/get-started)
 - [Teams](/bandaraya/teams)
@@ -53,102 +49,95 @@ Not sure what an acronym means? The [glossary](/bandaraya/glossary) has every on
 
 ---
 
-Your first ten minutes in Bandaraya — from "I just clicked play" to "I'm driving a car around KL."
+Your first ten minutes in Bandaraya, from joining the server to moving around KL.
 
 ## TL;DR
 
-1. Pick **Visitors** or **Malaysians** at the team menu. You can switch later.
-2. Spawn in. Look around.
-3. Open your map with the map button (it's on the right side of the topbar).
-4. Need cash? Try [Postal Service or Taxi Driver](/bandaraya/jobs).
-5. Want to ride MRT or a bus? Read [Getting Around](/bandaraya/getting-around).
-6. Want to be a police officer? You'll need to join the [POLIS group](/bandaraya/teams#emergency-services).
+1. Pick **Visitors** or **Malaysians**.
+2. Spawn in and open the map.
+3. Try a job if you need BR.
+4. Use MRT, bus, taxi, or a vehicle to travel.
+5. Read the rules before joining law, emergency, or combat roleplay.
 
----
+## 1. Team Selection
 
-## Step 1 — Team selection menu
+When you join, the team menu opens.
 
-When you join, the **team menu** opens automatically. Browse the carousel.
+- **Visitors** is open to everyone.
+- **Malaysians** requires the MYSverse group.
 
-- **Visitors** (Bright green) — open to everyone, no requirements. Civilian life.
-- **Malaysians** (Bright yellow) — requires joining the main MYSverse group (free). The "proper" civilian team.
+Police, fire, military, taxi, HCC, and other specialist teams require group access, rank, whitelist, or gamepass. See [Teams](/bandaraya/teams).
 
-Click **Play** to spawn.
+## 2. First Spawn
 
-Teams for police, fire, military, etc. require group membership or a gamepass. See [Teams](/bandaraya/teams) for the full list and how to qualify.
+After choosing a team, you spawn at a team-appropriate location. You may have:
 
-## Step 2 — Your first spawn
+- Team tools, if your team receives any.
+- A BR wallet.
+- ID or licence cards based on your group memberships.
+- A minimap and full map.
+- Topbar icons for phone, map, and other available tools.
 
-You'll appear at a team-appropriate spawn location. Look around. You have:
-
-- A **backpack** with any tools your team gets by default (civilians get none).
-- A **wallet** (BR) — starts at 0 unless you've played before. Open it with the standard Roblox inventory button.
-- A **driving licence** card in your backpack with a synthesized Malaysian IC number (`YYMMDD-14-<last4>` where YYMMDD is your Roblox account creation date and 14 is the WP KL state code).
-- If you're in the MYSverse group, also a **MyKad** ID card. Other group memberships (POLIS, BOMBA, KKM, MAF, SJAM, etc.) issue extra service-specific ID cards on top.
-- A **minimap** (bottom-right by default, plus a full map toggle on **M**). The minimap shows your current street name as a hero label and "Zone · Compass" beneath it.
-- A **topbar** with icons for map, phone, and any team-specific gadgets.
-
-## Step 3 — Move around
-
-- **WASD** — walk.
-- **Hold Shift** — sprint (faster; slower if you're injured).
-- **Space** — jump.
-- **E** (or tap on touch) — interact with a proximity prompt (doors, kiosks, signs, buttons).
-
-## Step 4 — Try something
-
-Pick one:
-
-### Drive a car
-1. Find a spawner — dealership is at **Classic Car Dealer**, civilian rentals start there too.
-2. Interact, pick a vehicle, and use the on-screen buttons (or A/D + Space) to spawn.
-3. Sit in the driver seat. Drive with **W / A / S / D**. **F1** toggles mouse steering.
-4. Fuel matters — visit **Radtrol Gas Station @ Jalan Pinang** or a charging station if you run low. See [Vehicles](/bandaraya/vehicles).
-
-### Ride the MRT or a bus
-1. Walk to a **station** (Conlay, Persiaran KLCC, Ampang Park on the MRT; Bukit Bintang, Raja Chulan, Bukit Nanas on the Monorail).
-2. The fast-travel panel opens. Pick where to go. Pay with BR (or CAG card — cheaper).
-3. For buses, walk onto a tagged bus, sit in a passenger seat, and a fare is charged automatically.
-4. Details in [Getting Around](/bandaraya/getting-around).
-
-### Take a job
-1. See [Jobs](/bandaraya/jobs).
-2. **Postal Service (POS)** is the most newbie-friendly — reliable BR, no setup.
-3. **Taxi Driver** pays per trip but needs a gamepass or the Taxi Services team.
-
-### Just vibe
-- Walk around KL. Stop at the mamak. Watch an arrest go down. Take a selfie with the Twin Towers.
-
-## Step 5 — Dying, resetting, rejoining
-
-- **Reset** button works — *unless* your health drops to 75 or below, in which case it's greyed out. This is intentional, to stop people resetting to avoid arrest (RTAA). See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
-- If you're downed but not dead, a medic (KKM or SJAM) can pick you back up. You have a 5-minute bleedout window when KKM or SJAM are online.
-- When you die, you respawn at your team's spawn point after a short fade-to-black.
-- **Disconnecting while detained?** That's LTAA — you'll be auto-arrested for 3 minutes on rejoin. See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
-
-## Step 6 — Your first 10 minutes checklist
-
-- [ ] Joined a team (Visitors / Malaysians)
-- [ ] Opened the map
-- [ ] Drove a vehicle (any vehicle)
-- [ ] Bought or tried to earn BR
-- [ ] Visited a landmark (Twin Towers? IPD Dang Wangi? the mamak?)
-- [ ] Rode an MRT / bus / taxi
-
----
-
-## Controls reference
-
-### Movement
+## 3. Basic Controls
 
 | Key | Action |
 | --- | --- |
-| **WASD** / Arrows | Walk |
+| **WASD** | Walk |
+| **Shift** | Sprint |
 | **Space** | Jump |
-| **Shift** (hold) | Sprint |
-| **E** | Interact with proximity prompts |
-| **F** | Sit on the nearest seat (within 5 studs) — drive a car, sit at a table, board a bus |
-| **Hold Space (in seat)** | Exit the seat (must hold — fast vehicles delay exit; safer than tap) |
+| **E** | Interact with prompts |
+| **F** | Sit in a nearby seat |
+| **Hold Space in a seat** | Exit the seat |
+
+On mobile, use the on-screen controls and tap prompts.
+
+## 4. Try Something
+
+### Drive
+
+1. Find a spawner or the Classic Car Dealer.
+2. Open the spawner panel.
+3. Pick a vehicle.
+4. Sit in the driver seat and drive.
+5. Refuel at Radtrol or charge at Community Retail if needed.
+
+See [Vehicles](/bandaraya/vehicles).
+
+### Use Public Transport
+
+1. Walk to an MRT or Monorail station.
+2. Pick a destination on the same line.
+3. Pay with BR or CAG.
+4. For buses, sit in a passenger seat and the fare is handled automatically.
+
+See [Getting Around](/bandaraya/getting-around).
+
+### Earn BR
+
+- **POS** is the easiest starter job.
+- **Taxi** is good if you own the pass or have team access.
+- **Tow** and **bus** jobs require group access.
+
+See [Jobs](/bandaraya/jobs).
+
+## 5. Dying, Resetting, and Rejoining
+
+- Reset works unless your health is at or below 75 HP.
+- If KKM or SJAM are on duty, downed players get a 5-minute bleedout window.
+- Leaving while detained or being arrested can auto-jail you when you return.
+
+See [Combat & Health](/bandaraya/combat-and-health) and [Arrest & Law](/bandaraya/arrest-and-law).
+
+## First-Session Checklist
+
+- [ ] Picked a team.
+- [ ] Opened the map.
+- [ ] Tried a vehicle or public transport.
+- [ ] Found a way to earn BR.
+- [ ] Visited a landmark.
+- [ ] Read the rules.
+
+## Controls Reference
 
 ### Vehicle
 
@@ -156,40 +145,31 @@ Pick one:
 | --- | --- |
 | **W / S** | Accelerate / brake |
 | **A / D** | Steer |
-| **Shift** | Handbrake (in many chassis) |
-| **F1** | Toggle mouse-steering |
-| **C** | Change camera (some vehicles) |
-| Horn / siren buttons | On-screen in emergency vehicles |
+| **Space** | Handbrake on many vehicles |
+| **F1** | Toggle mouse steering |
+| **C** | Camera on some vehicles |
 
 ### UI
 
 | Key | Action |
 | --- | --- |
-| **Ctrl + W** | Open your CAG card wallet (any time) |
-| **Z + Shift** (either order) | Animation picker — pick a pose: Sit, Surrender, Chilling, Injured, Leaning, Crossed Arms, Squat |
-| **Escape** | Close most menus |
-| **Shift + P** | Free camera (admin only — rank 251+ or whitelist) |
+| **M** | Full map |
+| **Ctrl + W** | CAG wallet |
+| **Z + Shift** | Animation picker |
+| **Escape** | Close many menus |
 
-### Touch (mobile)
+## Tips
 
-- On-screen joystick for movement; jump / sprint buttons on the right.
-- Tap on proximity prompts. Tap vehicle UI buttons.
-- Vehicle spawners support mobile — use the on-screen nav arrows.
-- Some interactions are harder on mobile; if stuck, switch devices or ask a mod.
+- If a team tool does not appear, respawn after switching teams.
+- If a team is missing, you may not meet the access requirement or nobody is currently on it.
+- Keep some BR for fuel, tolls, fines, and emergencies.
+- Use CAG if you plan to ride buses or fast travel often.
 
-## Tips & gotchas
+## See Also
 
-- **Team colours matter.** Your team's `TeamColor` controls which spawners you can use, which tools you're given, and which tablet apps you see.
-- **Teams come and go.** A team with no players is automatically removed from the team list (except Visitors, Malaysians, and Arrested). Don't worry if a team disappears — it's back when someone joins.
-- **Don't reset when injured.** It's disabled for your own good (anti-RTAA), and it stops you cheating out of arrest.
-- **Use the CAG card.** If you'll use public transport more than a handful of times, it's worth the 100 BR.
-- **Read the rules.** See [Rules](/bandaraya/rules).
-
-## See also
-
-- [Teams](/bandaraya/teams) — Choose a role
-- [Jobs](/bandaraya/jobs) — Earn BR
-- [Vehicles](/bandaraya/vehicles) — Spawn and drive cars
-- [Getting Around](/bandaraya/getting-around) — MRT, buses, CAG
-- [FAQ](/bandaraya/faq) — Common early-player questions
-- [Glossary](/bandaraya/glossary) — Malay and acronym lookup
+- [Teams](/bandaraya/teams)
+- [Jobs](/bandaraya/jobs)
+- [Vehicles](/bandaraya/vehicles)
+- [Getting Around](/bandaraya/getting-around)
+- [FAQ](/bandaraya/faq)
+- [Glossary](/bandaraya/glossary)

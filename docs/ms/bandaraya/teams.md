@@ -4,8 +4,8 @@ description: >-
   Panduan lengkap semua pasukan di Bandaraya — perkhidmatan kecemasan, tentera,
   pengangkutan, awam, kerajaan, dan banyak lagi.
 lang: ms
-translated_from_hash: 6a9a6da9
-translated_on: '2026-04-21'
+translated_from_hash: "6ac5c18c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pasukan
@@ -119,7 +119,7 @@ Pasukan-pasukan ini bertumpu pada menjaga ketertiban, bertindak balas terhadap i
 - **Warna Pasukan:** Oren daisy
 - **Kemudahan:** Gov Building
 
-### Kementerian Keadilan MYSverse (Ministry of Justice)
+### Kementerian Keadilan MYSverse (MYSverse Justice Authority)
 
 - **Penerangan:** Mengendalikan prosiding undang-undang dan pentadbiran keadilan.
 - **Buka Kunci:** Keahlian kumpulan diperlukan.

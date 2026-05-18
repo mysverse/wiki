@@ -2,40 +2,39 @@
 title: 经济与经验值
 description: Ringgit（BR）、1-500 级等级系统、XP 加成，以及 Lebuhraya 中最快的赚钱方法。
 lang: zh
-translated_from_hash: 5542a6bf
-translated_on: '2026-04-21'
+translated_from_hash: "ae86ce3e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 经济与经验值
 
 Lebuhraya 的一切都围绕着两个数字:您的 **Ringgit (BR)** 和您的**等级**。本页说明两者如何运作、来源为何,以及如何更快地赚取。
 
-## Ringgit (BR) — 已追踪但尚未启用
+## Ringgit (BR) — 已追踪，但目前主要在后台
 
-Lebuhraya 的货币系统**仅部分实施**。您的账户确实带有 BR 余额(初始为 **1000** 并在各会话之间保留),但在当前版本的游戏中:
+你的账户确实带有 BR 余额（初始为 **1000**，并会跨会话保留），但在当前版本的 Lebuhraya 中，它还不是主要玩法循环：
 
-- **Lebuhraya 中没有任何地方显示您的 BR 余额。** 没有 HUD 显示、没有 leaderstat 条目、没有 Phone 应用显示。唯一读取您余额的脚本是 Tablet 应用内仅限员工使用的管理工具。
-- **唯一有效的赚取途径是赛车。** 赢得比赛会调用 `Currency.Debit` 并记入您的账户。您可能预期的所有其他"付款"(Food Delivery、Post Office 薪水、拖车费用、燃油销售、商店购买、维修费用)目前在 Lebuhraya 中均为空操作 — 钩子存在但被注释掉、被占位或被绕过。
-- **Lebuhraya 中没有任何地方消耗 BR。** 商店是免费的。油泵不收费。收费站不收费。维修区不收费。住房家具不收费。开发者已准备好基础设施,许多工作系统都有 `rewardMode = "BR"` 分支留作 TODO。
-- **内部的每项工作计数器是独立的。** Post Office 会计算一个 `Salary` 值,但它储存在该工作自己的 DataStore 中,而不是您的 BR 账户中。
+- **你的 BR 余额还不会显示在普通菜单里。** 目前没有常规 HUD、手机或菜单读数。
+- **赛车是目前唯一确认能增加 BR 的方式。** 其他活动主要给予 XP 或工作专属进度。
+- **大多数日常费用目前不会扣款。** 商店、油泵、收费站、维修区和住房家具在普通游玩中暂时免费。
+- **部分工作会显示自己的计数。** 例如 Post Office 可能显示工作收入，但它和你的普通 BR 余额分开。
 
 **这对您意味着什么**:不要根据 BR 来规划您的游戏计划。根据工作的 XP 速率选择工作,根据车辆的驾驶体验(而非价格)选择车辆,并享受目前所有免费的内容。当 BR 启用时,您从赛车赚取的余额将继续保留。
 
 ### 目前追踪的内容
 
-- 起始余额:**1000 BR**(在 MYSverse Lebuhraya 各会话之间共享,储存在 DataStore2 键 `ringgit` 之下)。
+- 起始余额：**1000 BR**，会在你的 MYSverse Lebuhraya 会话之间共享。
 - 有效的赚取来源:仅比赛奖励。
-- 有效的消耗来源:Lebuhraya 特定代码中没有。
-- 共享的 MYSverse 系统(Dealership、Tow、TapNGo)包含实时的消耗逻辑,可能会或可能不会在 Lebuhraya 中触发 — 无论哪种情况,您都不会在屏幕上看到扣款。
+- 有效的消耗来源：普通游玩中暂无确认的实时消耗来源。
 
 ### 未来将使用 BR 的项目(计划中)
 
-根据代码提示,以下项目已规划但尚未连接:
+游戏看起来已经为未来这些 BR 用途做了准备:
 
-- PETROMAS / Radtrol 的燃油付款(价格已定义:1/2/3 BR/L)
-- 商店购买(商店物品有 `Price` 字段)
-- Food Delivery、Checkout、Lumberjack、Fishing — 全部都有空的 `BR` / `Both` 奖励分支
-- Post Office 薪水连接到真正的 BR 账户
+- PETROMAS / Radtrol 的燃油付款
+- 商店购买
+- Food Delivery、Checkout、Lumberjack 和 Fishing 奖励
+- Post Office 薪水变成普通 BR
 - 车辆 dealership / 购买
 - 维修区的维修费用
 

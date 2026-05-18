@@ -2,8 +2,8 @@
 title: 车辆
 description: Sumaya 的汽车、船只、救护车、生成器与个性化定制。
 lang: zh
-translated_from_hash: 61c50e55
-translated_on: '2026-05-17'
+translated_from_hash: "1d782519"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -74,7 +74,7 @@ Sumaya 拥有庞大的车辆目录：民用车、Classic Car Pack 车辆、捕�
 
 ## Shop 中的车辆包
 
-Shop 现在包含即将推出车辆包的 placeholder 卡：
+Shop 现在会预览即将推出的车辆包：
 
 - **Premium EV Vehicles**
 - **Premium Sports Vehicles**

@@ -2,8 +2,8 @@
 title: பாஸ்கள் & பூஸ்டுகள்
 description: 'Lebuhraya-வில் கேம்பாஸ்கள், XP பூஸ்டுகள், மற்றும் Premium நன்மைகள்.'
 lang: ta
-translated_from_hash: '90144865'
-translated_on: '2026-05-17'
+translated_from_hash: "bcab645c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # பாஸ்கள் & பூஸ்டுகள்
@@ -180,9 +180,9 @@ Schedules actual Malaysian public-holiday calendar-ஐ பின்பற்ற�
 | 500,000 stud | 500k Badge |
 | 1,000,000 stud | 1m Badge |
 
-உங்கள் தூர எண்ணிக்கை அதிகரிக்கும்போது badge-கள் server-அதிகாரபூர்வமாக வழங்கப்படுகின்றன — நீங்கள் அவற்றை உரிமை கோர வேண்டியதில்லை.
+உங்கள் தூர எண்ணிக்கை அதிகரிக்கும்போது badge-கள் தானாக வழங்கப்படுகின்றன — நீங்கள் அவற்றை claim செய்ய வேண்டியதில்லை.
 
-பந்தய வெற்றி மைல்கற்கள் (1, 10, 50, 100 வெற்றிகள்; 10, 50 முடிவுகள்; 10, 100 சோதனைகள்) உள்நாட்டில் கண்காணிக்கப்படுகின்றன; இவற்றிற்கான Roblox badge ID-கள் எதிர்கால புதுப்பிப்புகளில் சேர்க்கப்படலாம்.
+Race-win milestones-உம் track செய்யப்படுகின்றன, மேலும் எதிர்கால updates-ல் badges பெறலாம்.
 
 ## Instant-level developer products
 

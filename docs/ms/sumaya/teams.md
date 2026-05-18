@@ -2,8 +2,8 @@
 title: Pasukan
 description: 'Lima pasukan Sumaya — Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.'
 lang: ms
-translated_from_hash: 00882afa
-translated_on: '2026-04-21'
+translated_from_hash: "77a2b90e"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pasukan
@@ -14,7 +14,6 @@ Sumaya mempunyai lima pasukan, masing-masing dengan peranan, alat, dan tanggungj
 
 ### Pelawat (Visitors)
 
-<!-- TODO: Tambah tangkap layar pasukan Pelawat -->
 <!-- ![Pelawat](/images/sumaya/teams/visitors.png) -->
 
 Pasukan lalai untuk semua pemain baru.
@@ -35,14 +34,13 @@ Pasukan lalai untuk semua pemain baru.
 
 ### POLIS
 
-<!-- TODO: Tambah tangkap layar alat pasukan POLIS -->
 <!-- ![POLIS](/images/sumaya/teams/polis.png) -->
 
 Sertai POLIS untuk berkhidmat sebagai penguatkuasa undang-undang dan mengekalkan ketertiban di Sumaya.
 
 - **Warna:** Biru
 - **Keperluan:** Tiada
-- **Sektor Kerja:** Token_Polis
+- **Sektor Kerja:** Polis
 - **Kemajuan Kerjaya:** Ya — naik pangkat untuk membuka peralatan dan tanggungjawab baru
 
 **Alat yang disediakan:**
@@ -66,14 +64,13 @@ Ahli POLIS juga mempunyai akses ke **GUI Perangkap Kelajuan**, yang memaparkan k
 
 ### BOMBA
 
-<!-- TODO: Tambah tangkap layar BOMBA bertindak balas terhadap kebakaran -->
 <!-- ![BOMBA](/images/sumaya/teams/bomba.png) -->
 
 Sertai BOMBA untuk bertindak balas terhadap insiden kebakaran dan melindungi bandar.
 
 - **Warna:** Merah
 - **Keperluan:** Tiada
-- **Sektor Kerja:** Token_Bomba
+- **Sektor Kerja:** Bomba
 - **Kemajuan Kerjaya:** Ya
 - **GUI Khas:** Ya — ahli BOMBA menerima antara muka khas untuk menjejak dan bertindak balas terhadap insiden kebakaran
 
@@ -104,14 +101,13 @@ Pasukan BOMBA dan POLIS mempunyai akses kepada alat boleh letak seperti kon, pap
 
 ### Kesihatan
 
-<!-- TODO: Tambah tangkap layar pasukan Kesihatan di hospital -->
 <!-- ![Kesihatan](/images/sumaya/teams/kesihatan.png) -->
 
 Sertai Kesihatan untuk menyediakan rawatan perubatan dan bertindak balas terhadap kecemasan kesihatan.
 
 - **Warna:** Putih
 - **Keperluan:** Tiada
-- **Sektor Kerja:** Token_Kesihatan
+- **Sektor Kerja:** Kesihatan
 - **Kemajuan Kerjaya:** Ya
 
 **Alat yang disediakan:**

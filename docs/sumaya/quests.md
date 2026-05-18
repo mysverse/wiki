@@ -9,7 +9,7 @@ Sumaya has a **12-quest discovery chain** that walks you through the game's core
 
 This page lists every quest, what you need to do, and what you get.
 
-## How quests work
+## How Quests Work
 
 - The chain **starts automatically** on your first join.
 - Each quest has one or more steps. Complete the steps, get the reward, and the next quest auto-unlocks.
@@ -19,7 +19,7 @@ This page lists every quest, what you need to do, and what you get.
 
 Most quests are **one-step** - do the thing, get the reward. Two of them (the final "lore" quests) have **ordered steps** that must be done in sequence.
 
-## The discovery chain
+## The Discovery Chain
 
 All 12 quests in order. Rewards are paid to your **bank account** for Ringgit, and to your global player XP.
 
@@ -43,7 +43,7 @@ Teaches you where the phone is. Tap the icon.
 - **Waypoint:** nearest vehicle spawner.
 - **Reward:** 150 XP, 100 Ringgit.
 
-Introduces the vehicle spawner system. The Perosatu Axia and Protan Wira are free starter cars; the rest of the standard civilian catalog uses rent/buy prices.
+Introduces the vehicle spawner system. The Perosatu Axia and Protan Wira are free starter cars; the rest of the standard civilian catalogue uses rent/buy prices.
 
 ### 4. Your First Purchase
 
@@ -61,7 +61,7 @@ Teaches shopping. Any cheap item works - food, a tool, anything.
 
 Gets you into the career system. Clock in at any civilian career station.
 
-### 6. Leveling Up
+### 6. Levelling Up
 
 - **Goal:** Reach player level 2.
 - **Reward:** 300 XP, 200 Ringgit.
@@ -119,7 +119,7 @@ The steps must be done **in that order**. You can't spawn a vehicle before check
 
 The finale. Must be done in order. By the time you finish this, you'll have sampled almost everything the game offers. The finale bonus only pays out for this quest.
 
-## Total rewards
+## Total Rewards
 
 If you complete the entire chain:
 
@@ -128,7 +128,7 @@ If you complete the entire chain:
 
 That's enough XP to push past player level 10. The Ringgit isn't enough for a house yet (Tier 1 is 25,000 SR), and it does not cover a Protan X50 (32,000 SR) or even the cheapest paid civilian purchase (5,000 SR). It gets you very close to a Protan Wira Aeroback / Protan Putra purchase, or makes a serious dent in the **Tier 2 Trawler** if you go fishing next.
 
-## Viewing quest progress
+## Viewing Quest Progress
 
 Open the **Quest** app on your phone:
 
@@ -137,7 +137,7 @@ Open the **Quest** app on your phone:
 - **Locked quests** - greyed out until earlier ones are done.
 - **Completed quests** - with a badge.
 
-## Quest waypoints
+## Quest Waypoints
 
 The game automatically sets minimap waypoints for quest steps that need a specific location:
 
@@ -148,7 +148,7 @@ The game automatically sets minimap waypoints for quest steps that need a specif
 
 The waypoint auto-clears when you complete the step.
 
-## Dismissing the task card
+## Dismissing the Task Card
 
 If the task card in the top-left is blocking your view (especially on mobile while driving), tap the **chevron (^)** button to collapse it. Your quest progress continues in the background.
 
@@ -162,7 +162,7 @@ The task card auto-returns when you open a new quest or complete a step.
 - **Quest Ringgit goes to the bank, not your wallet.** Makes sense - you've earned it, it's savings.
 - **You can complete quests passively while doing other activities.** Don't focus-grind them; just play, and they'll tick off naturally.
 
-## What next?
+## What Next?
 
 - [Getting Started](/sumaya/get-started) for the rest of the onboarding.
 - [Phone and UI](/sumaya/phone) for the Quest app interface.

@@ -2,8 +2,8 @@
 title: Pasukan & Kerjaya
 description: Kesemua 18 pasukan di Lebuhraya dan sistem pangkat 20 peringkat.
 lang: ms
-translated_from_hash: e48fefe3
-translated_on: '2026-05-17'
+translated_from_hash: "9fff3580"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pasukan & Kerjaya
@@ -66,7 +66,7 @@ Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya berbayar
 |---|---|
 | **Taxi Driver** | Pandu penumpang untuk tambang. Dibuka oleh gamepass Taxi Driver atau Bandaraya. |
 | **KEMRonda** | Polis bantuan lebuh raya. Tow truck, bantuan tepi jalan, cone boleh letak. |
-| **Bomba** | Jabatan Bomba dan Penyelamat. Trak bomba, spreader, chainsaw, respons kebakaran 999. |
+| **Bomba** | Bomba MYSverse. Trak bomba, spreader, chainsaw, respons kebakaran 999. |
 | **Polis Trafik** | Polis trafik. Taser, radar gun, cone dan sign polis boleh letak. |
 | **Undercover Police** | Toolkit sama seperti Polis Trafik tetapi pada kenderaan tidak bertanda. |
 
@@ -76,7 +76,7 @@ Lihat [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) untuk cara mendapat
 
 | Pasukan | Penerangan |
 |---|---|
-| **Developers** | Pasukan dalaman untuk staf MYSverse. Tidak boleh disertai secara langsung. |
+| **Developers** | Pasukan staf MYSverse. Tidak boleh disertai secara langsung. |
 | **Arrested** | Diberikan secara automatik apabila pemain ditangkap oleh Polis Trafik. |
 
 ## Career tiers dan pangkat

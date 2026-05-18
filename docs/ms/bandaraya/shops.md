@@ -4,8 +4,8 @@ description: >-
   Panduan lengkap kedai, vendor NPC, gamepass, dan sistem ekonomi Bandar Ringgit
   (BR).
 lang: ms
-translated_from_hash: d38c9f3b
-translated_on: '2026-04-21'
+translated_from_hash: "d38c9f3b"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

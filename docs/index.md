@@ -30,27 +30,27 @@ features:
     details: "Collaborate with us to shape experiences, share feedback, and grow the MYSverse together."
 ---
 
-## What is MYSverse?
+## What Is MYSverse?
 
 MYSverse creates immersive Malaysian-themed experiences on Roblox, blending fun,
 culture, and educational values within a realistic metaverse setting.
 
-## How do I join roleplay communities?
+## How Do I Join Roleplay Communities?
 
 MYSverse Sim roleplay agencies such as police, military communities hold recruitments which are usually announced in our Discord.
 Visit the Bandaraya or Lebuhraya pages to learn how to get involved in businesses and other community groups.
 
-## Are there opportunities for partnerships?
+## Are There Opportunities for Partnerships?
 
 Absolutely! We're keen to collaborate with government agencies and regional brands.
 Check out our [main website](https://mysver.se) for contact details
 
-## Can I contribute to the Wiki?
+## Can I Contribute to the Wiki?
 
 Definitely! Our wiki is community-driven and editable via GitHub.
 Use the "Edit this page" button below the page to submit a Pull Request, which will be reviewed by our team.
 
-## Who can play these experiences?
+## Who Can Play These Experiences?
 
 Everyone is welcome! While our content is uniquely Malaysian, we create
 experiences accessible and enjoyable for a global audience.

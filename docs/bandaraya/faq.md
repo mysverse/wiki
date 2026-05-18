@@ -1,221 +1,155 @@
 ---
-title: "FAQ — Frequently Asked Questions"
+title: "FAQ - Frequently Asked Questions"
 description: "Common new-player questions in Bandaraya."
 ---
 
-# FAQ — Frequently Asked Questions
+# FAQ - Frequently Asked Questions
 
-Questions new players ask, answered fast. For deeper info on any topic, follow the links.
+Quick answers for common Bandaraya questions.
 
----
+## Getting Started
 
-## Getting started
+### How Do I Earn BR Fast?
 
-### How do I earn BR fast?
-
-Start with **Postal Service (POS)** — no requirements, ~70 BR per delivery at Level 1 scaling to 260 BR at Level 20. Alternate routes:
-
-- **Taxi Driver** (gamepass 150 R$) — faster BR per minute if bookings are active.
-- **Bus driving** (group-based) — steady if you like route work.
-- **Towing** (group-based) — 500 BR per clamp if you find illegally parked cars.
-
-With the **HCC gamepass**, all job income goes up.
+Start with **Postal Service (POS)**. It is reliable and open to normal civilian teams. Taxi driving can earn well if bookings are active, while towing and bus driving require group access.
 
 See [Jobs](/bandaraya/jobs).
 
-### How do I become a police officer?
+### How Do I Become a Police Officer?
 
-Join **POLIS group 1182710 or 3048630** on Roblox. Any rank qualifies you for the POLIS team. Most groups have trial/training flows — attend those to progress in rank.
+Join the relevant POLIS group through MYSverse community channels, complete any required application or training, then select POLIS from the team menu when you qualify.
 
 See [Teams](/bandaraya/teams#emergency-services).
 
-### What's CAG and do I need it?
+### What Is CAG and Do I Need It?
 
-**CAG** (Click And Go) is Bandaraya's stored-value transit card — the in-game Touch n Go. Buy it at a kiosk for 100 BR, top up as needed. You need it if you:
+**CAG** is the Click And Go transit card. It is useful if you ride buses, use MRT/Monorail fast travel, or drive through tolls often.
 
-- Ride buses (automatic 5 BR fare)
-- Use MRT / Monorail fast travel (30% / 50% off with pass)
-- Drive through TapNGo highway gates (20% off)
-
-If you're not a regular transit user, skip it. If you are, the **monthly pass (500 BR)** pays for itself fast.
+- Card price: 100 BR.
+- Bus fare: 5 BR.
+- MRT/Monorail discount: 30%, or 50% with monthly pass.
+- Toll discount: 20%.
+- Monthly pass: 500 BR for 30 days.
 
 See [Getting Around](/bandaraya/getting-around).
 
-### Why does the reset button not work?
+### Why Does Reset Not Work?
 
-It's **disabled at 75 HP or below** to prevent RTAA (Reset To Avoid Arrest). If you're injured, you can't reset your way out. Wait for a medic, fight through, or let the arrest play out.
+Reset is disabled at or below 75 HP to stop RTAA. Wait for medical help or continue the roleplay.
 
-See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+See [Arrest & Law](/bandaraya/arrest-and-law).
 
----
+## Money and Shops
 
-## Money & shops
+### How Do I Buy a Car?
 
-### How do I buy a car?
+Go to **Classic Car Dealer**, pick a vehicle, choose buy or rent, and select a colour if available. Bought vehicles save to your account.
 
-Go to **Classic Car Dealer**. Browse, pick a model, pick a colour, buy (permanent) or rent (temporary). Permanent purchases auto-save every 30 seconds and carry across sessions.
+See [Vehicles](/bandaraya/vehicles#dealership-classic-car-dealer).
 
-See [Vehicles](/bandaraya/vehicles#dealership).
-
-### How do I get a gun?
+### How Do I Get a Gun?
 
 You need one of:
 
-- **Firearms Licence gamepass** (1,250 R$) → unlocks Ammulaysia.
-- A team that issues weapons (POLIS, KPTD, Moderation, Developers, Yang di-Pertuan Persekutuan, MAF armoury access).
-- **Illegal Dealer (Hacker)** for black-market items (5-minute cooldown).
+- Firearms Licence gamepass for Ammulaysia.
+- A team that issues weapons.
+- Black-market access through the Illegal Dealer.
 
-Note: Ammulaysia has a 5-minute cooldown between purchases too.
+Gun purchases have cooldowns. Do not spam the shop.
 
-See [Combat & Health](/bandaraya/combat-and-health#weapons) and [Gamepasses](/bandaraya/gamepasses).
+See [Combat & Health](/bandaraya/combat-and-health#weapons).
 
-### Where do I get fuel?
+### Where Do I Get Fuel?
 
-- **Petrol / Diesel**: Radtrol Gas Station @ Jalan Pinang.
-- **Electric**: 2 charging stations at Community Retail.
-
-Drive onto the pump, exit the vehicle, interact with the pump, pay BR.
+- Petrol/diesel: **Radtrol Gas Station at Jalan Pinang**.
+- Electric charging: **Community Retail**.
 
 See [Vehicles](/bandaraya/vehicles#fuel).
 
-### I bought a car but it's gone. Where is it?
+### I Bought a Car but It Disappeared. Where Is It?
 
-Bought cars auto-save to your account every 30 seconds. Respawn at Classic Car Dealer and re-spawn your vehicle from the owned-vehicles menu. Your colour customization persists.
+Return to the correct dealership or spawner and spawn it again from your owned vehicles. Purchased dealership vehicles are saved.
 
----
+## Arrests and Rules
 
-## Arrests & rules
+### How Do I Get Out of Jail?
 
-### How do I get out of jail?
+Wait the 3-minute timer. After release, you can pick a team again.
 
-Wait the **3-minute release timer**. After that, you can pick a team again.
+Appeal through the community server if you believe staff review is needed.
 
-If you think you were wrongly arrested, appeal via the Malaysia community server (see [Rules](/bandaraya/rules#appeals)).
+### I Left While Detained and Now I Am Arrested. Why?
 
-### I left while detained and now I'm auto-arrested. Why?
+That is LTAA enforcement. Leaving while detained or being arrested can apply the jail timer when you return.
 
-That's **LTAA (Leave To Avoid Arrest)** enforcement. The 3-minute timer persists across sessions — you can't escape arrest by rage-quitting.
+### Can I Rob Hazbank?
 
-See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
+Yes, Hazbank is a robbery target, but robberies require at least 10 players in the server. Expect police response and possible arrest. Public-service players going rogue during a robbery is a severe violation.
 
-### Can I rob the bank?
+### What Is a BOLO?
 
-Yes — **Hazbank** is a robbery target in-game. But note:
+**Be On the LookOut.** It is a police alert for a suspect, managed through the MDT tablet.
 
-- **Server needs at least 10 players** online for a robbery to start.
-- You have to decode the vault (time-based mini-interaction at the Decoder device).
-- Once in, you stand at a random money-collector point — your character is anchored while the count-down runs (so you can't just grab and bolt).
-- POLIS can **lock the vault down manually** mid-robbery — the shutter drops and you're trapped.
-- An alert fires to all POLIS / active responders when the robbery starts.
-- Expect arrest. OCG (Organised Crime Group) does this in organised events; civilians attempting solo usually get caught.
-- Going rogue as a public-services team member if you're on one = severe violation.
+### Can I Drive a Fire Truck as a Civilian?
 
-### What's a BOLO?
-
-**Be On the LookOut.** A police alert that flags a suspect so all on-duty officers are notified (sound, badge, toast). See [Tablet](/bandaraya/tablet) for how POLIS issue BOLOs via MDT.
-
-### Can I drive a fire truck as a civilian?
-
-**No.** BOMBA vehicles spawn from BOMBA-team-gated spawners. Same for POLIS, MAF, KKM, SJAM, etc.
-
-If you're on BOMBA, you can drive the full fleet. See [Emergency Services](/bandaraya/emergency-services#bomba).
-
----
+No. BOMBA vehicles are team-gated. The same is true for most emergency, military, and job vehicles.
 
 ## Teams
 
-### What's the difference between MyTransit and Bus Services?
+### What Is the Difference Between MyTransit and Bus Services?
 
-Both run buses, but different groups:
+They are different transport operators with different group access and fleets. Both can support bus roleplay.
 
-- **MyTransit** (groups 5032738, 10394166) — the main in-game bus operator.
-- **Bus Services** (groups 12143635, 32663011, 11122768, 33328642) — SPAD-registered private bus operators.
+### I Am on Visitors but Want POLIS. What Do I Do?
 
-They roleplay as different companies. Vehicle fleets are different. See [Teams](/bandaraya/teams#transport) and [Jobs](/bandaraya/jobs#bus-driving).
+Join the relevant POLIS group, complete any requirements, then reopen the team menu after you qualify.
 
-### I'm on Visitors but I want to join POLIS. How?
+### A Team Disappeared from the Team Menu. Is It a Bug?
 
-Join the POLIS Roblox group (1182710 or 3048630), get accepted (may require application/training), then open the team menu in-game and pick POLIS. You'll need to switch teams and respawn.
+Usually no. Some teams are created only when players are using them and are cleaned up when empty.
 
-See [Teams](/bandaraya/teams).
+## Gameplay
 
-### A team disappeared from the team menu. Is this a bug?
+### I Got Kicked for Cheating but I Was Not Cheating. What Do I Do?
 
-No. Teams with no players are **automatically removed** from the list to keep the menu tidy. They reappear the moment someone joins. The only exceptions are Visitors, Malaysians, and Arrested (always persistent).
+Take a screenshot of the kick message and contact staff through the community server. Do not keep retrying the same action if it triggers kicks.
 
----
+### How Do I Get the Punch Tool?
 
-## Technical
+Punch is a quest reward at level 25.
 
-### I got kicked for cheating but I wasn't. What do I do?
+### What Is the Current Game Version?
 
-The anti-cheat has been tuned to allow real combat, but false positives can happen. Look at the kick message — it includes a tag:
+**Bandaraya v3.15.8.** Check the in-game changelog for recent updates.
 
-- **RL** — rate limiting
-- **MV** — movement check
-- **WM** — weapon monitor
+### Why Is My Vehicle Smoking or Damaged?
 
-Take that tag to the community moderators. Anti-cheat false positives during legit combat, at lifts, during searches, and during CCTV operation have all been specifically patched in recent updates.
+Crash damage is visual and functional. Respawn or repair the vehicle when needed.
 
-See [Rules](/bandaraya/rules#tips--gotchas).
+### Can I Play on Mobile?
 
-### How do I get the Punch tool?
+Yes, but some combat, driving, and text-heavy actions are easier on desktop.
 
-It's a quest reward at **Level 25**. You have to grind to level 25 through whatever the quest targets (roleplay activity). Currently the only quest registered with the game's quest system. (A "Pushup" quest UI exists in the codebase but has no working backend yet.)
+### Can I Play with Friends?
 
-### What's the game version?
+Yes. Join the same server and choose compatible roles for your scene.
 
-**v3.15.5** (as of April 2026). See the in-game changelog for the full version history.
+### Does It Rain?
 
-### Why is my vehicle glowing weird after a collision?
+Rain can be enabled by staff for atmosphere or events. It is not a constant weather cycle.
 
-Crash damage shows visually. Heavy crashes produce smoke and wear. Reset the vehicle (respawn it) to restore full health.
+### I Do Not Speak Malay. Will I Be Lost?
 
-See [Vehicles](/bandaraya/vehicles#vehicle-health--crash-damage).
+No. The [Glossary](/bandaraya/glossary) explains common terms such as POLIS, BOMBA, KKM, LTAA, RTAA, CAG, and Saman.
 
-### What's Saude?
+### How Old Does My Roblox Account Need to Be?
 
-Portuguese for "health". It's the internal name for Bandaraya's health system (blood, pain, injuries, medical kit). You won't see the word "Saude" as a player — it's just the dev term for the system. See [Combat & Health](/bandaraya/combat-and-health).
+At least **60 days**.
 
-### My taxi "Start" button gave an error. Is that my fault?
-
-Nope — that was a bug in R15 rigs, fixed in v3.15.5. Retry.
-
----
-
-## Edge cases
-
-### Can I play on mobile?
-
-Yes, with some caveats:
-
-- Vehicle spawners have mobile-friendly UIs.
-- Touch input is supported.
-- Some interactions (combat, long text inputs) are harder on mobile; recent updates fixed several mobile bugs (phone input fields unresponsive).
-- Claiming bus fares via tapping works fine.
-
-### Can I play with a friend?
-
-Yes — invite them to the same server. The team system allows mixed-team parties (you can have POLIS and BOMBA on the same server). OCG and MAF parties are common too.
-
-### Does it ever rain?
-
-Yes, but rain is **admin-toggled** — the developers turn it on and off via chat commands. It's not a persistent weather cycle. When rain is on, 3D particles fall around you, the sky clouds over, and a rain sound plays; otherwise the weather is clear. Your game performance is unaffected when rain is off.
-
-### I don't speak Malay. Will I be lost?
-
-You'll recognise most things. Our [glossary](/bandaraya/glossary) covers every acronym (POLIS, BOMBA, KKM, LTAA, RTAA, CAG, MRT, etc.). Common Malay words: **Polis** (police), **Saman** (summons/fine), **Bomba** (fire brigade), **Kesihatan** (health).
-
-### How old do I need to be?
-
-You need at least **60 days of Roblox account age** to join Bandaraya. This is a bot / fresh-account mitigation (set in v3.9.0).
-
----
-
-## See also
+## See Also
 
 - [Welcome](/bandaraya/get-started)
 - [Getting Started](/bandaraya/get-started)
 - [Glossary](/bandaraya/glossary)
 - [Rules](/bandaraya/rules)
-- [README](/) — full table of contents
+- [README](/)

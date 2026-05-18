@@ -7,6 +7,8 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "check-translations": "node scripts/check-translations.mjs"
+    "lint:style": "node scripts/lint-style.mjs",
+    "check-translations": "node scripts/check-translations.mjs",
+    "verify": "node scripts/lint-style.mjs && node scripts/lint-markdown.mjs && node scripts/check-links.mjs && pnpm run check-translations && pnpm docs:build"
   }
 }

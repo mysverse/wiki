@@ -11,7 +11,7 @@ Jobs are grouped by the **agency** that organises them.
 
 ---
 
-## Before you start a job
+## Before You Start a Job
 
 Most jobs follow the same basic pattern:
 
@@ -48,7 +48,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **Rewards**:
 - **XP** scales with distance: about **0.11 to 0.13 XP per stud**. A 4000-stud fare pays 440–520 XP.
-- BR payments are planned (per the economy audit, the call path exists but isn't user-visible yet).
+- BR payments are planned for a future update.
 
 **Routes**: Pickups and dropoffs are currently drawn from 4 pickup points and 4 dropoff points in the city — routes repeat over time until more are added.
 
@@ -60,7 +60,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **How to start**: Join the Bus Driver team. Use a Bus Driver / bus vehicle spawner and begin a route from the **Depoh Bas** in Bandar Seri Putra.
 
-**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Full routes pay XP (BR payouts are planned but not yet wired up — see *Economy and XP*).
+**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off NPC passengers. Full routes pay XP; BR payouts are planned for a future update.
 
 **Vehicle**: Buses — Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
 
@@ -97,7 +97,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 3. Drive to the customer's location on your waypoint.
 4. Interact with the customer NPC to hand over the order.
 
-**Rewards**: **250 XP flat** per delivery. Older text may mention BR, but the active payout path currently lands XP; BR-facing amounts should be treated as planned economy work until the BR earn path is enabled for this job.
+**Rewards**: **250 XP flat** per delivery. If older in-game text mentions BR, treat it as future economy wording for now.
 
 **Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
 
@@ -109,7 +109,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 
 **What you do**: Collect packages from postboxes in one of the four postal zones (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), process them, and deliver to the marked mailbox addresses.
 
-**Rewards**: **25 XP per package** plus an in-job "Money" counter that grows with each delivery. The Money value is stored in the Post Office's own save record — it is **not** your regular BR balance (which the currency system currently doesn't actively use). The job has its own internal level system, separate from your main player level:
+**Rewards**: **25 XP per package** plus a job-only "Money" counter that grows with each delivery. That counter is **not** your regular BR balance. The job also has its own level system, separate from your main player level:
 
 - Max Post Office level: **20**
 - XP per Post Office level: `100 × level` (so Level 1 needs 100 XP, Level 20 needs 2,000 XP)
@@ -273,7 +273,7 @@ Polis Trafik players can be notified of detected offences and respond.
 
 **How to start**: Join the APJ team.
 
-**What you do**: Road Transport Agency — the equivalent of Malaysia's Jabatan Pengangkutan Jalan. Inspect vehicles, enforce road transport regulations, coordinate with police.
+**What you do**: Road Transport Agency — the equivalent of MYSverse road transport authority. Inspect vehicles, enforce road transport regulations, coordinate with police.
 
 **Tools**: Torchlight, Placeables SCone.
 
@@ -320,7 +320,7 @@ Formula: `10 + (level-1)×0.5 + (level-1)²×0.00197`, so storage grows almost l
 
 ---
 
-## Back to school
+## Back to School
 
 ### School
 
@@ -337,7 +337,7 @@ The school also powers a weekly challenge: **Quiz Master (Advanced)** — answer
 
 **Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
 
-## Community jobs (Malaysians group)
+## Community Jobs (Malaysians Group)
 
 These activities are available to anyone on the **Malaysians** team (join the MYSverse group at rank 1+).
 
@@ -370,7 +370,7 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 
 **Casting range**: up to 80 studs from where you're standing.
 
-**Selling**: Fish sell at fishing-port shop zones. Reward is **XP only** — the BR reward path is unimplemented (every fish has `BR=0` in its reward config). Rare catches pay much more XP than common fish.
+**Selling**: Fish sell at fishing-port shop zones. Reward is **XP only** for now. Rare catches pay much more XP than common fish.
 
 ### Checkout
 
@@ -384,11 +384,11 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 
 **Rewards**: Random **3–8 XP per customer served**, computed at the end of your shift. Not the highest rate per minute, but a social, low-pressure way to play and see familiar faces.
 
-**Heads up**: The reward is XP only — the BR reward branch isn't implemented yet.
+**Heads up**: The reward is XP only for now; BR rewards are planned for a future economy update.
 
 ---
 
-## Open to everyone
+## Open to Everyone
 
 ### Racing
 
@@ -413,7 +413,7 @@ Difficulty multipliers: **Easy 1.0×, Medium 1.5×, Hard 2.0×** — so the same
 
 Personal Bests get an extra **+25% XP** and a **flat +50 BR bonus**.
 
-**Tracks**: Currently the game has one active track — **Test Sprint** — a short 3-checkpoint, 1-lap proving loop on Easy difficulty, open to Civ-class vehicles at any level. Base payout: 1,500 XP / 300 BR. A new 1st-place PB in PvP yields **3,750 XP and 650 BR**; a solo Time Trial PB yields **1,875 XP and 350 BR**. The system supports up to 8 lobby players per race (TestSprint is capped at 6 via its track attribute), 30-second pre-race lobby, 5-second start countdown, 60-second finish timeout after the first finisher.
+**Tracks**: Currently the game has one active track — **Test Sprint** — a short 3-checkpoint, 1-lap proving loop on Easy difficulty, open to Civ-class vehicles at any level. Base payout: 1,500 XP / 300 BR. A new 1st-place PB in PvP yields **3,750 XP and 650 BR**; a solo Time Trial PB yields **1,875 XP and 350 BR**. Test Sprint supports up to 6 racers, with a 30-second pre-race lobby, 5-second start countdown, and 60-second finish timeout after the first finisher.
 
 The "Jersik Race Track" POI is the in-world location where racing happens.
 
@@ -439,7 +439,7 @@ See [Housing](/lebuhraya/housing) for details.
 
 ---
 
-## 999 Emergency system
+## 999 Emergency System
 
 Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If you're on an emergency team (Bomba, Polis Trafik, Undercover Police, Kesihatan), equip your **Pager** to see active incidents and accept one.
 
@@ -450,14 +450,14 @@ Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If 
 
 ---
 
-## Which job should I start with?
+## Which Job Should I Start With?
 
 - **Level 10**: Food Delivery is the classic starter. 250 XP per delivery, short routes, uses any vehicle.
 - **Got the MYSverse group?** Fishing is chill and self-paced.
 - **Want action?** Bomba or Polis Trafik (requires gamepass) — lots of 999 incidents, social roleplay.
 - **Want to drive for hours?** Logistics or Taxi (Taxi needs gamepass, Logistics needs Level 75 or Season 1 Pass).
 
-## Next steps
+## Next Steps
 
 - [Teams and Careers](/lebuhraya/teams) — Rank titles and tier progression
 - [World and Map](/lebuhraya/map) — Where every job's buildings are located

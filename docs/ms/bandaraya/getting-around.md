@@ -4,8 +4,8 @@ description: >-
   Pengangkutan awam di Bandaraya — MRT, LRT, monorel, bas, kad CAG, e-hailing,
   dan tol TapNGo.
 lang: ms
-translated_from_hash: a5dce02d
-translated_on: '2026-04-30'
+translated_from_hash: "abdfc34c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Pengangkutan Awam di Bandaraya — Panduan
@@ -213,7 +213,7 @@ Lima tab di bahagian bawah:
 
 ## Ketersediaan ciri
 
-Keseluruhan sistem CAG boleh dimatikan oleh kakitangan melalui flag admin. Apabila itu berlaku:
+Kakitangan boleh melumpuhkan sistem CAG buat sementara waktu semasa penyelenggaraan atau event. Apabila itu berlaku:
 
 - Kiosk tidak menunjukkan prompt interaksi.
 - Kad anda dikeluarkan dari backpack anda buat sementara waktu.

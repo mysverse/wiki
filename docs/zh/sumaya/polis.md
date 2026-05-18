@@ -2,8 +2,8 @@
 title: 警察
 description: 在 Sumaya 扮演 POLIS — 巡逻、逮捕、职级与装备。
 lang: zh
-translated_from_hash: '26236145'
-translated_on: '2026-05-17'
+translated_from_hash: "d9102608"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -26,16 +26,16 @@ needs_review: true
 
 随着您升级 POLIS 部门,部分服装与装备会解锁(等级 1 的 Duty Belt + Beret,等级 10 的 Reflective Vest,等级 20 的 Reflective Coat)。请参阅 [Progression](/sumaya/progression) 查看横跨三个紧急服务的完整职业物品表。
 
-## 可放置的交通/犯罪现场物品与专门化
+## 可放置交通物品与专门化
 
-游戏定义了 **5 件可放置工具**(`Polis Cone`、`Polis Sign`、`Polis Umbrella`、`SCone`、`PBSign`)— 每件都有可运作的放置处理程序和 `PlaceableItemsLeft` 计数器。普通 POLIS 配装仍然不会自动发放它们。
+交通锥、标志和伞可能会在测试或特殊 roleplay 场景中出现。它们还不是普通 POLIS 配装的一部分。
 
-两个未来 POLIS 专门化现在作为后端/商店 placeholder 存在:
+两个未来 POLIS 专门化已计划:
 
 | 专门化 | 状态 |
 |--------------|--------|
-| **Traffic POLIS Role** | Coming Soon。Dev/测试路径可以授予 radar + 道路管制可放置物。 |
-| **Unmarked POLIS Role** | Coming Soon。Dev/测试路径可以授予 Concealed Badge + Plate Finder。 |
+| **Traffic POLIS Role** | Coming Soon。用于 radar 和道路管制职责。 |
+| **Unmarked POLIS Role** | Coming Soon。用于便衣巡逻和车牌检查。 |
 
 它们不是队伍选择中的独立队伍。设计上会在普通 POLIS 队伍内生效。
 
@@ -171,10 +171,10 @@ needs_review: true
 在您的 **taser** 命中或您的 **detain** 成功的那一刻,**30-second combat window** 在嫌疑人身上打开。计时器有效期间:
 
 - 他们的 **Reset** 按钮被锁定,主菜单 / 切换团队即使在 1 星以下也被锁定。
-- 如果他们因任何原因死亡(摔落、车祸、自杀脚本 `Health=0`、您电击他们次数过多)— combat-evasion jail 启动。
+- 如果他们因任何原因死亡(摔落、车祸、reset/forced death、或您电击他们次数过多)— combat-evasion jail 启动。
 - 如果他们离开游戏 — combat-evasion jail 会排队等待他们的下一个会话。
 
-Combat-evasion jail 是常规 LTAA 时长的 **double**:1–5 stars 时为 60 / 120 / 240 / 360 / 600 秒,如果当时被拘留则加上 +30 秒。**您将获得按星级缩放的完整 XP + Ringgit,如同您干净利落地逮捕了他们一样**,加上 50% 附近警员的分配。Engager-offline 边缘情况:积分作废,所以如果您想要报酬就保持在线。
+Combat-evasion jail 是常规 LTAA 时长的 **double**:1–5 stars 时为 60 / 120 / 240 / 360 / 600 秒,如果当时被拘留则加上 +30 秒。**您将获得按星级缩放的完整 XP + Ringgit,如同您干净利落地逮捕了他们一样**,加上 50% 附近警员的分配。如果您想要报酬，请保持在线直到结果处理完成。
 
 实际上这意味着:一旦您电击了嫌疑人,您就已经锁定了积分。即使他们冲入车流并死亡,您的巡逻仍然得分。
 

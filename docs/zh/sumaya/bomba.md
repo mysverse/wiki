@@ -2,8 +2,8 @@
 title: 消防
 description: 在 Sumaya 扮演 BOMBA — 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: c3c34412
-translated_on: '2026-05-17'
+translated_from_hash: "98365ef0"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -52,7 +52,7 @@ Sumaya 目前在 **九个火灾模板** 之间轮换,每个都预先构建了自
 
 ### Hydrant
 
-Hydrant 固定在地图上 `Workspace.HydrantConnections` 内。当前地图只有少数 hydrant 模型 — 不足以覆盖整个城镇,所以围绕它们规划路线。每个 hydrant 支持两个 hose 接口,因此两位消防员可以共用一个。
+Hydrant 固定在地图各处。当前地图只有少数 hydrant，不足以覆盖整个城镇，所以围绕它们规划路线。每个 hydrant 支持两个 hose 接口，因此两位消防员可以共用一个。
 
 ### Tanker(部门等级 65)
 

@@ -4,8 +4,8 @@ description: >-
   Setiap kawalan di Lebuhraya — papan kekunci, pad permainan, mudah alih, dan
   input VR.
 lang: ms
-translated_from_hash: 922cf692
-translated_on: '2026-05-17'
+translated_from_hash: "9831158a"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Kawalan
@@ -92,7 +92,7 @@ Buka Menu Utama untuk akses:
   - **Races** — menu time trial dan race PvP
   - **Help** — tutorial apabila tersedia
 
-Tab Career/Tokens/Credits/Help lama masih wujud secara dalaman, tetapi pemain mencapainya melalui **More**.
+Halaman Career, tokens, credits, dan help kini dikumpulkan di bawah **More**.
 
 ### Tetapan yang boleh anda ubah
 
@@ -133,7 +133,7 @@ Apabila anda memegang alat — kapak, pistol radar, taser, pager, hos bomba — 
 ## Kebolehcapaian
 
 - Tetapan seluruh sistem Roblox terpakai — penapis buta warna, penskalaan UI, teks-ke-ucapan.
-- Mod pasif boleh ditogol untuk mengelakkan interaksi alat dan senjata (atribut pemain `Passive` anda). Berguna jika anda tidak mahu ditarik ke dalam pertempuran atau main peranan kecemasan.
+- Mod pasif boleh ditogol untuk mengelakkan interaksi alat dan senjata. Berguna jika anda tidak mahu ditarik ke dalam pertempuran atau main peranan kecemasan.
 
 ## Langkah seterusnya
 

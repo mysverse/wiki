@@ -73,7 +73,7 @@ export const DESCRIPTIONS = {
   "/bandaraya/economy":            "How the Bandaraya Ringgit (BR) economy works — earning, banking, transferring BR, and developer products.",
   "/bandaraya/vehicles":           "Spawning, driving, fuel, and buying or renting vehicles in Bandaraya.",
   "/bandaraya/getting-around":     "Public transport in Bandaraya — MRT, LRT, monorail, buses, CAG card, e-hailing, and TapNGo tolls.",
-  "/bandaraya/emergency-services": "PDRM, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security services of Bandaraya.",
+  "/bandaraya/emergency-services": "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD — the emergency and security services of Bandaraya.",
   "/bandaraya/combat-and-health":  "Weapons, armor, injuries, and the medical system in Bandaraya.",
   "/bandaraya/arrest-and-law":     "How arrests work in Bandaraya — LTAA, RTAA, summons, jail time, and suspect rights.",
   "/bandaraya/phone":              "The in-game phone in Bandaraya — MyPay, e-hailing, 999, MyCar, MyTow, messages, and more apps.",
@@ -82,7 +82,7 @@ export const DESCRIPTIONS = {
   "/bandaraya/locations":          "Landmarks, buildings, streets, stations, hospitals, and shops across Bandaraya.",
   "/bandaraya/shops":              "Shops in Bandaraya — food, weapons, snacks, utilities, and where to find them.",
   "/bandaraya/rules":              "What behaviour gets you banned in Bandaraya, and how appeals work.",
-  "/bandaraya/glossary":           "Malaysian acronyms and in-game terms explained — PDRM, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more.",
+  "/bandaraya/glossary":           "Malaysian acronyms and in-game terms explained — POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more.",
   "/bandaraya/faq":                "Common new-player questions in Bandaraya.",
 
   "/lebuhraya/get-started":        "Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, level up, and hit the highway.",

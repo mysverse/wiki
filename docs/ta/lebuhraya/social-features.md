@@ -2,8 +2,8 @@
 title: சமூக அம்சங்கள்
 description: 'Lebuhraya-வில் கான்வாய், 999 அவசர சேவை, மற்றும் விளையாட்டுக்குள் தொலைபேசி.'
 lang: ta
-translated_from_hash: f4d91280
-translated_on: '2026-05-17'
+translated_from_hash: "4c6589bb"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # சமூக அம்சங்கள்
@@ -169,16 +169,16 @@ YYMMDD-PB-XXXX
 ```
 
 - **YYMMDD** — உங்கள் Roblox account-joined date (year, month, day).
-- **PB** — place of birth code. பெரும்பாலான players-க்கு default **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur); specialised IDs (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) வேறு codes பயன்படுத்தும்.
-- **XXXX** — உங்கள் Roblox UserId-யின் கடைசி நான்கு இலக்கங்கள்.
+- **PB** — player origin code. பெரும்பாலான players-க்கு default **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur); specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) வேறு codes பயன்படுத்தும்.
+- **XXXX** — உங்கள் Roblox account ID-யின் கடைசி நான்கு இலக்கங்கள்.
 
-நீங்கள் 15 March 2020 அன்று Roblox-ல் சேர்ந்திருந்தால் UserId 123456789 என்றால், உங்கள் IC **200315-14-6789** ஆகும். உங்கள் IC ஒவ்வொரு முறை விளையாடும் போதும் ஒன்றே — மாறாது.
+நீங்கள் 15 March 2020 அன்று Roblox-ல் சேர்ந்திருந்தால் மற்றும் உங்கள் account ID 6789-ல் முடிந்தால், உங்கள் IC **200315-14-6789** ஆகும். உங்கள் IC ஒவ்வொரு முறை விளையாடும் போதும் ஒன்றே — மாறாது.
 
 Specialised identity cards (law enforcement-க்கு Kad Polis, medical-க்கு KKM, etc.) உங்கள் team அடிப்படையில் தானாக வழங்கப்படும். காட்ட `/me show IC` பயன்படுத்தவும் அல்லது roleplay NPC-யுடன் interact செய்யவும்.
 
 ## ஓட்டுநர் உரிமம்
 
-ஒவ்வொரு வீரரும் தங்கள் பின்பையில் **Driving Licence**-ஐ ஒரு Tool-ஆகப் பெறுகிறார்கள். உரிம எண் உங்கள் கணக்கு சேர்ந்த தேதியிலிருந்தும் உங்கள் UserId-யின் கடைசி நான்கு இலக்கங்களிலிருந்தும் உருவாக்கப்படுகிறது, எனவே இது ஒவ்வொரு வீரருக்கும் தனித்துவமாகவும், அமர்வுகள் முழுவதும் நிலையானதாகவும் இருக்கிறது.
+ஒவ்வொரு வீரரும் தங்கள் backpack-ல் **Driving Licence** tool பெறுகிறார்கள். உரிம எண் உங்கள் account joined date மற்றும் Roblox account ID-யின் கடைசி நான்கு இலக்கங்களிலிருந்து உருவாகிறது, எனவே இது ஒவ்வொரு வீரருக்கும் தனித்துவமாகவும் sessions முழுவதும் ஒரே மாதிரியாகவும் இருக்கும்.
 
 **APJ அதிகாரிகள்** ஒரு வீரரின் உரிமத்தை சில நிமிடங்களுக்கு இடைநிறுத்த முடியும். இடைநிறுத்தப்பட்ட வீரர் ஒரு பதாகையைப் பார்க்கிறார்: *"APJ: Your driver licence has been suspended for X minutes."* இடைநிறுத்தம் தானாகவே நீக்கப்படுகிறது, அல்லது APJ உறுப்பினரால் முன்னதாகவே ரத்து செய்யப்படலாம்.
 
@@ -200,7 +200,7 @@ Specialised identity cards (law enforcement-க்கு Kad Polis, medical-க�
 - Season Pass அடுக்கு வெகுமதிகள்
 - விளம்பர நிகழ்வுகள்
 - சில சமயங்களில் gamepass-களுடன் தொகுக்கப்பட்டிருக்கும்
-- Admin-granted (private servers-ல் server owner debug commands மூலம் எந்த player-க்கும் எந்த duration-க்கும் எந்த token-யும் grant செய்ய முடியும்)
+- Private-server owner event அல்லது roleplay session நேரத்தில் வழங்குவது
 
 ### token-களை எவ்வாறு பயன்படுத்துவது
 

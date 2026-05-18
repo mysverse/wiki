@@ -4,8 +4,8 @@ description: >-
   Sumaya-வில் மனைகள், டெம்ப்ளேட்கள், அடுக்குகள், அறைகலன்கள், மற்றும் வீடு
   விற்பனை.
 lang: ta
-translated_from_hash: bae34b5a
-translated_on: '2026-04-30'
+translated_from_hash: "075bc1c5"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -16,9 +16,9 @@ Sumaya-வில் நீங்கள் ஒரு மனையை உரிம
 
 ## ஒரு மனையைக் கண்டறிதல்
 
-Sumaya-வின் சுற்றுப்புறங்கள் (Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai போன்ற kampung தெருக்கள்) **plots** ஆக பிரிக்கப்பட்டுள்ளன. உரிமை கோரப்படாத மனைகள் இடநிறுத்து வீடுகளாகக் காண்பிக்கப்படும் — அந்த மனை கிடைக்கிறது என்பதைச் சொல்லும் சிறிய காட்சி நிறுத்திகள்.
+Sumaya-வின் சுற்றுப்புறங்கள் (Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai போன்ற kampung தெருக்கள்) **plots** ஆக பிரிக்கப்பட்டுள்ளன. உரிமை கோரப்படாத மனைகள் சிறிய preview houses-ஆக தெரியும், அதனால் தெருவிலிருந்தே கிடைக்கும் நிலத்தை அடையாளம் காணலாம்.
 
-Sumaya-வில் தற்போது **63 claimable plots** உள்ளன, ஒவ்வொன்றிலும் உலகிலிருந்தே முன்னோட்டம் காணக்கூடிய ஒரு இடநிறுத்தி உள்ளது.
+Sumaya-வில் தற்போது **63 claimable plots** உள்ளன, ஒவ்வொன்றையும் claim செய்வதற்கு முன் உலகிலிருந்தே காண முடியும்.
 
 ## Real Estate Office-இல் வீடு வாங்குதல்
 

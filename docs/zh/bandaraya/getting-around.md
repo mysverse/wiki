@@ -2,8 +2,8 @@
 title: Bandaraya 公共交通指南
 description: Bandaraya 的公共交通 — MRT、LRT、单轨列车、巴士、CAG 卡、电召车和 TapNGo 收费站。
 lang: zh
-translated_from_hash: a5dce02d
-translated_on: '2026-04-30'
+translated_from_hash: "abdfc34c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Bandaraya 公共交通指南
@@ -104,7 +104,7 @@ needs_review: true
 
 ## CAG(Click And Go)卡
 
-**CAG 卡** 是 Bandaraya 的储值交通卡 — 以马来西亚现实中的 Touch n Go 为蓝本。充值一次,在巴士、MRT、Monorail 和高速公路闸口自动感应使用。
+**CAG 卡** 是 Bandaraya 的储值交通卡 — 以马来西亚现实中的 TapNGo 为蓝本。充值一次,在巴士、MRT、Monorail 和高速公路闸口自动感应使用。
 
 ## 如何购买
 
@@ -199,7 +199,7 @@ needs_review: true
 - **在首次出行前购买卡片。** 约 7 次 MRT 乘坐或 7 次过路费就能回本。
 - **在卡上保留少量余额。** 您不必把它充满 — 巴士车资很少。
 - **欠款静悄悄但真实存在。** 如果您的卡是空的,巴士仍会让您乘坐,但会将车资记为欠款。充值即可清除;您最终会达到 200 BR 的欠款上限。
-- **您无法提现。** 卡上的钱是单向的 — 把它花在交通上,别把它当储蓄。(这与现实中的 Touch n Go 一致。)
+- **您无法提现。** 卡上的钱是单向的 — 把它花在交通上,别把它当储蓄。(这与现实中的 TapNGo 一致。)
 - **月票可与 MRT 折扣叠加**,但不与巴士车资叠加 — 月票 = 免费巴士,而不是打折巴士。
 - **kiosk 提示需要视线** — 如果您看不到 kiosk,就无法与之交互。绕开障碍物即可。
 - **kiosk 会话 60 秒后超时。** 如果您离开,重新交互一次即可。
@@ -211,7 +211,7 @@ needs_review: true
 
 ## 功能可用性
 
-整个 CAG 系统可以由工作人员通过管理员标志关闭。发生时:
+Staff 可以在维护或活动期间暂时停用整个 CAG 系统。发生时:
 
 - kiosk 不显示交互提示。
 - 您的卡片会暂时从 backpack 中移除。

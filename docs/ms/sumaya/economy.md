@@ -2,8 +2,8 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: '7e369425'
-translated_on: '2026-05-17'
+translated_from_hash: "4b1b966c"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -146,7 +146,7 @@ Lihat [Kenderaan](/sumaya/vehicles).
 - **Rumah Tier 1** (Small Bornean): 25,000 Ringgit.
 - **Rumah Tier 2** (Spacious / Compact Bornean): 29,000 / 32,000 Ringgit.
 - **Rumah Tier 3** (Modern Terrace, dua varian kosmetik): 35,000 Ringgit.
-- **Perabot**: harga setiap item disimpan pada atribut `Price` setiap model — sangat berbeza-beza.
+- **Perabot**: harga berbeza-beza mengikut item.
 
 Lihat [Perumahan](/sumaya/housing).
 

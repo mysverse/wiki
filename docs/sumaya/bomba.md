@@ -7,13 +7,13 @@ description: "Playing BOMBA (fire brigade) in Sumaya — tenders, hydrants, and 
 
 **Bomba** is the Malaysian fire brigade. If you pick BOMBA from the main menu, you're on duty as a firefighter.
 
-## Getting started
+## Getting Started
 
 Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen — no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
 
 Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
 
-## How fires work
+## How Fires Work
 
 Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA player is active on the server. When a fire starts:
 
@@ -23,7 +23,7 @@ Fires spawn in Sumaya roughly **every 6 minutes** while at least one BOMBA playe
 
 Only one active fire at a time on the server. Once a fire is extinguished (or times out), a new one can spawn.
 
-### Incident variety
+### Incident Variety
 
 Sumaya currently rotates between **nine fire templates**, each pre-built with its own location and block layout:
 
@@ -32,9 +32,9 @@ Sumaya currently rotates between **nine fire templates**, each pre-built with it
 
 The server picks one at random per incident. The card on your task HUD shows the **IncidentType** ("Car Crash" or "Building Fire") and the **Location** name so you know what you're rolling up to before you arrive. The MDT app picks the same data up automatically — dispatchers see the human location string, not just a coordinate.
 
-## Putting out fires
+## Putting Out Fires
 
-### The hose
+### The Hose
 
 1. Equip your fire hose.
 2. Find a water source - either a **hydrant** (a few placed around town — look for the red/yellow pillar models) or a **tanker truck**.
@@ -47,9 +47,9 @@ If you die, switch teams, leave the server, lose the source outlet, or the hose 
 
 ### Hydrants
 
-Hydrants are fixed around the map inside `Workspace.HydrantConnections`. The current map has a handful of hydrant models — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
+Hydrants are fixed around the map. The current map has a handful of hydrants — not enough to blanket the whole town, so plan routes around them. Each hydrant supports two hose outlets, so two firefighters can share one.
 
-### Tankers (sector level 65)
+### Tankers (Sector Level 65)
 
 Once you reach sector level 65, you can spawn the **Sanica P360 Tanker** truck. Tankers let you fight fires anywhere connected to a road, even without a hydrant nearby - very useful for rural incidents.
 
@@ -86,7 +86,7 @@ See [Vehicles](/sumaya/vehicles) for how to spawn them.
 
 ## Ranks
 
-Bomba has 13 ranks, based on the real Fire and Rescue Department of MYSverse (Bomba MYSverse). Your title updates automatically as your sector level rises.
+Bomba has 13 ranks, based on the real Bomba MYSverse (Bomba MYSverse). Your title updates automatically as your sector level rises.
 
 | Level | Rank |
 |-------|------|
@@ -104,7 +104,7 @@ Bomba has 13 ranks, based on the real Fire and Rescue Department of MYSverse (Bo
 | 65 | Deputy Fire Commissioner (TPjB) |
 | 76 | Fire Commissioner (PjB) |
 
-The rank bracket abbreviations follow the real-world Bomba insignia scheme. From level 76 onward you're the top - no more rank changes even as you push toward the level 100 cap.
+The rank bracket abbreviations follow the Bomba MYSverse insignia scheme. From level 76 onward you're the top - no more rank changes even as you push towards the level 100 cap.
 
 ## Tips
 
@@ -115,7 +115,7 @@ The rank bracket abbreviations follow the real-world Bomba insignia scheme. From
 - **Save for the Tanker.** Until you hit level 65, you'll rely on hydrants. The Tanker is a game-changer because you bring the water with you.
 - **Watch your health.** Standing too close to fire damages you over time. If you see your health dropping, step back and hose from further.
 
-## What next?
+## What Next?
 
 - [Kesihatan](/sumaya/kesihatan) if you're curious about the medical side.
 - [Polis](/sumaya/polis) for law enforcement.

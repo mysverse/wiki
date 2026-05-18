@@ -5,180 +5,112 @@ description: "How arrests work in Bandaraya — LTAA, RTAA, summons, jail time, 
 
 # Arrest & Law
 
-How arrests work in Bandaraya — from both the officer's and the suspect's perspective.
+This page explains arrests, detainment, summons, searches, and police alerts from both sides of the roleplay.
 
 ## TL;DR
 
-- **Who can arrest**: POLIS (any rank), KPTD (any rank), Polis Bantuan (rank 2+). Yang di-Pertuan Persekutuan also has arrest tools.
-- **Arrest flow**: detain → drag → cuff → arrest. Suspect goes to Arrested team, 3-minute release timer.
-- **LTAA** (leave to avoid arrest): disconnect while detained → auto-arrested for 3 minutes on return.
-- **RTAA** (reset to avoid arrest): reset button disabled at 75 HP or below.
-- **Summons** (Saman): on-the-spot fines from officers.
-- **Appeals**: via Malaysia community server moderators.
+- **Arrest powers:** POLIS, KPTD, and Polis Bantuan.
+- **Standard flow:** detain -> move if needed -> cuff -> arrest.
+- **Jail timer:** 3 minutes.
+- **LTAA:** leaving while detained or being arrested can auto-jail you when you return.
+- **RTAA:** reset is disabled at low health to prevent escape.
+- **Saman:** police summons are deducted immediately.
 
----
+## Who Can Arrest
 
-## Who can arrest
+| Team | Notes |
+| --- | --- |
+| **POLIS** | Main police force. |
+| **KPTD** | Military police. |
+| **Polis Bantuan** | Transit police, usually transit-focused. |
 
-Not everyone can put you in cuffs. Arrest powers are limited to:
+Other teams can call police, witness, assist, or roleplay scene support, but they do not process normal arrests.
 
-| Team | Group | Rank | Notes |
-| --- | --- | --- | --- |
-| **POLIS** | 1182710 | Any | Standard police |
-| **KPTD (Military Police)** | 2817141 | Any | Any-rank — enforces across MAF and civilians |
-| **Polis Bantuan** | 6563708 | 2+ | Technically any-scope, but typically roleplayed as transit-scoped |
+The Yang di-Pertuan Persekutuan has ceremonial law-enforcement equipment, but real arrest processing should still involve POLIS, KPTD, or Polis Bantuan.
 
-**Yang di-Pertuan Persekutuan** (MYSverse rank 220+) carries an `Arrest` tool in their loadout for ceremonial roleplay, but the game's arrest code doesn't recognise them as having arrest powers — they can't actually process an arrest. For real arrests, involve POLIS or KPTD.
+## The Arrest Flow
 
-RELA, BOMBA, KKM, MAF rank-and-file, SJAM, civilians: **no arrest powers**. They can witness, call in, or search with consent, but not arrest.
+### Officer Perspective
 
----
+1. **Detain** the suspect.
+2. **Move or ground** the suspect if the scene needs control.
+3. **Cuff** the suspect.
+4. **Arrest** with a short, factual reason.
+5. The suspect is moved to the Arrested team and starts the release timer.
 
-## The arrest flow (officer perspective)
+Officers should explain the charge, keep the scene in character, and avoid unnecessary force.
 
-### 1. Detain
+### Suspect Perspective
 
-- Approach the suspect.
-- Use the **Detain** action (via cuffEvents).
-- The suspect is held in a detained state — their character plays a surrender animation, movement is restricted.
+When arrested:
 
-### 2. Drag (optional)
+- Your team becomes **Arrested**.
+- Your screen shows the arrest UI and countdown.
+- Your tools and movement are restricted.
+- After 3 minutes, you are released and can choose a team again.
 
-- You can drag a detained suspect to your vehicle or a holding area.
-- Useful when arresting multiple people — keep them in a group.
+## LTAA - Leave to Avoid Arrest
 
-### 3. Ground (optional, multiple offenders)
+Leaving while detained, cuffed, or being arrested is LTAA. The game can apply the arrest timer when you return, even in a later session.
 
-- Lay a detained player down on the ground.
-- Stack several like this when dealing with multiple suspects at once.
+Do not rage-quit to escape a scene. It usually makes the outcome worse.
 
-### 4. Cuff
+## RTAA - Reset to Avoid Arrest
 
-- Use the **Cuff** tool on the detained suspect.
-- Handcuff animation plays.
-- Suspect is now cuffed — can't draw tools, can't run.
+Resetting to escape roleplay is RTAA. Bandaraya prevents this by disabling reset when your health is at or below 75 HP.
 
-### 5. Arrest
+If you are injured, wait for treatment, continue the scene, or let the arrest play out.
 
-- Use the Arrest action (via cuffEvents or radial menu).
-- Suspect's team changes to **Arrested**.
-- A **3-minute release timer** starts.
-- **Arrest record** is created with:
-  - Officer ID
-  - Time of arrest
-  - Location (X, Y, Z)
-  - A **reference number** like `KL-{UserId}-{Index}`
-  - Arrest description
-  - OCG flag (if suspect was on OCG team)
+## Saman Summons
 
-Discord webhook fires to log the arrest.
+Police can issue summons for traffic or minor offences.
 
-### Distance-based arrest
+- POLIS and Polis Bantuan can issue Saman summons.
+- Person summons use the familiar hover/click Saman workflow again.
+- Vehicle summons can be issued by plate number.
+- Fine amounts must be between 1 and 1,000 BR.
+- Officers have a short cooldown between summons.
+- The fine is deducted immediately and appears in your summons history.
 
-Officers can use `ArrestPlayerByDistance` — arrest someone within a range without cuffing them physically. Used for situations where the suspect is already downed or compliant at range.
-
----
-
-## What it's like to be arrested (suspect perspective)
-
-- Your team changes to **Arrested** (Bright violet).
-- A **BlindedLayer** covers your screen (you're blindfolded).
-- An **ArrestedGUI** shows:
-  - The arresting officer's info
-  - The 3-minute countdown to release
-  - Your reference number
-- Movement restricted; tools disabled.
-
-After 3 minutes, the game releases you automatically and you can pick a team again.
-
----
-
-## LTAA — Leave To Avoid Arrest
-
-**Disconnecting while detained** is called LTAA, and it's enforced:
-
-- The game detects that you left while detained or downed.
-- Your arrest is **auto-applied** — 3-minute timer starts.
-- The arrest record is saved to the game's database.
-- When you rejoin — even minutes later, even in a different session — you come back in jail with the remaining time.
-
-Don't rage-quit during an arrest. It'll follow you.
-
-**Also applies if injured and leaving.** If someone took you down and you quit, the LTAA tracker catches it.
-
----
-
-## RTAA — Reset To Avoid Arrest
-
-**Resetting your character** to escape a detain / arrest was a known exploit. Now:
-
-- The **reset button is automatically disabled** when your HP is at 75 or below.
-- You physically can't reset until you regen or get healed.
-
-This removes the RTAA escape hatch entirely.
-
----
-
-## Summons (Saman)
-
-Police can issue **summons** — on-the-spot fines for traffic or minor offences.
-
-- The officer uses the **Saman** tool (requires POLIS any rank, or Polis Bantuan rank 2+).
-- The fine is **deducted immediately** from your BR balance (max fine per summons: **1,000 BR**).
-- You receive a popup toast notification.
-- The fine amount, reason, and reference number appear in your **SummonsView** GUI — browse your full history with pagination.
-- Officers are rate-limited to one summons every **10 seconds**.
-
-You can't dispute or refuse — it's already paid. If you think a summons was unjust, appeal via the community server (moderator review).
-
----
+If you believe a summons was unfair, take it to staff through the community appeal process.
 
 ## Searches
 
-Officers can request to search you with the **Search** tool:
+Officers can request to search you.
 
-- You get a **consent popup** (Searchee GUI) with Yes / No buttons.
-- If you consent, the officer sees your backpack / pockets.
-- If you decline, the officer can't see inside (unless they had probable cause — roleplay rules).
+- You receive a consent popup.
+- If you accept, the officer can inspect your carried items.
+- If you decline, continue the roleplay and follow staff guidance if a dispute happens.
 
----
+## Fingerprinting and ID
 
-## Fingerprinting
+Police may use fingerprinting or ID checks during investigations. This helps confirm identity during arrests, BOLOs, and summons.
 
-**FingerPrint Scanner** tool — identifies you. Shows up in the officer's UI.
+## BOLO Alerts
 
-## Getting out of trouble
+A **BOLO** is a police alert for a suspect. POLIS can create and review BOLOs through the MDT tablet. A BOLO helps officers coordinate, but it is not a licence to break roleplay or skip proper procedure.
 
-- **Wait out the 3 minutes.**
-- **Appeal** via the Malaysia community server — moderators handle disputes and bans.
-- **Stay in character** — pleading with an officer, offering bribes (in roleplay), or just accepting the arrest are all valid.
+## Getting Out of Trouble
 
-## What NOT to do
+- Wait out the 3-minute timer.
+- Stay in character.
+- Appeal through the community server if you believe staff review is needed.
 
-Per [Rules](/bandaraya/rules), the following will get you banned beyond the arrest:
+## What Not to Do
 
-- **LTAA** (leave to avoid arrest) — general violation
-- **RTAA** (reset to avoid arrest) — general violation, though the reset button is now anti-RTAA
-- **Glitching through walls / escaping restricted areas** — general violation
-- **Glitching or abusing tools whilst detained or arrested** — general violation
-- **Going rogue as a public service team** — severe violation
+These can lead to moderation action:
 
----
+- Leaving to avoid arrest.
+- Resetting to avoid arrest.
+- Glitching through walls or restricted areas.
+- Abusing tools while detained, cuffed, injured, or arrested.
+- Going rogue while on a public-service team.
 
-## Tips & gotchas
+## See Also
 
-- **Cooperate.** You will be released in 3 minutes. Fighting an arrest roleplay-wise will make it worse.
-- **Don't LTAA.** The timer persists across sessions. You're not escaping anything.
-- **Officers, log your actions.** Arrest records are tracked; keep descriptions short and factual (they go into the record permanently).
-- **OCG members get flagged** — arrest records carry an `IsOCG` flag. Officers see this in MDT.
-- **Use MDT** — the police tablet app lets you BG-check a suspect, check BOLOs, and issue BOLOs of your own. See [Tablet](/bandaraya/tablet).
-- **Appeals exist** — if you think you were wrongly arrested, pursue it in the community server. The game's moderation team handles it.
-
-## See also
-
-- [Emergency Services](/bandaraya/emergency-services) — POLIS tools and flow
-- [Tablet](/bandaraya/tablet) — MDT app for officers
-- [Rules](/bandaraya/rules) — full rule text, LTAA/RTAA consequences
-- [Combat & Health](/bandaraya/combat-and-health) — reset-disabled at low HP
-- [Teams](/bandaraya/teams) — which teams get arrest powers
-- [Glossary](/bandaraya/glossary) — LTAA, RTAA, MDT, BOLO
+- [Emergency Services](/bandaraya/emergency-services)
+- [Tablet](/bandaraya/tablet)
+- [Rules](/bandaraya/rules)
+- [Combat & Health](/bandaraya/combat-and-health)
+- [Teams](/bandaraya/teams)
+- [Glossary](/bandaraya/glossary)

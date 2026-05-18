@@ -2,8 +2,8 @@
 title: Memancing
 description: 'Memancing di Sumaya — tempat, jenis ikan, harga, dan kemajuan.'
 lang: ms
-translated_from_hash: 1a7b6ae3
-translated_on: '2026-05-17'
+translated_from_hash: "c128b604"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Memancing
@@ -90,7 +90,7 @@ Sektor memancing naik ke **tahap 100**. Hanya **memancing dengan pukat** memberi
 Tahap sektor yang lebih tinggi tidak secara langsung meningkatkan ganjaran setiap ikan. Apa yang ia lakukan:
 
 - Gelaran pangkat yang lebih baik (tiada mekanik, hanya prestij).
-- Membuka kunci token `Token_Keli` pada **tahap 50**, iaitu ambang untuk membuka kunci **sektor perkhidmatan** (Mamak / Fast Food).
+- Membuka kunci **sektor perkhidmatan** (Mamak / Fast Food) pada **tahap 50**.
 
 ## Membuka kunci sektor perkhidmatan
 

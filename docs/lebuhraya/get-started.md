@@ -7,13 +7,13 @@ description: "Your first 10 minutes in Lebuhraya — spawn a vehicle, earn BR, l
 
 Welcome to Lebuhraya. This page walks you through your first session — from joining the server to earning your first Ringgit (BR) and picking up your first job.
 
-## What is Lebuhraya?
+## What Is Lebuhraya?
 
 Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs — from food delivery to firefighting — to earn Ringgit and level up. Buy a house, join a convoy with friends, or just cruise.
 
 The name "Lebuhraya" means "highway" in Malay.
 
-## Your first minute
+## Your First Minute
 
 When you join for the first time you spawn on the **Visitors** team with:
 
@@ -37,7 +37,7 @@ Open the **Main Menu** early. It is the hub for almost everything:
 | **Activity** | Missions, challenges, and season pass progress |
 | **More** | Career ranks, job tiers, token inventory, credits, races, help |
 
-## Spawning your first vehicle
+## Spawning Your First Vehicle
 
 Vehicles spawn from physical vehicle spawner pads around the map. The **MyPod** topbar icon is a music player, not a vehicle spawner.
 
@@ -51,7 +51,7 @@ Walk up to the driver door and press **F** (keyboard), **X** (gamepad), or tap t
 
 Starter-friendly choices include compact cars like the **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, and **Perosatu Bezza**. Locked cards show the required level or career tier.
 
-## Driving and earning your first XP
+## Driving and Earning Your First XP
 
 You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. That's enough to pass through a level 1 → 2 boost in about 20 minutes of casual cruising. There's no penalty for slow driving — keep the vehicle moving and the XP ticks in.
 
@@ -62,7 +62,7 @@ Want to go faster?
 - **Activate an XP Boost token** from your inventory for 2× XP
 - **Weekend events** occasionally double everyone's XP
 
-## Picking your first job
+## Picking Your First Job
 
 You can join **Visitors** and **Bus Driver** immediately. Most other jobs unlock by level, gamepass, or group membership. Your first level milestone is **Level 10**, which unlocks the **Food Delivery** team.
 
@@ -79,7 +79,7 @@ Here's the free-and-early progression:
 
 See [Teams and Careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
 
-### A good first 30-minute plan
+### A Good First 30-Minute Plan
 
 1. Spawn a starter car and drive a clean loop between Bandar Seri Putra and the highway.
 2. Open the Phone GPS and set a waypoint to a petrol station, repair zone, or race track so you learn the road network.
@@ -87,15 +87,15 @@ See [Teams and Careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhray
 4. When you reach Level 10, switch to **Food Delivery** and start doing short delivery loops.
 5. If you are in the MYSverse group, try **Malaysians** for Fishing or Checkout while you level.
 
-## What happens when I crash?
+## What Happens When I Crash?
 
 Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player, repaired in one of the map's repair zones, or patched with a Toolkit. **Gravstone Workshop** is for paint/body customisation, not repairs. If you can reach a vehicle spawner, spawning a replacement vehicle clears your previous owned vehicle.
 
-## A note about test servers
+## A Note About Test Servers
 
 If you join a **Studio test server** or a private server, you'll see a warning that "XP will be reset to 0." This is normal — test servers don't save progress so developers can test fresh. On the live game, your XP and BR are saved automatically when you leave.
 
-## Next steps
+## Next Steps
 
 - Read [Controls](/lebuhraya/controls) for the full input reference
 - Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack

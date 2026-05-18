@@ -7,7 +7,7 @@ description: "Complete guide to understanding and resolving bans in MYSverse gam
 
 ## Understanding Ban Messages
 
-### "Leave XYZ to join the experience"
+### "Leave XYZ to Join the Experience"
 
 ![Ban 1](/images/faq/ban/group_ban_example.png)
 
@@ -31,7 +31,7 @@ Your account is specifically banned, usually for rule violations. These bans hav
 
 ## Common Questions
 
-### Why am I banned even though I did nothing?
+### Why Am I Banned Even Though I Did Nothing?
 
 Most bans are group bans, meaning you are part of a blacklisted Roblox group. Individual bans are less common.
 
@@ -100,17 +100,17 @@ Wait a few minutes after leaving the group, then attempt to join MYSverse again.
 
 ## Frequently Asked Questions
 
-### Can I rejoin the group after playing?
+### Can I Rejoin the Group After Playing?
 
 Not recommended. You will be banned again if the group remains blacklisted.
 
-### What if I still can't join after leaving the group?
+### What If I Still Can't Join After Leaving the Group?
 
 If issues persist, it may be an individual ban. Contact the support team via Discord or the official platform.
 
 After leaving the group, please wait a few minutes for Trello to update your status. This delay occurs because the system requires up to 60 seconds for HTTP processing. Once updated, you should be able to rejoin MYSverse.
 
-### Why are certain groups blacklisted?
+### Why Are Certain Groups Blacklisted?
 
 Groups are blacklisted for reasons such as:
 
@@ -120,6 +120,6 @@ Groups are blacklisted for reasons such as:
 - Violating Roblox terms of service.
 - Promoting inappropriate content.
 
-### Where can I get further help?
+### Where Can I Get Further Help?
 
 For assistance, contact moderators via [Discord MYSverse Moderation](https://discord.gg/n22p4CMHf4) or refer to the full documentation on the official MYSverse website.

@@ -2,8 +2,8 @@
 title: Polis
 description: 'Bermain sebagai POLIS di Sumaya — rondaan, tangkapan, pangkat, dan peralatan.'
 lang: ms
-translated_from_hash: '26236145'
-translated_on: '2026-05-17'
+translated_from_hash: "d9102608"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -26,16 +26,16 @@ Pilih **POLIS** pada menu utama. Kit permulaan anda mengandungi 5 alat:
 
 Beberapa pakaian dan peralatan akan dibuka apabila anda menaikkan tahap sektor POLIS (Duty Belt + Beret pada tahap 1, Reflective Vest pada 10, Reflective Coat pada 20). Lihat [Progression](/sumaya/progression) untuk jadual penuh item kerjaya merentasi ketiga-tiga perkhidmatan kecemasan.
 
-## Item tempat kejadian lalu lintas/jenayah yang boleh diletakkan dan pengkhususan
+## Item lalu lintas boleh letak dan pengkhususan
 
-Permainan ini mempunyai **5 alat boleh letak** yang ditakrifkan (`Polis Cone`, `Polis Sign`, `Polis Umbrella`, `SCone`, `PBSign`) — setiap satu mempunyai pengendali penempatan yang berfungsi dan kaunter `PlaceableItemsLeft`. Loadout POLIS biasa masih tidak memberikannya secara automatik.
+Kon, papan tanda, dan payung lalu lintas mungkin muncul semasa ujian atau sesi roleplay khas. Ia belum menjadi sebahagian daripada loadout POLIS biasa.
 
-Dua pengkhususan POLIS akan datang kini wujud sebagai placeholder backend/kedai:
+Dua pengkhususan POLIS akan datang dirancang:
 
 | Pengkhususan | Status |
 |--------------|--------|
-| **Traffic POLIS Role** | Coming Soon. Laluan dev/ujian boleh memberikan radar + item kawalan jalan yang boleh diletakkan. |
-| **Unmarked POLIS Role** | Coming Soon. Laluan dev/ujian boleh memberikan Concealed Badge + Plate Finder. |
+| **Traffic POLIS Role** | Coming Soon. Ditujukan untuk radar dan kawalan jalan. |
+| **Unmarked POLIS Role** | Coming Soon. Ditujukan untuk rondaan pakaian biasa dan semakan plat. |
 
 Ini bukan pasukan berasingan dalam pemilihan pasukan. Ia bertujuan berfungsi ketika anda berada dalam pasukan POLIS biasa.
 
@@ -171,10 +171,10 @@ Jadi tidak, berhenti tidak akan menyelamatkan anda.
 **30-second combat window** dibuka pada suspek pada saat **taser** anda mengenai sasaran atau **detain** anda berjaya. Semasa pemasa aktif:
 
 - Butang **Reset** mereka dikunci, dan menu utama / pertukaran pasukan dikunci walaupun di bawah 1-star.
-- Jika mereka mati atas apa-apa sebab (jatuh, kemalangan, skrip bunuh diri `Health=0`, anda menaser mereka terlalu banyak kali) — combat-evasion jail bermula.
+- Jika mereka mati atas apa-apa sebab (jatuh, kemalangan, reset/kematian paksa, atau anda menaser mereka terlalu banyak kali) — combat-evasion jail bermula.
 - Jika mereka meninggalkan permainan — combat-evasion jail dijadualkan untuk sesi seterusnya mereka.
 
-Combat-evasion jail adalah **double** tempoh LTAA biasa: 60 / 120 / 240 / 360 / 600 saat pada 1–5 stars, ditambah +30 saat jika mereka ditahan pada masa itu. **Anda menerima XP + Ringgit penuh berskala bintang yang dikreditkan seolah-olah anda telah menangkap mereka dengan bersih**, ditambah pembahagian 50% pegawai berdekatan. Kes tepi engager-offline: kredit hangus, jadi kekal dalam talian jika anda mahu bayaran.
+Combat-evasion jail adalah **double** tempoh LTAA biasa: 60 / 120 / 240 / 360 / 600 saat pada 1–5 stars, ditambah +30 saat jika mereka ditahan pada masa itu. **Anda menerima XP + Ringgit penuh berskala bintang yang dikreditkan seolah-olah anda telah menangkap mereka dengan bersih**, ditambah pembahagian 50% pegawai berdekatan. Kekal dalam talian sehingga keputusan diproses jika anda mahu bayaran.
 
 Dalam amalan ini bermakna: setelah anda menaser suspek, anda telah pun mengunci kreditnya. Walaupun mereka berlari ke dalam lalu lintas dan mati, rondaan anda masih dikira.
 

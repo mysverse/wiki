@@ -2,8 +2,8 @@
 title: அவசர சேவைகள் கண்ணோட்டம்
 description: 'POLIS, BOMBA, மற்றும் Kesihatan — Sumaya-வின் அவசர சேவைகள்.'
 lang: ta
-translated_from_hash: 7299072b
-translated_on: '2026-05-17'
+translated_from_hash: "deb96e43"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -65,7 +65,7 @@ Sumaya-வில் மூன்று அவசர சேவை அணிகள
 
 ### தேடப்படும் நிலையில் தரக்குறைப்பு
 
-Emergency-service players (BOMBA, Kesihatan, POLIS) **1-star wanted**-ஐ கடக்கும்போது auto-demote ஆகிறார்கள். Offence system demotion bindable-ஐ fire செய்கிறது, `PoliceServer` அதை listen செய்கிறது, `TeamAuthority` player qualify ஆனால் Malaysians-க்கு, இல்லையெனில் Visitors-க்கு மாற்றுகிறது. உங்கள் emergency vehicle-மும் despawn ஆகும். Roleplay-ஐ கட்டுப்பாட்டில் வைத்திருக்க, சட்டவிரோதமானதைச் செய்வதற்கு முன் manual-ஆக teams மாற்றவும்.
+Emergency-service players (BOMBA, Kesihatan, POLIS) **1-star wanted** ஆனால் on-duty role-ஐ தானாக இழக்கிறார்கள். Game உங்களை qualify ஆனால் Malaysians-க்கு, இல்லையெனில் Visitors-க்கு மாற்றி, உங்கள் emergency vehicle-ஐ despawn செய்கிறது. Roleplay-ஐ கட்டுப்பாட்டில் வைத்திருக்க, சட்டவிரோதமானதைச் செய்வதற்கு முன் manual-ஆக teams மாற்றவும்.
 
 ## Kesihatan-இன் உலகளாவிய XP ஊக்கம்
 

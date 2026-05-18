@@ -5,211 +5,171 @@ description: "Every job in Bandaraya — postal service, taxi driving, towing, b
 
 # Jobs
 
-The quickest ways to earn BR in Bandaraya. All of these are civilian-accessible (with gamepass or group where noted). Police / BOMBA / KKM roles aren't on this page — they earn prestige, not salary. See [Emergency Services](/bandaraya/emergency-services) for those.
+Jobs are the easiest way to earn BR through normal gameplay. Public-service teams are covered separately in [Emergency Services](/bandaraya/emergency-services).
 
-## TL;DR
+## Quick Reference
 
 | Job | Access | Pace | Good for |
 | --- | --- | --- | --- |
-| **Postal Service (POS)** | Visitors / Malaysians / HCC / Developers only | Steady | New players who want reliable BR |
-| **Taxi Driver** | Taxi Services team OR Taxi Driver gamepass (150 R$) | Per trip (varies) | Players who like customer service roleplay |
-| **Towing** | Towing Services team | Per clamp / tow (500 BR clamp fee) | Players with a towing group |
-| **Bus driving** | MyTransit / FirstGroup / Fermuda / Bus Services groups | Per route | Players who like set piece driving |
-
----
+| **Postal Service (POS)** | Visitors, Malaysians, HCC, Developers | Steady | New players |
+| **Taxi Driver** | Taxi Services team or Taxi Driver gamepass | Trip-based | Passenger roleplay |
+| **Towing** | Towing Services team | Per tow/clamp | Recovery and parking roleplay |
+| **Bus driving** | Bus operator teams | Route-based | Scheduled transport roleplay |
 
 ## Postal Service (POS)
 
-The go-to first job. No gamepass needed — but you have to be on a **civilian-ish team**: **Visitors**, **Malaysians**, **High Class Citizen**, or **Developers**. POLIS / BOMBA / KKM / etc. cannot clock in for POS (the game stops you at the start-work step).
+POS is the simplest starter job.
 
-### The flow
+### Access
 
-1. **Start work** at a POS terminal (look for the POS signage — see [Map](/bandaraya/locations)).
-2. **Collect packages** from a nearby **Postbox**. You carry them.
-3. **Process** collected packages at the **Station**.
-4. **Deliver** them to **Mailboxes** around the city.
-5. Each delivery pays BR and gives XP.
+You can start POS work on:
 
-### Level & salary
+- Visitors
+- Malaysians
+- High Class Citizen
+- Developers
 
-Level up as you deliver, and your per-delivery pay goes up.
+Emergency, military, and most organisation teams cannot clock in for POS.
 
-| Level | XP to next | Salary per delivery |
-| --- | --- | --- |
-| 1 | 100 | 70 BR |
-| 2 | 200 | 80 BR |
-| 3 | 300 | 90 BR |
-| 5 | 500 | 110 BR |
-| 10 | 1,000 | 160 BR |
-| 15 | 1,500 | 210 BR |
-| **20 (max)** | 2,000 | **260 BR** |
+### Flow
 
-Formula: salary is `60 + (Level × 10)` BR.
+1. Start work at a POS terminal.
+2. Collect packages.
+3. Process packages at the station.
+4. Deliver them to mailboxes around the city.
+5. Earn BR and XP for each delivery.
 
-You max out at Level 20 for 260 BR/delivery. That's the top end.
+### Level and Pay
 
-Each delivery awards **25 XP**, so:
-- Level 1 → 2 takes **4 deliveries** (100 XP)
-- Level 10 → 11 takes **40 deliveries**
-- Level 19 → 20 takes **76 deliveries**
+| Level | Pay per delivery |
+| --- | --- |
+| 1 | 70 BR |
+| 2 | 80 BR |
+| 3 | 90 BR |
+| 5 | 110 BR |
+| 10 | 160 BR |
+| 15 | 210 BR |
+| 20 | 260 BR |
 
-Total grind from scratch to cap: roughly 760 deliveries over ~19 level-ups.
-
-### Vehicles
-
-POS has 10 dedicated vehicles: **Toyota Hiace Pos Laju** (8 variants), **Toyota Hilux Pos Laju**, and an **EX5** motorcycle for the scrappy couriers.
+Level 20 is the current cap.
 
 ### Tips
 
-- Keep moving — delivery locations are spread out.
-- Motorcycles move faster through traffic; vans carry more at once.
-- **Don't go rogue as POS.** Abusing a job team to commit crime is a banable offence.
-
----
+- POS is reliable but repetitive.
+- Use vans for a proper delivery run and motorcycles for traffic-heavy routes.
+- Stay in role; job teams should not be used for crime.
 
 ## Taxi Driver
 
-Respond to passenger bookings, drive them where they want to go, collect the fare.
+Taxi drivers accept bookings and carry passengers to their chosen destinations.
 
 ### Access
 
-- **Taxi Driver gamepass** (150 R$) — cheapest way in.
-- **OR** join a **Taxi Services** group (SSM-registered).
+- Taxi Services team, or
+- Taxi Driver gamepass.
 
-If you buy the gamepass mid-session, the system **automatically detects the purchase** (no rejoin needed) and the Taxi Services team appears in your team menu within seconds.
+### Flow
 
-Gamepass holders can also switch to Taxi Services team from the menu.
+1. Sign in as a driver.
+2. Wait for a booking.
+3. Accept or dismiss the request.
+4. Pick up the passenger.
+5. Start the trip once they are in the car.
+6. Drive to the destination.
+7. End the trip to receive payment.
 
-### The flow
+### Fare Rates
 
-1. **Sign in** as a driver at a taxi company (Fetch, Flaxim, Tompang, Fermuda, or independent Taxi Services).
-2. Your status goes to **Available**.
-3. When a passenger books a ride, your UI shows the booking with destination + description.
-4. **Accept** the booking (or dismiss).
-5. Pick up the passenger.
-6. **Start** the trip when they're in the car.
-7. Drive them to the destination.
-8. **End** the trip — you earn BR (`distance_in_studs × company_rate`, minimum 30 studs), your customer count ticks up.
+Taxi payment is based on trip distance and company rate.
 
-Sign out when you're done for the shift.
-
-### How the fare is calculated
-
-Per-stud rate depends on the company:
-
-| Company | Rate (BR/stud) |
+| Company | Rate |
 | --- | --- |
-| Yi Heng Taxi Services (the generic "Taxi Services" team) | 0.05 |
-| Fetch | 0.05 |
-| Fermuda | 0.04 |
-| Tompang | 0.03 |
-| Flaxim | 0.03 |
+| Taxi Services / Yi Heng | 0.05 BR per stud |
+| Fetch | 0.05 BR per stud |
+| Fermuda | 0.04 BR per stud |
+| Tompang | 0.03 BR per stud |
+| Flaxim | 0.03 BR per stud |
 
-A 1 000-stud trip = 50 BR (Yi Heng / Fetch), 40 BR (Fermuda), 30 BR (Tompang / Flaxim). Short trips under 30 studs don't pay out.
+Very short trips do not pay.
 
-### Taxi vehicles
+### Taxi Vehicles
 
-You can rent/drive these from taxi spawners:
-
-| Vehicle | Price (BR) |
+| Vehicle | Price |
 | --- | --- |
-| Proton Saga | 400 |
-| Proton Saga 2022 | 600 |
-| Perodua Bezza | 750 |
-| Proton Preve | 850 |
-| Proton Persona | 1,000 |
+| Proton Saga | 400 BR |
+| Proton Saga 2022 | 600 BR |
+| Perodua Bezza | 750 BR |
+| Proton Preve | 850 BR |
+| Proton Persona | 1,000 BR |
 
 ### Tips
 
-- **Drive safely.** If your passenger dies in your taxi, the roleplay isn't great.
-- **Check the destination before you start.** Some bookings are spam — you can dismiss them.
-- **Your money and customer count persist** across sessions. You're building a career.
-
----
+- Confirm the destination before starting.
+- Drive safely; bad driving ruins the trip.
+- Sign out when you are done.
 
 ## Towing
 
-You're on the side of order — clamp illegally parked cars, and charge their owners 500 BR to remove it.
+Towing Services handle clamping, towing, and vehicle recovery.
 
 ### Access
 
-Join a **Towing Services** group (the tow operator groups). The Towing Services team becomes available.
+Join an approved Towing Services group and select the Towing Services team.
 
-### Tools you get
+### Tools
 
-| Tool | What it does |
-| --- | --- |
-| **Traffic Wand** | Direct traffic. |
-| **Clamp Remover** | Remove clamps (for when a motorist pays). |
-| **Tow Toolkit** | Full tow chain. |
-| **Tow Placeables** | Put up cones, signs, blockages at your scene. |
+- Traffic Wand
+- Clamp Remover
+- Tow Toolkit
+- Tow Placeables
 
-### The flow
+### Flow
 
-1. Spot an illegally parked or abandoned civilian car.
-2. Approach it and use the **Clamp** tool.
-3. The clamp attaches. A 15-minute countdown starts.
-4. The owner sees a pay-prompt: **500 BR to remove**.
-5. When they pay, the clamp is removed automatically.
-6. You earn the fee.
+1. Find an illegally parked or abandoned vehicle.
+2. Clamp it if the situation is justified.
+3. The owner can pay 500 BR to remove the clamp.
+4. Tow or recover vehicles where roleplay calls for it.
 
-### Tow truck vehicles
-
-3 tow vehicles: **Isuzu Tow Truck**, **Isuzu Tow Truck Bed**, **Toyota Hilux Tow**.
+POLIS can also clamp vehicles as part of traffic enforcement.
 
 ### Tips
 
-- **Clamping is a big move.** Only do it where it's actually justified (blocking a driveway, blocking a zebra crossing, badly parked on a no-parking line). Griefing civilians via arbitrary clamping is a banable offence.
-- Actions are logged on Discord via webhook — staff can see who clamped whom.
-- Removing a clamp remotely (from the tow tablet) is also an option.
+- Clamp fairly. Random clamping is griefing.
+- Use cones and signs to make the scene clear.
+- Coordinate with police during larger incidents.
 
----
+## Bus Driving
 
-## Bus driving
-
-Bus drivers carry passengers, earn per route, and aren't charged fare themselves.
+Bus drivers operate route and passenger transport roleplay.
 
 ### Access
 
-Join one of: **MyTransit** (5032738 / 10394166), **FirstGroup** / **Fermuda**, or a **Bus Services** operator group. Each has its own rank requirements.
+Join MyTransit, FirstGroup, Fermuda, Bus Services, or another approved operator group.
 
-### The flow
+### Flow
 
-1. Spawn a bus at your operator's depot.
-2. Drive the routes around KL.
-3. Passengers board by sitting in passenger seats — their fare is handled automatically (5 BR from CAG or cash).
-4. Drop them off wherever you reach next.
+1. Spawn a bus at your depot.
+2. Drive the route.
+3. Passengers board by sitting in passenger seats.
+4. Their fare is handled automatically.
 
-### Bus models available
+Drivers are not charged bus fare while driving.
 
-- **MyTransit**: 10 models (TKL_B5LH, TKL_MINIBUS, TKL_CITIE, TKL_K230UB, TKL_URBANO, MYTR_URBANO, TKL_TEMPORARY, TKL_Harimau Evo, TKL_NL323F, TKL_E500).
-- **FirstGroup**: 4 (FG_K230UB, FG_NL323F, Vitaru Urban Mini, FG_MAN Double).
-- **Fermuda**: several buses plus crossover cars.
-- **Bus Services / SPAD**: various SPAD-registered fleets.
+## Job Comparison
 
-### Tips
+| Job | Entry barrier | Roleplay depth |
+| --- | --- | --- |
+| **POS** | Low | Simple delivery loop |
+| **Taxi** | Gamepass or group | High, passenger-focused |
+| **Tow** | Group | Medium, enforcement-focused |
+| **Bus** | Group | High, route-focused |
 
-- **Drivers ride free.** If you're in the driver seat, no fare is charged.
-- **Commuters use CAG cards** — they may or may not have one. If not, the fare is debt; that's between them and the kiosk, not you.
-- **Don't skip stops to get lunch.** Roleplay integrity counts.
+HCC improves job income.
 
----
+## See Also
 
-## Job comparison
-
-| Job | Barrier to entry | BR per hour (rough) | Roleplay depth |
-| --- | --- | --- | --- |
-| **POS** | None | Moderate, steady | Low — delivery loop |
-| **Taxi** | 150 R$ or group | Variable, high with volume | High — passengers + traffic |
-| **Tow** | Group | High per action, but sparse | Medium |
-| **Bus** | Group | Route-dependent | High — fixed routes, traffic |
-
-With **HCC gamepass** your per-action BR goes up across all of these.
-
-## See also
-
-- [Economy](/bandaraya/economy) — full earning/spending reference
-- [Gamepasses](/bandaraya/gamepasses) — Taxi Driver, HCC
-- [Teams](/bandaraya/teams) — transport team access
-- [Vehicles](/bandaraya/vehicles) — spawning, fuel, dealership
-- [Tablet](/bandaraya/tablet) — MyTow and Vehicle Management apps
+- [Economy](/bandaraya/economy)
+- [Gamepasses](/bandaraya/gamepasses)
+- [Teams](/bandaraya/teams)
+- [Vehicles](/bandaraya/vehicles)
+- [Tablet](/bandaraya/tablet)

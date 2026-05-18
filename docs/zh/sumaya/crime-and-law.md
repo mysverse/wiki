@@ -2,8 +2,8 @@
 title: 犯罪与法律
 description: Sumaya 的劫车、扒窃、通缉星级与监禁机制。
 lang: zh
-translated_from_hash: e44a4fb1
-translated_on: '2026-05-17'
+translated_from_hash: "731048c6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 

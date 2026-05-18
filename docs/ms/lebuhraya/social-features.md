@@ -2,8 +2,8 @@
 title: Ciri Sosial
 description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
-translated_from_hash: f4d91280
-translated_on: '2026-05-17'
+translated_from_hash: "4c6589bb"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Ciri Sosial
@@ -169,16 +169,16 @@ YYMMDD-PB-XXXX
 ```
 
 - **YYMMDD** — tarikh akaun Roblox anda menyertai (tahun, bulan, hari).
-- **PB** — kod tempat lahir. Lalai ialah **14** (Wilayah Persekutuan / Federal Territory — Kuala Lumpur) untuk kebanyakan pemain; ID khusus (Kad Polis, KKM, JBPM, SJAM, PHG, MKT) menggunakan kod berbeza.
-- **XXXX** — empat digit terakhir Roblox UserId anda.
+- **PB** — kod asal pemain. Lalai ialah **14** (sektor KL MYSverse) untuk kebanyakan pemain; ID khusus (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) menggunakan kod berbeza.
+- **XXXX** — empat digit terakhir ID akaun Roblox anda.
 
-Jadi jika anda menyertai Roblox pada 15 Mac 2020 dengan UserId 123456789, IC anda ialah **200315-14-6789**. IC anda konsisten setiap kali bermain — ia tidak berubah.
+Jadi jika anda menyertai Roblox pada 15 Mac 2020 dan ID akaun anda berakhir dengan 6789, IC anda ialah **200315-14-6789**. IC anda konsisten setiap kali bermain — ia tidak berubah.
 
 Kad pengenalan khusus (Kad Polis untuk penguatkuasaan undang-undang, KKM untuk perubatan, dll.) dikeluarkan secara automatik berdasarkan pasukan anda. Gunakan `/me show IC` atau berinteraksi dengan NPC roleplay untuk menunjukkannya.
 
 ## Lesen Memandu
 
-Setiap pemain mendapat **Driving Licence** sebagai Tool dalam beg galas mereka. Nombor lesen dijana daripada tarikh akaun anda disertai dan empat digit terakhir UserId anda, jadi ia unik untuk setiap pemain dan konsisten merentas sesi.
+Setiap pemain mendapat **Driving Licence** sebagai tool dalam beg galas mereka. Nombor lesen dijana daripada tarikh akaun anda disertai dan empat digit terakhir ID akaun Roblox anda, jadi ia unik untuk setiap pemain dan konsisten merentas sesi.
 
 **Pegawai APJ** boleh menggantung lesen pemain untuk beberapa minit. Pemain yang digantung melihat sepanduk: *"APJ: Your driver licence has been suspended for X minutes."* Penggantungan dibatalkan secara automatik, atau boleh dibatalkan lebih awal oleh ahli APJ.
 
@@ -200,7 +200,7 @@ Beberapa kelebihan sementara datang daripada **token** — item rangsangan yang 
 - Ganjaran peringkat Season Pass
 - Acara promosi
 - Kadang-kadang digabungkan dengan gamepass
-- Diberi oleh admin (dalam private server pemilik server boleh menggunakan debug commands untuk memberi mana-mana token kepada mana-mana pemain untuk apa-apa tempoh)
+- Diberi oleh pemilik private server semasa event atau sesi roleplay
 
 ### Cara menggunakan token
 

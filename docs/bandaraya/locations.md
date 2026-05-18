@@ -5,202 +5,102 @@ description: "Landmarks, buildings, streets, stations, hospitals, and shops acro
 
 # Map & Locations
 
-A quick reference for where things are in Bandaraya's slice of Kuala Lumpur. Use this when you need to find a clinic, a fuel station, or which tower is which.
+Use this page to find major places in Bandaraya's Kuala Lumpur.
 
-## Emergency services
+## Emergency and Public-Service Bases
 
 | Place | Purpose |
 | --- | --- |
-| **IPD Dang Wangi** | Main police station. Contains lobby, **CID Office**, **JSPT Office**, **Operations Room**, **Senior Officer Offices**, **District Offices**, and the **Armoury**. POLIS helicopter spawner. |
-| **BOMBA Station** | Fire & Rescue HQ. BOMBA helicopter spawner. |
-| **KKM Ampang Clinic** | Health ministry clinic. Staffed by KKM medics. |
-| **Prince Court Medical Centre** | Hospital. Another KKM site. |
-| **Kem Wardieburn** | Military camp. MAF operations, parade grounds. |
+| **IPD Dang Wangi** | Main police station, armoury, offices, CCTV, and POLIS helicopter access. |
+| **BOMBA Station** | Fire and rescue base. |
+| **KKM Ampang Clinic** | Health ministry clinic. |
+| **Prince Court Medical Centre** | Hospital and medical roleplay location. |
+| **Kem Wardieburn** | Military camp. |
+| **Bandar Bus Terminal / KLBT** | Bus hub and nearby ambulance standby post. |
 
 ## Transit
 
-| Place | Line / Function |
+| Place | Line / use |
 | --- | --- |
-| **Conlay station** | MRT Kajang Line |
-| **Persiaran KLCC station** | MRT Kajang Line |
-| **Ampang Park station** | MRT Kajang Line |
-| **Bukit Bintang station** | KL Monorail Line |
-| **Raja Chulan station** | KL Monorail Line |
-| **Bukit Nanas station** | KL Monorail Line |
-| **Bus Terminal (KLBT)** | Central bus hub |
-| **MyTransit Depot** | MyTransit bus operations |
-| **Ambulance Standby Post** | At Bus Terminal |
+| **Conlay** | MRT Kajang Line |
+| **Persiaran KLCC** | MRT Kajang Line |
+| **Ampang Park** | MRT Kajang Line |
+| **Bukit Bintang** | KL Monorail Line |
+| **Raja Chulan** | KL Monorail Line |
+| **Bukit Nanas** | KL Monorail Line |
+| **MyTransit Depot** | Bus operations |
 
-Each station has a nearby **CAG kiosk** for buying and topping up the transit card.
+Every MRT and Monorail station has a nearby CAG kiosk. Ampang Park and Raja Chulan have two entrances with kiosks.
 
-## Shops
+## Shops and Services
 
-### Shop Network
-
-Multiple shops across the city:
-
-| Shop | What |
+| Place | What it is for |
 | --- | --- |
-| **Ammulaysia** (GunDealer) | Firearms (gamepass required) |
-| **Illegal Dealer (Hacker)** | Black market |
-| **Vastrix** | Clothing and accessories |
-| **Convenience Store** | General items |
-| **Tehlife** | Ice cream, milk |
-| **Lickers** | Drinks |
-| **Costume** | Outfits |
-| **Toolkit** | Tools |
-| **Art** | Art items |
-| **Bartender** | Drinks |
-| **Kilo's Kebabs** | Food |
-| **KeluargaMart** | General items |
-| **Signs** | Signs |
-| **CoffeeMaker** | Coffee |
-| **Vastrix Bank** | Deposits and banking (added in v3.8.0) |
+| **Classic Car Dealer** | Buy, rent, and paint civilian vehicles. |
+| **Ammulaysia** | Licensed firearms, if you own Firearms Licence. |
+| **Illegal Dealer / Hacker** | Black-market items. |
+| **Vastrix** | Clothing and accessories. |
+| **Vastrix Bank** | Banking/deposit roleplay. |
+| **Convenience Store / KeluargaMart** | General items. |
+| **Tehlife / Lickers / Kilo's Kebabs / Bartender** | Food and drinks. |
+| **Toolkit** | Tools. |
+| **Costume / Art / Signs** | Roleplay and cosmetic items. |
 
-### Dealership
-
-| Place | What |
-| --- | --- |
-| **Classic Car Dealer** | Civilian vehicle dealership — buy, rent, paint. Also sells HCC luxury vehicles. |
-
-## Fuel & charging
+## Fuel and Charging
 
 | Place | Fuel type |
 | --- | --- |
-| **Radtrol Gas Station @ Jalan Pinang** | Petrol / Diesel |
-| **Charging Stations @ Community Retail (2×)** | Electric |
+| **Radtrol Gas Station at Jalan Pinang** | Petrol / diesel |
+| **Community Retail charging stations** | Electric charging |
 
-## Banks & security targets
+## Banks and Robbery
 
 | Place | Notes |
 | --- | --- |
-| **Hazbank** | In-game bank. Potential robbery target — **needs 10+ players online** to start a robbery. |
-| **Vastrix Bank** | Deposits, banking module |
+| **Hazbank** | Robbable bank target. Requires at least 10 players in the server to start. |
+| **Vastrix Bank** | Banking/deposit location. |
 
-## Landmark towers
+## Landmarks
 
-These recognisable KL towers are faithfully represented:
+You may recognise:
 
-| Name | Notes |
-| --- | --- |
-| **Maxis Tower** | Flagship tower |
-| **Public Bank Tower** | |
-| **Ambank Tower** | |
-| **PNB Tower** | |
-| **Hong Leong Tower** | |
-| **BSN Tower** / **BSN Bank** | |
-| **Standard Chartered Tower** | |
-| **KH Tower** | |
-| **ExxonMobil Tower** | |
-| **Intercontinental Tower** | |
-| **T&T Tower** | |
-| **O'Tism Studios Tower** | |
-| **G Tower** | |
-| **Tabung Haji** | |
-| **Etiqa Building** | |
-| **Ilham Gallery Building** | |
-| **The Pencil Co.** | |
-| **Gov Building** | |
+- PETRONAS / KLCC area
+- Maxis Tower
+- Public Bank Tower
+- Ambank Tower
+- PNB Tower
+- Hong Leong Tower
+- BSN Tower
+- Standard Chartered Tower
+- Tabung Haji
+- Grand Hyatt
+- Mandarin Oriental
+- Traders Hotel
+- Aries Hotel
+- Community Retail
+- Plaza Rakyat
 
-## Hotels & residences
+## CCTV and Police Assets
 
-| Name | Notes |
-| --- | --- |
-| **ICON Hotel** | |
-| **Grand Hyatt** | |
-| **Mandarin Oriental** | |
-| **Traders Hotel** | |
-| **Platinum Hotel** | |
-| **Ambassador Hotel** | |
-| **Fullman Hotel** | |
-| **Fairview Residence** | |
-| **E&O Residence** | |
-| **Binjai Condo** | |
-| **The Avare** | |
-| **Aries Hotel** | Has a working lift |
+CCTV is a POLIS operational tool controlled from IPD Dang Wangi. Civilians generally do not interact with CCTV systems.
 
-## Other landmarks
+## Vehicle Spawners
 
-- **Asean Kuala Lumpur** — ASEAN complex
-- **AKClot** — Parking
-- **UAE Embassy**
-- **Plaza Rakyat** — promotional TV screen
-- **Community Retail (CR)** — promotional TV screen; charging stations nearby
+Spawners are spread across the city by role:
 
-## Infrastructure
+- POLIS at IPD and police areas.
+- BOMBA at the fire station.
+- MAF and KPTD at military areas.
+- Bus operators at depots.
+- Taxi, tow, and POS at their work areas.
+- Civilian vehicles at Classic Car Dealer.
 
-- **Roads** — full road network with markings
-- **Traffic Lights** — 4-way and 3-way, with auto and manual controls
-- **RoadSigns** — signage
-- **Streetlights** — 2-way DBKL streetlight models
-- **Bus lanes** along Jalan Ampang
-- **Bike lanes** along Jalan Ampang
+You can only use spawners your team is allowed to use.
 
-## Vegetation & decor
+## See Also
 
-- **Palm trees, big trees, environmental vegetation**
-- **Raya 2024** decorations (seasonal — currently visible in city)
-- Other festive sets (Merdeka, CNY, Halloween) live in storage and rotate in seasonally
-
-## CCTV
-
-**Orwell CCTV System** — **30 cameras** (verified) across KL, controlled from the CCTV desk inside IPD Dang Wangi. Mix of PTZ (pan-tilt-zoom), bullet cameras, and DME / HEROS-series fixed cameras.
-
-Coverage includes real-KL-inspired locations:
-- **Menara Maxis pickup** and Jalan Lorong Kuda × Jalan Stonor
-- **Pavilion Bukit Bintang** and Jalan Bukit Bintang × Jalan Sultan Ismail
-- **Ampang Road / KLBT** (both directions)
-- **Jalan Binjai × KL Boulevard** (multiple angles)
-- **Government Complex**
-- **Balai Polis lobby** (interior + exterior)
-- **Lickers**, **Ammulaysia** (AMMU), **Plaza Rakyat**
-- **ASEAN Building** (Jalan Kia Peng exit + Jalan Bukit Bintang entrance)
-- **Traders' Hotel**
-
-CCTV is a POLIS operational asset — civilians won't interact with the feed. Building-mounted camera decals are everywhere for visual authenticity.
-
-## Special locations
-
-- **HardPoints** — raid / capture points for the Hardpoint gamemode
-- **Armoury** — weapon / equipment storage (team-gated)
-- **e-hailing pickup points** — scattered around the city for taxi operations
-- **Inzun Notes** — interactive notes system
-- **Waypoints** — 100+ waypoint markers used for navigation and location tracking
-- **Global Piano Connector** — interactive piano
-- **Mannequin** displays — clothing showcase
-
-## Vehicle spawn locations
-
-30+ vehicle spawners in the city, organised by operator:
-
-- **POLIS** — multiple (Reg, Transports, JSPT, POLIS Heli)
-- **BOMBA** — Bomba Spawner, Bomba Utility, BOMBA Heli
-- **MAF** — MAF, MAF Civilian, GGK, KPTD
-- **Transport** — MyTransit, FirstGroup, Fermuda, FermudaDev, FLAXIM, FLAXIM 2, Fetch, Tompang
-- **Taxi** — Taxi Spawner
-- **POS** — POS Spawner
-- **Tow** — TOW Vehicles
-- **KKM / SJAM** — StJohn Spawner (SJAM), and KKM via team
-- **Special** — OCG, DEV Vehicles, DEV Vehicles 2, ARE, SPAD, JIM
-- **Civilian** — Classic Car Dealer
-
-You can only use spawners your team is authorised for. See [Vehicles](/bandaraya/vehicles).
-
-## Player spawn points
-
-50+ player spawn points organised by team (`PlayerSpawns`):
-
-- **Emergency** — POLIS, BOMBA, KKM, SJAM
-- **Military** — MAF, KPTD
-- **Transport** — MyTransit, FirstGroup, Fermuda, Flaxim, Fetch, Bus Services, Taxi Services, Towing Services
-- **Government** — Government, Royal Family, Yang di-Pertuan Persekutuan, Foreign Rep
-- **Default** — Visitors, Malaysians, Arrested
-- **Other** — Developers, Moderation, OCG, NWS, JIM, HCC, RELA, TransitKL
-
-## See also
-
-- [Getting Around](/bandaraya/getting-around) — MRT, bus, CAG kiosks
-- [Vehicles](/bandaraya/vehicles) — spawners, dealership
-- [Emergency Services](/bandaraya/emergency-services) — IPD, BOMBA, KKM locations
-- [Economy](/bandaraya/economy) — shops and what they sell
-- [Jobs](/bandaraya/jobs) — POS postbox and mailbox locations (in-game)
+- [Getting Around](/bandaraya/getting-around)
+- [Vehicles](/bandaraya/vehicles)
+- [Emergency Services](/bandaraya/emergency-services)
+- [Economy](/bandaraya/economy)
+- [Jobs](/bandaraya/jobs)

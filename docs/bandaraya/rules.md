@@ -5,147 +5,122 @@ description: "What behaviour gets you banned in Bandaraya, and how appeals work.
 
 # Rules
 
-Bandaraya is a roleplay game. There are rules. Read them. Follow them. You will be banned if you don't.
-
-The canonical rule text lives in the game (`infoModules.GameRules`) and is mirrored in the source wiki's `docs/game-rules.md`. This page is a player-friendly summary.
+Bandaraya is a roleplay game. Stay in character, respect scenes, and do not use glitches or exploits to win.
 
 ## TL;DR
 
-- Don't exploit, glitch, or hack. Instant ban.
-- Don't go rogue on a public-services team. Instant ban.
-- Don't LTAA (leave to avoid arrest) or RTAA (reset to avoid arrest).
-- Stay in character. Respect roleplay.
-- Don't harass people, spawn-kill civilians, or violate Roblox TOS.
+- Do not exploit, hack, or abuse glitches.
+- Do not go rogue on public-service teams.
+- Do not LTAA or RTAA.
+- Do not harass players or staff.
+- Follow Roblox Terms of Service.
+- Respect roleplay scenes.
 
----
+## General Violations
 
-## General violations
+These can lead to a server ban.
 
-You can be **server-banned** for any of the following:
+### 1. Chat Spam
 
-### 1. Spam the chat
+Repeated, meaningless, or disruptive messages.
 
-Filling chat with repeated or meaningless text. Don't.
+### 2. LTAA - Leave to Avoid Arrest
 
-### 2. LTAA — Leave To Avoid Arrest
+Leaving while detained, cuffed, or being arrested. The game can apply the arrest timer when you return, and staff may still treat it as a rule violation.
 
-Disconnecting while detained or being arrested. The game auto-applies a 3-minute arrest when you rejoin, and LTAA is still treated as a rule violation on top. See [Arrest & Law](/bandaraya/arrest-and-law#ltaa).
+### 3. RTAA - Reset to Avoid Arrest
 
-### 3. RTAA — Reset To Avoid Arrest
+Resetting to escape arrest or consequences. Reset is disabled at low health to prevent this, but attempts still count.
 
-Using the reset button to escape. The game now disables reset at 75 HP or below to stop this. Attempts still count. See [Arrest & Law](/bandaraya/arrest-and-law#rtaa).
+### 4. Glitch Abuse
 
-### 4. Glitch abuse
+Examples:
 
-- Glitching through walls or restricted areas
-- Glitching any vehicle (making it behave unnaturally to gain advantage)
-- Glitching or abusing tools whilst detained, injured, or being arrested
-- Any other glitches as determined by a moderator or administrator
+- Glitching through walls.
+- Escaping restricted areas.
+- Breaking or abusing vehicle physics.
+- Abusing tools while detained, injured, cuffed, or arrested.
 
-### 5. Trolling / harassment
+### 5. Trolling or Harassment
 
-- Following and continuously harassing a person
-- Intentionally glitching or breaking another player's vehicle
-- Any other harassment as determined by a moderator or administrator
+Do not follow, target, harass, or intentionally ruin another player's roleplay.
 
-### 6. Spawn-kill
+### 6. Spawn-Killing
 
-Applies only to civilians. Killing people as they spawn is banable.
+Do not kill civilians as they spawn.
 
-### 7. Abuse job-related teams
+### 7. Job-Team Abuse
 
-Using transport, postal, tow, or other job teams to commit criminal or terrorist activities.
+Do not use postal, taxi, tow, bus, or other job teams to commit crime or disrupt the server.
 
-### 8. Interrupting roleplay or admin scenarios
+### 8. Scene Disruption
 
-Don't walk into someone's arrest scene and start screaming. Don't interrupt a mod scene.
+Do not interrupt an arrest, medical scene, staff scene, or organised roleplay unless your character has a valid role in it.
 
-### 9. Harass administrators
+### 9. Staff Harassment
 
-Don't abuse or harass a mod while they're moderating.
+Do not harass moderators or administrators.
 
----
+## Severe Violations
 
-## Severe violations
+These can lead to long or permanent bans.
 
-You can be **banned for an extended period or permanently** for any of these:
+### Exploits
 
-### 1. Using exploits
+Aimbots, speed hacks, damage cheats, tool abuse, and other exploit attempts are not tolerated.
 
-Client-side cheats, aimbots, speed hacks, weapon-damage multipliers. The anti-cheat will catch and kick you. Persistent attempts = permanent ban.
+### Repeated Rule-Breaking
 
-### 2. Repeated general violations
+Repeated small violations can become a severe moderation issue.
 
-Keep doing small things wrong? Severe ban.
+### Going Rogue on Public Service
 
-### 3. Going rogue on public services
+If you are on POLIS, BOMBA, KKM, SJAM, MAF, KPTD, RELA, or another public-service team, do not commit crime or abuse your tools.
 
-If you're on **POLIS, BOMBA, KKM, SJAM, MAF, KPTD, RELA**, or any other public-service team and you commit crime, that's a severe violation. Wear the uniform, play the role.
+### Ban Evasion
 
-### 4. Ban evasion
+Do not use alternate accounts or someone else's account to avoid a ban.
 
-- Using an alternative account to avoid a ban
-- Playing under someone else's login after you've been banned
+### Personal Information
 
-Ban evasion is taken very seriously.
+Do not share anyone's private information.
 
-### 5. Sharing personal information
+### Roblox Terms of Service
 
-Don't dox. Don't share anyone's personal details — yours or others'.
+No racism, NSFW content, online dating, inappropriate symbols, or other content Roblox would not allow.
 
-### 6. Violate Roblox Terms of Service
+## Roleplay Etiquette
 
-- **Racism** — including coded racism
-- **Discussing topics of sensitive nature**
-- **NSFW** content of any kind
-- **Online-dating**
-- Any other messages, symbols, or media deemed inappropriate
+These are not always ban rules, but they make the game better:
 
-If Roblox itself wouldn't allow it, Bandaraya doesn't allow it.
+- Stay in character during scenes.
+- Use radio and team tools responsibly.
+- Drive like traffic matters.
+- Do not metagame with information your character would not know.
+- Keep out-of-character arguments away from in-character scenes.
 
----
+## Penal Code Roleplay
 
-## Roleplay etiquette
-
-These aren't formal rules, but they keep the game fun:
-
-- **Stay in character.** Use roleplay dialogue, not OOC chatter during scenes.
-- **Respect scenes.** If police are arresting someone, don't interrupt unless you're part of the roleplay.
-- **Drive like it matters.** You're in KL, not Rocket League.
-- **Use radio for in-character communication.** The radio module supports STT/TTS for immersion.
-- **Don't metagame.** Don't use knowledge your character wouldn't have (e.g., seeing a player's team from out-of-character info).
-- **Don't mix OOC and IC.** Out-of-character discussions belong in OOC-tagged messages or Discord, not IC chat.
-
----
-
-## Penal Code reference
-
-In addition to the player rules, the in-game POLIS and judicial roleplay refer to the **Laws of Malaysia, Penal Code (Act 574)** — a 2,380-line reference of real Malaysian criminal law shipped with the game. Officers may cite section numbers (e.g. "Section 302 — Punishment for murder") in arrest records. This is for roleplay flavour and doesn't add new banable offences beyond what's listed above.
+POLIS and judicial roleplay may refer to Malaysian Penal Code sections for flavour. Staff moderation still follows Bandaraya and Roblox rules.
 
 ## Appeals
 
-Any ban, permanent or temporary, can be appealed.
+If you believe a ban or punishment was wrong:
 
-1. Join the **Malaysia community server**.
+1. Join the MYSverse community server.
 2. Contact a moderator or administrator.
-3. Appeals go through the **Moderation server**.
+3. Follow the appeal process calmly.
 
-**Note:** bans are **NOT appealable by way of judicial review.** Moderators have the final call.
+Moderators have the final call.
 
----
+## Tips
 
-## Tips & gotchas
+- Keep screenshots or clips if you need to explain a scene.
+- If you get kicked by anti-cheat and believe it was false, share the kick message with staff.
+- You need at least 60 days of Roblox account age to join Bandaraya.
 
-- **The anti-cheat has been tuned.** Legitimate combat won't kick you (weapon DPS threshold is 3000+; fire rate tolerance is up to 40 shots/sec). If you get kicked unfairly, the kick message includes a tag (RL, MV, WM) — take that to moderators for a quick resolution.
-- **Legitimate teleports and lifts are whitelisted** — you won't get kicked for using the Aries Hotel lift or IPD Dang Wangi's elevators.
-- **Discord logging tracks most actions** — tow clamps, arrests, damage events. Don't try to exploit and cover your tracks.
-- **The game logs kills** for moderation review (added in v3.12.15).
-- **Account-age gate:** you need at least 60 days of Roblox account age to play (set in v3.9.0 to combat bot/new-account abuse).
-- **Stay safe, play fair.** That's it.
+## See Also
 
-## See also
-
-- [Arrest & Law](/bandaraya/arrest-and-law) — LTAA / RTAA mechanics
-- [Emergency Services](/bandaraya/emergency-services) — going-rogue consequences
-- [FAQ](/bandaraya/faq) — common questions about rules
-- Canonical rule text: `docs/game-rules.md`
+- [Arrest & Law](/bandaraya/arrest-and-law)
+- [Emergency Services](/bandaraya/emergency-services)
+- [FAQ](/bandaraya/faq)

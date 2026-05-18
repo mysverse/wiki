@@ -4,8 +4,8 @@ description: >-
   Menghasilkan, memandu, bahan api, dan membeli atau menyewa kenderaan di
   Bandaraya.
 lang: ms
-translated_from_hash: 92a4a5da
-translated_on: '2026-05-17'
+translated_from_hash: "d729719d"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # Kenderaan
@@ -138,8 +138,8 @@ Jika anda memiliki **gamepass High Class Citizen**, kenderaan mewah (BMW i7, Vol
 
 POLIS dan BOMBA mempunyai spawner helikopter di stesen mereka. Khusus pasukan — orang awam tidak boleh men-spawn mereka.
 
-- Spawn melalui pemilih **ViewportFrame** pada skrin.
-- Helikopter yang di-spawn akan dijana semula 8 saat selepas pemusnahan.
+- Guna pemilih kenderaan pada skrin di stesen.
+- Helikopter gantian tersedia 8 saat selepas helikopter sebelumnya dimusnahkan.
 
 Jangan langgar helikopter ke bangunan.
 

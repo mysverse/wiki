@@ -2,8 +2,8 @@
 title: 手机与界面
 description: Sumaya 的 12 款手机应用、HUD 以及小地图介绍。
 lang: zh
-translated_from_hash: 552de054
-translated_on: '2026-05-17'
+translated_from_hash: "9b5574d6"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 手机与界面
@@ -22,7 +22,7 @@ needs_review: true
 
 ## 手机应用
 
-Sumaya 拥有 **14 个应用条目**,加上一个手机主页启动器(内部称为 `PhoneUI`)。有些应用只会在合适时出现：Emergency999 需要你的角色已生成，MDT 用于紧急服务队伍，DevTools 仅供开发者使用。
+Sumaya 的手机有 **14 个应用**和主页。有些应用只会在有用时出现：Emergency999 会在你的角色生成后出现，MDT 用于紧急服务队伍，开发者专用工具会对普通玩家隐藏。
 
 ### 设置
 
@@ -124,7 +124,7 @@ Sumaya 拥有 **14 个应用条目**,加上一个手机主页启动器(内部称
 
 当你第一次走进一个标记的 POI 时,应用会弹出一个 `Ditemui: <name>` 提示,该条目从锁定翻转为已发现。POI 奖励会自动存入你的银行账户。
 
-POI 是一项进行中的功能。当前 build 定义了 **Menara Jam**、**Pasar Sumaya** 和 **Pantai Sumaya**，但世界里目前没有标记为 `SumayaPOI` 的触发部件。如果你到访这些地标时没有解锁，这是内容放置缺口，不是你操作错误。
+POI 是一项进行中的功能。当前 build 包含 **Menara Jam**、**Pasar Sumaya** 和 **Pantai Sumaya**。如果你到访这些地标时没有解锁，这是内容放置缺口，不是你操作错误。
 
 ### Emergency999
 
@@ -149,13 +149,7 @@ POI 是一项进行中的功能。当前 build 定义了 **Menara Jam**、**Pasa
 
 参见 [Polis](/sumaya/polis) 了解更多关于 MDT 的信息。
 
-### DevTools
-
-仅供开发者使用的调试应用。你作为普通玩家不会看到它。忽略。
-
-对于获授权的测试者，DevTools 现在包含 monetization placeholder 的后端检查：entitlement catalog/overrides、现金产品模拟、vehicle pack 所有权、radio scaffold 状态，以及 POLIS specialization 测试。
-
-### PhoneUI(主页启动器)
+### 主页
 
 带有应用网格的主手机主屏幕。不是你启动的独立应用。
 

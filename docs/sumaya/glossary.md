@@ -7,7 +7,7 @@ description: "Malay words and in-game terms explained for Sumaya players."
 
 A reference list of Malaysian (Malay) words and Sumaya-specific game terms.
 
-## Malaysian words
+## Malaysian Words
 
 These come from everyday Malaysian/Malay vocabulary. You'll see them throughout the game.
 
@@ -37,7 +37,7 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Jalan** | Road / street. | Appears in street names like "Jalan Triden", "Jalan Bawang". |
 | **Lorong** | Lane / alley. | Smaller streets like "Lorong Pais", "Lorong Kicai". |
 
-### Malaysian rank abbreviations
+### Malaysian Rank Abbreviations
 
 These appear in Bomba ranks:
 
@@ -76,7 +76,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | DCP | Deputy Commissioner of Police |
 | CP | Commissioner of Police |
 
-## Game-specific terms
+## Game-Specific Terms
 
 | Term | Definition |
 |------|------------|
@@ -92,7 +92,6 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Team** | Your role (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
 | **Sector** | A job type: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
 | **Rank** | Your prestige title within a sector (e.g. "Fire Officer"). Cosmetic only. |
-| **Token** | Internal name for a sector (e.g. "Token_Bomba"). You rarely see this in-game. |
 | **Plot** | A piece of land in a neighborhood where you can build a house. One per player. |
 | **Tier** (house) | House quality level: Tier 1 (cheap), Tier 2 (mid), Tier 3 (premium). |
 | **Tier** (trawler) | Fishing boat quality: Tier 1 (free), Tier 2 (25k), Tier 3 (37k). |
@@ -105,7 +104,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Minimap** | The top-right HUD map showing your area. |
 | **Task card** | The top-left HUD panel showing your current objective. |
 | **Waypoint** | A marked location on the minimap. Can be game-set (quest, MDT call) or custom (long-press to place). |
-| **Guidance beam** | The colored 3D beam pointing from your character to your active waypoint. |
+| **Guidance beam** | The coloured 3D beam pointing from your character to your active waypoint. |
 | **Stud** | Roblox's unit of distance. Roughly 1 foot / 30 cm. |
 | **KKN** | Kementerian Kesihatan Nasional - National Ministry of Health. Seen on ambulances. |
 | **Slim Jim** | A tool used for carjacking. One-use. |
@@ -122,7 +121,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Status widget** | The two-row top-right HUD panel showing Citizen level + active sector. Hidden by tapping the Status icon in the topbar. |
 | **TopBar icons** | The small Map / Tasks / Status / Open Menu icons at the top-centre of the screen. Tap to toggle each HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying. |
 
-## Abbreviations commonly seen
+## Abbreviations Commonly Seen
 
 | Abbrev | Meaning |
 |--------|---------|
@@ -134,7 +133,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | PvP | Player vs Player |
 | ATM | Automated Teller Machine |
 
-## What next?
+## What Next?
 
 - [Getting Started](/) if you're new.
 - Any of the specific sections (see the [README](/) for the full TOC).

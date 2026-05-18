@@ -1,9 +1,9 @@
 ---
 title: 术语表 — 马来西亚用语与游戏缩写
-description: 马来西亚缩写与游戏术语解说 — PDRM、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。
+description: 马来西亚缩写与游戏术语解说 — POLIS、BOMBA、KKM、CAG、LTAA、RTAA、MRT 等。
 lang: zh
-translated_from_hash: ad09a143
-translated_on: '2026-04-21'
+translated_from_hash: "75024133"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # 术语表 — 马来西亚用语与游戏缩写
@@ -15,7 +15,7 @@ Bandaraya 大量使用真实的马来西亚名称。如果你不是来自马来�
 | 术语 | 含义 |
 | --- | --- |
 | **BR** | **Bandar Ringgit** — 游戏内货币。可以把它当作游戏里的令吉(RM)。 |
-| **CAG** | **Click And Go** — 游戏内储值交通卡(Bandaraya 版本的马来西亚 Touch n Go)。 |
+| **CAG** | **Click And Go** — 游戏内储值交通卡(Bandaraya 版本的马来西亚 TapNGo)。 |
 
 ## 组织(队伍)
 
@@ -59,4 +59,3 @@ Bandaraya 大量使用真实的马来西亚名称。如果你不是来自马来�
 | **Ammulaysia** | 持牌枪械经销商。需要 Firearms Licence gamepass。 |
 | **MRT** | **Mass Rapid Transit** — 加影线快速通行列车。 |
 | **ACS** | **Advanced Combat System** — 武器引擎(处理射击、装填、伤害)。 |
-| **Saude** | 葡萄牙语,意为 "health"(健康)。这是血量系统的内部名称。你在 UI 里不会看到这个字,但知道一下也好。 |

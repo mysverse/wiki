@@ -2,8 +2,8 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: db93a1f9
-translated_on: '2026-05-17'
+translated_from_hash: "c9c4ac51"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -97,7 +97,6 @@ needs_review: true
 | **Team** | 你的角色（Visitors、Malaysians、POLIS、BOMBA、Kesihatan）。 |
 | **Sector** | 一种工作类型：Fishing、Service、Agro、Bomba、Polis、Kesihatan。 |
 | **Rank** | 你在某个 sector 内的声望头衔（例如 "Fire Officer"）。仅装饰用。 |
-| **Token** | sector 的内部名称（例如 "Token_Bomba"）。在游戏中很少看到。 |
 | **Plot** | 在邻里中你可以建造房子的一块土地。每个玩家一块。 |
 | **Tier**（房屋） | 房屋质量等级：Tier 1（便宜）、Tier 2（中等）、Tier 3（高端）。 |
 | **Tier**（拖网渔船） | 渔船质量：Tier 1（免费）、Tier 2（25k）、Tier 3（37k）。 |

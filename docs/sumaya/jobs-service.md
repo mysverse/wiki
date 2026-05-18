@@ -7,11 +7,11 @@ description: "Mamak and fast-food service careers in Sumaya."
 
 The service sector covers Sumaya's two customer-facing food jobs: **Mamak** (the classic Malaysian Indian-Muslim eatery) and **Fast Food** (a burger-style quick-service restaurant). Both are fast-paced, order-taking jobs, and both share the same sector XP and rank ladder.
 
-## Unlock requirement
+## Unlock Requirement
 
 The service sector is unlocked **once you reach level 50 in another civilian sector** (fishing or palm oil). It's the "mid-game" career option. You can still visit the stalls as a customer before then - you just can't work there.
 
-## Getting started
+## Getting Started
 
 1. Reach sector level 50 in [fishing](/sumaya/jobs-fishing) or [palm oil](/sumaya/jobs-palm-oil).
 2. Open the **Careers** app on your phone.
@@ -19,7 +19,7 @@ The service sector is unlocked **once you reach level 50 in another civilian sec
 4. Walk up to a Mamak stall or Fast Food counter (the Careers app will point you there).
 5. Press the **clock in** prompt.
 
-## How orders work
+## How Orders Work
 
 Once you're on shift:
 
@@ -49,11 +49,11 @@ Tips:
 - **Read orders carefully.** Wrong-order penalties subtract from your paycheck - repeat failures can wipe out the per-customer pay.
 - **Bonus at every 10 served**: aim for multiples of 10 before clocking out.
 
-## Leveling up
+## Levelling Up
 
 The service sector goes up to **level 100**, same as the other civilian sectors. Per-customer XP stays flat at 6 regardless of your level — the grind is steady, not accelerating, so plan your shifts around how many customers you can serve, not how high you've levelled.
 
-## Clocking out
+## Clocking Out
 
 Open the Careers app and stop your shift. Earnings accumulate as you go, so you don't lose progress by clocking out mid-shift - you've already been paid.
 
@@ -64,7 +64,7 @@ Open the Careers app and stop your shift. Earnings accumulate as you go, so you 
 - **Watch the prep area.** Some ingredients regenerate slowly; if the freezer is empty, the next order might stall briefly.
 - **Learn the venue layout.** The difference between a fast shift and a slow one is whether you know where every item lives.
 
-## What next?
+## What Next?
 
 - [Fishing](/sumaya/jobs-fishing) if you want a calmer alternative.
 - [Palm oil](/sumaya/jobs-palm-oil) for higher-single-action payouts.

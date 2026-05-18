@@ -4,8 +4,8 @@ description: >-
   Bermain sebagai BOMBA di Sumaya — jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: c3c34412
-translated_on: '2026-05-17'
+translated_from_hash: "98365ef0"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -54,7 +54,7 @@ Jika anda mati, tukar pasukan, keluar dari server, kehilangan outlet sumber, ata
 
 ### Hydrant
 
-Hydrant ditetapkan di sekitar peta di dalam `Workspace.HydrantConnections`. Peta semasa mempunyai segelintir model hydrant — tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekitarnya. Setiap hydrant menyokong dua salur hose, jadi dua pegawai bomba boleh berkongsi satu.
+Hydrant ditetapkan di sekitar peta. Peta semasa mempunyai segelintir hydrant — tidak cukup untuk meliputi seluruh bandar, jadi rancang laluan di sekitarnya. Setiap hydrant menyokong dua salur hose, jadi dua pegawai bomba boleh berkongsi satu.
 
 ### Tanker (tahap sektor 65)
 

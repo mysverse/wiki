@@ -2,8 +2,8 @@
 title: 紧急服务概览
 description: POLIS、BOMBA 与 Kesihatan — Sumaya 的紧急服务介绍。
 lang: zh
-translated_from_hash: 7299072b
-translated_on: '2026-05-17'
+translated_from_hash: "deb96e43"
+translated_on: 2026-05-18
 needs_review: true
 ---
 
@@ -65,7 +65,7 @@ Sumaya 有三支紧急服务队伍:
 
 ### 通缉状态下的降级
 
-紧急服务玩家（BOMBA、Kesihatan、POLIS）进入 **1-star wanted** 时会自动降级。Offence 系统触发 demotion bindable，`PoliceServer` 监听它，`TeamAuthority` 会在玩家符合条件时切换到 Malaysians，否则切换到 Visitors。你的紧急车辆也会 despawn。如果你想控制 roleplay，请在做任何违法事情前手动切换队伍。
+紧急服务玩家（BOMBA、Kesihatan、POLIS）成为 **1-star wanted** 时会自动失去当班角色。游戏会在你符合条件时把你切换到 Malaysians，否则切换到 Visitors，并 despawn 你的紧急车辆。如果你想控制 roleplay，请在做任何违法事情前手动切换队伍。
 
 ## Kesihatan 的全局 XP 加成
 

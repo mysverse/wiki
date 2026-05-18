@@ -14,7 +14,7 @@ This page covers how careers work in general. Individual sectors have their own 
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
 - Gig jobs
 
-## What's a "sector"?
+## What's a "Sector"?
 
 A sector is a category of work. Each sector has:
 
@@ -35,7 +35,7 @@ The three **emergency-service sectors** (Bomba, Kesihatan, Polis) aren't shown i
 
 Gig jobs are separate from the three long-term sectors. They are short assignments like E-Hailing, Pos Nasional, Tow Truck, Reporter, Tour Guide, and Restaurant Supplier. They use task-card guidance, waypoint markers, and quick minigame steps instead of a full sector shift.
 
-## How to start a career
+## How to Start a Career
 
 1. Open your **phone** and tap the **Careers** app.
 2. Pick a sector. If it's locked, the app will tell you why.
@@ -50,7 +50,7 @@ Once you're clocked in:
 
 For gig jobs, use the gig/career prompt or interface when available, then follow the task card and minimap. Gig runs may open a small interaction panel for manifest paperwork, route choices, sequence checks, or timing checks.
 
-## Clocking out
+## Clocking Out
 
 Open the Careers app and tap the active job to stop. Some sectors (like palm oil) pay out your earnings only **when you clock out**, so don't forget to finish your shift.
 
@@ -59,7 +59,7 @@ You'll also stop automatically if:
 - Your character respawns (any death ends the shift).
 - You switch teams.
 
-## Civilian XP and rewards, in brief
+## Civilian XP and Rewards, in Brief
 
 Every action pays you two things:
 
@@ -70,7 +70,7 @@ Action payouts depend on the sector. Trawl fishing gives 2 XP per catch (rod fis
 
 See each sector page for the numbers, and [Progression](/sumaya/progression) for how XP converts to levels.
 
-## Which career should I pick first?
+## Which Career Should I Pick First?
 
 Rough guide:
 
@@ -80,7 +80,7 @@ Rough guide:
 - **Want a short, varied errand?** Pick a gig job. The quick minigame steps add some pressure without locking you into a long shift.
 - **Just want to explore?** Skip civilian work for now, grab a free Perosatu Axia or Protan Wira from a [vehicle spawner](/sumaya/vehicles), and drive around. Come back when you want Ringgit.
 
-## Cross-sector tips
+## Cross-Sector Tips
 
 - **You can only work one job at a time.** If you clock in to fishing, you need to clock out before you can start mamak.
 - **Gig jobs reset cleanly.** If you die, switch teams, or leave mid-step, the active gig panel and camera focus are removed so you can start fresh.
@@ -88,7 +88,7 @@ Rough guide:
 - **Emergency-service sectors are uniform.** Bomba, Polis, and Kesihatan all go up to level 100 with similar reward curves. Civilian sectors differ more.
 - **Kesihatan's injury system gives a +15% player-XP boost to everyone on the server** while it's active. If you see the boost active, it's a good time to grind.
 
-## What next?
+## What Next?
 
 Pick a sector to read about in detail:
 

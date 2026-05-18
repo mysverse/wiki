@@ -4,8 +4,8 @@ description: >-
   Bandar Ringgit (BR) பொருளாதாரம் எவ்வாறு வேலை செய்கிறது — சம்பாதித்தல், வங்கி,
   BR பரிமாற்றம், மற்றும் டெவலப்பர் பொருட்கள்.
 lang: ta
-translated_from_hash: ae4fab89
-translated_on: '2026-04-21'
+translated_from_hash: "66e475d0"
+translated_on: 2026-05-18
 needs_review: true
 ---
 # பொருளாதாரம்
