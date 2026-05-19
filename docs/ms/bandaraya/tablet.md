@@ -4,11 +4,10 @@ description: >-
   Alat tablet khas pasukan di Bandaraya - MDT, MyEmergency, MyTow, KKM Logger,
   dan aplikasi lain.
 lang: ms
-translated_from_hash: "35803e65"
-translated_on: 2026-05-18
+translated_from_hash: 9e8ab564
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
 # Tablet
 
 **Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda - pegawai POLIS nampak MDT, operator tunda nampak MyTow, dan sebagainya.
@@ -88,9 +87,9 @@ Aplikasi kementerian kesihatan:
 
 Khas KKM sahaja.
 
-### Developer App
+### Team tools
 
-Alat dan diagnostik pembangun. Pembangun sahaja.
+Alat untuk peranan kakitangan MYSverse yang dibenarkan.
 
 ---
 
@@ -116,7 +115,7 @@ Aplikasi yang anda nampak bergantung pada pasukan semasa anda:
 | **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
 | **MyTransit, Bus Services** | Vehicle Management |
-| **Developers** | Developer App + semua lain |
+| **Developers** | Team tools + semua lain |
 | **Awam (Visitors, Malaysians)** | Vehicle Management sahaja (carian plat asas) |
 
 Jika aplikasi yang anda jangkakan tiada di situ, semak pasukan anda.

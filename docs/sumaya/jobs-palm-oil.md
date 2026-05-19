@@ -1,9 +1,9 @@
 ---
-title: "Palm Oil (Agriculture)"
+title: "Palm oil (agriculture)"
 description: "Palm oil and agriculture work in Sumaya."
 ---
 
-# Palm Oil (agriculture)
+# Palm oil (agriculture)
 
 Palm oil harvesting is Sumaya's agricultural sector. You cut fruit bunches from palm trees, collect them in a bucket, and get paid at the end of your shift. It's available from day one - no prerequisite, no level gate, just walk up and start.
 

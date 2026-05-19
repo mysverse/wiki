@@ -5,7 +5,7 @@ description: "Every control in Lebuhraya - keyboard, gamepad, mobile, and VR inp
 
 # Controls
 
-Lebuhraya supports keyboard, gamepad, touch (mobile/tablet), and VR. The game auto-detects your platform and shows the right prompts in-game - if a control is shown on-screen, use that one. The reference below is what the common bindings look like.
+Lebuhraya supports keyboard, gamepad, touch, and VR. The game auto-detects your platform and shows the right prompts in-game. If a control is shown on-screen, use that one. The reference below is what the common bindings look like.
 
 ## Entering and exiting vehicles
 
@@ -26,7 +26,7 @@ Driver seats are usually locked to the vehicle's owner. If you try to sit in som
 
 ## Driving
 
-Driving uses the A-Chassis system. Defaults:
+Most vehicles use these default driving controls:
 
 | Action | Keyboard | Gamepad |
 |---|---|---|
@@ -71,41 +71,41 @@ Most world interactions use Roblox ProximityPrompts: spawners, doors, job counte
 - Hold the shown key/button until the circle completes if it has a hold duration.
 - If the prompt says you are on the wrong team or at the wrong fuel pump type, the prompt is working; follow the warning.
 
-### Main Menu tabs
+### Main menu tabs
 
-Open the Main Menu to access:
+Open the main menu to access:
 
 - **Home** - announcements and overview
 - **Teams** - pick your team / switch teams
 - **Shop** - in-game purchases (gamepass prompts, tokens)
 - **Activity** - missions, challenges, and season pass progress
 - **More** - a card grid for:
-  - **Career** - your career ranks and agency progress
-  - **Jobs** - per-branch tier bars and rewards
-  - **Tokens** - your active and stored tokens / boosts
-  - **Credits** - development team and contributors
-  - **Races** - time trial and PvP race menu
-  - **Help** - tutorials when available
+ - **Career** - your career ranks and agency progress
+ - **Jobs** - per-branch tier bars and rewards
+ - **Tokens** - your active and stored tokens / boosts
+ - **Credits** - development team and contributors
+ - **Races** - time trial and PvP race menu
+ - **Help** - tutorials when available
 
-Career, tokens, credits, and help pages are grouped under **More**.
+Career, Jobs, Tokens, Credits, Races, and Help are grouped under **More**.
 
 ### Settings you can tweak
 
 Open the Settings panel (cogwheel in the Main Menu) for these toggles:
 
-- **Crash System** - turn on to have collisions actually damage your car; in return you earn **+15% XP** while active. Only available with a Kesihatan team player on the server (see FAQ).
+- **Crash system** - turn on vehicle damage when available. It gives **+15% XP** while active, but heavy crashes can injure you.
 - **Overhead rank** - show or hide the team rank/title that floats above your character.
 - **First person view** - switch camera mode. Forward-slash (`/`) toggles the view in-game.
-- **Vehicle Spawner: NEW** - opt into the refreshed vehicle spawner UI.
-- **Parking Brake** key - remap the handbrake bind.
+- **Vehicle spawner: new** - opt into the refreshed vehicle spawner screen.
+- **Parking brake** key - remap the handbrake bind.
 - **Shift + C** - toggle the entire HUD (good for screenshots).
 - Reset / Change / Remove - repositioning and customisation shortcuts.
 
-### Top HUD indicators
+### Top screen indicators
 
-- **ActiveTokensHUD** - shows every currently-active token (2× XP Boost, Season Pass Boost, Team Access Pass) with remaining time in `M:SS` format. Tokens auto-hide when expired.
-- **StatusGui** - speedometer, fuel, GPS heading, and player vitals.
-- **Leaderboard** - tap to see all online players, their team, level, and studs driven. You can tap a row to send a friend request or block from the same panel.
+- **Active tokens** - shows running boosts with their remaining time.
+- **Status display** - shows speed, fuel, GPS heading, and health information while driving.
+- **Leaderboard** - shows online players, their team, level, and driving distance. You can tap a row for Roblox social options.
 
 ## Tools (jobs equipment)
 
@@ -128,7 +128,7 @@ When you hold a tool - axe, radar gun, taser, pager, fire hose - the controls ar
 ## Accessibility
 
 - Roblox's system-wide settings apply - colourblind filters, UI scaling, text-to-speech.
-- Passive mode can be toggled to prevent tool and weapon interactions. Useful if you don't want to be pulled into combat or emergency roleplay.
+- Passive mode can be toggled to prevent tool and weapon interactions. Useful if you do not want to be pulled into combat or emergency roleplay.
 
 ## Next steps
 

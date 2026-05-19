@@ -2,8 +2,8 @@
 title: 医护
 description: 在 Sumaya 扮演 Kesihatan - 救护车、治疗与复苏。
 lang: zh
-translated_from_hash: "d069c9d3"
-translated_on: 2026-05-18
+translated_from_hash: bb22aefd
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

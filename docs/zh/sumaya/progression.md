@@ -2,8 +2,8 @@
 title: 进度
 description: Sumaya 的 XP、等级、职级系统，以及最快晋升路径。
 lang: zh
-translated_from_hash: "a551785b"
-translated_on: 2026-05-18
+translated_from_hash: af93e7f3
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

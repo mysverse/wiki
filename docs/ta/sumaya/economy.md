@@ -2,12 +2,10 @@
 title: பொருளாதாரம்
 description: 'Ringgit (SR), பணப்பை vs வங்கி, மற்றும் Sumaya-வில் சம்பாதிக்கும் வழிகள்.'
 lang: ta
-translated_from_hash: "5f770573"
-translated_on: 2026-05-18
+translated_from_hash: e153ddde
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # பொருளாதாரம்
 
 Sumaya-வின் நாணயம் **Ringgit**, UI-இல் **SR** (Sumaya Ringgit) என சுருக்கப்படுகிறது. இந்த பக்கம் அதை எவ்வாறு சம்பாதிப்பது, சேமிப்பது மற்றும் செலவிடுவது என்பதை விளக்குகிறது.
@@ -184,7 +182,7 @@ ATM-கள் Sumaya முழுவதும் சிதறிக்கிட�
 ## அடுத்து என்ன?
 
 - XP மற்றும் Ringgit எவ்வாறு தொடர்பு கொள்கின்றன என்பதற்கு [Progression](/sumaya/progression).
-- குறுகிய payout விவரங்களுக்கு Gig jobs.
+- குறுகிய payout விவரங்களுக்கு [Gig வேலைகள்](/ta/sumaya/jobs-gig).
 - விலை பட்டியலுக்கு [வாகனங்கள்](/sumaya/vehicles).
 - வீட்டு விலைகளுக்கு [வீட்டுவசதி](/sumaya/housing).
 - பொருளாதாரத்தின் குற்ற பக்கத்திற்கு [Crime and Law](/sumaya/crime-and-law).

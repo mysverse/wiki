@@ -2,8 +2,8 @@
 title: 棕油业（农业）
 description: Sumaya 的棕油业与农业工作介绍。
 lang: zh
-translated_from_hash: "e7fd3b6b"
-translated_on: 2026-05-18
+translated_from_hash: f582401a
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

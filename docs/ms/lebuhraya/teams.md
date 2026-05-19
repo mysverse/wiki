@@ -2,123 +2,125 @@
 title: Pasukan & Kerjaya
 description: Kesemua 18 pasukan di Lebuhraya dan sistem pangkat 20 peringkat.
 lang: ms
-translated_from_hash: "fbc4f2d1"
-translated_on: 2026-05-18
+translated_from_hash: 141942bf
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Pasukan & Kerjaya
 
-Terdapat **18 pasukan** di Lebuhraya. Setiap satu mewakili peranan berbeza dalam masyarakat lebuh raya Malaysia permainan ini - daripada rider penghantaran hingga anggota bomba. Menyertai pasukan membuka aktiviti kerja, uniform khusus pasukan, dan kadang-kadang kenderaan khusus.
+There are **18 teams** in Lebuhraya. Each one represents a different role in the game's Malaysian highway society - from delivery riders to firefighters. Joining a team unlocks job activities, team-specific uniforms, and sometimes specialised vehicles.
 
-**Career tier** anda berada di atas sistem pasukan. Anda boleh naik pangkat daripada **Trainee** hingga ke puncak rantaian (seperti Senior Assistant Commissioner atau Fire Commissioner) dengan memperoleh XP khusus cabang ketika bekerja.
+Your **career tier** sits on top of the team system. You can rank up from **Trainee** all the way to the top of the chain (like Senior Assistant Commissioner or Fire Commissioner) by earning branch-specific XP on the job.
 
-## Cara menyertai pasukan
+## How to join a team
 
-Buka **Main Menu** dan pergi ke tab **Teams**. Anda akan melihat senarai dengan syarat dan penerangan setiap pasukan. Klik pasukan yang anda layak untuk sertai. Anda boleh menukar pasukan pada bila-bila masa (walaupun sesetengah situasi roleplay, seperti insiden 999 yang ditugaskan, akan dibatalkan apabila anda bertukar).
+Open the **main menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time, though some active roleplay situations, like an assigned 999 incident, will be cancelled when you swap.
 
-### Membaca skrin Teams
+### Reading the teams screen
 
-Tab Teams menggunakan carousel:
+The Teams tab uses a carousel:
 
-- Kad di tengah ialah pasukan yang sedang difokuskan.
-- Kad sisi mempratonton pasukan berdekatan; klik/ketik atau guna anak panah untuk bergerak melalui carousel.
-- Kad berkunci atau malap bermaksud anda belum memenuhi syarat.
-- Panel info bawah menunjukkan nama penuh pasukan, penerangan, status pasukan semasa, dan tindakan join/confirm.
-- Nama pasukan panjang diskalakan supaya muat pada satu baris, jadi `Malaysians`, `Waste Disposal`, dan `Undercover Police` kekal boleh dibaca pada skrin kecil.
+- The centred card is the team currently in focus.
+- Side cards preview nearby teams; click/tap or use arrows to move through the carousel.
+- A lock or dimmed card means you do not currently meet the requirement.
+- The lower info panel shows the full team name, description, current-team status, and join/confirm action.
+- Long team names are scaled to fit on one line, so `Malaysians`, `Waste Disposal`, and `Undercover Police` remain readable on small screens.
 
-Jika anda berada pada pasukan kerja dan cuba membuka spawner kenderaan awam, permainan mungkin memberi amaran bahawa anda tidak boleh mengakses spawner itu semasa bekerja. Tukar semula ke **Visitors** atau pasukan bukan kerja jika anda mahu akses spawner awam.
+If you are on a job team and try to open a civilian vehicle spawner, the game may warn that you cannot access that spawner while working. Switch back to **Visitors** or a non-job team if you want civilian spawner access.
 
-## 18 pasukan
+## The 18 teams
 
-### Percuma untuk semua
+### Free for everyone
 
-| Pasukan | Penerangan |
+| Team | Description |
 |---|---|
-| **Visitors** | Pasukan lalai apabila anda menyertai. Bagus untuk roleplay sebagai pengguna komuter atau pelancong. |
-| **Bus Driver** | Pandu minivan dan bas pada laluan berjadual. Percuma dan terbuka kepada semua - titik permulaan yang baik. |
+| **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
+| **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone - a good entry point. |
 
-### Dibuka melalui keahlian komuniti MYSverse
+### Unlocked by MYSverse community membership
 
-| Pasukan | Cara buka kunci |
+| Team | How to unlock |
 |---|---|
-| **Malaysians** | Sertai kumpulan Roblox MYSverse Malaysian Community (ID 1143446) pada rank 1 atau lebih tinggi. Membuka akses kepada aktiviti kerja **Fishing** dan **Checkout**. |
+| **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
 
-Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya berbayar biasa. Ia berguna pada awal permainan kerana Fishing dan Checkout tersedia sebelum tangga kerja berkunci level.
+The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
 
-### Dibuka melalui level
+### Unlocked by level
 
-| Pasukan | Level | Peranan |
+| Team | Level | Role |
 |---|---|---|
-| **Food Delivery** | 10 | Gunakan motosikal anda untuk menghantar pesanan makanan dari kedai kepada pelanggan. |
-| **Waste Disposal** | 25 | Kutip sampah dari tong dan hantar ke stesen insinerasi. |
-| **Post Office** | 50 | Hantar surat dan parcel untuk Pos Nasional. |
-| **Logistics** | 75 | Freight trucking - angkut kargo dengan Rolvo FM atau Sanica P-series. |
-| **Power Nasional** | 100 | Kerja kontraktor utiliti elektrik nasional. |
-| **Lumberjack** | 150 | Tebang pokok dengan kapak dan angkut balak. |
-| **Kesihatan** | 200 | Kementerian Kesihatan Negara - pandu ambulans, rawat pesakit, balas panggilan perubatan 999. |
-| **APJ** | 300 | Agensi Pengangkutan Jalan - kuatkuasa peraturan pemanduan dan kenderaan. |
+| **Food Delivery** | 10 | Use your motorcycle to deliver food orders from shops to customers. |
+| **Waste Disposal** | 25 | Collect rubbish from bins and deliver to incineration stations. |
+| **Post Office** | 50 | Deliver letters and parcels for Pos Nasional. |
+| **Logistics** | 75 | Freight trucking - haul cargo with a Rolvo FM or Sanica P-series. |
+| **Power Nasional** | 100 | National electric utility contractor work. |
+| **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
+| **Kesihatan** | 200 | The National Health Ministry - drive ambulances, treat patients, respond to 999 medical calls. |
+| **APJ** | 300 | Road Transport Agency - enforce driving and vehicle regulations. |
 
-> Pasukan Waste Disposal, Logistics, dan Lumberjack boleh dibuka lebih awal dengan membeli **Season 1 Season Pass**. Sesetengah teks dalam permainan mungkin masih merujuk nilai level lama; nombor di atas ialah syarat semasa dalam permainan.
+::: info
+The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
+:::
 
-### Dibuka melalui gamepass
+### Unlocked by gamepass
 
-| Pasukan | Peranan |
+| Team | Role |
 |---|---|
-| **Taxi Driver** | Pandu penumpang untuk tambang. Dibuka oleh gamepass Taxi Driver atau Bandaraya. |
-| **KEMRonda** | Polis bantuan lebuh raya. Tow truck, bantuan tepi jalan, cone boleh letak. |
-| **Bomba** | Bomba MYSverse. Trak bomba, spreader, chainsaw, respons kebakaran 999. |
-| **Polis Trafik** | Polis trafik. Taser, radar gun, cone dan sign polis boleh letak. |
-| **Undercover Police** | Toolkit sama seperti Polis Trafik tetapi pada kenderaan tidak bertanda. |
+| **Taxi Driver** | Drive passengers for fares. Unlocked by the Taxi Driver or Bandaraya gamepass. |
+| **KEMRonda** | Highway auxiliary police. Tow trucks, roadside assistance, placeable cones. |
+| **Bomba** | The Fire and Rescue Department. Fire trucks, spreaders, chainsaws, 999 fire response. |
+| **Polis Trafik** | Traffic police. Tasers, radar guns, placeable police cones and signs. |
+| **Undercover Police** | The same toolkit as Polis Trafik but on unmarked vehicles. |
 
-Lihat [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) untuk cara mendapatkan gamepass.
+See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepasses.
 
-### Pasukan sistem
+### System teams
 
-| Pasukan | Penerangan |
+| Team | Description |
 |---|---|
-| **Developers** | Pasukan staf MYSverse. Tidak boleh disertai secara langsung. |
-| **Arrested** | Diberikan secara automatik apabila pemain ditangkap oleh Polis Trafik. |
+| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
+| **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
 
-## Career tiers dan pangkat
+## Career tiers and ranks
 
-Setiap pasukan (selain Visitors dan pasukan sistem) mempunyai **hingga 20 career tiers**. Anda memperoleh XP khusus cabang dengan melakukan kerja pasukan itu - memandu misi teksi, membalas panggilan 999 sebagai Bomba, menghantar kargo sebagai Logistics. Setelah cukup XP, anda naik pangkat.
+Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job - driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
 
-Buka **Main Menu -> More -> Career** untuk melihat status kerjaya keseluruhan anda. Buka **Main Menu -> More -> Jobs** untuk menyemak kemajuan dan ganjaran tier cabang.
+Open **Main Menu -> More -> Career** to view your overall career status. Open **Main Menu -> More -> Jobs** to inspect branch tier progress and rewards.
 
-### Cara XP tier meningkat
+### How tier XP scales
 
-Lengkung tier ialah:
+The tier curve is:
 
-- **Tier 1** memerlukan 500 XP
-- Setiap tier seterusnya memerlukan **15% lebih XP** daripada sebelumnya
-- **Tier 20** sendiri berharga kira-kira **7,100 XP** - dan **sekitar 51,000 XP kumulatif** untuk dicapai dari kosong
+- **Tier 1** requires 500 XP
+- Each subsequent tier requires **15% more XP** than the previous
+- **Tier 20** costs about **7,100 XP** on its own - and **around 51,000 cumulative XP** to reach from scratch
 
-Anda boleh melihat tier semasa dan kemajuan XP anda di **Main Menu -> More -> Career**.
+You can see your current tier and XP progress in **Main Menu -> More -> Career**.
 
-### Gelaran pangkat
+### Rank titles
 
-Pangkat dinamakan khusus untuk setiap pasukan. Beberapa contoh:
+Ranks are named specific to each team. A few examples:
 
-**KEMRonda / Polis Trafik / Undercover Police** (agensi Polis):
+**KEMRonda / Polis Trafik / Undercover Police** (Polis agency):
 Constable → Lance Corporal → Corporal → Sergeant → Sergeant Major → Sub-Inspector → Inspector → Chief Inspector → Assistant Superintendent → Deputy Superintendent → Superintendent → Assistant Commissioner → **Senior Assistant Commissioner** (Tier 20)
 
 **Bomba**:
 Fire Officer → Senior Fire Officer II → Senior Fire Officer I → Leading Fire Officer → Deputy Fire Superintendent → Fire Superintendent → Assistant Fire Superintendent → Senior Assistant Fire Superintendent → Senior Fire Superintendent II → Senior Fire Superintendent I → Assistant Fire Commissioner → Senior Assistant Fire Commissioner → Deputy Fire Commissioner → **Fire Commissioner** (Tier 20)
 
-**Taxi Driver** (agensi Pengangkutan):
+**Taxi Driver** (Pengangkutan agency):
 New Driver → Junior Driver → Driver → Experienced Driver → Junior Executive → Executive → Senior Executive → Towkay → **Yang di-Pandu Abang** (Tier 20)
 
-**Lumberjack** (agensi Sumber):
+**Lumberjack** (Sumber agency):
 Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipment Operator → Felling Foreman → Logging Boss → Forest Manager → **Lumber Lord** (Tier 20)
 
-**Food Delivery** (agensi Perkhidmatan):
+**Food Delivery** (Perkhidmatan agency):
 Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
 
-### Enam agensi
+### The six agencies
 
-Pasukan dikumpulkan dalam enam agensi. Ini penting kerana beberapa ganjaran tier (kenderaan, kosmetik) terikat pada agensi, bukan hanya pasukan.
+Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
 
-| Agensi | Pasukan |
+| Agency | Teams |
 |---|---|
 | **Polis** | KEMRonda, Polis Trafik, Undercover Police |
 | **Kecemasan** (Emergency) | Bomba, Kesihatan |
@@ -127,36 +129,36 @@ Pasukan dikumpulkan dalam enam agensi. Ini penting kerana beberapa ganjaran tier
 | **Sumber** (Resources) | Power Nasional, Lumberjack |
 | **Penguatkuasaan** (Enforcement) | APJ |
 
-## Ganjaran tier
+## Tier rewards
 
-Mencapai milestone tier boleh membuka:
+Hitting a tier milestone can unlock:
 
-- **Gelaran pangkat baharu** yang ditunjukkan pada watak anda dan dalam leaderboard
-- **Kenderaan kerjaya** - contohnya, pangkat Bomba lebih tinggi membuka trak bomba lebih besar; pangkat Taxi Driver lebih tinggi membuka model teksi lebih baik
-- Kadang-kadang **item kosmetik** (uniform, aksesori)
+- A **new rank title** shown on your character and in the leaderboard
+- **Career vehicles** - for example, higher-tier Bomba ranks unlock larger fire trucks; higher-tier Taxi Driver ranks unlock better taxi models
+- Occasional **cosmetic items** (uniforms, accessories)
 
-Kenderaan kerjaya tidak akan muncul dalam spawner kenderaan pasukan yang sepadan sehingga tier anda cukup tinggi.
+Career vehicles won't show in their matching team vehicle spawner until your tier is high enough.
 
-### Kenapa kenderaan hilang daripada spawner
+### Why a vehicle is missing from the spawner
 
-Jika kenderaan wujud dalam wiki tetapi tidak muncul dalam spawner anda, periksa:
+If a vehicle exists in the wiki but does not appear in your spawner, check:
 
-1. Adakah anda berada pada pasukan yang betul?
-2. Adakah jenis spawner betul? Civilian, bike, premium, special, dan spawner pasukan menunjukkan senarai berbeza.
-3. Adakah anda memenuhi syarat level?
-4. Adakah anda memenuhi syarat career tier?
-5. Adakah ia kenderaan gamepass/pasukan yang memerlukan ownership atau Team Access token?
+1. Are you on the correct team?
+2. Is the spawner type correct? Civilian, bike, premium, special, and team spawners show different lists.
+3. Do you meet the level requirement?
+4. Do you meet the career tier requirement?
+5. Is it a gamepass/team vehicle that requires ownership or a Team Access token?
 
-## Uniform dan pakaian
+## Uniforms and outfits
 
-Setiap pasukan mempunyai **uniform kit** sendiri - topi, vest, aksesori khusus peranan. Anda boleh memakai uniform pasukan melalui menu career customisation setelah berada pada pasukan. Contoh kit:
+Each team has its own **uniform kit** - hats, vests, accessories specific to the role. You can put on your team uniform through the career customisation menu once you're on a team. Sample kits:
 
 - **KEMRonda**: Beret, PB Patch, Reflective Vest
 - **Polis Trafik**: Cap, Bike Jacket, Duty Belt, Reflective Coat
 - **Bomba**: Neckguard, Light, Respirator, Command Helmet
-- **Kesihatan**: Peralatan perubatan termasuk Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
+- **Kesihatan**: Medical gear including Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
 
-## Langkah seterusnya
+## Next steps
 
-- [Pekerjaan](/ms/lebuhraya/jobs) - Apa yang setiap pasukan sebenarnya lakukan pada syif biasa
-- [Pass dan Rangsangan](/ms/lebuhraya/passes-and-boosts) - Gamepass dan Season Pass
+- [Jobs](/lebuhraya/jobs) - What each team actually does on a typical shift
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses and the Season Pass

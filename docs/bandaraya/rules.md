@@ -55,7 +55,7 @@ Do not use postal, taxi, tow, bus, or other job teams to commit crime or disrupt
 
 ### 8. Scene disruption
 
-Do not interrupt an arrest, medical scene, staff scene, or organised roleplay unless your character has a valid role in it.
+Do not interrupt an arrest, medical scene, admin scene, or organised roleplay unless your character has a valid role in it.
 
 ### 9. Staff harassment
 
@@ -85,7 +85,7 @@ Do not use alternate accounts or someone else's account to avoid a ban.
 
 Do not share anyone's private information.
 
-### Roblox Terms of Service
+### Roblox terms of service
 
 No racism, NSFW content, online dating, inappropriate symbols, or other content Roblox would not allow.
 
@@ -99,7 +99,7 @@ These are not always ban rules, but they make the game better:
 - Do not metagame with information your character would not know.
 - Keep out-of-character arguments away from in-character scenes.
 
-## Penal Code roleplay
+## Penal code roleplay
 
 POLIS and judicial roleplay may refer to Malaysian Penal Code sections for flavour. Staff moderation still follows Bandaraya and Roblox rules.
 

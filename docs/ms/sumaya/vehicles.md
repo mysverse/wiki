@@ -2,45 +2,43 @@
 title: Kenderaan
 description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
-translated_from_hash: "26762768"
-translated_on: 2026-05-18
+translated_from_hash: 873c7ea9
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # Kenderaan
 
-Sumaya mempunyai katalog kenderaan yang besar: kereta awam, kereta Classic Car Pack, bot pukat tunda, kereta polis, jentera Bomba, dan ambulans. Halaman ini meliputi cara untuk melahirkannya, katalog penuh dengan harga, dan cara untuk menyesuaikan serta menjaganya.
+Sumaya mempunyai katalog kenderaan yang besar: kereta awam, kereta Classic Car Pack, bot pukat tunda nelayan, kereta polis, jentera bomba, dan ambulans. Halaman ini meliputi cara melancarkannya, katalog penuh dengan harga, dan cara menyesuai serta menjaganya.
 
-## Cara melahirkan kenderaan
+## Cara melancarkan kenderaan
 
-Cari **kiosk pelancar kenderaan** di sekitar bandar. Ia muncul sebagai prom interaktif di selekoh jalan, pusat jualan kereta, dan di stesen.
+Cari **kiosk pelancar kenderaan** di sekitar bandar. Ia muncul sebagai gesaan interaktif di sudut jalan, pengedar, dan di stesen.
 
-1. Berjalan ke pelancar dan tekan prom interaktif.
-2. Menu kenderaan akan dibuka, memaparkan kereta yang tersedia untuk anda.
-3. Pilih satu. Anda akan melihat namanya, harganya, dan keperluannya.
+1. Hampiri pelancar dan tekan gesaan interaksi.
+2. Menu kenderaan dibuka, menunjukkan kereta yang tersedia untuk anda.
+3. Pilih satu. Anda akan lihat namanya, harganya, dan keperluannya.
 4. Pilih **sewa** atau **beli**:
-   - **Sewa**: bayar kos sekali sahaja yang lebih kecil, kenderaan akan hilang apabila anda dilahirkan semula, log keluar, atau melahirkan kenderaan lain.
-   - **Beli**: bayar harga penuh, kenderaan menjadi milik anda secara kekal (dan kekal merentasi sesi).
+   - **Sewa**: bayar kos sekali kecil, kenderaan hilang apabila anda dilahirkan semula, log keluar, atau melancarkan yang lain.
+   - **Beli**: bayar harga penuh, kenderaan menjadi milik anda selama-lamanya (dan kekal merentas sesi).
 
 ### Bagaimana jika kenderaan dikelabukan?
 
-Jika anda tidak dapat melahirkan kenderaan, pelancar akan memberitahu anda sebabnya. Biasanya ia adalah salah satu daripada:
+Jika anda tidak dapat melancarkan kenderaan, pelancar akan beritahu sebabnya. Biasanya salah satu daripada:
 
-- **Tahap pemain terlalu rendah** (anda memerlukan tahap pemain yang lebih tinggi).
+- **Tahap pemain terlalu rendah** (anda perlukan tahap pemain yang lebih tinggi).
 - **Tahap sektor terlalu rendah** (untuk kenderaan pasukan, contohnya Bomba Sanica Tanker pada tahap sektor 65).
-- **Pasukan yang salah** (kereta polis memerlukan pasukan POLIS, dll.).
-- **Anda sudah ada kenderaan kerja** (contohnya pukat tunda semasa memancing).
+- **Pasukan salah** (kereta polis memerlukan pasukan POLIS, dan sebagainya).
+- **Anda sudah ada kenderaan kerja di luar** (contohnya bot pukat tunda semasa memancing).
 
-Pelancar kenderaan awam hanya memaparkan kereta awam, pelancar pasukan hanya memaparkan kenderaan pasukan, pelancar bot memancing hanya memaparkan pukat tunda.
+Pelancar kenderaan awam hanya menunjukkan kereta awam, pelancar pasukan hanya menunjukkan kenderaan pasukan, pelancar bot nelayan hanya menunjukkan bot pukat tunda.
 
 ## Kereta awam
 
-Semua kereta awam standard tersedia pada **tahap pemain 1**. Hanya dua percuma; selebihnya mempunyai harga sewa dan beli.
+Semua kereta awam standard tersedia pada **tahap pemain 1**. Hanya dua yang percuma; selebihnya mempunyai harga sewa dan beli.
 
 ### Kereta permulaan percuma
 
-Ini dilahirkan tanpa kos sewa atau beli:
+Ini dilancarkan tanpa kos sewa atau beli:
 
 - Perosatu Axia
 - Protan Wira
@@ -66,15 +64,15 @@ Ini dilahirkan tanpa kos sewa atau beli:
 | Protan S70 | 8,250 Ringgit | 33,000 Ringgit |
 | Protan X70 | 8,750 Ringgit | 35,000 Ringgit |
 
-**Protan X70** ialah kereta awam standard paling mahal pada masa ini.
+**Protan X70** kini merupakan kereta awam standard yang paling mahal.
 
 ### Classic Car Pack
 
-Kereta ini muncul di pengedar awam tetapi memerlukan gamepass Classic Car Pack. Bukan pemilik melihatnya terkunci dengan prompt gamepass.
+Kereta ini muncul di pengedar awam tetapi memerlukan gamepass Classic Car Pack. Bukan pemilik akan melihatnya dikunci dengan gesaan gamepass.
 
-## Vehicle packs in the Shop
+## Pakej kenderaan di kedai
 
-Shop kini memaparkan pratonton pek kenderaan akan datang:
+Kedai termasuk pakej kenderaan akan datang yang belum tersedia untuk pembelian. Ini dirancang untuk pelancaran masa hadapan:
 
 - **Premium EV Vehicles**
 - **Premium Sports Vehicles**
@@ -83,7 +81,7 @@ Shop kini memaparkan pratonton pek kenderaan akan datang:
 - **Unmarked POLIS Role**
 - **Traffic POLIS Role**
 
-Kad ini kini memaparkan **Coming Soon** kecuali ID pass Roblox akhir telah ditetapkan. Pemilik legacy sedia ada masih mengekalkan akses jika gate lama sudah wujud, dan pek Classic/Retro kekal sebagai pass kenderaan aktif yang boleh dibeli.
+Pakej Classic Car Pack dan Retro Vehicles ialah pas kenderaan boleh dibeli yang aktif pada masa ini.
 
 | Kenderaan | Sewa | Beli |
 |---------|-----:|----:|
@@ -92,21 +90,21 @@ Kad ini kini memaparkan **Coming Soon** kecuali ID pass Roblox akhir telah ditet
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
 
-## Bot pukat tunda memancing
+## Bot pukat tunda nelayan
 
-Pukat tunda dilahirkan di pelancar bot memancing di pengkalan, dan hanya muncul jika anda log masuk ke **Sektor Memancing**. Lihat [Memancing](/sumaya/jobs-fishing).
+Bot pukat tunda dilancarkan di pelancar bot nelayan di dermaga, dan hanya muncul jika anda berdaftar masuk ke **Sektor Memancing**. Lihat [Memancing](/ms/sumaya/jobs-fishing).
 
-| Pukat tunda | Harga |
+| Bot pukat tunda | Harga |
 |---------|-------|
-| Tier 1 Trawler | Percuma (selagi anda dalam syif memancing) |
-| Tier 2 Trawler | 25,000 Ringgit |
-| Tier 3 Trawler | 37,000 Ringgit |
+| Bot Pukat Tunda Tahap 1 | Percuma (selagi anda bekerja syif memancing) |
+| Bot Pukat Tunda Tahap 2 | 25,000 Ringgit |
+| Bot Pukat Tunda Tahap 3 | 37,000 Ringgit |
 
-Tier yang lebih tinggi membawa lebih banyak ikan.
+Tahap yang lebih tinggi membawa lebih banyak ikan.
 
 ## Kenderaan polis (POLIS sahaja)
 
-Tersedia hanya jika anda dalam pasukan POLIS. Dihadkan oleh gabungan **tahap pemain** dan **tahap sektor** (sektor POLIS).
+Tersedia hanya jika anda berada dalam pasukan POLIS. Diakses melalui campuran **tahap pemain** dan **tahap sektor** (sektor POLIS).
 
 | Kenderaan | Tahap pemain | Tahap sektor | Harga |
 |---------|--------------|--------------|-------|
@@ -115,11 +113,11 @@ Tersedia hanya jika anda dalam pasukan POLIS. Dihadkan oleh gabungan **tahap pem
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
 
-Wira ialah kereta peronda permulaan anda. Civic adalah peringkat tertinggi.
+Wira ialah kereta peronda permulaan anda. Civic ialah tahap tertinggi.
 
 ## Kenderaan Bomba (BOMBA sahaja)
 
-Tersedia hanya dalam pasukan BOMBA. Dihadkan oleh tahap sektor Bomba.
+Tersedia hanya pada pasukan BOMBA. Diakses melalui tahap sektor Bomba.
 
 | Kenderaan | Tahap sektor | Harga |
 |---------|--------------|-------|
@@ -129,11 +127,11 @@ Tersedia hanya dalam pasukan BOMBA. Dihadkan oleh tahap sektor Bomba.
 | Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
-LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. Sanica P360 Tanker ialah kenderaan apex utiliti berat Bomba, yang membawa bekalan airnya sendiri.
+LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. P360 Tanker ialah kenderaan Bomba puncak utiliti berat, membawa bekalan airnya sendiri.
 
 ## Ambulans (Kesihatan sahaja)
 
-Tersedia hanya dalam pasukan Kesihatan. Dihadkan oleh tahap sektor Kesihatan.
+Tersedia hanya pada pasukan Kesihatan. Diakses melalui tahap sektor Kesihatan.
 
 | Kenderaan | Tahap sektor | Harga |
 |---------|--------------|-------|
@@ -141,78 +139,78 @@ Tersedia hanya dalam pasukan Kesihatan. Dihadkan oleh tahap sektor Kesihatan.
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 
-"KKN" bermaksud **Kementerian Kesihatan Nasional** (National Ministry of Health). Setiap ambulans mempunyai ruang muatan untuk pengusung.
+"KKN" bermaksud **Kementerian Kesihatan Nasional** (National Ministry of Health). Setiap ambulans mempunyai ruang kargo untuk pengusung.
 
 ## Siren kecemasan (ELS)
 
-Kenderaan Polis, Bomba, dan Kesihatan semua mempunyai **Emergency Lighting System (ELS)**. Semasa memandu kenderaan kecemasan dengan siren dihidupkan:
+Kenderaan Polis, Bomba, dan Kesihatan semuanya mempunyai **Emergency Lighting System (ELS)**. Semasa memandu kenderaan kecemasan dengan siren dihidupkan:
 
-- Anda mempunyai **lampu merah/biru/putih yang berkelip**.
-- Anda **dikecualikan daripada kesalahan** - melebihi had laju dan kemalangan tidak dikira.
-- Pemain lain mendapat amaran audio/visual bahawa anda sedang menuju.
+- Anda mempunyai **lampu merah/biru/putih berkelip**.
+- Anda **dikecualikan daripada kesalahan**, memandu laju dan kemalangan tidak dikira.
+- Pemain lain mendapat amaran audio/visual bahawa anda akan datang.
 
-Matikan siren apabila anda meletak kenderaan. Pengecualian hanya terpakai semasa aktif memandu dengan siren dihidupkan.
+Matikan siren apabila anda meletak kenderaan. Pengecualian hanya berkenaan semasa memandu secara aktif dengan siren aktif.
 
 ## Penyesuaian
 
-Kenderaan awam dengan `Color = true` menyokong penyesuaian warna. Cari pilihan **Paint / Customize** apabila anda melahirkan kenderaan, atau dari profil kenderaan anda. Anda boleh menukar:
+Sesetengah kenderaan awam menyokong penyesuaian warna. Cari pilihan **Paint / Customise** apabila anda melancarkan kenderaan, atau dari profil kenderaan anda. Anda boleh mengubah:
 
-- **Warna badan** - cat kereta.
-- **Warna rim** - rim roda, di mana model mempunyai bahagian rim yang ditandakan.
-- **Tona tingkap** - sebarang `Color3`, dikenakan pada bahagian yang ditandakan `VehicleWindow`.
+- **Warna badan**, cat kereta.
+- **Warna rim**, rim roda, pada kenderaan yang menyokong penyesuaian rim.
+- **Tinting tingkap**, di mana kenderaan menyokong tingkap boleh ditint.
 
-Sesetengah kenderaan (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) mempunyai palet pratetap (contohnya Putih, Perak, Hitam, Merah, Beige). Kenderaan lain yang boleh disesuaikan menerima sebarang warna.
+Sesetengah kenderaan (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) mempunyai palet pratetap (contohnya Putih, Perak, Hitam, Merah, Krim). Kenderaan boleh disesuaikan yang lain menerima sebarang warna.
 
 Kenderaan pasukan biasanya tidak boleh disesuaikan.
 
-## Bahan api
+## Bahan Api
 
-Bahan api secara efektifnya **tidak terhad** di Sumaya pada masa ini - anda tidak perlu risau tentang kehabisan atau mengisi bahan api di stesen minyak. Tolok bahan api pada bot dijejaki per-syif (untuk pukat tunda memancing), tetapi kereta berfungsi tanpa had bahan api.
+Bahan api secara berkesan **tidak terhad** di Sumaya pada masa ini, anda tidak perlu risau tentang kehabisan atau mengisi semula di stesen minyak. Tolok bahan api pada bot dijejak per syif (untuk bot pukat tunda nelayan), tetapi kereta beroperasi tanpa had bahan api.
 
 ## Togol perlanggaran
 
-Dari aplikasi **Phone > Collision** anda, anda boleh menogol perlanggaran kenderaan hidup atau mati. Dengan perlanggaran dimatikan:
+Daripada aplikasi **Telefon > Perlanggaran**, anda boleh menogol perlanggaran kenderaan hidup atau mati. Dengan perlanggaran dimatikan:
 
-- Kenderaan anda **menembus** kenderaan lain.
-- Berguna untuk keluar dari tempat letak kereta yang sempit atau apabila pemain lain merempuh anda.
-- Hidupkan semula perlanggaran apabila anda mahu memandu secara normal.
+- Kenderaan anda **menembusi** kenderaan lain.
+- Berguna untuk keluar dari letak kereta yang ketat atau apabila pemain lain merempuh anda.
+- Hidupkan semula perlanggaran apabila anda mahu memandu seperti biasa.
 
-Lihat [Phone and UI](/sumaya/phone) untuk maklumat lanjut tentang aplikasi Collision.
+Lihat [Telefon dan UI](/ms/sumaya/phone) untuk maklumat lanjut mengenai aplikasi Perlanggaran.
 
-## Kamera ketika memasuki kenderaan
+## Kamera apabila memasuki kenderaan
 
-Apabila anda duduk di dalam atau keluar daripada kenderaan, kamera kini beralih secara lembut ke paparan pemanduan dan bukan tersentak secara tiba-tiba. Permainan melaraskan bingkai untuk kawalan desktop, tablet, dan mudah alih secara automatik, jadi anda tidak perlu menukar tetapan.
+Apabila anda duduk dalam atau meninggalkan kenderaan, kamera kini bergerak lembut ke pandangan pemanduan dan bukan menjentik secara tiba-tiba. Permainan melaraskan bingkai untuk kawalan desktop, tablet, dan mudah alih secara automatik, jadi anda tidak perlu menukar tetapan.
 
-Jika anda menggunakan mod kamera lain, seperti aplikasi Cinematic telefon, mod itu kekal diberi keutamaan sehingga anda menutupnya.
+Jika anda menggunakan mod kamera lain, seperti aplikasi telefon Cinematic, mod itu mengekalkan keutamaan sehingga anda menutupnya.
 
 ## Pemilikan dan kekekalan
 
-- **Kenderaan yang disewa** akan hilang apabila anda dilahirkan semula, log keluar, atau melahirkan kenderaan lain.
-- **Kenderaan yang dibeli** kekal milik anda selama-lamanya. Ia muncul dalam senarai Owned Vehicles profil anda.
-- Jika anda membeli kenderaan dan kemudian ingin menjualnya, periksa pelancar - sesetengah kenderaan mungkin boleh dijual untuk bayaran balik separa (ini berbeza-beza).
-- Jika kenderaan milik anda **dirampas** oleh orang lain, ia ditandakan dicuri dalam pangkalan data plat, dan Polis boleh memulihkannya.
+- **Kenderaan disewa** hilang apabila anda dilahirkan semula, log keluar, atau melancarkan yang lain.
+- **Kenderaan dibeli** kekal milik anda selama-lamanya. Ia muncul dalam senarai Kenderaan Dimiliki dalam profil anda.
+- Jika anda membeli kenderaan dan kemudian mahu menjualnya, semak pelancar, sesetengah kenderaan mungkin boleh dijual untuk bayaran balik separa (ini berbeza-beza).
+- Jika kenderaan milik anda **dirampas** oleh orang lain, ia ditanda dicuri dalam pangkalan data plat, dan Polis boleh memulihkannya.
 
 ## Plat dan pendaftaran
 
-Setiap kenderaan mempunyai **plat lesen**. Apabila anda melahirkan kenderaan:
+Setiap kenderaan mempunyai **plat lesen**. Apabila anda melancarkan kenderaan:
 
-- Plat dikaitkan dengan ID pengguna anda sebagai pemilik berdaftar.
-- POLIS boleh mencari sebarang plat dari MDT untuk melihat siapa pemilik kenderaan.
-- Jika kenderaan anda dicuri, status plat akan menandakannya.
+- Plat itu terikat dengan ID pengguna anda sebagai pemilik berdaftar.
+- POLIS boleh mencari mana-mana plat daripada MDT untuk melihat siapa yang memiliki kenderaan.
+- Jika kenderaan anda dicuri, status plat menandainya.
 
-## Tip
+## Petua
 
 - **Sewa sebelum membeli.** Cuba kereta berbayar pada harga sewa dahulu sebelum mengeluarkan 5,000+ Ringgit.
-- **Naik taraf kenderaan pasukan anda apabila anda naik tahap.** Kereta Bomba dan Polis tier yang lebih tinggi adalah lebih pantas dan lebih kukuh.
-- **Siren untuk polis dan krew Bomba = tiada saman.** Sentiasa hidupkan siren anda apabila bertindak balas supaya anda tidak menyaman diri sendiri.
-- **Jangan letak kereta di lorong trafik.** Kereta awam yang ditinggalkan boleh dirampas; jika anda memilikinya dan tidak mahu ia dicuri, letak di tempat yang lebih sunyi.
-- **Mod menembus untuk meletak kereta.** Jika seseorang menyekat anda, hidupkan togol perlanggaran untuk memandu menembusnya.
-- **Simpan untuk Tier 2 atau 3 Trawler.** Jika anda komited untuk memancing, bot yang lebih besar membayar dirinya sendiri dengan cepat.
+- **Naik taraf kenderaan pasukan anda apabila anda meningkat tahap.** Kereta Bomba dan Polis tahap lebih tinggi adalah lebih pantas dan lebih tahan lasak.
+- **Siren untuk polis dan kru bomba bermaksud tiada tiket.** Sentiasa hidupkan siren anda apabila bertindak balas supaya anda tidak menyaman diri sendiri.
+- **Jangan letak di lorong trafik.** Kereta awam yang ditinggalkan boleh dirampas; jika anda memilikinya dan tidak mahu ia dicuri, letakkan di tempat yang lebih sunyi.
+- **Mod menembusi untuk meletak kenderaan.** Jika seseorang menghalang anda, hidupkan togol perlanggaran untuk memandu melalui mereka.
+- **Jimat untuk Bot Pukat Tunda Tahap 2 atau 3.** Jika anda komited untuk memancing, bot yang lebih besar membayar dirinya dengan cepat.
 
 ## Apa seterusnya?
 
-- [Crime and Law](/sumaya/crime-and-law) untuk cara perampasan kereta berfungsi secara terperinci.
-- [Polis](/sumaya/polis) untuk katalog kenderaan polis.
-- [Bomba](/sumaya/bomba) untuk butiran jentera Bomba.
-- [Kesihatan](/sumaya/kesihatan) untuk butiran ambulans.
-- [Phone and UI](/sumaya/phone) untuk aplikasi Collision dan Profile.
+- [Jenayah dan Undang-undang](/ms/sumaya/crime-and-law) untuk cara rampasan kereta berfungsi secara terperinci.
+- [Polis](/ms/sumaya/polis) untuk katalog kenderaan polis.
+- [Bomba](/ms/sumaya/bomba) untuk butiran jentera bomba.
+- [Kesihatan](/ms/sumaya/kesihatan) untuk butiran ambulans.
+- [Telefon dan UI](/ms/sumaya/phone) untuk aplikasi Perlanggaran dan Profil.

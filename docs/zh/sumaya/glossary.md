@@ -2,8 +2,8 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: "415ef0c5"
-translated_on: 2026-05-18
+translated_from_hash: c7de531d
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

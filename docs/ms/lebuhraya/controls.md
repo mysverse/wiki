@@ -4,139 +4,141 @@ description: >-
   Setiap kawalan di Lebuhraya - papan kekunci, pad permainan, mudah alih, dan
   input VR.
 lang: ms
-translated_from_hash: "1bf9e4df"
-translated_on: 2026-05-18
+translated_from_hash: fe31e8f7
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Kawalan
 
-Lebuhraya menyokong papan kekunci, pad permainan, sentuh (telefon/tablet), dan VR. Permainan ini akan mengesan platform anda secara automatik dan memaparkan arahan yang betul dalam permainan - jika sesuatu kawalan dipaparkan di skrin, gunakan yang itu. Rujukan di bawah adalah rupa kekunci biasa yang digunakan.
+Lebuhraya menyokong papan kekunci, pad permainan, skrin sentuh, dan VR. Permainan secara automatik mengesan platform anda dan memaparkan arahan yang betul dalam permainan. Jika sesuatu kawalan dipaparkan pada skrin, gunakan kawalan tersebut. Rujukan di bawah menunjukkan bentuk ikatan biasa yang digunakan.
 
 ## Memasuki dan keluar dari kenderaan
 
-Berdiri dalam lingkungan kira-kira **6 stud** dari tempat duduk pemandu atau penumpang.
+Berdiri dalam lingkungan **6 stud** dari tempat duduk pemandu atau penumpang.
 
 | Platform | Butang |
 |---|---|
 | Papan kekunci | **F** |
-| Pad permainan | **X** (butang muka kawalan) |
-| Sentuh | Ketik butang **Drive** / **Sit** di skrin |
-| VR | **Pencetus kanan (R2)** |
+| Pad permainan | **X** (butang muka pengawal) |
+| Skrin sentuh | Ketik butang **Pandu** / **Duduk** pada skrin |
+| VR | **Picu kanan (R2)** |
 
-Input yang sama akan mengeluarkan anda dari tempat duduk.
+Input yang sama digunakan untuk keluar dari tempat duduk.
 
 ### Kebenaran tempat duduk
 
-Tempat duduk pemandu biasanya dikunci kepada pemilik kenderaan. Jika anda cuba duduk di dalam kereta orang lain, anda akan dihalang melainkan mereka telah membuka kunci untuk anda.
+Tempat duduk pemandu biasanya dikunci kepada pemilik kenderaan. Jika anda cuba duduk di kereta orang lain, anda akan disekat melainkan mereka telah membuka kunci untuk anda.
 
 ## Memandu
 
-Pemanduan menggunakan sistem A-Chassis. Tetapan lalai:
+Kebanyakan kenderaan menggunakan kawalan memandu lalai ini:
 
 | Tindakan | Papan kekunci | Pad permainan |
 |---|---|---|
-| Pecut | **W** | Pencetus kanan (RT) |
-| Brek / Undur | **S** | Pencetus kiri (LT) |
-| Pusing kiri | **A** | Kayu bedik kiri |
-| Pusing kanan | **D** | Kayu bedik kiri |
-| Brek tangan | **Space** | A / RB |
-| Togol isyarat / lampu | **E**, **Q**, **I**, **J**, **H** (berbeza) | Lihat arahan dalam permainan |
-| Hon | **H** (pada kebanyakan kenderaan) | Klik kayu bedik kanan |
+| Pecutan | **W** | Picu kanan (RT) |
+| Brek / Undur | **S** | Picu kiri (LT) |
+| Belok kiri | **A** | Kayu kawalan kiri |
+| Belok kanan | **D** | Kayu kawalan kiri |
+| Brek tangan | **Ruang** | A / RB |
+| Togol penunjuk arah / lampu | **E**, **Q**, **I**, **J**, **H** (berbeza) | Lihat arahan dalam permainan |
+| Hon | **H** (pada kebanyakan kenderaan) | Klik kayu kawalan kanan |
 
-> Kawalan lampu kenderaan berbeza antara sistem chassis lama dan baharu dalam permainan. Sentiasa ikut arahan pada skrin untuk kenderaan tertentu yang anda naiki.
+::: info
+Kawalan pencahayaan kenderaan berbeza antara sistem casis lama dan baharu dalam permainan. Sentiasa ikuti arahan pada skrin untuk kenderaan spesifik yang anda gunakan.
+:::
 
-## Berjalan
+## Berjalan keliling
 
 Kawalan Roblox standard.
 
 | Tindakan | Papan kekunci | Pad permainan | Mudah alih |
 |---|---|---|---|
-| Gerak | **W / A / S / D** | Kayu bedik kiri | D-pad pada skrin |
-| Lompat | **Space** | A | Butang lompat |
-| Berlari | (shift-to-run diaktifkan dalam permainan) | Klik kayu bedik kiri | Togol berlari |
-| Kamera | Tetikus | Kayu bedik kanan | Leret |
+| Bergerak | **W / A / S / D** | Kayu kawalan kiri | D-pad pada skrin |
+| Lompat | **Ruang** | A | Butang lompat |
+| Lari | (shift-untuk-lari diaktifkan dalam permainan) | Klik kayu kawalan kiri | Togol lari |
+| Kamera | Tetikus | Kayu kawalan kanan | Leret |
 
 ## Antara muka
 
-| Tindakan | Papan kekunci / tetikus | Mudah alih / sentuh | Gamepad |
+| Tindakan | Papan kekunci / tetikus | Mudah alih / sentuh | Pad permainan |
 |---|---|---|---|
-| Sembang | **/** (slash depan) | Ketik ikon sembang | Pintasan sembang Roblox |
-| Menu utama | Ikon topbar | Ikon topbar | Navigasi topbar, kemudian pilih |
-| Telefon | Ikon topbar | Ikon topbar | Navigasi topbar, kemudian pilih |
-| Tablet | Ikon topbar (jika ada) | Ikon topbar | Navigasi topbar, kemudian pilih |
-| Tetapan | Gear di Menu Utama | Gear di Menu Utama | Pilih gear |
-| Tutup sebarang popup | **Esc** atau **Backspace** | Ketik tutup/kembali | **B** / butang kembali jika dipaparkan |
-| Sahkan butang fokus | Klik / Enter apabila fokus | Ketik | **A** |
+| Sembang | **/** (garis miring ke hadapan) | Ketik ikon sembang | Pintasan sembang Roblox |
+| Menu utama | Ikon bar atas | Ikon bar atas | Navigasi bar atas, kemudian pilih |
+| Telefon | Ikon bar atas | Ikon bar atas | Navigasi bar atas, kemudian pilih |
+| Tablet | Ikon bar atas (jika tersedia) | Ikon bar atas | Navigasi bar atas, kemudian pilih |
+| Tetapan | Roda gigi dalam Menu Utama | Roda gigi dalam Menu Utama | Pilih roda gigi |
+| Tutup mana-mana tetingkap timbul | **Esc** atau **Backspace** | Ketik tutup/kembali | **B** / butang kembali jika dipaparkan |
+| Sahkan butang yang difokus | Klik / Enter jika difokus | Ketik | **A** |
 
-### Proximity prompts
+### Arahan jarak dekat
 
-Kebanyakan interaksi dunia menggunakan Roblox ProximityPrompts: spawner, pintu, kaunter kerja, pam minyak, zon pembaikan, panel tunda, dan kaunter kedai.
+Kebanyakan interaksi dunia menggunakan ProximityPrompts Roblox: penjana, pintu, kaunter kerja, pam bahan api, zon pembaikan, panel tunda, dan kaunter kedai.
 
-- Berdiri cukup dekat supaya prompt muncul.
-- Tahan kekunci/butang yang dipaparkan hingga bulatan lengkap jika prompt ada tempoh tahan.
-- Jika prompt mengatakan anda berada pada pasukan salah atau di jenis pam minyak salah, prompt berfungsi; ikut amaran itu.
+- Berdiri cukup dekat untuk arahan muncul.
+- Tahan kekunci/butang yang dipaparkan sehingga bulatan selesai jika ia mempunyai tempoh tahan.
+- Jika arahan mengatakan anda berada dalam pasukan yang salah atau di jenis pam bahan api yang salah, arahan itu berfungsi dengan betul; ikuti amaran tersebut.
 
-### Tab Menu Utama
+### Tab menu utama
 
-Buka Menu Utama untuk akses:
+Buka menu utama untuk mengakses:
 
-- **Home** - pengumuman dan gambaran keseluruhan
-- **Teams** - pilih pasukan anda / tukar pasukan
-- **Shop** - pembelian dalam permainan (prompt gamepass, token)
-- **Activity** - misi, cabaran, dan kemajuan season pass
-- **More** - grid kad untuk:
-  - **Career** - pangkat kerjaya dan kemajuan agensi anda
-  - **Jobs** - bar tier setiap cawangan dan ganjaran
-  - **Tokens** - token / boost aktif dan disimpan anda
-  - **Credits** - pasukan pembangunan dan penyumbang
-  - **Races** - menu time trial dan race PvP
-  - **Help** - tutorial apabila tersedia
+- **Laman Utama** - pengumuman dan gambaran keseluruhan
+- **Pasukan** - pilih pasukan anda / tukar pasukan
+- **Kedai** - pembelian dalam permainan (arahan gamepass, token)
+- **Aktiviti** - misi, cabaran, dan kemajuan Season Pass
+- **Lain-lain** - grid kad untuk:
+ - **Kerjaya** - pangkat kerjaya dan kemajuan agensi anda
+ - **Kerja** - bar peringkat dan ganjaran per cawangan
+ - **Token** - token / peningkatan aktif dan tersimpan anda
+ - **Kredit** - pasukan pembangunan dan penyumbang
+ - **Lumba** - menu perlumbaan percubaan masa dan PvP
+ - **Bantuan** - tutorial apabila tersedia
 
-Halaman Career, tokens, credits, dan help kini dikumpulkan di bawah **More**.
+Kerjaya, Kerja, Token, Kredit, Lumba, dan Bantuan dikumpulkan di bawah **Lain-lain**.
 
-### Tetapan yang boleh anda ubah
+### Tetapan yang boleh diubah
 
-Buka panel Settings (gear di Menu Utama) untuk toggle ini:
+Buka panel Tetapan (roda gigi dalam Menu Utama) untuk togol ini:
 
-- **Crash System** - hidupkan supaya perlanggaran benar-benar merosakkan kereta anda; sebagai balasan anda memperoleh **+15% XP** semasa aktif. Hanya tersedia apabila pemain pasukan Kesihatan berada di server (lihat FAQ).
-- **Overhead rank** - tunjuk atau sembunyikan pangkat/gelaran pasukan yang terapung di atas watak anda.
-- **First person view** - tukar mod kamera. Slash depan (`/`) menogol view dalam permainan.
-- **Vehicle Spawner: NEW** - pilih UI spawner kenderaan yang diperbaharui.
-- **Parking Brake** key - peta semula bind brek tangan.
-- **Shift + C** - toggle seluruh HUD (bagus untuk screenshot).
-- Reset / Change / Remove - pintasan pemposisian semula dan penyesuaian.
+- **Sistem nahas** - aktifkan kerosakan kenderaan apabila tersedia. Ia memberikan **+15% XP** semasa aktif, tetapi nahas teruk boleh mencederakan anda.
+- **Pangkat atas kepala** - papar atau sembunyikan pangkat/tajuk pasukan yang terapung di atas watak anda.
+- **Pandangan orang pertama** - tukar mod kamera. Garis miring ke hadapan (`/`) togol paparan dalam permainan.
+- **Penjana kenderaan: baharu** - pilih skrin penjana kenderaan yang diperbaharui.
+- **Kekunci brek tangan** - tetapkan semula ikatan brek tangan.
+- **Shift + C** - togol keseluruhan HUD (sesuai untuk tangkapan skrin).
+- Tetapkan semula / Tukar / Buang - pintasan penempatan semula dan penyesuaian.
 
-### Penunjuk HUD atas
+### Penunjuk skrin atas
 
-- **ActiveTokensHUD** - menunjukkan setiap token yang sedang aktif (2× XP Boost, Season Pass Boost, Team Access Pass) dengan baki masa dalam format `M:SS`. Token auto-sembunyi apabila tamat.
-- **StatusGui** - speedometer, minyak, arah GPS, dan vitals pemain.
-- **Leaderboard** - ketik untuk melihat semua pemain online, pasukan, level, dan studs dipandu. Anda boleh ketik baris untuk menghantar friend request atau block dari panel yang sama.
+- **Token aktif** - menunjukkan peningkatan yang sedang berjalan dengan baki masa mereka.
+- **Paparan status** - menunjukkan kelajuan, bahan api, arah GPS, dan maklumat kesihatan semasa memandu.
+- **Papan pendahulu** - menunjukkan pemain dalam talian, pasukan, tahap, dan jarak memandu mereka. Anda boleh ketik baris untuk pilihan sosial Roblox.
 
-## Alat (peralatan pekerjaan)
+## Alatan (peralatan kerja)
 
-Apabila anda memegang alat - kapak, pistol radar, taser, pager, hos bomba - kawalannya khusus untuk alat itu. Gunakan arahan pada skrin atau semak halaman pekerjaan untuk pasukan yang menggunakannya.
+Apabila anda memegang alatan - kapak, pistol radar, taser, penyeranta, hos kebakaran - kawalan adalah khusus untuk alatan tersebut. Gunakan arahan pada skrin atau semak halaman kerja untuk pasukan yang menggunakannya.
 
 ## Petua mudah alih
 
-- Permainan ini menghormati susun atur mudah alih; memandu pada telefon boleh dilakukan tetapi lebih mudah pada tablet.
-- Kebanyakan ProximityPrompts (masuk pintu, berbual dengan NPC, mulakan pekerjaan) memaparkan butang bulat di skrin. Ketik butang itu.
+- Permainan menghormati susun atur mudah alih; memandu di telefon berfungsi tetapi lebih mudah di tablet.
+- Kebanyakan ProximityPrompts (masuk pintu, bercakap dengan NPC, mulakan kerja) menunjukkan butang bulat pada skrin. Ketiknya.
 - Roda stereng tersedia di sebelah kiri HUD semasa memandu.
-- Elakkan memegang sudut bawah untuk UI bukan pemanduan; joystick pergerakan dan butang lompat Roblox berada di situ.
-- Jika grid kad atau menu terasa padat, putar peranti ke landskap. Paparan More dan Teams dalam Main Menu direka untuk muat pada skrin landskap pendek.
+- Elakkan menahan sudut bawah untuk UI bukan memandu; kayu kawalan gerakan dan butang lompat Roblox terletak di sana.
+- Jika grid kad atau menu terasa sesak, putar peranti ke mod landskap. Paparan Lain-lain dan Pasukan dalam Menu Utama direka untuk muat skrin landskap pendek.
 
-## Petua gamepad
+## Petua pad permainan
 
-- Butang menu boleh dipilih. Jika fokus seperti hilang, tutup dan buka semula menu supaya permainan boleh memilih butang pertama sekali lagi.
-- Gunakan D-pad/kayu kiri untuk bergerak antara kad, **A** untuk sahkan, dan **B** untuk keluar apabila UI menunjukkan tindakan kembali atau tutup.
-- Sesetengah panel Roblox lama masih bergantung pada pemilihan gaya kursor; jika terasa janggal, tukar sebentar kepada tetikus/sentuh.
+- Butang menu boleh dipilih. Jika fokus nampak hilang, tutup dan buka semula menu supaya permainan boleh memilih butang pertama semula.
+- Gunakan D-pad/kayu kawalan kiri untuk bergerak antara kad, **A** untuk sahkan, dan **B** untuk kembali apabila UI menunjukkan tindakan kembali atau tutup.
+- Sesetengah panel Roblox lama masih bergantung pada pemilihan gaya kursor; jika satu terasa janggal, beralih ke tetikus/sentuh buat seketika.
 
-## Kebolehcapaian
+## Kebolehaksesan
 
-- Tetapan seluruh sistem Roblox terpakai - penapis buta warna, penskalaan UI, teks-ke-ucapan.
-- Mod pasif boleh ditogol untuk mengelakkan interaksi alat dan senjata. Berguna jika anda tidak mahu ditarik ke dalam pertempuran atau main peranan kecemasan.
+- Tetapan seluruh sistem Roblox digunakan - penapis buta warna, penskalaan UI, teks-ke-pertuturan.
+- Mod pasif boleh ditogol untuk mencegah interaksi alatan dan senjata. Berguna jika anda tidak mahu terlibat dalam pertempuran atau permainan peranan kecemasan.
 
 ## Langkah seterusnya
 
-- [Economy and XP](/lebuhraya/economy) - Bagaimana pemanduan bertukar menjadi tahap
-- [Vehicles](/lebuhraya/vehicles) - Menu spawn, pemilikan, bahan api
-- [Jobs](/lebuhraya/jobs) - Alat mana milik pasukan mana
+- [Ekonomi dan XP](/lebuhraya/economy) - Cara memandu bertukar menjadi tahap
+- [Kenderaan](/lebuhraya/vehicles) - Menu spawn, pemilikan, bahan api
+- [Kerja](/lebuhraya/jobs) - Alatan mana yang dimiliki oleh pasukan mana

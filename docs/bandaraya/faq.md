@@ -1,5 +1,5 @@
 ---
-title: "FAQ - Frequently Asked Questions"
+title: "FAQ - frequently asked questions"
 description: "Common new-player questions in Bandaraya."
 ---
 
@@ -23,7 +23,7 @@ See [Teams](/bandaraya/teams#emergency-services).
 
 ### What is CAG and do I need it?
 
-**CAG** is the Click And Go transit card. It is useful if you ride buses, use MRT/Monorail fast travel, or drive through tolls often.
+**CAG** is the Click and Go transit card. It is useful if you ride buses, use MRT/Monorail fast travel, or drive through tolls often.
 
 - Card price: 100 BR.
 - Bus fare: 5 BR.
@@ -96,7 +96,7 @@ No. BOMBA vehicles are team-gated. The same is true for most emergency, military
 
 ## Teams
 
-### What is the difference between MyTransit and Bus Services?
+### What is the difference between MyTransit and bus services?
 
 They are different transport operators with different group access and fleets. Both can support bus roleplay.
 
@@ -120,7 +120,7 @@ Punch is a quest reward at level 25.
 
 ### What is the current game version?
 
-**Bandaraya v3.15.8.** Check the in-game changelog for recent updates.
+**Bandaraya v3.15.9.** Check the in-game changelog for recent updates.
 
 ### Why is my vehicle smoking or damaged?
 

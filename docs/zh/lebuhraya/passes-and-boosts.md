@@ -2,213 +2,213 @@
 title: 通行证与加成
 description: Lebuhraya 的游戏通行证、XP 加成及 Premium 会员权益。
 lang: zh
-translated_from_hash: "416f1316"
-translated_on: 2026-05-18
+translated_from_hash: 6bd490d6
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 通行证与加成
 
-此页面汇总了你可以加速 Lebuhraya 进度的各种方式 -  - gamepass、Roblox Premium、Season Pass 和特别活动。
+This page rounds up the ways you can accelerate your Lebuhraya progress: gamepasses, Roblox Premium, season passes, and special events.
 
-## 团队 gamepass
+## Team gamepasses
 
-有五个团队被 gamepass 锁定。购买通行证后,你将从主菜单永久获得该团队的访问权。
+Five teams are locked behind gamepasses. Buying the pass gives you permanent access to that team from the Main Menu.
 
-| 团队 | 提供什么 |
+| Team | What it gives you |
 |---|---|
-| **Taxi Driver** | 加入 Taxi Driver 团队,通过载运 NPC 乘客赚取车费。出租车变体车款通过职业等级解锁。 |
-| **Bandaraya** | 组合通行证 -  - 包括 Taxi Driver 访问权及更多。 |
-| **KEMRonda** | 高速公路辅助警察访问权。拖车、路边救援工具。 |
-| **Bomba** | 消防救援访问权。消防车、水管、扩张器、链锯。 |
-| **Polis Trafik** | 交通警察访问权。电击枪、雷达测速枪、警车。 |
-| **Undercover Police** | 无标记执法访问权。与 Polis Trafik 相同的工具包。 |
+| **Taxi Driver** | Join the Taxi Driver team, earn fares by driving NPC passengers. Taxi vehicle variants unlock via career tiers. |
+| **Bandaraya** | Bundle pass - includes Taxi Driver access and more. |
+| **KEMRonda** | Highway auxiliary police access. Tow trucks, roadside assistance tools. |
+| **Bomba** | Fire and rescue access. Fire trucks, hoses, spreaders, chainsaws. |
+| **Polis Trafik** | Traffic police access. Tasers, radar guns, police vehicles. |
+| **Undercover Police** | Unmarked law-enforcement access. Same toolkit as Polis Trafik. |
 
-这些 gamepass 是以 Robux 进行的一次性购买。在体验的 Store 标签页或相关机构建筑的 NPC 处寻找它们。
+These gamepasses are one-time purchases in Robux. Look for them in the experience's Store tab or from NPCs at the relevant agency buildings.
 
-## XP Boost gamepass
+## XP boost gamepass
 
-对你所做的一切永久 **+50% XP**。可与所有其他 XP 倍增器叠加 -  - Premium、车队、代币、Double XP 周末。
+A permanent **+50% XP** on everything you do. Stacks with all other XP multipliers - Premium, convoy, tokens, Double XP weekends.
 
-对于计划长期游玩 Lebuhraya 的玩家来说,这是性价比最高的 gamepass 之一。
+For players who plan on playing Lebuhraya long-term, this is one of the best-value gamepasses.
 
 ## Workshop gamepass
 
-解锁 Bandar Seri Putra 的 **Gravstone Workshop** 的喷漆与车身定制菜单。有了它,你可以通过实时颜色选择器重新上色你的车身、车窗、轮胎和轮毂。没有它,工坊会在让你修改任何东西之前提示你购买。
+Unlocks the paint and body customisation menu at **Gravstone Workshop** in Bandar Seri Putra. With it, you can recolour your vehicle's body, windows, tyres, and rims through a real-time colour picker. Without it, the workshop prompts you to buy before letting you change anything.
 
-## 其他 gamepass 福利
+## Other gamepass perks
 
-可能存在更小的 gamepass 和开发者产品,用于:
+Additional gamepasses may exist for:
 
-- 特殊车辆或车辆类别
-- 装饰物品
-- VIP server 设施
-- Workshop 或设施访问权
+- Special vehicles or vehicle categories
+- Cosmetic items
+- VIP server amenities
+- Workshop or facility access
 
-查看游戏内 Store 以获取当前列表。
+Check the in-game Store for the current list.
 
 ## Roblox Premium
 
-Roblox Premium 订阅者在 Lebuhraya 中自动获得永久 **+25% XP** -  - 无需激活。这会与其他所有加成叠加。如果你已经订阅了 Roblox Premium,你实际上始终处于 ×1.25。
+Roblox Premium subscribers get a permanent **+25% XP** in Lebuhraya, automatically - no activation needed. This stacks with every other boost. If you already subscribe to Roblox Premium, you're effectively always at ×1.25.
 
-## Season Pass
+## Season pass
 
-Lebuhraya 运行 **Season Pass** -  - 具有分级奖励的限时进度轨道。
+Lebuhraya runs **season passes**: time-limited progression tracks with tiered rewards.
 
-### Season Pass 的运作方式
+### How season passes work
 
-- 每个赛季持续一段设定的时间(通常为 5-6 周)。
-- 你通过完成任务赚取 **Season XP** -  - 与现有玩法活动相关联的简短目标挑战。
-- 你清除的每个等级都会授予一个**奖励** -  - 通常是装饰物品、代币,或(历史上)解锁团队的捷径。
-- **Premium Track**(通过 gamepass 购买)为每个等级解锁一条平行的奖励路径。免费玩家获得免费奖励;Premium 持有者同时获得免费和 premium 奖励。
+- Each season lasts a set period (typically 5-6 weeks).
+- You earn **Season XP** by completing missions - short objective challenges linked to existing gameplay activities.
+- Every tier you clear grants a **reward** - typically a cosmetic item, token, or (historically) a shortcut to unlocking a team.
+- A **Premium Track** unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
 
-### 当前赛季:Season 2 "Lebuhraya"
+### Most recent season: Season 2 "Lebuhraya"
 
-运行于 **2026 年 3 月 20 日 – 4 月 30 日**(UTC+8)。13 个等级。奖励主要集中在 XP 掉落、2× XP 和 Season Pass Boost 代币、徽章(如 "Season 2 Pioneer")以及可解锁的喷漆(例如 "Copper Kampung")。
+Season 2 ran from **20 March 2026 to 30 April 2026** (MYT) and had **20 tiers**. Rewards focused on XP drops, 2× XP and season pass boost tokens, Team Access tokens, badges such as **Season 2 Pioneer**, titles, and unlockable paints such as **Copper Kampung**.
 
-### Season 1 遗留解锁
+### Season 1 legacy unlocks
 
-之前的 Season 1 通行证为完成它的玩家提前解锁了三个团队:
+The previous Season 1 pass unlocked three teams early for players who completed it:
 
-- **Waste Disposal**(通常为 Level 25 -  - 某些游戏内 UI 仍显示 Level 50)
-- **Logistics**(通常为 Level 75)
-- **Lumberjack**(通常为 Level 150)
+- **Waste Disposal** (normally Level 25 - some in-game UI still says Level 50)
+- **Logistics** (normally Level 75)
+- **Lumberjack** (normally Level 150)
 
-在 Season 1 期间获得这些解锁的玩家可永久保留访问权。Season 2 的奖励不同 -  - 查看游戏内 Season 菜单以获取当前的等级列表。
+Players who earned these unlocks during Season 1 keep access permanently. New seasons use different rewards, so check the in-game season menu when a season is active.
 
-## 代币
+## Tokens
 
-代币是存储在你的库存中的可消耗加成物品,需手动激活。参见 [Social Features → Tokens and Boosts](/lebuhraya/social-features#tokens-and-boosts) 获取完整列表。
+Tokens are consumable boost items stored in your inventory, activated manually. See [Social Features → Tokens and Boosts](/lebuhraya/social-features#tokens-and-boosts) for the full list.
 
-最值得注意的:
+Most notable:
 
-- **2× XP Boost** 代币 -  - 在设定的持续时间内 +100% XP
-- **Team Access Pass** -  - 对 gamepass 锁定团队的临时访问权
-- **2× Season Pass Boost** -  - 使 Season Pass XP 获取量翻倍
+- **2× XP Boost** token - +100% XP for a set duration
+- **Team Access Pass** - temporary access to a gamepass-locked team
+- **2× Season Pass Boost** - doubles Season Pass XP gains
 
-## Double XP 与 Free Trial 活动
+## Double XP and free trial events
 
-游戏会定期举办与马来西亚文化节日和 MYSverse milestone 相关的 **2X XP 活动**。活动期间，每位玩家的基础 XP 倍增器变为 ×2 - 叠加在 Premium、convoy、gamepass 和 token boosts 之上。
+Periodically, the game runs scheduled **2X XP events** tied to Malaysian cultural holidays and MYSverse milestones. While an event is active, every player's base XP multiplier becomes ×2 - on top of Premium, convoy, gamepass, and token boosts.
 
-每个 2X 活动也会启用 **Gamepass Trial**：活动期间，你可免费临时使用 premium gamepass 队伍（Taxi Driver、KEMRonda、Bomba、Polis Trafik、Undercover Police）。游戏会显示横幅：*"Free Trial Started - Enjoy a free taste test of our premium gamepass teams!"*，结束时显示 *"Free Trial Ended"*。
+Every 2X event also activates a **Gamepass Trial**: you get **free temporary access to the premium gamepass teams** for the event's duration. The game shows a banner when the trial starts and ends.
 
-过去活动包括：
+Past events have included:
 
-- **LebuhRAYA launch**（3 月下旬 – 4 月上旬）
-- **Post-launch extensions**（4 月下旬）
-- **WESAK**（Vesak Day，5 月中旬）
-- **Season Pass Update**（5 月下旬 / 6 月上旬）
-- **Malaysia Day**（9 月中旬）
-- **Deepavali**（10 月中旬）
-- **New Year's**（12 月下旬至 1 月上旬）
-- **Chinese New Year / CNY**（通常 1 月下旬至 3 月上旬）
-- **Hari Raya / Raya**（3 月下旬）
+- **LebuhRAYA launch** (late March – early April)
+- **Post-launch extensions** (late April)
+- **WESAK** (Vesak Day, mid-May)
+- **Season Pass Update** (late May / early June)
+- **Malaysia Day** (mid-September)
+- **Deepavali** (mid-October)
+- **New Year's** (late December to early January)
+- **Chinese New Year / CNY** (typically late January to early March)
+- **Hari Raya / Raya** (late March)
 
-排期会跟随真实的马来西亚公共假日 calendar，所以大约每 1-2 个月会有一次活动。关注 MYSverse 社区频道 - Rafahia App、Discord 或游戏内横幅通知 - 获取公告。
+Schedules follow the actual Malaysian public-holiday calendar, so expect roughly one event every 1–2 months. Watch MYSverse's community channels - the Rafahia App, Discord, or in-game banner notifications - for announcements.
 
-## 叠加数学
+## The maths of stacking
 
-这是一个最大化 XP 的场景:
+Here's a maxed-out XP scenario:
 
-- 基础:×1
-- Double XP Weekend:×2(这会替换基础倍增器)
-- XP Boost gamepass:+0.5
-- Roblox Premium:+0.25
-- Token XP Boost:+1.0
-- 同一团队朋友的满载车队:+0.5
-- **总倍增器:约 ×4.25**
+- Base: ×1
+- Double XP Weekend: ×2 (this replaces the base multiplier)
+- XP Boost gamepass: +0.5
+- Roblox Premium: +0.25
+- Token XP Boost: +1.0
+- Full convoy of friends on the same team: +0.5
+- **Total multiplier: around ×4.25**
 
-这相当于通常只能达到 12 级的时间里达到 50 级。在认真的刷经验环节中使用这些。
+That's a level 50 in what would ordinarily take to hit level 12. Use these during serious grind sessions.
 
-## 挑战与成就
+## Challenges and achievements
 
-**Challenges** 系统(可通过 **Main Menu -> Activity** 访问)会因你进行游戏日常活动而奖励你。存在三个类别:
+The **Challenges** system (accessible from **Main Menu -> Activity**) rewards you for playing the game's day-to-day activities. Three categories exist:
 
-### 每日挑战(每 24 小时重置)
+### Daily challenges (reset every 24 h)
 
-目前三项全部激活:
+All three are currently active:
 
-- **Daily Driver**(traveller) -  - 行驶目标距离
-- **Weekend Fisherman**(fishing) -  - 钓到一定数量的鱼
-- **Konvoi Harian** -  - 花时间在车队中
+- **Daily Driver** (traveller) - drive a distance target
+- **Weekend Fisherman** (fishing) - catch a number of fish
+- **Konvoi Harian** - spend time in convoy
 
-### 每周挑战(每 7 天重置)
+### Weekly challenges (reset every 7 days)
 
-七个每周模块中有五个目前激活;本赛季有两个被禁用:
+Five of the seven weekly modules are currently active; two are disabled for this season:
 
-- **Endurance Driver**(traveller)
-- **Successful Fisherman**(fishing)
+- **Endurance Driver** (traveller)
+- **Successful Fisherman** (fishing)
 - **Konvoi Mingguan**
-- **Quiz Master (Advanced)** -  - quiz_adv
-- **Lap Time Legend** -  - laptime
-- *Quiz Master (basic) -  - 目前已禁用*
-- *Lap Time Legend (Advanced) -  - 目前已禁用*
+- **Quiz Master (Advanced)**
+- **Lap Time Legend** - laptime
+- *Quiz Master (basic) - currently disabled*
+- *Lap Time Legend (Advanced) - currently disabled*
 
-### 发现/成就(一次性、永久)
+### Discovery achievements (one-time, permanent)
 
-涵盖基础与里程碑的 34 个一次性目标。亮点:
+35 one-time goals cover fundamentals and milestones. Highlights:
 
-- **First Drive** -  - 你首次坐入车辆的时刻
-- **Jalan Jalan** -  - 漫游地图
-- **Anak Murid** -  - 访问学校
-- **Cari Kerja** -  - 尝试你的第一份工作
-- **Bayar Tol** -  - 通过一个收费站
-- **Penghantar Makanan** -  - 完成食品配送
-- **Penebang Kayu** -  - 砍木头
-- **Pemandu Teksi** -  - 完成出租车任务
-- **Pemandu Lagenda** -  - 行驶距离终局
+- **First Drive** - your first seat-in-vehicle moment
+- **Jalan Jalan** - roam the map
+- **Anak Murid** - visit the school
+- **Cari Kerja** - try your first job
+- **Bayar Tol** - pass through a toll
+- **Penghantar Makanan** - complete food deliveries
+- **Penebang Kayu** - chop wood
+- **Pemandu Teksi** - complete taxi missions
+- **Pemandu Lagenda** - the driving-distance endgame
 
-外加 16 个成就徽章(前缀 `ach_`):公路传奇等级里程碑、马拉松车手、钓鱼大师、speed demon、pembalap(赛车手)、convoy king、jack-of-all-trades、warga sejati(真正的公民)等等。
+Plus achievement badges such as road-legend tier milestones, marathon driver, master angler, speed demon, Pembalap, convoy king, Jack of All Trades, Warga Sejati, and more.
 
-## 可解锁奖励
+## Unlockable rewards
 
-除了你的等级和职业等级外,另有一份 **42 unlockables** 的独立目录追踪装饰进度。通过 season pass、活动、代码和成就获得。三种类型:
+Beyond your level and career ranks, a separate catalogue of **42 unlockables** tracks cosmetic progression. Earned through season passes, events, codes, and achievements. Three types:
 
-- **12 款车辆喷漆** -  - 颜色、渐变和纹理变体(例如 Chrome Silver、Matte Black、Neon Green、Copper Kampung)。在拥有兼容喷漆的车辆时,从车辆定制菜单应用。
-- **17 款头衔** -  - 装饰性头顶标签。选择一个显示在你的角色上方。当前名单包括：Highway King、Ilmuwan、Jurumudi Handal、Legenda Musim 2、Nelayan、OG Musim 2、Pemandu Baru、Pemandu Teksi Pro、Pembalap、Penghantar Setia、Penjelajah Agung、Penunggang Laju、Raja Lebuhraya、Raja Tol、Road Legend、Road Warrior、Warga Sejati。
-- **13 款收藏徽章** -  - 装饰性徽章(例如 "Pemandu Season 2 Dedicated"),显示在你的个人资料上。
+- **12 vehicle paints** - colour, gradient, and texture variants (e.g. Chrome Silver, Matte Black, Neon Green, Copper Kampung). Apply from the vehicle customisation menu when owning a paint-compatible car.
+- **17 titles** - cosmetic overhead tags. Pick one to show above your character. The current roster includes: Highway King, Ilmuwan, Jurumudi Handal, Legenda Musim 2, Nelayan, OG Musim 2, Pemandu Baru, Pemandu Teksi Pro, Pembalap, Penghantar Setia, Penjelajah Agung, Penunggang Laju, Raja Lebuhraya, Raja Tol, Road Legend, Road Warrior, Warga Sejati.
+- **13 collectable badges** - decorative badges (e.g. "Pemandu Season 2 Dedicated") shown on your profile.
 
-激活的解锁按玩家保存 -  - 你会在所有游戏会话中保留你获得的一切。
+Active unlocks are saved per-player - you keep everything you earn across sessions.
 
-## 驾驶距离的 Roblox 徽章
+## Roblox badges for driving distance
 
-当你通过里程里程碑时,四个真正的 Roblox 徽章会自动颁发:
+Four real Roblox badges auto-award when you pass mileage milestones:
 
-| 驾驶距离 | 徽章 |
+| Distance driven | Badge |
 |---|---|
-| 50,000 stud | 50k Badge |
-| 100,000 stud | 100k Badge |
-| 500,000 stud | 500k Badge |
-| 1,000,000 stud | 1m Badge |
+| 50,000 studs | 50k Badge |
+| 100,000 studs | 100k Badge |
+| 500,000 studs | 500k Badge |
+| 1,000,000 studs | 1m Badge |
 
-徽章会随着你的距离计数器增加自动颁发 -  - 你无需领取。
+Badges are awarded automatically as your distance counter increments. You do not need to claim them.
 
-比赛胜利里程碑也会被追踪，并可能在未来更新获得徽章。
+Race-win milestones such as 1, 10, 50, and 100 wins are also tracked for future rewards.
 
-## 即时 level developer products
+## Instant-level Robux purchases
 
-如果你想跳过 level grinding，Lebuhraya 提供四种一次性 **developer products**，可用 Robux 购买。这些会立即给予固定 level 提升 - 如果你追逐特定 level-gated 队伍（例如 Level 200 的 Kesihatan），会很有用。
+If you want to skip grinding levels, Lebuhraya offers four one-time level-up purchases with Robux. These grant flat level bumps instantly - useful if you're chasing a specific level-gated team (say, Kesihatan at Level 200).
 
-| 产品 | 效果 |
+| Product | Effect |
 |---|---|
-| +1 Level | 1 level，用于跨过你需要的门槛 |
+| +1 Level | 1 level, whatever you need to cross a threshold |
 | +10 Levels | 10 levels |
 | +25 Levels | 25 levels |
 | +50 Levels | 50 levels |
 
-Bonus levels 最高封顶在 max level (500)。授予的 XP **绕过 multiplier stack** - 精确 level jump，没有意外。可在游戏内 Shop 或 Main Menu 找到。
+Bonus levels are capped at the max level (500). The XP granted **bypasses the multiplier stack** - exact level jumps, no surprises. Find them in the in-game Shop or via the Main Menu.
 
-## 先买什么?
+## What to buy first?
 
-如果你已经玩了几天并想投资:
+If you've played for a few days and want to invest:
 
-1. **XP Boost gamepass** -  - 每美元最佳的 XP 加速。永久。
-2. **你喜欢的团队 gamepass** -  - Bomba 和 Polis Trafik 最受欢迎,因为 999 系统非常有趣。
-3. **Season Pass**(Premium Track) -  - 只有在你在赛季期间积极游玩并想要特定奖励或早期职业解锁时才值得。
+1. **XP Boost gamepass** - the best per-dollar XP acceleration. Permanent.
+2. **A team gamepass you enjoy** - Bomba and Polis Trafik are the most popular because the 999 system is a lot of fun.
+3. **Season Pass** (Premium Track) - only worth it if you actively play during the season and want the specific rewards or early job unlocks.
 
-如果你为其他游戏订阅了 Roblox Premium,它在这里已经为你工作 -  - 无需额外花费。
+If you're subscribed to Roblox Premium for other games, that's already working for you here - no extra spend needed.
 
-## 后续步骤
+## Next steps
 
-- [Economy and XP](/lebuhraya/economy) -  - 在上下文中查看完整的倍增器叠加
-- [Teams and Careers](/lebuhraya/teams) -  - 哪些团队需要哪个 gamepass
-- [FAQ](/lebuhraya/faq) -  - 关于 gamepass 的常见问题
+- [Economy and XP](/lebuhraya/economy) - See the full multiplier stack in context
+- [Teams and Careers](/lebuhraya/teams) - Which teams need which gamepass
+- [FAQ](/lebuhraya/faq) - Common questions about gamepasses

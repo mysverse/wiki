@@ -2,107 +2,105 @@
 title: 入门
 description: 你在 Lebuhraya 的前 10 分钟 - 生成车辆、赚取 BR、升级，然后上高速。
 lang: zh
-translated_from_hash: "6b03224d"
-translated_on: 2026-05-18
+translated_from_hash: e52aa1bb
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 入门
 
-欢迎来到 Lebuhraya。本页带你走过首次游玩体验 - 从加入 server 到赚取你的第一笔 Ringgit (BR) 以及接下第一份工作。
+Welcome to Lebuhraya. This page walks you through your first session, from joining the server to earning your first XP and picking up your first job.
 
-## 什么是 Lebuhraya？
+## What is Lebuhraya?
 
-Lebuhraya 是一个以马来西亚高速公路为背景的驾驶角色扮演体验。在三大主要区域之间驾驶轿车、摩托车、罗里和巴士。接工作 - 从送餐到救火 - 来赚取 Ringgit 和升级。买房子、与朋友结伴组车队，或者单纯兜风也行。
+Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs, from food delivery to firefighting, to earn XP and build your career. Buy a house, join a convoy with friends, or just cruise.
 
-"Lebuhraya" 这个名字在马来语中的意思是 "highway"。
+The name "Lebuhraya" means "highway" in Malay.
 
-## 你的第一分钟
+## Your first minute
 
-首次加入时，你会在 **Visitors** 团队中生成，并拥有：
+When you join for the first time you spawn on the **Visitors** team with:
 
-- **1000 BR**（Ringgit）起始余额 - **已记录但尚未使用**。货币系统正在规划中，尚未上线（详情请看 [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live)）。目前一切都是免费的。
-- **Level 1**，0 XP
-- 没有车辆（你会从世界中的车辆 spawner 生成一辆）
+- **1000 BR** (Ringgit) starting balance. BR is tracked, but most everyday costs are not charged yet, so shops, fuel, repairs, and furniture are currently free.
+- **Level 1**, 0 XP
+- No vehicle (you'll spawn one from a world vehicle spawner)
 
-查看 HUD 周围：
+Look around the screen:
 
-- **左上**：你当前的余额、等级和 XP 进度条
-- **右上**：电话图标（点击即可打开应用程序和 999 紧急求助）
-- **下方**：设置和主菜单图标
+- **Top-left**: your level and XP progress
+- **Top-right**: the Phone icon (tap to open apps and 999 emergency)
+- **Bottom**: the Settings and Main Menu icons
 
-## Main Menu
+Open the **main menu** early. It is the hub for almost everything:
 
-尽早打开 **Main Menu**。它是几乎所有功能的中心：
-
-| 标签 | 用途 |
+| Tab | Use it for |
 |---|---|
-| **Home** | Profile、公告、quick play/spawn 动作 |
-| **Teams** | 加入队伍或查看 unlock 要求 |
-| **Shop** | Gamepass、产品、token 和 promo codes |
-| **Activity** | Missions、challenges 和 season pass 进度 |
-| **More** | Career ranks、job tiers、token inventory、credits、races、help |
+| **Home** | Profile, announcements, quick play/spawn actions |
+| **Teams** | Join a team or inspect unlock requirements |
+| **Shop** | Gamepasses, products, tokens, and promo codes |
+| **Activity** | Missions, challenges, and season pass progress |
+| **More** | Career ranks, job tiers, token inventory, credits, races, help |
 
-## 生成你的第一辆车
+## Spawning your first vehicle
 
-车辆从地图上的实体车辆 spawner pad 生成。**MyPod** 顶栏图标是音乐播放器，不是车辆 spawner。
+Vehicles spawn from physical vehicle spawner pads around the map. The **MyPod** topbar icon is a music player, not a vehicle spawner.
 
-1. 走到绿色车辆 spawner 标记或队伍 spawner pad。
-2. 浏览车辆列表。免费入门车辆对每位玩家开放。
-3. 选择车辆。信息面板会显示图片、说明、锁定状态和 **Spawn** 按钮。
-4. 点击 **Spawn**，如果 spawner 要求，请选择可用 pad。
-5. 你的车辆会出现在所选 pad 上，并登记到你名下。
+1. Walk to a green vehicle spawner marker or team spawner pad.
+2. Browse the vehicle list. Free starter vehicles are available to everyone.
+3. Select a vehicle. The info panel shows its image, description, lock status, and **Spawn** button.
+4. Click **Spawn**, then choose an available pad if the spawner asks.
+5. Your vehicle appears on the selected pad and is registered to you.
 
-走到驾驶员车门前，按下 **F**（键盘）、**X**（gamepad），或点击 **Drive** 按钮（手机）即可坐上去。
+Walk up to the driver door and press **F** (keyboard), **X** (gamepad), or tap the **Drive** button (mobile) to sit.
 
-适合新手的选择包括 **Protan Waja**、**Perosatu Axai**、**Perosatu Myvi** 和 **Perosatu Bezza** 等 compact cars。锁定卡片会显示所需 level 或 career tier。
+Starter-friendly choices include compact cars like the **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, and **Perosatu Bezza**. Locked cards show the required level or career tier.
 
-## 驾驶并赚取你的第一点 XP
+## Driving and earning your first XP
 
-你只需驾驶就可以赚取 XP。每在驾驶座上行驶 **1500 stud**，你就会获得 **50 XP**。这大约足够你在 20 分钟的休闲兜风中完成 level 1 → 2 的升级。缓慢驾驶不会受到惩罚 - 只要车辆持续移动，XP 就会持续累积。
+You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. Keep the vehicle moving and the XP ticks in.
 
-想要更快吗？
+Want to go faster?
 
-- **做工作** - 每完成一项动作都会获得额外 XP
-- **与朋友组车队驾驶** - 最高可获得 +50% XP 奖励
-- **从库存中启用 XP Boost 代币**即可获得 2× XP
-- **周末活动**偶尔会让所有人的 XP 翻倍
+- **Do jobs** - each completed action awards bonus XP
+- **Drive with friends** in a convoy - up to +50% XP bonus
+- **Activate an XP Boost token** from your inventory for 2× XP
+- **Weekend events** occasionally double everyone's XP
 
-## 选择你的第一份工作
+## Picking your first job
 
-你可以立即加入 **Visitors** 和 **Bus Driver**。大多数其他工作需通过 level、gamepass 或 group membership 解锁。你的第一个 level 里程碑是 **Level 10**，会解锁 **Food Delivery** 团队。
+You can join **Visitors** and **Bus Driver** immediately. Most other jobs unlock by level, gamepass, or group membership. Your first level milestone is **Level 10**, which unlocks the **Food Delivery** team.
 
-以下是免费及初期的进展流程：
+Here's the free-and-early progression:
 
-| 解锁 | 团队 / 功能 |
+| Unlock | Team / Feature |
 |---|---|
-| 开始 | Bus Driver、Visitors |
-| 小组成员（1143446） | Malaysians 团队（Fishing、Checkout） |
+| Start | Bus Driver, Visitors |
+| Group member (1143446) | Malaysians team (Fishing, Checkout) |
 | Level 10 | Food Delivery |
 | Level 25 | Waste Disposal |
 | Level 50 | Post Office |
 | Level 75 | Logistics (Trucking) |
 
-请看 [Teams and Careers](/lebuhraya/teams) 查看完整列表，并浏览 [Jobs](/lebuhraya/jobs) 了解每份工作的实际内容。
+See [Teams and careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
 
-### 一个不错的前 30 分钟计划
+### A good first 30-minute plan
 
-1. Spawn 一辆 starter car，在 Bandar Seri Putra 和高速公路之间开一圈干净路线。
-2. 打开 Phone GPS，把 waypoint 设到 petrol station、repair zone 或 race track，熟悉道路网络。
-3. 如果朋友在线，加入 convoy；即使你还没 unlock 工作，bonus 也有帮助。
-4. 达到 Level 10 后，切换到 **Food Delivery**，开始短 delivery loops。
-5. 如果你在 MYSverse group 中，升级时可以试试 **Malaysians** 的 Fishing 或 Checkout。
+1. Spawn a starter car and drive a clean loop between Bandar Seri Putra and the highway.
+2. Open the Phone GPS and set a waypoint to a petrol station, repair zone, or race track so you learn the road network.
+3. Join a convoy if friends are online; the bonus helps even before you unlock jobs.
+4. When you reach Level 10, switch to **Food Delivery** and start doing short delivery loops.
+5. If you are in the MYSverse group, try **Malaysians** for Fishing or Checkout while you level.
 
-## 撞车后会怎样？
+## What happens when I crash?
 
-车辆撞到东西时会受损。严重受损的车辆可由 **KEMRonda** 玩家拖走，在地图上的 repair zones 修理，或用 Toolkit 临时修补。**Gravstone Workshop** 用于喷漆/车身自定义，不是修理。如果你能到达车辆 spawner，生成替换车辆会清理你之前拥有的车辆。
+Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player, repaired in one of the map's repair zones, or patched with a Toolkit. **Gravstone Workshop** is for paint/body customisation, not repairs. If you can reach a vehicle spawner, spawning a replacement vehicle clears your previous owned vehicle.
 
-## 关于 test server 的注意事项
+## A note about test servers
 
-如果你加入 **Studio test server** 或私人 server，你会看到警告 "XP will be reset to 0."。这是正常的 - test server 不保存进度，让开发者可以在全新状态下测试。在正式游戏中，你离开时 XP 和 BR 会自动保存。
+If you join a **test server** or a private server, you may see a warning that XP will be reset to 0. This is normal for testing and private sessions. On the live public game, your XP and BR are saved automatically when you leave.
 
-## 后续步骤
+## Next steps
 
-- 阅读 [Controls](/lebuhraya/controls) 获取完整输入参考
-- 查看 [Economy and XP](/lebuhraya/economy) 以了解倍率叠加机制
-- 浏览 [Jobs](/lebuhraya/jobs) 来规划要加入哪个团队
-- 如果 menu、spawner 或 team requirement 让你困惑，请使用[常见问题与技巧](/lebuhraya/faq)
+- Read [Controls](/lebuhraya/controls) for the full input reference
+- Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack
+- Browse [Jobs](/lebuhraya/jobs) to plan which team to aim for
+- Use [FAQ and tips](/lebuhraya/faq) if a menu, spawner, or team requirement is confusing

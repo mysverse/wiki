@@ -2,218 +2,211 @@
 title: சமூக அம்சங்கள்
 description: 'Lebuhraya-வில் கான்வாய், 999 அவசர சேவை, மற்றும் விளையாட்டுக்குள் தொலைபேசி.'
 lang: ta
-translated_from_hash: "c1d2692d"
-translated_on: 2026-05-18
+translated_from_hash: bf338368
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # சமூக அம்சங்கள்
 
-Lebuhraya-வில் மற்றவர்களுடன் விளையாடும்போது விளையாட்டை இன்னும் சிறப்பாக்க வடிவமைக்கப்பட்ட சில அமைப்புகள் உள்ளன - ஒன்றாக சம்பாதிக்க **Convoy** அமைப்பு, வீரர்கள் இயக்கும் பாத்திரம் ஏற்று நடிப்புக்கான **999 அவசர** அமைப்பு, பயன்பாடுகள் மற்றும் தொடர்புக்கான **Phone**, மற்றும் தற்காலிக ஊக்கிகளுக்கான **Tokens**.
+Lebuhraya has a few systems designed to make the game better when you play with others - the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
 
 ## Convoy
 
-ஒன்றாக ஓட்டுங்கள், அதிகம் சம்பாதியுங்கள். ஒருங்கிணைந்த விளையாட்டுக்கு Convoy, அடுக்கப்படக்கூடிய XP மடங்கு மூலம் வெகுமதி அளிக்கிறது.
+Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
 
-### convoy ஒன்றை உருவாக்குதல்
+### Creating a convoy
 
-1. convoy பட்டியலைத் திறக்கவும் (முக்கிய பட்டியல் அல்லது மேல்பட்டியிலிருந்து).
-2. **Create convoy** என்பதைத் தேர்வு செய்யவும் - நீங்கள் தலைவர் ஆகிவிடுவீர்கள்.
-3. குறிப்பிட்ட வீரர்களை அழைக்கலாம், அல்லது convoy-ஐ பொதுவாக அமைக்கலாம், அதன்மூலம் 500 stud-க்குள் உள்ள மற்றவர்கள் சேர்ந்துகொள்ள கோரிக்கை வைக்க முடியும்.
+1. Open the convoy menu (from the Main Menu or topbar).
+2. Select **Create convoy** - you become the leader.
+3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
 
-### convoy-யில் சேருதல்
+### Joining a convoy
 
-- **அழைப்பின் மூலம்**: தலைவர் உங்களுக்கு அழைப்பை அனுப்புகிறார்; 30 விநாடிகளுக்குள் ஏற்றுக்கொள்ளுங்கள், இல்லையெனில் அது காலாவதியாகும். நீங்கள் நிராகரிக்கவும் முடியும்.
-- **கோரிக்கையின் மூலம்**: convoy பட்டியலைத் திறக்கவும், 500 stud-க்குள் உள்ள பொது convoy-களைப் பார்க்கவும், மற்றும் சேர கோரிக்கை வைக்கவும். உங்கள் கோரிக்கையை ஒப்புதல் அளிக்க தலைவருக்கு 30 விநாடிகள் உள்ளன, அதற்குள் காலாவதியாகும்.
+- **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
+- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
 
-இரண்டு தரப்பினரும் அதே 30-விநாடி காலக்கெடுவைப் பயன்படுத்துகின்றனர் - நீங்கள் தவறவிட்டால், மீண்டும் அழைக்கவும் அல்லது மீண்டும் கோரிக்கை வைக்கவும்.
+Both sides of the handshake use the same 30-second timeout - if you miss it, just re-invite or re-request.
 
-### convoy விதிகள்
+### Convoy rules
 
-- **அதிகபட்ச அளவு**: 6 உறுப்பினர்கள்
-- **நெருக்கம்**: போனஸ் பொருந்த, நீங்கள் மற்றொரு convoy உறுப்பினரின் **200 stud**-க்குள் இருக்க வேண்டும்
-- **தலைவர்**: அழைப்பு விதிகளை அமைக்கிறார் மற்றும் உறுப்பினர்களை அகற்ற முடியும்
+- **Maximum size**: 6 members
+- **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
+- **Leader**: Sets invite rules and can remove members
 
-### போனஸ் எவ்வாறு அடுக்கப்படுகிறது
+### How the bonus stacks
 
-convoy போனஸ் உங்கள் தற்போதைய XP மடங்கு அடுக்கில் சேர்க்கப்படுகிறது ([பொருளாதாரம் மற்றும் XP](/lebuhraya/economy#the-xp-multiplier-stack)-ஐப் பார்க்கவும்).
+The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
 
-| கூறு | மதிப்பு |
+| Component | Value |
 |---|---|
-| அடிப்படை convoy போனஸ் | +15% |
-| ஒவ்வொரு கூடுதல் உறுப்பினருக்கும் (இரண்டுக்குப் பின்) | ஒவ்வொன்றும் +5% |
-| convoy-யில் நண்பர் | +10% |
-| convoy-யில் அதே அணி உறுப்பினர் | +10% |
-| தொடர் போனஸ் (convoy-யில் செலவிடும் நேரம்) | நிமிடத்துக்கு +2%, +10%-க்கு வரம்பு |
-| **அதிகபட்ச மொத்த convoy போனஸ்** | **+50%** |
+| Base convoy bonus | +15% |
+| Per additional member (after two) | +5% each |
+| Friend in the convoy | +10% |
+| Same-team member in the convoy | +10% |
+| Streak bonus (time convoying) | +2% per minute, capped at +10% |
+| **Maximum total convoy bonus** | **+50%** |
 
-convoy வாகனத்தில் உள்ள பயணிகள் ஓட்டுநரின் போனஸில் பாதியைப் பெறுகிறார்கள்.
+Passengers in a convoy vehicle get half the driver's bonus.
 
-நன்கு அமைக்கப்பட்ட 6-பேர் convoy (நண்பர்கள், அதே அணி, 5+ நிமிடங்கள் ஒன்றாக ஓட்டுவது) +50% வரம்பைத் தொடர்ந்து அடைகிறது.
+A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
 
-## 999 அவசர அமைப்பு
+## 999 emergency system
 
-Lebuhraya-வின் அவசர சேவைகள் வீரர்கள் இயக்குபவை. எந்த வீரரும் 999-ஐ அழைக்கலாம்; அவசர-அணி வீரர்கள் பதிலளிக்கிறார்கள்.
+Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
 
-### 999-ஐ அழைத்தல்
+### Calling 999
 
-1. உங்கள் **Phone**-ஐத் திறக்கவும் (மேல்பட்டி ஐகான்).
-2. **999** பயன்பாட்டைத் தட்டவும்.
-3. சம்பவ வகையைத் தேர்வு செய்யவும்:
-   - **Car Crash**
-   - **Injured Person**
-4. உங்கள் அழைப்பு பணிமனையில் உள்ள அனைத்து அவசர பதிலளிப்பாளர்களுக்கும் ஒளிபரப்பப்படுகிறது.
+1. Open your **Phone** (topbar icon).
+2. Tap the **999** app.
+3. Select the incident type:
+ - **Car Crash**
+ - **Injured Person**
+4. Your call is broadcast to all on-duty emergency responders.
 
-ஒவ்வொரு செயலில் உள்ள சம்பவமும் பதிலளிப்பாளர்களின் pager-களில் உங்கள் இருப்பிடத்துடன் காட்டப்படும்.
+Each active incident shows on responders' pagers with your location.
 
-### பதிலளித்தல் (அவசர அணிகள்)
+### Responding (emergency teams)
 
-நீங்கள் **Bomba**, **Polis Trafik**, **Undercover Police**, அல்லது **Kesihatan**-இல் இருந்தால்:
+If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
 
-1. உங்கள் **Pager** கருவியை ஏற்றவும்.
-2. செயலில் உள்ள சம்பவங்கள் பலகையைப் பார்க்கவும்.
-3. ஒரு சம்பவத்தை ஏற்றுக்கொள்ள தட்டவும் - அது உங்களுக்கு ஒதுக்கப்பட்ட வழக்காக மாறும்.
-4. அந்த இடத்திற்கு ஓட்டிச் செல்லவும்.
-5. அதன் வகைக்கேற்ப சம்பவத்தைத் தீர்க்கவும்:
-   - **Car Crash** - மாட்டிக்கொண்ட ஓட்டுநர்களை விடுவிக்க spreader/சங்கிலி ரம்பங்களைப் பயன்படுத்துங்கள் (Bomba), காயங்களுக்கு மருந்திடுங்கள் (Kesihatan), காட்சியை நிர்வகிக்கவும் (Polis).
-   - **Injured Person** - நிலைப்படுத்தி மருத்துவமனைக்குக் கொண்டு செல்லுங்கள் (Kesihatan).
-6. நீங்கள் காட்சியில் இருக்கும்போதும், குறைந்தபட்ச பதிலளிப்பு காலம் (**30 விநாடிகள்**) கடந்ததும், வெகுமதிகளுக்காக சம்பவத்தைத் தீர்க்கவும்.
+1. Equip your **Pager** tool.
+2. View the active incidents panel.
+3. Tap to accept an incident - it becomes your assigned case.
+4. Drive to the location.
+5. Resolve the incident according to its type:
+ - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
+ - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
+6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
 
-### வரம்புகள்
+### Limits
 
-- ஒரே நேரத்தில் **10 செயலில் உள்ள சம்பவங்கள்** வரை இருக்கலாம்.
-- அழைப்பவருக்கு மீண்டும் 999 அழைப்புகளுக்கு குளிர்ச்சி நேரம் உள்ளது.
-- நீங்கள் சம்பவம் நடக்கும்போது அணிகளை மாற்றினால், உங்கள் ஒதுக்கீடு ரத்து செய்யப்படும்.
+- Up to **10 active incidents** can exist at once.
+- The caller has a cooldown on repeated 999 calls.
+- If you change teams mid-incident, your assignment is cancelled.
 
-## The Phone
+## The phone
 
-ஒவ்வொரு வீரருக்கும் மேல்பட்டியிலிருந்து அணுகக்கூடிய தொலைபேசி உள்ளது.
+Every player has a phone accessible from the topbar.
 
-### உள்ளமைந்த அம்சங்கள்
+### Built-in features
 
-- **999 அவசரம்**
-- **GPS வழிசெலுத்தல்** - எந்த POI-க்கும் ஒரு வழிபாதையை அமைக்கவும்
-- **கணினி கடிகாரம்** விளையாட்டுக்குள் நேரத்தைக் காட்டுகிறது
+- **999 Emergency**
+- **GPS navigation** - set a waypoint to any POI
+- **System clock** showing in-game time
 
-### பயன்பாடுகள்
+### Apps
 
-- **Rafahia App v3.0** - MYSverse சமூகத்தின் ஒருங்கிணைந்த சமூக பயன்பாடு (செய்தியிடல், சுயவிவரங்கள், அனுபவங்கள் முழுவதும் அம்சங்கள்).
+- **Rafahia App v3.0** - The MYSverse community's unified social app (messaging, profiles, cross-experience features).
 
-MYSverse தளம் அம்சங்களைச் சேர்க்கும்போது காலப்போக்கில் மேலும் தொலைபேசி பயன்பாடுகள் தோன்றலாம்.
+More phone apps may appear over time as the MYSverse platform adds features.
 
-### Phone குறிப்புகள்
+### Phone tips
 
-- உலகில் இருந்தபடியே quick actions தேவைப்படும் போது Phone பயன்படுத்தவும்.
-- Staff-only fast travel இல்லாமல் POI-க்கு செல்ல GPS waypoints தான் பாதுகாப்பான வழி.
-- Emergency அல்லது GPS screen வெறுமையாகத் தோன்றினால், உங்கள் character முழுமையாக load ஆன பிறகு phone-ஐ close செய்து reopen செய்யவும்.
+- Use the Phone when you need quick actions while staying in the world.
+- GPS waypoints are the safest way to reach a POI without staff-only fast travel.
+- If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
 
-## MyPod Music Player
+## MyPod music player
 
-**MyPod** topbar music player. இது vehicle spawner அல்ல.
+**MyPod** is the topbar music player. It is not a vehicle spawner.
 
-MyPod செய்வது:
+What MyPod does:
 
-- Music playing இருக்கும் போது mini player bar காட்டும்.
-- Track list, album-art panel, progress scrubber, volume slider உடன் full player திறக்கும்.
-- Play/pause, previous/next, shuffle, repeat, favourites ஆதரிக்கும்.
-- **Auto-play** enabled இருந்தால் vehicle-ல் உட்காரும்போது random track auto-play செய்யலாம்.
+- Shows a mini player bar while music is playing.
+- Opens into a full player with track list, album-art panel, progress scrubber, and volume slider.
+- Supports play/pause, previous/next, shuffle, repeat, and favourites.
+- Can auto-play a random track when you sit in a vehicle if **Auto-play** is enabled.
 
-MyPod **செய்யாதவை**:
+What MyPod does **not** do:
 
-- Vehicles spawn செய்யாது.
-- Vehicles despawn செய்யாது.
-- Map முழுவதும் உள்ள physical vehicle spawner pads/markers-ஐ replace செய்யாது.
+- It does not spawn vehicles.
+- It does not despawn vehicles.
+- It does not replace the physical vehicle spawner pads/markers around the map.
 
-## The Tablet
+## The tablet
 
-மேல்பட்டியிலிருந்து கிடைக்கும் இரண்டாம் நிலை சாதனம். இதை உங்கள் "தொழில் HUD" என்று கருதுங்கள் - பெரிய திரை, தொலைபேசியை விட அதிக தரவு.
+A secondary device available from the topbar. Think of it as your "career HUD" - bigger screen, more data than the phone.
 
-### பயன்பாடுகள்
+### Apps
 
-- **Vehicle** - அருகில் உள்ள எந்த வீரரின் வாகனப் பதிவு மற்றும் ஓட்டுநர் உரிமம் தகவலைப் பார்க்கவும். பாத்திரம் ஏற்று நடிப்புக் காட்சிகளுக்கு (சாதாரண பரிசோதனை, காப்பீட்டு தேடல்) பயனுள்ளது. உரிம தெரிவுநிலை அணி-வாரியாகக் கட்டுப்படுத்தப்படுகிறது - சில அணிகள் (APJ, Polis) மட்டுமே முழு உரிம விவரங்களைப் பார்க்க முடியும்.
-- **Developer** *(ஊழியர்கள் மட்டும்)* - வீரர் விவரங்கள், BR மீதி, POS பணம் மற்றும் செய்தி வரலாற்றைக் காட்டும் நிர்வாகக் கண்காணிப்பு காட்சி.
-- **Moderator** *(ஊழியர்கள் மட்டும்)* - கூடுதல் ஊழியர்கள் கண்காணிப்பு கருவிகள்.
+- **Vehicle** - View nearby vehicle registration and driving licence information for roleplay scenes. Full licence details are limited to relevant enforcement teams.
+- **Staff tools** - Moderation tools may appear for authorised MYSverse staff.
 
 ## Report system
 
-MYSverse team-க்கு feedback, bug reports, அல்லது player reports அனுப்ப வேண்டும்போது in-game **Report** system பயன்படுத்தவும்.
+Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
 
-### என்ன சேர்க்க வேண்டும்
+### What to include
 
-நல்ல reports specific ஆக இருக்கும்:
+Good reports are specific:
 
-- **என்ன நடந்தது** - எ.கா. "Vehicle spawner opened but Spawn did nothing."
-- **எங்கே** - town, shop, spawner, road, அல்லது approximate landmark.
-- **நீங்கள் என்ன செய்துகொண்டிருந்தீர்கள்** - team, vehicle, job, tool, menu.
-- **மீண்டும் நடக்கிறதா** - once, every time, mobile-only, private server-only.
-- Player conduct issue என்றால் **player names**.
+- **What happened** - e.g. "Vehicle spawner opened but Spawn did nothing."
+- **Where** - town, shop, spawner, road, or approximate landmark.
+- **What you were doing** - team, vehicle, job, tool, menu.
+- **Whether it repeats** - once, every time, only on mobile, only in private server.
+- **Player names** if it is a player conduct issue.
 
-### எப்போது பயன்படுத்துவது
+### When to use it
 
-Report பயன்படுத்தவும்:
+Use Report for:
 
-- broken menus, missing buttons, clipped text, unreadable UI
+- broken menus, missing buttons, clipped text, or unreadable UI
 - vehicle spawn/fuel/repair problems
-- முடிக்க முடியாத job tasks
-- map holes, stuck spots, bad collisions
-- abusive player behavior
-- balance, payouts, roleplay tools பற்றிய feedback
+- job tasks that cannot complete
+- map holes, stuck spots, or bad collisions
+- abusive player behaviour
+- feedback on balance, payouts, and roleplay tools
 
-Normal team locks, gamepass requirements, அல்லது fuel-pump mismatch warnings-க்கு பயன்படுத்த வேண்டாம்; அவை expected game rules.
+Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
 
-## Identity Card (IC)
+## Identity card (IC)
 
-Lebuhraya ஒவ்வொரு player-க்கும் Phone / Tablet app-இல் **Malaysian-style identity card** வழங்குகிறது, real Malaysian IC format-ல் generate செய்யப்படுகிறது:
+Lebuhraya issues each player a **Malaysian-style identity card** in the Phone or Tablet app.
 
-```
-YYMMDD-PB-XXXX
-```
+The format resembles a real Malaysian IC, using your Roblox account age and account number to make a consistent roleplay ID. Your IC is the same every time you play.
 
-- **YYMMDD** - உங்கள் Roblox account-joined date (year, month, day).
-- **PB** - player origin code. பெரும்பாலான players-க்கு default **14** (Wilayah Persekutuan / Federal Territory - Kuala Lumpur); specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) வேறு codes பயன்படுத்தும்.
-- **XXXX** - உங்கள் Roblox account ID-யின் கடைசி நான்கு இலக்கங்கள்.
+Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
 
-நீங்கள் 15 March 2020 அன்று Roblox-ல் சேர்ந்திருந்தால் மற்றும் உங்கள் account ID 6789-ல் முடிந்தால், உங்கள் IC **200315-14-6789** ஆகும். உங்கள் IC ஒவ்வொரு முறை விளையாடும் போதும் ஒன்றே - மாறாது.
+## Driving licence
 
-Specialised identity cards (law enforcement-க்கு Kad Polis, medical-க்கு KKM, etc.) உங்கள் team அடிப்படையில் தானாக வழங்கப்படும். காட்ட `/me show IC` பயன்படுத்தவும் அல்லது roleplay NPC-யுடன் interact செய்யவும்.
+Every player gets a **Driving Licence** as a tool in their backpack. The licence number is unique per player and stays consistent across sessions.
 
-## ஓட்டுநர் உரிமம்
+**APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
 
-ஒவ்வொரு வீரரும் தங்கள் backpack-ல் **Driving Licence** tool பெறுகிறார்கள். உரிம எண் உங்கள் account joined date மற்றும் Roblox account ID-யின் கடைசி நான்கு இலக்கங்களிலிருந்து உருவாகிறது, எனவே இது ஒவ்வொரு வீரருக்கும் தனித்துவமாகவும் sessions முழுவதும் ஒரே மாதிரியாகவும் இருக்கும்.
+Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence - play along.
 
-**APJ அதிகாரிகள்** ஒரு வீரரின் உரிமத்தை சில நிமிடங்களுக்கு இடைநிறுத்த முடியும். இடைநிறுத்தப்பட்ட வீரர் ஒரு பதாகையைப் பார்க்கிறார்: *"APJ: Your driver licence has been suspended for X minutes."* இடைநிறுத்தம் தானாகவே நீக்கப்படுகிறது, அல்லது APJ உறுப்பினரால் முன்னதாகவே ரத்து செய்யப்படலாம்.
+## Tokens and boosts
 
-இடைநிறுத்தப்பட்ட உரிமம் இருப்பது தொழில்நுட்ப ரீதியாக உங்களை ஓட்டுவதிலிருந்து தடுக்காது, ஆனால் அது பாத்திரம் ஏற்று நடிப்பின் விளைவாகும் - அதற்கேற்ப நடிக்கவும்.
+Some temporary advantages come from **tokens** - consumable boost items in your inventory.
 
-## Token-கள் மற்றும் ஊக்கிகள்
-
-சில தற்காலிக நன்மைகள் **token**-களிலிருந்து வருகின்றன - உங்கள் சரக்குப் பட்டியலில் உள்ள நுகர்வு ஊக்கி பொருட்கள்.
-
-| Token | விளைவு |
+| Token | Effect |
 |---|---|
-| **2× XP Boost** | குறிப்பிட்ட கால அளவுக்கு உங்கள் XP மடங்கை இரட்டிப்பாக்குகிறது |
-| **2× Season Pass Boost** | Season Pass XP முன்னேற்றத்தை இரட்டிப்பாக்குகிறது (சீஸன் செயலில் இருக்கும்போது) |
-| **Team Access Pass** | gamepass-ஐ வைத்திருக்காமல் gamepass-கட்டுப்பாடு அணிக்கு தற்காலிக அணுகலை வழங்குகிறது |
+| **2× XP Boost** | Doubles your XP multiplier for a set duration |
+| **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
+| **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
 
-### token-களை எவ்வாறு பெறுவது
+### How to get tokens
 
-- தொழில் அடுக்கு வெகுமதிகள் (கிளையில் பதவி உயர்வு)
-- Season Pass அடுக்கு வெகுமதிகள்
-- விளம்பர நிகழ்வுகள்
-- சில சமயங்களில் gamepass-களுடன் தொகுக்கப்பட்டிருக்கும்
-- Private-server owner event அல்லது roleplay session நேரத்தில் வழங்குவது
+- Career tier rewards (ranking up in a branch)
+- Season Pass tier rewards
+- Promotional events
+- Sometimes bundled with gamepasses
+- Private server event setup by authorised server staff
 
-### token-களை எவ்வாறு பயன்படுத்துவது
+### How to use tokens
 
-Inventory-யில் இருந்து token activate செய்யவும் (**Main Menu -> More -> Tokens**). குறைந்தது ஒரு token ஓடும்போது **Active Tokens HUD** தானாக தோன்றும் - ஒவ்வொரு active token-மும் icon, name, மற்றும் **M:SS countdown** காட்டும். Tokens parallel-ஆக ஓடும் (2× XP Boost + Season Pass Boost + Team Access ஒன்றாக இருக்கலாம்).
+Activate a token from your inventory (**Main Menu -> More -> Tokens**). The active token display appears automatically when at least one token is running, showing its name and countdown. Tokens can run in parallel.
 
-Tokens **செயல்படுத்தும்போது நுகரப்படுகின்றன** - timer தொடங்கியதும் pause செய்ய முடியாது. தொடர்ச்சியான play sessions-க்கு சேமிக்கவும்.
+::: warning
+Tokens are **consumed on activation** - you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
+:::
 
-## அரட்டை மற்றும் செய்தியிடல்
+## Chat and messaging
 
-நிலையான Roblox அரட்டை **/** (சாய்வுக்கோடு) மூலம் கிடைக்கிறது. நீங்கள் உங்கள் தற்போதைய அணியுடன் மட்டுமே பேச விரும்பினால் அணி அரட்டை ஒரு விருப்பமாகும். பாத்திரம் ஏற்று நடிப்புக்கு நட்பானது - அரட்டையை சுத்தமாக வைத்திருங்கள் மற்றும் MYSverse-இன் சமூக விதிகளை மதிக்கவும்.
+The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly - keep chat clean and respect MYSverse's community rules.
 
-## அடுத்த படிகள்
+## Next steps
 
-- [பொருளாதாரம் மற்றும் XP](/lebuhraya/economy) - convoy மடங்கு எங்கு பொருந்துகிறது
-- [வேலைகள்](/lebuhraya/jobs) - அவசர-அணி வேலை விவரங்கள்
-- [பாஸ்கள் மற்றும் ஊக்கிகள்](/lebuhraya/passes-and-boosts) - Gamepass-கள் எதிராக token-கள்
+- [Economy and XP](/lebuhraya/economy) - Where the convoy multiplier fits in
+- [Jobs](/lebuhraya/jobs) - Emergency-team job details
+- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses vs tokens

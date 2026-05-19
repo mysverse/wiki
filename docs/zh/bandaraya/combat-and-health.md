@@ -2,8 +2,8 @@
 title: 战斗与健康
 description: Bandaraya 的武器、护甲、受伤机制和医疗系统。
 lang: zh
-translated_from_hash: "700a7ffd"
-translated_on: 2026-05-18
+translated_from_hash: d5db9ed9
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 战斗与健康

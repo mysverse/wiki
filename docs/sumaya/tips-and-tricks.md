@@ -1,5 +1,5 @@
 ---
-title: "Tips and Tricks"
+title: "Tips and tricks"
 description: "Hidden interactions, mobile quirks, and expert tips for Sumaya."
 ---
 

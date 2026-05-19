@@ -2,8 +2,8 @@
 title: Pertempuran & Kesihatan
 description: 'Senjata, perisai, kecederaan, dan sistem perubatan di Bandaraya.'
 lang: ms
-translated_from_hash: "700a7ffd"
-translated_on: 2026-05-18
+translated_from_hash: d5db9ed9
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Pertempuran & Kesihatan

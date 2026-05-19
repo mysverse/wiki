@@ -1,9 +1,9 @@
 ---
-title: "Map & Locations"
+title: "Map and locations"
 description: "Landmarks, buildings, streets, stations, hospitals, and shops across Bandaraya."
 ---
 
-# Map & locations
+# Map and locations
 
 Use this page to find major places in Bandaraya's Kuala Lumpur.
 
@@ -37,7 +37,7 @@ Every MRT and Monorail station has a nearby CAG kiosk. Ampang Park and Raja Chul
 | Place | What it is for |
 | --- | --- |
 | **Classic Car Dealer** | Buy, rent, and paint civilian vehicles. |
-| **Ammulaysia** | Licensed firearms, if you own Firearms Licence. |
+| **Ammulaysia** | Licenced firearms, if you own Firearms Licence. |
 | **Illegal Dealer / Hacker** | Black-market items. |
 | **Vastrix** | Clothing and accessories. |
 | **Vastrix Bank** | Banking/deposit roleplay. |

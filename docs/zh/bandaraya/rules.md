@@ -2,8 +2,8 @@
 title: 规则
 description: Bandaraya 中可能导致封禁的行为，以及申诉的方式。
 lang: zh
-translated_from_hash: "1a4c853d"
-translated_on: 2026-05-18
+translated_from_hash: b418f500
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 规则

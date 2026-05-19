@@ -16,7 +16,7 @@ Jobs are the easiest way to earn BR through normal gameplay. Public-service team
 | **Towing** | Towing Services team | Per tow/clamp | Recovery and parking roleplay |
 | **Bus driving** | Bus operator teams | Route-based | Scheduled transport roleplay |
 
-## Postal Service (POS)
+## Postal service (POS)
 
 POS is the simplest starter job.
 
@@ -59,7 +59,7 @@ Level 20 is the current cap.
 - Use vans for a proper delivery run and motorcycles for traffic-heavy routes.
 - Stay in role; job teams should not be used for crime.
 
-## Taxi Driver
+## Taxi driver
 
 Taxi drivers accept bookings and carry passengers to their chosen destinations.
 
@@ -138,7 +138,7 @@ POLIS can also clamp vehicles as part of traffic enforcement.
 - Use cones and signs to make the scene clear.
 - Coordinate with police during larger incidents.
 
-## Bus Driving
+## Bus driving
 
 Bus drivers operate route and passenger transport roleplay.
 

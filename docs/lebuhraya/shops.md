@@ -83,7 +83,7 @@ The go-to for keeping your car fuelled when you can't reach a station.
 
 A full-size supermarket experience. You can walk the aisles, pick items off shelves, and check out at the cashier. A good roleplay location for the Checkout job (Malaysians community team).
 
-**Full catalogue** (~37 items across 6 categories):
+**Full catalogue**: **32 items** across 6 categories.
 
 - **Drinks (7)**: Coffee Cookies Frappe, Chocolate Cookies Frappe, Milk Cookies Frappe, Strawberry Frappe, Boba Tea, Coffee, Mineral Water
 - **Food (3)**: Sandwiches, Onigiri, Cheese Cake
@@ -92,9 +92,9 @@ A full-size supermarket experience. You can walk the aisles, pick items off shel
 - **Snacks (7)**: MIMI, Double Decker, Mister Potato, Twisties, Super Ring, Pringles, Corntoz
 - **Chocolates (5)**: m&m, Oreo, Mentos, KitKat, Cadbury
 
-Like the other shops, KeluargaMart is currently free - grab whatever you fancy. Law-team players (Polis, APJ) are blocked from the register interaction to discourage unprofessional behaviour on duty.
+Like the other shops, KeluargaMart is currently free. Law-team players may be blocked from the register interaction while on duty.
 
-## Food Delivery interactions
+## Food delivery interactions
 
 Most of the food shops above double as pickup locations for the **Food Delivery** job. When you're on duty as a Food Delivery rider, your waypoint will send you to one of these shops to grab an order, then out to a customer.
 
@@ -103,7 +103,7 @@ See [Jobs](/lebuhraya/jobs) for the delivery flow.
 ## Buying mechanics
 
 - Walk up to the shop NPC or counter.
-- A ProximityPrompt appears - interact to open the shop menu.
+- An interaction prompt appears. Use it to open the shop menu.
 - Select the item. In the current build, no BR is deducted; the item is granted for free.
 - The item appears in your inventory as a tool. Equip it to use / eat / display it.
 

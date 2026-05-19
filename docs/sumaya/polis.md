@@ -1,5 +1,5 @@
 ---
-title: "Polis (Police)"
+title: "Polis (police)"
 description: "Playing POLIS in Sumaya - patrols, arrests, ranks, and equipment."
 ---
 
@@ -15,22 +15,22 @@ Pick **POLIS** on the main menu. Your starting kit is 5 tools:
 |------|--------------|
 | **Taser X26P** | Non-lethal takedown weapon with limited cartridges. Fire at suspects to incapacitate them for arrest. |
 | **Radar Gun** | Manual speed capture tool. See [Speed traps and radar](#speed-traps-and-radar). |
-| **Whistle** | Crowd / traffic signaling. |
+| **Whistle** | Crowd / traffic signalling. |
 | **Handcuffs** | The actual arrest tool - use on a wanted suspect when you're close enough. |
-| **Plate Finder** | Look up any vehicle's number plate to see the registered owner and whether it's flagged as stolen. |
+| **Plate Finder** | Look up any vehicle's licence plate to see the registered owner and whether it's flagged as stolen. |
 
 A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
 
-## Placeable traffic items and specialisations
+## Placeable traffic and crime scene items
 
-Traffic cones, signs, and umbrellas may appear during testing or special roleplay sessions. They are not part of the normal POLIS loadout yet.
+Some traffic and crime-scene props are being prepared for future POLIS play. They are not part of the normal POLIS loadout yet.
 
-Two future POLIS specialisations are planned:
+Two future POLIS specialisations are listed as coming soon:
 
 | Specialisation | Current player-facing status |
 |---|---|
-| **Traffic POLIS Role** | Coming Soon. Intended for radar and road-control duties. |
-| **Unmarked POLIS Role** | Coming Soon. Intended for plain-clothes patrol and plate checks. |
+| **Traffic POLIS Role** | Coming soon. Planned around radar and road-control props. |
+| **Unmarked POLIS Role** | Coming soon. Planned around concealed identity and plate checks. |
 
 They are not separate teams; both are intended to work while you are on the normal POLIS team.
 
@@ -42,11 +42,12 @@ Civilians accumulate **offence points** whenever they commit crimes. Total offen
 
 | Points | Wanted stars |
 |--------|--------------|
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| 0-24 | None |
+| 25-59 | 1 star |
+| 60-119 | 2 stars |
+| 120-199 | 3 stars |
+| 200-319 | 4 stars |
+| 320+ | 5 stars |
 
 Higher-star suspects are harder to arrest but pay more when you do.
 
@@ -82,7 +83,7 @@ If a suspect avoids committing any more crimes for **5 minutes**, their wanted s
 The basic flow:
 
 1. Locate the wanted suspect (MDT helps).
-2. Approach them. If they're in passive mode or speeding, they may not realize you're there.
+2. Approach them. If they're in passive mode or speeding, they may not realise you're there.
 3. Use your **handcuffs** tool within interact range.
 4. If successful, they're arrested - sent to jail for a star-based duration.
 
@@ -166,10 +167,10 @@ So no, quitting doesn't save you.
 A **30-second combat window** opens on a suspect the moment your **taser** lands a hit or your **detain** succeeds. While the timer is live:
 
 - Their **Reset** button is locked, and main menu / team-switch is locked even sub-1-star.
-- If they die from any cause (fall, crash, reset/forced death, or being tased too many times) - combat-evasion jail kicks in.
+- If they die from any cause (fall, crash, reset, or taking too much damage) - combat-evasion jail kicks in.
 - If they leave the game - combat-evasion jail is queued for their next session.
 
-Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1–5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Stay online until the result is processed if you want the payout.
+Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1-5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Engager-offline edge case: credit is forfeit, so stay online if you want the payout.
 
 In practice this means: once you tase a suspect, you've already locked in the credit. Even if they sprint into traffic and die, your patrol still scores it.
 
@@ -179,7 +180,7 @@ Sumaya has **two separate speeding systems** - automatic zones and your manual r
 
 ### Speed trap zones (auto)
 
-There are **3 speed trap zones** in the world, each with a posted limit of **50 studs/s**. If any vehicle (player or NPC) drives through a zone above the limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
+There are **3 speed trap zones** in the world. Two are posted at **60 studs/s** and one at **80 studs/s**, so the safe cruising speed depends on the road. If any vehicle (player or NPC) drives through a zone above its posted limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
 
 Zones recycle per driver on a 30-second cooldown, so someone speeding through repeatedly will accumulate tickets fast.
 
@@ -190,12 +191,12 @@ Emergency vehicles with their **siren active** are exempt - you won't cite yours
 Your radar gun is the tool for catching **serious** speeders outside zones. Point at a moving vehicle and fire:
 
 - Target must be going **200 studs/s or faster** for the tool to register a hit. Slower than that, the gun reports "Not speeding" and does nothing.
-- Each captured number plate gets a **120-second cooldown** - you can't re-capture the same plate within two minutes.
+- Each captured licence plate gets a **120-second cooldown** - you can't re-capture the same plate within two minutes.
 - You must be **on duty** (active POLIS team) for the tool to work.
 
 **Reward per capture:** 30 XP + 50 Ringgit + 10 offence points on the driver.
 
-Because zones only fire below 50 studs/s and the radar requires 200+, there's a wide gap where only a moving officer can catch a speeder. That's the radar's niche.
+Because zone limits sit at 60-80 studs/s and the radar only registers at 200+ studs/s, there is a wide middle band where a speeder is legal-on-paper but moving fast. A patrolling officer with a radar gun is the only thing that fills that gap.
 
 ## Vehicles
 
@@ -216,7 +217,7 @@ See [Vehicles](/sumaya/vehicles) for details.
 
 ## Ranks
 
-Polis has **16 ranks**, the most of any emergency service. Titles are based on real MYSverse Police ranks (POLIS).
+Polis has **16 ranks**, the most of any emergency service. Titles are based on real Polis MYSverse ranks (POLIS).
 
 | Level | Rank |
 |-------|------|
@@ -241,7 +242,7 @@ From level 89 onward you're at the top. No rank change as you push to the level 
 
 ## Exempt while responding
 
-If you have your Polis vehicle's **siren active**, you can't be cited for speeding or crashes while you drive. The system recognizes you're on a call. Turn the siren off when you park - otherwise other players might think you're still responding.
+If you have your Polis vehicle's **siren active**, you can't be cited for speeding or crashes while you drive. The system recognises you're on a call. Turn the siren off when you park - otherwise other players might think you're still responding.
 
 ## Tips
 
@@ -251,7 +252,7 @@ If you have your Polis vehicle's **siren active**, you can't be cited for speedi
 - **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
 - **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
 - **Don't become wanted yourself.** If you cross into 1-star wanted as POLIS, the live demotion listener removes you from the emergency team and despawns your emergency vehicle. Leave the team first if you want to play criminal.
-- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents - the game checks `JobType == "EMS"`, and POLIS has `JobType = "Law"`. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
+- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
 
 ## What next?
 

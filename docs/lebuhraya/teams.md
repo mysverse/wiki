@@ -1,5 +1,5 @@
 ---
-title: "Teams and Careers"
+title: "Teams and careers"
 description: "All 18 teams in Lebuhraya and the 20-tier rank system."
 ---
 
@@ -11,7 +11,7 @@ Your **career tier** sits on top of the team system. You can rank up from **Trai
 
 ## How to join a team
 
-Open the **Main Menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time (though some roleplay situations, like an assigned 999 incident, will be cancelled when you swap).
+Open the **main menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time, though some active roleplay situations, like an assigned 999 incident, will be cancelled when you swap.
 
 ### Reading the teams screen
 
@@ -52,7 +52,7 @@ The Malaysians team is the community-role team, not a normal paid career branch.
 | **Logistics** | 75 | Freight trucking - haul cargo with a Rolvo FM or Sanica P-series. |
 | **Power Nasional** | 100 | National electric utility contractor work. |
 | **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
-| **Kesihatan** | 200 | The health-service team - drive ambulances, treat patients, respond to 999 medical calls. |
+| **Kesihatan** | 200 | The National Health Ministry - drive ambulances, treat patients, respond to 999 medical calls. |
 | **APJ** | 300 | Road Transport Agency - enforce driving and vehicle regulations. |
 
 > The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
@@ -73,7 +73,7 @@ See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepass
 
 | Team | Description |
 |---|---|
-| **Developers** | MYSverse staff team. Not joinable directly. |
+| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
 | **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
 
 ## Career tiers and ranks

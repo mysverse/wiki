@@ -17,6 +17,7 @@ export type LabelKey =
   | "combatAndHealth"
   | "arrestAndLaw"
   | "phone"
+  | "shopGamepasses"
   | "tablet"
   | "gamepasses"
   | "rules"
@@ -30,6 +31,7 @@ export type LabelKey =
   | "economyXp"
   | "progression"
   | "overview"
+  | "jobsGig"
   | "jobsFishing"
   | "jobsService"
   | "jobsPalmOil"
@@ -94,6 +96,7 @@ export function buildSidebar(
         { text: L.getStarted, link: `${p}/sumaya/get-started` },
         { text: L.teams, link: `${p}/sumaya/teams` },
         { text: L.phone, link: `${p}/sumaya/phone` },
+        { text: L.shopGamepasses, link: `${p}/sumaya/shop` },
         { text: L.economy, link: `${p}/sumaya/economy` },
         { text: L.progression, link: `${p}/sumaya/progression` },
         {
@@ -101,6 +104,7 @@ export function buildSidebar(
           collapsed: true,
           items: [
             { text: L.overview, link: `${p}/sumaya/jobs` },
+            { text: L.jobsGig, link: `${p}/sumaya/jobs-gig` },
             { text: L.jobsFishing, link: `${p}/sumaya/jobs-fishing` },
             { text: L.jobsService, link: `${p}/sumaya/jobs-service` },
             { text: L.jobsPalmOil, link: `${p}/sumaya/jobs-palm-oil` },
@@ -148,6 +152,7 @@ export const EN_LABELS: Labels = {
   combatAndHealth: "Combat & health",
   arrestAndLaw: "Arrest & law",
   phone: "Phone",
+  shopGamepasses: "Shop & gamepasses",
   tablet: "Tablet",
   gamepasses: "Gamepasses",
   rules: "Rules",
@@ -161,6 +166,7 @@ export const EN_LABELS: Labels = {
   economyXp: "Economy & XP",
   progression: "Progression",
   overview: "Overview",
+  jobsGig: "Gig jobs",
   jobsFishing: "Fishing",
   jobsService: "Service sector",
   jobsPalmOil: "Palm oil",
@@ -190,6 +196,7 @@ export const MS_LABELS: Labels = {
   combatAndHealth: "Pertempuran & kesihatan",
   arrestAndLaw: "Tangkapan & undang-undang",
   phone: "Telefon",
+  shopGamepasses: "Kedai & gamepass",
   tablet: "Tablet",
   gamepasses: "Gamepass",
   rules: "Peraturan",
@@ -203,6 +210,7 @@ export const MS_LABELS: Labels = {
   economyXp: "Ekonomi & XP",
   progression: "Kemajuan",
   overview: "Gambaran keseluruhan",
+  jobsGig: "Kerja gig",
   jobsFishing: "Memancing",
   jobsService: "Sektor perkhidmatan",
   jobsPalmOil: "Kelapa sawit",
@@ -232,6 +240,7 @@ export const ZH_LABELS: Labels = {
   combatAndHealth: "战斗与健康",
   arrestAndLaw: "逮捕与法律",
   phone: "手机",
+  shopGamepasses: "商店与通行证",
   tablet: "平板电脑",
   gamepasses: "通行证",
   rules: "规则",
@@ -245,6 +254,7 @@ export const ZH_LABELS: Labels = {
   economyXp: "经济与经验值",
   progression: "进度",
   overview: "概览",
+  jobsGig: "零工",
   jobsFishing: "钓鱼",
   jobsService: "服务业",
   jobsPalmOil: "油棕业",
@@ -274,6 +284,7 @@ export const TA_LABELS: Labels = {
   combatAndHealth: "போர் & சுகாதாரம்",
   arrestAndLaw: "கைது & சட்டம்",
   phone: "தொலைபேசி",
+  shopGamepasses: "கடை & கேம்பாஸ்கள்",
   tablet: "டேப்லெட்",
   gamepasses: "கேம்பாஸ்கள்",
   rules: "விதிகள்",
@@ -287,6 +298,7 @@ export const TA_LABELS: Labels = {
   economyXp: "பொருளாதாரம் & XP",
   progression: "முன்னேற்றம்",
   overview: "கண்ணோட்டம்",
+  jobsGig: "Gig வேலைகள்",
   jobsFishing: "மீன்பிடி",
   jobsService: "சேவைத் துறை",
   jobsPalmOil: "பனை எண்ணெய்",

@@ -1,9 +1,9 @@
 ---
-title: "Service Sector (Mamak and Fast Food)"
+title: "Service sector (Mamak and fast food)"
 description: "Mamak and fast-food service careers in Sumaya."
 ---
 
-# Service sector (mamak and Fast Food)
+# Service sector (Mamak and fast food)
 
 The service sector covers Sumaya's two customer-facing food jobs: **Mamak** (the classic Malaysian Indian-Muslim eatery) and **Fast Food** (a burger-style quick-service restaurant). Both are fast-paced, order-taking jobs, and both share the same sector XP and rank ladder.
 

@@ -2,12 +2,10 @@
 title: 职业概览
 description: Sumaya 的三大平民职业方向 - 捕鱼、服务业、棕油业。
 lang: zh
-translated_from_hash: "0f03e276"
-translated_on: 2026-05-18
+translated_from_hash: 73b13889
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # 职业概览
 
 Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共有三个职业**行业**,各自拥有专属的职级阶梯与奖励，另外还有可在城里快速完成的短期 gig 工作。
@@ -17,7 +15,7 @@ Sumaya 的职业是您可以从事以赚取 Ringgit 和 XP 的平民工作。共
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [零工](/zh/sumaya/jobs-gig)
 
 ## 什么是"行业"?
 
@@ -100,6 +98,6 @@ Gig jobs 与三个长期行业分开。它们是 E-Hailing、Pos Nasional、Tow 
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [零工](/zh/sumaya/jobs-gig)
 
 或阅读 [Progression](/sumaya/progression) 来了解 XP 与等级在整个游戏中如何运作。

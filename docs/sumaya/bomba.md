@@ -9,7 +9,7 @@ description: "Playing BOMBA (fire brigade) in Sumaya - tenders, hydrants, and fi
 
 ## Getting started
 
-Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the BombaGui on screen - no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
+Pick **BOMBA** on the main menu. You spawn with a **Fire Extinguisher** in your backpack and the Bomba duty screen - no clock-in needed. The **fire hose** itself is not a starting tool: you grab it from hose outlets on fire trucks or hydrants when you arrive at an incident.
 
 Head to the fire station for vehicles, or wait for a fire alert to pop up on your minimap.
 
@@ -30,7 +30,7 @@ Sumaya currently rotates between **nine fire templates**, each pre-built with it
 - **3 Car Crashes** - Outside Police Station, Outside Hazbank, Near MFC.
 - **6 Building Fires** - Jalan Padas Dua (two variants), Kedai Emas Tai Loi, Perbankan Elektronik, Old KKN Clinic, Radtrol Jalan Kepala Ikan.
 
-The server picks one at random per incident. The card on your task HUD shows the **IncidentType** ("Car Crash" or "Building Fire") and the **Location** name so you know what you're rolling up to before you arrive. The MDT app picks the same data up automatically - dispatchers see the human location string, not just a coordinate.
+The game picks one at random per incident. The card on your task HUD shows the incident type and location so you know what you're rolling up to before you arrive. The MDT app shares the same readable location with dispatchers.
 
 ## Putting out fires
 
@@ -64,7 +64,7 @@ Plus milestone bonuses:
 
 - **+150 Ringgit** bonus every **15 blocks** you extinguish.
 
-**Kesihatan players** who stand near an active fire (within 512 studs) get **10 player-level XP per block extinguished** but no Ringgit reward and no Kesihatan sector XP - just player XP. Polis doesn't benefit from this because the filter only matches `JobType == "EMS"` (Polis is `JobType = "Law"`). So there's a built-in incentive for medics to follow fires.
+**Kesihatan players** who stand near an active fire (within 512 studs) get **10 player-level XP per block extinguished** but no Ringgit reward and no Kesihatan sector XP - just player XP. POLIS does not receive this support bonus, so medics have the strongest incentive to follow fires.
 
 Rewards only count when you're within **512 studs** of the fire block when it's extinguished - so stick with the incident, don't wander off.
 
@@ -104,7 +104,7 @@ Bomba has 13 ranks, based on the real Bomba MYSverse (Bomba MYSverse). Your titl
 | 65 | Deputy Fire Commissioner (TPjB) |
 | 76 | Fire Commissioner (PjB) |
 
-The rank bracket abbreviations follow the Bomba MYSverse insignia scheme. From level 76 onward you're the top - no more rank changes even as you push towards the level 100 cap.
+The rank bracket abbreviations follow the real-world Bomba insignia scheme. From level 76 onward you're the top - no more rank changes even as you push towards the level 100 cap.
 
 ## Tips
 

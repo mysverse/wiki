@@ -2,8 +2,8 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: "415ef0c5"
-translated_on: 2026-05-18
+translated_from_hash: c7de531d
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

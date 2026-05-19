@@ -19,14 +19,14 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 | **Polis** | Police. | The law-enforcement emergency-service team. Abbreviated POLIS. |
 | **Jom** | "Let's go" (informal). | The button to enter the world from the main menu. |
 | **Jelajah** | "Explore" / "journey". | The phone discovery-journal app - tracks landmarks (POIs) you've found vs. ones still locked. |
-| **Ditemui** | "Found" / "discovered". | Used in the Jelajah app's progress pill (`<n> / <total> ditemui`). |
-| **Baca Maklumat** | "Read information". | CTA button on a discovered Jelajah POI's detail screen - re-opens the landmark's infographic. |
+| **Ditemui** | "Found" / "discovered". | Used in the Jelajah app's progress pill, such as "3 / 10 ditemui". |
+| **Baca Maklumat** | "Read information". | Button on a discovered Jelajah POI's detail screen - re-opens the landmark's infographic. |
 | **Belum** | "Not yet". | Filter pill in Jelajah for landmarks you haven't discovered yet. |
 | **Semua** | "All". | Filter pill in Jelajah for the full POI list. |
 | **Daerah** | District / region. | Regions of Sumaya's map. |
 | **Mamak** | Indian-Muslim restaurant, a Malaysian institution. | One of the two service-sector venues (the other being fast food). |
 | **Kedai** | Shop / store. | Generic shop signage. |
-| **Kampung** | Village. | Residential neighborhoods in Sumaya; also the name for the traditional stilted wooden house template ("Bornean" houses are kampung-style). |
+| **Kampung** | Village. | Residential neighbourhoods in Sumaya; also the name for the traditional stilted wooden house template ("Bornean" houses are kampung-style). |
 | **Pasaram** | Market / bazaar. | Marketplace location. |
 | **Abang Samseng** | "Gangster brother" - a street tough, petty criminal. | Crime-quest NPCs you talk to when starting illegal work (e.g. animal trafficking). |
 | **Sadaqa** | Charitable giving / almsgiving (from Arabic, widely used in Malay). | Label on the player-to-player donation prompt on the Wallet tool. |
@@ -56,7 +56,7 @@ These appear in Bomba ranks:
 | TPjB | Timbalan Penjaga Bomba (Deputy Fire Commissioner) |
 | PjB | Penjaga Bomba (Fire Commissioner) |
 
-For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
+For Polis, the abbreviations are based on Polis MYSverse (POLIS) rank initials:
 
 | Abbreviation | Meaning |
 |--------------|---------|
@@ -92,7 +92,7 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Team** | Your role (Visitors, Malaysians, POLIS, BOMBA, Kesihatan). |
 | **Sector** | A job type: Fishing, Service, Agro, Bomba, Polis, Kesihatan. |
 | **Rank** | Your prestige title within a sector (e.g. "Fire Officer"). Cosmetic only. |
-| **Plot** | A piece of land in a neighborhood where you can build a house. One per player. |
+| **Plot** | A piece of land in a neighbourhood where you can build a house. One per player. |
 | **Tier** (house) | House quality level: Tier 1 (cheap), Tier 2 (mid), Tier 3 (premium). |
 | **Tier** (trawler) | Fishing boat quality: Tier 1 (free), Tier 2 (25k), Tier 3 (37k). |
 | **ELS** | Emergency Lighting System - the lights and siren on emergency vehicles. |
@@ -117,9 +117,9 @@ For Polis, the abbreviations are based on MYSverse Police (POLIS) rank initials:
 | **Nearby officer bonus** | 50% of an arrest's reward given to any POLIS player within 50 studs of the arresting officer. |
 | **Combat timer / "ENGAGED"** | The 30-second engagement window that opens on a suspect when a taser hits or a detain succeeds. While it's running, Reset and main-menu / team-switch are locked, and dying or leaving the game routes to a doubled-duration **combat-evasion jail**. The arresting officer keeps the credit either way. See [Crime and Law](/sumaya/crime-and-law). |
 | **Reset cooldown / "Respawning..."** | The 12-second cancellable countdown that runs when you press Reset out of combat. Reloads the character cleanly (no death, no dropped tools). Auto-cancels if you get tased, arrested, or leave the game. |
-| **Citizen level** | Your global player level, shown on the top-right Status widget as `Citizen <N>`. Distinct from sector levels (which are per-career). |
+| **Citizen level** | Your global player level, shown on the top-right Status widget as "Citizen 12" or similar. Distinct from sector levels (which are per-career). |
 | **Status widget** | The two-row top-right HUD panel showing Citizen level + active sector. Hidden by tapping the Status icon in the topbar. |
-| **TopBar icons** | The small Map / Tasks / Status / Open Menu icons at the top-centre of the screen. Tap to toggle each HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying. |
+| **Topbar icons** | The small Map / Tasks / Status / Open Menu icons at the top-centre of the screen. Tap to toggle each HUD; tap **Open Menu** (house glyph) to re-open the main menu mid-game without dying. |
 
 ## Abbreviations commonly seen
 

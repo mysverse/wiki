@@ -91,7 +91,7 @@ Locked items show "Locked (Lv. X)" in the Careers app until your sector level re
 
 Each public-service sector has **ranks** - titles that auto-update based on your sector level. They're cosmetic; they don't gate gameplay (only your level does).
 
-### Bomba Ranks (13 total)
+### Bomba ranks (13 total)
 
 | Level | Rank |
 |-------|------|
@@ -127,7 +127,7 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 | 66 | Deputy Director General of Health |
 | 81 | Director General of Health |
 
-### Polis Ranks (16 total)
+### Polis ranks (16 total)
 
 | Level | Rank |
 |-------|------|
@@ -159,9 +159,9 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 | Level | Unlock |
 |-------|--------|
 | 1 | Game start - civilian jobs, default vehicles, Tier 1 Trawler |
-| 2 | Completes `q_levelup` quest (rewards 300 XP, 200 SR) |
-| 5 | Completes `q_rising_star` quest (500 XP, 400 SR) |
-| 10 | Completes `q_veteran` quest (800 XP, 700 SR) |
+| 2 | Completes the early level-up quest (rewards 300 XP, 200 SR) |
+| 5 | Completes the rising star quest (500 XP, 400 SR) |
+| 10 | Completes the veteran quest (800 XP, 700 SR) |
 | 15 | Protan Waja MPV Polis (6,500 Ringgit) - Polis only |
 
 ### Sector level gates (Bomba)
@@ -173,7 +173,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 | 40 | Tayoti Hiace Bomba (12,000 Ringgit), Sanica P310 FRT (13,000 Ringgit) |
 | 65 | Sanica P360 Tanker (20,000 Ringgit) |
 
-### Sector level gates (Polis)
+### Sector level gates (POLIS)
 
 | Sector level | Unlock |
 |--------------|--------|

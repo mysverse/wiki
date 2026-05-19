@@ -22,10 +22,10 @@ Your plot is tied to your account. Leave the server and your house persists; com
 
 You pick from four templates when you claim a plot:
 
-- **Kampung_House_1** - Traditional Malaysian kampung-style home
-- **Kampung_House_2** - Another kampung variant, different layout
-- **Kampung_House_3** - Third kampung variant
-- **Modern_Terrace_1** - Modern terrace / townhouse style
+- **Kampung house 1** - Traditional Malaysian kampung-style home
+- **Kampung house 2** - Another kampung variant, different layout
+- **Kampung house 3** - Third kampung variant
+- **Modern terrace 1** - Modern terrace or townhouse style
 
 Each template has the same interior footprint but different exterior character. Pick the one that fits your roleplay.
 
@@ -48,7 +48,7 @@ Add items from the furniture catalogue. Available pieces include:
 - **Chairs**
 - **Mirror**
 
-Place items inside your house; move and rotate them until the layout feels right. In the current version of the game, furniture placement **does not deduct BR** - the currency system isn't live yet (see [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live)). Enjoy the free decorating while it lasts.
+Place items inside your house; move and rotate them until the layout feels right. In the current version of the game, furniture placement **does not deduct BR**. Enjoy the free decorating while it lasts.
 
 ### Doors
 
@@ -68,12 +68,12 @@ Toggle interior lighting on or off. Useful for setting the mood at night.
 
 If you want to abandon your plot to claim a different one, use the housing menu's **release** option. Your current house and furniture are removed when you release the plot. Consider saving your layout design in a screenshot before you release - there's no automatic restore.
 
-## A note on prices and counts
+## A note on prices and plot counts
 
-The exact BR cost for each house and furniture piece, and the total number of plots available server-side, depend on the live game state. The in-game menu is always the source of truth for these numbers.
+The exact BR cost for each house and furniture piece, and the number of available plots, depend on the live game state. The in-game menu is always the source of truth for these numbers.
 
 ## Next steps
 
-- [World and Map](/lebuhraya/map) - How to get to Pangsapuri Seri Putra
+- [World and map](/lebuhraya/map) - How to get to Pangsapuri Seri Putra
 - [Economy and XP](/lebuhraya/economy) - Saving up BR for that Modern Terrace
-- [Social Features](/lebuhraya/social-features) - Hosting friends via convoy
+- [Social features](/lebuhraya/social-features) - Hosting friends via convoy

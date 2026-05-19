@@ -1,9 +1,9 @@
 ---
-title: "Arrest & Law"
+title: "Arrest and law"
 description: "How arrests work in Bandaraya - LTAA, RTAA, summons, jail time, and suspect rights."
 ---
 
-# Arrest & law
+# Arrest and law
 
 This page explains arrests, detainment, summons, searches, and police alerts from both sides of the roleplay.
 

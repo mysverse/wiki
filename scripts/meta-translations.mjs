@@ -484,6 +484,20 @@ export const META = {
       description: "Sumaya-வில் 12 தொலைபேசி செயலிகள், HUD, மற்றும் சிறு வரைபடம்.",
     },
   },
+  "sumaya/shop.md": {
+    ms: {
+      title: "Kedai & Gamepass",
+      description: "Gamepass, pek tunai Robux, kedai dunia, gerai makanan, tong minyak bot, dan alat di Sumaya.",
+    },
+    zh: {
+      title: "商店与游戏通行证",
+      description: "Sumaya 的游戏通行证、Robux 现金包、世界内商店、食物摊、船用油罐和工具。",
+    },
+    ta: {
+      title: "கடை & கேம்பாஸ்கள்",
+      description: "Sumaya-வில் கேம்பாஸ்கள், Robux பணத் தொகுப்புகள், உலகுக்குள் கடைகள், உணவு கடைகள், படகு எரிபொருள் கேன்கள், மற்றும் கருவிகள்.",
+    },
+  },
   "sumaya/economy.md": {
     ms: {
       title: "Ekonomi",
@@ -524,6 +538,20 @@ export const META = {
     ta: {
       title: "வேலைகள் கண்ணோட்டம்",
       description: "Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் - மீன்பிடி, சேவை, மற்றும் பனை எண்ணெய்.",
+    },
+  },
+  "sumaya/jobs-gig.md": {
+    ms: {
+      title: "Kerja Gig",
+      description: "Kerja gig di Sumaya - tugasan awam pantas, minigame, bayaran, dan reset.",
+    },
+    zh: {
+      title: "零工",
+      description: "Sumaya 的零工 - 快速平民任务、小游戏、报酬和重置。",
+    },
+    ta: {
+      title: "Gig வேலைகள்",
+      description: "Sumaya-வில் gig வேலைகள் - விரைவான குடிமக்கள் பணிகள், மினிகேம்கள், ஊதியம், மற்றும் reset.",
     },
   },
   "sumaya/jobs-fishing.md": {

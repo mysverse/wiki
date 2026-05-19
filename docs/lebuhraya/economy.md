@@ -7,37 +7,36 @@ description: "Ringgit (BR), levels 1-500, XP multipliers, and the fastest ways t
 
 Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
 
-## Ringgit (BR) - tracked, but mostly background for now
+## Ringgit (BR)
 
-Your account carries a BR balance (it starts at **1000** and persists across sessions), but in the current version of Lebuhraya it is not a major gameplay loop yet:
+Lebuhraya tracks Ringgit, shown as **BR**, but most everyday costs are not charged yet. Your account starts with **1000 BR** and race rewards can add to it, but the current build is still mostly XP-driven. BR may not be visible in the normal player HUD yet.
 
-- **Your BR balance is not shown in normal menus yet.** There is no regular HUD, phone, or menu readout for it.
-- **Racing is the only confirmed way to add BR right now.** Other activities mainly reward XP or job-specific progress.
-- **Most everyday costs are not charged yet.** Shops, fuel pumps, tolls, repair zones, and housing furniture are currently free in normal play.
-- **Some jobs show their own counters.** For example, Post Office can show job money, but that is separate from your regular BR balance.
+- **Shops are currently free.**
+- **Fuel pumps and tolls currently do not deduct BR.**
+- **Repair zones and housing furniture currently do not deduct BR.**
+- **Most jobs pay XP first.** Some screens may still mention money or salary, but treat those as job progress or future economy text unless the game clearly credits BR.
 
-**What this means for you**: don't budget your game plans around BR. Pick jobs for their XP rate, pick vehicles for how they drive (not their price tag), and enjoy everything currently for free. When BR goes live, your race-earned balance will carry forward.
+What this means for you: do not plan your session around budgeting BR yet. Pick jobs for their XP rate, pick vehicles for how they drive, and check the in-game menu when an update changes the economy.
 
 ### What's tracked right now
 
-- Starting balance: **1000 BR**, shared across your MYSverse Lebuhraya sessions.
-- Active earn source: Race rewards only.
-- Active spend sources: no confirmed live spend source in normal play.
+- Starting balance: **1000 BR**.
+- Race rewards can grant BR.
+- Normal shops, fuel, tolls, repairs, and furniture are currently free.
 
-### What will eventually use BR (planned)
+### What may use BR later
 
-The game appears prepared for future BR use in:
+The in-game economy is expected to expand over time. These areas may start charging or paying BR in future updates:
 
-- Fuel payments at PETROMAS / Radtrol
+- Fuel payments at PETROMAS and Radtrol
 - Shop purchases
-- Food Delivery, Checkout, Lumberjack, and Fishing rewards
-- Post Office salary becoming regular BR
-- Vehicle dealership / purchases
+- Food Delivery, Checkout, Lumberjack, Fishing, and Post Office payouts
+- Vehicle dealership purchases
 - Repair costs at repair zones
 
 ## Levels and XP
 
-There are **500 levels**. Each level requires **1000 XP** to complete. The level cap is firm - you can't level past 500, but XP continues to tick towards badges and career tiers after that.
+There are **500 levels**. Each level requires **1000 XP** to complete. The level cap is firm. You cannot level past 500, but XP still contributes to badges, challenges, and career tiers where those systems use it.
 
 ### Earning XP
 
@@ -62,7 +61,7 @@ Multiple bonuses stack **additively** on top of your base ×1 multiplier. The fi
 | Double XP weekend (periodic events) | Multiplier set to ×2 |
 | XP Boost gamepass | +50% |
 | Roblox Premium membership | +25% |
-| Injury System enabled | +15% |
+| Injury system enabled | +15% |
 | Token XP Boost (consumable) | +100% |
 | Convoy bonus (up to) | +50% |
 
@@ -82,11 +81,9 @@ The total convoy multiplier is capped at **+50%**.
 
 ## What resets and what saves
 
-- **Live game**: Level, XP, BR, vehicles, housing - all saved automatically when you leave the server. You don't need to manually save.
-- **Studio / test servers**: XP resets to 0 when you join. A warning message appears. This is normal - your live progress is not affected.
-- **Private servers**: The economy is disabled so your balance doesn't change, but nothing is lost in the main game.
-
-> If you're a staff member who uses Fast Travel, note that distance-based XP is paused for 5 minutes after each fast-travel to prevent skew. Normal players don't have access to Fast Travel, so this cooldown doesn't apply to them.
+- **Live public game**: Level, XP, BR, vehicles, and housing are saved automatically when you leave.
+- **Test servers**: XP may reset to 0 when you join. This does not affect your live public progress.
+- **Private servers**: Progression is disabled for controlled roleplay and practice. Use public servers when you want progress to count.
 
 ## Tips for levelling fast
 
@@ -101,4 +98,4 @@ The total convoy multiplier is capped at **+50%**.
 
 - [Vehicles](/lebuhraya/vehicles) - Fuel pricing and ownership
 - [Jobs](/lebuhraya/jobs) - Per-job XP / BR breakdown
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) - How to get the XP Boost gamepass
+- [Passes and boosts](/lebuhraya/passes-and-boosts) - How to get the XP Boost gamepass

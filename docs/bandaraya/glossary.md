@@ -1,9 +1,9 @@
 ---
-title: "Glossary - Malaysian Terms & Game Acronyms"
+title: "Glossary - Malaysian terms and game acronyms"
 description: "Malaysian acronyms and in-game terms explained - POLIS, BOMBA, KKM, CAG, LTAA, RTAA, MRT, and more."
 ---
 
-# Glossary - Malaysian terms & game acronyms
+# Glossary - Malaysian terms and game acronyms
 
 Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this page when a term is unfamiliar.
 
@@ -12,7 +12,7 @@ Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this
 | Term | Meaning |
 | --- | --- |
 | **BR** | **Bandar Ringgit**, Bandaraya's in-game currency. |
-| **CAG** | **Click And Go**, the stored-value transit card for buses, MRT/Monorail, and toll discounts. |
+| **CAG** | **Click and Go**, the stored-value transit card for buses, MRT/Monorail, and toll discounts. |
 | **TapNGo** | Highway toll gate system. CAG gives a toll discount when your card can pay. |
 | **MRT** | Mass Rapid Transit. Bandaraya has MRT fast travel on the Kajang Line. |
 | **Monorail** | KL Monorail fast travel line. |
@@ -54,4 +54,4 @@ Bandaraya uses Malaysian organisations, places, and roleplay shorthand. Use this
 | **Saman** | Summons or fine, usually issued by police. |
 | **BOLO** | Be On the LookOut. A police alert for a suspect. |
 | **MDT** | Mobile Data Terminal, the police tablet app. |
-| **Ammulaysia** | Licensed gun dealer. Requires the Firearms Licence gamepass. |
+| **Ammulaysia** | Licenced gun dealer. Requires the Firearms Licence gamepass. |

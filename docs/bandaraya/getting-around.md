@@ -1,11 +1,11 @@
 ---
-title: "Getting Around Bandaraya"
+title: "Getting around Bandaraya"
 description: "Public transport in Bandaraya - MRT, LRT, monorail, buses, CAG card, e-hailing, and TapNGo tolls."
 ---
 
 # Getting around Bandaraya
 
-Use buses, MRT, Monorail, cars, taxis, and TapNGo toll gates to move around Kuala Lumpur. The **CAG (Click And Go)** card makes public transport cheaper and easier.
+Use buses, MRT, Monorail, cars, taxis, and TapNGo toll gates to move around Kuala Lumpur. The **CAG (Click and Go)** card makes public transport cheaper and easier.
 
 All prices are in **BR**.
 
@@ -21,13 +21,13 @@ All prices are in **BR**.
 
 ## Network
 
-### MRT Kajang Line
+### MRT Kajang line
 
 - Conlay
 - Persiaran KLCC
 - Ampang Park
 
-### KL Monorail Line
+### KL Monorail line
 
 - Bukit Bintang
 - Raja Chulan
@@ -41,7 +41,7 @@ Buses are run by several transport operators. Board by sitting in a passenger se
 
 Some roads use TapNGo toll gates. Drive up, pay, and the gate opens.
 
-## Fast travel: MRT & Monorail
+## Fast travel: MRT and Monorail
 
 1. Walk to a station.
 2. Open the fast-travel panel.

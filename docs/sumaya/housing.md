@@ -9,7 +9,7 @@ Sumaya lets you claim a plot of land, buy a house, decorate it with furniture, a
 
 ## Finding a plot
 
-Sumaya's neighborhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show small preview houses so you can spot available land from the street.
+Sumaya's neighbourhoods (Kampung streets like Lorong Pais, Jalan Triden, Jalan Bawang, Lorong Kicai) are divided into **plots**. Unclaimed plots show small preview houses so you can spot available land from the street.
 
 Sumaya currently has **63 claimable plots**, each visible from the world before you claim it.
 

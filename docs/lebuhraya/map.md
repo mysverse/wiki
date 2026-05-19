@@ -1,5 +1,5 @@
 ---
-title: "World and Map"
+title: "World and map"
 description: "Bandar Seri Putra, Jersik, Kampung Merbang, and 29 key locations across Lebuhraya."
 ---
 
@@ -102,11 +102,11 @@ Lebuhraya has a live day-night cycle and random rainfall.
 
 **Time cycle**: in-game time advances by **1 minute every real-world second**, so a full in-game day takes 24 real minutes. Streetlights and billboard lights turn on automatically at **6:00 PM** and remain on until **6:40 AM**. Drive with headlights during those hours for visibility - and respect the atmosphere; some roads are meaningfully darker at night.
 
-**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a screen rain effect while it's active. Roads don't become slippery, but visibility drops. Staff may also turn rain on or off during events.
+**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a rain effect while it's active. Roads do not become slippery, but visibility drops.
 
 ## Traffic lights and junctions
 
-Junction traffic lights at intersections coordinate across multiple signal groups (e.g. the `BSP_Main` junction in Bandar Seri Putra has two alternating phases). Standalone lights cycle Green → Yellow → Red independently. Stopping at red is enforced by the anti-cheat system - see *Speed traps and tolls* below for details on the **Red Light** offence.
+Junction traffic lights coordinate across multiple signal groups. Standalone lights cycle green, yellow, and red independently. Stop at red lights to avoid traffic offences.
 
 ## Speed traps and tolls
 
@@ -115,7 +115,7 @@ Selected highway stretches have **speed traps** that measure your vehicle's spee
 - **Above 110 studs/s**: a HUD readout flashes your recorded speed. Your personal best is saved to the **Speed Trap** leaderstat - try to beat it!
 - **Above 200 studs/s without emergency lights (ELS)**: you're logged for a **Speeding** offence, which can trigger enforcement from Polis Trafik. Emergency team vehicles on active ELS are exempt.
 
-**Toll plazas** - Plaza Tol Jersik and Plaza Tol Putra Mahkota - currently accept payment through a CnG scan with a 12-stud proximity prompt. Tolls in this version of the game are **free to pass** (the scan opens the gate but doesn't deduct BR). Your first toll-pass is credited to the *Bayar Tol* discovery challenge (+25 XP one-time reward). Vehicles with an RFID tag on the driver seat can pass automatically without scanning.
+**Toll plazas** - Plaza Tol Jersik and Plaza Tol Putra Mahkota - currently open through a CnG scan prompt. Tolls in this version of the game are **free to pass**. Your first toll pass counts towards the *Bayar Tol* discovery challenge.
 
 ## Navigation
 

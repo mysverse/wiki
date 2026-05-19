@@ -1,5 +1,5 @@
 ---
-title: "FAQ and Tips"
+title: "FAQ and tips"
 description: "Common questions and quick wins for new Lebuhraya players."
 ---
 
@@ -11,14 +11,14 @@ Common questions, quality-of-life tips, and the things experienced players wish 
 
 ### Why did my XP reset when I joined a test server?
 
-Test servers (including Studio playtests) reset XP to 0 on purpose, so developers can test features against a fresh account. The warning message "XP will be reset to 0" is normal. Your **live game progress is not affected** - it's only the test server that's disposable.
+Test servers reset XP to 0 on purpose so new features can be tested safely. The warning message "XP will be reset to 0" is normal. Your **live public game progress is not affected**.
 
 ### I can't open the vehicle spawner. Why?
 
 A few possibilities:
 
 - You may need to load in fully - wait a few seconds after joining.
-- A UI overlay might be on top of it - close any open menus (Esc or Backspace).
+- A menu might be on top of it - close any open menus (Esc or Backspace).
 - You need to be near a physical vehicle spawner prompt in the world. The MyPod topbar icon is only a music player.
 - You may be on a job team and trying to use a civilian spawner. Switch to Visitors or use your team spawner.
 - You may be using a team-only spawner. Join the named team first.
@@ -45,9 +45,9 @@ They are under **Main Menu -> More**. The top-level menu now shows **Home**, **T
 
 ### What's the fastest way to level up?
 
-The formula for fastest levelling:
+The best approach for fast levelling:
 
-1. **Drive continuously in a DriveSeat.** Passive XP is 50 per 1500 studs.
+1. **Drive continuously in a driver seat.** Passive XP is 50 per 1500 studs.
 2. **Do jobs** - Food Delivery pays 250 XP per delivery once you're level 10.
 3. **Convoy with friends on the same team** - up to +50% bonus.
 4. **Activate a 2× XP token** before a long session.
@@ -75,7 +75,7 @@ If you want to work in law enforcement without a gamepass, **APJ** (level 300) i
 2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
 3. An on-screen prompt appears - interact to pump / charge.
 
-Fuel is **currently free** in this version of the game. Config prices (Electric 1 / Petrol 2 / Diesel 3 BR per litre) are defined but not yet being charged - refuelling doesn't deduct any BR from your balance.
+Fuel is **currently free** in this version of the game. The usual reference prices are Electric 1 BR, Petrol 2 BR, and Diesel 3 BR per litre, but refuelling does not currently deduct BR from your balance.
 
 ### My car ran out of fuel and I'm stranded. What now?
 
@@ -126,7 +126,7 @@ Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose 
 
 **Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around - drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
 
-(If you ever see the FastTravel menu appear, it means you've been granted staff access.)
+(If you ever see the fast travel menu appear, it means you have been granted staff access.)
 
 ### I joined a convoy but I'm not getting the bonus.
 
@@ -160,7 +160,6 @@ Yes - open **Main Menu -> Shop** and use the code redemption field. A few codes 
 | `fd2r` | Free Handai Civic FD2R (Special spawner) | Once |
 | `renjer` | Free Renjer Loader 2012 (Special spawner) | Once |
 | `outlandish` | Free Masubi Outlander (Special spawner) | Once |
-| `laksa` | Free ZulBezza easter egg | Once |
 | `MYS5KFOLLOWERS` | Free Intero Citie Bas Sekolah (Bus Driver spawner) | Once |
 
 Event codes (time-limited) occasionally appear for community events, conventions, and apology makegoods - watch MYSverse channels for them.
@@ -177,7 +176,7 @@ A Tayoti Hiace is a passenger van - don't take one to the Race Track. A Perosatu
 
 ### The electric car advantage
 
-Electric vehicles cost 1 BR per litre vs 3 BR for diesel. Over hundreds of hours of driving, this adds up significantly. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
+Electric vehicles are cheapest to run once fuel charges are enabled. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
 
 ### Friend up before grinding
 
@@ -201,7 +200,7 @@ Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously d
 
 ### Report bugs and feedback
 
-If you hit a bug or have suggestions, the in-game **Report** system (MYS_ReportSystem ScreenGui) sends directly to the MYSverse team. Use it - the devs read these.
+If you hit a bug or have suggestions, use the in-game **Report** system. It sends feedback directly to the MYSverse team.
 
 ## Private servers
 
@@ -219,17 +218,14 @@ Private servers are Roblox's "VIP server" feature - you pay Robux to spin up a s
 
 ### What the server owner gets
 
-When you join your own private server, **you're automatically granted Adonis admin level 200** - a substantial suite of moderation commands.
+When you join your own private server, you receive owner moderation tools for that server.
 
-- **Moderate your guests**: kick, ban (from that specific private server), mute, freeze, respawn, teleport, spectate.
-- **Set up scenes**: teleport any player (or yourself) to any location, fly, noclip, change gravity, spawn vehicles for guests.
-- **Delegate admin**: use Adonis commands like `:admin @PlayerName` to promote trusted friends to moderator / admin status within your server. They'll get the same tools. You can also `:mod`, `:headadmin`, etc., for different admin tiers.
-- **Manage duration**: boot-everyone, shutdown, reserve a new server from inside the current one.
-- **Run the experience your way**: set custom messages, adjust game time, toggle weather, and stage scenes for your group.
+- **Moderate your guests**: remove disruptive players, respawn stuck players, and keep the session organised.
+- **Set up scenes**: move players around, stage roleplay, reset scenes, and coordinate events.
+- **Delegate help**: give trusted friends moderator tools when you need support.
+- **Manage the session**: shut down or restart the private server when your event is finished.
 
-**Moderator access stays inside your private server.** Friends you promote keep that access across sessions in *your* private server, but they don't get admin rights anywhere else.
-
-**Cross-server moderation features are disabled** in private servers, so your server stays self-contained.
+Private server moderation only applies to that private server. It does not grant staff powers in public servers or anyone else's private server.
 
 ### Limitations
 
@@ -244,33 +240,13 @@ The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explain
 
 If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
 
-### Accessing admin commands
+### Accessing private server commands
 
-Once you have admin level (either as the owner or granted by the owner), type `:cmds` in chat to open the Adonis command list. Common commands available to Admins (level 200):
+Type `:cmds` in chat to open the command list available to you. The in-game list is the best source because permissions can change between updates.
 
-| Command | Action |
-|---|---|
-| `:cmds` | Open the full command list |
-| `:tp @player` | Teleport to a player |
-| `:bring @player` | Bring a player to you |
-| `:kick @player` | Remove a player from the server |
-| `:fly` | Toggle fly mode |
-| `:noclip` | Pass through objects |
-| `:respawn @player` | Respawn a player |
-| `:ff @player` | Add a forcefield |
-| `:ban @player reason` | Ban from this private server |
-| `:unban @player` | Unban a player |
-| `:mod @player` | Promote to moderator (level 100) |
-| `:unmod @player` | Revoke moderator status |
-| `:shutdown` | Shut down the server |
+### One thing owner tools cannot do
 
-**Note**: Private-server owners can usually promote trusted friends to Moderator, which covers most event-hosting needs. Higher admin tiers may not be available from your permission level; check `:cmds` to see what your server accepts.
-
-Use `:cmds` as the source of truth for command syntax and permission requirements inside your server.
-
-### One thing admin can't do
-
-**Admin level doesn't override team gates.** If a team requires a gamepass (Bomba, Polis Trafik, etc.), a level threshold (Kesihatan L200, APJ L300), or group membership (Malaysians), you still need to meet those requirements. Admin is for moderation, not for free team access. (You *can* grant your guests a **Team Access Pass token** if you want them on a gated team temporarily.)
+**Private server tools do not override team gates.** If a team requires a gamepass, level threshold, or group membership, you still need to meet those requirements. The tools are for moderation and event setup, not free team access.
 
 ### What happens when the game shuts down for an update?
 

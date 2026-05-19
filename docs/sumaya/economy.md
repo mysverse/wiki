@@ -44,7 +44,7 @@ ATMs are scattered around Sumaya (usually near shops and banks). At an ATM, you 
 - **Deposit** from wallet to bank. No limit.
 - **Transfer** to another player by their **username** (not user ID). ATM transfers are **bank-to-bank** only.
 
-## Paying another player in person (Sadaqa / Donate)
+## Paying another player in person (sadaqa / donate)
 
 For casual hand-offs, equip your **Wallet** tool and walk up to another player. A **"Sadaqa to User?"** prompt appears when you're within **10 studs** of them (Sadaqa is the Malay / Arabic term for charitable giving).
 
@@ -60,7 +60,7 @@ Use Sadaqa for quick roleplay gifts, splitting a bill, or helping out a new play
 
 Per-action payouts. Totals depend on how long you work.
 
-### Income / Job XP Booster
+### Income / job XP booster
 
 A future **Income / Job XP Booster** pass is visible in the Shop as a disabled **Coming Soon** card. When it is enabled, it is designed to add **25% more job Ringgit** and **25% more job-sector XP** for eligible work: Bomba, Polis arrests/radar, Kesihatan, Mamak, Fast Food, Palm Oil, Trawl Fishing, and gig jobs.
 
@@ -141,7 +141,7 @@ See [Vehicles](/sumaya/vehicles).
 - **Tier 1 house** (Small Bornean): 25,000 Ringgit.
 - **Tier 2 house** (Spacious / Compact Bornean): 29,000 / 32,000 Ringgit.
 - **Tier 3 house** (Modern Terrace, two cosmetic variants): 35,000 Ringgit.
-- **Furniture**: prices vary widely by item.
+- **Furniture**: prices vary by item.
 
 See [Housing](/sumaya/housing).
 
@@ -171,7 +171,7 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 - **Bank the bulk of your Ringgit.** Wallet is for spending, bank is for saving. Never carry more than you can afford to lose in your wallet.
 - **5-star arrests are the jackpot.** If you're Polis and someone's at 120+ offence points, camp them.
 - **Trafficking is high-value but high-risk.** 2,000 SR for a Hornbill is great, but you'll get stars on you. Plan for it.
-- **Save before you buy.** Houses are now five-digit purchases (25,000–35,000 SR) - plan a multi-shift grind, not an impulse.
+- **Save before you buy.** Houses are now five-digit purchases (25,000-35,000 SR) - plan a multi-shift grind, not an impulse.
 - **Trawlers pay for themselves.** Tier 2 at 25,000 SR feels expensive, but if you're committing to fishing, the extra capacity recovers the cost.
 - **Team synergy.** Bomba + Kesihatan teammates in the same area = you both earn. Medical gets patients (burn victims), Bomba gets teammates near fires for 10 XP each.
 - **Don't overlook the 999 app.** Civilian calls give emergency teams easy payouts - dispatch them and you might get a reward-adjacent interaction.
@@ -179,7 +179,7 @@ These stack on top of per-action payouts. Plan your session to hit milestones, n
 ## What next?
 
 - [Progression](/sumaya/progression) for how XP and Ringgit interact.
-- Gig jobs for short-run payout details.
+- [Gig jobs](/sumaya/jobs-gig) for short-run payout details.
 - [Vehicles](/sumaya/vehicles) for the price catalogue.
 - [Housing](/sumaya/housing) for house prices.
 - [Crime and Law](/sumaya/crime-and-law) for the criminal side of the economy.

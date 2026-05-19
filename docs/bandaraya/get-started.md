@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Getting started"
 description: "Start your adventure in Bandaraya - navigate menus, earn Bandaraya Ringgit (BR), pick a team, and explore Kuala Lumpur."
 ---
 
@@ -15,10 +15,10 @@ The in-game currency is **BR (Bandar Ringgit)**. Prices in this wiki use BR unle
 - **Work for money.** Deliver mail, drive taxis, operate buses, tow vehicles, or buy BR if you want a quicker start.
 - **Drive.** Use civilian cars, motorcycles, buses, emergency vehicles, military vehicles, and helicopters if your team has access.
 - **Travel around KL.** Ride buses, fast-travel by MRT or Monorail, or drive through TapNGo toll gates.
-- **Use CAG.** The Click And Go card handles buses, MRT/Monorail discounts, toll discounts, and monthly passes.
+- **Use CAG.** The Click and Go card handles buses, MRT/Monorail discounts, toll discounts, and monthly passes.
 - **Respond to emergencies.** Police, fire, medical, and military teams all have distinct roles.
 - **Roleplay law and consequences.** POLIS can detain, cuff, arrest, and issue summons. Suspects serve a short jail timer and return to play.
-- **Shop and customise.** Buy food, clothes, tools, cars, and certain licensed items.
+- **Shop and customise.** Buy food, clothes, tools, cars, and certain licenced items.
 
 ## The setting
 
@@ -28,9 +28,9 @@ Many teams are based on Malaysian institutions, including **POLIS**, **BOMBA**, 
 
 ## Who runs this
 
-- **Creator:** MYSverse
+- **Developer:** MYSverse
 - **Currency:** BR, earned in game or bought with Robux
-- **Current version:** Bandaraya v3.15.8
+- **Current version:** Bandaraya v3.15.9
 
 ## Next steps
 

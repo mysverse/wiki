@@ -2,8 +2,8 @@
 title: 平板电脑
 description: Bandaraya 的队伍专属平板工具 - MDT、MyEmergency、MyTow、KKM Logger 及其他应用。
 lang: zh
-translated_from_hash: "35803e65"
-translated_on: 2026-05-18
+translated_from_hash: 9e8ab564
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 平板电脑
@@ -85,7 +85,7 @@ Topbar 会有一个与平板相关的图标 -  - 点击它就能切换开关而�
 
 仅限 KKM。
 
-### Developer App
+### 团队工具
 
 开发者工具和诊断。仅限开发者。
 
@@ -113,7 +113,7 @@ Topbar 会有一个与平板相关的图标 -  - 点击它就能切换开关而�
 | **KKM、SJAM** | KKM Logger、MyEmergency、Vehicle Management |
 | **Towing Services** | MyTow、Vehicle Management |
 | **MyTransit、Bus Services** | Vehicle Management |
-| **Developers** | Developer App + 所有其他 |
+| **Developers** | 团队工具 + 所有其他 |
 | **平民(Visitors、Malaysians)** | 仅 Vehicle Management(基本车牌查询) |
 
 如果你期待的应用不在那里,检查一下你的队伍。

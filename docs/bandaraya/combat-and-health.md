@@ -1,9 +1,9 @@
 ---
-title: "Combat & Health"
+title: "Combat and health"
 description: "Weapons, armour, injuries, and the medical system in Bandaraya."
 ---
 
-# Combat & health
+# Combat and health
 
 Combat in Bandaraya is meant to support roleplay, not replace it. Public-service teams should follow their rules of engagement, and civilians should understand that violence brings police response.
 

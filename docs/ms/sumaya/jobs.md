@@ -4,12 +4,10 @@ description: >-
   Tiga sektor kerjaya awam di Sumaya - memancing, perkhidmatan, dan kelapa
   sawit.
 lang: ms
-translated_from_hash: "0f03e276"
-translated_on: 2026-05-18
+translated_from_hash: 73b13889
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # Gambaran Kerjaya
 
 Kerjaya di Sumaya ialah kerja awam yang anda boleh lakukan untuk memperoleh Ringgit dan XP. Terdapat tiga **sektor** kerjaya, masing-masing dengan tangga pangkat dan ganjaran tersendiri, ditambah kerja gig pendek untuk larian pantas di sekitar bandar.
@@ -19,7 +17,7 @@ Halaman ini menerangkan secara umum cara kerjaya berfungsi. Setiap sektor mempun
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Kerja gig](/ms/sumaya/jobs-gig)
 
 ## Apakah itu "sektor"?
 
@@ -102,6 +100,6 @@ Pilih satu sektor untuk dibaca dengan terperinci:
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Kerja gig](/ms/sumaya/jobs-gig)
 
 Atau baca [Progression](/sumaya/progression) untuk memahami cara XP dan tahap berfungsi di seluruh permainan.

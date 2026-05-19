@@ -5,7 +5,7 @@ description: "All 127 vehicle models in Lebuhraya - spawning, fuel, crashing, an
 
 # Vehicles
 
-Lebuhraya ships with **127 vehicle models** - compact cars, SUVs, motorcycles, trucks, buses, and a long list of emergency / service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
+Lebuhraya has **127 stored vehicle models**, with **116 currently listed in the player spawner catalogue**. The fleet includes compact cars, SUVs, motorcycles, trucks, buses, and emergency or service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
 
 ## Spawning a vehicle
 
@@ -62,7 +62,7 @@ Vehicle prices scale loosely with level. Rough guide:
 | L50–100 | BR 15,000 – 20,000 |
 | L125–150+ | BR 17,000 – 25,000 (Prem/Supercar territory) |
 
-Some team-only vehicles don't have a public price - they unlock as you rank up in the right career branch. About **55 of the 117 spawnable vehicles** are career-locked (you need to be on the right team at the right tier).
+Some team-only vehicles do not have a public price because they unlock as you rank up in the right career branch. About **55 of the 116 spawner-listed vehicles** are career-locked.
 
 About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner - these are the standard civilian choices from Myvi to Mustang.
 
@@ -113,7 +113,7 @@ The default tank is **40 litres**. A JerryCan carries 10 litres.
 
 Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses - if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans - pick the right fuel type before approaching the pump.
 
-> **Fuel is currently free.** The prices above (1/2/3 BR per litre) are defined in the fuel system config but the charge hook isn't active in this version. Refuelling deducts nothing from your BR balance. When the economy goes live these prices will apply.
+> **Fuel is currently free.** The prices above are shown for reference, but refuelling does not currently deduct BR. Check the in-game prompt after economy updates.
 
 ### Where to refuel
 
@@ -131,11 +131,11 @@ If your tank hits zero, the engine cuts out. Options:
 
 ## Spawner troubleshooting
 
-### I see "You Cannot Access This Spawner While Working"
+### I see "You cannot access this spawner while working"
 
 You are on a job team and using a civilian spawner. Switch to **Visitors** or use your team spawner.
 
-### I see "You Must Be on the X Team"
+### I see "You must be on the X team"
 
 That spawner is team-specific. Join the named team first, including any level, gamepass, or group requirement.
 
@@ -148,23 +148,18 @@ That spawner is team-specific. Join the named team first, including any level, g
 
 ### A vehicle is too bright or lights are stuck on
 
-Some vehicles spawn with headlights, ELS, or strong lighting effects depending on time of day and vehicle type. Toggle lights off from the vehicle controls, or respawn the vehicle if the lights stay stuck.
+Some vehicles spawn with headlights/ELS or strong lighting effects depending on time of day and vehicle type. Toggle lights off from the vehicle controls, or respawn the vehicle if a scripted state gets stuck.
 
 ## Crashing and repairs
 
 Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
 
-**Vehicle toughness**:
-- Standard civilian vehicles start with **100 Max Health**.
-- Police / law enforcement variants (Polis Trafik HPV, Polis Escort, KEMRonda Peronda Hilux, APJ Inspira/X70, Undercover) have **200 Max Health** - double the durability.
-- Emergency motorcycles (Kasaki Ninja Polis, BMY R1200RT Polis) get **180 Max Health**.
-- Every collision must exceed **30 studs/s relative velocity** to deal damage; below that you tap and bounce, above that the difference is multiplied into damage.
-- Damage-per-hit defaults to **10 points** (more for very high-speed impacts).
+Emergency and law-enforcement vehicles are tougher than ordinary civilian cars, but every vehicle can be damaged by hard collisions. If smoke, weak performance, or stalled movement appears, repair or replace the vehicle before continuing.
 
 ### Your options
 
-- **Drive into a repair zone at any petrol station.** There are **10 repair zones** - placed in pairs at PETROMAS Northbound, PETROMAS Southbound, Radtrol Bandar Seri Putra, Plaza Tol Jersik, and RnR Sungai Merbang. Stopping inside the zone restores your vehicle gradually (roughly 10% health per 5 seconds). A confirm prompt appears on screen when you enter.
-- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop restore about **25% health per use** - handy when you're stranded and can't reach a repair station.
+- **Drive into a repair zone at any petrol station.** There are **10 repair zones** around the map. Stop inside the zone and confirm the prompt to repair gradually.
+- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop are handy when you are stranded and cannot reach a repair station.
 - **Call a tow**. KEMRonda players with a tow truck can haul you to a workshop.
 - **Spawn a replacement**. If you can reach a vehicle spawner, spawning another vehicle clears your previous owned vehicle and gives you a fresh one.
 
@@ -172,7 +167,7 @@ If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the
 
 ## Customisation at Gravstone Workshop
 
-**Gravstone Workshop** in Bandar Seri Putra is the game's paint & visual customisation shop - **not** a repair centre. Drive your vehicle into the workshop's interior zone and a workshop GUI appears with paint and body options.
+**Gravstone Workshop** in Bandar Seri Putra is the game's paint and visual customisation shop. It is **not** a repair centre. Drive your vehicle into the workshop's interior zone and the workshop menu appears with paint and body options.
 
 - **Access requires the Workshop gamepass.** If you don't own it, the game prompts you to purchase when you open a paint option.
 - **Paint zones** you can recolour include the body, windows, tyres, and rims - each picks up a separate colour.
@@ -200,35 +195,25 @@ When a vehicle spawns, its registration plate is assigned based on the region of
 
 So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next - a small detail that Malaysian players immediately notice.
 
-**Allowed characters** are `ABCDEFGHJKLMNPQRSTUVWXY` - I, O, V, and Z are excluded (I/O avoid confusion with 1/0, V and Z are reserved for special/military use).
+Some letters are excluded from ordinary plates to match Malaysian-style plate rules and avoid confusion.
 
 ### Military plates (rare - special vehicles)
 
 Some military / armed forces vehicles carry authentic Malaysian service plates:
 
-| Service | Plate prefix |
-|---|---|
-| PAT (Panglima Angkatan Tentera MYSverse - Chief of Armed Forces) | `Z` |
-| TDM (Tentera Darat MYSverse - Army) | `ZA` / `ZB` / `ZC` / `ZD` |
-| TLDM (Tentera Laut MYSverse - Navy) | `ZL` |
-| TUDM (Tentera Udara MYSverse - Air Force) | `ZU` |
-| KEMHAN (Kementerian Pertahanan MYSverse - Defence Authority) | `ZZ` |
-| JMF (Askar Timbalan Setia Negeri Johor - Johor Military Force) | `JZ` / `JMF` |
-| PMS | `PMS` |
+You may see special military-style plates on event convoys, parades, and staff-run scenes. They are not typical player cars.
 
-You'll see these on TUDM escort convoys, event parades, and staff-spawned military vehicles - not typical player cars.
-
-## Emergency Lights (ELS)
+## Emergency lights (ELS)
 
 All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) carry a lightbar that uses the game's ELS (Emergency Lighting System). Toggling ELS:
 
 - Plays one of **three flash patterns** - fast alternating, slow alternating, and rapid complex.
 - Is replicated to all players in the server so everyone sees your lights.
-- Grants an implicit speed-trap **immunity** - if you're over 200 studs/s with ELS active, you don't get a Speeding offence (emergency response in progress). Don't abuse this; the anti-cheat still watches.
+- Helps other players recognise an active emergency response.
 
 Use ELS only when responding to an incident. Cruising with lights on is a community etiquette no-no.
 
-## Advanced Vehicle Controls
+## Advanced vehicle controls
 
 Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
 
@@ -253,12 +238,12 @@ Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscap
 | **[** | Lower bed / ramp |
 | **]** | Raise bed / ramp |
 
-**Access rules**: You can always use a panel if (a) you own the vehicle, (b) you're on the matching team (KEMRonda / Bomba / Kesihatan), or (c) you have staff access. Otherwise an "Access Denied" banner appears.
+**Access rules**: You can use a panel if you own the vehicle or you are on the matching team: KEMRonda, Bomba, or Kesihatan. Otherwise the game shows an access warning.
 
 The controls are shared across all six vehicles, so once you learn one you've learnt them all.
 
 ## Next steps
 
 - [Economy and XP](/lebuhraya/economy) - Fuel prices in context
-- [World and Map](/lebuhraya/map) - Where to find every station
-- [Teams and Careers](/lebuhraya/teams) - Vehicles unlocked by team tier
+- [World and map](/lebuhraya/map) - Where to find every station
+- [Teams and careers](/lebuhraya/teams) - Vehicles unlocked by team tier

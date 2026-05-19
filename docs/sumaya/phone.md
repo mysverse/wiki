@@ -19,7 +19,7 @@ When you join, respawn, or move through the main menu, Sumaya may show a loading
 
 ## Phone apps
 
-Sumaya's phone has **14 apps** plus the home screen. Some apps only appear when they are useful: Emergency999 appears after your character spawns, and MDT is for emergency-service teams.
+Sumaya has **14 app entries** plus the home screen. Some apps only show when they make sense: Emergency999 needs your character to be spawned, and MDT is for emergency-service teams.
 
 ### Settings
 
@@ -110,18 +110,18 @@ View your current quest chain progress:
 
 The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
-### Jelajah (Discovery Journal)
+### Jelajah (discovery journal)
 
 Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
 
-- A progress pill at the top - `<discovered> / <total> ditemui` ("found").
+- A progress pill at the top, such as "3 / 10 ditemui" ("found").
 - Filters: **Semua** (all), **Ditemui** (discovered), **Belum** (not yet).
-- A scrollable list of cards. Discovered POIs show a coloured category dot, the landmark name, and a short description. Locked POIs show as `???` with just the category visible.
+- A scrollable list of cards. Discovered POIs show a coloured category dot, the landmark name, and a short description. Locked POIs show as **???** with just the category visible.
 - Tap a card for the detail screen - full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
 
-When you visit a POI for the first time, the app surfaces a `Ditemui: <name>` toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
+When you visit a POI for the first time, the app shows a **Ditemui: name** toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
 
-POIs are still being rolled out. If a landmark does not unlock while you visit it, you are not doing anything wrong; try another landmark and check back after future updates.
+The current POI list includes **Menara Jam**, **Pasar Sumaya**, and **Pantai Sumaya**, but some landmark visits may not unlock yet. If that happens, try another landmark and check back after future updates.
 
 ### Emergency999
 
@@ -142,11 +142,11 @@ Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT i
 
 - **Calls tab** - active 999 calls. See who's calling, where, and why. Set a waypoint or mark a call as responded.
 - **Wanted tab** (POLIS only) - list of currently-wanted suspects with star levels and offence counts. Tap to set a waypoint.
-- **Plate checker** (POLIS only) - look up a number plate to see the registered owner and whether the vehicle is stolen.
+- **Plate checker** (POLIS only) - look up a licence plate to see the registered owner and whether the vehicle is stolen.
 
 See [Polis](/sumaya/polis) for more on the MDT.
 
-### Home Screen
+### Home screen
 
 The main phone home screen with the app grid. Not a separate app you launch.
 
@@ -208,14 +208,14 @@ If you die, switch teams, leave the job, or the objective disappears, the panel 
 
 ## Status widget (top-right)
 
-Below the minimap, the **StatusGui** widget shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
+Below the minimap, the **Status widget** shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
 
-- **Top row** - `Citizen <Level>` with a progress bar and `progress / max` numeric. Always visible.
-- **Bottom row** - your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows raw `progress / max`.
+- **Top row** - your citizen level, progress bar, and progress numbers. Always visible.
+- **Bottom row** - your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows progress numbers.
 
 The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks - it's automatic.
 
-## TopBar icons
+## Topbar icons
 
 Roblox's TopBar at the top-centre of the screen shows a row of small Sumaya icons. From left to right:
 
@@ -230,9 +230,9 @@ All four toggles persist for the session - they don't survive a server restart, 
 
 Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a message and hit Enter to send.
 
-Sumaya uses Roblox's `TextChatService`, so standard `/whisper <player>` and public chat all work.
+Sumaya uses standard Roblox chat, so whispering another player and public chat both work.
 
-### Public Services channel
+### Public services channel
 
 If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
 

@@ -2,223 +2,157 @@
 title: 常见问题
 description: Bandaraya 新玩家常见问题解答。
 lang: zh
-translated_from_hash: "ed23671b"
-translated_on: 2026-05-18
+translated_from_hash: 2551d877
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 常见问题
 
-新玩家常问的问题,快速解答。若想深入了解任何主题,请跟随链接。
-
----
+Bandaraya 常见问题的快速解答。
 
 ## 入门
 
-### 如何快速赚取 BR?
+### 如何快速赚取 BR？
 
-从 **Postal Service (POS)** 开始 - 无门槛,Level 1 每趟派送约 70 BR,Level 20 增至 260 BR。其他途径:
+从**邮政服务 (POS)** 开始。它稳定可靠，对普通平民队伍开放。若预订充足，出租车可以赚得不少，而拖车和驾驶公共巴士则需要群组权限。
 
-- **Taxi Driver**(gamepass 150 R$) - 若有订单,每分钟 BR 更快。
-- **巴士驾驶**(基于 group) - 若你喜欢固定路线工作,收入稳定。
-- **Towing**(基于 group) - 若你找到违规停放的车辆,每次夹车 500 BR。
+参见 [职业](/bandaraya/jobs)。
 
-使用 **HCC gamepass** 后,所有工作收入都会提高。
+### 如何成为警察？
 
-请参阅[工作](/bandaraya/jobs)。
+通过 MYSverse 社区渠道加入相关的 POLIS 群组，完成所需的申请或培训，然后在符合资格后从队伍菜单中选择 POLIS。
 
-### 如何成为警察?
+参见 [队伍](/bandaraya/teams#emergency-services)。
 
-在 Roblox 加入 **POLIS group 1182710 或 3048630**。任何军衔都可进入 POLIS 团队。大多数 group 有试用/培训流程 - 参加以晋升军衔。
+### CAG 是什么？我需要它吗？
 
-请参阅[团队](/bandaraya/teams#emergency-services)。
+**CAG** 是 Click and Go 交通卡。如果你经常乘坐巴士、使用 MRT/单轨铁路快速出行，或频繁驾车经过收费站，它就很实用。
 
-### CAG 是什么,我需要吗?
+- 卡价格：100 BR。
+- 巴士票价：5 BR。
+- MRT/单轨铁路折扣：30%，持月票则为 50%。
+- 收费站折扣：20%。
+- 月票：500 BR，有效期 30 天。
 
-**CAG**(Click And Go)是 Bandaraya 的储值交通卡 - 游戏内的 TapNGo。在售卖亭以 100 BR 购买,按需充值。如果你需要,条件是:
+参见 [出行方式](/bandaraya/getting-around)。
 
-- 搭巴士(自动 5 BR 车资)
-- 使用 MRT / Monorail 快速通行(持通行证 30% / 50% 折扣)
-- 通过 TapNGo 高速公路闸口(20% 折扣)
+### 为什么重置功能无效？
 
-若你不是常规公交用户,可跳过。若是,**月票(500 BR)** 很快就能回本。
+在血量等于或低于 75 HP 时，重置功能被禁用，以防止 RTAA。请等待医疗救援或继续角色扮演。
 
-请参阅[出行](/bandaraya/getting-around)。
-
-### 为何 reset 按钮失效?
-
-它在 **75 HP 或以下时被禁用**,以防止 RTAA(Reset To Avoid Arrest)。若你受伤,不能通过 reset 逃脱。等待医护、奋战,或任由逮捕发生。
-
-请参阅[逮捕与法律](/bandaraya/arrest-and-law#rtaa)。
-
----
+参见 [逮捕与法律](/bandaraya/arrest-and-law)。
 
 ## 金钱与商店
 
-### 如何购车?
+### 如何购买汽车？
 
-前往 **Classic Car Dealer**。浏览、选择型号、选择颜色、购买(永久)或租用(临时)。永久购买每 30 秒自动保存,跨 server 存续。
+前往 **Classic Car Dealer**，选择一辆车，选择购买或租用，如有颜色选项请选择颜色。购买的车辆会保存到你的账户。
 
-请参阅[车辆](/bandaraya/vehicles#dealership)。
+参见 [车辆](/bandaraya/vehicles#dealership-classic-car-dealer)。
 
-### 如何取得枪支?
+### 如何获得枪支？
 
-你需要下列其一:
+你需要以下其中之一：
 
-- **Firearms Licence gamepass**(1,250 R$) → 解锁 Ammulaysia。
-- 发放武器的团队(POLIS、KPTD、Moderation、Developers、Yang di-Pertuan Persekutuan、MAF 军械库权限)。
-- **Illegal Dealer (Hacker)** 可获取黑市物品(5 分钟冷却)。
+- Ammulaysia 的枪械执照 gamepass。
+- 一个配发武器的队伍。
+- 通过非法经销商获得黑市渠道。
 
-注意:Ammulaysia 的购买之间也有 5 分钟冷却。
+枪支购买有冷却时间，请勿频繁点击商店。
 
-请参阅[战斗与健康](/bandaraya/combat-and-health#weapons)和 [Gamepass](/bandaraya/gamepasses)。
+参见 [战斗与健康](/bandaraya/combat-and-health#weapons)。
 
-### 在哪里加油?
+### 在哪里加油？
 
-- **汽油 / 柴油**:Radtrol Gas Station @ Jalan Pinang。
-- **电动**:Community Retail 有 2 个充电站。
+- 汽油/柴油：**Jalan Pinang 的 Radtrol 加油站**。
+- 电动充电：**Community Retail**。
 
-把车开到油泵旁,下车,与油泵互动,付 BR。
+参见 [车辆](/bandaraya/vehicles#fuel)。
 
-请参阅[车辆](/bandaraya/vehicles#fuel)。
+### 我买了一辆车，但它消失了。它在哪里？
 
-### 我买了车但不见了,在哪?
-
-购买的车每 30 秒自动保存到你的账号。在 Classic Car Dealer 重生,并从 owned-vehicles 菜单重新生成车辆。你的颜色定制会保留。
-
----
+返回正确的经销商或生成点，从你拥有的车辆中重新生成它。从经销商购买的车辆已被保存。
 
 ## 逮捕与规则
 
-### 如何从牢里出来?
+### 如何出狱？
 
-等待 **3 分钟释放计时器**。之后,你可以再次选择团队。
+等待 3 分钟的计时器。释放后，你可以重新选择队伍。
 
-若你认为被错误逮捕,通过 MYSverse 社群 server 上诉(见[规则](/bandaraya/rules#appeals))。
+如果你认为需要工作人员审核，请通过社区服务器提出申诉。
 
-### 我在被拘留时离开,现在被自动逮捕。为什么?
+### 我在被拘留时离开，现在被逮捕了。为什么？
 
-那是 **LTAA(Leave To Avoid Arrest)** 的执行。3 分钟计时器跨 server 存续 - 你不能通过愤而离场逃脱逮捕。
+这是 LTAA 执法。在被拘留时离开或被逮捕，返回游戏时可能触发监禁计时器。
 
-请参阅[逮捕与法律](/bandaraya/arrest-and-law#ltaa)。
+### 我可以抢劫 Hazbank 吗？
 
-### 我可以抢银行吗?
+可以，Hazbank 是抢劫目标，但抢劫需要服务器内至少 10 名玩家。预期会有警察回应和可能的逮捕。公共服务玩家在抢劫期间叛变是严重违规。
 
-可以 - **Hazbank** 是游戏内的抢劫目标。但请注意:
+### BOLO 是什么？
 
-- **server 至少需 10 名玩家**在线,抢劫才能开始。
-- 你必须破解金库(在 Decoder 设备上的限时小互动)。
-- 进入后,你站在随机一个收钱点 - 你的角色在倒数期间被锚定(所以你不能拿了就跑)。
-- POLIS 可在抢劫途中 **手动锁死金库** - 卷帘落下,你被困住。
-- 抢劫开始时,会向所有 POLIS / 现役出勤人员发出警报。
-- 预料会被捕。OCG(Organised Crime Group)会在有组织的活动中进行;独自尝试的平民通常会被抓。
-- 若你身为公共服务团队成员却背叛 = 严重违规。
+**Be On the LookOut（保持警戒）。** 这是通过 MDT 平板电脑管理的警察通缉令。
 
-### BOLO 是什么?
+### 平民可以驾驶消防车吗？
 
-**Be On the LookOut**(留意通缉)。一种警察警报,标记嫌犯,使所有值勤警员获得通知(声音、徽章、提示)。请参阅 [Tablet](/bandaraya/tablet) 了解 POLIS 如何通过 MDT 发出 BOLO。
+不可以。BOMBA 的车辆仅限特定队伍使用。大多数紧急、军事和职业车辆也是如此。
 
-### 平民能开消防车吗?
+## 队伍
 
-**不能**。BOMBA 车辆从 BOMBA 团队专属的生成器生成。POLIS、MAF、KKM、SJAM 等同理。
+### MyTransit 和巴士服务有什么区别？
 
-若你在 BOMBA,可驾驶全部车队。请参阅[紧急服务](/bandaraya/emergency-services#bomba)。
+它们是不同的交通运营商，拥有不同的群组权限和车队。两者都可以支持巴士角色扮演。
 
----
+### 我在 Visitors 队伍，但想加入 POLIS。我该怎么做？
 
-## 团队
+加入相关的 POLIS 群组，完成所有要求，然后在符合资格后重新打开队伍菜单。
 
-### MyTransit 和 Bus Services 有何不同?
+### 队伍菜单中的一个队伍消失了。这是 bug 吗？
 
-两者都经营巴士,但是不同的 group:
+通常不是。部分队伍只在玩家使用时创建，无人时会被清除。
 
-- **MyTransit**(group 5032738、10394166) - 游戏内主要的巴士运营商。
-- **Bus Services**(group 12143635、32663011、11122768、33328642) - SPAD 注册的私营巴士运营商。
+## 游戏玩法
 
-他们以不同公司身份 roleplay。车队不同。请参阅[团队](/bandaraya/teams#transport)和[工作](/bandaraya/jobs#bus-driving)。
+### 我因为作弊被踢出，但我没有作弊。我该怎么做？
 
-### 我在 Visitors 但想加入 POLIS,怎么做?
+截取踢出消息的截图，并通过社区服务器联系工作人员。如果某个操作触发踢出，请勿反复尝试。
 
-加入 POLIS Roblox group(1182710 或 3048630),获接受(可能需申请/培训),然后在游戏内打开团队菜单选择 POLIS。你需切换团队并重生。
+### 如何获得拳击工具？
 
-请参阅[团队](/bandaraya/teams)。
+拳击是 25 级的任务奖励。
 
-### 某团队从团队菜单中消失。这是 bug 吗?
+### 当前游戏版本是什么？
 
-不是。没有玩家的团队会 **自动从列表移除** 以保持菜单整洁。一旦有人加入,他们便会重新出现。唯一例外是 Visitors、Malaysians 和 Arrested(始终存在)。
+**Bandaraya v3.15.9。** 请查看游戏内的更新日志了解最新更新。
 
----
+### 为什么我的车辆冒烟或受损？
 
-## 技术
+碰撞损坏会影响外观和功能。需要时请重新生成或修理车辆。
 
-### 我因作弊被踢但其实没有。我该怎么做?
+### 可以在手机上游玩吗？
 
-反作弊已调整以允许真实战斗,但误判仍会发生。查看 kick 消息 - 它含有标签:
+可以，但某些战斗、驾驶和需要大量文字输入的操作在电脑上更为方便。
 
-- **RL** - rate limiting
-- **MV** - movement check
-- **WM** - weapon monitor
+### 可以和朋友一起游玩吗？
 
-将该标签提交给社群版主。最近的更新已特别修补了合法战斗、乘坐电梯、搜索以及 CCTV 操作期间的反作弊误判。
+可以。加入同一服务器，为你们的场景选择兼容的角色。
 
-请参阅[规则](/bandaraya/rules#tips--gotchas)。
+### 游戏中会下雨吗？
 
-### 如何取得 Punch 工具?
+雨可由工作人员为营造气氛或举办活动而开启。它不是固定的天气循环。
 
-这是 **Level 25** 的任务奖励。继续完成角色扮演活动，直到任务奖励解锁。
+### 我不懂马来语。我会迷失吗？
 
-### 游戏版本是什么?
+不会。[词汇表](/bandaraya/glossary) 解释了 POLIS、BOMBA、KKM、LTAA、RTAA、CAG 和 Saman 等常用术语。
 
-**v3.15.5**(截至 2026 年 4 月)。请参阅游戏内变更记录以查看完整版本历史。
+### 我的 Roblox 账户需要多少天？
 
-### 为何我的车在碰撞后发光怪异?
+至少 **60 天**。
 
-碰撞损伤会在视觉上显示。严重碰撞会产生烟雾和磨损。reset 车辆(重新生成)以恢复满血。
-
-请参阅[车辆](/bandaraya/vehicles#vehicle-health--crash-damage)。
-
-### 我受伤时会发生什么?
-
-Bandaraya 不只追踪普通生命条：流血、疼痛和医疗处理都很重要。如果你受了重伤，请呼叫支援，让医疗玩家治疗你，并避免直接 reset 退出场景。请参阅[战斗与健康](/bandaraya/combat-and-health)。
-
-### 我的出租车"Start"按钮出错了。是我的错吗?
-
-不是 - 那是 R15 rig 的一个 bug,已在 v3.15.5 修复。请重试。
-
----
-
-## 边缘情况
-
-### 我可以在手机上玩吗?
-
-可以,但有些注意事项:
-
-- 车辆生成器具备手机友好 UI。
-- 支持触控输入。
-- 某些互动(战斗、长文本输入)在手机上较困难;最近的更新修复了多个手机 bug(电话输入字段无响应)。
-- 通过点击领取巴士车资运作正常。
-
-### 我可以和朋友一起玩吗?
-
-可以 - 邀请他们到同一个 server。团队系统允许混合团队组队(你可在同一 server 有 POLIS 和 BOMBA)。OCG 和 MAF 组队也很常见。
-
-### 会下雨吗?
-
-会，但雨是活动控制的，不是持续天气循环。下雨时，粒子会在你周围落下，天空转阴，并播放雨声；否则天气晴朗。雨关闭时，你的游戏性能不受影响。
-
-### 我不会马来语。我会迷路吗?
-
-你会认得大多数事物。我们的[词汇表](/bandaraya/glossary)涵盖每个缩写(POLIS、BOMBA、KKM、LTAA、RTAA、CAG、MRT 等)。常见的马来语词汇:**Polis**(警察)、**Saman**(传票/罚单)、**Bomba**(消防)、**Kesihatan**(健康)。
-
-### 我需要多大年龄?
-
-你需要至少 **60 天的 Roblox 账号年龄** 才能进入 Bandaraya。这是 bot / 新账号的缓解措施(在 v3.9.0 设定)。
-
----
-
-## 另请参阅
+## 另请参见
 
 - [欢迎](/bandaraya/get-started)
-- [入门](/bandaraya/get-started)
+- [入门指南](/bandaraya/get-started)
 - [词汇表](/bandaraya/glossary)
 - [规则](/bandaraya/rules)
-- [README](/) - 完整目录
+- [README](/)

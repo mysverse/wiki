@@ -1,11 +1,11 @@
 ---
-title: "Passes and Boosts"
+title: "Passes and boosts"
 description: "Gamepasses, XP boosts, and Premium benefits in Lebuhraya."
 ---
 
 # Passes and boosts
 
-This page rounds up the ways you can accelerate your Lebuhraya progress - gamepasses, Roblox Premium, Season Passes, and special events.
+This page rounds up the ways you can accelerate your Lebuhraya progress: gamepasses, Roblox Premium, season passes, and special events.
 
 ## Team gamepasses
 
@@ -34,7 +34,7 @@ Unlocks the paint and body customisation menu at **Gravstone Workshop** in Banda
 
 ## Other gamepass perks
 
-Smaller Robux offers may exist for:
+Smaller gamepasses and Robux offers may exist for:
 
 - Special vehicles or vehicle categories
 - Cosmetic items
@@ -47,20 +47,20 @@ Check the in-game Store for the current list.
 
 Roblox Premium subscribers get a permanent **+25% XP** in Lebuhraya, automatically - no activation needed. This stacks with every other boost. If you already subscribe to Roblox Premium, you're effectively always at ×1.25.
 
-## Season Pass
+## Season pass
 
-Lebuhraya runs **Season Passes** - time-limited progression tracks with tiered rewards.
+Lebuhraya runs **season passes**: time-limited progression tracks with tiered rewards.
 
-### How Season Passes work
+### How season passes work
 
 - Each season lasts a set period (typically 5-6 weeks).
 - You earn **Season XP** by completing missions - short objective challenges linked to existing gameplay activities.
 - Every tier you clear grants a **reward** - typically a cosmetic item, token, or (historically) a shortcut to unlocking a team.
-- A **Premium Track** (purchased with a gamepass) unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
+- A **Premium Track** unlocks a parallel reward path for every tier. Free players get the free rewards; Premium holders get both free and premium rewards.
 
-### Current season: Season 2 "Lebuhraya"
+### Most recent season: Season 2 "Lebuhraya"
 
-Running **March 20 – April 30, 2026** (UTC+8). 13 tiers. Rewards focus on XP drops, 2× XP and Season Pass Boost tokens, badges (like "Season 2 Pioneer"), and unlockable paints (e.g. "Copper Kampung").
+Season 2 ran from **20 March 2026 to 30 April 2026** (MYT) and had **20 tiers**. Rewards focused on XP drops, 2× XP and season pass boost tokens, Team Access tokens, badges such as **Season 2 Pioneer**, titles, and unlockable paints such as **Copper Kampung**.
 
 ### Season 1 legacy unlocks
 
@@ -70,7 +70,7 @@ The previous Season 1 pass unlocked three teams early for players who completed 
 - **Logistics** (normally Level 75)
 - **Lumberjack** (normally Level 150)
 
-Players who earned these unlocks during Season 1 keep access permanently. Season 2 rewards are different - check the in-game Season menu for the current tier list.
+Players who earned these unlocks during Season 1 keep access permanently. New seasons use different rewards, so check the in-game season menu when a season is active.
 
 ## Tokens
 
@@ -82,11 +82,11 @@ Most notable:
 - **Team Access Pass** - temporary access to a gamepass-locked team
 - **2× Season Pass Boost** - doubles Season Pass XP gains
 
-## Double XP & Free Trial events
+## Double XP and free trial events
 
 Periodically, the game runs scheduled **2X XP events** tied to Malaysian cultural holidays and MYSverse milestones. While an event is active, every player's base XP multiplier becomes ×2 - on top of Premium, convoy, gamepass, and token boosts.
 
-Every 2X event also activates a **Gamepass Trial**: you get **free temporary access to the premium gamepass teams** (Taxi Driver, KEMRonda, Bomba, Polis Trafik, Undercover Police) for the event's duration. The game shows a banner: *"Free Trial Started - Enjoy a free taste test of our premium gamepass teams!"* and *"Free Trial Ended"* when it wraps up.
+Every 2X event also activates a **Gamepass Trial**: you get **free temporary access to the premium gamepass teams** for the event's duration. The game shows a banner when the trial starts and ends.
 
 Past events have included:
 
@@ -102,7 +102,7 @@ Past events have included:
 
 Schedules follow the actual Malaysian public-holiday calendar, so expect roughly one event every 1–2 months. Watch MYSverse's community channels - the Rafahia App, Discord, or in-game banner notifications - for announcements.
 
-## How stacking works
+## The maths of stacking
 
 Here's a maxed-out XP scenario:
 
@@ -135,14 +135,14 @@ Five of the seven weekly modules are currently active; two are disabled for this
 - **Endurance Driver** (traveller)
 - **Successful Fisherman** (fishing)
 - **Konvoi Mingguan**
-- **Quiz Master (Advanced)** - quiz_adv
+- **Quiz Master (Advanced)**
 - **Lap Time Legend** - laptime
 - *Quiz Master (basic) - currently disabled*
 - *Lap Time Legend (Advanced) - currently disabled*
 
-### Discovery / achievements (one-time, permanent)
+### Discovery achievements (one-time, permanent)
 
-34 one-time goals across fundamentals and milestones. Highlights:
+35 one-time goals cover fundamentals and milestones. Highlights:
 
 - **First Drive** - your first seat-in-vehicle moment
 - **Jalan Jalan** - roam the map
@@ -154,7 +154,7 @@ Five of the seven weekly modules are currently active; two are disabled for this
 - **Pemandu Teksi** - complete taxi missions
 - **Pemandu Lagenda** - the driving-distance endgame
 
-Plus 16 achievement badges (prefixed `ach_`): road-legend tier milestones, marathon driver, master angler, speed demon, pembalap (racer), convoy king, jack-of-all-trades, warga sejati (true citizen), and more.
+Plus achievement badges such as road-legend tier milestones, marathon driver, master angler, speed demon, Pembalap, convoy king, Jack of All Trades, Warga Sejati, and more.
 
 ## Unlockable rewards
 
@@ -177,9 +177,9 @@ Four real Roblox badges auto-award when you pass mileage milestones:
 | 500,000 studs | 500k Badge |
 | 1,000,000 studs | 1m Badge |
 
-Badges are awarded automatically as your distance counter increases - you don't need to claim them.
+Badges are awarded automatically as your distance counter increments. You do not need to claim them.
 
-Race-win milestones are also tracked and may receive badges in future updates.
+Race-win milestones such as 1, 10, 50, and 100 wins are also tracked for future rewards.
 
 ## Instant-level Robux purchases
 

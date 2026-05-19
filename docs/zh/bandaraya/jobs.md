@@ -2,8 +2,8 @@
 title: 工作
 description: Bandaraya 的各种工作 - 邮政服务、出租车、拖车、巴士司机以及机构岗位 - 包括薪资和级别说明。
 lang: zh
-translated_from_hash: "d37fa150"
-translated_on: 2026-05-18
+translated_from_hash: 1a06c7b3
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 工作

@@ -1,15 +1,15 @@
 ---
-title: "Getting Started"
+title: "Getting started"
 description: "Your first 10 minutes in Lebuhraya - spawn a vehicle, earn BR, level up, and hit the highway."
 ---
 
 # Getting started
 
-Welcome to Lebuhraya. This page walks you through your first session - from joining the server to earning your first Ringgit (BR) and picking up your first job.
+Welcome to Lebuhraya. This page walks you through your first session, from joining the server to earning your first XP and picking up your first job.
 
 ## What is Lebuhraya?
 
-Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs - from food delivery to firefighting - to earn Ringgit and level up. Buy a house, join a convoy with friends, or just cruise.
+Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs, from food delivery to firefighting, to earn XP and build your career. Buy a house, join a convoy with friends, or just cruise.
 
 The name "Lebuhraya" means "highway" in Malay.
 
@@ -17,17 +17,17 @@ The name "Lebuhraya" means "highway" in Malay.
 
 When you join for the first time you spawn on the **Visitors** team with:
 
-- **1000 BR** (Ringgit) starting balance - **tracked but not yet used**. The currency system is planned, not live (see [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) for details). For now, everything is free.
+- **1000 BR** (Ringgit) starting balance. BR is tracked, but most everyday costs are not charged yet, so shops, fuel, repairs, and furniture are currently free.
 - **Level 1**, 0 XP
 - No vehicle (you'll spawn one from a world vehicle spawner)
 
-Look around the HUD:
+Look around the screen:
 
-- **Top-left**: your current balance, level, and XP progress bar
+- **Top-left**: your level and XP progress
 - **Top-right**: the Phone icon (tap to open apps and 999 emergency)
 - **Bottom**: the Settings and Main Menu icons
 
-Open the **Main Menu** early. It is the hub for almost everything:
+Open the **main menu** early. It is the hub for almost everything:
 
 | Tab | Use it for |
 |---|---|
@@ -53,7 +53,7 @@ Starter-friendly choices include compact cars like the **Protan Waja**, **Perosa
 
 ## Driving and earning your first XP
 
-You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. That's enough to pass through a level 1 → 2 boost in about 20 minutes of casual cruising. There's no penalty for slow driving - keep the vehicle moving and the XP ticks in.
+You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. Keep the vehicle moving and the XP ticks in.
 
 Want to go faster?
 
@@ -77,7 +77,7 @@ Here's the free-and-early progression:
 | Level 50 | Post Office |
 | Level 75 | Logistics (Trucking) |
 
-See [Teams and Careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
+See [Teams and careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
 
 ### A good first 30-minute plan
 
@@ -93,11 +93,11 @@ Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by
 
 ## A note about test servers
 
-If you join a **Studio test server** or a private server, you'll see a warning that "XP will be reset to 0." This is normal - test servers don't save progress so developers can test fresh. On the live game, your XP and BR are saved automatically when you leave.
+If you join a **test server** or a private server, you may see a warning that XP will be reset to 0. This is normal for testing and private sessions. On the live public game, your XP and BR are saved automatically when you leave.
 
 ## Next steps
 
 - Read [Controls](/lebuhraya/controls) for the full input reference
 - Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack
 - Browse [Jobs](/lebuhraya/jobs) to plan which team to aim for
-- Use [FAQ and Tips](/lebuhraya/faq) if a menu, spawner, or team requirement is confusing
+- Use [FAQ and tips](/lebuhraya/faq) if a menu, spawner, or team requirement is confusing

@@ -4,107 +4,105 @@ description: >-
   10 minit pertama anda di Lebuhraya - hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: "6b03224d"
-translated_on: 2026-05-18
+translated_from_hash: e52aa1bb
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Mula
 
-Selamat datang ke Lebuhraya. Halaman ini memandu anda melalui sesi pertama anda - daripada menyertai server sehinggalah memperoleh Ringgit (BR) pertama anda dan mengambil kerja pertama.
+Selamat datang ke Lebuhraya. Halaman ini membimbing anda melalui sesi pertama, daripada menyertai pelayan hingga mendapat XP pertama dan memilih kerja pertama anda.
 
-## Apa itu Lebuhraya?
+## Apakah Lebuhraya?
 
-Lebuhraya ialah pengalaman main peranan pemanduan yang berlatarbelakangkan lebuh raya Malaysia. Pandu kereta, motosikal, lori, dan bas antara tiga kawasan utama. Ambil kerja - daripada penghantaran makanan sehinggalah memadam kebakaran - untuk memperoleh Ringgit dan naik taraf. Beli rumah, sertai konvoi bersama rakan-rakan, atau sekadar berjalan-jalan.
+Lebuhraya ialah pengalaman main peranan memandu yang berlatar belakangkan lebuh raya Malaysia. Pandu kereta, motosikal, trak, dan bas antara tiga wilayah utama. Ambil kerjaya, daripada menghantar makanan hingga memadam kebakaran, untuk mendapat XP dan membina karier anda. Beli rumah, sertai konvoi bersama rakan, atau sekadar bersiar-siar.
 
 Nama "Lebuhraya" bermaksud "highway" dalam Bahasa Melayu.
 
 ## Minit pertama anda
 
-Apabila anda menyertai buat kali pertama, anda akan muncul dalam pasukan **Visitors** dengan:
+Apabila anda menyertai buat pertama kali, anda muncul dalam pasukan **Visitors** dengan:
 
-- Baki permulaan **1000 BR** (Ringgit) - **dijejak tetapi belum digunakan**. Sistem mata wang ini dirancang, belum aktif (lihat [Economy and XP](/lebuhraya/economy#ringgit-br--tracked-but-not-yet-live) untuk butiran). Buat masa ini, semuanya percuma.
-- **Level 1**, 0 XP
-- Tiada kenderaan (anda akan hasilkan satu dari spawner kenderaan dunia)
+- Baki permulaan **1000 BR** (Ringgit). BR direkodkan, tetapi kebanyakan kos harian belum dicaj lagi, jadi kedai, bahan api, baikan, dan perabot kini percuma.
+- **Tingkat 1**, 0 XP
+- Tiada kenderaan (anda akan hasilkan satu daripada spawner kenderaan di peta)
 
-Lihat sekeliling HUD:
+Perhatikan skrin anda:
 
-- **Kiri atas**: baki semasa, tahap, dan bar kemajuan XP anda
-- **Kanan atas**: ikon Telefon (ketik untuk buka apl dan kecemasan 999)
-- **Bawah**: ikon Tetapan dan Menu Utama
+- **Kiri atas**: Tingkat dan kemajuan XP anda
+- **Kanan atas**: Ikon Telefon (ketuk untuk membuka aplikasi dan kecemasan 999)
+- **Bawah**: Ikon Tetapan dan Menu Utama
 
-## Main Menu
+Buka **menu utama** awal-awal. Ia adalah pusat bagi hampir semua perkara:
 
-Buka **Main Menu** awal-awal. Ia hub untuk hampir semuanya:
-
-| Tab | Kegunaan |
+| Tab | Kegunaannya |
 |---|---|
-| **Home** | Profil, pengumuman, tindakan quick play/spawn |
-| **Teams** | Sertai pasukan atau lihat syarat unlock |
+| **Home** | Profil, pengumuman, tindakan main/spawn pantas |
+| **Teams** | Sertai pasukan atau semak syarat buka kunci |
 | **Shop** | Gamepass, produk, token, dan kod promo |
-| **Activity** | Misi, cabaran, dan kemajuan season pass |
-| **More** | Rank kerjaya, tier kerja, inventori token, credits, races, help |
+| **Activity** | Misi, cabaran, dan kemajuan pas musim |
+| **More** | Pangkat kerjaya, peringkat kerja, inventori token, kredit, lumba, bantuan |
 
 ## Menghasilkan kenderaan pertama anda
 
-Kenderaan spawn dari pad spawner kenderaan fizikal di sekitar peta. Ikon topbar **MyPod** ialah pemain muzik, bukan spawner kenderaan.
+Kenderaan dihasilkan daripada pad spawner kenderaan fizikal di sekitar peta. Ikon bar atas **MyPod** adalah pemain muzik, bukan spawner kenderaan.
 
-1. Berjalan ke penanda spawner kenderaan hijau atau pad spawner pasukan.
+1. Pergi ke penanda spawner kenderaan hijau atau pad spawner pasukan.
 2. Semak senarai kenderaan. Kenderaan permulaan percuma tersedia untuk semua orang.
-3. Pilih kenderaan. Panel info menunjukkan imej, penerangan, status kunci, dan butang **Spawn**.
-4. Klik **Spawn**, kemudian pilih pad tersedia jika spawner meminta.
+3. Pilih kenderaan. Panel maklumat menunjukkan imej, keterangan, status kunci, dan butang **Spawn**.
+4. Klik **Spawn**, kemudian pilih pad yang tersedia jika spawner meminta.
 5. Kenderaan anda muncul di pad yang dipilih dan didaftarkan kepada anda.
 
-Berjalan ke pintu pemandu dan tekan **F** (papan kekunci), **X** (gamepad), atau ketik butang **Drive** (mudah alih) untuk duduk.
+Hampiri pintu pemandu dan tekan **F** (papan kekunci), **X** (gamepad), atau ketuk butang **Drive** (mudah alih) untuk duduk.
 
-Pilihan mesra permulaan termasuk kereta kompak seperti **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, dan **Perosatu Bezza**. Kad terkunci menunjukkan level atau career tier yang diperlukan.
+Pilihan mesra pemula termasuk kereta kompak seperti **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, dan **Perosatu Bezza**. Kad berkunci menunjukkan Tingkat atau peringkat kerjaya yang diperlukan.
 
-## Memandu dan memperoleh XP pertama anda
+## Memandu dan mendapat XP pertama anda
 
-Anda memperoleh XP hanya dengan memandu. Setiap **1500 stud** yang anda tempuh dalam tempat duduk pemandu memberikan anda **50 XP**. Itu sudah cukup untuk melepasi peningkatan level 1 → 2 dalam kira-kira 20 minit pemanduan santai. Tiada penalti untuk pemanduan perlahan - pastikan kenderaan terus bergerak dan XP akan terus bertambah.
+Anda mendapat XP hanya dengan memandu. Setiap **1500 stud** yang anda lalui di tempat duduk pemandu memberikan anda **50 XP**. Terus gerakkan kenderaan dan XP akan bertambah.
 
-Mahu lebih pantas?
+Mahu lebih cepat?
 
-- **Buat kerja** - setiap tindakan yang siap memberikan XP bonus
-- **Memandu bersama rakan** dalam konvoi - sehingga +50% bonus XP
+- **Buat kerja** - setiap tindakan yang selesai memberikan XP bonus
+- **Pandu bersama rakan** dalam konvoi - sehingga +50% bonus XP
 - **Aktifkan token XP Boost** daripada inventori anda untuk 2× XP
-- **Acara hujung minggu** sekali-sekala menggandakan XP semua orang
+- **Acara hujung minggu** kadang-kadang menggandakan XP semua orang
 
 ## Memilih kerja pertama anda
 
-Anda boleh menyertai **Visitors** dan **Bus Driver** serta-merta. Kebanyakan kerja lain dibuka melalui level, gamepass, atau keahlian kumpulan. Milestone level pertama anda ialah **Level 10**, yang membuka pasukan **Food Delivery**.
+Anda boleh terus menyertai **Visitors** dan **Bus Driver**. Kebanyakan kerja lain dibuka kunci mengikut Tingkat, gamepass, atau keahlian kumpulan. Pencapaian Tingkat pertama anda ialah **Tingkat 10**, yang membuka kunci pasukan **Food Delivery**.
 
-Berikut ialah perkembangan percuma-dan-awal:
+Berikut adalah perkembangan awal percuma:
 
-| Buka | Pasukan / Ciri |
+| Buka kunci | Pasukan / Ciri |
 |---|---|
 | Mula | Bus Driver, Visitors |
 | Ahli kumpulan (1143446) | Pasukan Malaysians (Fishing, Checkout) |
-| Level 10 | Food Delivery |
-| Level 25 | Waste Disposal |
-| Level 50 | Post Office |
-| Level 75 | Logistics (Trucking) |
+| Tingkat 10 | Food Delivery |
+| Tingkat 25 | Waste Disposal |
+| Tingkat 50 | Post Office |
+| Tingkat 75 | Logistics (Trucking) |
 
-Lihat [Teams and Careers](/lebuhraya/teams) untuk senarai penuh dan [Jobs](/lebuhraya/jobs) untuk memahami apa yang setiap satu lakukan.
+Lihat [Pasukan dan kerjaya](/lebuhraya/teams) untuk senarai penuh dan [Kerjaya](/lebuhraya/jobs) untuk mengetahui apa yang setiap satu lakukan.
 
 ### Pelan 30 minit pertama yang baik
 
-1. Spawn kereta permulaan dan pandu loop bersih antara Bandar Seri Putra dan lebuh raya.
-2. Buka GPS Phone dan tetapkan waypoint ke stesen minyak, zon pembaikan, atau race track supaya anda belajar rangkaian jalan.
-3. Sertai konvoi jika rakan online; bonus membantu walaupun sebelum anda unlock kerja.
-4. Apabila anda mencapai Level 10, tukar ke **Food Delivery** dan mula buat loop penghantaran pendek.
-5. Jika anda dalam kumpulan MYSverse, cuba **Malaysians** untuk Fishing atau Checkout semasa anda level.
+1. Hasilkan kereta permulaan dan pandu satu pusingan bersih antara Bandar Seri Putra dan lebuh raya.
+2. Buka GPS Telefon dan tetapkan titik arah ke stesen petrol, zon baikan, atau litar lumba supaya anda mengenal rangkaian jalan.
+3. Sertai konvoi jika rakan-rakan ada dalam talian; bonus membantu walaupun sebelum anda membuka kunci kerja.
+4. Apabila anda mencapai Tingkat 10, tukar ke **Food Delivery** dan mulakan pusingan penghantaran singkat.
+5. Jika anda dalam kumpulan MYSverse, cuba **Malaysians** untuk Fishing atau Checkout sambil anda naik Tingkat.
 
-## Apa yang berlaku apabila saya berlanggar?
+## Apa yang berlaku apabila saya terhempas?
 
-Kenderaan mengalami kerosakan apabila anda melanggar sesuatu. Kenderaan yang rosak teruk boleh ditunda oleh pemain **KEMRonda**, dibaiki di salah satu zon pembaikan peta, atau ditampal dengan Toolkit. **Gravstone Workshop** ialah untuk penyesuaian cat/badan, bukan pembaikan. Jika anda boleh sampai ke spawner kenderaan, spawn kenderaan ganti akan membersihkan kenderaan milik anda yang sebelumnya.
+Kenderaan mengambil kerosakan apabila anda melanggar sesuatu. Kenderaan yang rosak teruk boleh ditunda oleh pemain **KEMRonda**, dibaiki di salah satu zon baikan di peta, atau ditampal dengan Toolkit. **Gravstone Workshop** adalah untuk penyesuaian cat/badan, bukan baikan. Jika anda boleh sampai ke spawner kenderaan, menghasilkan kenderaan gantian akan memadam kenderaan yang dimiliki sebelumnya.
 
-## Nota tentang server ujian
+## Nota tentang pelayan ujian
 
-Jika anda menyertai **Studio test server** atau server persendirian, anda akan melihat amaran bahawa "XP will be reset to 0." Ini adalah normal - server ujian tidak menyimpan kemajuan supaya pembangun boleh menguji dengan fresh. Pada permainan langsung, XP dan BR anda disimpan secara automatik apabila anda keluar.
+Jika anda menyertai **pelayan ujian** atau pelayan peribadi, anda mungkin melihat amaran bahawa XP akan diset semula kepada 0. Ini adalah perkara biasa untuk sesi ujian dan peribadi. Pada permainan awam langsung, XP dan BR anda disimpan secara automatik apabila anda keluar.
 
 ## Langkah seterusnya
 
-- Baca [Controls](/lebuhraya/controls) untuk rujukan input penuh
-- Semak [Economy and XP](/lebuhraya/economy) untuk memahami susunan pendarab
-- Semak [Jobs](/lebuhraya/jobs) untuk merancang pasukan mana yang hendak disasarkan
-- Gunakan [Soalan Lazim & Petua](/lebuhraya/faq) jika menu, spawner, atau syarat pasukan mengelirukan
+- Baca [Kawalan](/lebuhraya/controls) untuk rujukan input penuh
+- Semak [Ekonomi dan XP](/lebuhraya/economy) untuk memahami tumpukan pengganda
+- Layari [Kerjaya](/lebuhraya/jobs) untuk merancang pasukan yang hendak disasarkan
+- Gunakan [Soalan lazim dan petua](/lebuhraya/faq) jika menu, spawner, atau syarat pasukan mengelirukan

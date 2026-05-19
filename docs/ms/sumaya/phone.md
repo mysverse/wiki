@@ -2,273 +2,273 @@
 title: Telefon & UI
 description: '12 aplikasi telefon, HUD, dan peta mini di Sumaya.'
 lang: ms
-translated_from_hash: "388e3d0a"
-translated_on: 2026-05-18
+translated_from_hash: d2f75b49
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Telefon & UI
 
-Telefon anda ialah hab untuk hampir segala-galanya di Sumaya: kerja, quest, panggilan kecemasan, tetapan, dan banyak lagi. Halaman ini merangkumi setiap aplikasi, serta selebihnya HUD dalam permainan (peta mini, kad tugasan, sembang).
+Your phone is your hub for almost everything in Sumaya: jobs, quests, emergency calls, settings, and more. This page covers every app, plus the rest of the in-game HUD (minimap, task card, chat).
 
-## Membuka telefon
+## Opening the phone
 
-Ketik ikon telefon pada skrin anda. Telefon akan naik ke atas dan memaparkan grid aplikasi. Anda boleh membukanya sambil berjalan dan memandu.
+Tap the phone icon on your screen. The phone slides up and shows a grid of apps. You can have it open while walking and driving.
 
-Untuk menutupnya, ketik di luar telefon atau gunakan butang tutup.
+To close it, tap outside the phone or use the close button.
 
-## Lapisan pemuatan dan peralihan
+## Loading and transition overlays
 
-Apabila anda menyertai, respawn, atau bergerak melalui menu utama, Sumaya mungkin menunjukkan lapisan pemuatan dengan logo dan fakta Malaysia yang bertukar-tukar. Ini ialah UI peralihan biasa; ia akan pudar apabila menu atau keadaan watak sudah sedia.
+When you join, respawn, or move through the main menu, Sumaya may show a loading overlay with the logo and rotating Malaysia facts. This is normal transition UI; it fades when the menu or character state is ready.
 
-## Aplikasi telefon
+## Phone apps
 
-Telefon Sumaya mempunyai **14 aplikasi** serta skrin utama. Sesetengah aplikasi hanya muncul apabila berguna: Emergency999 muncul selepas watak anda spawn, MDT untuk pasukan perkhidmatan kecemasan, dan alat khas pembangun kekal tersembunyi daripada pemain biasa.
+Sumaya has **14 app entries** plus the home screen. Some apps only show when they make sense: Emergency999 needs your character to be spawned, and MDT is for emergency-service teams.
 
-### Tetapan
+### Settings
 
-Sesuaikan rupa telefon anda:
+Customise your phone's look:
 
-- **Warna telefon** - badan peranti.
-- **Warna kasing** - hiasan dalaman.
-- **Kertas dinding** - gradien (warna boleh disesuaikan), pejal, atau imej tersuai.
+- **Phone colour** - the device chassis.
+- **Casing colour** - inside trim.
+- **Wallpaper** - gradient (customisable colours), solid, or custom image.
 
-### Kamera
+### Camera
 
-Aplikasi kamera dalam permainan. Ambil gambar apa sahaja yang ada pada skrin. Sesuai untuk paparan rumah, detik-detik indah, atau menangkap penangkapan 5 bintang itu.
+An in-game camera app. Take photos of whatever's on screen. Good for house showcases, scenic moments, or capturing that 5-star arrest.
 
-### Bantuan
+### Help
 
-Rujukan pantas terbina dalam untuk asas telefon dan gameplay.
+Built-in quick reference for phone and gameplay basics.
 
-### Profil
+### Profile
 
-Lihat profil pemain anda:
+See your player profile:
 
-- Tahap pemain semasa dan kemajuan.
-- Tahap dan pangkat sektor anda (satu untuk setiap sektor yang anda telah bekerja).
-- Pencapaian / statistik.
+- Current player level and progress.
+- Your sector levels and ranks (one per sector you've worked).
+- Achievements / stats.
 
-### Kediaman
+### Residence
 
-Aplikasi perumahan anda:
+Your housing app:
 
-- Layari dan tuntut plot.
-- Beli templat rumah.
-- Masuk mod penempatan untuk perabot.
-- Kunci / buka kunci pintu.
-- Togol lampu.
-- Jual rumah anda.
+- Browse and claim plots.
+- Buy a house template.
+- Enter placement mode for furniture.
+- Lock / unlock doors.
+- Toggle lights.
+- Sell your house.
 
-Lihat [Perumahan](/sumaya/housing).
+See [Housing](/sumaya/housing).
 
 ### Careers
 
-Hab kerjaya awam:
+Civilian career hub:
 
-- Lihat sektor awam yang tersedia (Memancing, Perkhidmatan, Agro).
-- Semak tahap dan pangkat sektor anda.
-- Lihat sektor mana yang anda sedang bekerja syif.
-- Mulakan atau tamatkan kerja (walaupun anda masih perlu berada di stesen kerjaya untuk daftar masuk).
+- See available civilian sectors (Fishing, Service, Agro).
+- Check your sector levels and ranks.
+- See which sector you're currently on shift with.
+- Start or end a job (though you still need to be at the career station to clock in).
 
-Lihat [Gambaran keseluruhan kerjaya](/sumaya/jobs).
+See [Careers overview](/sumaya/jobs).
 
-### Pasif
+### Passive
 
-Togol **Mod Pasif**:
+Toggle **Passive Mode**:
 
-- **Hidup**: anda kebal; anda tidak boleh mencederakan atau dicederakan oleh pemain lain. Anda juga tidak boleh melakukan jenayah.
-- **Mati**: peraturan PvP / kesalahan biasa terpakai.
+- **On**: you're invulnerable; you can't damage or be damaged by other players. You also can't commit crimes.
+- **Off**: regular PvP / offence rules apply.
 
-Berguna untuk adegan roleplay, atau jika anda hanya mahu memandu tanpa diserang secara rawak.
+Useful for roleplay scenes, or if you just want to drive around without getting randomly attacked.
 
-**Butiran penting:**
+**Important details:**
 
-- **Anda bermula dalam mod pasif** setiap kali anda menyertai permainan. Ini adalah keadaan lalai, bukan sesuatu yang anda perlu pilih.
-- **Penguatkuasaan undang-undang (POLIS) tidak pernah pasif**. Polis sentiasa tidak pasif dan tidak boleh menggunakan togol ini.
-- **Memakai alat jenayah akan mengeluarkan anda dari pasif secara automatik**. Ambil Slim Jim atau Pickpocket Knife dan anda tidak boleh pasif sehingga anda lepaskannya.
-- **Pemain yang dikehendaki tidak boleh mengaktifkan semula pasif**. Sebaik sahaja bintang kehendak anda reput, ia akan diaktifkan semula dengan sendirinya.
-- **Selepas kesalahan tertentu (memandu laju, kemalangan, jenayah)** togol pasif dikunci untuk satu tempoh ("kunci pasif"). Lihat [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk tempoh kunci setiap bintang.
+- **You start in passive mode** every time you join the game. It's the default state, not something you need to opt into.
+- **Law enforcement (POLIS) never passes passive**. Cops are permanently non-passive and can't use this toggle.
+- **Equipping a crime tool drops you out of passive automatically**. Pick up a Slim Jim or Pickpocket Knife and you can't be passive until you drop it.
+- **Wanted players can't re-enable passive**. Once your wanted stars decay, it re-enables on its own.
+- **After certain offences (speeding, crashes, crime)** the passive toggle is locked for a duration (the "passive lock"). See [Crime and Law](/sumaya/crime-and-law) for the per-star lock durations.
 
-### Perlanggaran
+### Collision
 
-Togol perlanggaran kenderaan:
+Toggle vehicle collisions:
 
-- **Didayakan**: fizik kenderaan-lawan-kenderaan biasa.
-- **Dilumpuhkan**: kenderaan anda menembusi kenderaan lain.
+- **Enabled**: normal vehicle-vs-vehicle physics.
+- **Disabled**: your vehicle phases through other vehicles.
 
-Berguna untuk meletak di tempat sempit atau melepasi timbunan kemalangan. Lihat [Kenderaan](/sumaya/vehicles).
+Useful for parking in tight spots or escaping a crash pile-up. See [Vehicles](/sumaya/vehicles).
 
-### Sinematik
+### Cinematic
 
-Mod kamera bebas-roam. Gerakkan sudut pandangan anda secara bebas daripada watak anda untuk sudut dramatik atau syot bergaya filem. Sesetengah pergerakan kamera juga boleh menambah fokus dan depth-of-field semasa mod aktif. Bagus untuk merakam, tidak banyak digunakan untuk gameplay.
+A free-roam camera mode. Move your viewpoint around independently of your character for dramatic angles or film-style shots. Some camera moves can also add focus and depth-of-field while the mode is active. Great for recording, not much use for gameplay.
 
 ### Quest
 
-Lihat kemajuan rantaian quest semasa anda:
+View your current quest chain progress:
 
-- Lihat quest aktif dan langkah-langkahnya.
-- Baca penerangan quest.
-- Jejak berapa banyak kemajuan yang telah anda buat.
-- Tutup kad tugasan atau paparkan semula.
+- See the active quest and its steps.
+- Read quest descriptions.
+- Track how much progress you've made.
+- Dismiss the task card or re-show it.
 
-Rantaian quest selamat datang bermula secara automatik pada penyertaan pertama dan menjalankan 12 quest. Lihat [Quests](/sumaya/quests).
+The welcome quest chain auto-starts on first join and runs through 12 quests. See [Quests](/sumaya/quests).
 
-### Jelajah (Jurnal penemuan)
+### Jelajah (discovery journal)
 
-Panduan anda kepada mercu tanda Sumaya. Aplikasi Jelajah memaparkan setiap Point of Interest di bandar dan yang mana telah anda lawati:
+Your guide to Sumaya's landmarks. The Jelajah app shows every Point of Interest in town and which ones you've visited:
 
-- Pil kemajuan di bahagian atas - `<discovered> / <total> ditemui` ("dijumpai").
-- Penapis: **Semua**, **Ditemui**, **Belum**.
-- Senarai kad yang boleh ditatal. POI yang ditemui menunjukkan titik kategori berwarna, nama mercu tanda, dan penerangan ringkas. POI yang dikunci dipaparkan sebagai `???` dengan hanya kategori kelihatan.
-- Ketik kad untuk skrin perincian - penerangan penuh, ringkasan ganjaran, dan (jika anda telah menemuinya) butang **Baca Maklumat** untuk membuka semula infografik mercu tanda.
+- A progress pill at the top, such as "3 / 10 ditemui" ("found").
+- Filters: **Semua** (all), **Ditemui** (discovered), **Belum** (not yet).
+- A scrollable list of cards. Discovered POIs show a coloured category dot, the landmark name, and a short description. Locked POIs show as **???** with just the category visible.
+- Tap a card for the detail screen - full description, reward summary, and (if you've already discovered it) a **Baca Maklumat** button to re-open the landmark's infographic.
 
-Apabila anda berjalan ke dalam POI yang ditandakan buat kali pertama, aplikasi memaparkan toast `Ditemui: <name>` dan entri bertukar daripada terkunci kepada ditemui. Ganjaran POI dimasukkan ke akaun bank anda secara automatik.
+When you visit a POI for the first time, the app shows a **Ditemui: name** toast and the entry flips from locked to discovered. POI rewards drop into your bank account automatically.
 
-POI ialah ciri yang sedang dalam pembangunan. Build langsung termasuk **Menara Jam**, **Pasar Sumaya**, dan **Pantai Sumaya**. Jika mercu tanda itu tidak terbuka ketika anda melawatnya, itu ialah jurang penempatan kandungan, bukan sesuatu yang anda lakukan salah.
+POIs are an in-progress feature. **Menara Jam**, **Pasar Sumaya**, and **Pantai Sumaya** are listed, but not all landmark unlocks may be active yet. If visiting a location does not trigger a discovery, check back after future updates.
 
 ### Emergency999
 
-Mana-mana orang awam boleh menelefon 999 dari aplikasi ini. Ia:
+Any civilian can dial 999 from this app. It:
 
-- Membuka skrin penghantaran di mana anda memilih perkhidmatan yang anda perlukan, sebabnya, dan (jika dipilih) nota tersuai sehingga 140 aksara.
-- Memberitahu semua pemain POLIS, BOMBA, atau Kesihatan yang sedang bertugas melalui MDT mereka.
-- Melampirkan lokasi anda secara automatik - diselesaikan kepada **8 mercu tanda bernama** yang terdekat: Town Centre, Kampung North, Kampung South, Pasaram, Mamak Row, Police Station, Fire Station, Hospital.
-- Mempunyai **cooldown 10 saat** setiap pemanggil sebelum anda boleh menghantar panggilan lain - jangan spam.
+- Opens a dispatch screen where you pick which service(s) you need, the reason, and (optionally) a custom note up to 140 characters.
+- Notifies all on-duty POLIS, BOMBA, or Kesihatan players via their MDT.
+- Attaches your location automatically - resolved to the nearest of **8 named landmarks**: Town Centre, Kampung North, Kampung South, Pasaram, Mamak Row, Police Station, Fire Station, Hospital.
+- Has a **10-second cooldown** per caller before you can submit another call - don't spam.
 
-Panggilan ditutup secara automatik selepas **30 minit** jika tiada penghantar mengendalikannya, supaya senario roleplay yang akhirnya tidak dijawab tidak memenuhi MDT selama-lamanya.
+Calls auto-close after **30 minutes** if a dispatcher doesn't handle them, so roleplay scenarios that end up un-responded don't clutter the MDT forever.
 
-Gunakan ini untuk senario roleplay (panggil untuk kebakaran, laporkan jenayah, perlukan perubatan).
+Use this for roleplay scenarios (call for a fire, report a crime, need medical).
 
 ### MDT (Mobile Data Terminal)
 
-Hanya kelihatan pada **pasukan perkhidmatan kecemasan** (POLIS, BOMBA, Kesihatan). MDT ialah konsol penghantaran anda:
+Visible only on **emergency-service teams** (POLIS, BOMBA, Kesihatan). The MDT is your dispatch console:
 
-- **Tab Calls** - panggilan 999 aktif. Lihat siapa yang menelefon, di mana, dan sebabnya. Tetapkan waypoint atau tandakan panggilan sebagai dijawab.
-- **Tab Wanted** (POLIS sahaja) - senarai suspek yang sedang dikehendaki dengan tahap bintang dan kiraan kesalahan. Ketik untuk menetapkan waypoint.
-- **Plate checker** (POLIS sahaja) - cari nombor plat untuk melihat pemilik berdaftar dan sama ada kenderaan itu dicuri.
+- **Calls tab** - active 999 calls. See who's calling, where, and why. Set a waypoint or mark a call as responded.
+- **Wanted tab** (POLIS only) - list of currently-wanted suspects with star levels and offence counts. Tap to set a waypoint.
+- **Plate checker** (POLIS only) - look up a licence plate to see the registered owner and whether the vehicle is stolen.
 
-Lihat [Polis](/sumaya/polis) untuk maklumat lanjut tentang MDT.
+See [Polis](/sumaya/polis) for more on the MDT.
 
-### Skrin utama
+### Home screen
 
-Skrin utama telefon dengan grid aplikasi. Bukan aplikasi berasingan yang anda lancarkan.
+The main phone home screen with the app grid. Not a separate app you launch.
 
-## Peta mini
+## The minimap
 
-Di sudut kanan atas, anda akan melihat peta mini yang memaparkan kawasan di sekeliling anda.
+In the top-right corner, you'll see a minimap showing the area around you.
 
-### Apa yang dipaparkan oleh peta mini
+### What the minimap shows
 
-- **Kedudukan anda** (anak panah di tengah).
-- **Jalan dan bangunan** di sekeliling anda.
-- **Point of interest** (POI): hospital, balai polis, balai bomba, pelahir kenderaan, kedai, stesen kerjaya.
-- **Waypoint** yang anda telah letakkan atau yang telah ditetapkan oleh permainan (penanda quest, panggilan MDT).
-- **Pemain lain** dan NPC mungkin muncul sebagai titik bergantung pada konteks.
+- **Your position** (the arrow at the centre).
+- **Roads and buildings** around you.
+- **Points of interest** (POIs): hospital, police station, fire station, vehicle spawners, shops, career stations.
+- **Waypoints** you've placed or that have been set by the game (quest markers, MDT calls).
+- **Other players** and NPCs may appear as dots depending on context.
 
-### Memperluaskan peta mini
+### Expanding the minimap
 
-Klik peta mini (atau tekan butang luaskan) untuk membuka **peta skrin penuh**. Anda boleh:
+Click the minimap (or press the expand button) to open the **full-screen map**. You can:
 
-- Zum masuk dan keluar.
-- Tatal sekeliling untuk melihat bahagian lain Sumaya.
-- Tekan **F** untuk **muatkan semua waypoint anda** ke dalam paparan sekaligus.
+- Zoom in and out.
+- Pan around to see other parts of Sumaya.
+- Hit **F** to **fit all your waypoints** into view at once.
 
-### Waypoint tersuai
+### Custom waypoints
 
-Dalam peta skrin penuh:
+In the full-screen map:
 
-- **Tekan-lama** (kira-kira 0.5 saat) pada lokasi untuk meletakkan waypoint tersuai.
-- **Klik kanan** pada waypoint sedia ada untuk menu konteks (namakan semula, tukar warna, padam).
-- Waypoint anda **kekal merentasi sesi**.
+- **Long-press** (about 0.5 seconds) on a location to drop a custom waypoint.
+- **Right-click** an existing waypoint for a context menu (rename, change colour, delete).
+- Your waypoints **persist across sessions**.
 
-Waypoint tersuai sangat bagus untuk menanda tempat memancing kegemaran anda, rumah kawan anda, atau tempat anda meletakkan trawler anda.
+Custom waypoints are great for marking your favourite fishing spot, your friend's house, or where you parked your trawler.
 
-### Pancaran panduan
+### The guidance beam
 
-Anda akan sering melihat **pancaran berwarna** dari watak anda ke objektif - ini ialah pancaran panduan, versi visual 3D bagi waypoint yang sedang dijejaki secara aktif oleh peta mini. Warna adalah konsisten:
+You'll often see a **coloured beam** from your character to an objective - this is the guidance beam, a 3D visual version of whatever waypoint the minimap is actively tracking. Colours are consistent:
 
-- Merah (terang): penanda quest, objektif penting.
-- Warna lain: waypoint tersuai dalam warna pilihannya.
+- Red (bright): quest markers, important objectives.
+- Other colours: custom waypoints in their chosen colour.
 
-## Kad tugasan
+## The task card
 
-Di sudut kiri atas, anda akan sering melihat **kad tugasan** - panel kecil yang menerangkan objektif semasa anda. Ia mungkin memaparkan:
+In the top-left corner, you'll often see a **task card** - a small panel that describes your current objective. It might show:
 
-- Langkah quest aktif anda ("Spawn a vehicle").
-- Kebakaran aktif yang anda sedang menjawab ("Fire at Jalan Triden").
-- Pesakit yang anda rawat.
-- Zon penurunan rampasan kereta.
+- Your active quest step ("Spawn a vehicle").
+- An active fire you're responding to ("Fire at Jalan Triden").
+- A patient you're treating.
+- A carjacking drop-off zone.
 
-### Mengecutkan kad tugasan
+### Collapsing the task card
 
-Terutamanya pada mudah alih, kad tugasan boleh bertindih dengan kawalan memandu. Ketik **butang chevron (^)** pada kad untuk mengecutkannya, memaparkan hanya ikon minimum. Ketik sekali lagi untuk membesarkan semula.
+On mobile especially, the task card can overlap with driving controls. Tap the **chevron (^) button** on the card to collapse it, showing just a minimal icon. Tap again to re-expand.
 
-## Panel minigame gig
+## Gig minigame panels
 
-Sesetengah gig jobs membuka panel interaksi kecil untuk kertas kerja, pilihan, semakan urutan, atau semakan masa. Panel ini memudar masuk dan keluar, berskala untuk skrin telefon/tablet/desktop, dan mungkin memfokuskan kamera sebentar pada penumpang, bungkusan, kenderaan, lokasi kejadian, atau penanda laluan yang berkaitan.
+Some gig jobs open a small interaction panel for paperwork, choices, sequence checks, or timing checks. These panels fade in and out, scale to phone/tablet/desktop screens, and may briefly focus the camera on the relevant passenger, parcel, vehicle, scene, or route marker.
 
-Jika anda mati, menukar pasukan, meninggalkan kerja, atau objektif hilang, panel dan fokus kamera dibersihkan secara automatik.
+If you die, switch teams, leave the job, or the objective disappears, the panel and camera focus clean up automatically.
 
-## Widget Status (kanan atas)
+## Status widget (top-right)
 
-Di bawah peta mini, widget **StatusGui** memaparkan **tahap Citizen** anda dan (apabila pada kerja atau pasukan kecemasan) **tahap + pangkat sektor aktif** anda. Ia adalah dua baris padat:
+Below the minimap, the **Status widget** shows your **Citizen level** and (when on a job or emergency team) your **active sector level + rank**. It's two compact rows:
 
-- **Baris atas** - `Citizen <Level>` dengan bar kemajuan dan angka `progress / max`. Sentiasa kelihatan.
-- **Baris bawah** - sektor semasa anda. Pada pasukan POLIS / BOMBA / Kesihatan ia sentiasa menjejak sektor pasukan anda. Pada pasukan awam ia menjejak sektor yang anda sedang berdaftar masuk (atau yang terkini jika anda memperoleh XP dalam tempoh 30 saat yang lalu, kemudian disembunyikan). Untuk perkhidmatan awam ia memaparkan **pangkat** anda (cth. "Sergeant"); untuk sektor awam ia memaparkan `progress / max` mentah.
+- **Top row** - your citizen level, progress bar, and progress numbers. Always visible.
+- **Bottom row** - your current sector. On POLIS / BOMBA / Kesihatan teams it always tracks your team's sector. On civilian teams it tracks the sector you're currently clocked in to (or the most recent if you earned XP within the last 30 seconds, then hides). For public services it shows your **rank** (e.g. "Sergeant"); for civilian sectors it shows progress numbers.
 
-Baris bawah memudar masuk dan keluar apabila anda menukar kerja / pasukan. Tiada kawalan manual ke atas apa yang dijejakinya - ia automatik.
+The bottom row crossfades in and out as you switch jobs / teams. There's no manual control over what it tracks - it's automatic.
 
-## Ikon TopBar
+## Topbar icons
 
-TopBar Roblox di tengah-atas skrin memaparkan barisan ikon Sumaya yang kecil. Dari kiri ke kanan:
+Roblox's TopBar at the top-centre of the screen shows a row of small Sumaya icons. From left to right:
 
-- **Map** - togol HUD peta mini hidup/mati.
-- **Tasks** - togol kad tugasan hidup/mati (hanya muncul apabila ada sekurang-kurangnya satu kad aktif).
-- **Status** - togol widget Status hidup/mati.
-- **Open Menu** (ikon rumah) - buka semula menu utama di tengah permainan supaya anda boleh menukar pasukan atau memilih sektor lain. Ini **tidak akan respawn anda** melainkan anda benar-benar memilih pasukan baharu. Dikunci semasa anda ditahan, dikehendaki, atau dalam pertempuran (baru-baru ini ditase / ditahan).
+- **Map** - toggles the minimap HUD on/off.
+- **Tasks** - toggles the task card on/off (only appears when there's at least one active card).
+- **Status** - toggles the Status widget on/off.
+- **Open Menu** (house icon) - re-opens the main menu mid-game so you can switch teams or pick a different sector. This **doesn't respawn you** unless you actually pick a new team. Locked while you're arrested, wanted, or in combat (recently tased / detained).
 
-Keempat-empat togol kekal untuk sesi tersebut - ia tidak bertahan dalam pemulaan semula pelayan, tetapi ia bertahan respawn.
+All four toggles persist for the session - they don't survive a server restart, but they do survive respawn.
 
-## Sembang
+## Chat
 
-Tekan **/** (sengkang) untuk memfokus pada bar sembang di bahagian bawah skrin. Taip mesej dan tekan Enter untuk menghantar.
+Press **/** (slash) to focus the chat bar at the bottom of the screen. Type a message and hit Enter to send.
 
-Sumaya menggunakan `TextChatService` Roblox, jadi `/whisper <player>` standard dan sembang awam semuanya berfungsi.
+Sumaya uses standard Roblox chat, so whispering another player and public chat both work.
 
-### Saluran Public Services
+### Public services channel
 
-Jika anda berada dalam pasukan perkhidmatan kecemasan (POLIS, BOMBA, atau Kesihatan), anda mendapat akses kepada saluran tambahan **Public Services**. Mesej yang dihantar di sana hanya kelihatan kepada pemain perkhidmatan kecemasan lain - saluran koordinasi peribadi merentasi ketiga-tiga perkhidmatan. Pasukan awam tidak boleh melihat atau menghantar kepadanya.
+If you're on an emergency-service team (POLIS, BOMBA, or Kesihatan), you get access to an extra **Public Services** channel. Messages sent there are visible only to other emergency-service players - a private coordination channel across all three services. Civilian teams can't see or send to it.
 
-Akses anda dikemas kini secara automatik apabila anda menukar pasukan.
+Your access auto-updates when you switch teams.
 
-## Pemberitahuan banner
+## Banner notifications
 
-Anda akan melihat pemberitahuan banner yang masuk ke dalam untuk:
+You'll see slide-in banner notifications for:
 
-- Pembayaran kerja.
-- Penyelesaian langkah quest.
-- Kesalahan baharu dikesan (untuk POLIS yang bertugas).
-- Tahap dikehendaki diperoleh atau dibersihkan.
-- Mesej sistem.
+- Job payouts.
+- Quest step completions.
+- New offence detected (for POLIS on duty).
+- Wanted level gained or cleared.
+- System messages.
 
-Banner akan ditolak secara automatik selepas beberapa saat.
+Banners auto-dismiss after a few seconds.
 
-## Paparan dompet / bank
+## Wallet / bank display
 
-Baki Ringgit semasa anda dipaparkan dalam HUD kecil berhampiran bahagian atas skrin. Buka butiran dompet penuh melalui telefon atau ATM. Lihat [Ekonomi](/sumaya/economy).
+Your current Ringgit balance is shown in a small HUD near the top of the screen. Open the full wallet details via the phone or the ATM. See [Economy](/sumaya/economy).
 
-## Petua
+## Tips
 
-- **Buka telefon sebaik sahaja anda spawn.** Kebanyakan apa yang anda perlukan ada di sana.
-- **Peta mini diperluaskan untuk perancangan.** Sebelum perjalanan jauh, buka peta penuh, lihat laluan, letakkan waypoint di destinasi anda.
-- **Mod pasif untuk roleplay.** Mahu keluar untuk sesi tangkap skrin yang santai? Togol pasif supaya tiada sesiapa mengganggu dengan rampasan kereta atau pertempuran.
-- **999 untuk panggilan, MDT untuk respons.** Satu untuk orang awam, satu lagi untuk responder.
-- **Tekan-lama untuk membuat waypoint.** Ini ialah ciri kualiti hidup yang paling besar - gunakannya untuk menanda tempat yang anda kerap kembali.
-- **Kecutkan kad tugasan apabila memandu pada mudah alih.** Ruang skrin tambahan adalah penting pada skrin kecil.
-- **Aplikasi Profil untuk berlagak.** Pangkat anda dipaparkan di sini. Layak ditangkap skrin apabila anda mencapai pangkat peringkat tinggi.
+- **Open the phone as soon as you spawn.** Most of what you need is there.
+- **Expanded minimap for planning.** Before a long trip, pop the full map, see the route, drop a waypoint at your destination.
+- **Passive mode for roleplay.** Going out for a chill screenshot session? Toggle passive so no one interrupts with carjacks or fights.
+- **999 for calls, MDT for responses.** One is for civilians, the other is for responders.
+- **Long-press to make waypoints.** This is the single biggest quality-of-life feature - use it to mark places you keep returning to.
+- **Collapse the task card when driving mobile.** The extra screen real-estate matters on small screens.
+- **Profile app for flex.** Your ranks show here. Screenshot-worthy once you hit high-tier ranks.
 
-## Apa seterusnya?
+## What next?
 
-- [Quests](/sumaya/quests) untuk rantaian penemuan yang akan anda lihat dalam aplikasi Quest.
-- [Polis](/sumaya/polis) untuk butiran MDT.
-- [Petua dan helah](/sumaya/tips-and-tricks) untuk lebih banyak ciri UI tersembunyi.
+- [Quests](/sumaya/quests) for the discovery chain you'll see in the Quest app.
+- [Polis](/sumaya/polis) for MDT details.
+- [Tips and tricks](/sumaya/tips-and-tricks) for more hidden UI features.

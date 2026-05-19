@@ -2,8 +2,8 @@
 title: மருத்துவம்
 description: 'Sumaya-வில் Kesihatan விளையாடுதல் - ஆம்புலன்ஸ், சிகிச்சை, மற்றும் மீட்பு.'
 lang: ta
-translated_from_hash: "d069c9d3"
-translated_on: 2026-05-18
+translated_from_hash: bb22aefd
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

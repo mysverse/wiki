@@ -4,8 +4,8 @@ description: >-
   Pengangkutan awam di Bandaraya - MRT, LRT, monorel, bas, kad CAG, e-hailing,
   dan tol TapNGo.
 lang: ms
-translated_from_hash: "d67acc21"
-translated_on: 2026-05-18
+translated_from_hash: 93a81132
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Pengangkutan Awam di Bandaraya - Panduan

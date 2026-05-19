@@ -1,9 +1,9 @@
 ---
-title: "Kesihatan (Medical)"
+title: "Kesihatan (medical)"
 description: "Playing Kesihatan (medical) in Sumaya - ambulances, treatment, and revival."
 ---
 
-# Kesihatan (Medical)
+# Kesihatan (medical)
 
 **Kesihatan** ("keh-see-ha-tan") is Sumaya's medical service. Doctors, nurses, paramedics. If you pick Kesihatan from the main menu, you're a medical worker on duty as soon as you spawn.
 
@@ -26,7 +26,7 @@ The injury system **auto-activates whenever at least one Kesihatan player is on 
 - Players and NPCs can suffer proper injuries instead of insta-dying.
 - Injuries require medical treatment to heal.
 - **Every player on the server gets +15% player-level XP** (sector XP is unaffected).
-- The injury system stays active for the whole server while at least one Kesihatan player is on duty.
+- The game treats injuries as active for everyone while Kesihatan is on duty.
 
 The server deactivates the injury system the moment the last Kesihatan player leaves. So just logging in as Kesihatan is enough to "activate" it - no manual toggle needed. That +15% XP boost is a big deal: it applies to every job, every arrest, every harvest - so when Kesihatan is on, the whole server benefits. This is the single biggest reason to have medical players on.
 
@@ -68,7 +68,7 @@ You can't heal someone until you know what's wrong.
 
 **Reward:** 40 XP + 200 Ringgit.
 
-### Imaging (X-Ray and MRI)
+### Imaging (X-ray and MRI)
 
 For diagnosis confirmation on serious injuries, use the imaging machines at the hospital:
 

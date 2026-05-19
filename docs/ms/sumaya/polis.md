@@ -2,109 +2,108 @@
 title: Polis
 description: 'Bermain sebagai POLIS di Sumaya - rondaan, tangkapan, pangkat, dan peralatan.'
 lang: ms
-translated_from_hash: "70f9a4a0"
-translated_on: 2026-05-18
+translated_from_hash: b383c68f
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # Polis
 
-**Polis** ialah pasukan polis Sumaya. Jika anda memilih POLIS dari menu utama, anda menjadi pegawai penguatkuasa undang-undang yang bertugas dari saat anda spawn. Tugas anda adalah menangkap penjenayah, menjalankan perangkap kelajuan, menyahut panggilan 999, dan menjaga keamanan.
+**Polis** is Sumaya's police force. If you pick POLIS from the main menu, you're a law enforcement officer on duty from the moment you spawn. Your job is to arrest criminals, run speed traps, respond to 999 calls, and keep the peace.
 
-## Bermula
+## Getting started
 
-Pilih **POLIS** pada menu utama. Kit permulaan anda mengandungi 5 alat:
+Pick **POLIS** on the main menu. Your starting kit is 5 tools:
 
-| Alat | Fungsinya |
-|------|-----------|
-| **Taser X26P** | Senjata penewasan tidak membawa maut dengan kartrij terhad. Tembak suspek untuk melumpuhkan mereka bagi tujuan tangkapan. |
-| **Radar Gun** | Alat tangkap kelajuan secara manual. Lihat [Perangkap kelajuan dan radar](#speed-traps-and-radar). |
-| **Whistle** | Isyarat orang ramai / lalu lintas. |
-| **Handcuffs** | Alat tangkap sebenar - guna pada suspek yang dikehendaki apabila anda cukup hampir. |
-| **Plate Finder** | Cari nombor plat mana-mana kenderaan untuk melihat pemilik berdaftar dan sama ada ia ditandakan sebagai dicuri. |
-
-Beberapa pakaian dan peralatan akan dibuka apabila anda menaikkan tahap sektor POLIS (Duty Belt + Beret pada tahap 1, Reflective Vest pada 10, Reflective Coat pada 20). Lihat [Progression](/sumaya/progression) untuk jadual penuh item kerjaya merentasi ketiga-tiga perkhidmatan kecemasan.
-
-## Item lalu lintas boleh letak dan pengkhususan
-
-Kon, papan tanda, dan payung lalu lintas mungkin muncul semasa ujian atau sesi roleplay khas. Ia belum menjadi sebahagian daripada loadout POLIS biasa.
-
-Dua pengkhususan POLIS akan datang dirancang:
-
-| Pengkhususan | Status |
-|--------------|--------|
-| **Traffic POLIS Role** | Coming Soon. Ditujukan untuk radar dan kawalan jalan. |
-| **Unmarked POLIS Role** | Coming Soon. Ditujukan untuk rondaan pakaian biasa dan semakan plat. |
-
-Ini bukan pasukan berasingan dalam pemilihan pasukan. Ia bertujuan berfungsi ketika anda berada dalam pasukan POLIS biasa.
-
-Pergi ke balai polis untuk kenderaan, atau ronda di jalanan dan perhatikan suspek yang dikehendaki pada aplikasi MDT (Mobile Data Terminal) anda.
-
-## Sistem dikehendaki
-
-Orang awam mengumpul **offence points** setiap kali mereka melakukan jenayah. Jumlah offence points menentukan **tahap wanted star** mereka:
-
-| Mata | Wanted stars |
+| Tool | What it does |
 |------|--------------|
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| **Taser X26P** | Non-lethal takedown weapon with limited cartridges. Fire at suspects to incapacitate them for arrest. |
+| **Radar Gun** | Manual speed capture tool. See [Speed traps and radar](#speed-traps-and-radar). |
+| **Whistle** | Crowd / traffic signalling. |
+| **Handcuffs** | The actual arrest tool - use on a wanted suspect when you're close enough. |
+| **Plate Finder** | Look up any vehicle's licence plate to see the registered owner and whether it's flagged as stolen. |
 
-Suspek berbintang tinggi lebih sukar untuk ditangkap tetapi memberi bayaran lebih apabila berjaya ditangkap.
+A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
 
-### Apa yang memberi offence points?
+## Placeable traffic and crime scene items
 
-| Jenayah | Mata |
-|---------|------|
-| Kemalangan kenderaan (melanggar seseorang) | 5 |
-| Memandu laju | 10 |
-| Mencuri saku | 20 |
-| Merampas kereta | 25 |
-| Penyeludupan haiwan | 50 |
+Some traffic and crime-scene props are being prepared for future POLIS play. They are not part of the normal POLIS loadout yet.
 
-Lihat [Crime and Law](/sumaya/crime-and-law) untuk pecahan penuh.
+Two future POLIS specialisations are listed as coming soon:
 
-### Melihat pemain yang dikehendaki
+| Specialisation | Current player-facing status |
+|---|---|
+| **Traffic POLIS Role** | Coming soon. Planned around radar and road-control props. |
+| **Unmarked POLIS Role** | Coming soon. Planned around concealed identity and plate checks. |
 
-Buka aplikasi **MDT** pada telefon anda. Tab **Wanted** menunjukkan semua pemain yang sedang dikehendaki dengan:
+They are not separate teams; both are intended to work while you are on the normal POLIS team.
 
-- Nama dan headshot
-- Tahap bintang
-- Bilangan kesalahan
-- Masa berlalu sejak kesalahan pertama mereka
+Head to the police station for vehicles, or patrol the streets and watch for wanted suspects on your MDT (Mobile Data Terminal) app.
 
-Anda boleh menetapkan waypoint minimap pada suspek dari sini untuk menavigasi ke arah mereka.
+## The wanted system
 
-### Susut wanted
+Civilians accumulate **offence points** whenever they commit crimes. Total offence points determine their **wanted star level**:
 
-Jika suspek mengelakkan daripada melakukan apa-apa jenayah lagi selama **5 minit**, status wanted mereka akan dikosongkan sepenuhnya. Anda mempunyai jangka masa untuk menangkap mereka.
+| Points | Wanted stars |
+|--------|--------------|
+| 0-24 | None |
+| 25-59 | 1 star |
+| 60-119 | 2 stars |
+| 120-199 | 3 stars |
+| 200-319 | 4 stars |
+| 320+ | 5 stars |
 
-## Membuat tangkapan
+Higher-star suspects are harder to arrest but pay more when you do.
 
-Aliran asas:
+### What gives offence points?
 
-1. Cari suspek yang dikehendaki (MDT membantu).
-2. Hampiri mereka. Jika mereka dalam mod pasif atau memandu laju, mereka mungkin tidak sedar kehadiran anda.
-3. Gunakan alat **handcuffs** anda dalam jarak interaksi.
-4. Jika berjaya, mereka ditangkap - dihantar ke penjara untuk tempoh berdasarkan bintang.
+| Crime | Points |
+|-------|--------|
+| Vehicle crash (hitting someone) | 5 |
+| Speeding | 10 |
+| Pickpocket | 20 |
+| Carjacking | 25 |
+| Animal trafficking | 50 |
 
-### Fasa Tahanan
+See [Crime and Law](/sumaya/crime-and-law) for the full breakdown.
 
-Sebelum tangkapan akhir, suspek memasuki keadaan **detained**. Setelah ditahan:
-- Mereka mengikut anda pada **4-stud offset**, dihadkan dalam **20 studs maximum** (mereka tidak boleh berkeliaran).
-- **60-second detain timeout** akan bermula - jika anda tidak menyelesaikan tangkapan dalam 60 s, tahanan akan dilepaskan secara automatik.
-- Semasa ditahan, mereka masih boleh cuba **surrender** pada prom untuk mengurangkan masa penjara mereka separuh.
+### Seeing wanted players
 
-Tahanan berguna apabila anda mahu membawa suspek ke lokasi tertentu (balai polis, prom penyerahan diri) sebelum mendaftarkan mereka.
+Open the **MDT** app on your phone. The **Wanted** tab shows all currently-wanted players with:
 
-### Ganjaran tangkapan
+- Name and headshot
+- Star level
+- Offence count
+- Time elapsed since their first offence
 
-Ganjaran berskala mengikut tahap bintang suspek pada masa tangkapan:
+You can set a minimap waypoint on a suspect from here to navigate to them.
 
-| Stars | XP | Ringgit (dompet) |
+### Wanted decay
+
+If a suspect avoids committing any more crimes for **5 minutes**, their wanted status fully clears. You have a window to catch them.
+
+## Making arrests
+
+The basic flow:
+
+1. Locate the wanted suspect (MDT helps).
+2. Approach them. If they're in passive mode or speeding, they may not realise you're there.
+3. Use your **handcuffs** tool within interact range.
+4. If successful, they're arrested - sent to jail for a star-based duration.
+
+### The detain phase
+
+Before final arrest, suspects enter a **detained** state. Once detained:
+- They follow you at a **4-stud offset**, clamped to within **20 studs maximum** (they can't wander off).
+- A **60-second detain timeout** kicks in - if you don't complete the arrest within 60 s, the detain releases automatically.
+- While detained, they can still try to **surrender** at a prompt to cut their own jail time in half.
+
+Detain is useful when you want to walk a suspect to a specific location (police station, surrender prompt) before booking them.
+
+### Arrest rewards
+
+Rewards scale by the suspect's star level at time of arrest:
+
+| Stars | XP | Ringgit (wallet) |
 |-------|-----|------------------|
 | 1 | 50 | 150 |
 | 2 | 100 | 300 |
@@ -112,119 +111,119 @@ Ganjaran berskala mengikut tahap bintang suspek pada masa tangkapan:
 | 4 | 275 | 800 |
 | 5 | 400 | 1,200 |
 
-### Bonus pegawai berdekatan
+### Nearby officer bonus
 
-Jika pemain POLIS lain berada dalam **50 studs** apabila anda membuat tangkapan, mereka mendapat **50% of your XP and Ringgit** secara automatik - tiada tindakan diperlukan. Rondaan berpasangan bagus untuk pendapatan berganda.
+If another POLIS player is within **50 studs** when you make the arrest, they get **50% of your XP and Ringgit** automatically - no action needed. Partner patrols are great for double income.
 
-### Bonus pencapaian
+### Milestone bonus
 
-Setiap **5 arrests** yang anda buat, anda mendapat bonus **+200 Ringgit** di atas ganjaran tangkapan.
+Every **5 arrests** you make, you get a **+200 Ringgit** bonus on top of the arrest reward.
 
-## Penjara
+## Jail
 
-Apabila anda menangkap seseorang, mereka dihantar ke penjara. Tempoh penjara bergantung pada wanted stars mereka pada masa tangkapan:
+When you arrest someone, they're sent to jail. Jail duration depends on their wanted stars at arrest time:
 
-| Stars | Masa penjara |
-|-------|--------------|
-| 1 | 30 saat |
-| 2 | 1 minit |
-| 3 | 2 minit |
-| 4 | 3 minit |
-| 5 | 5 minit |
+| Stars | Jail time |
+|-------|-----------|
+| 1 | 30 seconds |
+| 2 | 1 minute |
+| 3 | 2 minutes |
+| 4 | 3 minutes |
+| 5 | 5 minutes |
 
-Semasa dipenjarakan:
+While jailed:
 
-- Pemain tidak boleh menukar pasukan.
-- HUD penjara menunjukkan masa yang tinggal.
-- Apabila pemasa tamat, mereka dilepaskan.
+- The player can't switch teams.
+- A jail HUD shows time remaining.
+- When the timer runs out, they're released.
 
-### Penyerahan diri
+### Surrender
 
-Penjenayah boleh memilih untuk **surrender** pada prom yang ditetapkan sebelum ditangkap. Penyerahan diri mengurangkan masa penjara separuh, dan membolehkan mereka keluar dengan lebih bersih:
+Criminals can choose to **surrender** at a designated prompt before getting caught. Surrender halves the jail time, and gets them out cleaner:
 
-| Stars | Masa penjara penyerahan | Pengunci pasif selepas pelepasan |
-|-------|-------------------------|----------------------------------|
+| Stars | Surrender jail time | Passive lock after release |
+|-------|---------------------|----------------------------|
 | 1 | 15 sec | 60 sec |
 | 2 | 30 sec | 2 min |
 | 3 | 1 min | 4 min |
 | 4 | 90 sec | 6 min |
 | 5 | 150 sec | 10 min |
 
-Pengunci pasif bermakna mereka tidak boleh mengaktifkan semula mod pasif sejurus selepas pelepasan - anda masih boleh menangkap mereka jika mereka cuba memulakan rentetan jenayah.
+Passive lock means they can't re-enable passive mode immediately after release - you can still arrest them if they try to restart a crime spree.
 
-### Meninggalkan untuk mengelak tangkapan (LTAA)
+### Leaving to avoid arrest (LTAA)
 
-Jika pemain yang dikehendaki log keluar di tengah-tengah kesalahan, mereka akan dikenakan masa penjara yang **worse** semasa kembali:
+If a wanted player logs out mid-offence, they're hit with a **worse** jail time on return:
 
-| Stars | Masa penjara LTAA |
-|-------|-------------------|
+| Stars | LTAA jail time |
+|-------|----------------|
 | 1 | 45 sec |
 | 2 | 90 sec |
 | 3 | 150 sec |
 | 4 | 4 min |
 | 5 | 6 min |
 
-Jadi tidak, berhenti tidak akan menyelamatkan anda.
+So no, quitting doesn't save you.
 
-### Pemasa tempur (tetingkap penglibatan)
+### Combat timer (engagement window)
 
-**30-second combat window** dibuka pada suspek pada saat **taser** anda mengenai sasaran atau **detain** anda berjaya. Semasa pemasa aktif:
+A **30-second combat window** opens on a suspect the moment your **taser** lands a hit or your **detain** succeeds. While the timer is live:
 
-- Butang **Reset** mereka dikunci, dan menu utama / pertukaran pasukan dikunci walaupun di bawah 1-star.
-- Jika mereka mati atas apa-apa sebab (jatuh, kemalangan, reset/kematian paksa, atau anda menaser mereka terlalu banyak kali) - combat-evasion jail bermula.
-- Jika mereka meninggalkan permainan - combat-evasion jail dijadualkan untuk sesi seterusnya mereka.
+- Their **Reset** button is locked, and main menu / team-switch is locked even sub-1-star.
+- If they die from any cause (fall, crash, reset, or taking too much damage) - combat-evasion jail kicks in.
+- If they leave the game - combat-evasion jail is queued for their next session.
 
-Combat-evasion jail adalah **double** tempoh LTAA biasa: 60 / 120 / 240 / 360 / 600 saat pada 1–5 stars, ditambah +30 saat jika mereka ditahan pada masa itu. **Anda menerima XP + Ringgit penuh berskala bintang yang dikreditkan seolah-olah anda telah menangkap mereka dengan bersih**, ditambah pembahagian 50% pegawai berdekatan. Kekal dalam talian sehingga keputusan diproses jika anda mahu bayaran.
+Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1-5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Engager-offline edge case: credit is forfeit, so stay online if you want the payout.
 
-Dalam amalan ini bermakna: setelah anda menaser suspek, anda telah pun mengunci kreditnya. Walaupun mereka berlari ke dalam lalu lintas dan mati, rondaan anda masih dikira.
+In practice this means: once you tase a suspect, you've already locked in the credit. Even if they sprint into traffic and die, your patrol still scores it.
 
-## Perangkap kelajuan dan radar
+## Speed traps and radar
 
-Sumaya mempunyai **two separate speeding systems** - zon automatik dan radar gun manual anda.
+Sumaya has **two separate speeding systems** - automatic zones and your manual radar gun.
 
-### Zon perangkap kelajuan (auto)
+### Speed trap zones (auto)
 
-Terdapat **3 speed trap zones** dalam dunia, setiap satu dengan had yang dipaparkan **50 studs/s**. Jika mana-mana kenderaan (pemain atau NPC) memandu melalui zon melebihi had, permainan menyaman pemandu secara auto: +10 offence points, tiada tindakan pegawai diperlukan. Anda akan melihat notifikasi sepanduk pada HUD anda apabila saman berlaku berhampiran anda.
+There are **3 speed trap zones** in the world. Two are posted at **60 studs/s** and one at **80 studs/s**, so the safe cruising speed depends on the road. If any vehicle (player or NPC) drives through a zone above its posted limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
 
-Zon dikitar semula bagi setiap pemandu pada cooldown 30 saat, jadi seseorang yang memandu laju berulang kali akan mengumpul saman dengan cepat.
+Zones recycle per driver on a 30-second cooldown, so someone speeding through repeatedly will accumulate tickets fast.
 
-Kenderaan kecemasan dengan **siren active** mereka dikecualikan - anda tidak akan menyaman diri sendiri semasa menyahut panggilan.
+Emergency vehicles with their **siren active** are exempt - you won't cite yourself for responding.
 
-### Radar gun (manual, untuk pelaju besar)
+### Radar gun (manual, for big speeders)
 
-Radar gun anda adalah alat untuk menangkap pelaju **serious** di luar zon. Halakan pada kenderaan yang bergerak dan tembak:
+Your radar gun is the tool for catching **serious** speeders outside zones. Point at a moving vehicle and fire:
 
-- Sasaran mestilah bergerak pada **200 studs/s or faster** untuk alat mendaftarkan kenaan. Lebih perlahan daripada itu, alat akan melaporkan "Not speeding" dan tidak melakukan apa-apa.
-- Setiap nombor plat yang ditangkap dikenakan cooldown **120-second cooldown** - anda tidak boleh menangkap semula plat yang sama dalam masa dua minit.
-- Anda mestilah **on duty** (pasukan POLIS aktif) untuk alat berfungsi.
+- Target must be going **200 studs/s or faster** for the tool to register a hit. Slower than that, the gun reports "Not speeding" and does nothing.
+- Each captured licence plate gets a **120-second cooldown** - you can't re-capture the same plate within two minutes.
+- You must be **on duty** (active POLIS team) for the tool to work.
 
-**Ganjaran setiap tangkapan:** 30 XP + 50 Ringgit + 10 offence points pada pemandu.
+**Reward per capture:** 30 XP + 50 Ringgit + 10 offence points on the driver.
 
-Oleh kerana zon hanya berfungsi di bawah 50 studs/s dan radar memerlukan 200+, terdapat jurang luas di mana hanya pegawai bergerak boleh menangkap pelaju. Itulah niche radar.
+Because zone limits sit at 60-80 studs/s and the radar only registers at 200+ studs/s, there is a wide middle band where a speeder is legal-on-paper but moving fast. A patrolling officer with a radar gun is the only thing that fills that gap.
 
-## Kenderaan
+## Vehicles
 
-Kenderaan Polis dibuka berdasarkan campuran **player level** dan **sector level**.
+Polis vehicles unlock based on a mix of **player level** and **sector level**.
 
-| Kenderaan | Player level | Sector level | Harga |
-|-----------|--------------|--------------|-------|
-| Protan Wira MPV Polis | 1 | 1 | Percuma |
+| Vehicle | Player level | Sector level | Price |
+|---------|--------------|--------------|-------|
+| Protan Wira MPV Polis | 1 | 1 | Free |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
 
-Wira ialah kereta rondaan permulaan anda. Civic adalah peringkat tertinggi - laju, berat, lengkap.
+The Wira is your starter patrol car. The Civic is the top-tier - fast, heavy, full-kit.
 
-Kenderaan Polis mempunyai **ELS sirens**. Dengan siren aktif, anda dikecualikan daripada kesalahan lalu lintas (memandu laju, kemalangan) semasa anda menyahut panggilan.
+Polis vehicles have **ELS sirens**. With the siren active, you're exempt from traffic offences (speeding, crashes) while you respond.
 
-Lihat [Vehicles](/sumaya/vehicles) untuk butiran.
+See [Vehicles](/sumaya/vehicles) for details.
 
-## Pangkat
+## Ranks
 
-Polis mempunyai **16 ranks**, paling banyak antara mana-mana perkhidmatan kecemasan. Gelaran adalah berdasarkan pangkat sebenar MYSverse Police (POLIS).
+Polis has **16 ranks**, the most of any emergency service. Titles are based on real Polis MYSverse ranks (POLIS).
 
-| Tahap | Pangkat |
-|-------|---------|
+| Level | Rank |
+|-------|------|
 | 1 | Police Constable |
 | 6 | Lance Corporal (L/Cpl) |
 | 11 | Corporal (Cpl) |
@@ -242,25 +241,25 @@ Polis mempunyai **16 ranks**, paling banyak antara mana-mana perkhidmatan kecema
 | 77 | Deputy Commissioner of Police (DCP) |
 | 89 | Commissioner of Police (CP) |
 
-Dari tahap 89 dan ke atas anda berada di puncak. Tiada perubahan pangkat semasa anda menuju ke had tahap 100.
+From level 89 onward you're at the top. No rank change as you push to the level 100 cap.
 
-## Dikecualikan semasa menyahut panggilan
+## Exempt while responding
 
-Jika anda mempunyai **siren active** kenderaan Polis anda, anda tidak boleh disaman kerana memandu laju atau kemalangan semasa anda memandu. Sistem mengiktiraf bahawa anda sedang menyahut panggilan. Matikan siren apabila anda parkir - jika tidak pemain lain mungkin menganggap anda masih menyahut panggilan.
+If you have your Polis vehicle's **siren active**, you can't be cited for speeding or crashes while you drive. The system recognises you're on a call. Turn the siren off when you park - otherwise other players might think you're still responding.
 
-## Petua
+## Tips
 
-- **Gunakan MDT.** Jangan hanya meronda secara membuta tuli. MDT menunjukkan setiap suspek yang dikehendaki dan membolehkan anda menetapkan waypoint kepada mereka secara terus.
-- **Berpasangan.** Dua POLIS dalam 50 studs bermakna pegawai bukan-penangkap mendapat 50% daripada ganjaran secara percuma. Bagus untuk grind berasaskan rakan.
-- **Jangan terlepas bonus pencapaian.** Setiap 5 tangkapan = +200 Ringgit. Rancang syif anda untuk mencapai 5, 10, 15.
-- **Tangkapan 5-star adalah besar.** Satu tangkapan 5-star = 400 XP + 1200 Ringgit. Ia lebih sukar untuk dibuat tetapi berbaloi untuk dinanti.
-- **Siren = tiada saman.** Hidupkannya apabila anda memandu ke panggilan - jika tidak memandu laju anda sendiri boleh menyebabkan anda mendapat saman, secara memalukan.
-- **Jangan jadi orang yang dikehendaki sendiri.** Jika anda melepasi 1-star wanted sebagai POLIS, listener demotion langsung mengeluarkan anda daripada pasukan kecemasan dan despawn kenderaan kecemasan anda. Tinggalkan pasukan terlebih dahulu jika anda mahu bermain sebagai penjenayah.
-- **XP bantu kebakaran hanya untuk Kesihatan.** Berlawanan dengan apa yang kelihatan intuitif, POLIS TIDAK memperoleh XP daripada insiden kebakaran berdekatan - permainan menyemak `JobType == "EMS"`, dan POLIS mempunyai `JobType = "Law"`. Hanya pemain Kesihatan mendapat manfaat 10 player XP per blok daripada berdiri dalam 512 studs daripada kebakaran.
+- **Use the MDT.** Don't just patrol blindly. The MDT shows every wanted suspect and lets you waypoint them directly.
+- **Partner up.** Two POLIS within 50 studs means the non-arresting officer gets 50% of the reward for free. Great for a friend-based grind.
+- **Don't miss milestone bonuses.** Every 5 arrests = +200 Ringgit. Plan your shift to hit 5, 10, 15.
+- **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
+- **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
+- **Don't become wanted yourself.** If you cross into 1-star wanted as POLIS, the live demotion listener removes you from the emergency team and despawns your emergency vehicle. Leave the team first if you want to play criminal.
+- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
 
-## Apa seterusnya?
+## What next?
 
-- [Crime and Law](/sumaya/crime-and-law) untuk apa yang anda hadapi.
-- [Bomba](/sumaya/bomba) dan [Kesihatan](/sumaya/kesihatan) untuk perkhidmatan lain.
-- [Vehicles](/sumaya/vehicles) untuk katalog kenderaan Polis.
-- [Progression](/sumaya/progression) untuk cara XP dan pangkat berfungsi.
+- [Crime and Law](/sumaya/crime-and-law) for what you're up against.
+- [Bomba](/sumaya/bomba) and [Kesihatan](/sumaya/kesihatan) for the other services.
+- [Vehicles](/sumaya/vehicles) for the Polis vehicle catalogue.
+- [Progression](/sumaya/progression) for how XP and ranks work.

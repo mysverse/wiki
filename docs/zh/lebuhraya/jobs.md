@@ -2,185 +2,187 @@
 title: 工作
 description: Lebuhraya 全部工作说明 - 按机构分类（Pengangkutan 等），附薪资说明。
 lang: zh
-translated_from_hash: "5cce8469"
-translated_on: 2026-05-18
+translated_from_hash: '48569759'
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 工作
 
-Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers](/lebuhraya/teams)）。本页是你在每项工作里实际**该做什么**的参考 - 如何开始、游戏循环、一般奖励以及工作的地点。
+Every job in Lebuhraya belongs to a team (see [Teams and careers](/lebuhraya/teams)). This page explains what you actually **do** on each job, how to start it, typical rewards, and where the job takes place.
 
-工作按组织它们的**机构**分类。
-
-## 开始工作前
-
-大多数工作都遵循相同的基本模式：
-
-1. 从 **Main Menu -> Teams** 加入正确队伍。
-2. Spawn 合适的队伍或平民车辆。
-3. 如果工作提供 tool 或 job UI，请 equip tool 或打开 UI。
-4. 跟随 waypoint、prompt 或 task panel。
-5. 完成任务以获得 XP、job progress、missions/challenges progress，有时也会获得 BR。
-
-常见阻碍：
-
-- **队伍错误**：prompt 出现但拒绝开始，或队伍车辆不见。
-- **车辆/spawner 错误**：队伍车辆只会出现在匹配的 spawner 中。
-- **任务已经激活**：开始另一个任务前，先完成或取消当前任务。
-- **Private server/test server**：适合练习，但 progression 可能不会保存。
-
-打开 **Main Menu -> Activity** 追踪 missions/challenges，并打开 **Main Menu -> More -> Jobs** 查看 branch tier progress。
+Jobs are grouped by the **agency** that organises them.
 
 ---
 
-## Pengangkutan (Transport)
+## Before you start a job
+
+Most jobs follow the same basic pattern:
+
+1. Join the correct team from **Main Menu -> Teams**.
+2. Spawn a suitable team or civilian vehicle.
+3. Equip the tool or open the job menu if the job provides one.
+4. Follow the waypoint, prompt, or task panel.
+5. Complete the task to earn XP, job progress, challenge progress, and sometimes BR.
+
+Common blockers:
+
+- **Wrong team**: the prompt appears but refuses to start, or the team vehicle is missing.
+- **Wrong vehicle/spawner**: team vehicles only appear in matching spawners.
+- **Task already active**: finish or cancel the current task before starting another.
+- **Private server/test server**: useful for practice, but progression may not save.
+
+Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> More -> Jobs** to check branch tier progress.
+
+---
+
+## Pengangkutan (transport)
 
 ### Taxi Driver
 
-**解锁**：Taxi Driver gamepass（或 Bandaraya gamepass，其中已包含 Taxi 使用权）。
+**Unlock**: Taxi Driver gamepass (or the Bandaraya gamepass, which includes Taxi access).
 
-**如何开始**：从主菜单加入 Taxi Driver 团队。从屏幕上的 TaxiGui 将 **Duty** 状态切换为开启。
+**How to start**: Join the Taxi Driver team from the Main Menu. Toggle your **Duty** status to on from the TaxiGui on screen.
 
-**你要做什么**：
-1. 值班时系统会分配一个接客点 - 驾车到正在等出租车的 NPC 处。
-2. NPC 上车后，驾车到标示的放客点。
-3. 任务会在你停在放客点范围内（约 50 stud）时完成。
-4. 新任务会立即分配。
+**What you do**:
+1. When you're on duty, a pickup point is assigned - drive to the NPC waiting for a taxi.
+2. The NPC gets in your taxi. Drive to the marked dropoff point.
+3. The mission completes when you stop within range (about 50 studs) of the dropoff.
+4. A new mission is assigned immediately.
 
-**奖励**：
-- **XP** 按距离换算：约 **每 stud 0.11 到 0.13 XP**。4000 stud 的车费可获 440–520 XP。
-- BR payments 已计划在未来更新加入。
+**Rewards**:
+- **XP** scales with distance. Longer fares pay more.
+- BR fares are not a reliable live payout yet, so treat taxi work as an XP and career-progress job for now.
 
-**路线**：Pickup 和 dropoff 目前从城市中的 4 个 pickup points 和 4 个 dropoff points 抽取 - 在添加更多点位前，路线会逐渐重复。
+**Routes**: Pickups and drop-offs are currently drawn from a small set of city points, so routes repeat over time.
 
-**车辆**：任何车辆都可以，但想获得最佳收入就使用专用出租车 - Protan Saga Taxi、Perosatu Bezza Taxi、Protan Preve Taxi。更高等级的 Taxi Driver 会解锁更好的车型（以及更大的载客量）。
+**Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi - Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
 
 ### Bus Driver
 
-**解锁**：免费 - 这是两个免费团队之一。
+**Unlock**: Free - this is one of two free teams.
 
-**如何开始**：加入 Bus Driver 团队。使用 Bus Driver / bus vehicle spawner，并从 Bandar Seri Putra 的 **Depoh Bas** 开始一条路线。
+**How to start**: Join the Bus Driver team. Use a Bus Driver / bus vehicle spawner and begin a route from the **Depoh Bas** in Bandar Seri Putra.
 
-**你要做什么**：沿固定巴士路线行驶，在指定巴士站停车接送 NPC 乘客。完整路线会支付 XP；BR 报酬计划在未来更新加入。
+**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off passengers. Full routes pay XP.
 
-**车辆**：巴士 - Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Hiace Passenger/Transport 变种。
+**Vehicle**: Buses - Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
 
-**巴士公司联属**：三个外部的 Roblox 组代表游戏世界中的巴士运营商 - **FirstGroup PLC**、**Fertua Transport** 和 **Hornbill Bus**。加入其中任一组即可在特定巴士上使用他们的涂装／品牌（纯粹角色扮演；这些组由社群营运）。
+**Bus company affiliations**: Three external Roblox groups represent in-universe bus operators - **FirstGroup PLC**, **Fertua Transport**, and **Hornbill Bus**. Join any of them to carry their livery / branding on select buses (purely roleplay; the groups are community-run).
 
-### Logistics (Trucking)
+### Logistics (trucking)
 
-**解锁**：Level 75，或使用 Season 1 Season Pass 可提早解锁。
+**Unlock**: Level 75, or earlier with the Season 1 Season Pass.
 
-**如何开始**：加入 Logistics 团队。前往货运合约点（地图上以 ProximityPrompts 标示）领取一项运输任务。
+**How to start**: Join the Logistics team. Head to a freight contract point (marked ProximityPrompts around the map) and take on a delivery.
 
-**你要做什么**：
-1. 找到货运承包商（ProximityPrompt）。接受合约后会分配一辆货运卡车／拖车给你。
-2. 将拖车挂到挂点，然后驾驶装载的卡车到送货目的地。
-3. 解挂并完成送货。
+**What you do**:
+1. Find a freight contractor (ProximityPrompt). Accept a contract and a freight truck / trailer is assigned to you.
+2. Hitch the trailer to the hook point and drive the loaded truck to the delivery destination.
+3. Unhitch and complete the delivery.
 
-**奖励**：送货过程中 **每公尺（~stud）0.09 XP**。5,000 stud 的运输可获约 450 XP - Trucking 是长途工作中的 XP 主力。
+**Rewards**: Trucking rewards long-distance driving. A 5,000-stud haul pays about **450 XP**, making it one of the best jobs for players who enjoy long routes.
 
-**车辆**：重型货运卡车 - Rolvo FM、Rolvo FM RORO Truck、Sanica P310。
+**Vehicle**: Heavy-freight trucks - Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
 
 ---
 
-## Perkhidmatan (Services)
+## Perkhidmatan (services)
 
 ### Food Delivery
 
-**解锁**：Level 10。这通常是你的第一份正式工作。
+**Unlock**: Level 10. This is usually your first real job.
 
-**如何开始**：加入 Food Delivery 团队。系统会自动分配一项送餐任务给你。
+**How to start**: Join the Food Delivery team. A delivery is assigned to you automatically.
 
-**你要做什么**：
-1. 前往路点上显示的店铺（[12 家店铺](/lebuhraya/shops)之一）。
-2. 与店铺 NPC 互动以取餐（你的角色会将餐点作为 tool 拿在手上）。
-3. 驾车到路点上的顾客位置。
-4. 与顾客 NPC 互动，将餐点交给对方。
+**What you do**:
+1. Go to the shop shown on your waypoint (one of the [12 shops](/lebuhraya/shops)).
+2. Interact with the shop NPC to pick up the food order (your character will receive the food item as a tool).
+3. Drive to the customer's location on your waypoint.
+4. Interact with the customer NPC to hand over the order.
 
-**奖励**：每单送餐 **固定 250 XP**。如果较旧的游戏文字提到 BR，请暂时把它当作未来经济系统的描述。
+**Rewards**: **250 XP** per delivery. Older text may mention BR, but the current reliable reward is XP.
 
-**车辆**：任何都可以。在蜿蜒的街道上，摩托车（Handai EX5）通常最快。
+**Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
 
 ### Post Office
 
-**解锁**：Level 50。
+**Unlock**: Level 50.
 
-**如何开始**：加入 Post Office 团队，前往 **Pos Nasional Jersik** 领取一条送件路线。
+**How to start**: Join the Post Office team and visit **Pos Nasional Jersik** to pick up a delivery route.
 
-**你要做什么**：从四个邮政区（**Bandar Seri Putra**、**Jersik**、**Kampung Merbang**、**Putra Mahkota**）之一的邮筒收取包裹，处理后送到标示的信箱地址。
+**What you do**: Collect packages from postboxes in one of the four postal zones (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), process them, and deliver to the marked mailbox addresses.
 
-**奖励**：**每件包裹 25 XP**，外加一个工作专属的 "Money" 计数器，每送一件就增加。这个计数器**不是**你的普通 BR 余额。此工作也有自己的等级系统，和你的主玩家等级分开：
+**Rewards**: **25 XP per package** plus a Post Office money counter that grows with each delivery. This counter is part of the Post Office job and should not be treated as spendable BR yet. The job also has its own Post Office level, separate from your main player level:
 
-- Post Office 最高等级：**20**
-- 每个 Post Office 等级所需 XP：`100 × level`（因此 Level 1 需 100 XP，Level 20 需 2,000 XP）
-- 每件包裹薪水（以 POS "Money" 保存）：`60 + (level × 10)` - Level 1 每单得 70，Level 20 每单得 260
+- Max Post Office level: **20**
+- Higher Post Office levels need more Post Office XP.
+- Higher Post Office levels increase the job's own money counter per delivery.
 
-当 BR 经济上线后，POS Money 预计会对接到你真实的 BR 余额。目前请把它当作个人进度计数器。
+For now, think of the Post Office money counter as personal job progress.
 
-切换区域会强制你停止当前工作，所以挑一个区域并在整个高效率的一场游戏中坚持下去。
+Switching zones forces you to stop the current job, so pick a zone and stick with it for a productive session.
 
-**车辆**：Handai EX5 Pos（摩托车）或 Tayoti Hilux Pos（皮卡）。
+**Vehicle**: Handai EX5 Pos (motorcycle) or Tayoti Hilux Pos (truck).
 
 ### Waste Disposal
 
-**解锁**：Level 25（较旧的游戏文本可能仍写 50 - level 25 才是当前的游戏内数值）。
+**Unlock**: Level 25 (older game text may still say 50 - level 25 is the current in-game value).
 
-**如何开始**：加入 Waste Disposal 团队。阅读背包中的 **Waste Disposal Guide** tool。
+**How to start**: Join the Waste Disposal team. Read the **Waste Disposal Guide** tool in your inventory.
 
-**你要做什么**：
-1. 将垃圾车驶到垃圾桶旁。地图上一共散布着 **114 个垃圾桶**。
-2. 与垃圾桶的 "trashProx" 提示互动以触发抬起动画。垃圾会累积在你的车上。
-3. 车装满后，驶到两座 **Stesen Insinerasi**（焚化站 - Bandar Seri Putra 和 Jersik）之一。
-4. 在焚化炉的区域丢弃即可结算。你会看到显示收入的 "Pay" 通知。
+**What you do**:
+1. Drive your rubbish truck to a trash bin. There are **114 bins** scattered across the map.
+2. Interact with the bin prompt to trigger the lifting animation. Rubbish accumulates on your truck.
+3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations - Bandar Seri Putra and Jersik).
+4. Deposit at the incinerator's zone to cash out. You'll see a "Pay" notification with your earnings.
 
-**奖励**：在焚化炉处支付，与收集到的垃圾量成正比。路线越长、停点越多，报酬越高。
+**Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
 
-**车辆**：来自 Waste Disposal 队伍车辆 spawner 的垃圾车。
+**Vehicle**: Rubbish truck from the Waste Disposal team vehicle spawner.
 
-**关于报酬的说明**："Pay" 通知显示的是游戏内的金额，但 BR 经济尚未上线 - 实际入账到你账户的奖励是 XP。当经济上线后，该金额才会变成真正的 BR 入账。
+**Note on pay**: The "Pay" notification can show an in-world amount, but XP is the reliable reward while the BR economy is still being rolled out.
 
 ---
 
-## Kecemasan (Emergency)
+## Kecemasan (emergency)
 
 ### Bomba
 
-**解锁**：Bomba gamepass。
+**Unlock**: Bomba gamepass.
 
-**如何开始**：加入 Bomba 团队。装备 **Pager** tool 以接收紧急警报。当 999 来电进来（火灾、车祸）时，接受事件。
+**How to start**: Join the Bomba team. Equip your **Pager** tool to receive emergency alerts. When a 999 call comes in (fire, crash), accept the incident.
 
-**你要做什么**：
-- **灭火**：响应火灾，使用水喉和灭火器。
-- **救援**：使用扩张器和 chainsaw 救出被困的驾驶。
-- **医疗协助**：Bomba 与 Kesihatan 一起响应车祸。
+**What you do**:
+- **Firefighting**: Respond to fires, use hoses and fire extinguishers.
+- **Rescue**: Use spreaders and chainsaws to extract trapped drivers.
+- **Medical assist**: Bomba responds to car crashes alongside Kesihatan.
 
-**Tool**：Chainsaw、Spreaders、Fire（水喉）、Pager。
+**Tools**: Chainsaw, Spreaders, Fire (hose), Pager.
 
-**车辆**：消防车 - Merze Atego LFRT Bomba、Sanica P310 FRT Bomba、Sanica 94D LFRT Bomba、Sanica P360 Tanker、Masubi Triton 变种、Tayoti Hiace MTV EMRS。
+**Vehicle**: Fire trucks - Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, Masubi Triton variants, Tayoti Hiace MTV EMRS.
 
-**奖励**：每处理一起事件获得 XP。事件规模越大，报酬越高。
+**Rewards**: XP per incident resolved. Larger incidents pay more.
 
-### Kesihatan (KKN Medic)
+### Kesihatan (KKN medic)
 
-**解锁**：Level 200。
+**Unlock**: Level 200.
 
-**如何开始**：加入 Kesihatan 团队。装备 **Pager** tool。接受 999 医疗事件。
+**How to start**: Join the Kesihatan team. Equip your **Pager** tool. Accept 999 medical incidents.
 
-**你要做什么**：
-1. 响应并赶到事件地点（需在 12 stud 内才可互动）。
-2. **评估** 病人的伤势 - 别拖延。评估前等待超过 60 秒会带来生存惩罚。
-3. 用你的 tool 按正确顺序**治疗**伤势（Splint、First Aid Kit、Bandage）。错误的治疗每次会使病人生存分数降低 3。
-4. **稳定化** - 成功稳定化可获 +15 生存。
-5. 将病人放上担架，然后移入你的救护车（需在救护车 25 stud 内才能装载）。
-6. 送至 **Klinik Kesihatan Bandar Seri Putra** 或其他医院区域。
+**What you do**:
+1. Respond to the incident location (within 12 studs to interact).
+2. **Assess** the patient's injuries - don't dawdle. Waiting longer than 60 seconds before assessing incurs a survival penalty.
+3. **Treat** the injuries in the correct order using your tools (Splint, First Aid Kit, Bandage). Wrong treatments reduce the patient's survival score by 3 per mistake.
+4. **Stabilise** - a successful stabilisation gives +15 survival.
+5. Load the patient onto a stretcher, then into your ambulance (must be within 25 studs of the ambulance to load).
+6. Transport to **Klinik Kesihatan Bandar Seri Putra** or another hospital zone.
 
-**伤势类型**（共 12 种，每种需要特定治疗顺序）：
+**Injury types** include cuts, broken limbs, heavy bleeding, shock, unconscious patients, and fire-related injuries. Each one needs the right treatment sequence:
 
-| 伤势 | 治疗步骤 | 基础 XP |
+| Injury | Treatment steps | Base XP |
 |---|---|---|
 | Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
-| Broken Arm / Broken Leg（左或右） | Apply Splint | 75 |
+| Broken Arm / Broken Leg (left or right) | Apply Splint | 75 |
 | Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
 | Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
 | Unconscious | Stabilise Patient → Monitor Vitals | 90 |
@@ -189,127 +191,123 @@ Lebuhraya 里的每项工作都属于一个团队（请参阅 [Teams and Careers
 | Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
 | Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
 
-每个治疗动作需要 **2-5 秒**。阅读病人的 dialogue clues - 带马来西亚风格的台词如 *"Aduh... I'm bleeding"*、*"My leg! I can't stand!"*、*"The fumes... help..."* 会提示问题。
+Treatment actions take **2–5 seconds** each to perform. Read the patient's dialogue clues - Malaysian-flavoured lines like *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* hint at what's wrong.
 
-**病人行为类型**（随机）：
-- **Cooperative (60%)** - 正常，会表达感谢
-- **Panicked (25%)** - 戏剧化（"I thought I was going to die!"）；仍会配合
-- **Aggressive (15%)** - 敌对（"Don't touch me!"、"Get away!"）；在你用第一个正确治疗让他们冷静前，survival 会 **2× 更快**下降
+**Patient behaviour types** vary. Some patients cooperate, some panic, and some resist help until you start treating them correctly.
 
-**完整流程**及完美案例 XP：
+**Full flow** and typical XP sources:
 
-| 步骤 | XP |
+| Step | XP |
 |---|---|
 | Assessment | 25 |
-| Injury treatment（全部正确） | 每个伤势 50-100 |
+| Injury treatment (all correct) | 50–100 per injury |
 | Stabilisation bonus | +50 |
 | Place on stretcher | +25 |
 | Load into ambulance | - |
 | Admit to hospital | +100 |
-| Request evacuation（替代 - chopper） | +40 |
-| Wrong treatment（惩罚） | -10（每次错误） |
+| Request evacuation (alternate - chopper) | +40 |
+| Wrong treatment (penalty) | −10 (per mistake) |
 
-完美 Traumatic Brain Injury 案例 = 25 + 100 + 50 + 25 + 100 = **300 XP**（再加任何 multiplier，但固定 Assessment 奖励除外）。
+A clean, fast medical response pays much better than a delayed or mistake-heavy one.
 
-**Tool**：Splint、First Aid Kit、Bandage、Kesihatan Booklet、Pager。
+**Tools**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
 
-**车辆**：Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV。
+**Vehicle**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
 
 ---
 
-## Polis (Police)
+## Polis (police)
 
-所有警队都共用 999 紧急调度，并可使用相同的执法 tool。区别在于他们的 spawn 位置、制服和车辆涂装。
+All police teams share the 999 emergency dispatch and can use the same enforcement tools. What differs is where they spawn, the uniform, and the vehicle liveries.
 
 ### KEMRonda
 
-**解锁**：KEMRonda gamepass。
+**Unlock**: KEMRonda gamepass.
 
-**如何开始**：加入 KEMRonda 团队。
+**How to start**: Join the KEMRonda team.
 
-**你要做什么**：高速公路辅助巡逻 - 协助抛锚的驾驶人、拖走受损车辆，并在事件周围设置交通管制（锥形筒、标志）。
+**What you do**: Highway auxiliary patrol - assist stranded motorists, tow damaged vehicles, set up traffic management (cones, signs) around incidents.
 
-**Tool**：Powertorch、Placeables SCone、Placeables PBSign、Advanced Tool Kit。
+**Tools**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
 
-**车辆**：KEMRonda PB Peronda Hilux 变种、iZu Tow Truck KEMRonda、iZu Tow Bed KEMRonda。
+**Vehicle**: KEMRonda PB Peronda Hilux variants, iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
 
 ### Polis Trafik
 
-**解锁**：Polis Trafik gamepass。
+**Unlock**: Polis Trafik gamepass.
 
-**如何开始**：加入 Polis Trafik 团队。
+**How to start**: Join the Polis Trafik team.
 
-**你要做什么**：交通执法 - 使用 **Radar Gun** 抓超速者、响应 999 事件、开罚单。
+**What you do**: Traffic law enforcement - use the **Radar Gun** to catch speeders, respond to 999 incidents, issue tickets.
 
-**自动违规**：游戏会自动侦测两类交通违规 - **闯红灯**和**超速**。每次侦测到的违规会：
-- 在违规驾驶的屏幕上显示红色通知
-- 在他们的违规记录中添加一点
-- 触发一个 60 秒的 "passive lock"，阻挡某些互动
+**Automatic offences**: The game can detect **running a red light** and **speeding**. Each detected offence:
+- Shows a red notification on the offending driver's screen
+- Can notify traffic officers for roleplay follow-up
 
-Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
+Polis Trafik players can be notified of detected offences and respond.
 
-**Tool**：Taser X26P、Radar Gun、Whistle、Torchlight、Placeables PolisCone、Placeables PolisSign、Placeables PolisUmbrella。
+**Tools**: Taser X26P, Radar Gun, Whistle, Torchlight, Placeables PolisCone, Placeables PolisSign, Placeables PolisUmbrella.
 
-**车辆**：Handai Civic Type R HPV Polis、Masubi Lancer HPV Polis、Kasaki Ninja Polis，以及各种护送变种。
+**Vehicle**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, and various escort variants.
 
 ### Undercover Police
 
-**解锁**：Undercover Police gamepass。
+**Unlock**: Undercover Police gamepass.
 
-**如何开始**：加入 Undercover Police 团队。
+**How to start**: Join the Undercover Police team.
 
-**你要做什么**：与 Polis Trafik 相同的工具组，但使用无标记车辆。更适合隐蔽行动和侦察。
+**What you do**: Same toolkit as Polis Trafik, but on unmarked vehicles. Better for discreet operations and observation.
 
-**Tool**：与 Polis Trafik 相同。
+**Tools**: Same as Polis Trafik.
 
-**车辆**：无标记变种 - Protan Persona Taxi（是的，真的）、Protan Saga Unmarked、Perosatu Bezza Unmarked、Protan X70 Unmarked、Masubi Lancer HPV Polis Tartan。
+**Vehicle**: Unmarked variants - Protan Persona Taxi (yes, really), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
 
 ---
 
-## Penguatkuasaan (Enforcement)
+## Penguatkuasaan (enforcement)
 
 ### APJ
 
-**解锁**：Level 300。
+**Unlock**: Level 300.
 
-**如何开始**：加入 APJ 团队。
+**How to start**: Join the APJ team.
 
-**你要做什么**：Road Transport Agency - MYSverse 的道路交通管理机构。检查车辆、执行道路运输法规、与警方协调。
+**What you do**: Road Transport Agency - the equivalent of MYSverse road transport authority. Inspect vehicles, enforce road transport regulations, coordinate with police.
 
-**Tool**：Torchlight、Placeables SCone。
+**Tools**: Torchlight, Placeables SCone.
 
-**车辆**：Protan Inspira APJ、Protan X70 APJ。
+**Vehicle**: Protan Inspira APJ, Protan X70 APJ.
 
 ---
 
-## Sumber (Resources)
+## Sumber (resources)
 
 ### Power Nasional
 
-**解锁**：Level 100。
+**Unlock**: Level 100.
 
-**如何开始**：加入 Power Nasional 团队。
+**How to start**: Join the Power Nasional team.
 
-**你要做什么**：国家电力公用事业承包商工作。响应停电事件、检查基础设施、工作时摆放安全锥。
+**What you do**: National electric utility contractor work. Respond to power outages, inspect infrastructure, set up safety cones while working.
 
-**Tool**：Placeables SCone。
+**Tools**: Placeables SCone.
 
 ### Lumberjack
 
-**解锁**：Level 150，或使用 Season 1 Season Pass 可提早解锁。
+**Unlock**: Level 150, or earlier with the Season 1 Season Pass.
 
-**如何开始**：加入 Lumberjack 团队，装备你的 **Axe** tool，前往 lumberjack 区域（位于 Jersik 的 H Plantation 附近）。
+**How to start**: Join the Lumberjack team, equip your **Axe** tool, head to the lumberjack zone (near H Plantation in Jersik).
 
-**你要做什么**：
-1. 用斧头砍树（你必须在距离树 8–15 stud 范围内）。
-2. 木头会累积在你的个人储存中。
-3. 在店铺卖出木头以获得 XP。
+**What you do**:
+1. Chop trees with the axe (you must be within 8–15 studs of the tree).
+2. Wood accumulates in your per-player storage.
+3. Sell wood at the shop for XP.
 
-**奖励**：每公斤卖出的木头 **3 XP**。
+**Rewards**: **3 XP per kilogram** of wood sold.
 
-**储存容量会随你的 Lumberjack 等级增长**：
+**Storage capacity grows with your Lumberjack level**:
 
-| 玩家等级 | 储存容量（kg） |
+| Player Level | Storage (kg) |
 |---|---|
 | 1 | 10 |
 | 50 | ~40 |
@@ -317,148 +315,148 @@ Polis Trafik 玩家会收到被侦测到的违规通知并可前往处理。
 | 200 | ~189 |
 | 500 | ~984 |
 
-公式：`10 + (level-1)×0.5 + (level-1)²×0.00197`，因此储存在早期几乎呈线性增长，在高等级时加速。
+Storage grows slowly at first and much faster at higher levels.
 
 ---
 
-## 回到校园
+## Back to school
 
 ### School
 
-**如何开始**：前往 **SMK MYS II**（高速公路旁的中学 POI）。走进四个教室区之一 - Matematik、Sains、Sejarah、Geografi（数学、科学、历史、地理）。
+**How to start**: Head to **SMK MYS II** (the secondary school POI on the highway). Walk into any of the four classroom zones - Matematik, Sains, Sejarah, Geografi (Math, Science, History, Geography).
 
-**你要做什么**：课程以 **2 分钟铃声周期** 运作 - 上下课时钟声会响起。在课堂中，会开始一场小测验。每道题都有计时 - 答得越快，加成越多。
+**What you do**: Classes run on a **2-minute bell cycle** - the bell chimes as classes begin and end. While in a class, a quiz starts. Each question is timed - answer faster for a bigger bonus.
 
-**每题正确答案的计分**：
-- 基础分：**10 分**
-- 时间奖励：若在 **2.5 秒** 内作答可获满额奖励；之后线性衰减至零
-- 每题正确答案 **250 XP**（适用倍率）
+**Scoring per correct answer**:
+- Base score: **10 points**
+- Time bonus: up to a full bonus if you answer within **2.5 seconds**; decays linearly to zero after that
+- **250 XP** per correct answer (multipliers apply)
 
-学校也支撑每周挑战：**Quiz Master (Advanced)** - 每题在 2 秒内作答，连续答对 **28 道测验题** 可获 **1,000 XP**。较旧的基础版 "Quiz Master"（21 题 × 3 秒，奖励一辆 BMY M5 CS）目前已停用 - 因此只有进阶版小测在线。
+The school also powers a weekly challenge: **Quiz Master (Advanced)** - answer **28 quiz questions within 2 seconds each** for **1,000 XP**. The older basic "Quiz Master" variant (21 questions × 3 seconds, rewarded a BMY M5 CS) is currently disabled - so only the advanced quiz is live.
 
-**为什么值得去**：阅读时被动、低压力地获得 XP；学校是少数仍给经验值的 AFK 友好地点之一。班次之间去逛一逛很棒。
+**Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
 
-## 社群工作（Malaysians 组）
+## Community jobs (Malaysians group)
 
-这些活动对任何加入 **Malaysians** 团队的人开放（在 MYSverse 组达到 rank 1+ 即可加入）。
+These activities are available to anyone on the **Malaysians** team (join the MYSverse group at rank 1+).
 
 ### Fishing
 
-**如何开始**：装备鱼竿，前往 **Fishing Port**（位于地图的沿海区）或任何水域。
+**How to start**: Equip a fishing rod and head to the **Fishing Port** (in the map's coastal area) or any water.
 
-**你要做什么**：
-1. 抛竿。
-2. 等鱼上钩。
-3. 抖动鱼竿（跟随屏幕提示）来收线。
-4. 在店铺卖鱼换取 BR。
+**What you do**:
+1. Cast your rod.
+2. Wait for a bite.
+3. Shake the rod (follow on-screen prompts) to reel in.
+4. Sell fish at shops for BR.
 
-**你能钓到什么**：当前鱼类阵容有 10 项，按 rarity 加权，并在出售时支付不同 XP：
+**What you can catch**: The current fish roster has 10 entries, weighted by rarity and paying different XP on sell:
 
-| 渔获 | 概率（weight） | 出售 XP |
+| Catch | Rarity | XP on sell |
 |---|---|---|
-| Torpedo Scad | 60 | 8 |
-| Indian Mackerel | 55 | 15 |
-| Pomfret | 45 | 22 |
-| Snapper | 45 | 27 |
-| Siakap (sea bass) | 40 | 32 |
-| Red Snapper | 35 | 45 |
-| Tin Can | 20 | 0（垃圾） |
-| Boot | 20 | 0（垃圾） |
-| **Yifish** | **0.5** | **696**（jackpot - 约 87× Torpedo Scad！） |
-| meow | - | 独立 easter egg，非常稀有，独特奖励 |
+| Torpedo Scad | Common | 8 |
+| Indian Mackerel | Common | 15 |
+| Pomfret | Uncommon | 22 |
+| Snapper | Uncommon | 27 |
+| Siakap (sea bass) | Uncommon | 32 |
+| Red Snapper | Rare | 45 |
+| Tin Can | Junk | 0 |
+| Boot | Junk | 0 |
+| **Yifish** | **Extremely rare** | **696** |
+| meow | Easter egg | Unique reward |
 
-**Yifish 是钓鱼人的 white whale。** 0.5% catch weight 让它比最常见鱼几乎稀有 100×，但单条 Yifish 出售可获得接近 700 XP - 超过两次 Food Delivery。若你有耐心，值得一钓。
+**Yifish is the fisherman's white whale.** A single Yifish sell pays nearly 700 XP, which is more than two Food Delivery runs. Worth casting for if you have patience.
 
-**抛竿距离**：距离你站立的位置最远 80 stud。
+**Casting range**: up to 80 studs from where you're standing.
 
-**贩售**：鱼可在 fishing-port 店铺区域出售。目前奖励只有 **XP**。稀有渔获会比常见鱼支付更多 XP。
+**Selling**: Fish sell at fishing-port shop zones. The reliable reward is **XP**, and rare catches pay much more than common fish.
 
 ### Checkout
 
-**如何开始**：走进食品店或 KeluargaMart 的收银台。
+**How to start**: Walk into a cashier station at a food shop or the KeluargaMart.
 
-**你要做什么**：
-1. 柜台会 spawn 一位 NPC 顾客。顾客的 avatar 是**从你的 Roblox 好友列表中随机挑选**的 - 所以如果你的好朋友也玩 Lebuhraya，他们可能以你下一位顾客的身份出现。（需要你至少有一位好友才能玩。）
-2. 顾客会从可选菜单中点 1–4 样食品。
-3. 你有 **15–20 秒** 选对物品并完成订单。
-4. 在计时器结束前为他们服务，否则他们会生气离开（没有奖励）。
+**What you do**:
+1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** - so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
+2. The customer requests 1–4 food items from the available menu.
+3. You have **15–20 seconds** to select the right items and complete the order.
+4. Serve them before the timer expires or they leave angry (no reward).
 
-**奖励**：每位服务过的顾客随机 **3–8 XP**，在你轮班结束时结算。每分钟的收益率并非最高，但这是一种社交且低压力的玩法，还能看到熟悉的脸孔。
+**Rewards**: Random **3–8 XP per customer served**, awarded at the end of your shift. Not the highest rate per minute, but a social, low-pressure way to play and see familiar faces.
 
-**提醒**：目前奖励只有 XP；BR 奖励计划在未来经济更新加入。
+**Heads up**: The reliable reward is XP. Treat Checkout as a social, low-pressure job rather than a money grind.
 
 ---
 
-## 所有人都可以玩
+## Open to everyone
 
 ### Racing
 
-**如何开始**：打开 **LBHRY_RaceMenu**（topbar）。选择一条赛道。
+**How to start**: Open the race menu from the topbar and select a track.
 
-**你要做什么**：
-- **Time Trial** - 独自与时钟竞速。创造赛道纪录。
-- **PvP Lobby** - 建立或加入一个 lobby，等玩家载入，开始比赛。
+**What you do**:
+- **Time Trial** - race alone against the clock. Set track records.
+- **PvP Lobby** - create or join a lobby, wait for players to load in, start the race.
 
-**奖励如何计算**：XP = `baseXP × difficultyMul × placementMul × (PB ? 1.25 : 1.0)`；BR = `baseRinggit × difficultyMul × placementMul + (PB ? 50 : 0)`。被标记的场次（anti-cheat）只获得 10% XP，BR 为零。
+**How rewards are calculated**: Better placements, harder tracks, and personal bests pay more XP. Some races can also grant BR.
 
-| PvP 中的名次 | 倍率 |
+| Placement in PvP | Reward expectation |
 |---|---|
-| 第 1 名 | 2.0× |
-| 第 2 名 | 1.5× |
-| 第 3 名 | 1.2× |
-| 第 4 名起 | `max(0.3, 1.0 − 0.1 × (place − 3))` |
-| DNF | 0.15×（仅 XP，无 BR） |
-| Time Trial（单人） | 1.0× |
+| 1st | Best payout |
+| 2nd | Strong payout |
+| 3rd | Good payout |
+| 4th onwards | Smaller payout |
+| DNF | Small XP consolation only |
+| Time trial (solo) | Standard solo payout |
 
-难度倍率：**Easy 1.0×、Medium 1.5×、Hard 2.0×** - 所以同样的名次在 Hard 赛道的报酬会翻倍。
+Harder tracks pay more than easier tracks.
 
-Personal Best 额外获得 **+25% XP** 以及 **固定 +50 BR 奖励**。
+Personal Bests get an extra **+25% XP** and a **flat +50 BR bonus**.
 
-**赛道**：目前游戏仅有一条活跃赛道 - **Test Sprint** - 一个 3 检查点、1 圈的简短练习回路，难度为 Easy，任何等级的 Civ 级车辆皆可参加。基础报酬：1,500 XP / 300 BR。在 PvP 中取得新的第 1 名 PB 可获 **3,750 XP 和 650 BR**；单人 Time Trial 的 PB 可获 **1,875 XP 和 350 BR**。Test Sprint 支持最多 6 名赛车手，赛前 lobby 30 秒、起跑倒数 5 秒、首位抵达终点后 60 秒完赛超时。
+**Tracks**: Currently the game has one active track: **Test Sprint**, a short 3-checkpoint, 1-lap proving loop on Easy difficulty. It is open to civilian-class vehicles at any level and is based at the Jersik Race Track.
 
-"Jersik Race Track" POI 就是比赛在游戏世界中进行的地点。
+The "Jersik Race Track" POI is the in-world location where racing happens.
 
-**提醒**：比赛奖励会跳过全局 XP 倍率叠加（它们已预先缩放） - 所以 2× Double XP 周末或 XP Boost gamepass 不会叠加在比赛报酬之上。其他 XP 路径（驾驶、工作）仍享有这些倍率。
+**Heads up**: Race rewards use their own payout rules, so ordinary XP boosts may not behave the same way as they do for driving and jobs.
 
-随着游戏更新，会有更多赛道 - 比赛系统支持时间徽章（例如 sub-30s、sub-20s 勋章），用于设计师配置的赛道。
+Expect more tracks as the game updates.
 
 ### Convoy
 
-**如何开始**：在 Main Menu 或 convoy 图标中建立一个车队（你成为队长），或浏览 500 stud 范围内的公开车队并申请加入。
+**How to start**: In the Main Menu or convoy icon, create a convoy (you become the leader) or browse public convoys within 500 studs and request to join.
 
-**你要做什么**：最多 6 人一同驾驶在同一个车队中。彼此保持 200 stud 内的距离以维持加成激活。你有越多好友和同团队成员，XP 倍率就越高 - 最高可在基础 XP 叠加之上再 +50%。
+**What you do**: Drive with up to 6 people in the same convoy. Stay within 200 studs of each other to keep the bonus active. The more friends and same-team members you have, the higher the XP multiplier - up to +50% on top of the base XP stack.
 
-完整说明请参阅 [Social Features](/lebuhraya/social-features)。
+See [Social Features](/lebuhraya/social-features) for the full breakdown.
 
 ### Housing
 
-**如何开始**：前往 Bandar Seri Putra 的 **Pangsapuri Seri Putra** 认领一块空地。
+**How to start**: Visit **Pangsapuri Seri Putra** in Bandar Seri Putra to claim an available plot.
 
-**你要做什么**：放置一个房屋模板（3 种 Kampung 风格或 1 种 Modern Terrace）、自定义油漆、添加家具、锁定/解锁门、切换灯光。
+**What you do**: Place a house template (3 Kampung styles or 1 Modern Terrace), customise the paint, add furniture, lock/unlock doors, toggle lights.
 
-详情请参阅 [Housing](/lebuhraya/housing)。
-
----
-
-## 999 紧急系统
-
-任何玩家都可以拨打 999（参阅 [Social Features](/lebuhraya/social-features)）。如果你属于紧急团队（Bomba、Polis Trafik、Undercover Police、Kesihatan），装备 **Pager** 即可查看活跃事件并接受其中之一。
-
-- 事件类型：**车祸**、**伤员**。
-- 最多可同时有 **10 件事件** 开启。
-- 已解决的事件至少要 **30 秒** 后才发放奖励 - 这是最低响应窗口，目的是防止瞬间结案农奖。
-- 若事件被取消或你更换团队，你的指派将被移除。
+See [Housing](/lebuhraya/housing) for details.
 
 ---
 
-## 我该从哪份工作开始？
+## 999 emergency system
 
-- **Level 10**：Food Delivery 是经典的入门工作。每单 250 XP，路线短，任何车辆都能跑。
-- **加入了 MYSverse 组？** Fishing 很轻松，节奏自定。
-- **想要动作？** Bomba 或 Polis Trafik（需要 gamepass） - 大量 999 事件、社交角色扮演。
-- **想开几个小时车？** Logistics 或 Taxi（Taxi 需要 gamepass，Logistics 需要 Level 75 或 Season 1 Pass）。
+Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If you're on an emergency team (Bomba, Polis Trafik, Undercover Police, Kesihatan), equip your **Pager** to see active incidents and accept one.
 
-## 下一步
+- Incident types: **Car Crash**, **Injured Person**.
+- Up to **10 incidents** can be open at once.
+- A resolved incident takes at least **30 seconds** before rewards are paid out - this is the minimum response window to discourage instant-resolve farming.
+- If the incident is cancelled or you change teams, your assignment is dropped.
 
-- [Teams and Careers](/lebuhraya/teams) - 职级头衔和 tier 进阶
-- [World and Map](/lebuhraya/map) - 每项工作的建筑位置
+---
+
+## Which job should I start with?
+
+- **Level 10**: Food Delivery is the classic starter. 250 XP per delivery, short routes, uses any vehicle.
+- **Got the MYSverse group?** Fishing is chill and self-paced.
+- **Want action?** Bomba or Polis Trafik (requires gamepass) - lots of 999 incidents, social roleplay.
+- **Want to drive for hours?** Logistics or Taxi (Taxi needs gamepass, Logistics needs Level 75 or Season 1 Pass).
+
+## Next steps
+
+- [Teams and careers](/lebuhraya/teams) - Rank titles and tier progression
+- [World and map](/lebuhraya/map) - Where every job's buildings are located

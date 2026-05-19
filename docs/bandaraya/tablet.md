@@ -34,13 +34,13 @@ POLIS uses MDT for:
 - **Add BOLO:** create a police alert with a reason.
 - **Docs:** quick notes on BOLO behaviour.
 
-MDT is currently for POLIS and selected staff roles. KPTD and Polis Bantuan may have policing tools, but they do not receive the same MDT app by default.
+MDT is currently for POLIS and authorised staff access. KPTD and Polis Bantuan may have policing tools, but they do not receive the same MDT app by default in the current tablet setup.
 
 ### MyEmergency
 
 Emergency coordination app for response teams. It helps teams receive and coordinate incident calls.
 
-### Vehicle Management
+### Vehicle management
 
 Vehicle-related tools such as plate lookup, registration checks, and vehicle tracking for teams that receive the app.
 
@@ -48,13 +48,13 @@ Vehicle-related tools such as plate lookup, registration checks, and vehicle tra
 
 Tow app for towing work. POLIS and Towing Services can access it in the current setup.
 
-### KKM Logger
+### KKM logger
 
 Medical logging app for KKM.
 
-### Staff Tools
+### Team tools
 
-Staff-only tools may appear for moderation or testing roles.
+Tools for authorised MYSverse staff roles.
 
 ## Current app access
 
@@ -70,7 +70,7 @@ Staff-only tools may appear for moderation or testing roles.
 | **MAF** | MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
 | **Moderation Team** | MDT, MyEmergency, Vehicle Management |
-| **Developers** | Staff Tools, MDT, Vehicle Management |
+| **Developers** | Team tools, MDT, Vehicle Management |
 
 ## Notifications
 

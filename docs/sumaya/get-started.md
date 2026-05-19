@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Getting started"
 description: "Start playing Sumaya - main menu, team pick, controls, and the first five minutes in town."
 ---
 
@@ -16,6 +16,19 @@ You can change teams later. Nothing about the first pick is permanent. Just pick
 When you're ready, hit **Jom** ("let's go" in Malay) to drop into the world.
 
 During loading or team changes, Sumaya may show a black loading overlay with rotating Malaysia facts. It fades automatically once the game is ready.
+
+### Open beta notice
+
+The first time your character spawns each session, you may see an **Open Beta** disclaimer that explains:
+
+- Features are subject to change as the game develops.
+- Player data may be reset periodically to keep the economy balanced.
+
+Tap **I understand** to dismiss it. The notice doesn't reappear within the same session.
+
+## Shop and gamepasses
+
+The Main Menu has a **Shop** tab where you can buy Robux gamepasses and one-time cash packs. The catalogue includes the live **Retro Vehicles** pack plus several **Coming Soon** entries for premium vehicle and POLIS role packs. See [Shop and gamepasses](/sumaya/shop) for the full list.
 
 ## Picking a team
 
@@ -57,6 +70,12 @@ Sumaya uses standard Roblox movement. On PC:
 
 On mobile and gamepad, the on-screen buttons and standard Roblox gamepad bindings work as expected.
 
+## Tutorial pop-ups
+
+The first time you walk into certain places (the vehicle dealership, a Mamak counter, the fast food counter, the palm plantation, a trawl-fishing dock, etc.), Sumaya shows a one-time **tutorial info-graphic**: a small illustrated panel that explains how that system works. You tap through the pages and dismiss it.
+
+Each tutorial only triggers once per account. There's no in-app way to re-open a dismissed tutorial; the [Jelajah](/sumaya/phone) phone app's **Baca Maklumat** button re-opens **landmark** info-graphics, not tutorials.
+
 ## Your first five minutes
 
 Here's what to do right after you spawn:
@@ -87,7 +106,7 @@ If you picked an emergency-service team (POLIS, BOMBA, Kesihatan), you don't nee
 
 ### 5. Explore
 
-Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the police station, the fire station, the beach, and plenty of neighborhoods. The minimap (top-right of your screen) shows what's around you.
+Walk, drive, or fly around. There's a map, landmarks, shops, the hospital, the police station, the fire station, the beach, and plenty of neighbourhoods. The minimap (top-right of your screen) shows what's around you.
 
 Some world props are interactive even when they are not part of a quest. Fishing-area travel pads can move you between land and the pontoon, and some coffee makers let you brew and take coffee.
 
@@ -103,9 +122,23 @@ While you're in the world, you'll see:
 
 ## Sprint
 
-Hold **Left Shift** or **Left Control** to sprint. Walk speed is 10 studs/s; sprint doubles it to 20. There's no stamina gate in the current build - you can sprint as long as you want. (The game has a full hunger/stamina/hygiene system in code, but the server handler that would initialize those stats per character is currently disabled, so none of them run in live play.)
+Hold **Left Shift** or **Left Control** to sprint. Walk speed is 10 studs/s; sprint doubles it to 20. There's no stamina gate in the current build - you can sprint as long as you want.
 
 Sprint toggles off automatically when you enter a vehicle seat.
+
+## Starter tools
+
+Every player spawns with five tools in their satchel:
+
+| Tool | What it does |
+|------|--------------|
+| **Phone** | Opens the phone UI (apps, quests, MDT, 999 calls, settings, etc.). The most-used tool in the game. |
+| **Wallet** | Holds your immediate cash. Equip it near another player to offer a **Sadaqa** donation, or drop it on the ground for roleplay flavour. See [Economy](/sumaya/economy). |
+| **Torchlight** | A handheld torch with a directional beam. Useful at night, in dark interiors, or for roleplay scenes. |
+| **Firecrackers** | A roleplay party tool that lights and pops with sound and particles. Won't damage anyone; purely cosmetic. |
+| **infinite cheese burger** | A roleplay food prop. The "infinite" label is by design; equip and use to nibble. The hunger system isn't active in the current build, so it doesn't restore anything. |
+
+Emergency-service teams (POLIS, BOMBA, Kesihatan) get extra tools on top of these. See [Teams](/sumaya/teams).
 
 ## What next?
 

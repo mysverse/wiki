@@ -1,5 +1,5 @@
 ---
-title: "Emergency Services"
+title: "Emergency services"
 description: "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD - the emergency and security services of Bandaraya."
 ---
 
@@ -20,7 +20,7 @@ Public-service roles are central to Bandaraya. This page explains what each emer
 | **MAF** | Military roleplay | No standard police role |
 | **KPTD** | Military police | Yes |
 
-## POLIS - Police
+## POLIS - police
 
 POLIS is the main law-enforcement team.
 
@@ -50,7 +50,7 @@ See [Arrest & Law](/bandaraya/arrest-and-law) for the arrest flow.
 
 Polis Bantuan MyTransit supports policing around transit areas. They can assist with detainment and arrests, but roleplay should normally stay around bus, MRT, and Monorail operations.
 
-## BOMBA - Fire & Rescue
+## BOMBA - fire and rescue
 
 BOMBA handles fire and rescue incidents.
 
@@ -66,7 +66,7 @@ BOMBA handles fire and rescue incidents.
 
 Fire incidents can appear when BOMBA is on duty. BOMBA players receive alerts with a map pin, sound, and tablet notification. Incidents have a time limit and are cleaned up if nobody is left on BOMBA duty.
 
-## KKM - Health Ministry
+## KKM Health Ministry
 
 KKM is the main medical team.
 

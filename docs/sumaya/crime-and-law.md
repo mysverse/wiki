@@ -1,5 +1,5 @@
 ---
-title: "Crime and Law"
+title: "Crime and law"
 description: "Carjacking, pickpocketing, wanted stars, and jail in Sumaya."
 ---
 
@@ -17,12 +17,12 @@ Every crime you commit adds **offence points**. The more points, the more **want
 
 | Offence points | Wanted stars |
 |----------------|--------------|
-| 0-9 | None |
-| 10-24 | 1 star |
-| 25-49 | 2 stars |
-| 50-79 | 3 stars |
-| 80-119 | 4 stars |
-| 120+ | 5 stars |
+| 0-24 | None |
+| 25-59 | 1 star |
+| 60-119 | 2 stars |
+| 120-199 | 3 stars |
+| 200-319 | 4 stars |
+| 320+ | 5 stars |
 
 ### Wanted decay
 
@@ -41,7 +41,7 @@ Steal someone else's parked vehicle.
 
 **How it works:**
 1. Approach a parked, unoccupied vehicle with the Slim Jim equipped.
-2. Hold F (or the mobile equivalent) for **3 seconds** within 15 studs of the driver's seat.
+2. Hold F (or the mobile equivalent) for **3 seconds** within 10 studs of the driver's seat.
 3. The vehicle is now stolen - yours to drive.
 4. A **drop-off zone** is assigned to you randomly (shown on the minimap).
 5. Drive the stolen vehicle to the drop-off zone to sell it.
@@ -55,7 +55,7 @@ Steal someone else's parked vehicle.
 - The Slim Jim is **consumed** on use - you'll need a new one for the next carjack.
 - You can't steal your own vehicle (the system knows who owns it via the plate).
 
-**Offence:** +25 points (will hit 2 stars if you had nothing else going).
+**Offence:** +25 points (puts you at 1 star if you had nothing else going).
 
 ### Pickpocketing
 
@@ -94,7 +94,7 @@ NPC pickpocketing also costs offence points, but NPCs can't chase or report you,
 Smuggle illegal wildlife across Sumaya for a cash payout.
 
 **How it works:**
-1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 5 minutes - look for the highlighted spawn).
+1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 3 minutes - look for the highlighted spawn).
 2. Accept the job through the prompt.
 3. An illegal animal tool is given to you.
 4. You're told the **destination** (a specific drop-off part).
@@ -111,10 +111,10 @@ Smuggle illegal wildlife across Sumaya for a cash payout.
 The animal you get is random.
 
 **Limits:**
-- 5-minute cooldown between jobs.
+- 3-minute cooldown between jobs.
 - You need to get the animal to the destination - can't drop it or get arrested mid-way.
 
-**Offence:** +50 points - that's 1 star in a single action. Keep committing more and you'll ramp fast.
+**Offence:** +50 points - still inside the 1-star band (25-59) on its own, but a single second run shoves you over 60 into 2 stars. Keep committing more and you'll ramp fast.
 
 ### Other offences
 
@@ -190,7 +190,7 @@ The moment a POLIS officer **tases** you or **detains** you, you enter a **30-se
 
 - A red **"ENGAGED - CANNOT RESET"** banner appears at the top of your screen with the seconds counting down.
 - The **Reset** button is locked. Tapping Reset shows a "Cannot Reset" toast and does nothing.
-- The **main menu / team-switch** is locked, even if you're below the wanted-star threshold for the regular `Wanted` lock.
+- The **main menu / team-switch** is locked, even if you're below the wanted-star threshold for the regular wanted lock.
 - Each new tase/detain **refreshes** the timer (does not stack).
 
 **Dying or leaving during this window** routes you to a **combat-evasion jail** that's *double* the regular LTAA duration - strictly worse than serving out a clean arrest:
@@ -215,10 +215,10 @@ Even when you're *not* in combat, pressing the Reset button no longer instantly 
 
 - **Plan your routes.** Before you carjack, check where the drop-off zone is - if it's on the other side of town and you can't get there in 5 minutes, you've lost the car.
 - **Don't commit crimes in passive mode.** You can't carjack, pickpocket, or traffic while in passive mode - the system blocks it.
-- **Watch offence points vs stars.** At 25 points you're a 2-star target; police reward for arresting you just doubled. Time to lay low and let decay kick in.
+- **Watch offence points vs stars.** At 25 points you're already a 1-star target; cross 60 and the police reward for arresting you doubles. Time to lay low and let decay kick in.
 - **Pickpocket NPCs for safe grinding.** Lower risk than player pickpocket, similar reward. Good for grinding offence-tracking achievements if any.
-- **Animal trafficking is 50 points per run.** One run = 1 star minimum. Two runs without decay = 3 stars. Don't get greedy.
-- **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimizes downtime.
+- **Animal trafficking is 50 points per run.** One run = 1 star. Two runs back-to-back = 2 stars (you cross 60). Don't get greedy.
+- **Surrender before 5 stars.** If you've already got the Hornbill cash banked, surrendering keeps your offence clear and minimises downtime.
 
 ## What next?
 

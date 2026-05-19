@@ -2,12 +2,10 @@
 title: Perumahan
 description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
-translated_from_hash: "48e888ff"
-translated_on: 2026-05-18
+translated_from_hash: eeea69f5
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # Perumahan
 
 Sumaya membolehkan anda menuntut sebidang plot tanah, membeli rumah, menghiasinya dengan perabot, dan menguncinya daripada penceroboh. Perumahan ialah pembelian berkekalan - sebaik sahaja anda membelinya, rumah itu menjadi milik anda merentasi semua sesi.

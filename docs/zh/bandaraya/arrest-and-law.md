@@ -2,8 +2,8 @@
 title: 逮捕与法律
 description: Bandaraya 逮捕机制介绍 - LTAA、RTAA、传票、监禁时长和嫌疑人权利。
 lang: zh
-translated_from_hash: "d2ff13c4"
-translated_on: 2026-05-18
+translated_from_hash: f3cc37fc
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 逮捕与法律

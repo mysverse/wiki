@@ -4,8 +4,8 @@ description: >-
   POLIS, BOMBA, KKM, SJAM, RELA, MAF, மற்றும் KPTD - Bandaraya-வின் அவசர மற்றும்
   பாதுகாப்பு சேவைகள்.
 lang: ta
-translated_from_hash: "7572eea2"
-translated_on: 2026-05-18
+translated_from_hash: bd32ab49
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # அவசர சேவைகள்

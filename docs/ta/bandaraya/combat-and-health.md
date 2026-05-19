@@ -2,8 +2,8 @@
 title: போர் & சுகாதாரம்
 description: 'Bandaraya-வில் ஆயுதங்கள், கவசம், காயங்கள், மற்றும் மருத்துவ அமைப்பு.'
 lang: ta
-translated_from_hash: "700a7ffd"
-translated_on: 2026-05-18
+translated_from_hash: d5db9ed9
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # போர் & சுகாதாரம்

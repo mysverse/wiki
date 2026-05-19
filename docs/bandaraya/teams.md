@@ -90,7 +90,7 @@ See [Jobs](/bandaraya/jobs) for how these roles earn BR.
 | **NWS** | News group/rank access | News agency roleplay. |
 | **Organised Crime Group (OCG)** | Approved OCG group | Criminal roleplay groups. |
 | **Moderation Team** | Staff group/rank access | Moderators. |
-| **Developers** | MYSverse staff access | Development and testing team. |
+| **Developers** | Developer group | Development team. |
 
 ## How to qualify
 

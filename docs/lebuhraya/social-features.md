@@ -1,5 +1,5 @@
 ---
-title: "Social Features"
+title: "Social features"
 description: "Convoy, 999 Emergency, and the in-game phone in Lebuhraya."
 ---
 
@@ -47,7 +47,7 @@ Passengers in a convoy vehicle get half the driver's bonus.
 
 A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
 
-## 999 Emergency System
+## 999 emergency system
 
 Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
 
@@ -56,8 +56,8 @@ Lebuhraya's emergency services are player-driven. Any player can call 999; emerg
 1. Open your **Phone** (topbar icon).
 2. Tap the **999** app.
 3. Select the incident type:
-   - **Car Crash**
-   - **Injured Person**
+ - **Car Crash**
+ - **Injured Person**
 4. Your call is broadcast to all on-duty emergency responders.
 
 Each active incident shows on responders' pagers with your location.
@@ -71,8 +71,8 @@ If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan*
 3. Tap to accept an incident - it becomes your assigned case.
 4. Drive to the location.
 5. Resolve the incident according to its type:
-   - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
-   - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
+ - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
+ - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
 6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
 
 ### Limits
@@ -103,7 +103,7 @@ More phone apps may appear over time as the MYSverse platform adds features.
 - GPS waypoints are the safest way to reach a POI without staff-only fast travel.
 - If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
 
-## MyPod Music Player
+## MyPod music player
 
 **MyPod** is the topbar music player. It is not a vehicle spawner.
 
@@ -126,9 +126,8 @@ A secondary device available from the topbar. Think of it as your "career HUD" -
 
 ### Apps
 
-- **Vehicle** - View any nearby player's vehicle registration and driving licence info. Useful for roleplay scenes (spot check, insurance lookup). Licence visibility is team-gated - only certain teams (APJ, Polis) can view full licence details.
-- **Developer** *(staff only)* - Admin moderation view showing player details, BR balance, POS money, and message history.
-- **Moderator** *(staff only)* - Additional staff moderation tools.
+- **Vehicle** - View nearby vehicle registration and driving licence information for roleplay scenes. Full licence details are limited to relevant enforcement teams.
+- **Staff tools** - Moderation tools may appear for authorised MYSverse staff.
 
 ## Report system
 
@@ -157,25 +156,17 @@ Use Report for:
 
 Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
 
-## Identity Card (IC)
+## Identity card (IC)
 
-Lebuhraya issues each player a **Malaysian-style identity card** in the Phone / Tablet app, generated with the real Malaysian IC format:
+Lebuhraya issues each player a **Malaysian-style identity card** in the Phone or Tablet app.
 
-```
-YYMMDD-PB-XXXX
-```
-
-- **YYMMDD** - your Roblox account-joined date (year, month, day).
-- **PB** - place-of-origin code. Default is **14** (Wilayah Persekutuan / Federal Territory - Kuala Lumpur) for most players; specialised IDs (Kad Polis, KKM, BOMBA, SJAM, PHG, MKT) use different codes.
-- **XXXX** - the last four digits of your Roblox account ID.
-
-So if you joined Roblox on 15 March 2020 and your account ID ended in 6789, your IC would be **200315-14-6789**. Your IC is consistent every time you play - it won't change.
+The format resembles a real Malaysian IC, using your Roblox account age and account number to make a consistent roleplay ID. Your IC is the same every time you play.
 
 Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
 
 ## Driving licence
 
-Every player gets a **Driving Licence** as a tool in their backpack. The licence number is generated from your account-joined date and the last four digits of your Roblox account ID, so it's unique per player and consistent across sessions.
+Every player gets a **Driving Licence** as a tool in their backpack. The licence number is unique per player and stays consistent across sessions.
 
 **APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
 
@@ -197,13 +188,11 @@ Some temporary advantages come from **tokens** - consumable boost items in your 
 - Season Pass tier rewards
 - Promotional events
 - Sometimes bundled with gamepasses
-- Granted by a private-server owner during events or roleplay sessions
+- Private server event setup by authorised server staff
 
 ### How to use tokens
 
-Activate a token from your inventory (**Main Menu -> More -> Tokens**). The **Active Tokens HUD** appears automatically when at least one token is running - each active token shows its icon, name, and a **M:SS countdown**. Tokens run in parallel (you can have 2× XP Boost + Season Pass Boost + Team Access all going at once).
-
-Tokens **consume on activation** - once you start the timer you can't pause it. Save them for continuous play sessions.
+Activate a token from your inventory (**Main Menu -> More -> Tokens**). The active token display appears automatically when at least one token is running, showing its name and countdown. Tokens can run in parallel.
 
 > Tokens are **consumed on activation** - you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
 

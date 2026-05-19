@@ -2,12 +2,10 @@
 title: 房屋
 description: Sumaya 的地块、户型模板、等级、家具以及出售房屋说明。
 lang: zh
-translated_from_hash: "48e888ff"
-translated_on: 2026-05-18
+translated_from_hash: eeea69f5
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # 房屋
 
 Sumaya 让你认领一块地皮、购买房子、用家具布置内部，并锁门防止外人闯入。房屋是持久性购买 -  - 一旦买下，房子就跨会话归你所有。

@@ -63,7 +63,7 @@ These spawn without rent or buy cost:
 
 The **Protan X70** is currently the most expensive standard civilian car.
 
-### Classic Car Pack
+### Classic car pack
 
 These cars show at the civilian dealer but require the Classic Car Pack gamepass. Non-owners see them locked with a gamepass prompt.
 
@@ -154,7 +154,7 @@ Some civilian vehicles support colour customisation. Look for the **Paint / Cust
 
 - **Body colour** - the car's paint.
 - **Rim colour** - the wheel rims, where supported.
-- **Window tint** - the vehicle windows, where supported.
+- **Window tint** - where the vehicle supports tintable windows.
 
 Some vehicles (**Protan Wira**, **Protan Saga**, **Perosatu Axia**, **Perosatu Myvi 2020**) have pre-set palettes (e.g. White, Silver, Black, Red, Beige). Other customisable vehicles accept any colour.
 
@@ -189,7 +189,7 @@ If you are using another camera mode, such as the phone Cinematic app, that mode
 
 ## Plates and registration
 
-Every vehicle has a **number plate**. When you spawn a vehicle:
+Every vehicle has a **licence plate**. When you spawn a vehicle:
 
 - The plate is tied to your user ID as the registered owner.
 - POLIS can look up any plate from the MDT to see who owns a vehicle.

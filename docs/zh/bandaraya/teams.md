@@ -2,8 +2,8 @@
 title: 队伍
 description: Bandaraya 所有队伍的完整指南 - 紧急服务、军事、交通、平民、政府等。
 lang: zh
-translated_from_hash: "7fd0557c"
-translated_on: 2026-05-18
+translated_from_hash: ffdc3220
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # 队伍

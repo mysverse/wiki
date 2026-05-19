@@ -4,8 +4,8 @@ description: >-
   Panduan lengkap semua pasukan di Bandaraya - perkhidmatan kecemasan, tentera,
   pengangkutan, awam, kerajaan, dan banyak lagi.
 lang: ms
-translated_from_hash: "7fd0557c"
-translated_on: 2026-05-18
+translated_from_hash: ffdc3220
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Pasukan

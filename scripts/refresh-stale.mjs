@@ -15,23 +15,30 @@ const dryRun = process.argv.includes("--dry-run");
 // Slugs whose EN body substantively changed (source-wiki drift). These need
 // full body replacement + re-translation.
 const DRIFTED = new Set([
-  "sumaya/bomba",
-  "sumaya/crime-and-law",
-  "sumaya/economy",
-  "sumaya/emergency-services",
-  "sumaya/get-started",
-  "sumaya/glossary",
-  "sumaya/housing",
-  "sumaya/jobs",
-  "sumaya/jobs-palm-oil",
-  "sumaya/jobs-service",
-  "sumaya/kesihatan",
-  "sumaya/phone",
-  "sumaya/polis",
-  "sumaya/progression",
-  "sumaya/quests",
-  "sumaya/tips-and-tricks",
-  "sumaya/vehicles",
+  // Bandaraya - version bump + label change
+  "bandaraya/faq",
+  "bandaraya/get-started",
+
+  // Lebuhraya - significant content rewrites across all pages
+  "lebuhraya/controls",
+  "lebuhraya/economy",
+  "lebuhraya/faq",
+  "lebuhraya/get-started",
+  "lebuhraya/housing",
+  "lebuhraya/jobs",
+  "lebuhraya/map",
+  "lebuhraya/passes-and-boosts",
+  "lebuhraya/shops",
+  "lebuhraya/social-features",
+  "lebuhraya/teams",
+  "lebuhraya/vehicles",
+
+  // Sumaya - substantive content changes
+  "sumaya/crime-and-law",   // wanted star thresholds completely changed
+  "sumaya/get-started",     // shop tab and open beta notice changed
+  "sumaya/phone",           // POI section simplified
+  "sumaya/polis",           // speed trap zones and star thresholds changed
+  "sumaya/vehicles",        // vehicle packs section rewritten
 ]);
 
 const LOCALES = ["ms", "zh", "ta"];

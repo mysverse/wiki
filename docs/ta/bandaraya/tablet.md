@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வில் அணி-வரையறுக்கப்பட்ட டேப்லெட் கருவி - MDT, MyEmergency, MyTow,
   KKM Logger, மற்றும் பிற செயலிகள்.
 lang: ta
-translated_from_hash: "35803e65"
-translated_on: 2026-05-18
+translated_from_hash: 9e8ab564
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # டேப்லெட்
@@ -87,9 +87,9 @@ POLIS-க்கு மட்டும்; பிற அணிகள் ஒரு
 
 KKM-க்கு மட்டும்.
 
-### Developer App
+### Team tools
 
-டெவலப்பர் கருவிகள் மற்றும் கண்டறிதல்கள். டெவ்-கள் மட்டும்.
+அங்கீகரிக்கப்பட்ட MYSverse staff roles-க்கான கருவிகள்.
 
 ---
 
@@ -115,7 +115,7 @@ KKM-க்கு மட்டும்.
 | **KKM, SJAM** | KKM Logger, MyEmergency, Vehicle Management |
 | **Towing Services** | MyTow, Vehicle Management |
 | **MyTransit, Bus Services** | Vehicle Management |
-| **Developers** | Developer App + மற்ற அனைத்தும் |
+| **Developers** | Team tools + மற்ற அனைத்தும் |
 | **குடிமக்கள் (Visitors, Malaysians)** | Vehicle Management மட்டும் (அடிப்படை பிளேட் தேடல்) |
 
 நீங்கள் எதிர்பார்க்கும் ஒரு செயலி அங்கே இல்லையென்றால், உங்கள் அணியை சரிபார்க்கவும்.

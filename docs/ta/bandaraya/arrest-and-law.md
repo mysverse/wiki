@@ -4,8 +4,8 @@ description: >-
   Bandaraya-வில் கைதுகள் எப்படி நடைபெறுகின்றன - LTAA, RTAA, அழைப்பாணைகள், சிறை
   நேரம், மற்றும் சந்தேகநபர் உரிமைகள்.
 lang: ta
-translated_from_hash: "d2ff13c4"
-translated_on: 2026-05-18
+translated_from_hash: f3cc37fc
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # கைது & சட்டம்

@@ -2,12 +2,10 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: "5f770573"
-translated_on: 2026-05-18
+translated_from_hash: e153ddde
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # Ekonomi
 
 Mata wang Sumaya ialah **Ringgit**, disingkatkan **SR** (Sumaya Ringgit) dalam UI. Halaman ini menerangkan cara untuk memperoleh, menyimpan, dan membelanjakannya.
@@ -184,7 +182,7 @@ Ini berkumpul atas bayaran setiap tindakan. Rancang sesi anda untuk mencapai pen
 ## Apa seterusnya?
 
 - [Progres](/sumaya/progression) untuk cara XP dan Ringgit berinteraksi.
-- Gig jobs untuk butiran bayaran tugasan pendek.
+- [Kerja gig](/ms/sumaya/jobs-gig) untuk butiran bayaran tugasan pendek.
 - [Kenderaan](/sumaya/vehicles) untuk katalog harga.
 - [Perumahan](/sumaya/housing) untuk harga rumah.
 - [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk sisi jenayah ekonomi.

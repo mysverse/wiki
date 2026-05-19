@@ -4,8 +4,8 @@ description: >-
   Akronim Malaysia dan istilah dalam permainan - POLIS, BOMBA, KKM, CAG, LTAA,
   RTAA, MRT, dan banyak lagi.
 lang: ms
-translated_from_hash: "bc910f35"
-translated_on: 2026-05-18
+translated_from_hash: cbd1bf37
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Glosari - Istilah Malaysia & Akronim Permainan

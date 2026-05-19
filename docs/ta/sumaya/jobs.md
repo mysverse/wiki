@@ -4,12 +4,10 @@ description: >-
   Sumaya-வில் மூன்று குடிமக்கள் தொழில் துறைகள் - மீன்பிடி, சேவை, மற்றும் பனை
   எண்ணெய்.
 lang: ta
-translated_from_hash: "0f03e276"
-translated_on: 2026-05-18
+translated_from_hash: 73b13889
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # வேலைகள் கண்ணோட்டம்
 
 Sumaya-வில் வேலைகள் என்பது Ringgit மற்றும் XP சம்பாதிக்க நீங்கள் செய்யக்கூடிய குடிமக்கள் தொழில்களாகும். மூன்று வேலை **துறைகள்** உள்ளன, ஒவ்வொன்றும் அதன் சொந்த தர ஏணியையும் வெகுமதிகளையும் கொண்டுள்ளது; அதோடு நகரைச் சுற்றிய விரைவு runs-க்கு குறுகிய gig வேலைகளும் உள்ளன.
@@ -19,7 +17,7 @@ Sumaya-வில் வேலைகள் என்பது Ringgit மற்�
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Gig வேலைகள்](/ta/sumaya/jobs-gig)
 
 ## "துறை" என்றால் என்ன?
 
@@ -102,6 +100,6 @@ Careers பயன்பாட்டை திறந்து செயலில�
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Gig வேலைகள்](/ta/sumaya/jobs-gig)
 
 அல்லது XP மற்றும் நிலைகள் முழு விளையாட்டிலும் எவ்வாறு செயல்படுகின்றன என்பதை புரிந்து கொள்ள [Progression](/sumaya/progression) ஐப் படிக்கவும்.

@@ -2,8 +2,8 @@
 title: சொற்களஞ்சியம்
 description: Sumaya வீரர்களுக்கு மலாய் சொற்கள் மற்றும் விளையாட்டுக்குள் சொற்கள் விளக்கம்.
 lang: ta
-translated_from_hash: "415ef0c5"
-translated_on: 2026-05-18
+translated_from_hash: c7de531d
+translated_on: '2026-05-19'
 needs_review: true
 ---
 

@@ -4,8 +4,8 @@ description: >-
   Menghasilkan, memandu, bahan api, dan membeli atau menyewa kenderaan di
   Bandaraya.
 lang: ms
-translated_from_hash: "ae357b6e"
-translated_on: 2026-05-18
+translated_from_hash: 7f0d7756
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Kenderaan

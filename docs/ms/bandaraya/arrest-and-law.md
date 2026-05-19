@@ -4,8 +4,8 @@ description: >-
   Bagaimana tangkapan berfungsi di Bandaraya - LTAA, RTAA, saman, tempoh
   penjara, dan hak suspek.
 lang: ms
-translated_from_hash: "d2ff13c4"
-translated_on: 2026-05-18
+translated_from_hash: f3cc37fc
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # Tangkapan & Undang-Undang

@@ -2,12 +2,10 @@
 title: 经济
 description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
-translated_from_hash: "5f770573"
-translated_on: 2026-05-18
+translated_from_hash: e153ddde
+translated_on: '2026-05-19'
 needs_review: true
 ---
-
-
 # 经济
 
 Sumaya 的货币是 **Ringgit**，在 UI 中缩写为 **SR**（Sumaya Ringgit）。本页介绍如何赚取、存储和花费它。
@@ -184,7 +182,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 ## 下一步？
 
 - [进度](/sumaya/progression) 了解 XP 和 Ringgit 如何互动。
-- Gig jobs 的短程收入详情。
+- [零工](/zh/sumaya/jobs-gig) 的短程收入详情。
 - [车辆](/sumaya/vehicles) 价格目录。
 - [房屋](/sumaya/housing) 房屋价格。
 - [犯罪与法律](/sumaya/crime-and-law) 经济的犯罪面。

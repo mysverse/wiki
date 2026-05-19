@@ -4,8 +4,8 @@ description: >-
   Bandaraya முழுவதும் உள்ள சிறப்புத் தலங்கள், கட்டிடங்கள், தெருக்கள்,
   நிலையங்கள், மருத்துவமனைகள், மற்றும் கடைகள்.
 lang: ta
-translated_from_hash: "d025eb43"
-translated_on: 2026-05-18
+translated_from_hash: 17a2da3e
+translated_on: '2026-05-19'
 needs_review: true
 ---
 # வரைபடம் & இடங்கள்

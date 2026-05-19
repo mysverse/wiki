@@ -1,5 +1,5 @@
 ---
-title: "Careers Overview"
+title: "Careers overview"
 description: "The three civilian career sectors in Sumaya - fishing, service, and palm oil."
 ---
 
@@ -12,7 +12,7 @@ This page covers how careers work in general. Individual sectors have their own 
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Gig jobs](/sumaya/jobs-gig)
 
 ## What's a "sector"?
 
@@ -95,6 +95,6 @@ Pick a sector to read about in detail:
 - [Fishing](/sumaya/jobs-fishing)
 - [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
 - [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
-- Gig jobs
+- [Gig jobs](/sumaya/jobs-gig)
 
 Or read [Progression](/sumaya/progression) to understand how XP and levels work across the whole game.

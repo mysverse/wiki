@@ -1,5 +1,5 @@
 ---
-title: "Emergency Services Overview"
+title: "Emergency services overview"
 description: "POLIS, BOMBA, and Kesihatan - the emergency services of Sumaya."
 ---
 
@@ -60,7 +60,7 @@ The bonuses stack on top of your per-action rewards.
 
 ### Demotion on wanted status
 
-Emergency-service players (BOMBA, Kesihatan, POLIS) automatically lose their on-duty role when they become **1-star wanted**. The game moves you to Malaysians if you are eligible, or Visitors otherwise, and despawns your emergency vehicle. Switch teams manually before doing anything illegal if you want to stay in control of the roleplay.
+Emergency-service players (BOMBA, Kesihatan, POLIS) auto-demote when they cross into **1-star wanted**. The game swaps you to Malaysians if eligible or Visitors otherwise, and your emergency vehicle is also despawned. Switch teams manually before doing anything illegal if you want to stay in control of the roleplay.
 
 ## Kesihatan's global XP boost
 
@@ -72,7 +72,7 @@ Each service has its own vehicles, unlocked as your sector level rises. See [Veh
 
 Emergency vehicles have **sirens and lights** (ELS). Flipping the siren on while you're driving an emergency vehicle gives you temporary exemption from traffic offences - you can't be cited for speeding or crashes while your siren is active.
 
-## 999 Emergency calls
+## 999 emergency calls
 
 Civilians can dial **999** from their phone to request emergency services. Calls show up on the **MDT (Mobile Data Terminal)** app, which is visible to all on-duty emergency-service players. You can:
 
