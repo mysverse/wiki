@@ -14,9 +14,9 @@ Kerjaya di Sumaya ialah kerja awam yang anda boleh lakukan untuk memperoleh Ring
 
 Halaman ini menerangkan secara umum cara kerjaya berfungsi. Setiap sektor mempunyai halaman tersendiri:
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- [Memancing](/ms/sumaya/jobs-fishing)
+- [Sektor perkhidmatan: Mamak dan Fast Food](/ms/sumaya/jobs-service)
+- [Kelapa sawit (pertanian)](/ms/sumaya/jobs-palm-oil)
 - [Kerja gig](/ms/sumaya/jobs-gig)
 
 ## Apakah itu "sektor"?
@@ -32,13 +32,13 @@ Terdapat tiga **sektor awam** utama:
 
 | Sektor | Tugas anda | Tahap maksimum | Syarat permulaan |
 |--------|-------------|-----------|-------------------|
-| Fishing | Memancing dengan joran di jeti atau menjala dengan bot | 100 | Tiada |
-| Service (Mamak / Fast Food) | Menghidang makanan, mengambil pesanan | 100 | Capai tahap sektor 50 dalam fishing atau agriculture |
-| Agriculture (palm oil) | Menuai tandan buah kelapa sawit | 100 | Tiada (tersedia serta-merta) |
+| Memancing | Memancing dengan joran di jeti atau menjala dengan bot | 100 | Tiada |
+| Perkhidmatan (Mamak / Fast Food) | Menghidang makanan, mengambil pesanan | 100 | Capai tahap sektor 50 dalam memancing atau pertanian |
+| Pertanian (kelapa sawit) | Menuai tandan buah kelapa sawit | 100 | Tiada (tersedia serta-merta) |
 
-Tiga **sektor perkhidmatan kecemasan** (Bomba, Kesihatan, Polis) tidak ditunjukkan dalam aplikasi kerjaya awam - anda menyertainya dengan memilih pasukan yang sepadan dari menu utama. Lihat [Emergency Services overview](/sumaya/emergency-services).
+Tiga **sektor perkhidmatan kecemasan** (Bomba, Kesihatan, Polis) tidak ditunjukkan dalam aplikasi kerjaya awam - anda menyertainya dengan memilih pasukan yang sepadan dari menu utama. Lihat [gambaran perkhidmatan kecemasan](/ms/sumaya/emergency-services).
 
-Gig jobs berasingan daripada tiga sektor jangka panjang. Ia ialah tugasan pendek seperti E-Hailing, Pos Nasional, Tow Truck, Reporter, Tour Guide, dan Restaurant Supplier. Ia menggunakan panduan kad tugasan, penanda titik laluan, dan langkah minigame pantas, bukan syif sektor penuh.
+Kerja gig berasingan daripada tiga sektor jangka panjang. Ia ialah tugasan pendek seperti E-Hailing, Pos Nasional, Tow Truck, Reporter, Tour Guide, dan Restaurant Supplier. Ia menggunakan panduan kad tugasan, penanda titik laluan, dan langkah minigame pantas, bukan syif sektor penuh.
 
 ## Cara memulakan kerjaya
 
@@ -71,9 +71,9 @@ Setiap tindakan memberi anda dua perkara:
 1. **XP Pemain** - menaikkan tahap akaun global anda. Tahap pemain maksimum ialah 300.
 2. **XP Sektor** - menaikkan tahap sektor tertentu yang sedang anda kerjakan.
 
-Bayaran tindakan bergantung kepada sektor. Trawl fishing memberi 2 XP setiap tangkapan (rod fishing membayar 15 XP setiap spesies - XP pemain sahaja, tiada XP sektor). Sektor service membayar tetap 6 XP setiap pelanggan (tiada penskalaan tahap) ditambah bonus 10 XP penghujung syif. Palm oil menyimpan pendapatan anda dan membayar bonus 50 XP pada penghujung syif.
+Bayaran tindakan bergantung kepada sektor. Memancing pukat tunda memberi 2 XP setiap tangkapan (memancing dengan joran membayar 15 XP setiap spesies - XP pemain sahaja, tiada XP sektor). Sektor perkhidmatan membayar tetap 6 XP setiap pelanggan (tiada penskalaan tahap) ditambah bonus 10 XP penghujung syif. Kelapa sawit menyimpan pendapatan anda dan membayar bonus 50 XP pada penghujung syif.
 
-Lihat halaman setiap sektor untuk angka, dan [Progression](/sumaya/progression) untuk memahami cara XP ditukar kepada tahap.
+Lihat halaman setiap sektor untuk angka, dan [progres](/ms/sumaya/progression) untuk memahami cara XP ditukar kepada tahap.
 
 ## Kerjaya manakah patut saya pilih dahulu?
 
@@ -81,14 +81,14 @@ Panduan ringkas:
 
 - **Mahu wang cepat dan stabil tanpa tekanan?** Pergi fishing. Tenang, tekanan rendah, dan bot menjadi lebih baik apabila anda naik tahap.
 - **Suka menyelesaikan tugas berulang?** Mamak atau Fast Food dalam sektor service. Ambil pesanan, sediakan barangan, hidang pelanggan.
-- **Mahu bayaran terbaik setiap syif?** Palm oil. Hasil tuaian terkumpul dan dibayar pada hujung syif, dengan bonus 50 XP di atasnya.
+- **Mahu bayaran terbaik setiap syif?** Pilih kelapa sawit. Hasil tuaian terkumpul dan dibayar pada hujung syif, dengan bonus 50 XP di atasnya.
 - **Mahu tugasan pendek yang pelbagai?** Pilih gig job. Langkah minigame pantas menambah sedikit tekanan tanpa mengunci anda kepada syif panjang.
-- **Hanya mahu meneroka?** Lewatkan kerja awam buat masa ini, ambil Perosatu Axia atau Protan Wira percuma daripada [vehicle spawner](/sumaya/vehicles), dan memandu di sekeliling. Datang semula apabila anda mahukan Ringgit.
+- **Hanya mahu meneroka?** Lewatkan kerja awam buat masa ini, ambil Perosatu Axia atau Protan Wira percuma daripada [pelancar kenderaan](/ms/sumaya/vehicles), dan memandu di sekeliling. Datang semula apabila anda mahukan Ringgit.
 
 ## Tip merentas sektor
 
 - **Anda hanya boleh bekerja satu kerja pada satu masa.** Jika anda mendaftar masuk ke fishing, anda perlu mendaftar keluar sebelum anda boleh memulakan mamak.
-- **Gig jobs reset dengan bersih.** Jika anda mati, menukar pasukan, atau keluar di tengah langkah, panel gig aktif dan fokus kamera akan dibuang supaya anda boleh bermula semula.
+- **Kerja gig reset dengan bersih.** Jika anda mati, menukar pasukan, atau keluar di tengah langkah, panel gig aktif dan fokus kamera akan dibuang supaya anda boleh bermula semula.
 - **Tahap sektor dan tahap pemain meningkat bersama.** Setiap XP yang anda peroleh dalam kerja meningkatkan kedua-duanya - jadi mengumpul satu sektor juga menaikkan tahap akaun global anda.
 - **Sektor perkhidmatan kecemasan adalah seragam.** Bomba, Polis, dan Kesihatan semuanya naik sehingga tahap 100 dengan lengkung ganjaran yang serupa. Sektor awam berbeza-beza dengan lebih banyak.
 - **Sistem kecederaan Kesihatan memberi rangsangan +15% XP pemain kepada semua orang dalam pelayan** semasa ia aktif. Jika anda nampak rangsangan itu aktif, ia adalah masa yang baik untuk mengumpul.
@@ -97,9 +97,9 @@ Panduan ringkas:
 
 Pilih satu sektor untuk dibaca dengan terperinci:
 
-- [Fishing](/sumaya/jobs-fishing)
-- [Service sector: Mamak and Fast Food](/sumaya/jobs-service)
-- [Palm oil (agriculture)](/sumaya/jobs-palm-oil)
+- [Memancing](/ms/sumaya/jobs-fishing)
+- [Sektor perkhidmatan: Mamak dan Fast Food](/ms/sumaya/jobs-service)
+- [Kelapa sawit (pertanian)](/ms/sumaya/jobs-palm-oil)
 - [Kerja gig](/ms/sumaya/jobs-gig)
 
-Atau baca [Progression](/sumaya/progression) untuk memahami cara XP dan tahap berfungsi di seluruh permainan.
+Atau baca [progres](/ms/sumaya/progression) untuk memahami cara XP dan tahap berfungsi di seluruh permainan.

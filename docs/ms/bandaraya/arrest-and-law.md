@@ -160,7 +160,7 @@ Alat **FingerPrint Scanner** - mengenal pasti anda. Muncul dalam UI pegawai.
 
 ## Apa yang TIDAK BOLEH buat
 
-Mengikut [Peraturan](/bandaraya/rules), perkara berikut akan menyebabkan anda dilarang selain daripada tangkapan:
+Mengikut [Peraturan](/ms/bandaraya/rules), perkara berikut akan menyebabkan anda dilarang selain daripada tangkapan:
 
 - **LTAA** (leave to avoid arrest) - pelanggaran umum
 - **RTAA** (reset to avoid arrest) - pelanggaran umum, walaupun butang reset kini anti-RTAA
@@ -176,14 +176,14 @@ Mengikut [Peraturan](/bandaraya/rules), perkara berikut akan menyebabkan anda di
 - **Jangan LTAA.** Pemasa berterusan merentas sesi. Anda tidak melepaskan diri daripada apa-apa.
 - **Pegawai, log tindakan anda.** Rekod tangkapan dijejaki; pastikan keterangan pendek dan faktual (ia masuk ke dalam rekod secara kekal).
 - **Ahli OCG akan ditanda** - rekod tangkapan membawa bendera `IsOCG`. Pegawai melihat ini dalam MDT.
-- **Gunakan MDT** - aplikasi tablet polis membolehkan anda BG-check suspek, semak BOLO, dan mengeluarkan BOLO sendiri. Lihat [Tablet](/bandaraya/tablet).
+- **Gunakan MDT** - aplikasi tablet polis membolehkan anda BG-check suspek, semak BOLO, dan mengeluarkan BOLO sendiri. Lihat [Tablet](/ms/bandaraya/tablet).
 - **Rayuan wujud** - jika anda fikir anda ditangkap secara salah, teruskan di pelayan komuniti. Pasukan moderasi permainan mengendalikannya.
 
 ## Lihat juga
 
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - alat dan aliran POLIS
-- [Tablet](/bandaraya/tablet) - aplikasi MDT untuk pegawai
-- [Peraturan](/bandaraya/rules) - teks peraturan penuh, akibat LTAA/RTAA
-- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) - reset dinyahaktifkan pada HP rendah
-- [Pasukan](/bandaraya/teams) - pasukan mana yang mendapat kuasa tangkapan
-- [Glosari](/bandaraya/glossary) - LTAA, RTAA, MDT, BOLO
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - alat dan aliran POLIS
+- [Tablet](/ms/bandaraya/tablet) - aplikasi MDT untuk pegawai
+- [Peraturan](/ms/bandaraya/rules) - teks peraturan penuh, akibat LTAA/RTAA
+- [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health) - reset dinyahaktifkan pada HP rendah
+- [Pasukan](/ms/bandaraya/teams) - pasukan mana yang mendapat kuasa tangkapan
+- [Glosari](/ms/bandaraya/glossary) - LTAA, RTAA, MDT, BOLO

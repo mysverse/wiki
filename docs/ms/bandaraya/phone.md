@@ -72,11 +72,11 @@ Tempah perjalanan tanpa perlu berjalan ke meja syarikat teksi fizikal.
 3. Pilih pemandu daripada senarai yang tersedia.
 4. Tunggu mereka menerima, kemudian diambil.
 
-Tambang dikira berdasarkan jarak × kadar syarikat (lihat [Pekerjaan - Pemandu Teksi](/bandaraya/jobs#how-the-fare-is-calculated)).
+Tambang dikira berdasarkan jarak × kadar syarikat (lihat [Pekerjaan - Pemandu Teksi](/ms/bandaraya/jobs#how-the-fare-is-calculated)).
 
 ### CAG eWallet
 
-Paparan baca sahaja bagi kad transit Click And Go anda. Baki, perjalanan, pas bulanan, reka bentuk, statistik seumur hidup. **Butang pembelian akan membawa terus ke kiosk fizikal terdekat** - anda tidak boleh membeli terus dari telefon. Lihat [Pergerakan](/bandaraya/getting-around#the-cag-ewallet-phone-app).
+Paparan baca sahaja bagi kad transit Click And Go anda. Baki, perjalanan, pas bulanan, reka bentuk, statistik seumur hidup. **Butang pembelian akan membawa terus ke kiosk fizikal terdekat** - anda tidak boleh membeli terus dari telefon. Lihat [Pergerakan](/ms/bandaraya/getting-around#the-cag-ewallet-phone-app).
 
 ### 999 - laporan kecemasan
 
@@ -112,8 +112,8 @@ Aplikasi dengan sekatan "tempat" hanya muncul di tempat tersebut. Sebagai contoh
 
 ## Lihat juga
 
-- [Tablet](/bandaraya/tablet) - alat terhad pasukan dengan aplikasi berbeza (MDT, MyEmergency, dan lain-lain)
-- [Pergerakan](/bandaraya/getting-around) - CAG eWallet (pada telefon)
-- [Pekerjaan](/bandaraya/jobs) - e-hailing menempah tempahan untuk peranan Pemandu Teksi
-- [Ekonomi](/bandaraya/economy) - mata wang BR (pemindahan MyPay)
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - panggilan 999 pergi kepada POLIS/BOMBA/KKM bertugas
+- [Tablet](/ms/bandaraya/tablet) - alat terhad pasukan dengan aplikasi berbeza (MDT, MyEmergency, dan lain-lain)
+- [Pergerakan](/ms/bandaraya/getting-around) - CAG eWallet (pada telefon)
+- [Pekerjaan](/ms/bandaraya/jobs) - e-hailing menempah tempahan untuk peranan Pemandu Teksi
+- [Ekonomi](/ms/bandaraya/economy) - mata wang BR (pemindahan MyPay)
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - panggilan 999 pergi kepada POLIS/BOMBA/KKM bertugas

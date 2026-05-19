@@ -8,258 +8,258 @@ needs_review: true
 ---
 # போலீஸ்
 
-**Polis** is Sumaya's police force. If you pick POLIS from the main menu, you're a law enforcement officer on duty from the moment you spawn. Your job is to arrest criminals, run speed traps, respond to 999 calls, and keep the peace.
+**Polis** என்பது Sumayaன் போலீஸ் படை. பிரதான மெனுவிலிருந்து POLISஐத் தேர்ந்தெடுத்தால், நீங்கள் முட்டையிடும் தருணத்திலிருந்து பணியில் இருக்கும் சட்ட அமலாக்க அதிகாரியாக இருப்பீர்கள். உங்கள் வேலை குற்றவாளிகளைக் கைது செய்வது, வேகப் பொறிகளை இயக்குவது, 999 அழைப்புகளுக்குப் பதிலளிப்பது மற்றும் அமைதியைக் காப்பது.
 
-## Getting started
+## தொடங்குதல்
 
-Pick **POLIS** on the main menu. Your starting kit is 5 tools:
+பிரதான மெனுவில் **POLIS** என்பதைத் தேர்ந்தெடுக்கவும். உங்கள் தொடக்க கிட் 5 கருவிகள்:
 
-| Tool | What it does |
-|------|--------------|
-| **Taser X26P** | Non-lethal takedown weapon with limited cartridges. Fire at suspects to incapacitate them for arrest. |
-| **Radar Gun** | Manual speed capture tool. See [Speed traps and radar](#speed-traps-and-radar). |
-| **Whistle** | Crowd / traffic signalling. |
-| **Handcuffs** | The actual arrest tool - use on a wanted suspect when you're close enough. |
-| **Plate Finder** | Look up any vehicle's licence plate to see the registered owner and whether it's flagged as stolen. |
+| கருவி | அது என்ன செய்கிறது |
+|------|-------------|
+| **டேசர் X26P** | வரையறுக்கப்பட்ட தோட்டாக்களுடன் கூடிய மரணம் அல்லாத அகற்றும் ஆயுதம். சந்தேக நபர்களை கைது செய்ய முடியாதபடி துப்பாக்கி சூடு. |
+| **ரேடார் துப்பாக்கி** | கையேடு வேக பிடிப்பு கருவி. பார்க்கவும் [வேகப் பொறிகள் மற்றும் ரேடார்](#speed-traps-and-radar). |
+| **விசில்** | கூட்டம் / போக்குவரத்து சமிக்ஞை. |
+| **கைவிலங்கு** | உண்மையான கைது கருவி - நீங்கள் போதுமான அளவு நெருக்கமாக இருக்கும் போது தேடப்படும் சந்தேக நபர் மீது பயன்படுத்தவும். |
+| **தட்டு கண்டுபிடிப்பான்** | பதிவுசெய்யப்பட்ட உரிமையாளரைப் பார்க்கவும், அது திருடப்பட்டதாகக் கொடியிடப்பட்டுள்ளதா என்பதைப் பார்க்கவும் எந்த வாகனத்தின் உரிமத் தகட்டையும் பார்க்கவும். |
 
-A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
+நீங்கள் POLIS செக்டரை சமன் செய்யும் போது சில ஆடைகள் மற்றும் கிட் துண்டுகள் திறக்கப்படும் (நிலை 1 இல் டூட்டி பெல்ட் + பெரெட், 10 இல் பிரதிபலிப்பு வேஸ்ட், 20 இல் பிரதிபலிப்பு கோட்). மூன்று அவசரகாலச் சேவைகளிலும் முழு தொழில்-உருப்படி அட்டவணைக்கு [முன்னேற்றம்](/ta/sumaya/progression) ஐப் பார்க்கவும்.
 
-## Placeable traffic and crime scene items
+## இடக்கூடிய போக்குவரத்து மற்றும் குற்றம் நடந்த பொருட்கள்
 
-Some traffic and crime-scene props are being prepared for future POLIS play. They are not part of the normal POLIS loadout yet.
+எதிர்கால POLIS நாடகத்திற்காக சில போக்குவரத்து மற்றும் குற்ற-காட்சி முட்டுகள் தயாராகி வருகின்றன. அவை இன்னும் சாதாரண POLIS லோட்அவுட்டின் பகுதியாக இல்லை.
 
-Two future POLIS specialisations are listed as coming soon:
+இரண்டு எதிர்கால POLIS சிறப்புகள் விரைவில் வரும் என பட்டியலிடப்பட்டுள்ளன:
 
-| Specialisation | Current player-facing status |
+| சிறப்பு | தற்போதைய வீரர் எதிர்கொள்ளும் நிலை |
 |---|---|
-| **Traffic POLIS Role** | Coming soon. Planned around radar and road-control props. |
-| **Unmarked POLIS Role** | Coming soon. Planned around concealed identity and plate checks. |
+| **Traffic POLIS Role** | விரைவில் வரும். ரேடார் மற்றும் சாலை கட்டுப்பாட்டு முட்டுகள் சுற்றி திட்டமிடப்பட்டுள்ளது. |
+| **Unmarked POLIS Role** | விரைவில் வரும். மறைக்கப்பட்ட அடையாளம் மற்றும் தட்டு சோதனைகள் சுற்றி திட்டமிடப்பட்டுள்ளது. |
 
-They are not separate teams; both are intended to work while you are on the normal POLIS team.
+அவை தனி அணிகள் அல்ல; நீங்கள் சாதாரண POLIS குழுவில் இருக்கும் போது இரண்டுமே வேலை செய்ய வேண்டும்.
 
-Head to the police station for vehicles, or patrol the streets and watch for wanted suspects on your MDT (Mobile Data Terminal) app.
+வாகனங்களுக்காக காவல் நிலையத்திற்குச் செல்லவும் அல்லது தெருக்களில் ரோந்து சென்று சந்தேகத்திற்குரிய நபர்களை உங்கள் MDT (Mobile Data Terminal) செயலியில் பார்க்கவும்.
 
-## The wanted system
+## விரும்பிய அமைப்பு
 
-Civilians accumulate **offence points** whenever they commit crimes. Total offence points determine their **wanted star level**:
+பொதுமக்கள் குற்றங்களைச் செய்யும் போதெல்லாம் **குற்றப் புள்ளிகளைக் குவிக்கின்றனர். மொத்த குற்றப் புள்ளிகள் அவற்றின் **தேவையான நட்சத்திர அளவை** தீர்மானிக்கின்றன:
 
-| Points | Wanted stars |
-|--------|--------------|
-| 0-24 | None |
-| 25-59 | 1 star |
-| 60-119 | 2 stars |
-| 120-199 | 3 stars |
-| 200-319 | 4 stars |
-| 320+ | 5 stars |
+| புள்ளிகள் | நட்சத்திரங்கள் தேவை |
+|---------|---------------|
+| 0-24 | எதுவுமில்லை |
+| 25-59 | 1 நட்சத்திரம் |
+| 60-119 | 2 நட்சத்திரங்கள் |
+| 120-199 | 3 நட்சத்திரங்கள் |
+| 200-319 | 4 நட்சத்திரங்கள் |
+| 320+ | 5 நட்சத்திரங்கள் |
 
-Higher-star suspects are harder to arrest but pay more when you do.
+உயர் நட்சத்திர சந்தேக நபர்களை கைது செய்வது கடினம் ஆனால் நீங்கள் செய்யும் போது அதிக பணம் செலுத்துங்கள்.
 
-### What gives offence points?
+### எது குற்ற புள்ளிகளை அளிக்கிறது?
 
-| Crime | Points |
-|-------|--------|
-| Vehicle crash (hitting someone) | 5 |
-| Speeding | 10 |
-| Pickpocket | 20 |
-| Carjacking | 25 |
-| Animal trafficking | 50 |
+| குற்றம் | புள்ளிகள் |
+|-------|---------|
+| வாகன விபத்து (ஒருவரைத் தாக்குவது) | 5 |
+| வேகம் | 10 |
+| பிக்பாக்கெட் | 20 |
+| கார் திருட்டு | 25 |
+| விலங்கு கடத்தல் | 50 |
 
-See [Crime and Law](/sumaya/crime-and-law) for the full breakdown.
+முழு விவரத்திற்கு [குற்றம் மற்றும் சட்டம்](/ta/sumaya/crime-and-law) ஐப் பார்க்கவும்.
 
-### Seeing wanted players
+### தேடும் வீரர்களைப் பார்ப்பது
 
-Open the **MDT** app on your phone. The **Wanted** tab shows all currently-wanted players with:
+உங்கள் மொபைலில் **MDT** பயன்பாட்டைத் திறக்கவும். **வான்டட்** தாவல் தற்போது விரும்பும் அனைத்து வீரர்களையும் காட்டுகிறது:
 
-- Name and headshot
-- Star level
-- Offence count
-- Time elapsed since their first offence
+- பெயர் மற்றும் ஹெட்ஷாட்
+- நட்சத்திர நிலை
+- குற்ற எண்ணிக்கை
+- அவர்களின் முதல் குற்றத்திலிருந்து நேரம் கடந்துவிட்டது
 
-You can set a minimap waypoint on a suspect from here to navigate to them.
+சந்தேகத்திற்குரிய நபருக்கு வழிசெலுத்துவதற்கு இங்கிருந்து மினிமேப் வழிப் புள்ளியை அமைக்கலாம்.
 
-### Wanted decay
+### சிதைவு தேவை
 
-If a suspect avoids committing any more crimes for **5 minutes**, their wanted status fully clears. You have a window to catch them.
+ஒரு சந்தேக நபர் **5 நிமிடங்களுக்கு** மேலும் குற்றங்களைச் செய்வதைத் தவிர்த்தால், அவர்களின் தேடப்படும் நிலை முழுமையாக அழிக்கப்படும். அவர்களைப் பிடிக்க உங்களிடம் ஒரு சாளரம் உள்ளது.
 
-## Making arrests
+## கைது செய்தல்
 
-The basic flow:
+அடிப்படை ஓட்டம்:
 
-1. Locate the wanted suspect (MDT helps).
-2. Approach them. If they're in passive mode or speeding, they may not realise you're there.
-3. Use your **handcuffs** tool within interact range.
-4. If successful, they're arrested - sent to jail for a star-based duration.
+1. தேடப்படும் சந்தேக நபரைக் கண்டறிக (MDT உதவுகிறது).
+2. அவர்களை அணுகவும். அவர்கள் செயலற்ற பயன்முறையில் அல்லது வேகத்தில் இருந்தால், நீங்கள் அங்கு இருப்பதை அவர்கள் உணர மாட்டார்கள்.
+3. தொடர்பு வரம்பிற்குள் உங்கள் **கைவிலங்கு** கருவியைப் பயன்படுத்தவும்.
+4. வெற்றி பெற்றால், அவர்கள் கைது செய்யப்படுவார்கள் - நட்சத்திர அடிப்படையிலான காலத்திற்கு சிறைக்கு அனுப்பப்படுவார்கள்.
 
-### The detain phase
+### தடுப்புக் கட்டம்
 
-Before final arrest, suspects enter a **detained** state. Once detained:
-- They follow you at a **4-stud offset**, clamped to within **20 studs maximum** (they can't wander off).
-- A **60-second detain timeout** kicks in - if you don't complete the arrest within 60 s, the detain releases automatically.
-- While detained, they can still try to **surrender** at a prompt to cut their own jail time in half.
+இறுதிக் கைதுக்கு முன், சந்தேக நபர்கள் **தடுக்கப்பட்ட** மாநிலத்திற்குள் நுழைகிறார்கள். கைது செய்யப்பட்டவுடன்:
+- அவர்கள் **4-stud ஆஃப்செட்டில்** உங்களைப் பின்தொடர்கிறார்கள், **20 studs அதிகபட்சம்** (அவர்களால் அலைய முடியாது).
+- ஒரு **60-வினாடி காவலில் வைக்கும் நேரம்** தொடங்குகிறது - நீங்கள் 60 வினாடிகளுக்குள் கைது செய்யவில்லை என்றால், தடுப்பு தானாகவே வெளியிடப்படும்.
+- காவலில் இருக்கும் போது, ​​அவர்கள் இன்னும் தங்கள் சொந்த சிறை நேரத்தை பாதியாக குறைக்க **சரணடைய** முயற்சி செய்யலாம்.
 
-Detain is useful when you want to walk a suspect to a specific location (police station, surrender prompt) before booking them.
+சந்தேகத்திற்குரிய நபரை முன்பதிவு செய்வதற்கு முன், ஒரு குறிப்பிட்ட இடத்திற்கு (காவல் நிலையம், சரணடையும் போது) நீங்கள் அழைத்துச் செல்ல விரும்பினால், தடுத்து வைப்பது பயனுள்ளதாக இருக்கும்.
 
-### Arrest rewards
+### கைது வெகுமதிகள்
 
-Rewards scale by the suspect's star level at time of arrest:
+கைது செய்யப்பட்ட நேரத்தில் சந்தேக நபரின் நட்சத்திர மட்டத்தின் அடிப்படையில் வெகுமதிகள் அளவு:
 
-| Stars | XP | Ringgit (wallet) |
-|-------|-----|------------------|
+| நட்சத்திரங்கள் | XP | Ringgit (வாலட்) |
+|-------|------|------------------|
 | 1 | 50 | 150 |
 | 2 | 100 | 300 |
 | 3 | 175 | 500 |
 | 4 | 275 | 800 |
 | 5 | 400 | 1,200 |
 
-### Nearby officer bonus
+### அருகிலுள்ள அதிகாரி போனஸ்
 
-If another POLIS player is within **50 studs** when you make the arrest, they get **50% of your XP and Ringgit** automatically - no action needed. Partner patrols are great for double income.
+நீங்கள் கைது செய்யும் போது மற்றொரு POLIS பிளேயர் **50 studs** க்குள் இருந்தால், அவர்கள் உங்கள் XP மற்றும் Ringgit** இல் **50% தானாகவே பெறுவார்கள் - எந்த நடவடிக்கையும் தேவையில்லை. பங்குதாரர் ரோந்து இரட்டிப்பு வருமானத்திற்கு சிறந்தது.
 
-### Milestone bonus
+### மைல்ஸ்டோன் போனஸ்
 
-Every **5 arrests** you make, you get a **+200 Ringgit** bonus on top of the arrest reward.
+நீங்கள் செய்யும் ஒவ்வொரு **5 கைதுகள்**, கைது வெகுமதியின் மேல் **+200 Ringgit** போனஸைப் பெறுவீர்கள்.
 
-## Jail
+## சிறை
 
-When you arrest someone, they're sent to jail. Jail duration depends on their wanted stars at arrest time:
+நீங்கள் ஒருவரை கைது செய்தால், அவர்கள் சிறைக்கு அனுப்பப்படுவார்கள். சிறைக் காலம் கைது நேரத்தில் அவர்கள் விரும்பும் நட்சத்திரங்களைப் பொறுத்தது:
 
-| Stars | Jail time |
-|-------|-----------|
-| 1 | 30 seconds |
-| 2 | 1 minute |
-| 3 | 2 minutes |
-| 4 | 3 minutes |
-| 5 | 5 minutes |
+| நட்சத்திரங்கள் | சிறை நேரம் |
+|-------|------------|
+| 1 | 30 வினாடிகள் |
+| 2 | 1 நிமிடம் |
+| 3 | 2 நிமிடங்கள் |
+| 4 | 3 நிமிடங்கள் |
+| 5 | 5 நிமிடங்கள் |
 
-While jailed:
+சிறையில் இருக்கும் போது:
 
-- The player can't switch teams.
-- A jail HUD shows time remaining.
-- When the timer runs out, they're released.
+- வீரர் அணிகளை மாற்ற முடியாது.
+- ஒரு சிறை HUD மீதமுள்ள நேரத்தைக் காட்டுகிறது.
+- டைமர் முடிந்ததும், அவை விடுவிக்கப்படுகின்றன.
 
-### Surrender
+### சரணடைதல்
 
-Criminals can choose to **surrender** at a designated prompt before getting caught. Surrender halves the jail time, and gets them out cleaner:
+குற்றவாளிகள் பிடிபடுவதற்கு முன், **சரணடைவதை** தேர்ந்தெடுக்கலாம். சரணடைதல் சிறை நேரத்தை பாதியாகக் குறைத்து, அவர்களை சுத்தமாக வெளியேற்றும்:
 
-| Stars | Surrender jail time | Passive lock after release |
-|-------|---------------------|----------------------------|
-| 1 | 15 sec | 60 sec |
-| 2 | 30 sec | 2 min |
-| 3 | 1 min | 4 min |
-| 4 | 90 sec | 6 min |
-| 5 | 150 sec | 10 min |
+| நட்சத்திரங்கள் | சரணடையும் சிறை நேரம் | வெளியான பிறகு Passive பூட்டு |
+|-------|------------------|---------------------------|
+| 1 | 15 நொடி | 60 நொடி |
+| 2 | 30 நொடி | 2 நிமிடம் |
+| 3 | 1 நிமிடம் | 4 நிமிடம் |
+| 4 | 90 நொடி | 6 நிமிடம் |
+| 5 | 150 நொடி | 10 நிமிடம் |
 
-Passive lock means they can't re-enable passive mode immediately after release - you can still arrest them if they try to restart a crime spree.
+Passive பூட்டு என்பது வெளியான உடனேயே செயலற்ற பயன்முறையை மீண்டும் இயக்க முடியாது - அவர்கள் குற்றச்செயல்களை மீண்டும் தொடங்க முயற்சித்தால் நீங்கள் அவர்களை கைது செய்யலாம்.
 
-### Leaving to avoid arrest (LTAA)
+### கைது செய்வதைத் தவிர்ப்பதற்காக வெளியேறுதல் (LTAA)
 
-If a wanted player logs out mid-offence, they're hit with a **worse** jail time on return:
+ஒரு தேடப்படும் வீரர் இடைப்பட்ட குற்றத்தில் இருந்து வெளியேறினால், அவர்கள் திரும்பும்போது **மோசமான** சிறைத் தண்டனைக்கு ஆளாக நேரிடும்:
 
-| Stars | LTAA jail time |
-|-------|----------------|
-| 1 | 45 sec |
-| 2 | 90 sec |
-| 3 | 150 sec |
-| 4 | 4 min |
-| 5 | 6 min |
+| நட்சத்திரங்கள் | LTAA சிறை நேரம் |
+|-------|---------------|
+| 1 | 45 நொடி |
+| 2 | 90 நொடி |
+| 3 | 150 நொடி |
+| 4 | 4 நிமிடம் |
+| 5 | 6 நிமிடம் |
 
-So no, quitting doesn't save you.
+எனவே இல்லை, வெளியேறுவது உங்களைக் காப்பாற்றாது.
 
-### Combat timer (engagement window)
+### போர் டைமர் (நிச்சயதார்த்த சாளரம்)
 
-A **30-second combat window** opens on a suspect the moment your **taser** lands a hit or your **detain** succeeds. While the timer is live:
+ஒரு **30-வினாடி போர் சாளரம்** உங்கள் **டேஸர்** வெற்றிபெறும் தருணத்தில் அல்லது உங்கள் **தடுப்பு** வெற்றிபெறும் தருணத்தில் ஒரு சந்தேக நபரின் மீது திறக்கும். டைமர் நேரலையில் இருக்கும்போது:
 
-- Their **Reset** button is locked, and main menu / team-switch is locked even sub-1-star.
-- If they die from any cause (fall, crash, reset, or taking too much damage) - combat-evasion jail kicks in.
-- If they leave the game - combat-evasion jail is queued for their next session.
+- அவர்களின் **மீட்டமை** பொத்தான் பூட்டப்பட்டுள்ளது, மேலும் பிரதான மெனு / குழு-சுவிட்ச் சப்-1-ஸ்டார் கூட பூட்டப்பட்டுள்ளது.
+- அவர்கள் ஏதேனும் காரணத்தால் இறந்தால் (வீழ்ச்சி, விபத்து, ரீசெட், அல்லது அதிக சேதம்) - போர்-ஏய்ப்பு சிறை உதைக்கும்.
+- அவர்கள் விளையாட்டை விட்டு வெளியேறினால் - போர்-ஏய்ப்பு சிறை அவர்களின் அடுத்த அமர்வுக்கு வரிசையில் நிற்கிறது.
 
-Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1-5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Engager-offline edge case: credit is forfeit, so stay online if you want the payout.
+போர்-ஏய்ப்பு சிறை **இரட்டை** வழக்கமான LTAA கால அளவு: 60 / 120 / 240 / 360 / 600 வினாடிகள் 1-5 நட்சத்திரங்கள், மேலும் அவர்கள் அந்த நேரத்தில் தடுத்து வைக்கப்பட்டிருந்தால் +30 வினாடிகள். **நீங்கள் அவர்களை சுத்தமாகக் கைது செய்தது போல் முழு நட்சத்திர அளவுள்ள XP + Ringgit கிரெடிட்டைப் பெறுவீர்கள்**, மேலும் 50% அருகிலுள்ள அதிகாரி பிரிவையும். ஈடுபாட்டாளர்-ஆஃப்லைன் எட்ஜ் கேஸ்: கிரெடிட் பறிக்கப்பட்டது, எனவே நீங்கள் பணம் செலுத்த விரும்பினால் ஆன்லைனில் இருங்கள்.
 
-In practice this means: once you tase a suspect, you've already locked in the credit. Even if they sprint into traffic and die, your patrol still scores it.
+நடைமுறையில் இதன் பொருள்: நீங்கள் ஒரு சந்தேக நபரைக் கண்டுபிடித்துவிட்டால், நீங்கள் ஏற்கனவே கிரெடிட்டைப் பூட்டிவிட்டீர்கள். அவர்கள் ட்ராஃபிக்கில் குதித்து இறந்தாலும், உங்கள் ரோந்து அதை இன்னும் ஸ்கோர் செய்கிறது.
 
-## Speed traps and radar
+## வேகப் பொறிகள் மற்றும் ரேடார்
 
-Sumaya has **two separate speeding systems** - automatic zones and your manual radar gun.
+Sumaya ஆனது **இரண்டு தனித்தனி வேக அமைப்புகள்** - தானியங்கி மண்டலங்கள் மற்றும் உங்கள் கையேடு ரேடார் துப்பாக்கி.
 
-### Speed trap zones (auto)
+### வேகப் பொறி மண்டலங்கள் (தானியங்கு)
 
-There are **3 speed trap zones** in the world. Two are posted at **60 studs/s** and one at **80 studs/s**, so the safe cruising speed depends on the road. If any vehicle (player or NPC) drives through a zone above its posted limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
+உலகில் **3 வேக பொறி மண்டலங்கள்** உள்ளன. இரண்டு **60 studs/s** மற்றும் ஒன்று **80 studs/s** இல் இடுகையிடப்பட்டுள்ளது, எனவே பாதுகாப்பான பயண வேகம் சாலையைப் பொறுத்தது. ஏதேனும் வாகனம் (பிளேயர் அல்லது NPC) அதன் இடுகையிடப்பட்ட வரம்பிற்கு மேல் ஒரு மண்டலத்தின் வழியாக ஓட்டினால், கேம் டிரைவருக்குத் தானாக டிக்கெட் அளிக்கிறது: +10 குற்றப் புள்ளிகள், எந்த அதிகாரி நடவடிக்கையும் தேவையில்லை. உங்களுக்கு அருகில் ஒரு டிக்கெட் நடக்கும் போது, ​​உங்கள் HUD இல் பேனர் அறிவிப்பைக் காண்பீர்கள்.
 
-Zones recycle per driver on a 30-second cooldown, so someone speeding through repeatedly will accumulate tickets fast.
+30-வினாடி கூல்டவுனில் ஒரு ஓட்டுனருக்கு மண்டலங்கள் மறுசுழற்சி செய்கின்றன, எனவே மீண்டும் மீண்டும் வேகமாகச் செல்லும் ஒருவர் டிக்கெட்டுகளை விரைவாகக் குவிப்பார்.
 
-Emergency vehicles with their **siren active** are exempt - you won't cite yourself for responding.
+**சைரன் செயலில்** உள்ள அவசரகால வாகனங்களுக்கு விலக்கு அளிக்கப்பட்டுள்ளது - நீங்கள் பதிலளிப்பதற்காக உங்களை மேற்கோள் காட்ட மாட்டீர்கள்.
 
-### Radar gun (manual, for big speeders)
+### ரேடார் துப்பாக்கி (கையேடு, பெரிய வேகம் ஓட்டுபவர்களுக்கு)
 
-Your radar gun is the tool for catching **serious** speeders outside zones. Point at a moving vehicle and fire:
+உங்கள் ரேடார் துப்பாக்கி என்பது மண்டலங்களுக்கு வெளியே ** தீவிர** வேகக்காரர்களைப் பிடிக்கும் கருவியாகும். நகரும் வாகனத்தை சுட்டிக்காட்டி நெருப்பு:
 
-- Target must be going **200 studs/s or faster** for the tool to register a hit. Slower than that, the gun reports "Not speeding" and does nothing.
-- Each captured licence plate gets a **120-second cooldown** - you can't re-capture the same plate within two minutes.
-- You must be **on duty** (active POLIS team) for the tool to work.
+- கருவி வெற்றியைப் பதிவு செய்ய இலக்கு **200 studs/s அல்லது வேகமாக** செல்ல வேண்டும். அதை விட மெதுவாக, துப்பாக்கி "வேகமாக இல்லை" என்று தெரிவிக்கிறது மற்றும் எதுவும் செய்யாது.
+- கைப்பற்றப்பட்ட ஒவ்வொரு உரிமத் தகடுக்கும் **120-வினாடி கூல்டவுன்** கிடைக்கும் - இரண்டு நிமிடங்களுக்குள் அதே பிளேட்டை மீண்டும் கைப்பற்ற முடியாது.
+- கருவி வேலை செய்ய நீங்கள் **பணியில்** (செயலில் POLIS குழு) இருக்க வேண்டும்.
 
-**Reward per capture:** 30 XP + 50 Ringgit + 10 offence points on the driver.
+**ஒவ்வொரு பிடிப்புக்கும் வெகுமதி:** 30 XP + 50 Ringgit + ஓட்டுநருக்கு 10 குற்றப் புள்ளிகள்.
 
-Because zone limits sit at 60-80 studs/s and the radar only registers at 200+ studs/s, there is a wide middle band where a speeder is legal-on-paper but moving fast. A patrolling officer with a radar gun is the only thing that fills that gap.
+மண்டல வரம்புகள் 60-80 studs/s இல் அமர்வதால், ரேடார் 200+ studs/s இல் மட்டுமே பதிவு செய்யும், ஒரு ஸ்பீடர் சட்டப்பூர்வமாக இருக்கும் ஆனால் வேகமாக நகரும் ஒரு பரந்த நடுத்தர இசைக்குழு உள்ளது. அந்த இடைவெளியை நிரப்புவது ரேடார் துப்பாக்கியுடன் ஒரு ரோந்து அதிகாரி மட்டுமே.
 
-## Vehicles
+## வாகனங்கள்
 
-Polis vehicles unlock based on a mix of **player level** and **sector level**.
+Polis வாகனங்கள் **பிளேயர் லெவல்** மற்றும் **செக்டர் லெவல்** ஆகியவற்றின் கலவையின் அடிப்படையில் திறக்கப்படும்.
 
-| Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
-| Protan Wira MPV Polis | 1 | 1 | Free |
+| வாகனம் | வீரர் நிலை | துறை நிலை | விலை |
+|---------|------------|------------|------|
+| Protan Wira MPV Polis | 1 | 1 | இலவச |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
 
-The Wira is your starter patrol car. The Civic is the top-tier - fast, heavy, full-kit.
+வைரா உங்கள் ஸ்டார்டர் ரோந்து கார். சிவிக் டாப்-டையர் - வேகமான, கனமான, முழு-கிட்.
 
-Polis vehicles have **ELS sirens**. With the siren active, you're exempt from traffic offences (speeding, crashes) while you respond.
+Polis வாகனங்களில் **ELS சைரன்** உள்ளது. சைரன் செயலில் இருப்பதால், நீங்கள் பதிலளிக்கும் போது போக்குவரத்து விதிமீறல்களிலிருந்து (வேகம், விபத்துக்கள்) விலக்கு பெறுவீர்கள்.
 
-See [Vehicles](/sumaya/vehicles) for details.
+விவரங்களுக்கு [வாகனங்கள்](/ta/sumaya/vehicles) பார்க்கவும்.
 
-## Ranks
+## தரவரிசைகள்
 
-Polis has **16 ranks**, the most of any emergency service. Titles are based on real Polis MYSverse ranks (POLIS).
+Polis ஆனது **16 ரேங்க்களைக் கொண்டுள்ளது**, எந்த அவசர சேவையிலும் அதிகம். தலைப்புகள் உண்மையான Polis MYSverse ரேங்க்களை (POLIS) அடிப்படையாகக் கொண்டவை.
 
-| Level | Rank |
+| நிலை | தரவரிசை |
 |-------|------|
-| 1 | Police Constable |
-| 6 | Lance Corporal (L/Cpl) |
-| 11 | Corporal (Cpl) |
-| 16 | Sergeant (Sgt) |
-| 21 | Sergeant Major (SM) |
-| 26 | Sub-Inspector (SI) |
-| 31 | Probationary Inspector (P/Insp) |
-| 36 | Inspector (Insp) |
-| 41 | Chief Inspector (C/Insp) |
-| 46 | Assistant Superintendent of Police (ASP) |
-| 51 | Deputy Superintendent of Police (DSP) |
-| 56 | Superintendent of Police (SUPT) |
-| 61 | Assistant Commissioner of Police (ACP) |
-| 69 | Senior Assistant Commissioner of Police (SAC) |
-| 77 | Deputy Commissioner of Police (DCP) |
-| 89 | Commissioner of Police (CP) |
+| 1 | போலீஸ் கான்ஸ்டபிள் |
+| 6 | லான்ஸ் கார்போரல் (L/Cpl) |
+| 11 | கார்போரல் (சிபிஎல்) |
+| 16 | சார்ஜென்ட் (Sgt) |
+| 21 | சார்ஜென்ட் மேஜர் (SM) |
+| 26 | சப்-இன்ஸ்பெக்டர் (SI) |
+| 31 | ப்ரோபேஷனரி இன்ஸ்பெக்டர் (P/Insp) |
+| 36 | இன்ஸ்பெக்டர் (Insp) |
+| 41 | தலைமை ஆய்வாளர் (C/Insp) |
+| 46 | உதவி காவல் கண்காணிப்பாளர் (ASP) |
+| 51 | துணைக் கண்காணிப்பாளர் (டிஎஸ்பி) |
+| 56 | காவல் கண்காணிப்பாளர் (SUPT) |
+| 61 | காவல் உதவி ஆணையர் (ACP) |
+| 69 | மூத்த காவல் ஆணையர் (SAC) |
+| 77 | துணை போலீஸ் கமிஷனர் (டிசிபி) |
+| 89 | காவல் ஆணையர் (CP) |
 
-From level 89 onward you're at the top. No rank change as you push to the level 100 cap.
+நிலை 89 முதல் நீங்கள் மேலே இருக்கிறீர்கள். நீங்கள் நிலை 100 தொப்பிக்குச் செல்லும்போது தரவரிசை மாற்றமில்லை.
 
-## Exempt while responding
+## பதிலளிக்கும் போது விலக்கு
 
-If you have your Polis vehicle's **siren active**, you can't be cited for speeding or crashes while you drive. The system recognises you're on a call. Turn the siren off when you park - otherwise other players might think you're still responding.
+உங்கள் Polis வாகனத்தின் **சைரன் செயலில்** இருந்தால், நீங்கள் ஓட்டும் போது வேகமாக அல்லது விபத்துக்குள்ளானதாகக் குறிப்பிட முடியாது. நீங்கள் அழைப்பில் இருப்பதை கணினி அங்கீகரிக்கிறது. நீங்கள் நிறுத்தும்போது சைரனை அணைக்கவும் - இல்லையெனில் நீங்கள் இன்னும் பதிலளிப்பதாக மற்ற வீரர்கள் நினைக்கலாம்.
 
-## Tips
+## குறிப்புகள்
 
-- **Use the MDT.** Don't just patrol blindly. The MDT shows every wanted suspect and lets you waypoint them directly.
-- **Partner up.** Two POLIS within 50 studs means the non-arresting officer gets 50% of the reward for free. Great for a friend-based grind.
-- **Don't miss milestone bonuses.** Every 5 arrests = +200 Ringgit. Plan your shift to hit 5, 10, 15.
-- **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
-- **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
-- **Don't become wanted yourself.** If you cross into 1-star wanted as POLIS, the live demotion listener removes you from the emergency team and despawns your emergency vehicle. Leave the team first if you want to play criminal.
-- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
+- **MDT ஐப் பயன்படுத்தவும்.** கண்மூடித்தனமாக ரோந்து செல்ல வேண்டாம். MDT ஒவ்வொரு தேடப்படும் சந்தேக நபரையும் காட்டுகிறது மற்றும் அவர்களை நேரடியாக வழி காட்ட உதவுகிறது.
+- **கூட்டாளர் நண்பர் அடிப்படையிலான அரைப்பதற்கு சிறந்தது.
+- **மைல்கல் போனஸைத் தவறவிடாதீர்கள்.** ஒவ்வொரு 5 கைதுகளுக்கும் = +200 Ringgit. உங்கள் ஷிப்டை 5, 10, 15 அடிக்க திட்டமிடுங்கள்.
+- **5-நட்சத்திர கைதுகள் பெரியவை.** ஒரு ஒற்றை 5-நட்சத்திர காலர் = 400 XP + 1200 Ringgit. அவற்றை உருவாக்குவது கடினம், ஆனால் முகாமிடுவது மதிப்பு.
+- **சைரன்கள் = டிக்கெட் இல்லை.** நீங்கள் அழைப்புக்கு ஓட்டும்போது அவற்றை இயக்கவும் - இல்லையெனில் உங்கள் சொந்த வேகம் உங்களுக்கு சங்கடமாக டிக்கெட்டைப் பெறலாம்.
+- **நீங்களே தேவைப்படுபவராக ஆகிவிடாதீர்கள்.** POLIS ஆக 1-நட்சத்திரம் தேவை என நீங்கள் கடந்துவிட்டால், நேரலையில் தரமிறக்க கேட்பவர் உங்களை அவசரகால குழுவிலிருந்து நீக்கிவிட்டு உங்கள் அவசரகால வாகனத்தை டெபான் செய்வார். நீங்கள் குற்றவாளியாக விளையாட விரும்பினால் முதலில் அணியை விட்டு வெளியேறுங்கள்.
+- **தீ-உதவி XP என்பது Kesihatan-மட்டுமே.** உள்ளுணர்வுக்கு மாறாக, POLIS அருகிலுள்ள தீ விபத்துகளில் இருந்து XP ஐ ஈட்டவில்லை. Kesihatan பிளேயர்கள் மட்டுமே ஒரு பிளாக்கிற்கு 10 பிளேயர் XP தீயில் 512 studsக்குள் நிற்பதன் மூலம் பயனடைவார்கள்.
 
-## What next?
+## அடுத்து என்ன?
 
-- [Crime and Law](/sumaya/crime-and-law) for what you're up against.
-- [Bomba](/sumaya/bomba) and [Kesihatan](/sumaya/kesihatan) for the other services.
-- [Vehicles](/sumaya/vehicles) for the Polis vehicle catalogue.
-- [Progression](/sumaya/progression) for how XP and ranks work.
+- [குற்றம் மற்றும் சட்டம்](/ta/sumaya/crime-and-law) நீங்கள் எதை எதிர்க்கிறீர்கள்.
+- மற்ற சேவைகளுக்கு [Bomba](/ta/sumaya/bomba) மற்றும் [Kesihatan](/ta/sumaya/kesihatan).
+- Polis வாகன அட்டவணைக்கு [வாகனங்கள்](/ta/sumaya/vehicles).
+- [முன்னேற்றம்](/ta/sumaya/progression) XP மற்றும் தரவரிசைகள் எவ்வாறு செயல்படுகின்றன.

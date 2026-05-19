@@ -10,126 +10,126 @@ needs_review: true
 ---
 # உலகம் & வரைபடம்
 
-Lebuhraya is set on a stretch of Malaysian highway with three main regions connected by toll plazas and rest stops. This page maps out where everything is.
+Lebuhraya மலேசிய நெடுஞ்சாலையில் மூன்று முக்கிய பகுதிகள் சுங்கச்சாவடிகள் மற்றும் ஓய்வு நிறுத்தங்கள் மூலம் இணைக்கப்பட்டுள்ளது. இந்தப் பக்கம் எல்லாம் எங்குள்ளது என்பதைக் காட்டுகிறது.
 
-## The regions
+## பிராந்தியங்கள்
 
 ### Bandar Seri Putra
 
-The largest settlement - your main hub for jobs, services, and commerce. If you're new, you'll spend most of your first hours here.
+மிகப்பெரிய தீர்வு - வேலைகள், சேவைகள் மற்றும் வர்த்தகத்திற்கான உங்கள் முக்கிய மையம். நீங்கள் புதியவராக இருந்தால், உங்கள் முதல் மணிநேரங்களில் பெரும்பாலானவற்றை இங்கேயே செலவிடுவீர்கள்.
 
-**Key buildings**:
-- **Balai Polis Bandar Seri Putra** - Police station
-- **Balai Bomba Bandar Seri Putra** - Fire station
-- **Klinik Kesihatan Bandar Seri Putra** - Health clinic / hospital
-- **Depoh Bas Bandar Seri Putra** - Bus depot (start of Bus Driver routes)
-- **Radtrol Petrol Station Bandar Seri Putra** - Refuelling
-- **Stesen Insinerasi Bandar Seri Putra** - Waste disposal drop-off
-- **Gravstone Workshop Bandar Seri Putra** - Vehicle paint and body customisation
-- **Pangsapuri Seri Putra** - Apartment complex / housing plots
-- **Masjid Bandar Seri Putra** - Mosque
-- **KTN Bandar Seri Putra** - KTN branch
-- **Dus Doffee Bandar Seri Putra** - Coffee shop
+**முக்கிய கட்டிடங்கள்**:
+- **Balai Polis Bandar Seri Putra** - காவல் நிலையம்
+- **Balai Bomba Bandar Seri Putra** - தீயணைப்பு நிலையம்
+- **Klinik Kesihatan Bandar Seri Putra** - ஹெல்த் கிளினிக் / மருத்துவமனை
+- **டெப்போ பாஸ் Bandar Seri Putra** - பஸ் டிப்போ (Bus Driver வழித்தடங்களின் ஆரம்பம்)
+- **Radtrol Petrol Station Bandar Seri Putra** - எரிபொருள் நிரப்புதல்
+- **Stesen Insinerasi Bandar Seri Putra** - கழிவு அகற்றல் கைவிடுதல்
+- **Gravstone Workshop Bandar Seri Putra** - வாகன வண்ணப்பூச்சு மற்றும் உடல் தனிப்பயனாக்கம்
+- **Pangsapuri Seri Putra** - அடுக்குமாடி வளாகம் / வீட்டு மனைகள்
+- **மஸ்ஜித் Bandar Seri Putra** - மசூதி
+- **KTN Bandar Seri Putra** - KTN கிளை
+- **டஸ் டோஃபி Bandar Seri Putra** - காபி கடை
 
-### Jersik
+### ஜெர்சிக்
 
-A secondary town with industrial zones and the racetrack.
+தொழில்துறை மண்டலங்கள் மற்றும் பந்தயப் பாதையுடன் இரண்டாம் நிலை நகரம்.
 
-**Key buildings**:
-- **Balai Bomba Jersik** - Fire station
-- **Pos Nasional Jersik** - Post office (start of Post Office job)
-- **Plaza Tol Jersik** - Toll plaza
-- **Jersik Race Track** - The home track for racing
-- **Stesen Insinerasi Jersik** - Waste disposal drop-off
-- **H Plantation Jersik** - Agricultural estate (lumberjack / forestry)
-- **Kompleks Petroliam dan Gas Radtrol** - Large refuelling complex
+**முக்கிய கட்டிடங்கள்**:
+- **பாலை Bomba ஜெர்சிக்** - தீயணைப்பு நிலையம்
+- **Pos Nasional Jersik** - தபால் அலுவலகம் (Post Office வேலையின் ஆரம்பம்)
+- **Plaza Tol Jersik** - டோல் பிளாசா
+- **Jersik Race Track** - பந்தயத்திற்கான ஹோம் டிராக்
+- **ஸ்டெசென் இன்சினெராசி ஜெர்சிக்** - கழிவு அகற்றல் கைவிடுதல்
+- **எச் பிளாண்டேஷன் ஜெர்சிக்** - விவசாய எஸ்டேட் (மரம் வெட்டும் / வனவியல்)
+- **கோம்ப்ளெக்ஸ் பெட்ரோலியம் டான் கேஸ் Radtrol** - பெரிய எரிபொருள் நிரப்பும் வளாகம்
 
-*Jersik doesn't have its own police station - the nearest Balai Polis is in Kampung Merbang.*
+*ஜெர்சிக்கிற்கு சொந்த காவல் நிலையம் இல்லை - அருகிலுள்ள பாலை Polis Kampung Merbang இல் உள்ளது.*
 
 ### Kampung Merbang
 
-A quieter rural village.
+ஒரு அமைதியான கிராமப்புற கிராமம்.
 
-**Key buildings**:
-- **Balai Polis Kampung Merbang** - Police station
-- **Masjid Kampung Merbang** - Mosque
-- Highway rest stops nearby (see below)
+**முக்கிய கட்டிடங்கள்**:
+- **பாலை Polis Kampung Merbang** - காவல் நிலையம்
+- **மஸ்ஜித் Kampung Merbang** - மசூதி
+- அருகிலுள்ள நெடுஞ்சாலை ஓய்வு நிறுத்தங்கள் (கீழே காண்க)
 
 ### Taman Mahkota / Putra Mahkota
 
-A plaza / neighbourhood zone.
+ஒரு பிளாசா / அண்டை மண்டலம்.
 
-**Key buildings**:
-- **Plaza Tol Putra Mahkota** - Second major toll plaza
-- **Taman Mahkota** - Housing / residential zone
+**முக்கிய கட்டிடங்கள்**:
+- **Plaza Tol Putra Mahkota** - இரண்டாவது பெரிய சுங்கச்சாவடி
+- **Taman Mahkota** - வீட்டுவசதி / குடியிருப்பு மண்டலம்
 
-## Highway landmarks
+## நெடுஞ்சாலை அடையாளங்கள்
 
-The highway connects all three regions. Notable stops:
+நெடுஞ்சாலை மூன்று பகுதிகளையும் இணைக்கிறது. குறிப்பிடத்தக்க நிறுத்தங்கள்:
 
-- **PETROMAS Petrol Station Northbound** - Fuel stop heading north
-- **PETROMAS Petrol Station Southbound** - Fuel stop heading south
-- **RnR Sungai Merbang Northbound** - Rest & Relax stop with food
-- **RnR Sungai Merbang Southbound** - Rest & Relax stop with food
-- **Plaza Tol Jersik** - Toll collection
-- **Plaza Tol Putra Mahkota** - Toll collection
+- **PETROMAS Petrol Station Northbound** - எரிபொருள் நிறுத்தம் வடக்கு நோக்கி
+- **PETROMAS Petrol Station Southbound** - தெற்கு நோக்கி செல்லும் எரிபொருள் நிறுத்தம்
+- **RnR Sungai Merbang Northbound** - உணவுடன் ஓய்வெடுத்து ஓய்வெடுக்கவும்
+- **RnR Sungai Merbang Southbound** - உணவுடன் ஓய்வெடுத்து ஓய்வெடுக்கவும்
+- **Plaza Tol Jersik** - டோல் வசூல்
+- **Plaza Tol Putra Mahkota** - டோல் வசூல்
 
-## Other points of interest
+## ஆர்வமுள்ள மற்ற புள்ளிகள்
 
-- **SMK MYS II** - Secondary school
-- **Fishing Port** - Malaysians-team fishing location
-- **Haunted House** - An easter egg / roleplay spot; explore at your own risk
+- **SMK MYS II** - மேல்நிலைப் பள்ளி
+- **Fishing துறைமுக** - Malaysians-குழு மீன்பிடி இடம்
+- **பேய் வீடு** - ஈஸ்டர் முட்டை / ரோல்பிளே ஸ்பாட்; உங்கள் சொந்த ஆபத்தில் ஆராயுங்கள்
 
-## Where to go when you need…
+## உங்களுக்கு தேவைப்படும் போது எங்கு செல்ல வேண்டும்...
 
-| What you need | Where to go |
+| உங்களுக்கு என்ன தேவை | எங்கு செல்ல வேண்டும் |
 |---|---|
-| Fuel (Petrol) | PETROMAS NB or SB, or Radtrol |
-| Fuel (Diesel) | Kompleks Petroliam dan Gas Radtrol, PETROMAS stations |
-| Fuel (Electric) | Radtrol in Bandar Seri Putra (electric chargers) |
-| Food & snacks | Any of the 12 shops - see [Shops](/lebuhraya/shops) |
-| A jerrycan | Jerrycan Shop |
-| Police help | Any Balai Polis (Bandar Seri Putra, Kampung Merbang) |
-| Fire / rescue | Any Balai Bomba (Bandar Seri Putra, Jersik) |
-| Medical | Klinik Kesihatan Bandar Seri Putra |
-| Vehicle repairs | Any of the 10 repair zones around the map |
-| Vehicle paint / body work | Gravstone Workshop (requires Workshop gamepass) |
-| Post your mail | Pos Nasional Jersik |
-| Start a bus route | Depoh Bas Bandar Seri Putra |
-| Race | Jersik Race Track |
-| Fish | Fishing Port |
-| Pray | Masjid Kampung Merbang or Masjid Bandar Seri Putra |
-| Hang out | RnR rest stops or Dus Doffee |
+| எரிபொருள் (பெட்ரோல்) | PETROMAS NB அல்லது SB, அல்லது Radtrol |
+| எரிபொருள் (டீசல்) | கொம்ப்ளெக்ஸ் பெட்ரோலியம் மற்றும் கேஸ் Radtrol, PETROMAS நிலையங்கள் |
+| எரிபொருள் (மின்சாரம்) | Radtrol in Bandar Seri Putra (மின்சார சார்ஜர்கள்) |
+| உணவு & தின்பண்டங்கள் | 12 கடைகளில் ஏதேனும் - [கடைகள்](/ta/lebuhraya/shops) | பார்க்கவும்
+| ஒரு ஜெர்ரிகான் | ஜெர்ரிக்கன் கடை |
+| போலீஸ் உதவி | ஏதேனும் பலாய் Polis (Bandar Seri Putra, Kampung Merbang) |
+| தீ / மீட்பு | ஏதேனும் பலாய் Bomba (Bandar Seri Putra, Jersik) |
+| மருத்துவ | Klinik Kesihatan Bandar Seri Putra |
+| வாகன பழுது | வரைபடத்தைச் சுற்றியுள்ள 10 பழுதுபார்க்கும் மண்டலங்களில் ஏதேனும் |
+| வாகன பெயிண்ட் / உடல் வேலை | Gravstone Workshop (ஒர்க்ஷாப் gamepass) |
+| உங்கள் மின்னஞ்சலை இடுகையிடவும் | Pos Nasional ஜெர்சிக் |
+| ஒரு பேருந்து வழியை தொடங்கு | டெப்போ பாஸ் Bandar Seri Putra |
+| இனம் | Jersik Race Track |
+| மீன் | Fishing போர்ட் |
+| பிரார்த்தனை | மஸ்ஜித் Kampung Merbang அல்லது மஸ்ஜித் Bandar Seri Putra |
+| ஹேங் அவுட் | RnR ஓய்வு நிறுத்தங்கள் அல்லது டஸ் டோஃபி |
 
-## Weather and time of day
+## வானிலை மற்றும் நாளின் நேரம்
 
-Lebuhraya has a live day-night cycle and random rainfall.
+Lebuhraya பகல்-இரவு சுழற்சி மற்றும் சீரற்ற மழைப்பொழிவைக் கொண்டுள்ளது.
 
-**Time cycle**: in-game time advances by **1 minute every real-world second**, so a full in-game day takes 24 real minutes. Streetlights and billboard lights turn on automatically at **6:00 PM** and remain on until **6:40 AM**. Drive with headlights during those hours for visibility - and respect the atmosphere; some roads are meaningfully darker at night.
+**நேரச் சுழற்சி**: விளையாட்டின் நேரமானது **ஒவ்வொரு நிஜ உலக வினாடிக்கும் 1 நிமிடம்** முன்னேறுகிறது, எனவே ஒரு முழு விளையாட்டு நாள் 24 நிஜ நிமிடங்கள் எடுக்கும். தெருவிளக்குகள் மற்றும் விளம்பர பலகை விளக்குகள் **6:00 PM** மணிக்கு தானாகவே ஆன் ஆகி **6:40 AM** வரை இருக்கும். அந்த நேரங்களில் ஹெட்லைட்களுடன் வாகனம் ஓட்டவும் - மற்றும் வளிமண்டலத்தை மதிக்கவும்; சில சாலைகள் இரவில் அர்த்தமுள்ளதாக இருட்டாக இருக்கும்.
 
-**Rain**: periodic showers appear randomly. On average, rain starts every **30–60 minutes** and lasts **5–10 minutes**. You'll hear audible rain and see a rain effect while it's active. Roads do not become slippery, but visibility drops.
+**மழை**: அவ்வப்போது மழை சீரற்ற முறையில் தோன்றும். சராசரியாக, மழை ஒவ்வொரு **30-60 நிமிடங்களுக்கு** தொடங்கி **5-10 நிமிடங்கள்** நீடிக்கும். செயலில் இருக்கும்போது நீங்கள் கேட்கக்கூடிய மழையைக் கேட்பீர்கள் மற்றும் மழையின் விளைவைப் பார்ப்பீர்கள். சாலைகள் வழுக்கும் தன்மையுடையதாக மாறாது, ஆனால் தெரிவுநிலை குறைகிறது.
 
-## Traffic lights and junctions
+## போக்குவரத்து விளக்குகள் மற்றும் சந்திப்புகள்
 
-Junction traffic lights coordinate across multiple signal groups. Standalone lights cycle green, yellow, and red independently. Stop at red lights to avoid traffic offences.
+சந்திப்பு போக்குவரத்து விளக்குகள் பல சமிக்ஞை குழுக்களில் ஒருங்கிணைக்கின்றன. தனித்தனி விளக்குகள் பச்சை, மஞ்சள் மற்றும் சிவப்பு நிறங்களைச் சுதந்திரமாகச் சுழற்றுகின்றன. போக்குவரத்து விதிமீறல்களைத் தவிர்க்க சிவப்பு விளக்குகளில் நிறுத்தவும்.
 
-## Speed traps and tolls
+## வேகப் பொறிகள் மற்றும் சுங்கச்சாவடிகள்
 
-Selected highway stretches have **speed traps** that measure your vehicle's speed as you pass through.
+தேர்ந்தெடுக்கப்பட்ட நெடுஞ்சாலை நீட்சிகளில் **வேகப் பொறிகள்** நீங்கள் கடந்து செல்லும் போது உங்கள் வாகனத்தின் வேகத்தை அளவிடும்.
 
-- **Above 110 studs/s**: a HUD readout flashes your recorded speed. Your personal best is saved to the **Speed Trap** leaderstat - try to beat it!
-- **Above 200 studs/s without emergency lights (ELS)**: you're logged for a **Speeding** offence, which can trigger enforcement from Polis Trafik. Emergency team vehicles on active ELS are exempt.
+- **110க்கு மேல் studs/s**: ஒரு HUD ரீட்அவுட் உங்கள் பதிவு செய்யப்பட்ட வேகத்தை ஒளிரச் செய்கிறது. உங்களின் தனிப்பட்ட சிறந்தது **ஸ்பீட் ட்ராப்** லீடர்ஸ்டாட்டில் சேமிக்கப்பட்டது - அதை வெல்ல முயற்சிக்கவும்!
+- **200 studs/விக்கு மேல் அவசர விளக்குகள் இல்லாமல் (ELS)**: நீங்கள் **வேகம்** குற்றத்திற்காக உள்நுழைந்துள்ளீர்கள், இது Polis Trafik இலிருந்து அமலாக்கத்தைத் தூண்டும். செயலில் உள்ள ELS இல் உள்ள அவசரக் குழு வாகனங்களுக்கு விலக்கு அளிக்கப்பட்டுள்ளது.
 
-**Toll plazas** - Plaza Tol Jersik and Plaza Tol Putra Mahkota - currently open through a CnG scan prompt. Tolls in this version of the game are **free to pass**. Your first toll pass counts towards the *Bayar Tol* discovery challenge.
+**டோல் பிளாசாக்கள்** - Plaza Tol Jersik மற்றும் Plaza Tol Putra Mahkota - தற்போது CnG ஸ்கேன் ப்ராம்ட் மூலம் திறக்கப்பட்டுள்ளது. கேமின் இந்தப் பதிப்பில் உள்ள கட்டணங்கள் ** அனுப்ப இலவசம்**. உங்கள் முதல் டோல் பாஸ் *Bayar Tol* கண்டுபிடிப்பு சவாலை நோக்கி கணக்கிடப்படுகிறது.
 
-## Navigation
+## வழிசெலுத்தல்
 
-Use the **GPS** system (accessible from the topbar / phone) to set a waypoint to any POI. A glowing beam will guide you there, following roads - no point-to-point teleport for regular players.
+எந்த POIக்கும் வழிப் புள்ளியை அமைக்க **GPS** அமைப்பைப் பயன்படுத்தவும் (டாப்பார் / ஃபோனில் இருந்து அணுகலாம்). ஒரு ஒளிரும் கற்றை, சாலைகளைப் பின்தொடரும், அங்கு உங்களுக்கு வழிகாட்டும் - வழக்கமான வீரர்களுக்கு புள்ளி-க்கு-புள்ளி டெலிபோர்ட் இல்லை.
 
-Fast Travel exists in the game but is gated to **MYSverse staff only** (moderators / devs), used for event coordination. If you're not staff, you'll drive every journey - so plan routes accordingly. Every stud you drive is XP, so the scenic route is often the profitable one.
+ஃபாஸ்ட் டிராவல் விளையாட்டில் உள்ளது, ஆனால் நிகழ்வு ஒருங்கிணைப்புக்குப் பயன்படுத்தப்படும் **MYSverse ஊழியர்களுக்கு மட்டுமே** (மதிப்பீட்டாளர்கள் / devs). நீங்கள் ஊழியர்களாக இல்லாவிட்டால், ஒவ்வொரு பயணத்தையும் ஓட்டுவீர்கள் - எனவே அதற்கேற்ப வழிகளைத் திட்டமிடுங்கள். நீங்கள் ஓட்டும் ஒவ்வொரு stud XP ஆகும், எனவே இயற்கை எழில் கொஞ்சும் பாதை பெரும்பாலும் லாபம் தரும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Shops](/lebuhraya/shops) - What each shop sells
-- [Jobs](/lebuhraya/jobs) - Which buildings belong to which job
-- [Housing](/lebuhraya/housing) - Claim a plot at Pangsapuri Seri Putra
+- [கடைகள்](/ta/lebuhraya/shops) - ஒவ்வொரு கடையும் என்ன விற்கிறது
+- [வேலைகள்](/ta/lebuhraya/jobs) - எந்தெந்த கட்டிடங்கள் எந்த வேலைக்குச் சொந்தமானது
+- [வீடு](/ta/lebuhraya/housing) - Pangsapuri Seri Putra இல் ஒரு மனையைப் பெறவும்

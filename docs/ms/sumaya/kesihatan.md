@@ -116,7 +116,7 @@ Ambulans Kesihatan dibuka apabila tahap sektor anda meningkat.
 
 KKN bermaksud Kementerian Kesihatan Nasional (National Ministry of Health). Setiap ambulans mempunyai siren dan ruang kargo belakang (untuk Stretcher).
 
-Lihat [Vehicles](/sumaya/vehicles) untuk cara spawn mereka.
+Lihat [Vehicles](/ms/sumaya/vehicles) untuk cara spawn mereka.
 
 ## Pangkat
 
@@ -151,7 +151,7 @@ Dari tahap 81 ke atas, anda berada di kemuncak. Tiada perubahan pangkat lagi sem
 
 ## Apa seterusnya?
 
-- [Polis](/sumaya/polis) untuk sisi penguatkuasaan undang-undang.
-- [Bomba](/sumaya/bomba) untuk rakan sejawat bomba.
-- [Vehicles](/sumaya/vehicles) untuk senarai ambulans.
-- [Progression](/sumaya/progression) untuk cara XP berkompaun.
+- [Polis](/ms/sumaya/polis) untuk sisi penguatkuasaan undang-undang.
+- [Bomba](/ms/sumaya/bomba) untuk rakan sejawat bomba.
+- [Vehicles](/ms/sumaya/vehicles) untuk senarai ambulans.
+- [Progres](/ms/sumaya/progression) untuk cara XP berkompaun.

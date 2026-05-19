@@ -10,7 +10,7 @@ needs_review: true
 ---
 # வேலைகள்
 
-Bandaraya-வில் BR சம்பாதிக்க மிக விரைவான வழிகள். இவை அனைத்தும் பொதுமக்களுக்கு அணுகக்கூடியவை (குறிப்பிடப்பட்ட இடங்களில் gamepass அல்லது group மூலம்). POLIS / BOMBA / KKM பணிகள் இந்த பக்கத்தில் இல்லை - அவர்கள் சம்பளம் அல்ல, கௌரவத்தை சம்பாதிக்கிறார்கள். அவற்றுக்கு [அவசர சேவைகள்](/bandaraya/emergency-services) பக்கத்தை பார்க்கவும்.
+Bandaraya-வில் BR சம்பாதிக்க மிக விரைவான வழிகள். இவை அனைத்தும் பொதுமக்களுக்கு அணுகக்கூடியவை (குறிப்பிடப்பட்ட இடங்களில் gamepass அல்லது group மூலம்). POLIS / BOMBA / KKM பணிகள் இந்த பக்கத்தில் இல்லை - அவர்கள் சம்பளம் அல்ல, கௌரவத்தை சம்பாதிக்கிறார்கள். அவற்றுக்கு [அவசர சேவைகள்](/ta/bandaraya/emergency-services) பக்கத்தை பார்க்கவும்.
 
 ## சுருக்கம்
 
@@ -29,7 +29,7 @@ Bandaraya-வில் BR சம்பாதிக்க மிக விரை�
 
 ### பணிப்போக்கு
 
-1. POS டெர்மினலில் **வேலையை தொடங்கவும்** (POS சைன்போர்டை பாருங்கள் - [வரைபடம்](/bandaraya/locations) பார்க்கவும்).
+1. POS டெர்மினலில் **வேலையை தொடங்கவும்** (POS சைன்போர்டை பாருங்கள் - [வரைபடம்](/ta/bandaraya/locations) பார்க்கவும்).
 2. அருகிலுள்ள **Postbox**-இலிருந்து **பார்சல்களை சேகரிக்கவும்**. நீங்கள் அவற்றை சுமக்கிறீர்கள்.
 3. சேகரித்த பார்சல்களை **Station**-இல் **செயலாக்கவும்**.
 4. நகரம் முழுவதும் உள்ள **Mailboxes**-க்கு **வழங்கவும்**.
@@ -213,8 +213,8 @@ Gamepass உள்ளவர்கள் மெனுவிலிருந்த�
 
 ## மேலும் பார்க்க
 
-- [பொருளாதாரம்](/bandaraya/economy) - முழு சம்பாதிப்பு/செலவு குறிப்பு
-- [Gamepasses](/bandaraya/gamepasses) - Taxi Driver, HCC
-- [Teams](/bandaraya/teams) - போக்குவரத்து team அணுகல்
-- [வாகனங்கள்](/bandaraya/vehicles) - spawning, எரிபொருள், டீலர்ஷிப்
-- [Tablet](/bandaraya/tablet) - MyTow மற்றும் Vehicle Management ஆப்புகள்
+- [பொருளாதாரம்](/ta/bandaraya/economy) - முழு சம்பாதிப்பு/செலவு குறிப்பு
+- [Gamepasses](/ta/bandaraya/gamepasses) - Taxi Driver, HCC
+- [Teams](/ta/bandaraya/teams) - போக்குவரத்து team அணுகல்
+- [வாகனங்கள்](/ta/bandaraya/vehicles) - spawning, எரிபொருள், டீலர்ஷிப்
+- [Tablet](/ta/bandaraya/tablet) - MyTow மற்றும் Vehicle Management ஆப்புகள்

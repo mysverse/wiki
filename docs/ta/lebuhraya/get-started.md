@@ -10,99 +10,99 @@ needs_review: true
 ---
 # தொடங்கு
 
-Welcome to Lebuhraya. This page walks you through your first session, from joining the server to earning your first XP and picking up your first job.
+Lebuhrayaக்கு வரவேற்கிறோம். இந்தப் பக்கம், server இல் சேர்வது முதல் XPஐப் பெறுவது மற்றும் உங்கள் முதல் வேலையைத் தேர்ந்தெடுப்பது வரை, உங்கள் முதல் அமர்வில் உங்களை அழைத்துச் செல்கிறது.
 
-## What is Lebuhraya?
+## Lebuhraya என்றால் என்ன?
 
-Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs, from food delivery to firefighting, to earn XP and build your career. Buy a house, join a convoy with friends, or just cruise.
+Lebuhraya என்பது மலேசிய நெடுஞ்சாலையில் அமைக்கப்பட்ட ஓட்டுநர் ரோல்பிளே அனுபவமாகும். மூன்று முக்கிய பகுதிகளுக்கு இடையே கார்கள், மோட்டார் சைக்கிள்கள், டிரக்குகள் மற்றும் பேருந்துகளை இயக்கவும். XP சம்பாதித்து, உங்கள் தொழிலை உருவாக்க, உணவு விநியோகம் முதல் தீயணைப்புப் பணி வரையிலான வேலைகளைச் செய்யுங்கள். ஒரு வீட்டை வாங்கவும், நண்பர்களுடன் ஒரு கான்வாயில் சேரவும் அல்லது பயணத்தில் செல்லவும்.
 
-The name "Lebuhraya" means "highway" in Malay.
+மலாய் மொழியில் "Lebuhraya" என்ற பெயருக்கு "நெடுஞ்சாலை" என்று பொருள்.
 
-## Your first minute
+## உங்கள் முதல் நிமிடம்
 
-When you join for the first time you spawn on the **Visitors** team with:
+நீங்கள் முதன்முறையாக சேரும்போது **Visitors** குழுவில் நீங்கள் உருவாகிறீர்கள்:
 
-- **1000 BR** (Ringgit) starting balance. BR is tracked, but most everyday costs are not charged yet, so shops, fuel, repairs, and furniture are currently free.
-- **Level 1**, 0 XP
-- No vehicle (you'll spawn one from a world vehicle spawner)
+- **1000 BR** (Ringgit) தொடக்க இருப்பு. BR கண்காணிக்கப்படுகிறது, ஆனால் பெரும்பாலான அன்றாட செலவுகள் இன்னும் வசூலிக்கப்படவில்லை, எனவே கடைகள், எரிபொருள், பழுதுபார்ப்பு மற்றும் தளபாடங்கள் தற்போது இலவசம்.
+- **நிலை 1**, 0 XP
+- வாகனம் இல்லை (உலக வாகனத்தை உருவாக்குபவரிடமிருந்து நீங்கள் ஒன்றை உருவாக்குவீர்கள்)
 
-Look around the screen:
+திரையைச் சுற்றிப் பாருங்கள்:
 
-- **Top-left**: your level and XP progress
-- **Top-right**: the Phone icon (tap to open apps and 999 emergency)
-- **Bottom**: the Settings and Main Menu icons
+- **மேல்-இடது**: உங்கள் நிலை மற்றும் XP முன்னேற்றம்
+- **மேல்-வலது**: Phone ஐகான் (பயன்பாடுகளைத் திறக்க தட்டவும் மற்றும் 999 அவசரநிலை)
+- **கீழே**: Settings மற்றும் Main Menu சின்னங்கள்
 
-Open the **main menu** early. It is the hub for almost everything:
+**முதன்மை மெனுவை** சீக்கிரம் திறக்கவும். இது கிட்டத்தட்ட எல்லாவற்றிற்கும் மையமாக உள்ளது:
 
-| Tab | Use it for |
+| தாவல் | இதை பயன்படுத்தவும் |
 |---|---|
-| **Home** | Profile, announcements, quick play/spawn actions |
-| **Teams** | Join a team or inspect unlock requirements |
-| **Shop** | Gamepasses, products, tokens, and promo codes |
-| **Activity** | Missions, challenges, and season pass progress |
-| **More** | Career ranks, job tiers, token inventory, credits, races, help |
+| **Home** | Profile, அறிவிப்புகள், விரைவு விளையாட்டு/ஸ்பான் செயல்கள் |
+| **அணிகள்** | ஒரு குழுவில் சேரவும் அல்லது திறத்தல் தேவைகளை ஆய்வு செய்யவும் |
+| **கடை** | கேம்பாஸ்கள், தயாரிப்புகள், டோக்கன்கள் மற்றும் விளம்பர குறியீடுகள் |
+| **செயல்பாடு** | பணிகள், சவால்கள் மற்றும் சீசன் பாஸ் முன்னேற்றம் |
+| **மேலும்** | தொழில் தரவரிசைகள், வேலை அடுக்குகள், டோக்கன் சரக்குகள், வரவுகள், இனங்கள், உதவி |
 
-## Spawning your first vehicle
+## உங்கள் முதல் வாகனத்தை உருவாக்குதல்
 
-Vehicles spawn from physical vehicle spawner pads around the map. The **MyPod** topbar icon is a music player, not a vehicle spawner.
+வரைபடத்தைச் சுற்றி வாகனங்கள் ஸ்பானர் பேட்களிலிருந்து வாகனங்கள் உருவாகின்றன. **MyPod** டாப்பார் ஐகான் ஒரு மியூசிக் பிளேயர், வாகனம் ஸ்பானர் அல்ல.
 
-1. Walk to a green vehicle spawner marker or team spawner pad.
-2. Browse the vehicle list. Free starter vehicles are available to everyone.
-3. Select a vehicle. The info panel shows its image, description, lock status, and **Spawn** button.
-4. Click **Spawn**, then choose an available pad if the spawner asks.
-5. Your vehicle appears on the selected pad and is registered to you.
+1. பச்சை நிற வாகன ஸ்பானர் மார்க்கர் அல்லது டீம் ஸ்பானர் பேட் நோக்கி நடக்கவும்.
+2. வாகனப் பட்டியலை உலாவவும். இலவச ஸ்டார்டர் வாகனங்கள் அனைவருக்கும் கிடைக்கும்.
+3. ஒரு வாகனத்தைத் தேர்ந்தெடுக்கவும். தகவல் குழு அதன் படம், விளக்கம், பூட்டு நிலை மற்றும் **ஸ்பான்** பட்டனைக் காட்டுகிறது.
+4. **ஸ்பான்** என்பதைக் கிளிக் செய்து, ஸ்போனர் கேட்டால், கிடைக்கக்கூடிய பேடைத் தேர்ந்தெடுக்கவும்.
+5. உங்கள் வாகனம் தேர்ந்தெடுக்கப்பட்ட திண்டில் தோன்றும் மற்றும் உங்களிடம் பதிவு செய்யப்பட்டுள்ளது.
 
-Walk up to the driver door and press **F** (keyboard), **X** (gamepad), or tap the **Drive** button (mobile) to sit.
+டிரைவர் கதவு வரை சென்று **F** (விசைப்பலகை), **X** (கேம்பேட்) அழுத்தவும் அல்லது உட்கார **டிரைவ்** பொத்தானை (மொபைல்) தட்டவும்.
 
-Starter-friendly choices include compact cars like the **Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, and **Perosatu Bezza**. Locked cards show the required level or career tier.
+**Protan Waja**, **Perosatu Axai**, **Perosatu Myvi**, மற்றும் **Perosatu Bezza** போன்ற சிறிய கார்கள் ஸ்டார்டர்-நட்பு தேர்வுகளில் அடங்கும். பூட்டப்பட்ட கார்டுகள் தேவையான நிலை அல்லது தொழில் வரிசையைக் காட்டுகின்றன.
 
-## Driving and earning your first XP
+## வாகனம் ஓட்டி உங்களின் முதல் XP சம்பாதித்தல்
 
-You earn XP just by driving. Every **1500 studs** you travel in a driver seat awards you **50 XP**. Keep the vehicle moving and the XP ticks in.
+நீங்கள் வாகனம் ஓட்டுவதன் மூலம் XP சம்பாதிக்கிறீர்கள். ஒவ்வொரு **1500 studs** நீங்கள் ஒரு ஓட்டுநர் இருக்கையில் பயணிக்கும் போது உங்களுக்கு **50 XP** விருது வழங்கப்படும். வாகனத்தை நகர்த்திக் கொண்டே இருக்கவும், XP டிக் அடிக்கும்.
 
-Want to go faster?
+வேகமாக செல்ல வேண்டுமா?
 
-- **Do jobs** - each completed action awards bonus XP
-- **Drive with friends** in a convoy - up to +50% XP bonus
-- **Activate an XP Boost token** from your inventory for 2× XP
-- **Weekend events** occasionally double everyone's XP
+- **வேலைகளைச் செய்யுங்கள்** - ஒவ்வொரு முடிக்கப்பட்ட செயல் விருதுகள் போனஸ் XP
+- **நண்பர்களுடன் வாகனத்தில் செல்லுங்கள்** - +50% வரை XP போனஸ்
+- **2× XPக்கான உங்கள் இருப்புப் பட்டியலில் இருந்து XP Boost டோக்கனை** செயல்படுத்தவும்
+- **வார இறுதி நிகழ்வுகள்** எப்போதாவது அனைவரின் XP இரட்டிப்பாகும்
 
-## Picking your first job
+## உங்கள் முதல் வேலையைத் தேர்ந்தெடுப்பது
 
-You can join **Visitors** and **Bus Driver** immediately. Most other jobs unlock by level, gamepass, or group membership. Your first level milestone is **Level 10**, which unlocks the **Food Delivery** team.
+நீங்கள் உடனடியாக **Visitors** மற்றும் **Bus Driver** இல் சேரலாம். மற்ற பெரும்பாலான வேலைகள் நிலை, gamepass அல்லது குழு உறுப்பினர் மூலம் திறக்கப்படும். உங்கள் முதல் நிலை மைல்கல் **நிலை 10** ஆகும், இது **Food Delivery** அணியைத் திறக்கும்.
 
-Here's the free-and-early progression:
+இலவச மற்றும் ஆரம்ப முன்னேற்றம் இங்கே:
 
-| Unlock | Team / Feature |
+| திறத்தல் | குழு / அம்சம் |
 |---|---|
-| Start | Bus Driver, Visitors |
-| Group member (1143446) | Malaysians team (Fishing, Checkout) |
-| Level 10 | Food Delivery |
-| Level 25 | Waste Disposal |
-| Level 50 | Post Office |
-| Level 75 | Logistics (Trucking) |
+| தொடக்கம் | Bus Driver, Visitors |
+| குழு உறுப்பினர் (1143446) | Malaysians குழு (Fishing, Checkout) |
+| நிலை 10 | Food Delivery |
+| நிலை 25 | Waste Disposal |
+| நிலை 50 | Post Office |
+| நிலை 75 | தளவாடங்கள் (டிரக்கிங்) |
 
-See [Teams and careers](/lebuhraya/teams) for the full list and [Jobs](/lebuhraya/jobs) for what each one actually does.
+முழுப் பட்டியலுக்கு [அணிகள் மற்றும் தொழில்](/ta/lebuhraya/teams) மற்றும் ஒவ்வொருவரும் உண்மையில் என்ன செய்கிறார்கள் என்பதற்கு [வேலைகள்](/ta/lebuhraya/jobs) என்பதைப் பார்க்கவும்.
 
-### A good first 30-minute plan
+### ஒரு நல்ல முதல் 30 நிமிட திட்டம்
 
-1. Spawn a starter car and drive a clean loop between Bandar Seri Putra and the highway.
-2. Open the Phone GPS and set a waypoint to a petrol station, repair zone, or race track so you learn the road network.
-3. Join a convoy if friends are online; the bonus helps even before you unlock jobs.
-4. When you reach Level 10, switch to **Food Delivery** and start doing short delivery loops.
-5. If you are in the MYSverse group, try **Malaysians** for Fishing or Checkout while you level.
+1. ஒரு ஸ்டார்டர் காரை உருவாக்கி, Bandar Seri Putra மற்றும் நெடுஞ்சாலைக்கு இடையே ஒரு சுத்தமான வளையத்தை இயக்கவும்.
+2. Phone GPSஐத் திறந்து, பெட்ரோல் நிலையம், பழுதுபார்க்கும் பகுதி அல்லது பந்தயப் பாதைக்கு வழிப் புள்ளியை அமைக்கவும், இதன் மூலம் நீங்கள் சாலை நெட்வொர்க்கைக் கற்றுக்கொள்ளலாம்.
+3. நண்பர்கள் ஆன்லைனில் இருந்தால், கான்வாயில் சேரவும்; நீங்கள் வேலைகளைத் திறப்பதற்கு முன்பே போனஸ் உதவுகிறது.
+4. நீங்கள் நிலை 10 ஐ அடைந்ததும், **Food Delivery** க்கு மாறி, குறுகிய டெலிவரி லூப்களைச் செய்யத் தொடங்குங்கள்.
+5. நீங்கள் MYSverse குழுவில் இருந்தால், **Malaysians** க்கு Fishing அல்லது Checkout ஐ லெவல் செய்யும் போது முயற்சிக்கவும்.
 
-## What happens when I crash?
+## நான் விபத்துக்குள்ளானால் என்ன நடக்கும்?
 
-Vehicles take damage when you hit things. Badly-damaged vehicles can be towed by a **KEMRonda** player, repaired in one of the map's repair zones, or patched with a Toolkit. **Gravstone Workshop** is for paint/body customisation, not repairs. If you can reach a vehicle spawner, spawning a replacement vehicle clears your previous owned vehicle.
+நீங்கள் பொருட்களை மோதும்போது வாகனங்கள் சேதமடைகின்றன. மோசமாக சேதமடைந்த வாகனங்களை **KEMRonda** பிளேயர் மூலம் இழுத்துச் செல்லலாம், வரைபடத்தின் பழுதுபார்க்கும் மண்டலங்களில் ஒன்றில் பழுதுபார்க்கலாம் அல்லது டூல்கிட் மூலம் ஒட்டலாம். **Gravstone Workshop** பெயிண்ட்/உடல் தனிப்பயனாக்கலுக்கானது, பழுதுபார்ப்பதற்காக அல்ல. நீங்கள் ஒரு வாகன உற்பத்தியாளரை அடைய முடிந்தால், மாற்று வாகனத்தை உருவாக்குவது உங்கள் முந்தைய வாகனத்தை அழிக்கும்.
 
-## A note about test servers
+## சோதனை சேவையகங்கள் பற்றிய குறிப்பு
 
-If you join a **test server** or a private server, you may see a warning that XP will be reset to 0. This is normal for testing and private sessions. On the live public game, your XP and BR are saved automatically when you leave.
+நீங்கள் **சோதனை server** அல்லது தனிப்பட்ட server இல் சேர்ந்தால், XP 0 க்கு மீட்டமைக்கப்படும் என்ற எச்சரிக்கையை நீங்கள் காணலாம். சோதனை மற்றும் தனிப்பட்ட அமர்வுகளுக்கு இது இயல்பானது. நேரலை பொது கேமில், நீங்கள் வெளியேறும் போது உங்கள் XP மற்றும் BR ஆகியவை தானாகவே சேமிக்கப்படும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- Read [Controls](/lebuhraya/controls) for the full input reference
-- Check [Economy and XP](/lebuhraya/economy) to understand the multiplier stack
-- Browse [Jobs](/lebuhraya/jobs) to plan which team to aim for
-- Use [FAQ and tips](/lebuhraya/faq) if a menu, spawner, or team requirement is confusing
+- முழு உள்ளீட்டு குறிப்புக்கு [கட்டுப்பாடுகள்](/ta/lebuhraya/controls) படிக்கவும்
+- பெருக்கி அடுக்கைப் புரிந்துகொள்ள [பொருளாதாரம் மற்றும் XP](/ta/lebuhraya/economy) சரிபார்க்கவும்
+- எந்த அணியை இலக்காகக் கொள்ள வேண்டும் என்பதைத் திட்டமிட [வேலைகள்](/ta/lebuhraya/jobs) ஐ உலாவவும்
+- மெனு, ஸ்பானர் அல்லது குழு தேவை குழப்பமாக இருந்தால் [FAQ மற்றும் குறிப்புகள்](/ta/lebuhraya/faq) ஐப் பயன்படுத்தவும்

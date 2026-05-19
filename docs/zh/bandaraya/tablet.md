@@ -10,7 +10,7 @@ needs_review: true
 
 游戏内的**平板电脑**是一台多应用设备,为你的队伍提供额外功能。应用会根据你的队伍颜色来解锁 -  - POLIS 警员看到 MDT,拖车员看到 MyTow,如此类推。
 
-> **平板 ≠ 手机。**[手机](/bandaraya/phone)是通用的 topbar 应用界面(MyPay、e-hailing、CAG、999、MyCar 等)。平板则是你从 backpack 中装备的队伍专属**工具**。
+> **平板 ≠ 手机。**[手机](/zh/bandaraya/phone)是通用的 topbar 应用界面(MyPay、e-hailing、CAG、999、MyCar 等)。平板则是你从 backpack 中装备的队伍专属**工具**。
 
 ## TL;DR
 
@@ -130,7 +130,7 @@ Topbar 会有一个与平板相关的图标 -  - 点击它就能切换开关而�
 
 ## 另请参阅
 
-- [紧急服务](/bandaraya/emergency-services) -  - 使用平板的 POLIS / BOMBA / KKM 角色
-- [逮捕与法律](/bandaraya/arrest-and-law) -  - BOLO / BG check 如何融入逮捕程序
-- [工作](/bandaraya/jobs) -  - 给拖车员的 MyTow
-- [车辆](/bandaraya/vehicles) -  - 注册与车牌查询
+- [紧急服务](/zh/bandaraya/emergency-services) -  - 使用平板的 POLIS / BOMBA / KKM 角色
+- [逮捕与法律](/zh/bandaraya/arrest-and-law) -  - BOLO / BG check 如何融入逮捕程序
+- [工作](/zh/bandaraya/jobs) -  - 给拖车员的 MyTow
+- [车辆](/zh/bandaraya/vehicles) -  - 注册与车牌查询

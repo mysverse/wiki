@@ -52,7 +52,7 @@ needs_review: true
 - 你正在持有犯罪工具(先丢掉它)。
 - 你目前被通缉(等待 5 分钟的衰减)。
 - 你是 POLIS 警官(警察永远不会被动 -  - 这是团队属性)。
-- 你处于最近车祸/超速/犯罪后的**被动锁定**中(持续时间随星级而定 -  - 参见[犯罪与法律](/sumaya/crime-and-law))。
+- 你处于最近车祸/超速/犯罪后的**被动锁定**中(持续时间随星级而定 -  - 参见[犯罪与法律](/zh/sumaya/crime-and-law))。
 
 ### 碰撞切换以穿过停放的车辆
 
@@ -206,6 +206,6 @@ needs_review: true
 
 ## 接下来呢?
 
-- [电话与界面](/sumaya/phone) 了解每个手机应用的更多详情。
-- [犯罪与法律](/sumaya/crime-and-law) 了解自首、衰减和被动锁定的详情。
-- [进阶](/sumaya/progression) 了解 Kesihatan 加成背后的 XP 数学。
+- [电话与界面](/zh/sumaya/phone) 了解每个手机应用的更多详情。
+- [犯罪与法律](/zh/sumaya/crime-and-law) 了解自首、衰减和被动锁定的详情。
+- [进阶](/zh/sumaya/progression) 了解 Kesihatan 加成背后的 XP 数学。

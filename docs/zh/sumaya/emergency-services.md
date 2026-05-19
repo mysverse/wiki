@@ -12,9 +12,9 @@ needs_review: true
 
 Sumaya 有三支紧急服务队伍:
 
-- [Bomba](/sumaya/bomba) - 消防队
-- [Kesihatan](/sumaya/kesihatan) - 医疗 / 护理
-- [Polis](/sumaya/polis) - 警察
+- [Bomba](/zh/sumaya/bomba) - 消防队
+- [Kesihatan](/zh/sumaya/kesihatan) - 医疗 / 护理
+- [Polis](/zh/sumaya/polis) - 警察
 
 选择其中一支队伍会让你在 spawn 后立即处于**当班**状态。与平民职业(需要通过手机打卡上班)不同,紧急服务就是你的身份,而不是你正在做的事情。
 
@@ -35,9 +35,9 @@ Sumaya 有三支紧急服务队伍:
 
 快速指南:
 
-- **你喜欢动作和追捕:** [Polis](/sumaya/polis)。追逐嫌犯、设置测速陷阱、登记逮捕。在 server 有犯罪分子时最为动态。
-- **你喜欢团队合作和重大时刻:** [Bomba](/sumaya/bomba)。火灾是团体事件。多名消防员处理同一事件是升级最快的方式。
-- **你喜欢帮助个人:** [Kesihatan](/sumaya/kesihatan)。每位病人都是一对一:诊断、治疗、继续。在你的伤势系统启用时,还会为整个 server 提供 **+15% 玩家 XP** 加成。
+- **你喜欢动作和追捕:** [Polis](/zh/sumaya/polis)。追逐嫌犯、设置测速陷阱、登记逮捕。在 server 有犯罪分子时最为动态。
+- **你喜欢团队合作和重大时刻:** [Bomba](/zh/sumaya/bomba)。火灾是团体事件。多名消防员处理同一事件是升级最快的方式。
+- **你喜欢帮助个人:** [Kesihatan](/zh/sumaya/kesihatan)。每位病人都是一对一:诊断、治疗、继续。在你的伤势系统启用时,还会为整个 server 提供 **+15% 玩家 XP** 加成。
 
 ## 共同点
 
@@ -73,7 +73,7 @@ Sumaya 有三支紧急服务队伍:
 
 ## 紧急载具
 
-每种服务都有自己的载具,随着你的领域等级提升而解锁。完整目录请参阅 [Vehicles](/sumaya/vehicles),或查看各服务页面以了解队伍专属列表。
+每种服务都有自己的载具,随着你的领域等级提升而解锁。完整目录请参阅 [Vehicles](/zh/sumaya/vehicles),或查看各服务页面以了解队伍专属列表。
 
 紧急载具配备**警笛和灯光** (ELS)。在驾驶紧急载具时打开警笛会让你暂时免除交通违规 - 在警笛激活期间,你不会因超速或撞车被开罚单。
 
@@ -86,14 +86,14 @@ Sumaya 有三支紧急服务队伍:
 - 设置导航点前往那里。
 - 将呼叫标记为已响应 / 已关闭。
 
-这是平民召唤你的主要方式。MDT 在手机的应用列表中 - 仅对紧急服务队伍的玩家显示。请参阅 [Phone and UI](/sumaya/phone)。
+这是平民召唤你的主要方式。MDT 在手机的应用列表中 - 仅对紧急服务队伍的玩家显示。请参阅 [Phone and UI](/zh/sumaya/phone)。
 
 ## 接下来呢?
 
 选择一种服务阅读:
 
-- [Bomba (消防队)](/sumaya/bomba)
-- [Kesihatan (医疗)](/sumaya/kesihatan)
-- [Polis (警察)](/sumaya/polis)
+- [Bomba (消防队)](/zh/sumaya/bomba)
+- [Kesihatan (医疗)](/zh/sumaya/kesihatan)
+- [Polis (警察)](/zh/sumaya/polis)
 
-或者跳转到 [Crime and Law](/sumaya/crime-and-law) 了解 Polis 所面对的对手。
+或者跳转到 [Crime and Law](/zh/sumaya/crime-and-law) 了解 Polis 所面对的对手。

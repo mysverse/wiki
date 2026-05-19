@@ -32,11 +32,11 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ### 2. LTAA - Leave To Avoid Arrest
 
-在被拘留或逮捕过程中断开连接。你重新加入时游戏会自动施加 3 分钟逮捕，而 LTAA 本身仍会被视为额外的违规行为。参见 [逮捕与法律](/bandaraya/arrest-and-law#ltaa)。
+在被拘留或逮捕过程中断开连接。你重新加入时游戏会自动施加 3 分钟逮捕，而 LTAA 本身仍会被视为额外的违规行为。参见 [逮捕与法律](/zh/bandaraya/arrest-and-law#ltaa)。
 
 ### 3. RTAA - Reset To Avoid Arrest
 
-使用重置按钮逃脱。游戏现在会在 75 HP 或以下时禁用重置，以阻止此类行为。任何尝试仍会被计算。参见 [逮捕与法律](/bandaraya/arrest-and-law#rtaa)。
+使用重置按钮逃脱。游戏现在会在 75 HP 或以下时禁用重置，以阻止此类行为。任何尝试仍会被计算。参见 [逮捕与法律](/zh/bandaraya/arrest-and-law#rtaa)。
 
 ### 4. 滥用 glitch
 
@@ -148,7 +148,7 @@ Bandaraya 是一款角色扮演游戏。这里有规则。请阅读。请遵守�
 
 ## 另见
 
-- [逮捕与法律](/bandaraya/arrest-and-law) - LTAA / RTAA 机制
-- [紧急服务](/bandaraya/emergency-services) - rogue 叛变的后果
-- [常见问题](/bandaraya/faq) - 关于规则的常见问题
+- [逮捕与法律](/zh/bandaraya/arrest-and-law) - LTAA / RTAA 机制
+- [紧急服务](/zh/bandaraya/emergency-services) - rogue 叛变的后果
+- [常见问题](/zh/bandaraya/faq) - 关于规则的常见问题
 - 官方规则文本：`docs/game-rules.md`

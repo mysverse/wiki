@@ -89,7 +89,7 @@ Fire block அணைக்கப்படும்போது நீங்க�
 
 ஒவ்வொரு trakkkum வேறுபட்ட திறன் மற்றும் கையாளுதலைக் கொண்டுள்ளது. Atego என்பது சுறுசுறுப்பான தொடக்க trak; Tanker என்பது கனரக utility. LFRT என்றால் "Light Fire Rescue Tender", FRT என்றால் "Fire Rescue Tender".
 
-அவற்றை எப்படி spawn செய்வது என்பதற்கு [Vehicles](/sumaya/vehicles)-ஐப் பார்க்கவும்.
+அவற்றை எப்படி spawn செய்வது என்பதற்கு [Vehicles](/ta/sumaya/vehicles)-ஐப் பார்க்கவும்.
 
 ## தரம்
 
@@ -124,7 +124,7 @@ Bomba-வில் 13 தரங்கள் உள்ளன, இது MYSverse-
 
 ## அடுத்து என்ன?
 
-- மருத்துவ பக்கத்தைப் பற்றி நீங்கள் ஆர்வமாக இருந்தால் [Kesihatan](/sumaya/kesihatan).
-- சட்ட அமலாக்கத்திற்காக [Polis](/sumaya/polis).
-- முழு Bomba வாகனப் பட்டியலுக்காக [Vehicles](/sumaya/vehicles).
-- சேவைகளில் XP எவ்வாறு செயல்படுகிறது என்பதற்கு [Progression](/sumaya/progression).
+- மருத்துவ பக்கத்தைப் பற்றி நீங்கள் ஆர்வமாக இருந்தால் [Kesihatan](/ta/sumaya/kesihatan).
+- சட்ட அமலாக்கத்திற்காக [Polis](/ta/sumaya/polis).
+- முழு Bomba வாகனப் பட்டியலுக்காக [Vehicles](/ta/sumaya/vehicles).
+- சேவைகளில் XP எவ்வாறு செயல்படுகிறது என்பதற்கு [முன்னேற்றம்](/ta/sumaya/progression).

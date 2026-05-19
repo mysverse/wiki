@@ -71,6 +71,6 @@ XP setiap penuaian adalah **tetap pada 6 XP setiap Buah** tanpa mengira tahap se
 
 ## Apa seterusnya?
 
-- [Memancing](/sumaya/jobs-fishing) untuk alternatif tanpa tekanan.
-- [Sektor perkhidmatan](/sumaya/jobs-service) sebaik sahaja anda mencapai tahap 50 di sini atau dalam memancing.
-- [Perkembangan](/sumaya/progression) untuk memahami bagaimana XP berkompaun merentasi sektor.
+- [Memancing](/ms/sumaya/jobs-fishing) untuk alternatif tanpa tekanan.
+- [Sektor perkhidmatan](/ms/sumaya/jobs-service) sebaik sahaja anda mencapai tahap 50 di sini atau dalam memancing.
+- [Perkembangan](/ms/sumaya/progression) untuk memahami bagaimana XP berkompaun merentasi sektor.

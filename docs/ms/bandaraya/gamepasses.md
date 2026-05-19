@@ -52,7 +52,7 @@ HCC dahulu, kemudian Taxi Driver untuk pendapatan sampingan tambahan, kemudian C
 ## Gamepass vs. developer products
 
 - **Gamepass** ialah buka kunci kekal sekali sahaja.
-- **Developer products** (lihat [Ekonomi](/bandaraya/economy#developer-products-buy-br-with-robux)) ialah tambah nilai BR yang boleh digunakan sekali.
+- **Developer products** (lihat [Ekonomi](/ms/bandaraya/economy#developer-products-buy-br-with-robux)) ialah tambah nilai BR yang boleh digunakan sekali.
 
 Jika anda mahu kereta mahal tertentu sekali sahaja, developer product BR lebih murah. Jika anda mahu faedah yang berbaloi sepanjang setiap sesi, beli gamepass.
 
@@ -65,7 +65,7 @@ Jika anda mahu kereta mahal tertentu sekali sahaja, developer product BR lebih m
 
 ## Lihat juga
 
-- [Ekonomi](/bandaraya/economy) - ekonomi BR penuh
-- [Pasukan](/bandaraya/teams#special-teams) - butiran pasukan HCC dan Taxi Services
-- [Pekerjaan](/bandaraya/jobs) - POS, Taxi, Tow
-- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) - senjata
+- [Ekonomi](/ms/bandaraya/economy) - ekonomi BR penuh
+- [Pasukan](/ms/bandaraya/teams#special-teams) - butiran pasukan HCC dan Taxi Services
+- [Pekerjaan](/ms/bandaraya/jobs) - POS, Taxi, Tow
+- [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health) - senjata

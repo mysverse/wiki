@@ -17,7 +17,7 @@ Sumaya 的货币是 **Ringgit**，在 UI 中缩写为 **SR**（Sumaya Ringgit）
 - **钱包**里有 **100 Ringgit**。
 - **银行**里有 **1,000 Ringgit**。
 
-这些钱足够买几样商店物品，并开始驾驶免费的入门车（**Perosatu Axia** 或 **Protan Wira**）。付费平民车租金从 **1,250 SR** 起，所以仅靠起始钱包余额还不够租车；一开始也买不起房子（Tier 1 为 **25,000 SR** - 见[房屋](/sumaya/housing)）。
+这些钱足够买几样商店物品，并开始驾驶免费的入门车（**Perosatu Axia** 或 **Protan Wira**）。付费平民车租金从 **1,250 SR** 起，所以仅靠起始钱包余额还不够租车；一开始也买不起房子（Tier 1 为 **25,000 SR** - 见[房屋](/zh/sumaya/housing)）。
 
 ## 钱包 vs 银行
 
@@ -106,7 +106,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 
 ### 来自任务
 
-12 个任务链从单个任务奖励中支付总共 **2,900 Ringgit**，加上 **1,500 Ringgit 结局奖金**，如果你完成整个任务链，总共 **4,400 Ringgit** 到你的银行。见[任务](/sumaya/quests)。
+12 个任务链从单个任务奖励中支付总共 **2,900 Ringgit**，加上 **1,500 Ringgit 结局奖金**，如果你完成整个任务链，总共 **4,400 Ringgit** 到你的银行。见[任务](/zh/sumaya/quests)。
 
 ## 最大收入者（排名）
 
@@ -136,7 +136,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 - **拖网渔船** - Tier 1 免费，Tier 2 25,000，Tier 3 37,000。
 - **团队车辆** - 6,500-20,000 Ringgit，受 sector level 限制。
 
-见[车辆](/sumaya/vehicles)。
+见[车辆](/zh/sumaya/vehicles)。
 
 ### 房屋
 
@@ -146,7 +146,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 - **Tier 3 房屋**（Modern Terrace，两种外观变体）：35,000 Ringgit。
 - **家具**：价格因物品而异，差异很大。
 
-见[房屋](/sumaya/housing)。
+见[房屋](/zh/sumaya/housing)。
 
 ### 商店
 
@@ -181,8 +181,8 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 
 ## 下一步？
 
-- [进度](/sumaya/progression) 了解 XP 和 Ringgit 如何互动。
+- [进度](/zh/sumaya/progression) 了解 XP 和 Ringgit 如何互动。
 - [零工](/zh/sumaya/jobs-gig) 的短程收入详情。
-- [车辆](/sumaya/vehicles) 价格目录。
-- [房屋](/sumaya/housing) 房屋价格。
-- [犯罪与法律](/sumaya/crime-and-law) 经济的犯罪面。
+- [车辆](/zh/sumaya/vehicles) 价格目录。
+- [房屋](/zh/sumaya/housing) 房屋价格。
+- [犯罪与法律](/zh/sumaya/crime-and-law) 经济的犯罪面。

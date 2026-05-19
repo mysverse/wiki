@@ -94,7 +94,7 @@ XP 和 Ringgit 奖励会在你于码头**出售**鱼时发放。
 
 ## 解锁服务业
 
-在捕鱼职业(或农业 / 棕油)达到**第 50 级**,你就会解锁在**服务业**(Mamak / Fast Food)工作的能力。请参阅[服务业](/sumaya/jobs-service)。
+在捕鱼职业(或农业 / 棕油)达到**第 50 级**,你就会解锁在**服务业**(Mamak / Fast Food)工作的能力。请参阅[服务业](/zh/sumaya/jobs-service)。
 
 ## 小贴士
 
@@ -108,6 +108,6 @@ XP 和 Ringgit 奖励会在你于码头**出售**鱼时发放。
 
 ## 接下来做什么?
 
-- [服务业](/sumaya/jobs-service),在你达到捕鱼职业第 50 级后。
-- [棕油](/sumaya/jobs-palm-oil),如果你想要更高报酬。
-- [载具](/sumaya/vehicles),关于拖网渔船生成器的详情。
+- [服务业](/zh/sumaya/jobs-service),在你达到捕鱼职业第 50 级后。
+- [棕油](/zh/sumaya/jobs-palm-oil),如果你想要更高报酬。
+- [载具](/zh/sumaya/vehicles),关于拖网渔船生成器的详情。

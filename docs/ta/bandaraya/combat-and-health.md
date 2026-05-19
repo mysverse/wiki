@@ -204,7 +204,7 @@ Bandaraya சுகாதாரத்தை வெறும் HP அல்ல, 
 
 Reset பட்டன் **75 HP அல்லது அதற்கு கீழ் முடக்கப்பட்டுள்ளது** - இது **RTAA**-ஐ (கைதை தவிர்க்க reset செய்வது) தடுக்க. நீங்கள் காயமடைந்திருந்தால், அதன் வழியாக போரிடுங்கள் அல்லது மருத்துவருக்கு காத்திருங்கள்.
 
-[Arrest & Law](/bandaraya/arrest-and-law#rtaa) பார்க்கவும்.
+[Arrest & Law](/ta/bandaraya/arrest-and-law#rtaa) பார்க்கவும்.
 
 ---
 
@@ -237,9 +237,9 @@ Raid எப்படி நடக்கிறது:
 
 ## இதையும் பார்க்கவும்
 
-- [Arrest & Law](/bandaraya/arrest-and-law) - தடுப்புக்காவல், கைது இயக்கவியல், LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) - KKM + SJAM பாத்திரங்கள்
-- [Economy](/bandaraya/economy) - Ammulaysia மற்றும் Illegal Dealer கடைகள்
-- [Gamepasses](/bandaraya/gamepasses) - Firearms Licence
-- [Vehicles](/bandaraya/vehicles) - தோட்டா தடுப்பு வாகன பட்டியல்
-- [Rules](/bandaraya/rules) - போர் நடத்தை மற்றும் கடுமையான மீறல்கள்
+- [Arrest & Law](/ta/bandaraya/arrest-and-law) - தடுப்புக்காவல், கைது இயக்கவியல், LTAA / RTAA
+- [Emergency Services](/ta/bandaraya/emergency-services) - KKM + SJAM பாத்திரங்கள்
+- [Economy](/ta/bandaraya/economy) - Ammulaysia மற்றும் Illegal Dealer கடைகள்
+- [Gamepasses](/ta/bandaraya/gamepasses) - Firearms Licence
+- [Vehicles](/ta/bandaraya/vehicles) - தோட்டா தடுப்பு வாகன பட்டியல்
+- [Rules](/ta/bandaraya/rules) - போர் நடத்தை மற்றும் கடுமையான மீறல்கள்

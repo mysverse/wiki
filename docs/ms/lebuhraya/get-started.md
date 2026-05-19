@@ -82,7 +82,7 @@ Berikut adalah perkembangan awal percuma:
 | Tingkat 50 | Post Office |
 | Tingkat 75 | Logistics (Trucking) |
 
-Lihat [Pasukan dan kerjaya](/lebuhraya/teams) untuk senarai penuh dan [Kerjaya](/lebuhraya/jobs) untuk mengetahui apa yang setiap satu lakukan.
+Lihat [Pasukan dan kerjaya](/ms/lebuhraya/teams) untuk senarai penuh dan [Kerjaya](/ms/lebuhraya/jobs) untuk mengetahui apa yang setiap satu lakukan.
 
 ### Pelan 30 minit pertama yang baik
 
@@ -102,7 +102,7 @@ Jika anda menyertai **pelayan ujian** atau pelayan peribadi, anda mungkin meliha
 
 ## Langkah seterusnya
 
-- Baca [Kawalan](/lebuhraya/controls) untuk rujukan input penuh
-- Semak [Ekonomi dan XP](/lebuhraya/economy) untuk memahami tumpukan pengganda
-- Layari [Kerjaya](/lebuhraya/jobs) untuk merancang pasukan yang hendak disasarkan
-- Gunakan [Soalan lazim dan petua](/lebuhraya/faq) jika menu, spawner, atau syarat pasukan mengelirukan
+- Baca [Kawalan](/ms/lebuhraya/controls) untuk rujukan input penuh
+- Semak [Ekonomi dan XP](/ms/lebuhraya/economy) untuk memahami tumpukan pengganda
+- Layari [Kerjaya](/ms/lebuhraya/jobs) untuk merancang pasukan yang hendak disasarkan
+- Gunakan [Soalan lazim dan petua](/ms/lebuhraya/faq) jika menu, spawner, atau syarat pasukan mengelirukan

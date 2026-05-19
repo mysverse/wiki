@@ -16,13 +16,13 @@ Jawapan pantas untuk soalan Bandaraya yang lazim.
 
 Mulakan dengan **Perkhidmatan Pos (POS)**. Ia boleh dipercayai dan terbuka kepada pasukan awam biasa. Memandu teksi boleh menghasilkan pendapatan yang baik jika tempahan aktif, manakala kerja tunda dan memandu bas memerlukan akses kumpulan.
 
-Lihat [Kerjaya](/bandaraya/jobs).
+Lihat [Kerjaya](/ms/bandaraya/jobs).
 
 ### Bagaimana cara menjadi pegawai polis?
 
 Sertai kumpulan POLIS yang berkaitan melalui saluran komuniti MYSverse, selesaikan sebarang permohonan atau latihan yang diperlukan, kemudian pilih POLIS dari menu pasukan apabila anda layak.
 
-Lihat [Pasukan](/bandaraya/teams#emergency-services).
+Lihat [Pasukan](/ms/bandaraya/teams#emergency-services).
 
 ### Apa itu CAG dan adakah saya memerlukannya?
 
@@ -34,13 +34,13 @@ Lihat [Pasukan](/bandaraya/teams#emergency-services).
 - Diskaun tol: 20%.
 - Pas bulanan: 500 BR untuk 30 hari.
 
-Lihat [Cara Perjalanan](/bandaraya/getting-around).
+Lihat [Cara Perjalanan](/ms/bandaraya/getting-around).
 
 ### Mengapa butang reset tidak berfungsi?
 
 Reset dilumpuhkan pada atau di bawah 75 HP untuk mengelakkan RTAA. Tunggu bantuan perubatan atau teruskan permainan peranan.
 
-Lihat [Tangkapan & Undang-undang](/bandaraya/arrest-and-law).
+Lihat [Tangkapan & Undang-undang](/ms/bandaraya/arrest-and-law).
 
 ## Wang dan kedai
 
@@ -48,7 +48,7 @@ Lihat [Tangkapan & Undang-undang](/bandaraya/arrest-and-law).
 
 Pergi ke **Classic Car Dealer**, pilih kenderaan, pilih beli atau sewa, dan pilih warna jika tersedia. Kenderaan yang dibeli disimpan dalam akaun anda.
 
-Lihat [Kenderaan](/bandaraya/vehicles#dealership-classic-car-dealer).
+Lihat [Kenderaan](/ms/bandaraya/vehicles#dealership-classic-car-dealer).
 
 ### Bagaimana cara mendapatkan senjata api?
 
@@ -60,14 +60,14 @@ Anda memerlukan salah satu daripada:
 
 Pembelian senjata api mempunyai masa tunggu. Jangan mengulang-ulang pembelian di kedai.
 
-Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health#weapons).
+Lihat [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health#weapons).
 
 ### Di mana saya boleh mendapatkan bahan api?
 
 - Petrol/diesel: **Stesen Minyak Radtrol di Jalan Pinang**.
 - Pengecasan elektrik: **Community Retail**.
 
-Lihat [Kenderaan](/bandaraya/vehicles#fuel).
+Lihat [Kenderaan](/ms/bandaraya/vehicles#fuel).
 
 ### Saya membeli kereta tetapi ia hilang. Di manakah ia?
 
@@ -143,7 +143,7 @@ Hujan boleh diaktifkan oleh kakitangan untuk suasana atau acara. Ia bukan kitara
 
 ### Saya tidak fasih berbahasa Melayu. Adakah saya akan keliru?
 
-Tidak. [Glosari](/bandaraya/glossary) menerangkan istilah lazim seperti POLIS, BOMBA, KKM, LTAA, RTAA, CAG, dan Saman.
+Tidak. [Glosari](/ms/bandaraya/glossary) menerangkan istilah lazim seperti POLIS, BOMBA, KKM, LTAA, RTAA, CAG, dan Saman.
 
 ### Berapakah umur minimum akaun Roblox saya?
 
@@ -151,8 +151,8 @@ Sekurang-kurangnya **60 hari**.
 
 ## Lihat juga
 
-- [Selamat datang](/bandaraya/get-started)
-- [Mula dengan Bandaraya](/bandaraya/get-started)
-- [Glosari](/bandaraya/glossary)
-- [Peraturan](/bandaraya/rules)
+- [Selamat datang](/ms/bandaraya/get-started)
+- [Mula dengan Bandaraya](/ms/bandaraya/get-started)
+- [Glosari](/ms/bandaraya/glossary)
+- [Peraturan](/ms/bandaraya/rules)
 - [README](/)

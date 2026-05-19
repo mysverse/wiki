@@ -225,8 +225,8 @@ Kakitangan boleh melumpuhkan sistem CAG buat sementara waktu semasa penyelenggar
 
 ## Lihat juga
 
-- [Peraturan](/bandaraya/rules)
-- [Ekonomi](/bandaraya/economy) - mata wang, kedai, gamepass
-- [Peta](/bandaraya/locations) - di mana stesen dan terminal berada
-- [Pekerjaan](/bandaraya/jobs) - memandu bas, teksi
-- [Glosari](/bandaraya/glossary) - CAG, TapNGo, MRT
+- [Peraturan](/ms/bandaraya/rules)
+- [Ekonomi](/ms/bandaraya/economy) - mata wang, kedai, gamepass
+- [Peta](/ms/bandaraya/locations) - di mana stesen dan terminal berada
+- [Pekerjaan](/ms/bandaraya/jobs) - memandu bas, teksi
+- [Glosari](/ms/bandaraya/glossary) - CAG, TapNGo, MRT

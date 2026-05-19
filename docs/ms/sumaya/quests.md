@@ -146,7 +146,7 @@ Buka aplikasi **Quest** pada telefon anda:
 
 Permainan ini secara automatik menetapkan titik laluan peta mini untuk langkah misi yang memerlukan lokasi tertentu:
 
-- "Spawn a vehicle" - menunjuk ke spawner kenderaan terdekat.
+- "Spawn sebuah kenderaan" - menunjuk ke spawner kenderaan terdekat.
 - "Buy something" - menunjuk ke kedai terdekat.
 - "Clock in" - menunjuk ke stesen kerjaya terdekat.
 - "Start fishing specifically" - menunjuk ke jeti memancing.
@@ -169,6 +169,6 @@ Kad tugasan kembali secara automatik apabila anda membuka misi baharu atau melen
 
 ## Apa seterusnya?
 
-- [Getting Started](/sumaya/get-started) untuk selebihnya proses onboarding.
-- [Phone and UI](/sumaya/phone) untuk antara muka aplikasi Quest.
-- [Progression](/sumaya/progression) untuk cara XP ditukar kepada tahap.
+- [Getting Started](/ms/sumaya/get-started) untuk selebihnya proses onboarding.
+- [Phone and UI](/ms/sumaya/phone) untuk antara muka aplikasi Quest.
+- [Progres](/ms/sumaya/progression) untuk cara XP ditukar kepada tahap.

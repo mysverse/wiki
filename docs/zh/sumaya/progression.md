@@ -69,7 +69,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 
 ### 任务
 
-12-quest 探索链通过每个任务奖励支付 **3,750 XP**，**加上最后一个任务的一次性 2,000 XP 终章奖励**。完全完成 = **5,750 XP**。SR 支付类似：2,900 普通 + 1,500 终章 = 4,400 Ringgit。参见 [Quests](/sumaya/quests)。
+12-quest 探索链通过每个任务奖励支付 **3,750 XP**，**加上最后一个任务的一次性 2,000 XP 终章奖励**。完全完成 = **5,750 XP**。SR 支付类似：2,900 普通 + 1,500 终章 = 4,400 Ringgit。参见 [Quests](/zh/sumaya/quests)。
 
 ## Kesihatan +15% XP 加成
 
@@ -242,6 +242,6 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 
 ## 接下来呢？
 
-- [Economy](/sumaya/economy) 了解 Ringgit 如何并行运作。
-- [Quests](/sumaya/quests) 了解 12-quest 链和里程碑。
-- [Career overview](/sumaya/jobs) 或 [Emergency services overview](/sumaya/emergency-services) 了解领域特定的磨炼提示。
+- [Economy](/zh/sumaya/economy) 了解 Ringgit 如何并行运作。
+- [Quests](/zh/sumaya/quests) 了解 12-quest 链和里程碑。
+- [Career overview](/zh/sumaya/jobs) 或 [Emergency services overview](/zh/sumaya/emergency-services) 了解领域特定的磨炼提示。

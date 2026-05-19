@@ -223,8 +223,8 @@ Staff 可以在维护或活动期间暂时停用整个 CAG 系统。发生时:
 
 ## 另请参阅
 
-- [规则](/bandaraya/rules)
-- [经济](/bandaraya/economy) - 货币、商店、gamepass
-- [地图](/bandaraya/locations) - 车站和终站位置
-- [工作](/bandaraya/jobs) - 驾驶巴士、出租车
-- [术语表](/bandaraya/glossary) - CAG、TapNGo、MRT
+- [规则](/zh/bandaraya/rules)
+- [经济](/zh/bandaraya/economy) - 货币、商店、gamepass
+- [地图](/zh/bandaraya/locations) - 车站和终站位置
+- [工作](/zh/bandaraya/jobs) - 驾驶巴士、出租车
+- [术语表](/zh/bandaraya/glossary) - CAG、TapNGo、MRT

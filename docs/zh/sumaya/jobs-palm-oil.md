@@ -71,6 +71,6 @@ Agro 行业现在上限为 **100 级**，与其他每个民用和紧急服务行
 
 ## 接下来呢？
 
-- [钓鱼](/sumaya/jobs-fishing) 一个无压力的替代选择。
-- [服务行业](/sumaya/jobs-service) 当你在这里或钓鱼达到 50 级时。
-- [进展](/sumaya/progression) 了解 XP 如何在各行业间复合。
+- [钓鱼](/zh/sumaya/jobs-fishing) 一个无压力的替代选择。
+- [服务行业](/zh/sumaya/jobs-service) 当你在这里或钓鱼达到 50 级时。
+- [进展](/zh/sumaya/progression) 了解 XP 如何在各行业间复合。

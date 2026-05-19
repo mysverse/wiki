@@ -94,7 +94,7 @@ Tahap sektor yang lebih tinggi tidak secara langsung meningkatkan ganjaran setia
 
 ## Membuka kunci sektor perkhidmatan
 
-Capai **tahap 50** dalam sektor memancing (atau Pertanian / kelapa sawit) dan anda akan membuka kunci keupayaan untuk bekerja dalam **sektor perkhidmatan** (Mamak / Fast Food). Lihat [Sektor perkhidmatan](/sumaya/jobs-service).
+Capai **tahap 50** dalam sektor memancing (atau Pertanian / kelapa sawit) dan anda akan membuka kunci keupayaan untuk bekerja dalam **sektor perkhidmatan** (Mamak / Fast Food). Lihat [Sektor perkhidmatan](/ms/sumaya/jobs-service).
 
 ## Petua
 
@@ -108,6 +108,6 @@ Capai **tahap 50** dalam sektor memancing (atau Pertanian / kelapa sawit) dan an
 
 ## Apa seterusnya?
 
-- [Sektor perkhidmatan](/sumaya/jobs-service) sebaik sahaja anda mencapai sektor memancing tahap 50.
-- [Kelapa sawit](/sumaya/jobs-palm-oil) jika anda mahu bayaran yang lebih tinggi.
-- [Kenderaan](/sumaya/vehicles) untuk butiran penjana pukat.
+- [Sektor perkhidmatan](/ms/sumaya/jobs-service) sebaik sahaja anda mencapai sektor memancing tahap 50.
+- [Kelapa sawit](/ms/sumaya/jobs-palm-oil) jika anda mahu bayaran yang lebih tinggi.
+- [Kenderaan](/ms/sumaya/vehicles) untuk butiran penjana pukat.

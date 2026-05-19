@@ -34,11 +34,11 @@ Memenuhi chat dengan teks berulang atau tiada makna. Jangan.
 
 ### 2. LTAA - Leave To Avoid Arrest
 
-Putus sambungan semasa ditahan atau sedang ditangkap. Permainan akan memberikan tangkapan 3 minit secara automatik apabila anda menyertai semula, dan LTAA masih dikira sebagai pelanggaran peraturan tambahan. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#ltaa).
+Putus sambungan semasa ditahan atau sedang ditangkap. Permainan akan memberikan tangkapan 3 minit secara automatik apabila anda menyertai semula, dan LTAA masih dikira sebagai pelanggaran peraturan tambahan. Lihat [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law#ltaa).
 
 ### 3. RTAA - Reset To Avoid Arrest
 
-Menggunakan butang reset untuk melarikan diri. Permainan kini menyahdayakan reset pada 75 HP atau ke bawah untuk menghalang perkara ini. Percubaan masih dikira. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
+Menggunakan butang reset untuk melarikan diri. Permainan kini menyahdayakan reset pada 75 HP atau ke bawah untuk menghalang perkara ini. Percubaan masih dikira. Lihat [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law#rtaa).
 
 ### 4. Penyalahgunaan glitch
 
@@ -150,7 +150,7 @@ Mana-mana ban, kekal atau sementara, boleh dirayu.
 
 ## Lihat juga
 
-- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) - mekanik LTAA / RTAA
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - akibat pergi rogue
-- [Soalan Lazim](/bandaraya/faq) - soalan lazim tentang peraturan
+- [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law) - mekanik LTAA / RTAA
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - akibat pergi rogue
+- [Soalan Lazim](/ms/bandaraya/faq) - soalan lazim tentang peraturan
 - Teks peraturan rasmi: `docs/game-rules.md`

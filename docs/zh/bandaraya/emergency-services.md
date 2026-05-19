@@ -31,7 +31,7 @@ needs_review: true
 
 - 在 KL 以有标识的单位巡逻(Civic MPV、Inspira、X70、Hilux)。
 - 响应 999 电话(火灾、犯罪、意外)。
-- 拘留和逮捕嫌疑人。参见[逮捕与法律](/bandaraya/arrest-and-law)。
+- 拘留和逮捕嫌疑人。参见[逮捕与法律](/zh/bandaraya/arrest-and-law)。
 - 对交通违规开出 saman(罚单)。
 - 使用 **MDT 平板应用**来检查 BG、运行 BOLO、提醒其他警员。
 - 在 **IPD Dang Wangi** 值班 - 主要警察局(CID、JSPT、Ops Room、Armoury)。
@@ -81,7 +81,7 @@ POLIS 可以使用警局直升机进行空中巡逻。在可用时，打开警�
 - 遵循角色扮演协议 - 表明身份、说明罪名、给嫌疑人服从的机会。
 - 使用平板 MDT 对嫌疑人发出 BOLO;其他警员将收到 badge + 声音 + toast 警报。
 
-参见[逮捕与法律](/bandaraya/arrest-and-law)了解完整的逮捕流程。
+参见[逮捕与法律](/zh/bandaraya/arrest-and-law)了解完整的逮捕流程。
 
 ---
 
@@ -152,7 +152,7 @@ POLIS 可以使用警局直升机进行空中巡逻。在可用时，打开警�
 | **KKM Placeables** | 医疗现场 placeables |
 | **Traffic Wand** | 在现场 |
 | **Carry** | 移动受伤玩家 |
-| **完整医疗套件**(来自 armoury) | 参见[战斗与健康](/bandaraya/combat-and-health#medical-kit-items) |
+| **完整医疗套件**(来自 armoury) | 参见[战斗与健康](/zh/bandaraya/combat-and-health#medical-kit-items) |
 
 ### 车辆
 
@@ -165,7 +165,7 @@ KKM 拥有救护车、RRV(快速响应车辆)和多用途车辆。包括 KKM Mer
 3. 如果他们已 flatline,使用 **defib**。
 4. 他们的状态会随着时间恢复。
 
-参见[战斗与健康](/bandaraya/combat-and-health)了解完整的套件分解。
+参见[战斗与健康](/zh/bandaraya/combat-and-health)了解完整的套件分解。
 
 ---
 
@@ -258,16 +258,16 @@ MAF 此前有警棍和手铐;目前的配置在设计上更为有限。
 ## 提示与陷阱
 
 - **按照您的团队扮演。** POLIS 不开第一枪;BOMBA 不逮捕;KKM 不与嫌疑人交战。
-- **变节 = 严重 ban。** 在任何公共服务团队上,犯罪 = 立即管理处分。参见[规则](/bandaraya/rules#severe-violations)。
-- **使用您的平板。** MDT、MyEmergency、车辆管理、MyTow、KKM Logger - 全部为免费工具。参见[平板](/bandaraya/tablet)。
-- **Armour = Armor 部件。** 内部有 `Armor` 部件的车辆是防弹的(例如 AV4)。参见[车辆](/bandaraya/vehicles#bulletproofing)。
+- **变节 = 严重 ban。** 在任何公共服务团队上,犯罪 = 立即管理处分。参见[规则](/zh/bandaraya/rules#severe-violations)。
+- **使用您的平板。** MDT、MyEmergency、车辆管理、MyTow、KKM Logger - 全部为免费工具。参见[平板](/zh/bandaraya/tablet)。
+- **Armour = Armor 部件。** 内部有 `Armor` 部件的车辆是防弹的(例如 AV4)。参见[车辆](/zh/bandaraya/vehicles#bulletproofing)。
 - **Spawner 受团队限制。** 如果您的团队无法访问某个 spawner,UI 就不会显示。
 
 ## 另见
 
-- [逮捕与法律](/bandaraya/arrest-and-law) - POLIS 逮捕流程
-- [战斗与健康](/bandaraya/combat-and-health) - 武器、装甲、伤势、医疗套件
-- [平板](/bandaraya/tablet) - MDT、MyEmergency、KKM Logger
-- [车辆](/bandaraya/vehicles) - 紧急车队
-- [地图](/bandaraya/locations) - IPD Dang Wangi、BOMBA 站、KKM 诊所、Kem Wardieburn
-- [团队](/bandaraya/teams) - 访问要求
+- [逮捕与法律](/zh/bandaraya/arrest-and-law) - POLIS 逮捕流程
+- [战斗与健康](/zh/bandaraya/combat-and-health) - 武器、装甲、伤势、医疗套件
+- [平板](/zh/bandaraya/tablet) - MDT、MyEmergency、KKM Logger
+- [车辆](/zh/bandaraya/vehicles) - 紧急车队
+- [地图](/zh/bandaraya/locations) - IPD Dang Wangi、BOMBA 站、KKM 诊所、Kem Wardieburn
+- [团队](/zh/bandaraya/teams) - 访问要求

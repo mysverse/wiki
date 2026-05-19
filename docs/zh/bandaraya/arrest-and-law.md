@@ -158,7 +158,7 @@ Staff log 会发送给管理团队审查。
 
 ## 不应该做的事
 
-根据 [规则](/bandaraya/rules),以下行为除了逮捕外还会让你被封禁:
+根据 [规则](/zh/bandaraya/rules),以下行为除了逮捕外还会让你被封禁:
 
 - **LTAA**(leave to avoid arrest) - 一般违规
 - **RTAA**(reset to avoid arrest) - 一般违规,尽管重置按钮现已反 RTAA
@@ -174,14 +174,14 @@ Staff log 会发送给管理团队审查。
 - **不要 LTAA。** 计时器会跨会话持续。你什么也逃不了。
 - **执法人员,记录你的动作。** 逮捕记录会被追踪;保持描述简短且事实准确(它们会永久进入记录)。
 - **OCG 成员会被标记** - 逮捕记录带有 `IsOCG` 标志。执法人员可以在 MDT 中看到这点。
-- **使用 MDT** - 警察平板电脑应用允许你对嫌疑人进行 BG-check、查询 BOLO 以及发布自己的 BOLO。参阅 [平板电脑](/bandaraya/tablet)。
+- **使用 MDT** - 警察平板电脑应用允许你对嫌疑人进行 BG-check、查询 BOLO 以及发布自己的 BOLO。参阅 [平板电脑](/zh/bandaraya/tablet)。
 - **申诉存在** - 如果你认为你被错误逮捕,可以在社群服务器上追究。游戏的管理团队会处理。
 
 ## 另见
 
-- [紧急服务](/bandaraya/emergency-services) - POLIS 工具与流程
-- [平板电脑](/bandaraya/tablet) - 供执法人员使用的 MDT 应用
-- [规则](/bandaraya/rules) - 完整规则文本,LTAA/RTAA 后果
-- [战斗与健康](/bandaraya/combat-and-health) - 低 HP 时禁用重置
-- [队伍](/bandaraya/teams) - 哪些队伍拥有逮捕权
-- [词汇表](/bandaraya/glossary) - LTAA、RTAA、MDT、BOLO
+- [紧急服务](/zh/bandaraya/emergency-services) - POLIS 工具与流程
+- [平板电脑](/zh/bandaraya/tablet) - 供执法人员使用的 MDT 应用
+- [规则](/zh/bandaraya/rules) - 完整规则文本,LTAA/RTAA 后果
+- [战斗与健康](/zh/bandaraya/combat-and-health) - 低 HP 时禁用重置
+- [队伍](/zh/bandaraya/teams) - 哪些队伍拥有逮捕权
+- [词汇表](/zh/bandaraya/glossary) - LTAA、RTAA、MDT、BOLO

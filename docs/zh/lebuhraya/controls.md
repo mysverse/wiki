@@ -137,6 +137,6 @@ Lebuhraya 支持键盘、手柄、触屏和 VR。游戏会自动检测你的平�
 
 ## 后续步骤
 
-- [经济与经验值](/lebuhraya/economy) - 驾驶如何转化为等级
-- [车辆](/lebuhraya/vehicles) - 生成菜单、所有权、燃料
-- [工作](/lebuhraya/jobs) - 哪些工具属于哪个队伍
+- [经济与经验值](/zh/lebuhraya/economy) - 驾驶如何转化为等级
+- [车辆](/zh/lebuhraya/vehicles) - 生成菜单、所有权、燃料
+- [工作](/zh/lebuhraya/jobs) - 哪些工具属于哪个队伍

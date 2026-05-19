@@ -8,258 +8,258 @@ needs_review: true
 ---
 # 警察
 
-**Polis** is Sumaya's police force. If you pick POLIS from the main menu, you're a law enforcement officer on duty from the moment you spawn. Your job is to arrest criminals, run speed traps, respond to 999 calls, and keep the peace.
+**Polis**是Sumaya的警察部队。如果您从主菜单中选择POLIS，那么您从出生那一刻起就是一名执勤的执法人员。你的工作是逮捕罪犯、运行测速陷阱、响应 999 电话并维护和平。
 
-## Getting started
+## 开始使用
 
-Pick **POLIS** on the main menu. Your starting kit is 5 tools:
+在主菜单上选择**POLIS**。您的起始套件包含 5 个工具：
 
-| Tool | What it does |
+|工具|它有什么作用 |
 |------|--------------|
-| **Taser X26P** | Non-lethal takedown weapon with limited cartridges. Fire at suspects to incapacitate them for arrest. |
-| **Radar Gun** | Manual speed capture tool. See [Speed traps and radar](#speed-traps-and-radar). |
-| **Whistle** | Crowd / traffic signalling. |
-| **Handcuffs** | The actual arrest tool - use on a wanted suspect when you're close enough. |
-| **Plate Finder** | Look up any vehicle's licence plate to see the registered owner and whether it's flagged as stolen. |
+| **泰瑟 X26P** |弹药有限的非致命击倒武器。向嫌疑人开枪，使他们丧失行动能力以进行逮捕。 |
+| **雷达枪** |手动速度捕捉工具。参见[测速雷达](#speed-traps-and-radar)。 |
+| **口哨** |人群/交通信号。 |
+| **手铐** |真正的逮捕工具，当你足够接近时，对通缉犯使用。 |
+| **板查找器** |查询任何车辆的车牌，了解注册车主以及车辆是否被标记为被盗。 |
 
-A few outfit and kit pieces unlock as you level up the POLIS sector (Duty Belt + Beret at level 1, Reflective Vest at 10, Reflective Coat at 20). See [Progression](/sumaya/progression) for the full career-item table across all three emergency services.
+当您升级POLIS区域时，会解锁一些服装和装备（1级为执勤腰带+贝雷帽，10级为反光背心，20级为反光外套）。有关所有三个紧急服务的完整职业项目表，请参阅[进展](/zh/sumaya/progression)。
 
-## Placeable traffic and crime scene items
+## 可放置的交通和犯罪现场物品
 
-Some traffic and crime-scene props are being prepared for future POLIS play. They are not part of the normal POLIS loadout yet.
+一些交通和犯罪现场道具正在为未来的POLIS游戏准备。它们还不是正常 POLIS 装载的一部分。
 
-Two future POLIS specialisations are listed as coming soon:
+两个未来的 POLIS 专业被列为即将推出：
 
-| Specialisation | Current player-facing status |
+|专业化|当前玩家面临的状态 |
 |---|---|
-| **Traffic POLIS Role** | Coming soon. Planned around radar and road-control props. |
-| **Unmarked POLIS Role** | Coming soon. Planned around concealed identity and plate checks. |
+| **Traffic POLIS Role** |即将推出。围绕雷达和道路控制道具进行规划。 |
+| **Unmarked POLIS Role** |即将推出。计划围绕隐藏身份和车牌检查进行。 |
 
-They are not separate teams; both are intended to work while you are on the normal POLIS team.
+他们不是独立的团队；两者都旨在当您在正常的 POLIS 团队中工作时。
 
-Head to the police station for vehicles, or patrol the streets and watch for wanted suspects on your MDT (Mobile Data Terminal) app.
+前往警察局寻找车辆，或在街道上巡逻并通过 MDT (Mobile Data Terminal) 应用程序寻找通缉嫌疑人。
 
-## The wanted system
+## 想要的系统
 
-Civilians accumulate **offence points** whenever they commit crimes. Total offence points determine their **wanted star level**:
+平民只要犯罪就会累积**犯罪分数**。总进攻得分决定了他们的**想要的星级**：
 
-| Points | Wanted stars |
+|积分|通缉明星|
 |--------|--------------|
-| 0-24 | None |
-| 25-59 | 1 star |
-| 60-119 | 2 stars |
-| 120-199 | 3 stars |
-| 200-319 | 4 stars |
-| 320+ | 5 stars |
+| 0-24 |无 |
+| 25-59 | 25-59 1 星 |
+| 60-119 | 60-119 2 星 |
+| 120-199 | 120-199 3 星 |
+| 200-319 | 200-319 4 星 |
+| 320+ | 5 星 |
 
-Higher-star suspects are harder to arrest but pay more when you do.
+星级越高的嫌疑人越难逮捕，但逮捕时付出的代价也更高。
 
-### What gives offence points?
+### 进攻得分是什么？
 
-| Crime | Points |
-|-------|--------|
-| Vehicle crash (hitting someone) | 5 |
-| Speeding | 10 |
-| Pickpocket | 20 |
-| Carjacking | 25 |
-| Animal trafficking | 50 |
+|犯罪|积分|
+|--------|--------|
+|车祸（撞到某人）| 5 |
+|超速行驶| 10 | 10
+|扒手 | 20 |
+|劫车| 25 | 25
+|动物贩运| 50 | 50
 
-See [Crime and Law](/sumaya/crime-and-law) for the full breakdown.
+完整细目请参阅[犯罪与法律](/zh/sumaya/crime-and-law)。
 
-### Seeing wanted players
+### 看到想要的球员
 
-Open the **MDT** app on your phone. The **Wanted** tab shows all currently-wanted players with:
+打开手机上的 **MDT** 应用程序。 **通缉**选项卡显示所有当前通缉的球员：
 
-- Name and headshot
-- Star level
-- Offence count
-- Time elapsed since their first offence
+- 姓名和头像
+- 星级
+- 违规次数
+- 自第一次犯罪以来经过的时间
 
-You can set a minimap waypoint on a suspect from here to navigate to them.
+您可以从此处在嫌疑人身上设置小地图路径点以导航到他们。
 
-### Wanted decay
+### 想要腐烂
 
-If a suspect avoids committing any more crimes for **5 minutes**, their wanted status fully clears. You have a window to catch them.
+如果嫌疑人在**5分钟**内避免再犯任何罪行，他们的通缉状态就会完全清除。你有一个窗口可以抓住他们。
 
-## Making arrests
+## 逮捕
 
-The basic flow:
+基本流程：
 
-1. Locate the wanted suspect (MDT helps).
-2. Approach them. If they're in passive mode or speeding, they may not realise you're there.
-3. Use your **handcuffs** tool within interact range.
-4. If successful, they're arrested - sent to jail for a star-based duration.
+1. 找到通缉嫌疑人（MDT有帮助）。
+2. 接近他们。如果他们处于被动模式或超速行驶，他们可能不会意识到您在那里。
+3. 在互动范围内使用你的**手铐**工具。
+4. 如果成功，他们就会被逮捕 - 被送进监狱，监禁期限为星级。
 
-### The detain phase
+### 拘留阶段
 
-Before final arrest, suspects enter a **detained** state. Once detained:
-- They follow you at a **4-stud offset**, clamped to within **20 studs maximum** (they can't wander off).
-- A **60-second detain timeout** kicks in - if you don't complete the arrest within 60 s, the detain releases automatically.
-- While detained, they can still try to **surrender** at a prompt to cut their own jail time in half.
+在最终逮捕之前，犯罪嫌疑人进入**拘留**状态。一旦被拘留：
+- 它们以 **4-stud 偏移**跟随您，限制在 **20 studs 最大**以内（它们无法走开）。
+- **60 秒的拘留超时**生效 - 如果您未在 60 秒内完成逮捕，拘留会自动解除。
+- 在被拘留期间，他们仍然可以在提示时尝试**自首**，将自己的监禁时间减少一半。
 
-Detain is useful when you want to walk a suspect to a specific location (police station, surrender prompt) before booking them.
+当您想在预订之前将嫌疑人带到特定地点（警察局、自首提示）时，拘留非常有用。
 
-### Arrest rewards
+### 逮捕奖励
 
-Rewards scale by the suspect's star level at time of arrest:
+根据嫌疑人被捕时的星级划分的奖励等级：
 
-| Stars | XP | Ringgit (wallet) |
-|-------|-----|------------------|
-| 1 | 50 | 150 |
-| 2 | 100 | 300 |
-| 3 | 175 | 500 |
-| 4 | 275 | 800 |
-| 5 | 400 | 1,200 |
+|明星| XP | Ringgit（钱包）|
+|--------|-----|--------------------|
+| 1 | 50 | 50 150 | 150
+| 2 | 100 | 100 300 | 300
+| 3 | 175 | 175 500 | 500
+| 4 | 275 | 275 800 |
+| 5 | 400 | 1,200 | 1,200
 
-### Nearby officer bonus
+### 附近军官奖金
 
-If another POLIS player is within **50 studs** when you make the arrest, they get **50% of your XP and Ringgit** automatically - no action needed. Partner patrols are great for double income.
+如果您逮捕时另一个POLIS玩家位于**50studs**范围内，他们会自动获得**50%的XP和Ringgit** - 无需采取任何行动。伙伴巡逻非常适合双倍收入。
 
-### Milestone bonus
+### 里程碑奖金
 
-Every **5 arrests** you make, you get a **+200 Ringgit** bonus on top of the arrest reward.
+每进行 **5 次逮捕**，除了逮捕奖励之外，您还可以获得 **+200 Ringgit** 奖金。
 
-## Jail
+## 监狱
 
-When you arrest someone, they're sent to jail. Jail duration depends on their wanted stars at arrest time:
+当你逮捕某人时，他们会被送进监狱。监禁期限取决于逮捕时的通缉明星：
 
-| Stars | Jail time |
-|-------|-----------|
-| 1 | 30 seconds |
-| 2 | 1 minute |
-| 3 | 2 minutes |
-| 4 | 3 minutes |
-| 5 | 5 minutes |
+|明星|入狱时间|
+|------|----------|
+| 1 | 30 秒 |
+| 2 | 1 分钟 |
+| 3 | 2 分钟 |
+| 4 | 3 分钟 |
+| 5 | 5 分钟 |
 
-While jailed:
+入狱期间：
 
-- The player can't switch teams.
-- A jail HUD shows time remaining.
-- When the timer runs out, they're released.
+- 玩家不能切换队伍。
+- 监狱HUD显示剩余时间。
+- 当计时器耗尽时，他们就会被释放。
 
-### Surrender
+### 投降
 
-Criminals can choose to **surrender** at a designated prompt before getting caught. Surrender halves the jail time, and gets them out cleaner:
+犯罪分子可以在被抓之前选择在指定提示下**自首**。自首可以减少一半的监禁时间，让他们更干净地出狱：
 
-| Stars | Surrender jail time | Passive lock after release |
-|-------|---------------------|----------------------------|
-| 1 | 15 sec | 60 sec |
-| 2 | 30 sec | 2 min |
-| 3 | 1 min | 4 min |
-| 4 | 90 sec | 6 min |
-| 5 | 150 sec | 10 min |
+|明星|自首入狱| Passive 释放后锁定 |
+|--------|--------------------------------|----------------------------|
+| 1 | 15 秒 | 60 秒 |
+| 2 | 30 秒 | 2 分钟 |
+| 3 | 1 分钟 | 4 分钟 |
+| 4 | 90 秒 | 6 分钟 |
+| 5 | 150 秒 | 10 分钟 |
 
-Passive lock means they can't re-enable passive mode immediately after release - you can still arrest them if they try to restart a crime spree.
+Passive 锁定意味着他们在释放后无法立即重新启用被动模式 - 如果他们试图重新开始犯罪狂潮，您仍然可以逮捕他们。
 
-### Leaving to avoid arrest (LTAA)
+### 离开以避免被捕 (LTAA)
 
-If a wanted player logs out mid-offence, they're hit with a **worse** jail time on return:
+如果被通缉的玩家在进攻中退出，他们在返回时会受到**更严重的**监禁：
 
-| Stars | LTAA jail time |
-|-------|----------------|
-| 1 | 45 sec |
-| 2 | 90 sec |
-| 3 | 150 sec |
-| 4 | 4 min |
-| 5 | 6 min |
+|明星| LTAA 入狱 |
+|--------|----------------|
+| 1 | 45 秒 |
+| 2 | 90 秒 |
+| 3 | 150 秒 |
+| 4 | 4 分钟 |
+| 5 | 6 分钟 |
 
-So no, quitting doesn't save you.
+所以不，戒烟并不能拯救你。
 
-### Combat timer (engagement window)
+### 战斗计时器（交战窗口）
 
-A **30-second combat window** opens on a suspect the moment your **taser** lands a hit or your **detain** succeeds. While the timer is live:
+当你的**泰瑟枪**击中或你的**拘留**成功时，就会向嫌疑人开启一个**30秒的战斗窗口**。当计时器处于活动状态时：
 
-- Their **Reset** button is locked, and main menu / team-switch is locked even sub-1-star.
-- If they die from any cause (fall, crash, reset, or taking too much damage) - combat-evasion jail kicks in.
-- If they leave the game - combat-evasion jail is queued for their next session.
+- 他们的**重置**按钮被锁定，主菜单/团队切换甚至被锁定为亚一星。
+- 如果他们因任何原因死亡（坠落、碰撞、重置或受到过多伤害） - 战斗逃避监狱就会启动。
+- 如果他们离开游戏 - 战斗逃避监狱将在他们的下一个会话中排队。
 
-Combat-evasion jail is **double** the regular LTAA duration: 60 / 120 / 240 / 360 / 600 seconds at 1-5 stars, plus +30 seconds if they were detained at the time. **You get the full star-scaled XP + Ringgit credited as if you'd cleanly arrested them**, plus the 50% nearby-officer split. Engager-offline edge case: credit is forfeit, so stay online if you want the payout.
+战斗逃避监狱是常规LTAA持续时间的**双**：1-5星时为60 / 120 / 240 / 360 / 600秒，如果当时被拘留，则加上30秒。 **您将获得完整的星级XP + Ringgit，就好像您彻底逮捕了他们一样**，再加上 50% 的附近军官分成。参与者离线的边缘情况：信用被没收，所以如果你想要付款，请保持在线。
 
-In practice this means: once you tase a suspect, you've already locked in the credit. Even if they sprint into traffic and die, your patrol still scores it.
+实际上，这意味着：一旦你抓住了嫌疑人，你就已经锁定了功劳。即使他们冲进车流而死，你的巡逻队仍然能得分。
 
-## Speed traps and radar
+## 测速雷达和雷达
 
-Sumaya has **two separate speeding systems** - automatic zones and your manual radar gun.
+Sumaya 有**两个独立的超速系统** - 自动区域和手动雷达枪。
 
-### Speed trap zones (auto)
+### 超速监视区（自动）
 
-There are **3 speed trap zones** in the world. Two are posted at **60 studs/s** and one at **80 studs/s**, so the safe cruising speed depends on the road. If any vehicle (player or NPC) drives through a zone above its posted limit, the game auto-tickets the driver: +10 offence points, no officer action needed. You'll see a banner notification on your HUD when a ticket happens near you.
+世界上有 **3 个超速陷阱区**。两处张贴在**60studs/s**，一处张贴在**80studs/s**，因此安全巡航速度取决于道路。如果任何车辆（玩家或NPC）驶过超出其公布限制的区域，游戏会自动向驾驶员开罚单：+10 违规分，无需警察采取行动。当您附近出现罚单时，您会在 HUD 上看到横幅通知。
 
-Zones recycle per driver on a 30-second cooldown, so someone speeding through repeatedly will accumulate tickets fast.
+每个司机的区域在 30 秒的冷却时间内循环使用，因此反复超速通过的人会很快积累罚单。
 
-Emergency vehicles with their **siren active** are exempt - you won't cite yourself for responding.
+**警报器启动**的紧急车辆可以豁免 - 您不会因响应而引用自己的名字。
 
-### Radar gun (manual, for big speeders)
+### 雷达枪（手动，适用于大型飞行器）
 
-Your radar gun is the tool for catching **serious** speeders outside zones. Point at a moving vehicle and fire:
+您的雷达枪是捕捉区域外**严重**超速者的工具。指向移动的车辆并开火：
 
-- Target must be going **200 studs/s or faster** for the tool to register a hit. Slower than that, the gun reports "Not speeding" and does nothing.
-- Each captured licence plate gets a **120-second cooldown** - you can't re-capture the same plate within two minutes.
-- You must be **on duty** (active POLIS team) for the tool to work.
+- 目标必须达到 **200 studs/s 或更快**，工具才能记录命中。比这慢，枪会报告“没有超速”，但什么也不做。
+- 每个捕获的车牌都有 **120 秒的冷却时间** - 您无法在两分钟内重新捕获同一个车牌。
+- 您必须**值班**（活跃的POLIS团队）才能使该工具正常工作。
 
-**Reward per capture:** 30 XP + 50 Ringgit + 10 offence points on the driver.
+**每次捕获奖励：** 30 XP + 50 Ringgit + 驾驶员 10 点进攻点。
 
-Because zone limits sit at 60-80 studs/s and the radar only registers at 200+ studs/s, there is a wide middle band where a speeder is legal-on-paper but moving fast. A patrolling officer with a radar gun is the only thing that fills that gap.
+由于区域限制为 60-80 studs/s，而雷达仅以 200+ studs/s 记录，因此存在一个宽的中间带，其中超速器在纸上是合法的，但移动速度很快。携带雷达枪的巡逻警官是唯一填补这一空白的人。
 
-## Vehicles
+## 车辆
 
-Polis vehicles unlock based on a mix of **player level** and **sector level**.
+Polis 车辆根据**玩家等级**和**部门等级**的组合解锁。
 
-| Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
-| Protan Wira MPV Polis | 1 | 1 | Free |
+|车辆 |玩家等级|部门层面|价格|
+|--------|--------------|--------------|--------|
+| Protan Wira MPV Polis | 1 | 1 |免费|
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
 
-The Wira is your starter patrol car. The Civic is the top-tier - fast, heavy, full-kit.
+Wira 是您的入门巡逻车。思域是顶级的，速度快、重、装备齐全。
 
-Polis vehicles have **ELS sirens**. With the siren active, you're exempt from traffic offences (speeding, crashes) while you respond.
+Polis 车辆有 **ELS 警报器**。当警报器处于活动状态时，您在做出反应时可以免受交通违法行为（超速、撞车）的影响。
 
-See [Vehicles](/sumaya/vehicles) for details.
+详情请参阅[车辆](/zh/sumaya/vehicles)。
 
-## Ranks
+## 排名
 
-Polis has **16 ranks**, the most of any emergency service. Titles are based on real Polis MYSverse ranks (POLIS).
+Polis 有 **16 个等级**，是所有紧急服务中最多的。标题基于真实的Polis MYSverse 排名（POLIS）。
 
-| Level | Rank |
-|-------|------|
-| 1 | Police Constable |
-| 6 | Lance Corporal (L/Cpl) |
-| 11 | Corporal (Cpl) |
-| 16 | Sergeant (Sgt) |
-| 21 | Sergeant Major (SM) |
-| 26 | Sub-Inspector (SI) |
-| 31 | Probationary Inspector (P/Insp) |
-| 36 | Inspector (Insp) |
-| 41 | Chief Inspector (C/Insp) |
-| 46 | Assistant Superintendent of Police (ASP) |
-| 51 | Deputy Superintendent of Police (DSP) |
-| 56 | Superintendent of Police (SUPT) |
-| 61 | Assistant Commissioner of Police (ACP) |
-| 69 | Senior Assistant Commissioner of Police (SAC) |
-| 77 | Deputy Commissioner of Police (DCP) |
-| 89 | Commissioner of Police (CP) |
+|水平|排名|
+|--------|------|
+| 1 |警察 |
+| 6 |一等兵 (L/Cpl) |
+| 11 | 11下士 (Cpl) |
+| 16 | 16中士 (Sgt) |
+| 21 | 21军士长 (SM) |
+| 26 | 26副督察 (SI) |
+| 31 |试用督察 (P/Insp) |
+| 36 | 36督察（Insp）|
+| 41 | 41首席督察 (C/Insp) |
+| 46 | 46助理警务总监 (ASP) |
+| 51 | 51警察副总监 (DSP) |
+| 56 | 56警察总监 (SUPT) |
+| 61 | 61助理警察局长 (ACP) |
+| 69 | 69高级助理警察局长 (SAC) |
+| 77 | 77警察局副局长 (DCP) |
+| 89 | 89警务处处长 (CP) |
 
-From level 89 onward you're at the top. No rank change as you push to the level 100 cap.
+从 89 级开始，您就处于顶端。当您达到 100 级上限时，等级不会发生变化。
 
-## Exempt while responding
+## 回复时豁免
 
-If you have your Polis vehicle's **siren active**, you can't be cited for speeding or crashes while you drive. The system recognises you're on a call. Turn the siren off when you park - otherwise other players might think you're still responding.
+如果您的Polis车辆的**警报器处于活动状态**，您在驾驶时就不会因超速或撞车而被传唤。系统识别出您正在通话。停车时请关闭警报器 - 否则其他玩家可能会认为您仍在响应。
 
-## Tips
+＃＃ 尖端
 
-- **Use the MDT.** Don't just patrol blindly. The MDT shows every wanted suspect and lets you waypoint them directly.
-- **Partner up.** Two POLIS within 50 studs means the non-arresting officer gets 50% of the reward for free. Great for a friend-based grind.
-- **Don't miss milestone bonuses.** Every 5 arrests = +200 Ringgit. Plan your shift to hit 5, 10, 15.
-- **5-star arrests are huge.** A single 5-star collar = 400 XP + 1200 Ringgit. They're harder to make but worth camping for.
-- **Sirens = no tickets.** Turn them on when you're driving to a call - otherwise your own speeding can get you a ticket, embarrassingly.
-- **Don't become wanted yourself.** If you cross into 1-star wanted as POLIS, the live demotion listener removes you from the emergency team and despawns your emergency vehicle. Leave the team first if you want to play criminal.
-- **Fire-assist XP is Kesihatan-only.** Contrary to what looks intuitive, POLIS does NOT earn XP from nearby fire incidents. Only Kesihatan players benefit from the 10 player XP per block from standing within 512 studs of a fire.
+- **使用MDT。** 不要盲目巡逻。 MDT 显示每一个通缉的嫌疑人，并让您直接引导他们。
+- **搭档。** 50 studs 内有两个 POLIS 表示未逮捕的警员免费获得 50% 的奖励。非常适合基于朋友的磨练。
+- **不要错过里程碑奖金。** 每 5 次逮捕 = +200 Ringgit。计划轮班时间为 5、10、15。
+- **五星级逮捕数量巨大。** 单个五星级项圈 = 400 XP + 1200 Ringgit。它们制作起来比较困难，但值得露营。
+- **警报器 = 没有罚单。** 当你开车去接电话时打开它们 - 否则你自己的超速可能会给你开罚单，尴尬。
+- **不要自己成为通缉犯。** 如果您作为 POLIS 进入 1 星通缉令，现场降级监听器会将您从应急小组中删除，并让您的应急车辆消失。如果你想玩犯罪，就先离开队伍。
+- **消防辅助XP仅适用于Kesihatan。** 与直觉相反，POLIS不会从附近的火灾事件中获得XP。只有Kesihatan 玩家可以从每块 10 名玩家XP 中受益，因为他们站在距离火灾 512 studs 的范围内。
 
-## What next?
+## 接下来怎么办？
 
-- [Crime and Law](/sumaya/crime-and-law) for what you're up against.
-- [Bomba](/sumaya/bomba) and [Kesihatan](/sumaya/kesihatan) for the other services.
-- [Vehicles](/sumaya/vehicles) for the Polis vehicle catalogue.
-- [Progression](/sumaya/progression) for how XP and ranks work.
+- [犯罪与法律](/zh/sumaya/crime-and-law) 了解你所面临的问题。
+- 其他服务的[Bomba](/zh/sumaya/bomba)和[Kesihatan](/zh/sumaya/kesihatan)。
+- [车辆](/zh/sumaya/vehicles) 用于Polis车辆目录。
+- [进度](/zh/sumaya/progression)了解XP和等级的运作方式。

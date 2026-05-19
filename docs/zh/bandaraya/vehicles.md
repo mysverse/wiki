@@ -31,7 +31,7 @@ Bandaraya 拥有 200 多辆车,涵盖 25 多个组织 - POLIS 多用途车和装
 5. **Space / Enter** 生成。**Escape** 关闭。**A / D** 键 (或方向键) 用于浏览车辆列表，键盘快捷键会作为提示行显示在导航行下方。
 6. 你的车辆会出现在生成台。坐在驾驶座上以驾驶。
 
-如果生成器不让你通过,你可能不符合团队要求。参见 [团队](/bandaraya/teams)。
+如果生成器不让你通过,你可能不符合团队要求。参见 [团队](/zh/bandaraya/teams)。
 
 ## 驾驶
 
@@ -94,7 +94,7 @@ Bandaraya 使用 **A-Chassis** 物理引擎。控制:
 
 ## 车辆登记
 
-每辆生成的车辆都会获得车牌。你可以在 **Vehicle Management** 平板应用中查询车牌(参见 [Tablet](/bandaraya/tablet))。
+每辆生成的车辆都会获得车牌。你可以在 **Vehicle Management** 平板应用中查询车牌(参见 [Tablet](/zh/bandaraya/tablet))。
 
 所有权登记是自动的 - 车牌与生成车辆的人绑定。POLIS 使用此功能进行交通拦截。
 
@@ -147,12 +147,12 @@ POLIS 和 BOMBA 在各自的站点有直升机生成器。团队专属 - 平民�
 - **某些车辆有团队专属的 body children**(灯光、警笛、倒车、危险灯、drag racing hud)。并非每辆车都拥有全部。如果某个按钮没反应,说明该车不支持。
 - **摩托车的侧撑可以使用。** 下车后摩托车会自己停稳(那是个长期 bug,现已修复)。
 - **车辆的 streaming 已被禁用。** 这就是它们总能在远距离渲染的原因 - 但会多耗一点性能。
-- **滥用车辆进行骚扰**(卡 bug 破坏他人车辆、生成时撞击平民)是可被封禁的行为。参见 [规则](/bandaraya/rules)。
+- **滥用车辆进行骚扰**(卡 bug 破坏他人车辆、生成时撞击平民)是可被封禁的行为。参见 [规则](/zh/bandaraya/rules)。
 
 ## 另请参阅
 
-- [经济](/bandaraya/economy) - 经销店价格、燃料费用
-- [工作](/bandaraya/jobs) - 出租车、拖车、巴士驾驶
-- [紧急服务](/bandaraya/emergency-services) - POLIS / BOMBA / MAF 车辆使用权
-- [地图](/bandaraya/locations) - 哪里可以找到燃料、充电、经销店
-- [Tablet](/bandaraya/tablet) - Vehicle Management 应用
+- [经济](/zh/bandaraya/economy) - 经销店价格、燃料费用
+- [工作](/zh/bandaraya/jobs) - 出租车、拖车、巴士驾驶
+- [紧急服务](/zh/bandaraya/emergency-services) - POLIS / BOMBA / MAF 车辆使用权
+- [地图](/zh/bandaraya/locations) - 哪里可以找到燃料、充电、经销店
+- [Tablet](/zh/bandaraya/tablet) - Vehicle Management 应用

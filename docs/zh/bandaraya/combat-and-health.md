@@ -204,7 +204,7 @@ Bandaraya 把健康建模成三个维度,不只是 HP:
 
 重置按钮在 **75 HP 或以下会被禁用** - 这是为了阻止 **RTAA**(reset 来逃避逮捕)。如果你受伤了,硬撑过去或等医护。
 
-见 [Arrest & Law](/bandaraya/arrest-and-law#rtaa)。
+见 [Arrest & Law](/zh/bandaraya/arrest-and-law#rtaa)。
 
 ---
 
@@ -237,9 +237,9 @@ Raid 的进行方式:
 
 ## 另见
 
-- [Arrest & Law](/bandaraya/arrest-and-law) - 拘留、逮捕机制、LTAA / RTAA
-- [Emergency Services](/bandaraya/emergency-services) - KKM + SJAM 角色
-- [Economy](/bandaraya/economy) - Ammulaysia 和 Illegal Dealer 店铺
-- [Gamepasses](/bandaraya/gamepasses) - Firearms Licence
-- [Vehicles](/bandaraya/vehicles) - 防弹车辆列表
-- [Rules](/bandaraya/rules) - 战斗礼仪和严重违规
+- [Arrest & Law](/zh/bandaraya/arrest-and-law) - 拘留、逮捕机制、LTAA / RTAA
+- [Emergency Services](/zh/bandaraya/emergency-services) - KKM + SJAM 角色
+- [Economy](/zh/bandaraya/economy) - Ammulaysia 和 Illegal Dealer 店铺
+- [Gamepasses](/zh/bandaraya/gamepasses) - Firearms Licence
+- [Vehicles](/zh/bandaraya/vehicles) - 防弹车辆列表
+- [Rules](/zh/bandaraya/rules) - 战斗礼仪和严重违规

@@ -225,8 +225,8 @@ Maintenance அல்லது event நேரத்தில் staff CAG அ�
 
 ## இதையும் காண்க
 
-- [விதிகள்](/bandaraya/rules)
-- [பொருளாதாரம்](/bandaraya/economy) - நாணயம், கடைகள், gamepasses
-- [வரைபடம்](/bandaraya/locations) - நிலையங்கள் மற்றும் டெர்மினல்கள் எங்கே
-- [வேலைகள்](/bandaraya/jobs) - பேருந்து-ஓட்டல், டாக்சிகள்
-- [சொற்களஞ்சியம்](/bandaraya/glossary) - CAG, TapNGo, MRT
+- [விதிகள்](/ta/bandaraya/rules)
+- [பொருளாதாரம்](/ta/bandaraya/economy) - நாணயம், கடைகள், gamepasses
+- [வரைபடம்](/ta/bandaraya/locations) - நிலையங்கள் மற்றும் டெர்மினல்கள் எங்கே
+- [வேலைகள்](/ta/bandaraya/jobs) - பேருந்து-ஓட்டல், டாக்சிகள்
+- [சொற்களஞ்சியம்](/ta/bandaraya/glossary) - CAG, TapNGo, MRT

@@ -8,259 +8,259 @@ needs_review: true
 ---
 # Soalan Lazim & Petua
 
-Common questions, quality-of-life tips, and the things experienced players wish they'd known earlier.
+Soalan biasa, petua kualiti hidup dan perkara yang pemain berpengalaman ingin mereka ketahui lebih awal.
 
-## Common questions
+## Soalan biasa
 
-### Why did my XP reset when I joined a test server?
+### Mengapakah XP saya ditetapkan semula apabila saya menyertai ujian server?
 
-Test servers reset XP to 0 on purpose so new features can be tested safely. The warning message "XP will be reset to 0" is normal. Your **live public game progress is not affected**.
+Pelayan ujian menetapkan semula XP kepada 0 dengan sengaja supaya ciri baharu boleh diuji dengan selamat. Mesej amaran "XP akan ditetapkan semula kepada 0" adalah perkara biasa. **Kemajuan permainan awam secara langsung anda tidak terjejas**.
 
-### I can't open the vehicle spawner. Why?
+### Saya tidak boleh membuka pemijah kenderaan. kenapa?
 
-A few possibilities:
+Beberapa kemungkinan:
 
-- You may need to load in fully - wait a few seconds after joining.
-- A menu might be on top of it - close any open menus (Esc or Backspace).
-- You need to be near a physical vehicle spawner prompt in the world. The MyPod topbar icon is only a music player.
-- You may be on a job team and trying to use a civilian spawner. Switch to Visitors or use your team spawner.
-- You may be using a team-only spawner. Join the named team first.
-- If the issue persists, rejoin the server.
+- Anda mungkin perlu memuatkan sepenuhnya - tunggu beberapa saat selepas menyertai.
+- Menu mungkin berada di atasnya - tutup mana-mana menu terbuka (Esc atau Backspace).
+- Anda perlu berada berhampiran gesaan pemijah kenderaan fizikal di dunia. Ikon bar atas MyPod hanyalah pemain muzik.
+- Anda mungkin berada dalam pasukan kerja dan cuba menggunakan spawner awam. Tukar kepada Visitors atau gunakan spawner pasukan anda.
+- Anda mungkin menggunakan spawner pasukan sahaja. Sertai pasukan yang dinamakan dahulu.
+- Jika masalah berterusan, sertai semula server.
 
-### Is MyPod the vehicle spawner?
+### Adakah MyPod pemijah kenderaan?
 
-No. **MyPod** is the music player. It has playback controls, volume, shuffle/repeat, favourites, a track list, and an auto-play-in-vehicle option. Vehicles are spawned from physical spawner pads/markers in the world.
+Tidak. **MyPod** ialah pemain muzik. Ia mempunyai kawalan main balik, kelantangan, shuffle/ulang, kegemaran, senarai lagu dan pilihan auto-main dalam kenderaan. Kenderaan dihasilkan daripada pad pemijah/penanda fizikal di dunia.
 
-### The vehicle spawner opens, but my vehicle is locked or missing.
+### Pemijah kenderaan terbuka, tetapi kenderaan saya terkunci atau hilang.
 
-Check the card and spawner type:
+Semak jenis kad dan spawner:
 
-- **Level X** means your player level is too low.
-- **Tier X** means your career rank is too low on that branch.
-- **Vehicle locked** means you do not own the special/gamepass/code vehicle.
-- A missing vehicle usually means you are at the wrong spawner type: Basic, Bike, Premium, Special, or a team-specific spawner.
+- **Tahap X** bermakna tahap pemain anda terlalu rendah.
+- **Tier X** bermakna pangkat kerjaya anda terlalu rendah di cawangan itu.
+- **Kenderaan dikunci** bermakna anda tidak memiliki kenderaan khas/gamepass/kod.
+- Kenderaan yang hilang biasanya bermakna anda berada pada jenis pemijah yang salah: Asas, Basikal, Premium, Khas atau pemijah khusus pasukan.
 
-See [Vehicles -> Spawner troubleshooting](/lebuhraya/vehicles#spawner-troubleshooting).
+Lihat [Kenderaan -> Penyelesaian masalah spawner](/ms/lebuhraya/vehicles#spawner-troubleshooting).
 
-### Where did career, tokens, credits, and races go?
+### Ke manakah perginya kerjaya, token, kredit dan perlumbaan?
 
-They are under **Main Menu -> More**. The top-level menu now shows **Home**, **Teams**, **Shop**, **Activity**, and **More**. Activity contains missions/challenges/season progress; More contains secondary panels such as Career, Jobs, Tokens, Credits, Races, and Help.
+Mereka berada di bawah **Main Menu -> Lagi**. Menu peringkat teratas kini menunjukkan **Home**, **Teams**, **Shop**, **Aktiviti** dan **Lagi**. Aktiviti mengandungi misi/cabaran/kemajuan musim; Lagi mengandungi panel sekunder seperti Kerjaya, Pekerjaan, Token, Kredit, Perlumbaan dan Help.
 
-### What's the fastest way to level up?
+### Apakah cara terpantas untuk meningkatkan tahap?
 
-The best approach for fast levelling:
+Pendekatan terbaik untuk meratakan cepat:
 
-1. **Drive continuously in a driver seat.** Passive XP is 50 per 1500 studs.
-2. **Do jobs** - Food Delivery pays 250 XP per delivery once you're level 10.
-3. **Convoy with friends on the same team** - up to +50% bonus.
-4. **Activate a 2× XP token** before a long session.
-5. **Play during Double XP Weekend** if announced.
-6. **Subscribe to Roblox Premium** for a permanent +25%.
-7. **Buy the XP Boost gamepass** for a permanent +50%.
+1. **Pandu terus di tempat duduk pemandu.** Passive XP ialah 50 setiap 1500 studs.
+2. **Lakukan kerja** - Food Delivery membayar 250 XP setiap penghantaran sebaik sahaja anda mencapai tahap 10.
+3. **Konvoi dengan rakan dalam pasukan yang sama** - sehingga +50% bonus.
+4. **Aktifkan token 2× XP** sebelum sesi yang panjang.
+5. **Main semasa Double XP Hujung Minggu** jika diumumkan.
+6. **Langgan Roblox Premium** untuk +25% kekal.
+7. **Beli XP Boost gamepass** untuk +50% kekal.
 
-Stacking all of these, you can hit levels 10–20× faster than a solo player driving alone.
+Dengan menyusun semua ini, anda boleh mencapai tahap 10–20× lebih pantas daripada pemain solo yang memandu bersendirian.
 
-### I want to be a police officer. How?
+### Saya mahu menjadi pegawai polis. Bagaimana?
 
-Police teams require a gamepass:
+Pasukan polis memerlukan gamepass:
 
-- **KEMRonda** - Highway auxiliary (traffic assistance, towing).
-- **Polis Trafik** - Traffic law enforcement.
-- **Undercover Police** - Plain-clothes enforcement.
+- **KEMRonda** - Bantuan lebuh raya (bantuan lalu lintas, menunda).
+- **Polis Trafik** - Penguatkuasaan undang-undang lalu lintas.
+- **Undercover Police** - Penguatkuasaan pakaian biasa.
 
-Buy the gamepass for the team you want, then join from the Main Menu → Teams tab.
+Beli gamepass untuk pasukan yang anda mahukan, kemudian sertai dari tab Main Menu → Pasukan.
 
-If you want to work in law enforcement without a gamepass, **APJ** (level 300) is a Road Transport Agency team, but it's a long way off.
+Jika anda ingin bekerja dalam penguatkuasaan undang-undang tanpa gamepass, **APJ** (tahap 300) ialah pasukan Agensi Pengangkutan Jalan, tetapi ia masih jauh.
 
-### How do I refuel my car?
+### Bagaimanakah saya mengisi minyak kereta saya?
 
-1. Drive to a station - **PETROMAS** on the highway, **Radtrol** in Bandar Seri Putra.
-2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
-3. An on-screen prompt appears - interact to pump / charge.
+1. Pandu ke stesen - **PETROMAS** di lebuh raya, **Radtrol** dalam Bandar Seri Putra.
+2. Tarik ke atas di sebelah pam yang sepadan dengan jenis bahan api anda (Petrol, Diesel atau Elektrik).
+3. Gesaan pada skrin muncul - berinteraksi untuk mengepam / mengecas.
 
-Fuel is **currently free** in this version of the game. The usual reference prices are Electric 1 BR, Petrol 2 BR, and Diesel 3 BR per litre, but refuelling does not currently deduct BR from your balance.
+Bahan api **pada masa ini percuma** dalam versi permainan ini. Harga rujukan biasa ialah Elektrik 1 BR, Petrol 2 BR, dan Diesel 3 BR seliter, tetapi mengisi minyak tidak memotong BR daripada baki anda pada masa ini.
 
-### My car ran out of fuel and I'm stranded. What now?
+### Kereta saya kehabisan minyak dan saya terkandas. Apa sekarang?
 
-You have three options:
+Anda mempunyai tiga pilihan:
 
-1. **Buy a JerryCan** at the **Jerrycan Shop**, fill it at any station (match the fuel type), and pour it into your tank.
-2. **Spawn a replacement vehicle** from a physical vehicle spawner. You'll lose your current vehicle position but get a fresh tank.
-3. **Ask a KEMRonda player** for a tow - they can take you to the nearest station.
+1. **Beli JerryCan** di **Jerrycan Shop**, isikan di mana-mana stesen (padan dengan jenis bahan api), dan tuangkan ke dalam tangki anda.
+2. **Melahirkan kenderaan gantian** daripada pemijah kenderaan fizikal. Anda akan kehilangan kedudukan kenderaan semasa anda tetapi mendapat tangki baharu.
+3. **Minta tunda kepada pemain KEMRonda** - mereka boleh membawa anda ke stesen terdekat.
 
-### Where do I repair my car?
+### Di manakah saya boleh membaiki kereta saya?
 
-There are **10 repair zones** placed around the map. Drive your vehicle into one and a prompt will appear - confirm, stay parked, and health regenerates roughly 10% per 5 seconds until fully repaired. You can't repair if the zone is already being used by another player.
+Terdapat **10 zon pembaikan** diletakkan di sekeliling peta. Pandu kenderaan anda ke dalam satu dan gesaan akan dipaparkan - sahkan, kekal diparkir dan kesihatan menjana semula kira-kira 10% setiap 5 saat sehingga dibaiki sepenuhnya. Anda tidak boleh membaiki jika zon itu sudah digunakan oleh pemain lain.
 
-**Gravstone Workshop** in Bandar Seri Putra is a **customisation shop** (paint, body), not a repair shop - don't go there expecting a fix.
+**Gravstone Workshop** di Bandar Seri Putra ialah **kedai penyesuaian** (cat, badan), bukan kedai pembaikan - jangan pergi ke sana mengharapkan pembaikan.
 
-### How does the 999 emergency system work?
+### Bagaimanakah sistem kecemasan 999 berfungsi?
 
-Any player can call 999 from their Phone (topbar → 999 app). Emergency responders on duty (Bomba, Polis Trafik, Undercover Police, Kesihatan) see the incident on their **Pager** tool and can accept it.
+Mana-mana pemain boleh menghubungi 999 dari Phone mereka (bar atas → apl 999). Anggota kecemasan yang sedang bertugas (Bomba, Polis Trafik, Undercover Police, Kesihatan) melihat kejadian pada alat **Pager** mereka dan boleh menerimanya.
 
-- Incident types: **Car Crash**, **Injured Person**.
-- Minimum resolution time: **30 seconds** after accepting (prevents instant-resolve farming).
-- Up to 10 incidents can be open at once.
+- Jenis insiden: **Rempuhan Kereta**, **Orang Cedera**.
+- Masa resolusi minimum: **30 saat** selepas menerima (menghalang pertanian penyelesaian segera).
+- Sehingga 10 insiden boleh dibuka sekali gus.
 
-See [Social Features → 999 Emergency](/lebuhraya/social-features#999-emergency-system) for the full flow.
+Lihat [Ciri Sosial → Kecemasan 999](/ms/lebuhraya/social-features#999-emergency-system) untuk aliran penuh.
 
-### What's the injury system and why does it matter?
+### Apakah sistem kecederaan dan mengapa ia penting?
 
-When a **Kesihatan (medic) player joins the server**, the injury system **automatically activates for everyone** - including you. This gives you a **+15% XP multiplier** for free on every XP award, stacking with Premium, convoy, token, and other boosts. When the last medic leaves, it turns off again.
+Apabila pemain **Kesihatan (perubatan) menyertai server**, sistem kecederaan **secara automatik diaktifkan untuk semua orang** - termasuk anda. Ini memberi anda **+15% XP pengganda** secara percuma pada setiap XP anugerah, disusun dengan Premium, konvoi, token dan rangsangan lain. Apabila doktor terakhir pergi, ia dimatikan semula.
 
-The trade-off: with injury system on, heavy crashes can inflict injuries on you that need medical treatment. Those injuries become the 999 incidents medics respond to - which is the whole loop working as designed.
+Tukar ganti: dengan sistem kecederaan dihidupkan, kemalangan berat boleh mendatangkan kecederaan kepada anda yang memerlukan rawatan perubatan. Kecederaan tersebut menjadi 999 insiden yang dijawab oleh medik - yang merupakan keseluruhan gelung berfungsi seperti yang direka.
 
-**Tip**: if you see a medic in the server lobby, you're getting free extra XP. Drive careful and you'll rarely need treatment.
+**Petua**: jika anda melihat doktor di lobi server, anda akan mendapat tambahan percuma XP. Berhati-hati memandu dan anda jarang memerlukan rawatan.
 
-### What is passive mode?
+### Apakah mod pasif?
 
-Passive mode is a toggle that prevents tool-based interactions - weapons, tasers, bandages, and similar gear - in **both directions**:
+Mod Passive ialah togol yang menghalang interaksi berasaskan alatan - senjata, taser, pembalut dan peralatan serupa - dalam **kedua-dua arah**:
 
-- You can't use tools on other players.
-- Other players can't use tools on you.
+- Anda tidak boleh menggunakan alatan pada pemain lain.
+- Pemain lain tidak boleh menggunakan alatan pada anda.
 
-Turn it on from the Main Menu if you don't want to be pulled into combat or emergency roleplay. Turn it off when you're ready to participate. Note: standard driving and job actions aren't affected - passive only blocks weapons and medical tools.
+Hidupkannya dari Main Menu jika anda tidak mahu ditarik ke dalam pertempuran atau lakonan kecemasan. Matikannya apabila anda bersedia untuk mengambil bahagian. Nota: pemanduan standard dan tindakan kerja tidak terjejas - pasif hanya menghalang senjata dan alat perubatan.
 
-### Can I own a house?
+### Bolehkah saya memiliki rumah?
 
-Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose from four house templates (3 kampung styles + 1 modern terrace), and customise. See [Housing](/lebuhraya/housing).
+ya. Lawati **Pangsapuri Seri Putra** di Bandar Seri Putra, tuntut plot, pilih daripada empat templat rumah (3 gaya kampung + 1 teres moden) dan sesuaikan. Lihat [Perumahan](/ms/lebuhraya/housing).
 
-### How do I fast travel?
+### Bagaimanakah cara saya mengembara dengan pantas?
 
-**Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around - drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
+**Perjalanan pantas tidak tersedia untuk pemain biasa.** Ia adalah alat kakitangan sahaja yang digunakan oleh penyederhana dan pembangun MYSverse untuk penyelarasan acara. Untuk orang lain, sistem titik laluan GPS (pada Phone anda) ialah cara anda bergerak - memandu sepanjang jarak dan anda akan memperoleh XP semasa anda pergi. GPS menunjukkan pancaran bercahaya yang mengikuti jalan ke sasaran anda.
 
-(If you ever see the fast travel menu appear, it means you have been granted staff access.)
+(Jika anda pernah melihat menu perjalanan pantas muncul, ini bermakna anda telah diberikan akses kakitangan.)
 
-### I joined a convoy but I'm not getting the bonus.
+### Saya menyertai konvoi tetapi saya tidak mendapat bonus.
 
-Check these:
+Semak ini:
 
-- Are you within **200 studs** of another convoy member? The bonus only applies when you're close together.
-- Is the convoy actually active? Check the convoy panel - it shows your current multiplier.
-- Are you a **passenger**? Passengers get half the driver's bonus.
+- Adakah anda dalam **200 studs** ahli konvoi yang lain? Bonus hanya terpakai apabila anda rapat bersama.
+- Adakah konvoi sebenarnya aktif? Semak panel konvoi - ia menunjukkan pengganda semasa anda.
+- Adakah anda seorang **penumpang**? Penumpang mendapat separuh bonus pemandu.
 
-### What are tokens?
+### Apakah itu token?
 
-Consumable items in your inventory that give temporary boosts - 2× XP, Season Pass XP doubler, or temporary team access. Activate from the inventory. See [Social Features → Tokens](/lebuhraya/social-features#tokens-and-boosts).
+Item boleh guna dalam inventori anda yang memberikan rangsangan sementara - 2× XP, Season Pass XP pengganda atau akses pasukan sementara. Aktifkan daripada inventori. Lihat [Ciri Sosial → Token](/ms/lebuhraya/social-features#tokens-and-boosts).
 
-### How do I report a bug or player?
+### Bagaimanakah cara saya melaporkan pepijat atau pemain?
 
-Open the in-game **Report** system and describe what happened, where it happened, what team/vehicle/tool/menu you were using, and whether it repeats. For player reports, include the player name and what they did. See [Social Features -> Report system](/lebuhraya/social-features#report-system).
+Buka sistem **Laporan** dalam permainan dan terangkan perkara yang berlaku, di mana ia berlaku, pasukan/kenderaan/alat/menu yang anda gunakan dan sama ada ia berulang. Untuk laporan pemain, sertakan nama pemain dan perkara yang mereka lakukan. Lihat [Ciri Sosial -> Sistem laporan](/ms/lebuhraya/social-features#report-system).
 
-### Is there a single-player / private mode?
+### Adakah terdapat mod pemain tunggal / peribadi?
 
-Yes - **private servers** are available (purchase from the Roblox experience page). See the dedicated **[Private servers](#private-servers)** section below for everything the owner gets, common use cases, and the limitations.
+Ya - **pelayan peribadi** tersedia (beli dari halaman pengalaman Roblox). Lihat bahagian **[Pelayan peribadi](#private-servers)** khusus di bawah untuk semua yang pemilik dapat, kes penggunaan biasa dan pengehadan.
 
-### Are there promo codes?
+### Adakah terdapat kod promosi?
 
-Yes - open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
+Ya - buka **Main Menu -> Beli** dan gunakan medan penebusan kod. Beberapa kod aktif secara kekal:
 
-| Code | Reward | Uses |
+| Kod | Ganjaran | Kegunaan |
 |---|---|---|
-| `experience` | 250 XP | Up to 5 times |
-| `unlimitedpowarr` | 1,000 XP | Unlimited |
-| `gokartracing` | Free Go-Kart (Special spawner) | Once |
-| `fd2r` | Free Handai Civic FD2R (Special spawner) | Once |
-| `renjer` | Free Renjer Loader 2012 (Special spawner) | Once |
-| `outlandish` | Free Masubi Outlander (Special spawner) | Once |
-| `MYS5KFOLLOWERS` | Free Intero Citie Bas Sekolah (Bus Driver spawner) | Once |
+| `experience` | 250 XP | Sehingga 5 kali |
+| `unlimitedpowarr` | 1,000 XP | tanpa had |
+| `gokartracing` | Percuma Go-Kart (Special spawner) | Sekali |
+| `fd2r` | Percuma Handai Civic FD2R (Special spawner) | Sekali |
+| `renjer` | Pemuat Renjer Percuma 2012 (Special spawner) | Sekali |
+| `outlandish` | Percuma Masubi Outlander (Penternak khas) | Sekali |
+| `MYS5KFOLLOWERS` | Percuma Intero Citie Bas Sekolah (Bus Driver spawner) | Sekali |
 
-Event codes (time-limited) occasionally appear for community events, conventions, and apology makegoods - watch MYSverse channels for them.
+Kod acara (terhad masa) kadang-kadang muncul untuk acara komuniti, konvensyen dan permohonan maaf - tonton saluran MYSverse untuk mereka.
 
-## Tips the wiki might not have mentioned
+## Petua yang mungkin tidak disebutkan oleh wiki
 
-### "Drive long" is always profitable
+### "Memandu jauh" sentiasa menguntungkan
 
-Whatever you're doing, being in a DriveSeat paying attention to the road gives you free XP. Even while on your way to a job, you're earning.
+Walau apa pun yang anda lakukan, berada di DriveSeat dengan memberi perhatian kepada jalan raya memberi anda XP percuma. Walaupun semasa anda dalam perjalanan ke pekerjaan, anda memperoleh pendapatan.
 
-### Match your vehicle to the job
+### Padankan kenderaan anda dengan kerja
 
-A Tayoti Hiace is a passenger van - don't take one to the Race Track. A Perosatu Myvi is fine for food delivery but useless for freight. Look at the vehicle category in [Vehicles](/lebuhraya/vehicles#vehicle-categories).
+Tayoti Hiace ialah van penumpang - jangan bawa satu ke Litar Lumba. A Perosatu Myvi baik untuk penghantaran makanan tetapi tidak berguna untuk pengangkutan. Lihat kategori kenderaan dalam [Kenderaan](/ms/lebuhraya/vehicles#vehicle-categories).
 
-### The electric car advantage
+### Kelebihan kereta elektrik
 
-Electric vehicles are cheapest to run once fuel charges are enabled. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
+Kenderaan elektrik adalah paling murah untuk dijalankan sebaik sahaja pengecasan bahan api didayakan. Cuba Besla Y, MYD Atto III, Ionic I/V, atau CITO Ami sebaik sahaja anda boleh.
 
-### Friend up before grinding
+### Teman sebelum mengisar
 
-Recruit one or two friends on the same team. Start a convoy. Stick together within 200 studs. Your XP per hour roughly doubles versus solo play.
+Rekrut satu atau dua rakan dalam pasukan yang sama. Mulakan konvoi. Bersatu dalam 200 studs. XP sejam anda kira-kira dua kali ganda berbanding permainan solo.
 
-### Save tokens for anchored sessions
+### Simpan token untuk sesi berlabuh
 
-Don't pop a 2× XP token and then get distracted - the timer doesn't pause. Use them when you have an hour of uninterrupted play planned.
+Jangan pop token 2× XP dan kemudian terganggu - pemasa tidak berhenti seketika. Gunakannya apabila anda mempunyai satu jam bermain tanpa gangguan yang dirancang.
 
-### Watch for Double XP weekends
+### Nantikan Double XP hujung minggu
 
-Keep an eye on the MYSverse community channels. A Double XP Weekend is the highest-leverage time to use other boosts.
+Pantau saluran komuniti MYSverse. Double XP Hujung minggu ialah masa leverage tertinggi untuk menggunakan rangsangan lain.
 
-### If a shop doesn't show prices
+### Jika kedai tidak menunjukkan harga
 
-Prices vary by shop and sometimes by item. Always check the in-game menu before buying, especially for expensive items like house furniture.
+Harga berbeza mengikut kedai dan kadangkala mengikut item. Sentiasa semak menu dalam permainan sebelum membeli, terutamanya untuk barangan mahal seperti perabot rumah.
 
-### Respect the roleplay
+### Hormati lakonan
 
-Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously don't appreciate being rammed off the road; traffic police trying to catch speeders don't appreciate being taunted. Drive with respect; the social scene is half the fun.
+Lebuhraya ialah permainan main peranan. Pemain mengambil serius peralihan perubatan 999 mereka tidak menghargai dirempuh dari jalan raya; polis trafik yang cuba menangkap pemandu laju tidak menghargai diejek. Memandu dengan hormat; adegan sosial adalah separuh menyeronokkan.
 
-### Report bugs and feedback
+### Laporkan pepijat dan maklum balas
 
-If you hit a bug or have suggestions, use the in-game **Report** system. It sends feedback directly to the MYSverse team.
+Jika anda terkena pepijat atau mempunyai cadangan, gunakan sistem **Laporan** dalam permainan. Ia menghantar maklum balas terus kepada pasukan MYSverse.
 
-## Private servers
+## Pelayan peribadi
 
-Private servers are Roblox's "VIP server" feature - you pay Robux to spin up a server instance that only you and people you invite can join. They're one of Lebuhraya's most powerful features once you know what they can do.
+Pelayan peribadi ialah ciri "VIP server" Roblox - anda membayar Robux untuk memutar contoh server yang hanya anda dan orang yang anda jemput boleh sertai. Ia adalah salah satu ciri Lebuhraya yang paling berkuasa setelah anda tahu perkara yang boleh mereka lakukan.
 
-### Use cases
+### Kes penggunaan
 
-**Dedicated roleplay communities.** Many MYSverse-adjacent groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) run their own private Lebuhraya servers as persistent hangout spaces. Because private servers are isolated, your group isn't interrupted by random drivers, and your scenes can run uninterrupted for hours.
+**Komuniti main peranan yang berdedikasi.** Banyak kumpulan bersebelahan MYSverse (akademi polis, kem latihan bomba dan penyelamat, syarikat teksi, pelayan RP sekolah) menjalankan pelayan Lebuhraya peribadi mereka sendiri sebagai ruang melepak yang berterusan. Oleh kerana pelayan peribadi diasingkan, kumpulan anda tidak diganggu oleh pemandu rawak dan adegan anda boleh berjalan tanpa gangguan selama berjam-jam.
 
-**Structured events.** Race nights, convoy meets, emergency training exercises, licence tests, and screenshot shoots all benefit from an empty map where the owner controls what happens.
+**Acara berstruktur.** Malam perlumbaan, pertemuan konvoi, latihan kecemasan, ujian lesen dan tangkapan skrin semuanya mendapat manfaat daripada peta kosong di mana pemilik mengawal perkara yang berlaku.
 
-**Practice without pressure.** Learning to drive the heavy trucks, getting better lap times at the race track, or rehearsing a 999 medic response with a friend - all much easier in a private server than in a busy public one.
+**Berlatih tanpa tekanan.** Belajar memandu trak berat, mendapatkan masa pusingan yang lebih baik di trek perlumbaan, atau berlatih jawapan 999 perubatan dengan rakan - semuanya lebih mudah di server peribadi berbanding di tempat awam yang sibuk.
 
-**Content creation.** Streamers and video creators use private servers to film without other players disrupting shots. You can freely pose vehicles, stage scenes, and reset without griefers.
+**Penciptaan kandungan.** Penstrim dan pencipta video menggunakan pelayan peribadi untuk membuat penggambaran tanpa pemain lain mengganggu tangkapan. Anda boleh bergambar kenderaan, adegan pentas dan menetapkan semula tanpa rasa sedih.
 
-### What the server owner gets
+### Apa yang pemilik server dapat
 
-When you join your own private server, you receive owner moderation tools for that server.
+Apabila anda menyertai server peribadi anda sendiri, anda menerima alatan penyederhanaan pemilik untuk server itu.
 
-- **Moderate your guests**: remove disruptive players, respawn stuck players, and keep the session organised.
-- **Set up scenes**: move players around, stage roleplay, reset scenes, and coordinate events.
-- **Delegate help**: give trusted friends moderator tools when you need support.
-- **Manage the session**: shut down or restart the private server when your event is finished.
+- **Sederhanakan tetamu anda**: alih keluar pemain yang mengganggu, keluarkan semula pemain yang tersekat dan pastikan sesi teratur.
+- **Sediakan adegan**: gerakkan pemain, main peranan pentas, tetapkan semula adegan dan selaraskan acara.
+- **Bantuan perwakilan**: berikan rakan yang dipercayai alat penyederhana apabila anda memerlukan sokongan.
+- **Urus sesi**: tutup atau mulakan semula server peribadi apabila acara anda selesai.
 
-Private server moderation only applies to that private server. It does not grant staff powers in public servers or anyone else's private server.
+Penyederhanaan server persendirian hanya digunakan untuk server persendirian itu. Ia tidak memberikan kuasa kakitangan dalam pelayan awam atau server peribadi orang lain.
 
-### Limitations
+### Had
 
-The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explains the trade-offs. All progression is disabled:
+Sebaik sahaja anda menyertai, notis **"Selamat Datang ke Lebuhraya Pelayan Peribadi"** menerangkan pertukaran itu. Semua perkembangan dilumpuhkan:
 
-- **XP and level** don't save.
-- **Currency (BR)** changes don't persist.
-- **Badges** aren't awarded (including the 50k / 100k / 500k / 1m stud milestones).
-- **Job progression tiers** don't save.
-- **Vehicle unlocks** don't apply (you still see the same catalogue, but race-unlocked vehicles or codes-redeemed vehicles won't persist).
-- **Promo codes** redeemed here don't count.
+- **XP dan level** jangan simpan.
+- **Perubahan Mata Wang (BR)** tidak berterusan.
+- **Lencana** tidak diberikan (termasuk pencapaian 50k / 100k / 500k / 1m stud).
+- **Tingkat kemajuan kerja** jangan simpan.
+- **Buka kunci kenderaan** tidak digunakan (anda masih melihat katalog yang sama, tetapi kenderaan yang tidak dikunci perlumbaan atau kenderaan yang ditebus kod tidak akan berterusan).
+- **Kod promosi** yang ditebus di sini tidak dikira.
 
-If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
+Jika anda mahu sesi anda *mengira*, sertai ** awam server**. Pelayan peribadi adalah untuk adegan terkawal, bukan pengisaran.
 
-### Accessing private server commands
+### Mengakses perintah server peribadi
 
-Type `:cmds` in chat to open the command list available to you. The in-game list is the best source because permissions can change between updates.
+Taip `:cmds` dalam sembang untuk membuka senarai arahan yang tersedia untuk anda. Senarai dalam permainan ialah sumber terbaik kerana kebenaran boleh berubah antara kemas kini.
 
-### One thing owner tools cannot do
+### Satu perkara yang tidak boleh dilakukan oleh alat pemilik
 
-**Private server tools do not override team gates.** If a team requires a gamepass, level threshold, or group membership, you still need to meet those requirements. The tools are for moderation and event setup, not free team access.
+**Alat server persendirian tidak mengatasi gerbang pasukan.** Jika pasukan memerlukan gamepass, ambang tahap atau keahlian kumpulan, anda masih perlu memenuhi keperluan tersebut. Alat ini adalah untuk penyederhanaan dan persediaan acara, bukan akses pasukan percuma.
 
-### What happens when the game shuts down for an update?
+### Apakah yang berlaku apabila permainan ditutup untuk kemas kini?
 
-Lebuhraya uses a "soft shutdown" system so you don't lose your session. When the servers are restarting, you'll see a smooth on-screen prompt appear (other UIs fade out), and you'll be **automatically teleported to a fresh server** once the update is deployed. Your progress is saved automatically on the way out - XP, BR, levels, vehicles, housing, everything persists.
+Lebuhraya menggunakan sistem "soft shutdown" supaya anda tidak kehilangan sesi anda. Apabila pelayan dimulakan semula, anda akan melihat gesaan pada skrin yang lancar muncul (UI lain pudar), dan anda akan **diteleportasikan secara automatik ke server** yang baharu setelah kemas kini digunakan. Kemajuan anda disimpan secara automatik semasa keluar - XP, BR, tahap, kenderaan, perumahan, semuanya berterusan.
 
-You don't need to do anything - just let the teleport complete. If you're driving in convoy with friends, they'll be teleported individually (you may re-join separate servers, so regroup after).
+Anda tidak perlu melakukan apa-apa - hanya biarkan teleport selesai. Jika anda memandu dalam konvoi dengan rakan, mereka akan diteleportasikan secara individu (anda boleh menyertai semula pelayan yang berasingan, jadi kumpulkan semula selepas itu).
 
-## Where to find more
+## Di mana untuk mencari lebih banyak lagi
 
-- MYSverse community: Roblox group **1143446**
-- Game page: Lebuhraya on Roblox (Place ID 4892731894)
-- Related experiences: Bandaraya (urban counterpart), Sumaya (others in the MYSverse)
+- Komuniti MYSverse: Roblox kumpulan **1143446**
+- Halaman permainan: Lebuhraya pada Roblox (ID Tempat 4892731894)
+- Pengalaman berkaitan: Bandaraya (rakan sejawat bandar), Sumaya (yang lain dalam MYSverse)
 
-Happy driving - *selamat memandu!*
+Selamat memandu - *selamat memandu!*

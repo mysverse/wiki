@@ -8,249 +8,245 @@ needs_review: true
 ---
 # 车辆
 
-Lebuhraya has **127 stored vehicle models**, with **116 currently listed in the player spawner catalogue**. The fleet includes compact cars, SUVs, motorcycles, trucks, buses, and emergency or service variants. This page covers how to spawn them, keep them fuelled, what to do when you crash, and a sampler of what's in the garage.
+Lebuhraya 拥有 **127 个存储的车辆模型**，其中 **116 个目前列在玩家生成器目录中**。车队包括紧凑型汽车、SUV、摩托车、卡车、公共汽车以及紧急或服务车型。本页介绍了如何生成它们、如何为它们提供燃料、崩溃时该怎么做，以及车库里有什么东西的采样器。
 
-## Spawning a vehicle
+## 生成车辆
 
-Walk to a physical **vehicle spawner** in the world and use its prompt. These are the spawner pads/markers placed around the map, including Basic/Civ, Bike, Premium, Special, and team-specific spawners.
+走到世界上的物理**车辆生成器**并使用它的提示。这些是放置在地图周围的生成器垫/标记，包括基本/文明、自行车、Premium、特殊和特定于团队的生成器。
 
-::: warning
-**MyPod is not the vehicle spawner.** MyPod is the topbar music player. It can play music and auto-play when you sit in a vehicle, but it does not spawn or despawn vehicles.
-:::
+> **MyPod 不是车辆生成器。** MyPod 是顶栏音乐播放器。当您坐在车辆中时，它可以播放音乐并自动播放，但它不会生成或消失车辆。
 
-Browse the list, pick a vehicle, and click **Spawn**. The vehicle appears on an available spawner pad, already registered to your name. To drive, walk up and press **F** (keyboard), **X** (gamepad), or tap **Drive** (mobile).
+浏览列表，选择车辆，然后单击 **Spawn**。车辆出现在可用的生成器垫上，已注册到您的名字下。要驾驶，请走上并按 **F**（键盘）、**X**（游戏手柄），或点击 **驾驶**（移动设备）。
 
-### What the spawner screen shows
+### 生成器屏幕显示的内容
 
-The refreshed spawner has three main areas:
+刷新后的生成器具有三个主要区域：
 
-- **Search and filter** at the top-left, useful once your vehicle list grows.
-- **Vehicle cards** on the left. Locked cards show level/tier information.
-- **Info panel** on the right with the vehicle name, description, image, lock reason, and **Spawn** button.
+- **搜索和过滤**位于左上角，一旦您的车辆列表增加，就会很有用。
+- **车辆卡**位于左侧。锁定的卡片显示级别/等级信息。
+- **信息面板**位于右侧，包含车辆名称、描述、图像、锁定原因和**生成**按钮。
 
-After you click **Spawn**, some spawners ask you to choose an open pad and paint/colour option. If the pad is occupied, choose a different pad or wait for the other vehicle to move.
+单击 **Spawn** 后，一些生成器会要求您选择开放垫和油漆/颜色选项。如果停车台已被占用，请选择其他停车台或等待其他车辆移动。
 
-### Spawner types
+### 生成器类型
 
-Different physical spawners show different vehicle categories:
+不同的物理生成器显示不同的车辆类别：
 
-| Spawner | Typical contents |
+|产卵者 |典型内容 |
 |---|---|
-| **Basic / Civ** | Starter and standard civilian cars |
-| **Bike** | Motorcycles and scooters |
-| **Premium / Prem** | Premium or higher-level civilian cars |
-| **Special** | Code/event/special vehicles |
-| **Team spawners** | Vehicles for your current team, such as Taxi, Bomba, KKN, Police, Logistics |
+| **基础/文明** |入门级和标准型民用车|
+| **自行车** |摩托车和踏板车|
+| **Premium / Prem** | Premium及以上级别民用车 |
+| **特别** |代码/活动/特种车辆|
+| **团队生成器** |您当前团队的车辆，例如出租车、Bomba、KKN、警察、物流 |
 
-If you are on a job team, civilian spawners may block access with a warning. Switch to Visitors or the appropriate team/spawner type.
+如果您在工作团队中，平民产卵者可能会阻止访问并发出警告。切换到Visitors或适当的团队/生成器类型。
 
-### Ownership
+### 所有权
 
-- When you spawn a vehicle, you become its owner. Your name is on the driver seat.
-- Other players **cannot enter your driver seat** unless you unlock it.
-- Passengers can always enter passenger seats.
-- When you leave the server, your vehicle disappears.
-- Only one owned vehicle is active per player. Spawning a new vehicle from a vehicle spawner cleans up your previous one.
+- 当你生成一辆车时，你就成为了它的主人。驾驶座上有你的名字。
+- 其他玩家**无法进入你的驾驶座**，除非你解锁。
+- 乘客可以随时进入乘客座位。
+- 当你离开server时，你的车辆就会消失。
+- 每个玩家只有一辆拥有的车辆处于活动状态。从车辆生成器生成一辆新车辆会清理你之前的车辆。
 
-## What can I drive at level 1?
+## 在 1 级我可以驾驶什么？
 
-You have access to **27 vehicles** from the start - enough to find something you like. The cheapest is the **Handai EX5** motorcycle at BR 1050. Premium / supercar starters include the NSN GT-R (BR 3,750), Bagaini Chiron (BR 3,000), and McLari 750 (BR 3,000) - cheaper than they would be in reality, but most are "Special" category (not upgradeable). The more common Level 1 civilian cars sit around BR 1,800–6,000.
+您从一开始就可以使用 **27 辆车** - 足以找到您喜欢的东西。最便宜的是**Handai EX5**摩托车，BR 1050。Premium/超级跑车入门包括NSN GT-R（BR 3,750）、Bagaini Chiron（BR 3,000）和McLari 750 (BR 3,000) - 比实际价格便宜，但大多数是“特殊”类别（不可升级）。更常见的 1 级民用汽车大约有 BR 1,800-6,000 辆。
 
-## Pricing and unlocks
+## 定价和解锁
 
-Vehicle prices scale loosely with level. Rough guide:
+车辆价格与水平的关系松散。粗略指南：
 
-| Level | Typical price range |
+|水平|典型价格范围 |
 |---|---|
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
-| L125–150+ | BR 17,000 – 25,000 (Prem/Supercar territory) |
+| L125–150+ | BR 17,000 – 25,000（高级/超级跑车领域）|
 
-Some team-only vehicles do not have a public price because they unlock as you rank up in the right career branch. About **55 of the 116 spawner-listed vehicles** are career-locked.
+一些仅限团队使用的车辆没有公开价格，因为它们会随着您在正确的职业分支中排名而解锁。 **在 116 辆刷怪者列表中的车辆中，大约有 55 辆**是职业锁定的。
 
-About **28 vehicles** are sold through the **Dealership** view in the vehicle spawner - these are the standard civilian choices from Myvi to Mustang.
+大约 **28 辆车**通过车辆生成器中的 **经销商** 视图出售 - 这些是从 Myvi 到野马的标准民用选择。
 
-### Locked-card meanings
+### 锁定卡的含义
 
-| Lock text | Meaning |
+|锁定文字|意义|
 |---|---|
-| **Level X** | Reach that player level first |
-| **Tier X** | Rank up the matching career branch |
-| **Vehicle locked** | You do not own the special/gamepass/code vehicle |
-| Missing from list | Wrong spawner type, wrong team, hidden vehicle, or requirement not met |
+| **X级** |首先达到该玩家等级 |
+| **X 级** |提升匹配职业分支 |
+| **车辆已锁** |您没有特殊/gamepass/代码车辆 |
+|列表中缺失 |错误的生成器类型、错误的团队、隐藏的车辆或未满足要求 |
 
-## Vehicle categories
+## 车辆类别
 
-Most of the fleet is loosely parodied from real Malaysian and global brands. If you know a real car, there's probably a stand-in here.
+大部分车队都是对真正的马来西亚和全球品牌的模仿。如果你认识一辆真正的汽车，这里可能有一个替身。
 
-| Category | Examples |
+|类别 |示例 |
 |---|---|
-| Compact cars | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
-| Sedans / saloons | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
-| SUVs | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
-| Performance / sports | NSN GT-R, NSN R34 Skyline, Tayoti Supra Mk.5, Masubi Lancer Evo X, Felari 458 Italia, Lampugini Hulakan, Bagaini Chiron |
-| Motorcycles | Handai EX5, Handai CBR1000RR, Kasaki 1400GTR, BMY R1200RT, Vespi |
-| Buses / MPVs | Tayoti Hiace variants, Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Vellfire |
-| Trucks / cargo | Rolvo FM, Rolvo FM Chassis, Rolvo FM RORO Truck, Sanica P310, Sanica P360 |
-| Taxis | Perosatu Bezza Taxi, Protan Saga Taxi, Protan Waja Taxi, Protan Preve Taxi |
-| Emergency - Bomba | Masubi Triton Emergency/Utility, Merze Atego LFRT, Sanica P310 FRT, Sanica P360 Tanker, Sanica 94D LFRT, Tayoti Hiace MTV EMRS |
-| Emergency - Medical | Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV |
-| Police | Handai Civic Polis/HPV Polis variants, Masubi Lancer HPV Polis, NSN etc. Polis Escort, Kasaki Ninja Polis, BMY M5 CS Polis variants |
-| Tow / workshop | iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda, Renjer Loader 2012 |
-| Electric | Besla Y, MYD Atto III, Ionic I, Ionic V, CITO Ami |
+|紧凑型汽车| Protan Saga、Perosatu Myvi、Perosatu Bezza、Protan 角色、Perosatu Alza Plus |
+|轿车/轿车| Protan Preve、Protan Inspira、Protan S70、Tayoti 凯美瑞、Merze C300 |
+| SUV | Protan X50、Protan X70、Tayoti Hilux、Masubi 欧蓝德、MZ CX-5、Rolvo XC40/XC90 |
+|性能/运动 | NSN GT-R、NSN R34 Skyline、Tayoti Supra Mk.5、Masubi Lancer Evo X、Felari 458 Italia、Lampugini Hulakan、Bagaini Chiron |
+|摩托车 | Handai EX5、Handai CBR1000RR、卡崎 1400GTR、BMY R1200RT、Vespi |
+|客车/MPV | Tayoti Hiace 变体、Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Vellfire |
+|卡车/货物| Rolvo FM、Rolvo FM 底盘、Rolvo FM 滚装车、Sanica P310、Sanica P360 |
+|出租车 | Perosatu Bezza 出租车、Protan Saga 出租车、Protan Waja 出租车、Protan Preve 出租车 |
+|紧急情况 - Bomba | Masubi Triton 紧急/实用、Merze Atego LFRT、Sanica P310 FRT、Sanica P360 Tanker、Sanica 94D LFRT、Tayoti Hiace MTV EMRS |
+|紧急 - 医疗 | Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV |
+|警察 | Handai Civic Polis/HPV Polis 变种、Masubi Lancer HPV Polis、NSN 等Polis Escort、Kasaki Ninja Polis、BMY M5 CS Polis 变种 |
+|拖车/车间| iZu Tow Truck KEMRonda、iZu 拖车床KEMRonda、Renjer 装载机 2012 |
+|电动| Besla Y、MYD 阿托 III、Ionic I、Ionic V、CITO 阿米 |
 
-Most team-specific vehicles (Bomba, KKN, Police) are unlocked through your career progression or team gamepass.
+大多数团队专用车辆（Bomba、KKN、警察）可通过您的职业发展或团队gamepass 来解锁。
 
-## Fuel
+## 燃料
 
-Every vehicle runs on one of three fuel types.
+每辆车都使用三种燃料之一。
 
-| Fuel | Price per litre |
+|燃料 |每升价格|
 |---|---|
-| **Electric** | 1 BR |
-| **Petrol** | 2 BR |
-| **Diesel** | 3 BR |
+| **电动** | 1 BR |
+| **汽油** | 2 BR |
+| **柴油** | 3 BR |
 
-The default tank is **40 litres**. A JerryCan carries 10 litres.
+默认水箱为 **40 升**。一个 JerryCan 可容纳 10 升。
 
-### Refuelling
+### 加油
 
-Pull up next to a pump, and an on-screen prompt will appear to "Pump" or "Charge." The prompt only appears for the fuel type your vehicle uses - if you pull up to a diesel pump in a petrol car, the game tells you "this is the wrong type of pump, find a Petrol Pump." The same applies to JerryCans - pick the right fuel type before approaching the pump.
+在泵旁边拉起，屏幕上会出现“泵”或“充电”提示。该提示仅针对您的车辆使用的燃油类型出现 - 如果您将车停在汽油车的柴油泵前，游戏会告诉您“这是错误的泵类型，请找到汽油泵。”这同样适用于罐头罐 - 在接近泵之前选择正确的燃料类型。
 
-::: warning Fuel is currently free
-The prices above are shown for reference, but refuelling does not currently deduct BR. Check the in-game prompt after economy updates.
-:::
+> **目前加油免费。** 以上价格仅供参考，但加油目前不扣除BR。经济更新后检查游戏内提示。
 
-### Where to refuel
+### 哪里加油
 
-- **PETROMAS Petrol Station** - Northbound and Southbound stations on the highway
-- **Radtrol Petrol Station** - In Bandar Seri Putra
-- **Kompleks Petroliam dan Gas Radtrol** - Large refuelling complex near Jersik
+- **PETROMAS 加油站** - 高速公路上的北行和南行车站
+- **Radtrol 加油站** - 在Bandar Seri Putra
+- **Kompleks Petroliam dan Gas Radtrol** - Jersik 附近的大型加油站
 
-### Running out
+### 快用完了
 
-If your tank hits zero, the engine cuts out. Options:
+如果你的油箱为零，发动机就会熄火。选项：
 
-1. Buy a JerryCan at the **Jerrycan Shop**, fill it at a station, and refuel manually.
-2. Return to a physical vehicle spawner and spawn a replacement vehicle.
-3. Ask a KEMRonda player for a tow.
+1. 在**Jerrycan Shop**购买JerryCan，在加油站加油，然后手动加油。
+2. 返回物理车辆生成器并生成替换车辆。
+3. 向KEMRonda玩家请求拖车。
 
-## Spawner troubleshooting
+## 生成器故障排除
 
-### I see "You cannot access this spawner while working"
+### 我看到“工作时无法访问此生成器”
 
-You are on a job team and using a civilian spawner. Switch to **Visitors** or use your team spawner.
+您在一个工作团队中并使用民用产卵器。切换到 **Visitors** 或使用您的团队生成器。
 
-### I see "You must be on the X team"
+### 我看到“你一定是 X 队的成员”
 
-That spawner is team-specific. Join the named team first, including any level, gamepass, or group requirement.
+该生成器是特定于团队的。首先加入指定的团队，包括任何级别、gamepass 或团队要求。
 
-### The spawner opens but the vehicle will not spawn
+### 生成器打开，但车辆不会生成
 
-- Pick a different pad; the first one may be occupied.
-- Check that the card says **SPAWN**, not **LOCKED**.
-- Move closer to the spawner if the prompt disappeared.
-- If the UI got stuck behind another menu, close all menus with Esc/Backspace and reopen the spawner.
+- 选择不同的垫子；第一个可能已被占用。
+- 检查卡片上是否写着“**产卵**”，而不是“**锁定**”。
+- 如果提示消失，请靠近生成器。
+- 如果 UI 卡在另一个菜单后面，请使用 Esc/Backspace 关闭所有菜单，然后重新打开生成器。
 
-### A vehicle is too bright or lights are stuck on
+### 车辆太亮或灯亮着
 
-Some vehicles spawn with headlights/ELS or strong lighting effects depending on time of day and vehicle type. Toggle lights off from the vehicle controls, or respawn the vehicle if a scripted state gets stuck.
+有些车辆生成时带有头灯/ELS或强烈的照明效果，具体取决于一天中的时间和车辆类型。通过车辆控制开关关闭灯光，或者在脚本状态卡住时重生车辆。
 
-## Crashing and repairs
+## 崩溃和修复
 
-Vehicles take damage from collisions. A heavily-damaged car will start to smoke, lose performance, or stop entirely.
+车辆因碰撞而受损。严重损坏的汽车会开始冒烟、失去性能或完全停止。
 
-Emergency and law-enforcement vehicles are tougher than ordinary civilian cars, but every vehicle can be damaged by hard collisions. If smoke, weak performance, or stalled movement appears, repair or replace the vehicle before continuing.
+应急和执法车辆比普通民用汽车更坚固，但每辆车都可能因剧烈碰撞而损坏。如果出现冒烟、性能不佳或运动停滞的情况，请先修理或更换车辆，然后再继续。
 
-### Your options
+### 你的选择
 
-- **Drive into a repair zone at any petrol station.** There are **10 repair zones** around the map. Stop inside the zone and confirm the prompt to repair gradually.
-- **Use a Toolkit** for field repairs. Toolkits from the Jerrycan Shop are handy when you are stranded and cannot reach a repair station.
-- **Call a tow**. KEMRonda players with a tow truck can haul you to a workshop.
-- **Spawn a replacement**. If you can reach a vehicle spawner, spawning another vehicle clears your previous owned vehicle and gives you a fresh one.
+- **开车进入任何加油站的维修区。** 地图周围有 **10 个维修区**。停在区域内并确认提示逐步修复。
+- **使用工具包**进行现场维修。当您陷入困境且无法到达维修站时，Jerrycan Shop 的工具包会非常方便。
+- **叫拖车**。 KEMRonda 玩家可以用拖车将你拖到车间。
+- **产生替代品**。如果您可以到达车辆生成器，则生成另一辆车会清除您以前拥有的车辆并为您提供一辆新车辆。
 
-If you're new and crashes feel intimidating, you'll see a **Crash Tutorial** the first time it happens - that's your in-game primer. Drive carefully, use your handbrake (**Space**), and take Malaysian highway speeds with a grain of salt.
+如果您是新手并且对崩溃感到恐惧，那么您​​会在第一次发生崩溃时看到**崩溃教程** - 这是您的游戏内入门知识。小心驾驶，使用手刹（**空格**），对马来西亚高速公路的速度持保留态度。
 
-## Customisation at Gravstone Workshop
+## Gravstone Workshop 定制
 
-**Gravstone Workshop** in Bandar Seri Putra is the game's paint and visual customisation shop. It is **not** a repair centre. Drive your vehicle into the workshop's interior zone and the workshop menu appears with paint and body options.
+Bandar Seri Putra中的**Gravstone Workshop**是游戏的绘画和视觉定制商店。它**不是**维修中心。将您的车辆驾驶到车间的内部区域，车间菜单就会出现，其中包含油漆和车身选项。
 
-- **Access requires the Workshop gamepass.** If you don't own it, the game prompts you to purchase when you open a paint option.
-- **Paint zones** you can recolour include the body, windows, tyres, and rims - each picks up a separate colour.
-- **Colour picker**: drag the hue, saturation, and value; the car updates in real-time as you adjust. Click Confirm to apply; Cancel to discard.
+- **访问需要创意工坊gamepass。**如果您没有它，游戏会在您打开绘画选项时提示您购买。
+- **油漆区域**您可以重新着色，包括车身、车窗、轮胎和轮辋 - 每个区域都会选择一种单独的颜色。
+- **颜色选择器**：拖动色调、饱和度和明度；当您调整时，汽车会实时更新。点击确认即可申请；取消以丢弃。
 
-Paints saved here are applied to your currently-spawned vehicle for the duration of the session. Unlockable paints (chrome, gradient, matte - see *Passes and Boosts*) are applied through a separate menu.
+此处保存的油漆将在会话期间应用于您当前生成的车辆。可解锁的涂料（镀铬、渐变、哑光 - 请参阅*通道和增强*）通过单独的菜单应用。
 
-## Customisation
+## 定制
 
-Vehicle customisation depends on the specific model. Common options include:
+车辆定制取决于具体车型。常见选项包括：
 
-- Paint colour (via Gravstone Workshop - see above)
-- Body accessories
-- Number plates (see below)
+- 油漆颜色（通过Gravstone Workshop - 见上文）
+- 车身配件
+- 车牌号（见下文）
 
-Consult the vehicle's menu in-game (some cars have a customise panel, others don't). Team-issue vehicles (Police, Bomba) are typically locked to team livery.
+在游戏中查阅车辆的菜单（有些车辆有自定义面板，有些则没有）。团队配发车辆（警用车辆、Bomba）通常会锁定团队制服。
 
-## Number plates
+## 车牌号
 
-When a vehicle spawns, its registration plate is assigned based on the region of the spawner, following the actual Malaysian state-prefix system:
+当车辆生成时，其车牌会根据生成器所在的区域进行分配，遵循实际的马来西亚州前缀系统：
 
-- **Bandar Seri Putra** spawners issue **Selangor plates** - `B%` prefix (e.g. BJH 1234).
-- **Kampung Merbang** and **Jersik** spawners issue **Negeri Sembilan plates** - `N%` prefix.
-- Spawners along the middle of the highway (between regions) randomly pick **50/50 between B and N** each time you spawn.
+- **Bandar Seri Putra** 生成器问题 **雪兰莪板块** - `B%` 前缀（例如 BJH 1234）。
+- **Kampung Merbang** 和 **Jersik** 生成器问题 **森美兰板块** - `N%` 前缀。
+- 每次生成时，沿着高速公路中间（区域之间）的生成器都会在 B 和 N** 之间随机选择 **50/50。
 
-So the car you just spawned on a rest-stop road might be a B plate this time and an N plate the next - a small detail that Malaysian players immediately notice.
+因此，您刚刚在休息站道路上生成的汽车可能这次是 B 牌，下一次是 N 牌 - 这是马来西亚玩家立即注意到的一个小细节。
 
-Some letters are excluded from ordinary plates to match Malaysian-style plate rules and avoid confusion.
+普通车牌中排除了一些字母，以符合马来西亚风格的车牌规则并避免混淆。
 
-### Military plates (rare - special vehicles)
+### 军用车牌（罕见 - 特种车辆）
 
-Some military / armed forces vehicles carry authentic Malaysian service plates:
+一些军用/武装部队车辆带有正宗的马来西亚服务车牌：
 
-You may see special military-style plates on event convoys, parades, and staff-run scenes. They are not typical player cars.
+您可能会在活动车队、游行和工作人员运行的场景中看到特殊的军事风格的车牌。它们不是典型的玩家汽车。
 
-## Emergency lights (ELS)
+## 应急灯 (ELS)
 
-All emergency-team vehicles (Bomba, Polis Trafik, Undercover Police, Kesihatan, KEMRonda) carry a lightbar that uses the game's ELS (Emergency Lighting System). Toggling ELS:
+所有应急小组车辆（Bomba、Polis Trafik、Undercover Police、Kesihatan、KEMRonda）都带有使用游戏的ELS (Emergency Lighting System) 的灯条。切换ELS：
 
-- Plays one of **three flash patterns** - fast alternating, slow alternating, and rapid complex.
-- Is replicated to all players in the server so everyone sees your lights.
-- Helps other players recognise an active emergency response.
+- 播放**三种闪光模式**之一 - 快速交替、慢速交替和快速复杂。
+- 复制到server中的所有玩家，这样每个人都能看到你的灯光。
+- 帮助其他玩家认识到积极的紧急响应。
 
-Use ELS only when responding to an incident. Cruising with lights on is a community etiquette no-no.
+仅在响应事件时使用ELS。开灯巡航是社区礼仪的禁忌。
 
-## Advanced vehicle controls
+## 先进的车辆控制
 
-Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
+六辆专用车辆有一个**牵引/绞车面板** - 当您与机舱内的控制面板交互时，会出现适合移动设备的景观HUD：
 
-| Vehicle | Team | Panel |
+|车辆 |团队|面板|
 |---|---|---|
-| iZu Tow Truck KEMRonda | KEMRonda | Tow Boom Controls |
-| iZu Tow Bed KEMRonda | KEMRonda | Flatbed Controls |
-| Tayoti Hilux KKN RRV | Kesihatan | Rescue Winch Controls |
-| Merze Atego LFRT Bomba | Bomba | Ladder Winch Controls |
-| Sanica P310 FRT Bomba | Bomba | Ladder Winch Controls |
-| Sanica 94D LFRT Bomba | Bomba | Ladder Winch Controls |
+| iZu Tow Truck KEMRonda | KEMRonda |拖臂控制|
+| iZu 拖床KEMRonda | KEMRonda |平板控制|
+| Tayoti Hilux KKN RRV | Kesihatan |救援绞车控制|
+| Merze Atego LFRT Bomba | Bomba |梯子绞车控制|
+| Sanica P310 FRT Bomba | Bomba |梯子绞车控制|
+| Sanica 94D LFRT Bomba | Bomba |梯子绞车控制|
 
-**Keyboard shortcuts** (once the panel is open):
+**键盘快捷键**（面板打开后）：
 
-| Key | Action |
+|关键|行动|
 |---|---|
-| **1** | Toggle Attach mode for Winch 1 (click a vehicle/part to target it) |
-| **2** | Toggle Attach mode for Winch 2 (flatbeds/wreckers with a second winch) |
-| **X** | Cancel attach mode |
-| **Z** | Weld (fuses the attached vehicle to yours) |
-| **V** | Release / unweld |
-| **[** | Lower bed / ramp |
-| **]** | Raise bed / ramp |
+| **1** |切换绞车 1 的连接模式（单击车辆/零件以将其定位）|
+| **2** |切换绞车 2 的连接模式（带有第二个绞车的平板车/清障车）|
+| **X** |取消附加模式 |
+| **Z** |焊接（将附加车辆熔合到您的车辆上）|
+| **V** |释放/拆焊|
+| **[** |下层床/坡道|
+| **]** |升高床/坡道|
 
-**Access rules**: You can use a panel if you own the vehicle or you are on the matching team: KEMRonda, Bomba, or Kesihatan. Otherwise the game shows an access warning.
+**访问规则**：如果您拥有车辆或属于匹配团队，则可以使用面板：KEMRonda、Bomba 或 Kesihatan。否则游戏会显示访问警告。
 
-The controls are shared across all six vehicles, so once you learn one you've learnt them all.
+所有六辆车都共享这些控件，因此一旦您学会了一辆，您就已经学会了所有这些。
 
-## Next steps
+## 后续步骤
 
-- [Economy and XP](/lebuhraya/economy) - Fuel prices in context
-- [World and map](/lebuhraya/map) - Where to find every station
-- [Teams and careers](/lebuhraya/teams) - Vehicles unlocked by team tier
+- [经济和XP](/zh/lebuhraya/economy) - 背景下的燃油价格
+- [世界和地图](/zh/lebuhraya/map) - 在哪里可以找到每个车站
+- [团队和职业](/zh/lebuhraya/teams) - 按团队等级解锁的车辆

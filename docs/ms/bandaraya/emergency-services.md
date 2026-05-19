@@ -33,7 +33,7 @@ Kumpulan: 1182710, 3048630. Mana-mana pangkat.
 
 - Meronda KL dalam unit bertanda (Civic MPV, Inspira, X70, Hilux).
 - Menjawab panggilan 999 (kebakaran, jenayah, kemalangan).
-- Menahan dan menangkap suspek. Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law).
+- Menahan dan menangkap suspek. Lihat [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law).
 - Mengeluarkan saman untuk kesalahan lalu lintas.
 - Gunakan **apl tablet MDT** untuk memeriksa BG, menjalankan BOLO, memberi amaran kepada pegawai lain.
 - Bertugas di **IPD Dang Wangi** - balai polis utama (CID, JSPT, Bilik Ops, Armori).
@@ -83,7 +83,7 @@ POLIS boleh menggunakan helikopter balai untuk rondaan udara. Buka pemilih kende
 - Ikuti protokol roleplay - perkenalkan diri, nyatakan tuduhan, beri suspek peluang untuk mematuhi.
 - Gunakan MDT tablet untuk BOLO suspek; pegawai lain akan mendapat lencana + bunyi + amaran toast.
 
-Lihat [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) untuk aliran tangkapan penuh.
+Lihat [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law) untuk aliran tangkapan penuh.
 
 ---
 
@@ -154,7 +154,7 @@ Kumpulan: 5760632. Mana-mana pangkat.
 | **KKM Placeables** | Placeables tempat kejadian perubatan |
 | **Traffic Wand** | Di tempat kejadian |
 | **Carry** | Memindahkan pemain yang cedera |
-| **Kit perubatan lengkap** (dari armori) | Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health#medical-kit-items) |
+| **Kit perubatan lengkap** (dari armori) | Lihat [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health#medical-kit-items) |
 
 ### Kenderaan
 
@@ -167,7 +167,7 @@ KKM mempunyai ambulans, RRV (Kenderaan Tindakan Cepat), dan utiliti. Termasuk KK
 3. Gunakan **defib** jika mereka flatline.
 4. Keadaan mereka pulih dari masa ke masa.
 
-Lihat [Pertempuran & Kesihatan](/bandaraya/combat-and-health) untuk pecahan kit penuh.
+Lihat [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health) untuk pecahan kit penuh.
 
 ---
 
@@ -260,16 +260,16 @@ Perkhidmatan kecemasan sering bekerjasama:
 ## Petua & jerangkap
 
 - **Main mengikut pasukan anda.** POLIS tidak menembak dahulu; BOMBA tidak menangkap; KKM tidak terlibat dengan suspek.
-- **Menjadi rogue = ban teruk.** Pada mana-mana pasukan perkhidmatan awam, jenayah = tindakan moderasi serta-merta. Lihat [Peraturan](/bandaraya/rules#severe-violations).
-- **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger - semua alat percuma. Lihat [Tablet](/bandaraya/tablet).
-- **Armour = bahagian Armor.** Kenderaan dengan bahagian `Armor` di dalamnya adalah kalis peluru (cth. AV4). Lihat [Kenderaan](/bandaraya/vehicles#bulletproofing).
+- **Menjadi rogue = ban teruk.** Pada mana-mana pasukan perkhidmatan awam, jenayah = tindakan moderasi serta-merta. Lihat [Peraturan](/ms/bandaraya/rules#severe-violations).
+- **Gunakan tablet anda.** MDT, MyEmergency, Pengurusan Kenderaan, MyTow, KKM Logger - semua alat percuma. Lihat [Tablet](/ms/bandaraya/tablet).
+- **Armour = bahagian Armor.** Kenderaan dengan bahagian `Armor` di dalamnya adalah kalis peluru (cth. AV4). Lihat [Kenderaan](/ms/bandaraya/vehicles#bulletproofing).
 - **Spawner adalah team-gated.** Jika pasukan anda tidak boleh mengakses spawner, UI tidak akan muncul.
 
 ## Lihat juga
 
-- [Tangkapan & Undang-Undang](/bandaraya/arrest-and-law) - aliran tangkapan POLIS
-- [Pertempuran & Kesihatan](/bandaraya/combat-and-health) - senjata, perisai, kecederaan, kit perubatan
-- [Tablet](/bandaraya/tablet) - MDT, MyEmergency, KKM Logger
-- [Kenderaan](/bandaraya/vehicles) - armada kecemasan
-- [Peta](/bandaraya/locations) - IPD Dang Wangi, balai BOMBA, klinik KKM, Kem Wardieburn
-- [Pasukan](/bandaraya/teams) - keperluan akses
+- [Tangkapan & Undang-Undang](/ms/bandaraya/arrest-and-law) - aliran tangkapan POLIS
+- [Pertempuran & Kesihatan](/ms/bandaraya/combat-and-health) - senjata, perisai, kecederaan, kit perubatan
+- [Tablet](/ms/bandaraya/tablet) - MDT, MyEmergency, KKM Logger
+- [Kenderaan](/ms/bandaraya/vehicles) - armada kecemasan
+- [Peta](/ms/bandaraya/locations) - IPD Dang Wangi, balai BOMBA, klinik KKM, Kem Wardieburn
+- [Pasukan](/ms/bandaraya/teams) - keperluan akses

@@ -50,7 +50,7 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 ## 游戏通行证 vs. developer products
 
 - **Gamepass** 是一次性永久解锁。
-- **Developer products**(参见 [经济](/bandaraya/economy#developer-products-buy-br-with-robux))是可消耗的 BR 充值。
+- **Developer products**(参见 [经济](/zh/bandaraya/economy#developer-products-buy-br-with-robux))是可消耗的 BR 充值。
 
 若你只是想一次性买某辆贵车,BR developer product 更便宜。若你要的是能在每次游玩中都有回报的福利,那就买 gamepass。
 
@@ -63,7 +63,7 @@ Gamepass 是一次性 Robux 购买,可在你的账户上永久解锁某项功能
 
 ## 另见
 
-- [经济](/bandaraya/economy) - BR 经济完整说明
-- [队伍](/bandaraya/teams#special-teams) - HCC 与 Taxi Services 队伍详情
-- [工作](/bandaraya/jobs) - POS、Taxi、Tow
-- [战斗与健康](/bandaraya/combat-and-health) - 武器
+- [经济](/zh/bandaraya/economy) - BR 经济完整说明
+- [队伍](/zh/bandaraya/teams#special-teams) - HCC 与 Taxi Services 队伍详情
+- [工作](/zh/bandaraya/jobs) - POS、Taxi、Tow
+- [战斗与健康](/zh/bandaraya/combat-and-health) - 武器

@@ -33,7 +33,7 @@ Setiap pasukan mempunyai set spawner tersendiri. Anda hanya boleh menggunakan ya
 5. **Space / Enter** untuk spawn. **Escape** untuk tutup. Kekunci **A / D** (atau anak panah) menavigasi senarai kenderaan, dengan pintasan papan kekunci dipaparkan sebagai baris petunjuk di bawah baris navigasi.
 6. Kenderaan anda akan muncul di pad spawn. Duduk di tempat pemandu untuk memandu.
 
-Jika spawner tidak membenarkan anda melaluinya, kemungkinan anda tidak memenuhi syarat pasukan. Lihat [Pasukan](/bandaraya/teams).
+Jika spawner tidak membenarkan anda melaluinya, kemungkinan anda tidak memenuhi syarat pasukan. Lihat [Pasukan](/ms/bandaraya/teams).
 
 ## Memandu
 
@@ -96,7 +96,7 @@ Apabila anda berlanggar:
 
 ## Pendaftaran kenderaan
 
-Setiap kenderaan yang di-spawn menerima plat. Anda boleh mencari plat dalam apl tablet **Vehicle Management** (lihat [Tablet](/bandaraya/tablet)).
+Setiap kenderaan yang di-spawn menerima plat. Anda boleh mencari plat dalam apl tablet **Vehicle Management** (lihat [Tablet](/ms/bandaraya/tablet)).
 
 Pendaftaran pemilikan adalah automatik - plat terikat dengan orang yang men-spawn kereta. POLIS menggunakannya untuk sekatan jalan.
 
@@ -149,12 +149,12 @@ Jangan langgar helikopter ke bangunan.
 - **Sesetengah kenderaan mempunyai body children khusus pasukan** (lampu, siren, undur, bahaya, hud drag racing). Bukan setiap kereta ada semuanya. Jika butang tidak berfungsi, kenderaan itu tidak menyokongnya.
 - **Stand bawah berfungsi pada motosikal.** Turun dan motor akan memarkir dirinya dengan betul (itu pepijat lama, kini telah dibaiki).
 - **Streaming dinyahaktifkan untuk kenderaan.** Itulah sebabnya ia sentiasa dirender dari jauh - tetapi ia memerlukan sedikit prestasi tambahan.
-- **Menyalahgunakan kenderaan untuk mengganggu** (glitch kereta pemain lain, melanggar orang awam semasa spawn) adalah kesalahan yang boleh dikenakan larangan. Lihat [Peraturan](/bandaraya/rules).
+- **Menyalahgunakan kenderaan untuk mengganggu** (glitch kereta pemain lain, melanggar orang awam semasa spawn) adalah kesalahan yang boleh dikenakan larangan. Lihat [Peraturan](/ms/bandaraya/rules).
 
 ## Lihat juga
 
-- [Ekonomi](/bandaraya/economy) - harga pameran, kos bahan api
-- [Pekerjaan](/bandaraya/jobs) - Pemandu Teksi, Tunda, Bas
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - akses kenderaan POLIS / BOMBA / MAF
-- [Peta](/bandaraya/locations) - tempat mencari bahan api, mengecas, pameran
-- [Tablet](/bandaraya/tablet) - apl Vehicle Management
+- [Ekonomi](/ms/bandaraya/economy) - harga pameran, kos bahan api
+- [Pekerjaan](/ms/bandaraya/jobs) - Pemandu Teksi, Tunda, Bas
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - akses kenderaan POLIS / BOMBA / MAF
+- [Peta](/ms/bandaraya/locations) - tempat mencari bahan api, mengecas, pameran
+- [Tablet](/ms/bandaraya/tablet) - apl Vehicle Management

@@ -52,7 +52,7 @@ Pemain baru muncul **pasif secara lalai** - anda kebal sehingga anda sengaja mem
 - Anda memegang alat jenayah (jatuhkan dahulu).
 - Anda sedang dikehendaki (tunggu kemerosotan 5 minit).
 - Anda seorang pegawai POLIS (polis tidak pernah pasif - ia satu sifat pasukan).
-- Anda berada dalam **kunci pasif** selepas nahas/melaju/jenayah baru-baru ini (tempoh berskala dengan tahap bintang - lihat [Jenayah dan Undang-undang](/sumaya/crime-and-law)).
+- Anda berada dalam **kunci pasif** selepas nahas/melaju/jenayah baru-baru ini (tempoh berskala dengan tahap bintang - lihat [Jenayah dan Undang-undang](/ms/sumaya/crime-and-law)).
 
 ### Toggle perlanggaran untuk lalu menerusi parking
 
@@ -206,6 +206,6 @@ Rumah anda mempunyai lampu dan pintu yang boleh ditogol. Biarkan lampu mati untu
 
 ## Apa seterusnya?
 
-- [Telefon dan UI](/sumaya/phone) untuk maklumat lanjut tentang setiap aplikasi telefon.
-- [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk butiran menyerah diri, kemerosotan, dan kunci pasif.
-- [Kemajuan](/sumaya/progression) untuk matematik XP di sebalik boost Kesihatan.
+- [Telefon dan UI](/ms/sumaya/phone) untuk maklumat lanjut tentang setiap aplikasi telefon.
+- [Jenayah dan Undang-undang](/ms/sumaya/crime-and-law) untuk butiran menyerah diri, kemerosotan, dan kunci pasif.
+- [Kemajuan](/ms/sumaya/progression) untuk matematik XP di sebalik boost Kesihatan.

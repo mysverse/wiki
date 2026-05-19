@@ -146,7 +146,7 @@ Sumaya 拥有一个 **12 个任务的探索链**，引导你了解游戏的核�
 
 游戏会自动为需要特定位置的任务步骤设置小地图路径点：
 
-- "Spawn a vehicle" - 指向最近的车辆生成器。
+- "生成一辆车" - 指向最近的车辆生成器。
 - "Buy something" - 指向最近的商店。
 - "Clock in" - 指向最近的职业站点。
 - "Start fishing specifically" - 指向钓鱼码头。
@@ -169,6 +169,6 @@ Sumaya 拥有一个 **12 个任务的探索链**，引导你了解游戏的核�
 
 ## 接下来呢？
 
-- [Getting Started](/sumaya/get-started) 了解其余的入门指南。
-- [Phone and UI](/sumaya/phone) 了解 Quest 应用界面。
-- [Progression](/sumaya/progression) 了解 XP 如何转换为等级。
+- [Getting Started](/zh/sumaya/get-started) 了解其余的入门指南。
+- [Phone and UI](/zh/sumaya/phone) 了解 Quest 应用界面。
+- [进度](/zh/sumaya/progression) 了解 XP 如何转换为等级。

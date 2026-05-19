@@ -10,306 +10,306 @@ needs_review: true
 ---
 # வேலைகள்
 
-Every job in Lebuhraya belongs to a team (see [Teams and careers](/lebuhraya/teams)). This page explains what you actually **do** on each job, how to start it, typical rewards, and where the job takes place.
+Lebuhraya இல் உள்ள ஒவ்வொரு வேலையும் ஒரு குழுவிற்கு சொந்தமானது (பார்க்க [அணிகள் மற்றும் தொழில்](/ta/lebuhraya/teams)). ஒவ்வொரு வேலையிலும் நீங்கள் உண்மையில் என்ன **செய்கிறீர்கள்**, அதை எவ்வாறு தொடங்குவது, வழக்கமான வெகுமதிகள் மற்றும் வேலை எங்கு நடைபெறுகிறது என்பதை இந்தப் பக்கம் விளக்குகிறது.
 
-Jobs are grouped by the **agency** that organises them.
-
----
-
-## Before you start a job
-
-Most jobs follow the same basic pattern:
-
-1. Join the correct team from **Main Menu -> Teams**.
-2. Spawn a suitable team or civilian vehicle.
-3. Equip the tool or open the job menu if the job provides one.
-4. Follow the waypoint, prompt, or task panel.
-5. Complete the task to earn XP, job progress, challenge progress, and sometimes BR.
-
-Common blockers:
-
-- **Wrong team**: the prompt appears but refuses to start, or the team vehicle is missing.
-- **Wrong vehicle/spawner**: team vehicles only appear in matching spawners.
-- **Task already active**: finish or cancel the current task before starting another.
-- **Private server/test server**: useful for practice, but progression may not save.
-
-Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> More -> Jobs** to check branch tier progress.
+வேலைகள் அவற்றை ஒழுங்கமைக்கும் **ஏஜென்சி** மூலம் குழுவாக்கப்படுகின்றன.
 
 ---
 
-## Pengangkutan (transport)
+## நீங்கள் ஒரு வேலையைத் தொடங்குவதற்கு முன்
+
+பெரும்பாலான வேலைகள் ஒரே அடிப்படை முறையைப் பின்பற்றுகின்றன:
+
+1. **Main Menu -> அணிகள்** இலிருந்து சரியான அணியில் சேரவும்.
+2. பொருத்தமான குழு அல்லது சிவிலியன் வாகனத்தை உருவாக்குங்கள்.
+3. கருவியைச் சித்தப்படுத்தவும் அல்லது வேலை வழங்கினால் வேலை மெனுவைத் திறக்கவும்.
+4. வே பாயிண்ட், ப்ராம்ட் அல்லது டாஸ்க் பேனலைப் பின்பற்றவும்.
+5. XP, வேலை முன்னேற்றம், சவால் முன்னேற்றம் மற்றும் சில சமயங்களில் BR சம்பாதிக்க பணியை முடிக்கவும்.
+
+பொதுவான தடுப்பான்கள்:
+
+- **தவறான குழு**: ப்ராம்ட் தோன்றும் ஆனால் தொடங்க மறுக்கிறது அல்லது குழு வாகனம் இல்லை.
+- **தவறான வாகனம்/ஸ்பானர்**: குழு வாகனங்கள் பொருந்தக்கூடிய ஸ்பானர்களில் மட்டுமே தோன்றும்.
+- **பணி ஏற்கனவே செயலில் உள்ளது**: மற்றொரு பணியைத் தொடங்கும் முன் தற்போதைய பணியை முடிக்கவும் அல்லது ரத்து செய்யவும்.
+- **தனியார் server/test server**: பயிற்சிக்கு பயனுள்ளதாக இருக்கும், ஆனால் முன்னேற்றம் சேமிக்கப்படாமல் போகலாம்.
+
+பணிகள்/சவால்களைக் கண்காணிக்க **Main Menu -> செயல்பாடு** மற்றும் கிளை அடுக்கு முன்னேற்றத்தை சரிபார்க்க **Main Menu -> மேலும் -> வேலைகள்** என்பதைத் திறக்கவும்.
+
+---
+
+## பெங்காங்குதான் (போக்குவரத்து)
 
 ### Taxi Driver
 
-**Unlock**: Taxi Driver gamepass (or the Bandaraya gamepass, which includes Taxi access).
+**திறத்தல்**: Taxi Driver gamepass (அல்லது Bandaraya gamepass, இதில் டாக்ஸி அணுகல் அடங்கும்).
 
-**How to start**: Join the Taxi Driver team from the Main Menu. Toggle your **Duty** status to on from the TaxiGui on screen.
+**எப்படி தொடங்குவது**: Main Menu இலிருந்து Taxi Driver குழுவில் சேரவும். திரையில் உள்ள TaxiGui இலிருந்து உங்கள் **கடமை** நிலையை மாற்றவும்.
 
-**What you do**:
-1. When you're on duty, a pickup point is assigned - drive to the NPC waiting for a taxi.
-2. The NPC gets in your taxi. Drive to the marked dropoff point.
-3. The mission completes when you stop within range (about 50 studs) of the dropoff.
-4. A new mission is assigned immediately.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. நீங்கள் பணியில் இருக்கும்போது, ஒரு பிக்கப் பாயிண்ட் ஒதுக்கப்படும் - டாக்ஸிக்காக காத்திருக்கும் NPCக்கு ஓட்டுங்கள்.
+2. NPC உங்கள் டாக்ஸியில் வருகிறது. குறிக்கப்பட்ட டிராப் ஆஃப் புள்ளிக்கு ஓட்டுங்கள்.
+3. டிராப்ஆஃப் வரம்பிற்குள் (சுமார் 50 studs) நிறுத்தும்போது பணி நிறைவடைகிறது.
+4. ஒரு புதிய பணி உடனடியாக ஒதுக்கப்படுகிறது.
 
-**Rewards**:
-- **XP** scales with distance. Longer fares pay more.
-- BR fares are not a reliable live payout yet, so treat taxi work as an XP and career-progress job for now.
+** வெகுமதிகள் **:
+- **XP** தூரத்துடன் செதில்கள். நீண்ட கட்டணம் அதிகம்.
+- BR கட்டணங்கள் இன்னும் நம்பகமான நேரலை செலுத்தவில்லை, எனவே டாக்ஸி வேலையை XP மற்றும் தொழில் முன்னேற்ற வேலையாக கருதுங்கள்.
 
-**Routes**: Pickups and drop-offs are currently drawn from a small set of city points, so routes repeat over time.
+**வழிகள்**: பிக்-அப்கள் மற்றும் டிராப்-ஆஃப்கள் தற்போது ஒரு சிறிய நகர புள்ளிகளிலிருந்து எடுக்கப்படுகின்றன, எனவே பாதைகள் காலப்போக்கில் மீண்டும் மீண்டும் வருகின்றன.
 
-**Vehicle**: Any vehicle works, but for best earnings use a purpose-built taxi - Protan Saga Taxi, Perosatu Bezza Taxi, Protan Preve Taxi. Higher-tier Taxi Driver ranks unlock better models (and more passenger capacity).
+**வாகனம்**: எந்த வாகனமும் வேலை செய்யும், ஆனால் சிறந்த வருவாய்க்கு, Protan Saga டாக்ஸி, Perosatu Bezza டாக்ஸி, Protan Preve டாக்ஸியைப் பயன்படுத்துங்கள். உயர்-அடுக்கு Taxi Driver தரவரிசைகள் சிறந்த மாடல்களைத் திறக்கும் (மற்றும் அதிக பயணிகள் திறன்).
 
 ### Bus Driver
 
-**Unlock**: Free - this is one of two free teams.
+**திறத்தல்**: இலவசம் - இது இரண்டு இலவச அணிகளில் ஒன்றாகும்.
 
-**How to start**: Join the Bus Driver team. Use a Bus Driver / bus vehicle spawner and begin a route from the **Depoh Bas** in Bandar Seri Putra.
+**எப்படி தொடங்குவது**: Bus Driver குழுவில் சேரவும். Bus Driver / பஸ் வாகனம் ஸ்பானரைப் பயன்படுத்தி, Bandar Seri Putra இல் **Depoh Bas** இலிருந்து ஒரு வழியைத் தொடங்கவும்.
 
-**What you do**: Drive fixed bus routes, stopping at designated bus stops to pick up and drop off passengers. Full routes pay XP.
+**நீங்கள் என்ன செய்கிறீர்கள்**: நிலையான பேருந்து வழித்தடங்களை இயக்கவும், பயணிகளை ஏற்றி இறக்குவதற்கு நியமிக்கப்பட்ட பேருந்து நிறுத்தங்களில் நிறுத்தவும். முழு வழிகளும் XP செலுத்த வேண்டும்.
 
-**Vehicle**: Buses - Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace Passenger/Transport variants.
+**வாகனம்**: பேருந்துகள் - Intero Citie, TKL_K230UB, TKL_Harimau Evo, Tayoti Hiace பயணிகள்/போக்குவரத்து வகைகள்.
 
-**Bus company affiliations**: Three external Roblox groups represent in-universe bus operators - **FirstGroup PLC**, **Fertua Transport**, and **Hornbill Bus**. Join any of them to carry their livery / branding on select buses (purely roleplay; the groups are community-run).
+**பஸ் நிறுவன இணைப்புகள்**: மூன்று வெளிப்புற Roblox குழுக்கள் பிரபஞ்சத்தில் பேருந்து நடத்துனர்களைக் குறிக்கின்றன - **FirstGroup PLC**, **Fertua Transport**, மற்றும் **Hornbill Bus**. தேர்ந்தெடுக்கப்பட்ட பேருந்துகளில் அவர்களின் வாழ்வாதாரம் / பிராண்டிங்கை எடுத்துச் செல்ல அவர்களில் எவருடனும் சேருங்கள் (முழுமையான பங்கு; குழுக்கள் சமூகத்தால் நடத்தப்படுகின்றன).
 
-### Logistics (trucking)
+### தளவாடங்கள் (டிரக்கிங்)
 
-**Unlock**: Level 75, or earlier with the Season 1 Season Pass.
+**திறத்தல்**: நிலை 75, அல்லது அதற்கு முந்தைய Season 1 Season Pass.
 
-**How to start**: Join the Logistics team. Head to a freight contract point (marked ProximityPrompts around the map) and take on a delivery.
+**எப்படி தொடங்குவது**: லாஜிஸ்டிக்ஸ் குழுவில் சேரவும். ஒரு சரக்கு ஒப்பந்தப் புள்ளிக்குச் சென்று (வரைபடத்தைச் சுற்றி ப்ராக்ஸிமிட்டி ப்ராம்ப்ட்ஸ் எனக் குறிக்கப்பட்டுள்ளது) டெலிவரியை மேற்கொள்ளுங்கள்.
 
-**What you do**:
-1. Find a freight contractor (ProximityPrompt). Accept a contract and a freight truck / trailer is assigned to you.
-2. Hitch the trailer to the hook point and drive the loaded truck to the delivery destination.
-3. Unhitch and complete the delivery.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. சரக்கு ஒப்பந்ததாரரைக் கண்டறியவும் (ProximityPrompt). ஒரு ஒப்பந்தத்தை ஏற்றுக்கொள், ஒரு சரக்கு டிரக் / டிரெய்லர் உங்களுக்கு ஒதுக்கப்பட்டுள்ளது.
+2. டிரெய்லரை ஹூக் பாயிண்டிற்கு ஏற்றி, ஏற்றப்பட்ட டிரக்கை டெலிவரி இலக்குக்கு இயக்கவும்.
+3. டெலிவரியை அவிழ்த்து முடிக்கவும்.
 
-**Rewards**: Trucking rewards long-distance driving. A 5,000-stud haul pays about **450 XP**, making it one of the best jobs for players who enjoy long routes.
+** வெகுமதிகள்**: டிரக்கிங் நீண்ட தூரம் ஓட்டுவதற்கு வெகுமதி அளிக்கிறது. 5,000-stud பயணமானது சுமார் **450 XP** செலுத்துகிறது, இது நீண்ட வழிகளை அனுபவிக்கும் வீரர்களுக்கு சிறந்த வேலைகளில் ஒன்றாகும்.
 
-**Vehicle**: Heavy-freight trucks - Rolvo FM, Rolvo FM RORO Truck, Sanica P310.
+**வாகனம்**: கனரக சரக்கு லாரிகள் - Rolvo FM, Rolvo FM RORO டிரக், Sanica P310.
 
 ---
 
-## Perkhidmatan (services)
+## பெர்கித்மதன் (சேவைகள்)
 
 ### Food Delivery
 
-**Unlock**: Level 10. This is usually your first real job.
+**திறத்தல்**: நிலை 10. இது பொதுவாக உங்களின் முதல் உண்மையான வேலை.
 
-**How to start**: Join the Food Delivery team. A delivery is assigned to you automatically.
+**எப்படி தொடங்குவது**: Food Delivery குழுவில் சேரவும். உங்களுக்கு ஒரு டெலிவரி தானாகவே ஒதுக்கப்படும்.
 
-**What you do**:
-1. Go to the shop shown on your waypoint (one of the [12 shops](/lebuhraya/shops)).
-2. Interact with the shop NPC to pick up the food order (your character will receive the food item as a tool).
-3. Drive to the customer's location on your waypoint.
-4. Interact with the customer NPC to hand over the order.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. உங்கள் வழிப்பாதையில் காட்டப்பட்டுள்ள கடைக்குச் செல்லவும் ([12 கடைகளில்](/ta/lebuhraya/shops)).
+2. உணவு ஆர்டரை எடுக்க NPC கடையுடன் தொடர்பு கொள்ளவும் (உங்கள் பாத்திரம் உணவுப் பொருளை ஒரு கருவியாகப் பெறும்).
+3. உங்கள் வழிப்பாதையில் வாடிக்கையாளரின் இருப்பிடத்திற்கு ஓட்டுங்கள்.
+4. ஆர்டரை ஒப்படைக்க வாடிக்கையாளர் NPC உடன் தொடர்பு கொள்ளவும்.
 
-**Rewards**: **250 XP** per delivery. Older text may mention BR, but the current reliable reward is XP.
+** வெகுமதிகள்**: **250 XP** ஒரு டெலிவரி. பழைய உரையில் BR குறிப்பிடலாம், ஆனால் தற்போதைய நம்பகமான வெகுமதி XP ஆகும்.
 
-**Vehicle**: Any. A motorcycle (Handai EX5) is often fastest for winding streets.
+**வாகனம்**: ஏதேனும். ஒரு மோட்டார் சைக்கிள் (Handai EX5) வளைந்து செல்லும் தெருக்களுக்கு பெரும்பாலும் வேகமானது.
 
 ### Post Office
 
-**Unlock**: Level 50.
+**திறத்தல்**: நிலை 50.
 
-**How to start**: Join the Post Office team and visit **Pos Nasional Jersik** to pick up a delivery route.
+**எப்படி தொடங்குவது**: Post Office குழுவில் சேர்ந்து, டெலிவரி வழியை எடுக்க **Pos Nasional Jersik** ஐப் பார்வையிடவும்.
 
-**What you do**: Collect packages from postboxes in one of the four postal zones (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), process them, and deliver to the marked mailbox addresses.
+**நீங்கள் என்ன செய்கிறீர்கள்**: நான்கு அஞ்சல் மண்டலங்களில் ஒன்றில் உள்ள அஞ்சல் பெட்டிகளிலிருந்து தொகுப்புகளை சேகரித்து (**Bandar Seri Putra**, **Jersik**, **Kampung Merbang**, **Putra Mahkota**), அவற்றைச் செயலாக்கி, குறிக்கப்பட்ட அஞ்சல் பெட்டி முகவரிகளுக்கு வழங்கவும்.
 
-**Rewards**: **25 XP per package** plus a Post Office money counter that grows with each delivery. This counter is part of the Post Office job and should not be treated as spendable BR yet. The job also has its own Post Office level, separate from your main player level:
+** வெகுமதிகள்**: ** ஒரு பேக்கேஜுக்கு 25 XP** மற்றும் ஒவ்வொரு டெலிவரிக்கும் அதிகரிக்கும் Post Office பண கவுண்டர். இந்த கவுண்டர் Post Office வேலையின் ஒரு பகுதியாகும், மேலும் இது இன்னும் BR செலவாகக் கருதப்படக்கூடாது. உங்கள் முக்கிய பிளேயர் மட்டத்திலிருந்து தனித்தனியாக, வேலை அதன் சொந்த Post Office நிலையையும் கொண்டுள்ளது:
 
-- Max Post Office level: **20**
-- Higher Post Office levels need more Post Office XP.
-- Higher Post Office levels increase the job's own money counter per delivery.
+- அதிகபட்சம் Post Office நிலை: **20**
+- அதிக Post Office நிலைகளுக்கு இன்னும் Post Office XP தேவை.
+- அதிக Post Office நிலைகள் ஒரு டெலிவரிக்கு வேலையின் சொந்த பண கவுண்டரை அதிகரிக்கின்றன.
 
-For now, think of the Post Office money counter as personal job progress.
+இப்போதைக்கு, Post Office பண கவுண்டரை தனிப்பட்ட வேலை முன்னேற்றம் என்று நினைத்துப் பாருங்கள்.
 
-Switching zones forces you to stop the current job, so pick a zone and stick with it for a productive session.
+மண்டலங்களை மாற்றுவது தற்போதைய வேலையை நிறுத்தும்படி உங்களைத் தூண்டுகிறது, எனவே ஒரு மண்டலத்தைத் தேர்ந்தெடுத்து அதனுடன் இணைந்திருங்கள்.
 
-**Vehicle**: Handai EX5 Pos (motorcycle) or Tayoti Hilux Pos (truck).
+**வாகனம்**: Handai EX5 Pos (மோட்டார் சைக்கிள்) அல்லது Tayoti Hilux Pos (டிரக்).
 
 ### Waste Disposal
 
-**Unlock**: Level 25 (older game text may still say 50 - level 25 is the current in-game value).
+**திறத்தல்**: நிலை 25 (பழைய கேம் உரை இன்னும் 50 என்று சொல்லலாம் - நிலை 25 என்பது தற்போதைய விளையாட்டின் மதிப்பு).
 
-**How to start**: Join the Waste Disposal team. Read the **Waste Disposal Guide** tool in your inventory.
+**எப்படி தொடங்குவது**: Waste Disposal குழுவில் சேரவும். உங்கள் சரக்குகளில் உள்ள **Waste Disposal வழிகாட்டி** கருவியைப் படிக்கவும்.
 
-**What you do**:
-1. Drive your rubbish truck to a trash bin. There are **114 bins** scattered across the map.
-2. Interact with the bin prompt to trigger the lifting animation. Rubbish accumulates on your truck.
-3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations - Bandar Seri Putra and Jersik).
-4. Deposit at the incinerator's zone to cash out. You'll see a "Pay" notification with your earnings.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. உங்கள் குப்பை டிரக்கை ஒரு குப்பைத் தொட்டியில் செலுத்துங்கள். வரைபடத்தில் **114 தொட்டிகள்** சிதறிக்கிடக்கின்றன.
+2. தூக்கும் அனிமேஷனைத் தூண்டுவதற்கு பின் ப்ராம்ட் உடன் தொடர்பு கொள்ளவும். உங்கள் லாரியில் குப்பை குவிகிறது.
+3. டிரக் நிரம்பியதும், இரண்டில் ஒன்றிற்கு **ஸ்டெசென் இன்சினெராசி** (இன்சினரேஷன் ஸ்டேஷன்கள் - Bandar Seri Putra மற்றும் ஜெர்சிக்) செல்லவும்.
+4. தகனம் செய்ய எரியூட்டி மண்டலத்தில் டெபாசிட் செய்யுங்கள். உங்கள் வருமானத்துடன் "பணம் செலுத்து" அறிவிப்பைப் பார்ப்பீர்கள்.
 
-**Rewards**: Paid at the incinerator, proportional to the amount of trash collected. Longer routes with more stops pay more.
+** வெகுமதிகள்**: சேகரிக்கப்பட்ட குப்பையின் அளவிற்கு விகிதாசாரமாக எரியூட்டியில் செலுத்தப்படும். அதிக நிறுத்தங்களைக் கொண்ட நீண்ட வழிகள் அதிக கட்டணம் செலுத்துகின்றன.
 
-**Vehicle**: Rubbish truck from the Waste Disposal team vehicle spawner.
+**வாகனம்**: Waste Disposal குழு வாகனம் ஸ்போனரில் இருந்து குப்பை டிரக்.
 
-**Note on pay**: The "Pay" notification can show an in-world amount, but XP is the reliable reward while the BR economy is still being rolled out.
+**பணம் பற்றிய குறிப்பு**: "பணம் செலுத்து" அறிவிப்பு உலகில் உள்ள தொகையைக் காட்டலாம், ஆனால் XP என்பது BR பொருளாதாரம் இன்னும் வெளிவரும்போது நம்பகமான வெகுமதியாகும்.
 
 ---
 
-## Kecemasan (emergency)
+## கெசிமாசன் (அவசரநிலை)
 
 ### Bomba
 
-**Unlock**: Bomba gamepass.
+**திறத்தல்**: Bomba gamepass.
 
-**How to start**: Join the Bomba team. Equip your **Pager** tool to receive emergency alerts. When a 999 call comes in (fire, crash), accept the incident.
+**எப்படி தொடங்குவது**: Bomba குழுவில் சேரவும். அவசர எச்சரிக்கைகளைப் பெற உங்கள் **பேஜர்** கருவியை சித்தப்படுத்தவும். 999 அழைப்பு வரும்போது (தீ, விபத்து) சம்பவத்தை ஏற்கவும்.
 
-**What you do**:
-- **Firefighting**: Respond to fires, use hoses and fire extinguishers.
-- **Rescue**: Use spreaders and chainsaws to extract trapped drivers.
-- **Medical assist**: Bomba responds to car crashes alongside Kesihatan.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+- **தீயணைப்பு**: தீக்கு பதிலளிக்கவும், குழல்களை மற்றும் தீயை அணைக்கும் கருவிகளைப் பயன்படுத்தவும்.
+- **மீட்பு**: சிக்கிய ஓட்டுனர்களைப் பிரித்தெடுக்க விரிப்பான்கள் மற்றும் செயின்சாவைப் பயன்படுத்தவும்.
+- **மருத்துவ உதவி**: Bomba கார் விபத்துக்களுக்கு Kesihatan உடன் பதிலளிக்கிறது.
 
-**Tools**: Chainsaw, Spreaders, Fire (hose), Pager.
+**கருவிகள்**: செயின்சா, விரிப்பான்கள், தீ (குழாய்), பேஜர்.
 
-**Vehicle**: Fire trucks - Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, Masubi Triton variants, Tayoti Hiace MTV EMRS.
+**வாகனம்**: தீயணைப்பு வண்டிகள் - Merze Atego LFRT Bomba, Sanica P310 FRT Bomba, Sanica 94D LFRT Bomba, Sanica P360 Tanker, Masubi Triton வகைகள், Tayoti Hiace MTV EMRS.
 
-**Rewards**: XP per incident resolved. Larger incidents pay more.
+** வெகுமதிகள்**: ஒரு சம்பவத்திற்கு XP தீர்க்கப்பட்டது. பெரிய சம்பவங்கள் அதிக விலை கொடுக்கின்றன.
 
-### Kesihatan (KKN medic)
+### Kesihatan (KKN மருத்துவம்)
 
-**Unlock**: Level 200.
+**திறத்தல்**: நிலை 200.
 
-**How to start**: Join the Kesihatan team. Equip your **Pager** tool. Accept 999 medical incidents.
+**எப்படி தொடங்குவது**: Kesihatan குழுவில் சேரவும். உங்கள் **பேஜர்** கருவியை சித்தப்படுத்தவும். 999 மருத்துவ சம்பவங்களை ஏற்கவும்.
 
-**What you do**:
-1. Respond to the incident location (within 12 studs to interact).
-2. **Assess** the patient's injuries - don't dawdle. Waiting longer than 60 seconds before assessing incurs a survival penalty.
-3. **Treat** the injuries in the correct order using your tools (Splint, First Aid Kit, Bandage). Wrong treatments reduce the patient's survival score by 3 per mistake.
-4. **Stabilise** - a successful stabilisation gives +15 survival.
-5. Load the patient onto a stretcher, then into your ambulance (must be within 25 studs of the ambulance to load).
-6. Transport to **Klinik Kesihatan Bandar Seri Putra** or another hospital zone.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. சம்பவ இடத்திற்கு பதிலளிக்கவும் (12 studs க்குள் தொடர்பு கொள்ள).
+2. **நோயாளியின் காயங்களை மதிப்பிடு** - தயங்க வேண்டாம். மதிப்பீடு செய்வதற்கு முன் 60 வினாடிகளுக்கு மேல் காத்திருப்பது உயிர் பிழைப்பதற்கான தண்டனையை ஏற்படுத்துகிறது.
+3. உங்கள் கருவிகளைப் பயன்படுத்தி (ஸ்பிளிண்ட், முதலுதவி பெட்டி, பேண்டேஜ்) காயங்களுக்கு சரியான வரிசையில் ** சிகிச்சை* தவறான சிகிச்சைகள் நோயாளியின் உயிர் பிழைப்பு மதிப்பெண்ணை ஒரு தவறுக்கு 3 குறைக்கிறது.
+4. **நிலைப்படுத்து** - வெற்றிகரமான நிலைப்படுத்தல் +15 உயிர்வாழ்வை அளிக்கிறது.
+5. நோயாளியை ஸ்ட்ரெச்சரில் ஏற்றவும், பின்னர் உங்கள் ஆம்புலன்சில் ஏற்றவும் (ஏம்புலன்ஸ் ஏற்றுவதற்கு ஆம்புலன்சின் 25 studsக்குள் இருக்க வேண்டும்).
+6. **Klinik Kesihatan Bandar Seri Putra** அல்லது மற்றொரு மருத்துவமனை மண்டலத்திற்கு போக்குவரத்து.
 
-**Injury types** include cuts, broken limbs, heavy bleeding, shock, unconscious patients, and fire-related injuries. Each one needs the right treatment sequence:
+**காயத்தின் வகைகள்** வெட்டுக்கள், உடைந்த கைகால்கள், அதிக இரத்தப்போக்கு, அதிர்ச்சி, மயக்கமடைந்த நோயாளிகள் மற்றும் தீ தொடர்பான காயங்கள் ஆகியவை அடங்கும். ஒவ்வொருவருக்கும் சரியான சிகிச்சை வரிசை தேவை:
 
-| Injury | Treatment steps | Base XP |
+| காயம் | சிகிச்சை படிகள் | அடிப்படை XP |
 |---|---|---|
-| Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
-| Broken Arm / Broken Leg (left or right) | Apply Splint | 75 |
-| Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
-| Heavy Bleeding | Stabilise Bleeding → Bandage → Monitor Vitals | 85 |
-| Unconscious | Stabilise Patient → Monitor Vitals | 90 |
-| Low Vital Signs | Monitor Vitals → Stabilise Patient | 95 |
-| Shock | Stabilise Patient → Bandage | 80 |
-| Fire-Related Injury | Cool Burns → Bandage → Stabilise Patient | 100 |
-| Toxic Inhalation | Administer Oxygen → Stabilise Patient | 90 |
+| சிறு வெட்டுக் காயங்கள் | இரத்தப்போக்கை உறுதிப்படுத்தவும் → பேண்டேஜ் தடவவும் | 50 |
+| உடைந்த கை / உடைந்த கால் (இடது அல்லது வலது) | ஸ்பிளிண்ட் விண்ணப்பிக்கவும் | 75 |
+| அதிர்ச்சிகரமான மூளை காயம் | நோயாளியை நிலைப்படுத்து → பேண்டேஜ் தடவவும் | 100 |
+| அதிக இரத்தப்போக்கு | இரத்தப்போக்கு → பேண்டேஜ் → மானிட்டர் வைட்டல்ஸ் | 85 |
+| மயக்கம் | நோயாளியை நிலைப்படுத்தவும் → உயிர்களை கண்காணிக்கவும் | 90 |
+| குறைந்த முக்கிய அறிகுறிகள் | மானிட்டர் உயிர்கள் → நோயாளியை நிலைப்படுத்த | 95 |
+| அதிர்ச்சி | நோயாளியை நிலைப்படுத்து → கட்டு | 80 |
+| தீ தொடர்பான காயம் | கூல் பர்ன்ஸ் → பேண்டேஜ் → நோயாளியை நிலைப்படுத்த | 100 |
+| நச்சு உள்ளிழுத்தல் | ஆக்சிஜனை நிர்வகி → நோயாளியை நிலைப்படுத்த | 90 |
 
-Treatment actions take **2–5 seconds** each to perform. Read the patient's dialogue clues - Malaysian-flavoured lines like *"Aduh... I'm bleeding"*, *"My leg! I can't stand!"*, *"The fumes... help..."* hint at what's wrong.
+சிகிச்சை நடவடிக்கைகள் ஒவ்வொன்றும் செய்ய **2-5 வினாடிகள்** ஆகும். நோயாளியின் உரையாடல் துப்புகளைப் படியுங்கள் - *"அது... எனக்கு ரத்தம் வருகிறது"*, *"என் கால்! என்னால் நிற்க முடியவில்லை!"*, *"புகைகள்... உதவி..."* போன்ற மலேசிய சுவையான வரிகள் என்ன தவறு என்பதைக் குறிப்பிடுகின்றன.
 
-**Patient behaviour types** vary. Some patients cooperate, some panic, and some resist help until you start treating them correctly.
+**நோயாளி நடத்தை வகைகள்** மாறுபடும். சில நோயாளிகள் ஒத்துழைக்கிறார்கள், சிலர் பீதியடைகிறார்கள், மேலும் சிலர் நீங்கள் அவர்களுக்கு சரியாக சிகிச்சை அளிக்கத் தொடங்கும் வரை உதவியை எதிர்க்கிறார்கள்.
 
-**Full flow** and typical XP sources:
+**முழு ஓட்டம்** மற்றும் வழக்கமான XP ஆதாரங்கள்:
 
-| Step | XP |
+| படி | XP |
 |---|---|
-| Assessment | 25 |
-| Injury treatment (all correct) | 50–100 per injury |
-| Stabilisation bonus | +50 |
-| Place on stretcher | +25 |
-| Load into ambulance | - |
-| Admit to hospital | +100 |
-| Request evacuation (alternate - chopper) | +40 |
-| Wrong treatment (penalty) | −10 (per mistake) |
+| மதிப்பீடு | 25 |
+| காயம் சிகிச்சை (அனைத்தும் சரி) | ஒரு காயத்திற்கு 50-100 |
+| உறுதிப்படுத்தல் போனஸ் | +50 |
+| ஸ்ட்ரெச்சரில் வைக்கவும் | +25 |
+| ஆம்புலன்சில் ஏற்றவும் | - |
+| மருத்துவமனையில் அனுமதி | +100 |
+| வெளியேற்றக் கோரிக்கை (மாற்று - ஹெலிகாப்டர்) | +40 |
+| தவறான சிகிச்சை (அபராதம்) | −10 (ஒரு தவறுக்கு) |
 
-A clean, fast medical response pays much better than a delayed or mistake-heavy one.
+ஒரு சுத்தமான, விரைவான மருத்துவப் பதில் தாமதமான அல்லது தவறு-கனமான ஒன்றைக் காட்டிலும் மிகச் சிறப்பாகச் செலுத்துகிறது.
 
-**Tools**: Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager.
+**கருவிகள்**: ஸ்பிளிண்ட், முதலுதவி பெட்டி, கட்டு, Kesihatan கையேடு, பேஜர்.
 
-**Vehicle**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
+**வாகனம்**: Tayoti Hiace KKN Ambulance, Handai City KKN RRV, Tayoti Hilux KKN RRV.
 
 ---
 
-## Polis (police)
+## Polis (காவல்துறை)
 
-All police teams share the 999 emergency dispatch and can use the same enforcement tools. What differs is where they spawn, the uniform, and the vehicle liveries.
+அனைத்து போலீஸ் குழுக்களும் 999 அவசரகால அனுப்புதலைப் பகிர்ந்து கொள்கின்றன, அதே அமலாக்கக் கருவிகளைப் பயன்படுத்தலாம். அவை எங்கு உருவாகின்றன, சீருடை மற்றும் வாகன லைவரி ஆகியவை வேறுபடுகின்றன.
 
 ### KEMRonda
 
-**Unlock**: KEMRonda gamepass.
+**திறத்தல்**: KEMRonda gamepass.
 
-**How to start**: Join the KEMRonda team.
+**எப்படி தொடங்குவது**: KEMRonda குழுவில் சேரவும்.
 
-**What you do**: Highway auxiliary patrol - assist stranded motorists, tow damaged vehicles, set up traffic management (cones, signs) around incidents.
+**நீங்கள் என்ன செய்கிறீர்கள்**: நெடுஞ்சாலை துணை ரோந்து - சிக்கித் தவிக்கும் வாகன ஓட்டிகளுக்கு உதவுதல், சேதமடைந்த வாகனங்களை இழுத்தல், சம்பவங்களைச் சுற்றி போக்குவரத்து மேலாண்மை (கூம்புகள், அடையாளங்கள்) அமைத்தல்.
 
-**Tools**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
+**கருவிகள்**: Powertorch, Placeables SCone, Placeables PBSign, Advanced Tool Kit.
 
-**Vehicle**: KEMRonda PB Peronda Hilux variants, iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
+**வாகனம்**: KEMRonda PB Peronda Hilux வகைகள், iZu Tow Truck KEMRonda, iZu Tow Bed KEMRonda.
 
 ### Polis Trafik
 
-**Unlock**: Polis Trafik gamepass.
+**திறத்தல்**: Polis Trafik gamepass.
 
-**How to start**: Join the Polis Trafik team.
+**எப்படி தொடங்குவது**: Polis Trafik குழுவில் சேரவும்.
 
-**What you do**: Traffic law enforcement - use the **Radar Gun** to catch speeders, respond to 999 incidents, issue tickets.
+**நீங்கள் என்ன செய்கிறீர்கள்**: போக்குவரத்து சட்ட அமலாக்கம் - **ரேடார் துப்பாக்கியை** வேகமாகப் பிடிக்க, 999 சம்பவங்களுக்கு பதிலளிக்க, டிக்கெட்டுகளை வழங்கவும்.
 
-**Automatic offences**: The game can detect **running a red light** and **speeding**. Each detected offence:
-- Shows a red notification on the offending driver's screen
-- Can notify traffic officers for roleplay follow-up
+**தானியங்கு குற்றங்கள்**: விளையாட்டு **சிவப்பு விளக்கு** மற்றும் ** வேகம்** ஆகியவற்றைக் கண்டறியும். கண்டறியப்பட்ட ஒவ்வொரு குற்றமும்:
+- மீறும் ஓட்டுநரின் திரையில் சிவப்பு அறிவிப்பைக் காட்டுகிறது
+- ரோல்பிளே ஃபாலோ-அப்பிற்காக போக்குவரத்து அதிகாரிகளுக்கு தெரிவிக்கலாம்
 
-Polis Trafik players can be notified of detected offences and respond.
+Polis Trafik வீரர்களுக்கு கண்டறியப்பட்ட குற்றங்கள் குறித்து அறிவிக்கப்பட்டு பதிலளிக்கலாம்.
 
-**Tools**: Taser X26P, Radar Gun, Whistle, Torchlight, Placeables PolisCone, Placeables PolisSign, Placeables PolisUmbrella.
+**கருவிகள்**: Taser X26P, Radar Gun, Whistle, Torchlight, Placeables PolisCone, Placeables PolisSign, Placeables Polisumbrella.
 
-**Vehicle**: Handai Civic Type R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, and various escort variants.
+**வாகனம்**: Handai Civic வகை R HPV Polis, Masubi Lancer HPV Polis, Kasaki Ninja Polis, மற்றும் பல்வேறு எஸ்கார்ட் வகைகள்.
 
 ### Undercover Police
 
-**Unlock**: Undercover Police gamepass.
+**திறத்தல்**: Undercover Police gamepass.
 
-**How to start**: Join the Undercover Police team.
+**எப்படி தொடங்குவது**: Undercover Police குழுவில் சேரவும்.
 
-**What you do**: Same toolkit as Polis Trafik, but on unmarked vehicles. Better for discreet operations and observation.
+**நீங்கள் என்ன செய்கிறீர்கள்**: Polis Trafik போன்ற அதே கருவித்தொகுப்பு, ஆனால் குறிக்கப்படாத வாகனங்களில். விவேகமான செயல்பாடுகள் மற்றும் கவனிப்புக்கு சிறந்தது.
 
-**Tools**: Same as Polis Trafik.
+**கருவிகள்**: Polis Trafik போலவே.
 
-**Vehicle**: Unmarked variants - Protan Persona Taxi (yes, really), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
+**வாகனம்**: குறிக்கப்படாத மாறுபாடுகள் - Protan Persona Taxi (ஆம், உண்மையில்), Protan Saga Unmarked, Perosatu Bezza Unmarked, Protan X70 Unmarked, Masubi Lancer HPV Polis Tartan.
 
 ---
 
-## Penguatkuasaan (enforcement)
+## Penguatkuasaan (அமலாக்கம்)
 
 ### APJ
 
-**Unlock**: Level 300.
+**திறத்தல்**: நிலை 300.
 
-**How to start**: Join the APJ team.
+**எப்படி தொடங்குவது**: APJ குழுவில் சேரவும்.
 
-**What you do**: Road Transport Agency - the equivalent of MYSverse road transport authority. Inspect vehicles, enforce road transport regulations, coordinate with police.
+**நீங்கள் என்ன செய்கிறீர்கள்**: சாலைப் போக்குவரத்து நிறுவனம் - MYSverse சாலைப் போக்குவரத்து ஆணையத்திற்குச் சமமானது. வாகனங்களை ஆய்வு செய்தல், சாலை போக்குவரத்து விதிமுறைகளை அமல்படுத்துதல், போலீசாருடன் ஒருங்கிணைத்தல்.
 
-**Tools**: Torchlight, Placeables SCone.
+**கருவிகள்**: Torchlight, Placeables SCone.
 
-**Vehicle**: Protan Inspira APJ, Protan X70 APJ.
+**வாகனம்**: Protan Inspira APJ, Protan X70 APJ.
 
 ---
 
-## Sumber (resources)
+## தொகை (வளங்கள்)
 
 ### Power Nasional
 
-**Unlock**: Level 100.
+**திறத்தல்**: நிலை 100.
 
-**How to start**: Join the Power Nasional team.
+**எப்படி தொடங்குவது**: Power Nasional குழுவில் சேரவும்.
 
-**What you do**: National electric utility contractor work. Respond to power outages, inspect infrastructure, set up safety cones while working.
+**நீங்கள் என்ன செய்கிறீர்கள்**: தேசிய மின்சார பயன்பாட்டு ஒப்பந்ததாரர் வேலை. மின் தடைகளுக்கு பதிலளிக்கவும், உள்கட்டமைப்பை ஆய்வு செய்யவும், வேலை செய்யும் போது பாதுகாப்பு கூம்புகளை அமைக்கவும்.
 
-**Tools**: Placeables SCone.
+**கருவிகள்**: வைக்கக்கூடிய ஸ்கோன்.
 
 ### Lumberjack
 
-**Unlock**: Level 150, or earlier with the Season 1 Season Pass.
+**திறத்தல்**: நிலை 150, அல்லது அதற்கு முந்தைய Season 1 Season Pass.
 
-**How to start**: Join the Lumberjack team, equip your **Axe** tool, head to the lumberjack zone (near H Plantation in Jersik).
+**எப்படி தொடங்குவது**: Lumberjack குழுவில் சேர்ந்து, உங்கள் **Axe** கருவியை பொருத்தி, மரம் வெட்டும் பகுதிக்கு செல்லவும் (ஜெர்சிக்கில் H தோட்டத்திற்கு அருகில்).
 
-**What you do**:
-1. Chop trees with the axe (you must be within 8–15 studs of the tree).
-2. Wood accumulates in your per-player storage.
-3. Sell wood at the shop for XP.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. கோடரியால் மரங்களை நறுக்கவும் (நீங்கள் மரத்தின் 8–15 studsக்குள் இருக்க வேண்டும்).
+2. உங்கள் ஒவ்வொரு வீரர் சேமிப்பகத்தில் மரம் குவிகிறது.
+3. கடையில் XPக்கு மரத்தை விற்கவும்.
 
-**Rewards**: **3 XP per kilogram** of wood sold.
+** வெகுமதிகள்**: **3 XP ஒரு கிலோகிராம்** விறகு விற்கப்படுகிறது.
 
-**Storage capacity grows with your Lumberjack level**:
+**உங்கள் Lumberjack நிலையுடன் சேமிப்பு திறன் அதிகரிக்கிறது**:
 
-| Player Level | Storage (kg) |
+| வீரர் நிலை | சேமிப்பு (கிலோ) |
 |---|---|
 | 1 | 10 |
 | 50 | ~40 |
@@ -317,148 +317,148 @@ Polis Trafik players can be notified of detected offences and respond.
 | 200 | ~189 |
 | 500 | ~984 |
 
-Storage grows slowly at first and much faster at higher levels.
+சேமிப்பகம் முதலில் மெதுவாகவும் அதிக அளவில் மிக வேகமாகவும் வளரும்.
 
 ---
 
-## Back to school
+## மீண்டும் பள்ளிக்கு
 
-### School
+### பள்ளி
 
-**How to start**: Head to **SMK MYS II** (the secondary school POI on the highway). Walk into any of the four classroom zones - Matematik, Sains, Sejarah, Geografi (Math, Science, History, Geography).
+**எப்படி தொடங்குவது**: **SMK MYS II** (நெடுஞ்சாலையில் உள்ள மேல்நிலைப் பள்ளி POI) க்கு செல்க. நான்கு வகுப்பறை மண்டலங்களில் ஏதேனும் ஒன்றைச் செல்லவும் - Matematik, Sains, Sejarah, Geografi (கணிதம், அறிவியல், வரலாறு, புவியியல்).
 
-**What you do**: Classes run on a **2-minute bell cycle** - the bell chimes as classes begin and end. While in a class, a quiz starts. Each question is timed - answer faster for a bigger bonus.
+**நீங்கள் என்ன செய்கிறீர்கள்**: வகுப்புகள் **2 நிமிட பெல் சுழற்சியில் இயங்கும்** - வகுப்புகள் தொடங்கும் போதும் முடிவடையும் போதும் மணி ஒலிக்கும். ஒரு வகுப்பில் இருக்கும்போது, ​​ஒரு வினாடி வினா தொடங்குகிறது. ஒவ்வொரு கேள்வியும் நேரமானது - பெரிய போனஸுக்கு விரைவாக பதிலளிக்கவும்.
 
-**Scoring per correct answer**:
-- Base score: **10 points**
-- Time bonus: up to a full bonus if you answer within **2.5 seconds**; decays linearly to zero after that
-- **250 XP** per correct answer (multipliers apply)
+**சரியான பதிலுக்கு மதிப்பெண்**:
+- அடிப்படை மதிப்பெண்: **10 புள்ளிகள்**
+- நேர போனஸ்: **2.5 வினாடிகளுக்குள்** பதிலளித்தால் முழு போனஸ் வரை; அதன் பிறகு பூஜ்ஜியத்திற்கு நேர்கோட்டில் சிதைகிறது
+- ஒரு சரியான பதிலுக்கு **250 XP** (பெருக்கிகள் பொருந்தும்)
 
-The school also powers a weekly challenge: **Quiz Master (Advanced)** - answer **28 quiz questions within 2 seconds each** for **1,000 XP**. The older basic "Quiz Master" variant (21 questions × 3 seconds, rewarded a BMY M5 CS) is currently disabled - so only the advanced quiz is live.
+பள்ளி வாராந்திர சவாலையும் வழங்குகிறது: ** வினாடி வினா மாஸ்டர் (மேம்பட்டது)** - **1,000 XP** க்கு **28 வினாடி வினாக்களுக்கு 2 வினாடிகளுக்குள் பதிலளிக்கவும். பழைய அடிப்படை "Quiz Master" மாறுபாடு (21 கேள்விகள் × 3 வினாடிகள், BMY M5 CS) தற்போது முடக்கப்பட்டுள்ளது - எனவே மேம்பட்ட வினாடி வினா மட்டுமே நேரலையில் உள்ளது.
 
-**Why go**: Passive, low-pressure XP while you read; the school is one of the few AFK-friendly spots that still awards experience. Great between job shifts.
+**ஏன் போக வேண்டும்**: Passive, நீங்கள் படிக்கும் போது குறைந்த அழுத்தம் XP; அனுபவத்தை இன்னும் வழங்கும் சில AFK நட்பு இடங்களில் பள்ளியும் ஒன்றாகும். வேலை மாற்றங்களுக்கு இடையில் சிறந்தது.
 
-## Community jobs (Malaysians group)
+## சமூக வேலைகள் (Malaysians குழு)
 
-These activities are available to anyone on the **Malaysians** team (join the MYSverse group at rank 1+).
+இந்தச் செயல்பாடுகள் **Malaysians** குழுவில் உள்ள எவருக்கும் கிடைக்கும் (MYSverse குழுவில் ரேங்க் 1+ இல் சேரவும்).
 
 ### Fishing
 
-**How to start**: Equip a fishing rod and head to the **Fishing Port** (in the map's coastal area) or any water.
+**எப்படி தொடங்குவது**: ஒரு மீன்பிடி கம்பியை பொருத்தி, **Fishing துறைமுகம்** (வரைபடத்தின் கடலோரப் பகுதியில்) அல்லது ஏதேனும் தண்ணீருக்குச் செல்லவும்.
 
-**What you do**:
-1. Cast your rod.
-2. Wait for a bite.
-3. Shake the rod (follow on-screen prompts) to reel in.
-4. Sell fish at shops for BR.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. உங்கள் தடியை எறியுங்கள்.
+2. ஒரு கடிக்காக காத்திருங்கள்.
+3. ரீல் செய்ய தடியை அசைக்கவும் (திரையில் கேட்கும் கட்டளைகளைப் பின்பற்றவும்).
+4. கடைகளில் BRக்கு மீன் விற்கவும்.
 
-**What you can catch**: The current fish roster has 10 entries, weighted by rarity and paying different XP on sell:
+**நீங்கள் எதைப் பிடிக்கலாம்**: தற்போதைய மீன் பட்டியலில் 10 உள்ளீடுகள் உள்ளன, அவை அரிதாகவே எடைபோடப்பட்டு விற்பனையில் வெவ்வேறு XP செலுத்துகின்றன:
 
-| Catch | Rarity | XP on sell |
+| பிடி | அபூர்வம் | XP விற்பனையில் |
 |---|---|---|
-| Torpedo Scad | Common | 8 |
-| Indian Mackerel | Common | 15 |
-| Pomfret | Uncommon | 22 |
-| Snapper | Uncommon | 27 |
-| Siakap (sea bass) | Uncommon | 32 |
-| Red Snapper | Rare | 45 |
-| Tin Can | Junk | 0 |
-| Boot | Junk | 0 |
-| **Yifish** | **Extremely rare** | **696** |
-| meow | Easter egg | Unique reward |
+| டார்பிடோ ஸ்கேட் | பொதுவான | 8 |
+| இந்திய கானாங்கெளுத்தி | பொதுவான | 15 |
+| பாம்ஃப்ரெட் | அசாதாரண | 22 |
+| ஸ்னாப்பர் | அசாதாரண | 27 |
+| சியாகாப் (கடல் பாஸ்) | அசாதாரண | 32 |
+| ரெட் ஸ்னாப்பர் | அரிதான | 45 |
+| டின் கேன் | குப்பை | 0 |
+| துவக்க | குப்பை | 0 |
+| **Yifish** | **மிகவும் அரிதான** | **696** |
+| மியாவ் | ஈஸ்டர் முட்டை | தனித்துவமான வெகுமதி |
 
-**Yifish is the fisherman's white whale.** A single Yifish sell pays nearly 700 XP, which is more than two Food Delivery runs. Worth casting for if you have patience.
+**Yifish என்பது மீனவர்களின் வெள்ளைத் திமிங்கிலம்.** ஒரு Yifish விற்பனையானது கிட்டத்தட்ட 700 XPஐக் கொடுக்கிறது, இது இரண்டு Food Delivery ரன்களுக்கு மேல். நீங்கள் பொறுமையாக இருந்தால் நடிப்பதற்கு மதிப்புள்ளது.
 
-**Casting range**: up to 80 studs from where you're standing.
+**வார்ப்பு வரம்பு**: நீங்கள் நிற்கும் இடத்திலிருந்து 80 studs வரை.
 
-**Selling**: Fish sell at fishing-port shop zones. The reliable reward is **XP**, and rare catches pay much more than common fish.
+**விற்பனை**: மீன்பிடி துறைமுக கடை மண்டலங்களில் மீன் விற்பனை. நம்பகமான ரிவார்டு **XP**, மேலும் அரிதான மீன்கள் சாதாரண மீன்களை விட அதிகமாக செலுத்தும்.
 
-### Checkout
+### வெளியேறு
 
-**How to start**: Walk into a cashier station at a food shop or the KeluargaMart.
+**எப்படி தொடங்குவது**: உணவுக் கடை அல்லது KeluargaMart இல் உள்ள காசாளர் நிலையத்திற்குச் செல்லவும்.
 
-**What you do**:
-1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** - so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
-2. The customer requests 1–4 food items from the available menu.
-3. You have **15–20 seconds** to select the right items and complete the order.
-4. Serve them before the timer expires or they leave angry (no reward).
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+1. ஒரு NPC வாடிக்கையாளர் கவுண்டரில் உருவாகிறார். வாடிக்கையாளரின் அவதார் **உங்கள் Roblox நண்பர்கள் பட்டியலிலிருந்து தோராயமாகத் தேர்ந்தெடுக்கப்பட்டது** - எனவே உங்கள் நண்பரும் Lebuhrayaஐ விளையாடினால், அவர்கள் உங்கள் அடுத்த வாடிக்கையாளராகக் காட்டப்படலாம். (விளையாட குறைந்தபட்சம் ஒரு நண்பரையாவது வைத்திருக்க வேண்டும்.)
+2. வாடிக்கையாளர் கிடைக்கும் மெனுவிலிருந்து 1–4 உணவுப் பொருட்களைக் கோருகிறார்.
+3. சரியான பொருட்களைத் தேர்ந்தெடுத்து ஆர்டரை முடிக்க உங்களுக்கு **15-20 வினாடிகள்** உள்ளது.
+4. டைமர் காலாவதியாகும் முன் அவர்களுக்குப் பரிமாறவும் அல்லது அவர்கள் கோபமடைவார்கள் (வெகுமதி இல்லை).
 
-**Rewards**: Random **3–8 XP per customer served**, awarded at the end of your shift. Not the highest rate per minute, but a social, low-pressure way to play and see familiar faces.
+** வெகுமதிகள்**: ரேண்டம் **3–8 XP ஒரு வாடிக்கையாளருக்கு சேவை**, உங்கள் ஷிப்ட் முடிவில் வழங்கப்படும். நிமிடத்திற்கு அதிக கட்டணம் அல்ல, ஆனால் பழக்கமான முகங்களை விளையாடுவதற்கும் பார்ப்பதற்கும் ஒரு சமூக, குறைந்த அழுத்த வழி.
 
-**Heads up**: The reliable reward is XP. Treat Checkout as a social, low-pressure job rather than a money grind.
+**குறிப்பு**: நம்பகமான வெகுமதி XP. செக் அவுட்டை ஒரு சமூக, குறைந்த அழுத்த வேலையாகக் கருதுவதற்குப் பதிலாக, பணச் சிக்கனமாக கருதுங்கள்.
 
 ---
 
-## Open to everyone
+## அனைவருக்கும் திறந்திருக்கும்
 
-### Racing
+### பந்தயம்
 
-**How to start**: Open the race menu from the topbar and select a track.
+**எப்படி தொடங்குவது**: டாப்பாரிலிருந்து ரேஸ் மெனுவைத் திறந்து, ஒரு ட்ராக்கைத் தேர்ந்தெடுக்கவும்.
 
-**What you do**:
-- **Time Trial** - race alone against the clock. Set track records.
-- **PvP Lobby** - create or join a lobby, wait for players to load in, start the race.
+**நீங்கள் என்ன செய்கிறீர்கள்**:
+- **நேர சோதனை** - கடிகாரத்திற்கு எதிராக தனியாக பந்தயம். பதிவுகளை அமைக்கவும்.
+- **PvP லாபி** - ஒரு லாபியை உருவாக்கவும் அல்லது சேரவும், வீரர்கள் ஏற்றப்படும் வரை காத்திருக்கவும், பந்தயத்தைத் தொடங்கவும்.
 
-**How rewards are calculated**: Better placements, harder tracks, and personal bests pay more XP. Some races can also grant BR.
+**வெகுமதிகள் கணக்கிடப்படும் விதம்**: சிறந்த இடங்கள், கடினமான தடங்கள் மற்றும் தனிப்பட்ட சிறந்தவர்களுக்கு அதிக கட்டணம் XP. சில இனங்கள் BRஐயும் வழங்கலாம்.
 
-| Placement in PvP | Reward expectation |
+| PvP இல் வேலைவாய்ப்பு | வெகுமதி எதிர்பார்ப்பு |
 |---|---|
-| 1st | Best payout |
-| 2nd | Strong payout |
-| 3rd | Good payout |
-| 4th onwards | Smaller payout |
-| DNF | Small XP consolation only |
-| Time trial (solo) | Standard solo payout |
+| 1வது | சிறந்த பேஅவுட் |
+| 2வது | வலுவான கொடுப்பனவு |
+| 3வது | நல்ல ஊதியம் |
+| 4வது முதல் | சிறிய கொடுப்பனவு |
+| DNF | சிறிய XP ஆறுதல் மட்டும் |
+| நேர சோதனை (தனி) | நிலையான தனி செலுத்துதல் |
 
-Harder tracks pay more than easier tracks.
+கடினமான தடங்கள் எளிதான டிராக்குகளை விட அதிக கட்டணம் செலுத்துகின்றன.
 
-Personal Bests get an extra **+25% XP** and a **flat +50 BR bonus**.
+தனிப்பட்ட சிறந்தவர்களுக்கு கூடுதல் **+25% XP** மற்றும் **பிளாட் +50 BR போனஸ்** கிடைக்கும்.
 
-**Tracks**: Currently the game has one active track: **Test Sprint**, a short 3-checkpoint, 1-lap proving loop on Easy difficulty. It is open to civilian-class vehicles at any level and is based at the Jersik Race Track.
+**ட்ராக்குகள்**: தற்போது கேம் ஒரு செயலில் உள்ள டிராக்கைக் கொண்டுள்ளது: **டெஸ்ட் ஸ்பிரிண்ட்**, ஒரு சிறிய 3-செக்பாயிண்ட், 1-லேப் நிரூபிக்கும் லூப் எளிதான சிரமம். இது எந்த மட்டத்திலும் பொதுமக்கள்-வகுப்பு வாகனங்களுக்குத் திறந்திருக்கும் மற்றும் Jersik Race Trackஐ அடிப்படையாகக் கொண்டது.
 
-The "Jersik Race Track" POI is the in-world location where racing happens.
+"Jersik Race Track" POI என்பது பந்தயம் நடக்கும் உலக இடமாகும்.
 
-**Heads up**: Race rewards use their own payout rules, so ordinary XP boosts may not behave the same way as they do for driving and jobs.
+**குறிப்பு**: பந்தய வெகுமதிகள் அவற்றின் சொந்த பேஅவுட் விதிகளைப் பயன்படுத்துகின்றன, எனவே சாதாரண XP பூஸ்ட்கள் வாகனம் ஓட்டுதல் மற்றும் வேலைகளுக்குச் செயல்படுவது போல் செயல்படாது.
 
-Expect more tracks as the game updates.
+கேம் புதுப்பிக்கப்படும்போது கூடுதல் தடங்களை எதிர்பார்க்கலாம்.
 
-### Convoy
+### கான்வாய்
 
-**How to start**: In the Main Menu or convoy icon, create a convoy (you become the leader) or browse public convoys within 500 studs and request to join.
+**எப்படி தொடங்குவது**: Main Menu அல்லது கான்வாய் ஐகானில், கான்வாய் ஒன்றை உருவாக்கவும் (நீங்கள் தலைவராவீர்கள்) அல்லது 500 studsக்குள் பொது கான்வாய்களை உலாவவும் மற்றும் சேருமாறு கோரவும்.
 
-**What you do**: Drive with up to 6 people in the same convoy. Stay within 200 studs of each other to keep the bonus active. The more friends and same-team members you have, the higher the XP multiplier - up to +50% on top of the base XP stack.
+**நீங்கள் என்ன செய்கிறீர்கள்**: ஒரே வாகனத் தொடரணியில் 6 பேர் வரை பயணிக்கலாம். போனஸ் செயலில் இருக்க, ஒருவருக்கொருவர் 200 studs க்குள் இருங்கள். உங்களிடம் அதிகமான நண்பர்கள் மற்றும் ஒரே குழு உறுப்பினர்கள் இருந்தால், XP பெருக்கி - அடிப்படை XP அடுக்கின் மேல் +50% வரை இருக்கும்.
 
-See [Social Features](/lebuhraya/social-features) for the full breakdown.
+முழு விவரத்திற்கு [சமூக அம்சங்கள்](/ta/lebuhraya/social-features) பார்க்கவும்.
 
-### Housing
+### வீட்டுவசதி
 
-**How to start**: Visit **Pangsapuri Seri Putra** in Bandar Seri Putra to claim an available plot.
+**எப்படி தொடங்குவது**: Bandar Seri Putra இல் உள்ள **Pangsapuri Seri Putra** ஐப் பார்வையிடவும்.
 
-**What you do**: Place a house template (3 Kampung styles or 1 Modern Terrace), customise the paint, add furniture, lock/unlock doors, toggle lights.
+**நீங்கள் என்ன செய்கிறீர்கள்**: வீட்டின் டெம்ப்ளேட்டை (3 கம்பங் ஸ்டைல்கள் அல்லது 1 மாடர்ன் டெரஸ்) வைக்கவும், பெயிண்ட்டைத் தனிப்பயனாக்கவும், மரச்சாமான்களைச் சேர்க்கவும், கதவுகளைப் பூட்டவும்/திறக்கவும், விளக்குகளை மாற்றவும்.
 
-See [Housing](/lebuhraya/housing) for details.
-
----
-
-## 999 emergency system
-
-Any player can call 999 (see [Social Features](/lebuhraya/social-features)). If you're on an emergency team (Bomba, Polis Trafik, Undercover Police, Kesihatan), equip your **Pager** to see active incidents and accept one.
-
-- Incident types: **Car Crash**, **Injured Person**.
-- Up to **10 incidents** can be open at once.
-- A resolved incident takes at least **30 seconds** before rewards are paid out - this is the minimum response window to discourage instant-resolve farming.
-- If the incident is cancelled or you change teams, your assignment is dropped.
+விவரங்களுக்கு [வீடு](/ta/lebuhraya/housing) ஐப் பார்க்கவும்.
 
 ---
 
-## Which job should I start with?
+## 999 அவசரகால அமைப்பு
 
-- **Level 10**: Food Delivery is the classic starter. 250 XP per delivery, short routes, uses any vehicle.
-- **Got the MYSverse group?** Fishing is chill and self-paced.
-- **Want action?** Bomba or Polis Trafik (requires gamepass) - lots of 999 incidents, social roleplay.
-- **Want to drive for hours?** Logistics or Taxi (Taxi needs gamepass, Logistics needs Level 75 or Season 1 Pass).
+எந்த வீரரும் 999ஐ அழைக்கலாம் (பார்க்க [சமூக அம்சங்கள்](/ta/lebuhraya/social-features)). நீங்கள் ஒரு அவசரக் குழுவில் இருந்தால் (Bomba, Polis Trafik, Undercover Police, Kesihatan), செயலில் உள்ள சம்பவங்களைக் காண உங்கள் **பேஜரை** தயார்படுத்தி, ஒன்றை ஏற்கவும்.
 
-## Next steps
+- சம்பவ வகைகள்: **கார் விபத்து**, **காயமடைந்த நபர்**.
+- **10 சம்பவங்கள்** வரை ஒரே நேரத்தில் திறக்கப்படலாம்.
+- தீர்க்கப்பட்ட சம்பவத்திற்கு வெகுமதிகள் வழங்கப்படுவதற்கு குறைந்தபட்சம் **30 வினாடிகள்** ஆகும் - இது உடனடி-தீர்வு விவசாயத்தை ஊக்கப்படுத்துவதற்கான குறைந்தபட்ச பதில் சாளரமாகும்.
+- சம்பவம் ரத்துசெய்யப்பட்டாலோ அல்லது நீங்கள் அணிகளை மாற்றினால், உங்கள் பணி கைவிடப்படும்.
 
-- [Teams and careers](/lebuhraya/teams) - Rank titles and tier progression
-- [World and map](/lebuhraya/map) - Where every job's buildings are located
+---
+
+## நான் எந்த வேலையை ஆரம்பிக்க வேண்டும்?
+
+- **நிலை 10**: Food Delivery என்பது கிளாசிக் ஸ்டார்டர். ஒரு டெலிவரிக்கு 250 XP, குறுகிய வழிகள், எந்த வாகனத்தையும் பயன்படுத்துகிறது.
+- **MYSverse குழு கிடைத்ததா?** Fishing குளிர்ச்சியாகவும் சுய-வேகமாகவும் இருக்கிறது.
+- **நடவடிக்கை வேண்டுமா?** Bomba அல்லது Polis Trafik (gamepass தேவை) - நிறைய 999 சம்பவங்கள், சமூகப் பாத்திரம்.
+- **மணிநேரம் ஓட்ட வேண்டுமா?** லாஜிஸ்டிக்ஸ் அல்லது டாக்ஸி (டாக்ஸிக்கு gamepass, லாஜிஸ்டிக்ஸுக்கு நிலை 75 அல்லது Season 1 பாஸ் தேவை).
+
+## அடுத்த படிகள்
+
+- [அணிகள் மற்றும் தொழில்](/ta/lebuhraya/teams) - தரவரிசை தலைப்புகள் மற்றும் அடுக்கு முன்னேற்றம்
+- [உலகம் மற்றும் வரைபடம்](/ta/lebuhraya/map) - ஒவ்வொரு வேலையின் கட்டிடங்களும் அமைந்துள்ள இடம்

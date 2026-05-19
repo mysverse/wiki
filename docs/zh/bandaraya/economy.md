@@ -13,7 +13,7 @@ Bandaraya 以 **BR（Bandar Ringgit）** 作为货币运作。你通过工作赚
 ## TL;DR
 
 - 主要货币是 **BR** - 你的"现金"钱包。
-- 第二个钱包是 **CAG 卡**,属于储值性质,仅供 **巴士、MRT 和过路费** 使用。参见 [交通](/bandaraya/getting-around)。CAG 无法提现。
+- 第二个钱包是 **CAG 卡**,属于储值性质,仅供 **巴士、MRT 和过路费** 使用。参见 [交通](/zh/bandaraya/getting-around)。CAG 无法提现。
 - 通过工作(POS、德士、拖车、巴士)、警察/紧急响应,或用 Robux 购买 BR 来赚取 BR。
 - 在商店、车行、TapNGo 闸口、拆夹车锁和罚单支付上消费 BR。
 
@@ -34,12 +34,12 @@ Bandaraya 以 **BR（Bandar Ringgit）** 作为货币运作。你通过工作赚
 
 | 来源 | 团队 / 要求 | 收入 |
 | --- | --- | --- |
-| **邮政服务 (POS)** | 任何人 | 第 1 级 **70 BR**,第 20 级(最高) **260 BR**。参见 [工作](/bandaraya/jobs#postal-service-pos)。 |
-| **德士司机** | Taxi Services 团队 **或** Taxi Driver gamepass(150 R$) | 每完成一趟。参见 [工作](/bandaraya/jobs#taxi-driver)。 |
-| **拖车服务** | Towing Services 团队 | 夹车锁费用、拖车任务。参见 [工作](/bandaraya/jobs#towing)。 |
+| **邮政服务 (POS)** | 任何人 | 第 1 级 **70 BR**,第 20 级(最高) **260 BR**。参见 [工作](/zh/bandaraya/jobs#postal-service-pos)。 |
+| **德士司机** | Taxi Services 团队 **或** Taxi Driver gamepass(150 R$) | 每完成一趟。参见 [工作](/zh/bandaraya/jobs#taxi-driver)。 |
+| **拖车服务** | Towing Services 团队 | 夹车锁费用、拖车任务。参见 [工作](/zh/bandaraya/jobs#towing)。 |
 | **巴士驾驶** | MyTransit / FirstGroup / Fermuda / Bus Services | 按路线计费。司机免费乘搭。 |
 | **开发者商品** | 任何人 | Robux → BR。参见下方表格。 |
-| **其他玩家赠送** | 任何人 | 通过游戏内的 **MyPay** 手机应用。参见 [手机](/bandaraya/phone#mypay--send-br-to-another-player)。 |
+| **其他玩家赠送** | 任何人 | 通过游戏内的 **MyPay** 手机应用。参见 [手机](/zh/bandaraya/phone#mypay--send-br-to-another-player)。 |
 
 HCC gamepass 在上述基础上提供 **收入加成**。
 
@@ -71,7 +71,7 @@ HCC gamepass 在上述基础上提供 **收入加成**。
 
 ### 车行
 
-**Classic Car Dealer** 出售民用车:Proton、Perodua、Toyota、Honda、Ford Mustang、BMW、Mitsubishi 等等。价格因型号而异。参见 [车辆](/bandaraya/vehicles#dealership)。
+**Classic Car Dealer** 出售民用车:Proton、Perodua、Toyota、Honda、Ford Mustang、BMW、Mitsubishi 等等。价格因型号而异。参见 [车辆](/zh/bandaraya/vehicles#dealership)。
 
 - **购买** - 永久。保存到你的账户,每 30 秒自动保存。
 - **租用** - 临时使用。
@@ -87,7 +87,7 @@ HCC gamepass 在上述基础上提供 **收入加成**。
 | **拆夹车锁** | **500 BR**。在拖车操作员给你的车辆上锁后发生。 |
 | **罚单 (Saman)** | 不定 - 警察会在屏幕上发出带有 BR 罚款的罚单。 |
 
-交通价格参见 [交通](/bandaraya/getting-around)。
+交通价格参见 [交通](/zh/bandaraya/getting-around)。
 
 ---
 
@@ -109,7 +109,7 @@ HCC gamepass 在上述基础上提供 **收入加成**。
 
 ## Gamepass(一次性解锁)
 
-完整详情请参见专门的 [Gamepasses](/bandaraya/gamepasses) 页面。简表:
+完整详情请参见专门的 [Gamepasses](/zh/bandaraya/gamepasses) 页面。简表:
 
 | Gamepass | Robux | 你得到什么 |
 | --- | --- | --- |
@@ -133,8 +133,8 @@ Gamepass 跨 session 保留。
 
 ## 另见
 
-- [工作](/bandaraya/jobs) - 赚取 BR
-- [Gamepass](/bandaraya/gamepasses) - HCC、Firearms Licence 等。
-- [车辆](/bandaraya/vehicles) - 车行 + 燃油
-- [交通](/bandaraya/getting-around) - CAG 卡、交通费
-- [逮捕与法律](/bandaraya/arrest-and-law) - 罚单
+- [工作](/zh/bandaraya/jobs) - 赚取 BR
+- [Gamepass](/zh/bandaraya/gamepasses) - HCC、Firearms Licence 等。
+- [车辆](/zh/bandaraya/vehicles) - 车行 + 燃油
+- [交通](/zh/bandaraya/getting-around) - CAG 卡、交通费
+- [逮捕与法律](/zh/bandaraya/arrest-and-law) - 罚单

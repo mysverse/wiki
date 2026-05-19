@@ -114,7 +114,7 @@ Kesihatan 救护车随你的 sector 等级提升而解锁。
 
 KKN 代表 Kementerian Kesihatan Nasional（National Ministry of Health）。每辆救护车都有警笛和后部货物空间（用于 Stretcher）。
 
-请参阅 [Vehicles](/sumaya/vehicles) 了解如何召唤它们。
+请参阅 [Vehicles](/zh/sumaya/vehicles) 了解如何召唤它们。
 
 ## 阶级
 
@@ -149,7 +149,7 @@ Kesihatan 有 13 个阶级，大致基于实际马来西亚医疗职位。当你
 
 ## 接下来呢？
 
-- [Polis](/sumaya/polis) 了解执法方面。
-- [Bomba](/sumaya/bomba) 了解消防员对应。
-- [Vehicles](/sumaya/vehicles) 查看救护车列表。
-- [Progression](/sumaya/progression) 了解 XP 如何复合。
+- [Polis](/zh/sumaya/polis) 了解执法方面。
+- [Bomba](/zh/sumaya/bomba) 了解消防员对应。
+- [Vehicles](/zh/sumaya/vehicles) 查看救护车列表。
+- [进度](/zh/sumaya/progression) 了解 XP 如何复合。

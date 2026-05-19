@@ -18,7 +18,7 @@ needs_review: true
 
 ## 入门
 
-1. 在[捕鱼](/sumaya/jobs-fishing)或[棕油](/sumaya/jobs-palm-oil)中达到行业 50 级。
+1. 在[捕鱼](/zh/sumaya/jobs-fishing)或[棕油](/zh/sumaya/jobs-palm-oil)中达到行业 50 级。
 2. 打开手机上的 **Careers** 应用程式。
 3. 选择 **Service Sector**。
 4. 走到 Mamak 摊位或 Fast Food 柜台（Careers 应用程式会指引你前往）。
@@ -71,6 +71,6 @@ XP 为固定值：**每位顾客 6 XP**（行业与玩家等级皆然），如�
 
 ## 接下来呢？
 
-- 想要较为悠闲的替代选择,可选[捕鱼](/sumaya/jobs-fishing)。
-- 想要较高单次行动报酬,可选[棕油](/sumaya/jobs-palm-oil)。
-- 关于行业等级如何影响奖励,可参阅[Progression](/sumaya/progression)。
+- 想要较为悠闲的替代选择,可选[捕鱼](/zh/sumaya/jobs-fishing)。
+- 想要较高单次行动报酬,可选[棕油](/zh/sumaya/jobs-palm-oil)。
+- 关于行业等级如何影响奖励,可参阅[进度](/zh/sumaya/progression)。

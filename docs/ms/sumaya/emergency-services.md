@@ -12,9 +12,9 @@ needs_review: true
 
 Sumaya mempunyai tiga pasukan perkhidmatan kecemasan:
 
-- [Bomba](/sumaya/bomba) - briged kebakaran
-- [Kesihatan](/sumaya/kesihatan) - perubatan / paramedik
-- [Polis](/sumaya/polis) - polis
+- [Bomba](/ms/sumaya/bomba) - briged kebakaran
+- [Kesihatan](/ms/sumaya/kesihatan) - perubatan / paramedik
+- [Polis](/ms/sumaya/polis) - polis
 
 Memilih salah satu pasukan ini meletakkan anda dalam keadaan **Bertugas** sebaik sahaja anda spawn. Tidak seperti kerjaya awam (yang anda perlu clock in melalui telefon), perkhidmatan kecemasan adalah identiti anda, bukan apa yang sedang anda lakukan.
 
@@ -35,9 +35,9 @@ Perkhidmatan kecemasan juga mempunyai sistem pangkat yang paling terperinci - 13
 
 Panduan pantas:
 
-- **Anda suka aksi dan kejaran:** [Polis](/sumaya/polis). Mengejar suspek, menjalankan perangkap kelajuan, membuat tangkapan. Paling dinamik apabila server mempunyai penjenayah.
-- **Anda suka kerja berpasukan dan detik-detik besar:** [Bomba](/sumaya/bomba). Kebakaran adalah acara berkumpulan. Beberapa anggota bomba pada satu insiden adalah cara terpantas untuk naik tahap.
-- **Anda suka membantu individu:** [Kesihatan](/sumaya/kesihatan). Setiap pesakit adalah satu-dengan-satu: diagnos, rawat, teruskan. Juga memberi galakan **+15% XP pemain** kepada seluruh server semasa sistem kecederaan anda aktif.
+- **Anda suka aksi dan kejaran:** [Polis](/ms/sumaya/polis). Mengejar suspek, menjalankan perangkap kelajuan, membuat tangkapan. Paling dinamik apabila server mempunyai penjenayah.
+- **Anda suka kerja berpasukan dan detik-detik besar:** [Bomba](/ms/sumaya/bomba). Kebakaran adalah acara berkumpulan. Beberapa anggota bomba pada satu insiden adalah cara terpantas untuk naik tahap.
+- **Anda suka membantu individu:** [Kesihatan](/ms/sumaya/kesihatan). Setiap pesakit adalah satu-dengan-satu: diagnos, rawat, teruskan. Juga memberi galakan **+15% XP pemain** kepada seluruh server semasa sistem kecederaan anda aktif.
 
 ## Persamaan
 
@@ -73,7 +73,7 @@ Ini adalah unik: sistem kecederaan **diaktifkan secara automatik bila-bila masa 
 
 ## Kenderaan kecemasan
 
-Setiap perkhidmatan mempunyai kenderaannya sendiri, dibuka apabila tahap sektor anda meningkat. Lihat [Vehicles](/sumaya/vehicles) untuk katalog penuh, atau halaman perkhidmatan individu untuk senarai khusus pasukan.
+Setiap perkhidmatan mempunyai kenderaannya sendiri, dibuka apabila tahap sektor anda meningkat. Lihat [Vehicles](/ms/sumaya/vehicles) untuk katalog penuh, atau halaman perkhidmatan individu untuk senarai khusus pasukan.
 
 Kenderaan kecemasan mempunyai **siren dan lampu** (ELS). Menghidupkan siren semasa anda memandu kenderaan kecemasan memberi anda pengecualian sementara daripada kesalahan trafik - anda tidak boleh disaman kerana memandu laju atau kemalangan semasa siren anda aktif.
 
@@ -86,14 +86,14 @@ Orang awam boleh mendail **999** daripada telefon mereka untuk meminta perkhidma
 - Menetapkan titik laluan untuk navigasi ke sana.
 - Menandakan panggilan sebagai dijawab / ditutup.
 
-Ini adalah cara utama orang awam memanggil anda. MDT terdapat dalam senarai aplikasi telefon - ia hanya muncul untuk pemain dalam pasukan perkhidmatan kecemasan. Lihat [Phone and UI](/sumaya/phone).
+Ini adalah cara utama orang awam memanggil anda. MDT terdapat dalam senarai aplikasi telefon - ia hanya muncul untuk pemain dalam pasukan perkhidmatan kecemasan. Lihat [Phone and UI](/ms/sumaya/phone).
 
 ## Apa seterusnya?
 
 Pilih satu perkhidmatan untuk membaca:
 
-- [Bomba (briged kebakaran)](/sumaya/bomba)
-- [Kesihatan (perubatan)](/sumaya/kesihatan)
-- [Polis (polis)](/sumaya/polis)
+- [Bomba (briged kebakaran)](/ms/sumaya/bomba)
+- [Kesihatan (perubatan)](/ms/sumaya/kesihatan)
+- [Polis (polis)](/ms/sumaya/polis)
 
-Atau lompat ke [Crime and Law](/sumaya/crime-and-law) jika anda ingin tahu apa yang Polis sedang hadapi.
+Atau lompat ke [Crime and Law](/ms/sumaya/crime-and-law) jika anda ingin tahu apa yang Polis sedang hadapi.

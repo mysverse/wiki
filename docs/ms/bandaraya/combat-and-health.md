@@ -204,7 +204,7 @@ Duduk diam dan jangan lari.
 
 Butang reset **dilumpuhkan pada 75 HP atau lebih rendah** - ini untuk menghentikan **RTAA** (reset untuk elak penahanan). Jika anda cedera, lawan terus atau tunggu paramedik.
 
-Lihat [Penahanan & Undang-Undang](/bandaraya/arrest-and-law#rtaa).
+Lihat [Penahanan & Undang-Undang](/ms/bandaraya/arrest-and-law#rtaa).
 
 ---
 
@@ -237,9 +237,9 @@ Jika anda bukan OCG, anda boleh menonton tetapi tidak boleh menjaringkan. POLIS 
 
 ## Lihat juga
 
-- [Penahanan & Undang-Undang](/bandaraya/arrest-and-law) - penahanan, mekanik penangkapan, LTAA / RTAA
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - peranan KKM + SJAM
-- [Ekonomi](/bandaraya/economy) - kedai Ammulaysia dan Illegal Dealer
-- [Gamepass](/bandaraya/gamepasses) - Firearms Licence
-- [Kenderaan](/bandaraya/vehicles) - senarai kenderaan kalis peluru
-- [Peraturan](/bandaraya/rules) - etika pertempuran dan pelanggaran teruk
+- [Penahanan & Undang-Undang](/ms/bandaraya/arrest-and-law) - penahanan, mekanik penangkapan, LTAA / RTAA
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - peranan KKM + SJAM
+- [Ekonomi](/ms/bandaraya/economy) - kedai Ammulaysia dan Illegal Dealer
+- [Gamepass](/ms/bandaraya/gamepasses) - Firearms Licence
+- [Kenderaan](/ms/bandaraya/vehicles) - senarai kenderaan kalis peluru
+- [Peraturan](/ms/bandaraya/rules) - etika pertempuran dan pelanggaran teruk

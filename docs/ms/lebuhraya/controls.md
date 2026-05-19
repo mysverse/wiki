@@ -139,6 +139,6 @@ Apabila anda memegang alatan - kapak, pistol radar, taser, penyeranta, hos kebak
 
 ## Langkah seterusnya
 
-- [Ekonomi dan XP](/lebuhraya/economy) - Cara memandu bertukar menjadi tahap
-- [Kenderaan](/lebuhraya/vehicles) - Menu spawn, pemilikan, bahan api
-- [Kerja](/lebuhraya/jobs) - Alatan mana yang dimiliki oleh pasukan mana
+- [Ekonomi dan XP](/ms/lebuhraya/economy) - Cara memandu bertukar menjadi tahap
+- [Kenderaan](/ms/lebuhraya/vehicles) - Menu spawn, pemilikan, bahan api
+- [Kerja](/ms/lebuhraya/jobs) - Alatan mana yang dimiliki oleh pasukan mana

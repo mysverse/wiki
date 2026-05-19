@@ -87,7 +87,7 @@ Bomba 车辆随你的部门等级提升而解锁。
 
 每辆卡车有不同的容量和操控性。Atego 是灵活的入门款;Tanker 是重型实用车。LFRT 代表 "Light Fire Rescue Tender",FRT 代表 "Fire Rescue Tender"。
 
-请参阅 [Vehicles](/sumaya/vehicles) 了解如何召唤它们。
+请参阅 [Vehicles](/zh/sumaya/vehicles) 了解如何召唤它们。
 
 ## 警衔
 
@@ -122,7 +122,7 @@ Bomba 有 13 个警衔,基于 MYSverse 真实的消防与救援部门(Bomba MYSv
 
 ## 接下来呢?
 
-- [Kesihatan](/sumaya/kesihatan) 如果你对医疗方面感兴趣。
-- [Polis](/sumaya/polis) 用于执法。
-- [Vehicles](/sumaya/vehicles) 获取完整的 Bomba 车辆列表。
-- [Progression](/sumaya/progression) 了解 XP 如何在各部门间运作。
+- [Kesihatan](/zh/sumaya/kesihatan) 如果你对医疗方面感兴趣。
+- [Polis](/zh/sumaya/polis) 用于执法。
+- [Vehicles](/zh/sumaya/vehicles) 获取完整的 Bomba 车辆列表。
+- [进度](/zh/sumaya/progression) 了解 XP 如何在各部门间运作。

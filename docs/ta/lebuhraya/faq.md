@@ -10,259 +10,259 @@ needs_review: true
 ---
 # அடிக்கடி கேட்கப்படும் கேள்விகள் & குறிப்புகள்
 
-Common questions, quality-of-life tips, and the things experienced players wish they'd known earlier.
+பொதுவான கேள்விகள், வாழ்க்கைத் தர உதவிக்குறிப்புகள் மற்றும் அனுபவம் வாய்ந்த வீரர்கள் தாங்கள் முன்பே அறிந்திருக்க விரும்பும் விஷயங்கள்.
 
-## Common questions
+## பொதுவான கேள்விகள்
 
-### Why did my XP reset when I joined a test server?
+### நான் server தேர்வில் சேர்ந்தபோது எனது XP ஏன் மீட்டமைக்கப்பட்டது?
 
-Test servers reset XP to 0 on purpose so new features can be tested safely. The warning message "XP will be reset to 0" is normal. Your **live public game progress is not affected**.
+சோதனை சேவையகங்கள் XP க்கு 0 க்கு மீட்டமைக்கப்படுகின்றன, எனவே புதிய அம்சங்களை பாதுகாப்பாக சோதிக்க முடியும். "XP 0 க்கு மீட்டமைக்கப்படும்" என்ற எச்சரிக்கை செய்தி இயல்பானது. உங்கள் **நேரடி பொது விளையாட்டு முன்னேற்றம் பாதிக்கப்படவில்லை**.
 
-### I can't open the vehicle spawner. Why?
+### வாகன ஸ்பானரை என்னால் திறக்க முடியவில்லை. ஏன்?
 
-A few possibilities:
+சில சாத்தியங்கள்:
 
-- You may need to load in fully - wait a few seconds after joining.
-- A menu might be on top of it - close any open menus (Esc or Backspace).
-- You need to be near a physical vehicle spawner prompt in the world. The MyPod topbar icon is only a music player.
-- You may be on a job team and trying to use a civilian spawner. Switch to Visitors or use your team spawner.
-- You may be using a team-only spawner. Join the named team first.
-- If the issue persists, rejoin the server.
+- நீங்கள் முழுமையாக ஏற்ற வேண்டியிருக்கலாம் - சேர்ந்த பிறகு சில வினாடிகள் காத்திருக்கவும்.
+- ஒரு மெனு அதன் மேல் இருக்கலாம் - திறந்திருக்கும் மெனுக்களை (Esc அல்லது Backspace) மூடு.
+- நீங்கள் உலகில் ஒரு உடல் வாகனத்தை உருவாக்குவதற்கு அருகில் இருக்க வேண்டும். MyPod டாப்பார் ஐகான் ஒரு மியூசிக் பிளேயர் மட்டுமே.
+- நீங்கள் ஒரு வேலை குழுவில் இருக்கலாம் மற்றும் ஒரு சிவிலியன் ஸ்பானரைப் பயன்படுத்த முயற்சிக்கலாம். Visitorsக்கு மாறவும் அல்லது உங்கள் டீம் ஸ்பானரைப் பயன்படுத்தவும்.
+- நீங்கள் குழுவிற்கு மட்டும் ஸ்பானரைப் பயன்படுத்தலாம். முதலில் பெயரிடப்பட்ட அணியில் சேரவும்.
+- சிக்கல் தொடர்ந்தால், server இல் மீண்டும் சேரவும்.
 
-### Is MyPod the vehicle spawner?
+### MyPod வாகனத்தை உருவாக்குகிறதா?
 
-No. **MyPod** is the music player. It has playback controls, volume, shuffle/repeat, favourites, a track list, and an auto-play-in-vehicle option. Vehicles are spawned from physical spawner pads/markers in the world.
+எண். **MyPod** என்பது மியூசிக் பிளேயர். இது பின்னணி கட்டுப்பாடுகள், வால்யூம், ஷஃபிள்/ரீபீட், பிடித்தவைகள், டிராக் லிஸ்ட் மற்றும் ஆட்டோ-பிளே-இன்-வெஹிக்கிள் ஆப்ஷன் ஆகியவற்றைக் கொண்டுள்ளது. உலகில் உள்ள உடல் ஸ்பானர் பேட்கள்/மார்க்கர்களில் இருந்து வாகனங்கள் உருவாகின்றன.
 
-### The vehicle spawner opens, but my vehicle is locked or missing.
+### வாகன ஸ்பானர் திறக்கிறது, ஆனால் எனது வாகனம் பூட்டப்பட்டுள்ளது அல்லது காணவில்லை.
 
-Check the card and spawner type:
+அட்டை மற்றும் ஸ்பானர் வகையைச் சரிபார்க்கவும்:
 
-- **Level X** means your player level is too low.
-- **Tier X** means your career rank is too low on that branch.
-- **Vehicle locked** means you do not own the special/gamepass/code vehicle.
-- A missing vehicle usually means you are at the wrong spawner type: Basic, Bike, Premium, Special, or a team-specific spawner.
+- **லெவல் X** என்றால் உங்கள் பிளேயர் நிலை மிகவும் குறைவாக உள்ளது.
+- ** அடுக்கு X** என்பது அந்த கிளையில் உங்கள் தொழில் தரவரிசை மிகவும் குறைவாக உள்ளது.
+- **வாகனம் பூட்டப்பட்டுள்ளது** என்றால் சிறப்பு/gamepass/குறியீட்டு வாகனம் உங்களிடம் இல்லை.
+- காணாமல் போன வாகனம் என்றால், நீங்கள் தவறான ஸ்பானர் வகையைச் சேர்ந்திருக்கிறீர்கள் என்று அர்த்தம்: அடிப்படை, பைக், Premium, ஸ்பெஷல் அல்லது குழு சார்ந்த ஸ்பானர்.
 
-See [Vehicles -> Spawner troubleshooting](/lebuhraya/vehicles#spawner-troubleshooting).
+[வாகனங்கள் -> ஸ்பானர் சரிசெய்தல்](/ta/lebuhraya/vehicles#spawner-troubleshooting) ஐப் பார்க்கவும்.
 
-### Where did career, tokens, credits, and races go?
+### தொழில், டோக்கன்கள், வரவுகள் மற்றும் பந்தயங்கள் எங்கு சென்றன?
 
-They are under **Main Menu -> More**. The top-level menu now shows **Home**, **Teams**, **Shop**, **Activity**, and **More**. Activity contains missions/challenges/season progress; More contains secondary panels such as Career, Jobs, Tokens, Credits, Races, and Help.
+அவை **Main Menu -> மேலும்** கீழ் உள்ளன. மேல்-நிலை மெனு இப்போது **Home**, **அணிகள்**, **ஷாப்**, **செயல்பாடு** மற்றும் **மேலும்** ஆகியவற்றைக் காட்டுகிறது. செயல்பாட்டில் பணிகள்/சவால்கள்/சீசன் முன்னேற்றம் உள்ளது; மேலும் தொழில், வேலைகள், டோக்கன்கள், கடன்கள், பந்தயங்கள் மற்றும் Help போன்ற இரண்டாம் நிலை பேனல்கள் உள்ளன.
 
-### What's the fastest way to level up?
+### சமன் செய்ய விரைவான வழி எது?
 
-The best approach for fast levelling:
+வேகமாக சமன் செய்வதற்கான சிறந்த அணுகுமுறை:
 
-1. **Drive continuously in a driver seat.** Passive XP is 50 per 1500 studs.
-2. **Do jobs** - Food Delivery pays 250 XP per delivery once you're level 10.
-3. **Convoy with friends on the same team** - up to +50% bonus.
-4. **Activate a 2× XP token** before a long session.
-5. **Play during Double XP Weekend** if announced.
-6. **Subscribe to Roblox Premium** for a permanent +25%.
-7. **Buy the XP Boost gamepass** for a permanent +50%.
+1. **ஓட்டுனர் இருக்கையில் தொடர்ந்து ஓட்டவும்.** Passive XP என்பது 1500க்கு 50 studs.
+2. ** வேலைகளைச் செய்யுங்கள்** - Food Delivery ஒரு டெலிவரிக்கு 250 XP செலுத்துகிறது, நீங்கள் நிலை 10 ஆனதும்.
+3. **ஒரே குழுவில் உள்ள நண்பர்களுடன் கான்வாய்** - +50% வரை போனஸ்.
+4. **நீண்ட அமர்வுக்கு முன் 2× XP டோக்கனை** செயல்படுத்தவும்.
+5. **Double XP வார இறுதியில் விளையாடுங்கள்** அறிவிக்கப்பட்டால்.
+6. ** நிரந்தர +25%க்கு Roblox Premium** க்கு குழுசேரவும்.
+7. ** நிரந்தர +50%க்கு XP Boost gamepass** ஐ வாங்கவும்.
 
-Stacking all of these, you can hit levels 10–20× faster than a solo player driving alone.
+இவை அனைத்தையும் அடுக்கி, தனியாக ஓட்டும் ஒரு தனி வீரரை விட 10-20× வேகத்தில் நீங்கள் லெவல்களை அடையலாம்.
 
-### I want to be a police officer. How?
+### எனக்கு போலீஸ் அதிகாரி ஆக வேண்டும். எப்படி?
 
-Police teams require a gamepass:
+போலீஸ் குழுக்களுக்கு gamepass தேவை:
 
-- **KEMRonda** - Highway auxiliary (traffic assistance, towing).
-- **Polis Trafik** - Traffic law enforcement.
-- **Undercover Police** - Plain-clothes enforcement.
+- **KEMRonda** - நெடுஞ்சாலை துணை (போக்குவரத்து உதவி, இழுத்தல்).
+- **Polis Trafik** - போக்குவரத்து சட்ட அமலாக்கம்.
+- **Undercover Police** - சாதாரண உடைகள் அமலாக்கம்.
 
-Buy the gamepass for the team you want, then join from the Main Menu → Teams tab.
+நீங்கள் விரும்பும் அணிக்கு gamepass ஐ வாங்கவும், பின்னர் Main Menu → குழுக்கள் தாவலில் சேரவும்.
 
-If you want to work in law enforcement without a gamepass, **APJ** (level 300) is a Road Transport Agency team, but it's a long way off.
+நீங்கள் gamepass இல்லாமல் சட்ட அமலாக்கத்தில் பணியாற்ற விரும்பினால், **APJ** (நிலை 300) என்பது சாலைப் போக்குவரத்து ஏஜென்சி குழுவாகும், ஆனால் அது வெகு தொலைவில் உள்ளது.
 
-### How do I refuel my car?
+### எனது காருக்கு எப்படி எரிபொருள் நிரப்புவது?
 
-1. Drive to a station - **PETROMAS** on the highway, **Radtrol** in Bandar Seri Putra.
-2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
-3. An on-screen prompt appears - interact to pump / charge.
+1. ஒரு நிலையத்திற்கு ஓட்டுங்கள் - **PETROMAS** நெடுஞ்சாலையில், **Radtrol** Bandar Seri Putra இல்.
+2. உங்கள் எரிபொருள் வகைக்கு (பெட்ரோல், டீசல் அல்லது மின்சாரம்) பொருந்தக்கூடிய பம்ப் அருகே இழுக்கவும்.
+3. ஆன்-ஸ்கிரீன் ப்ராம்ட் தோன்றும் - பம்ப் / சார்ஜ் செய்ய தொடர்பு.
 
-Fuel is **currently free** in this version of the game. The usual reference prices are Electric 1 BR, Petrol 2 BR, and Diesel 3 BR per litre, but refuelling does not currently deduct BR from your balance.
+இந்த விளையாட்டின் பதிப்பில் எரிபொருள் **தற்போது இலவசம்**. வழக்கமான குறிப்பு விலைகள் எலெக்ட்ரிக் 1 BR, பெட்ரோல் 2 BR, மற்றும் டீசல் 3 BR லிட்டருக்கு, ஆனால் எரிபொருள் நிரப்புவது தற்போது உங்கள் இருப்பில் இருந்து BRஐக் கழிக்கவில்லை.
 
-### My car ran out of fuel and I'm stranded. What now?
+### எனது காரில் எரிபொருள் தீர்ந்து, நான் சிக்கித் தவிக்கிறேன். இப்போது என்ன?
 
-You have three options:
+உங்களுக்கு மூன்று விருப்பங்கள் உள்ளன:
 
-1. **Buy a JerryCan** at the **Jerrycan Shop**, fill it at any station (match the fuel type), and pour it into your tank.
-2. **Spawn a replacement vehicle** from a physical vehicle spawner. You'll lose your current vehicle position but get a fresh tank.
-3. **Ask a KEMRonda player** for a tow - they can take you to the nearest station.
+1. **ஜெர்ரிகான் கடையில்** ஒரு ஜெர்ரிகேனை வாங்கவும்**, எந்த நிலையத்திலும் அதை நிரப்பவும் (எரிபொருள் வகையைப் பொருத்து), அதை உங்கள் தொட்டியில் ஊற்றவும்.
+2. **ஒரு மாற்று வாகனத்தை** ஒரு உடல் வாகன ஸ்போனரிடமிருந்து. உங்கள் தற்போதைய வாகன நிலையை இழப்பீர்கள், ஆனால் புதிய தொட்டியைப் பெறுவீர்கள்.
+3. **ஒரு KEMRonda பிளேயரிடம்** இழுவைக்காக கேளுங்கள் - அவர்கள் உங்களை அருகிலுள்ள நிலையத்திற்கு அழைத்துச் செல்லலாம்.
 
-### Where do I repair my car?
+### எனது காரை எங்கு பழுதுபார்ப்பது?
 
-There are **10 repair zones** placed around the map. Drive your vehicle into one and a prompt will appear - confirm, stay parked, and health regenerates roughly 10% per 5 seconds until fully repaired. You can't repair if the zone is already being used by another player.
+வரைபடத்தைச் சுற்றி **10 பழுதுபார்ப்பு மண்டலங்கள்** உள்ளன. உங்கள் வாகனத்தை ஒன்றில் ஓட்டுங்கள், ஒரு ப்ராம்ட் தோன்றும் - உறுதிப்படுத்தவும், நிறுத்தவும், முழுமையாக பழுதுபடும் வரை 5 வினாடிகளுக்கு சுமார் 10% ஆரோக்கியம் புதுப்பிக்கப்படும். மண்டலத்தை ஏற்கனவே மற்றொரு பிளேயர் பயன்படுத்தினால், நீங்கள் சரிசெய்ய முடியாது.
 
-**Gravstone Workshop** in Bandar Seri Putra is a **customisation shop** (paint, body), not a repair shop - don't go there expecting a fix.
+Bandar Seri Putra இல் உள்ள **Gravstone Workshop** என்பது ஒரு **தனிப்பயனாக்கும் கடை** (பெயிண்ட், பாடி), பழுதுபார்க்கும் கடை அல்ல - திருத்தத்தை எதிர்பார்த்து அங்கு செல்ல வேண்டாம்.
 
-### How does the 999 emergency system work?
+### 999 அவசரகால அமைப்பு எவ்வாறு செயல்படுகிறது?
 
-Any player can call 999 from their Phone (topbar → 999 app). Emergency responders on duty (Bomba, Polis Trafik, Undercover Police, Kesihatan) see the incident on their **Pager** tool and can accept it.
+எந்தவொரு வீரரும் Phone (டாப்பார் → 999 ஆப்) இலிருந்து 999க்கு அழைக்கலாம். கடமையில் இருக்கும் அவசரகால பதிலளிப்பவர்கள் (Bomba, Polis Trafik, Undercover Police, Kesihatan) அவர்களின் **பேஜர்** கருவியில் சம்பவத்தைப் பார்த்து அதை ஏற்றுக்கொள்ளலாம்.
 
-- Incident types: **Car Crash**, **Injured Person**.
-- Minimum resolution time: **30 seconds** after accepting (prevents instant-resolve farming).
-- Up to 10 incidents can be open at once.
+- சம்பவ வகைகள்: **கார் விபத்து**, **காயமடைந்த நபர்**.
+- குறைந்தபட்ச தெளிவுத்திறன் நேரம்: **30 வினாடிகள்** ஏற்றுக்கொண்ட பிறகு (உடனடியாக தீர்க்கும் விவசாயத்தைத் தடுக்கிறது).
+- ஒரே நேரத்தில் 10 சம்பவங்கள் வரை திறக்கப்படலாம்.
 
-See [Social Features → 999 Emergency](/lebuhraya/social-features#999-emergency-system) for the full flow.
+முழு ஓட்டத்திற்கு [சமூக அம்சங்கள் → 999 அவசரநிலை](/ta/lebuhraya/social-features#999-emergency-system) ஐப் பார்க்கவும்.
 
-### What's the injury system and why does it matter?
+### காயம் அமைப்பு என்றால் என்ன, அது ஏன் முக்கியமானது?
 
-When a **Kesihatan (medic) player joins the server**, the injury system **automatically activates for everyone** - including you. This gives you a **+15% XP multiplier** for free on every XP award, stacking with Premium, convoy, token, and other boosts. When the last medic leaves, it turns off again.
+**Kesihatan (மருத்துவ) பிளேயர் server** இல் சேரும்போது, ​​காய அமைப்பு ** தானாகச் செயல்படும் அனைவருக்கும்** - நீங்கள் உட்பட. இது ஒவ்வொரு XP விருதுக்கும் **+15% XP பெருக்கி**ஐ வழங்குகிறது, Premium, கான்வாய், டோக்கன் மற்றும் பிற பூஸ்ட்களுடன் அடுக்கி வைக்கிறது. கடைசி மருந்து வெளியேறியதும், அது மீண்டும் அணைக்கப்படும்.
 
-The trade-off: with injury system on, heavy crashes can inflict injuries on you that need medical treatment. Those injuries become the 999 incidents medics respond to - which is the whole loop working as designed.
+பரிமாற்றம்: காயம் அமைப்பு இயக்கத்தில், கடுமையான விபத்துக்கள் உங்களுக்கு மருத்துவ சிகிச்சை தேவைப்படும் காயங்களை ஏற்படுத்தும். அந்த காயங்கள் 999 சம்பவங்களுக்கு மருத்துவர்கள் பதிலளிக்கின்றன - இது முழு வளையமும் வடிவமைக்கப்பட்டுள்ளது.
 
-**Tip**: if you see a medic in the server lobby, you're getting free extra XP. Drive careful and you'll rarely need treatment.
+**உதவிக்குறிப்பு**: நீங்கள் server லாபியில் ஒரு மருத்துவரைப் பார்த்தால், கூடுதல் XPஐப் பெறுவீர்கள். கவனமாக ஓட்டுங்கள், உங்களுக்கு அரிதாகவே சிகிச்சை தேவைப்படும்.
 
-### What is passive mode?
+### செயலற்ற பயன்முறை என்றால் என்ன?
 
-Passive mode is a toggle that prevents tool-based interactions - weapons, tasers, bandages, and similar gear - in **both directions**:
+Passive பயன்முறை என்பது கருவி அடிப்படையிலான தொடர்புகளைத் தடுக்கும் - ஆயுதங்கள், டேசர்கள், கட்டுகள் மற்றும் ஒத்த கியர் - **இரு திசைகளிலும்**:
 
-- You can't use tools on other players.
-- Other players can't use tools on you.
+- நீங்கள் மற்ற வீரர்களில் கருவிகளைப் பயன்படுத்த முடியாது.
+- மற்ற வீரர்கள் உங்களிடம் கருவிகளைப் பயன்படுத்த முடியாது.
 
-Turn it on from the Main Menu if you don't want to be pulled into combat or emergency roleplay. Turn it off when you're ready to participate. Note: standard driving and job actions aren't affected - passive only blocks weapons and medical tools.
+போர் அல்லது அவசரகால ரோல்பிளேவிற்கு நீங்கள் இழுக்கப்பட விரும்பவில்லை என்றால், Main Menu இலிருந்து அதை இயக்கவும். நீங்கள் பங்கேற்க தயாராக இருக்கும்போது அதை அணைக்கவும். குறிப்பு: நிலையான ஓட்டுநர் மற்றும் வேலை நடவடிக்கைகள் பாதிக்கப்படாது - செயலற்றவை மட்டுமே ஆயுதங்களையும் மருத்துவக் கருவிகளையும் தடுக்கும்.
 
-### Can I own a house?
+### சொந்தமாக வீடு கட்ட முடியுமா?
 
-Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose from four house templates (3 kampung styles + 1 modern terrace), and customise. See [Housing](/lebuhraya/housing).
+ஆம். Bandar Seri Putra இல் **Pangsapuri Seri Putra** ஐப் பார்வையிடவும், ஒரு ப்ளாட்டைப் பெறவும், நான்கு வீட்டு டெம்ப்ளேட்களில் (3 கம்பங் ஸ்டைல்கள் + 1 நவீன மொட்டை மாடி) தேர்வு செய்து தனிப்பயனாக்கவும். பார்க்கவும் [வீடு](/ta/lebuhraya/housing).
 
-### How do I fast travel?
+### நான் எப்படி வேகமாக பயணம் செய்வது?
 
-**Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around - drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
+**விரைவான பயணம் வழக்கமான வீரர்களுக்குக் கிடைக்காது.** இது நிகழ்வு ஒருங்கிணைப்பிற்காக MYSverse மதிப்பீட்டாளர்கள் மற்றும் டெவலப்பர்களால் பயன்படுத்தப்படும் ஊழியர்களுக்கு மட்டுமேயான கருவியாகும். மற்ற அனைவருக்கும், GPS வே பாயிண்ட் சிஸ்டம் (உங்கள் Phone இல்) நீங்கள் எப்படி சுற்றி வருகிறீர்கள் - முழு தூரத்தையும் ஓட்டி, நீங்கள் செல்லும் போது XP சம்பாதிப்பீர்கள். GPS ஆனது உங்கள் இலக்கை நோக்கிச் செல்லும் பாதையைப் பின்பற்றும் ஒளிரும் கற்றையைக் காட்டுகிறது.
 
-(If you ever see the fast travel menu appear, it means you have been granted staff access.)
+(விரைவான பயண மெனு தோன்றுவதை நீங்கள் எப்போதாவது பார்த்தால், உங்களுக்கு ஊழியர்களுக்கான அணுகல் வழங்கப்பட்டுள்ளது என்று அர்த்தம்.)
 
-### I joined a convoy but I'm not getting the bonus.
+### நான் ஒரு கான்வாய் சேர்ந்தேன் ஆனால் எனக்கு போனஸ் கிடைக்கவில்லை.
 
-Check these:
+இவற்றைச் சரிபார்க்கவும்:
 
-- Are you within **200 studs** of another convoy member? The bonus only applies when you're close together.
-- Is the convoy actually active? Check the convoy panel - it shows your current multiplier.
-- Are you a **passenger**? Passengers get half the driver's bonus.
+- நீங்கள் மற்றொரு கான்வாய் உறுப்பினரின் **200 studs** க்குள் இருக்கிறீர்களா? நீங்கள் நெருக்கமாக இருக்கும்போது மட்டுமே போனஸ் பொருந்தும்.
+- கான்வாய் உண்மையில் செயலில் உள்ளதா? கான்வாய் பேனலைச் சரிபார்க்கவும் - இது உங்கள் தற்போதைய பெருக்கியைக் காட்டுகிறது.
+- நீங்கள் ஒரு **பயணி**? பயணிகளுக்கு டிரைவரின் போனஸில் பாதி கிடைக்கும்.
 
-### What are tokens?
+### டோக்கன்கள் என்றால் என்ன?
 
-Consumable items in your inventory that give temporary boosts - 2× XP, Season Pass XP doubler, or temporary team access. Activate from the inventory. See [Social Features → Tokens](/lebuhraya/social-features#tokens-and-boosts).
+தற்காலிக ஊக்கத்தை அளிக்கும் உங்கள் சரக்குகளில் உள்ள நுகர்வு பொருட்கள் - 2× XP, Season Pass XP இரட்டிப்பு அல்லது தற்காலிக குழு அணுகல். சரக்குகளில் இருந்து செயல்படுத்தவும். [சமூக அம்சங்கள் → டோக்கன்கள்](/ta/lebuhraya/social-features#tokens-and-boosts) பார்க்கவும்.
 
-### How do I report a bug or player?
+### பிழை அல்லது பிளேயரை எவ்வாறு புகாரளிப்பது?
 
-Open the in-game **Report** system and describe what happened, where it happened, what team/vehicle/tool/menu you were using, and whether it repeats. For player reports, include the player name and what they did. See [Social Features -> Report system](/lebuhraya/social-features#report-system).
+கேமில் உள்ள **அறிக்கை** அமைப்பைத் திறந்து, என்ன நடந்தது, எங்கு நடந்தது, எந்த அணி/வாகனம்/கருவி/மெனுவைப் பயன்படுத்துகிறீர்கள், அது மீண்டும் நடக்கிறதா என்பதை விவரிக்கவும். பிளேயர் அறிக்கைகளுக்கு, வீரர் பெயர் மற்றும் அவர்கள் என்ன செய்தார்கள். [சமூக அம்சங்கள் -> அறிக்கை அமைப்பு](/ta/lebuhraya/social-features#report-system) ஐப் பார்க்கவும்.
 
-### Is there a single-player / private mode?
+### சிங்கிள் பிளேயர் / பிரைவேட் மோடு உள்ளதா?
 
-Yes - **private servers** are available (purchase from the Roblox experience page). See the dedicated **[Private servers](#private-servers)** section below for everything the owner gets, common use cases, and the limitations.
+ஆம் - **தனியார் சேவையகங்கள்** உள்ளன (Roblox அனுபவப் பக்கத்திலிருந்து வாங்கவும்). உரிமையாளர் பெறும் அனைத்திற்கும், பொதுவான பயன்பாட்டு வழக்குகள் மற்றும் வரம்புகளுக்கு கீழே உள்ள பிரத்யேக **[தனியார் சேவையகங்கள்](#private-servers)** பகுதியைப் பார்க்கவும்.
 
-### Are there promo codes?
+### விளம்பர குறியீடுகள் உள்ளதா?
 
-Yes - open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
+ஆம் - **Main Menu -> Shop**ஐத் திறந்து, குறியீடு மீட்பு புலத்தைப் பயன்படுத்தவும். சில குறியீடுகள் நிரந்தரமாக செயலில் உள்ளன:
 
-| Code | Reward | Uses |
+| குறியீடு | வெகுமதி | பயன்கள் |
 |---|---|---|
-| `experience` | 250 XP | Up to 5 times |
-| `unlimitedpowarr` | 1,000 XP | Unlimited |
-| `gokartracing` | Free Go-Kart (Special spawner) | Once |
-| `fd2r` | Free Handai Civic FD2R (Special spawner) | Once |
-| `renjer` | Free Renjer Loader 2012 (Special spawner) | Once |
-| `outlandish` | Free Masubi Outlander (Special spawner) | Once |
-| `MYS5KFOLLOWERS` | Free Intero Citie Bas Sekolah (Bus Driver spawner) | Once |
+| `experience` | 250 XP | 5 முறை வரை |
+| `unlimitedpowarr` | 1,000 XP | வரம்பற்ற |
+| `gokartracing` | இலவச கோ-கார்ட் (சிறப்பு ஸ்பானர்) | ஒருமுறை |
+| `fd2r` | இலவச Handai Civic FD2R (சிறப்பு ஸ்பானர்) | ஒருமுறை |
+| `renjer` | இலவச ரெஞ்சர் லோடர் 2012 (சிறப்பு ஸ்பானர்) | ஒருமுறை |
+| `outlandish` | இலவச Masubi Outlander (சிறப்பு ஸ்பானர்) | ஒருமுறை |
+| `MYS5KFOLLOWERS` | இலவச Intero சிட்டி பாஸ் செகோலா (Bus Driver ஸ்பானர்) | ஒருமுறை |
 
-Event codes (time-limited) occasionally appear for community events, conventions, and apology makegoods - watch MYSverse channels for them.
+நிகழ்வுக் குறியீடுகள் (நேரம் வரையறுக்கப்பட்டவை) எப்போதாவது சமூக நிகழ்வுகள், மாநாடுகள் மற்றும் மன்னிப்பு தயாரிப்புப் பொருட்களுக்குத் தோன்றும் - அவற்றுக்கான MYSverse சேனல்களைப் பார்க்கவும்.
 
-## Tips the wiki might not have mentioned
+## குறிப்புகள் விக்கி குறிப்பிடாமல் இருக்கலாம்
 
-### "Drive long" is always profitable
+### "நீண்ட டிரைவ்" எப்போதும் லாபம் தரும்
 
-Whatever you're doing, being in a DriveSeat paying attention to the road gives you free XP. Even while on your way to a job, you're earning.
+நீங்கள் என்ன செய்தாலும், டிரைவ் சீட்டில் இருப்பதால் சாலையில் கவனம் செலுத்தினால் XP இலவசம். நீங்கள் வேலைக்குச் செல்லும் போது கூட, நீங்கள் சம்பாதிக்கிறீர்கள்.
 
-### Match your vehicle to the job
+### உங்கள் வாகனத்தை வேலைக்கு பொருத்தவும்
 
-A Tayoti Hiace is a passenger van - don't take one to the Race Track. A Perosatu Myvi is fine for food delivery but useless for freight. Look at the vehicle category in [Vehicles](/lebuhraya/vehicles#vehicle-categories).
+Tayoti Hiace என்பது ஒரு பயணிகள் வேன் - ரேஸ் ட்ராக்கிற்கு எடுத்துச் செல்ல வேண்டாம். A Perosatu Myvi உணவு விநியோகத்திற்கு சிறந்தது ஆனால் சரக்குகளுக்கு பயனற்றது. [வாகனங்கள்](/ta/lebuhraya/vehicles#vehicle-categories) இல் உள்ள வாகன வகையைப் பார்க்கவும்.
 
-### The electric car advantage
+### மின்சார கார் நன்மை
 
-Electric vehicles are cheapest to run once fuel charges are enabled. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
+எரிபொருள் கட்டணம் இயக்கப்பட்டவுடன் மின்சார வாகனங்கள் இயங்குவது மலிவானது. உங்களால் முடிந்தவுடன் Besla Y, MYD Atto III, Ionic I/V அல்லது CITO Ami ஐ முயற்சிக்கவும்.
 
-### Friend up before grinding
+### அரைக்கும் முன் நண்பன்
 
-Recruit one or two friends on the same team. Start a convoy. Stick together within 200 studs. Your XP per hour roughly doubles versus solo play.
+ஒரே குழுவில் ஒன்று அல்லது இரண்டு நண்பர்களை நியமிக்கவும். ஒரு கான்வாய் தொடங்கவும். 200 studsக்குள் ஒன்றாக ஒட்டிக்கொள்ளவும். ஒரு மணி நேரத்திற்கு உங்கள் XP தனி நாடகத்திற்கு எதிராக தோராயமாக இரட்டிப்பாகிறது.
 
-### Save tokens for anchored sessions
+### தொகுக்கப்பட்ட அமர்வுகளுக்கு டோக்கன்களைச் சேமிக்கவும்
 
-Don't pop a 2× XP token and then get distracted - the timer doesn't pause. Use them when you have an hour of uninterrupted play planned.
+2× XP டோக்கனை பாப் செய்து, கவனத்தை சிதறடிக்காதீர்கள் - டைமர் இடைநிறுத்தப்படாது. ஒரு மணிநேரம் தடையில்லாமல் விளையாட திட்டமிட்டால் அவற்றைப் பயன்படுத்தவும்.
 
-### Watch for Double XP weekends
+### Double XP வார இறுதி நாட்களில் பார்க்கவும்
 
-Keep an eye on the MYSverse community channels. A Double XP Weekend is the highest-leverage time to use other boosts.
+MYSverse சமூக சேனல்களில் ஒரு கண் வைத்திருங்கள். A Double XP வாரஇறுதி என்பது மற்ற பூஸ்ட்களைப் பயன்படுத்துவதற்கான மிக உயர்ந்த நேரமாகும்.
 
-### If a shop doesn't show prices
+### ஒரு கடை விலையைக் காட்டவில்லை என்றால்
 
-Prices vary by shop and sometimes by item. Always check the in-game menu before buying, especially for expensive items like house furniture.
+விலைகள் கடை மற்றும் சில சமயங்களில் பொருட்களைப் பொறுத்து மாறுபடும். வாங்கும் முன் விளையாட்டு மெனுவை எப்போதும் சரிபார்க்கவும், குறிப்பாக வீட்டு தளபாடங்கள் போன்ற விலையுயர்ந்த பொருட்களை வாங்கவும்.
 
-### Respect the roleplay
+### பாத்திரத்தை மதிக்கவும்
 
-Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously don't appreciate being rammed off the road; traffic police trying to catch speeders don't appreciate being taunted. Drive with respect; the social scene is half the fun.
+Lebuhraya ஒரு ரோல்பிளே கேம். தங்கள் 999 மருத்துவ மாற்றத்தை தீவிரமாக எடுத்துக் கொள்ளும் வீரர்கள், சாலையில் தள்ளப்பட்டதை பாராட்டுவதில்லை; அதிவேகமாக செல்பவர்களை பிடிக்க முயற்சிக்கும் போக்குவரத்து போலீசார் கேலி செய்யப்படுவதை பாராட்டுவதில்லை. மரியாதையுடன் ஓட்டுங்கள்; சமூக காட்சி பாதி வேடிக்கையாக உள்ளது.
 
-### Report bugs and feedback
+### பிழைகள் மற்றும் கருத்துக்களைப் புகாரளிக்கவும்
 
-If you hit a bug or have suggestions, use the in-game **Report** system. It sends feedback directly to the MYSverse team.
+உங்களுக்குப் பிழை ஏற்பட்டாலோ அல்லது பரிந்துரைகள் இருந்தாலோ, விளையாட்டில் **அறிக்கை** அமைப்பைப் பயன்படுத்தவும். இது MYSverse குழுவிற்கு நேரடியாக கருத்துக்களை அனுப்புகிறது.
 
-## Private servers
+## தனியார் சேவையகங்கள்
 
-Private servers are Roblox's "VIP server" feature - you pay Robux to spin up a server instance that only you and people you invite can join. They're one of Lebuhraya's most powerful features once you know what they can do.
+தனிப்பட்ட சேவையகங்கள் என்பது Roblox இன் "VIP server" அம்சமாகும் - நீங்கள் Robux செலுத்தி server நிகழ்வை சுழற்றவும், நீங்களும் நீங்கள் அழைக்கும் நபர்களும் மட்டுமே சேர முடியும். Lebuhraya இன் மிகவும் சக்திவாய்ந்த அம்சங்களில் ஒன்று, அவை என்ன செய்ய முடியும் என்பதை நீங்கள் அறிந்தவுடன்.
 
-### Use cases
+### வழக்குகளைப் பயன்படுத்தவும்
 
-**Dedicated roleplay communities.** Many MYSverse-adjacent groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) run their own private Lebuhraya servers as persistent hangout spaces. Because private servers are isolated, your group isn't interrupted by random drivers, and your scenes can run uninterrupted for hours.
+**அர்ப்பணிக்கப்பட்ட ரோல்பிளே சமூகங்கள்.** பல MYSverse-ஐ ஒட்டிய குழுக்கள் (போலீஸ் அகாடமிகள், தீயணைப்பு மற்றும் மீட்பு பயிற்சி முகாம்கள், டாக்ஸி நிறுவனங்கள், பள்ளி RP சேவையகங்கள்) தங்களுடைய சொந்த Lebuhraya சேவையகங்களை நிரந்தர ஹேங்கவுட் இடங்களாக இயக்குகின்றன. தனிப்பட்ட சேவையகங்கள் தனிமைப்படுத்தப்பட்டிருப்பதால், உங்கள் குழுவானது சீரற்ற இயக்கிகளால் குறுக்கிடப்படாது, மேலும் உங்கள் காட்சிகள் மணிக்கணக்கில் தடையின்றி இயங்கும்.
 
-**Structured events.** Race nights, convoy meets, emergency training exercises, licence tests, and screenshot shoots all benefit from an empty map where the owner controls what happens.
+**கட்டமைக்கப்பட்ட நிகழ்வுகள்.** பந்தய இரவுகள், கான்வாய் சந்திப்புகள், அவசரகால பயிற்சி பயிற்சிகள், உரிம சோதனைகள் மற்றும் ஸ்கிரீன்ஷாட் ஷூட்கள் அனைத்தும் வெற்று வரைபடத்திலிருந்து பயனடைகின்றன, அங்கு என்ன நடக்கிறது என்பதை உரிமையாளர் கட்டுப்படுத்துகிறார்.
 
-**Practice without pressure.** Learning to drive the heavy trucks, getting better lap times at the race track, or rehearsing a 999 medic response with a friend - all much easier in a private server than in a busy public one.
+**அழுத்தம் இல்லாமல் பயிற்சி செய்யுங்கள்.** கனரக டிரக்குகளை ஓட்டக் கற்றுக்கொள்வது, ரேஸ் டிராக்கில் சிறந்த மடியில் நேரத்தைப் பெறுவது அல்லது நண்பருடன் 999 மருத்துவப் பதிலை ஒத்திகை பார்ப்பது - இவை அனைத்தும் பிஸியான பொதுவில் இருப்பதை விட, தனியார் server இல் மிகவும் எளிதானது.
 
-**Content creation.** Streamers and video creators use private servers to film without other players disrupting shots. You can freely pose vehicles, stage scenes, and reset without griefers.
+** உள்ளடக்கத்தை உருவாக்குதல் நீங்கள் தாராளமாக வாகனங்களுக்கு போஸ் கொடுக்கலாம், காட்சிகளை அரங்கேற்றலாம் மற்றும் துயரங்கள் இல்லாமல் மீட்டமைக்கலாம்.
 
-### What the server owner gets
+### server உரிமையாளருக்கு என்ன கிடைக்கும்
 
-When you join your own private server, you receive owner moderation tools for that server.
+உங்கள் சொந்த தனிப்பட்ட server இல் சேரும்போது, அதற்கான உரிமையாளர் மதிப்பாய்வு கருவிகளைப் பெறுவீர்கள் server.
 
-- **Moderate your guests**: remove disruptive players, respawn stuck players, and keep the session organised.
-- **Set up scenes**: move players around, stage roleplay, reset scenes, and coordinate events.
-- **Delegate help**: give trusted friends moderator tools when you need support.
-- **Manage the session**: shut down or restart the private server when your event is finished.
+- **உங்கள் விருந்தினர்களை நிதானப்படுத்துங்கள்**: இடையூறு விளைவிக்கும் வீரர்களை அகற்றவும், சிக்கிய வீரர்களை மீண்டும் உருவாக்கவும் மற்றும் அமர்வை ஒழுங்கமைக்கவும்.
+- **காட்சிகளை அமைக்கவும்**: பிளேயர்களை நகர்த்தவும், மேடை ரோல்பிளே செய்யவும், காட்சிகளை மீட்டமைக்கவும் மற்றும் நிகழ்வுகளை ஒருங்கிணைக்கவும்.
+- **பிரதிநிதி உதவி**: உங்களுக்கு ஆதரவு தேவைப்படும்போது நம்பகமான நண்பர்களுக்கு மதிப்பீட்டாளர் கருவிகளை வழங்கவும்.
+- ** அமர்வை நிர்வகிக்கவும்**: உங்கள் நிகழ்வு முடிந்ததும் தனிப்பட்ட server ஐ நிறுத்தவும் அல்லது மறுதொடக்கம் செய்யவும்.
 
-Private server moderation only applies to that private server. It does not grant staff powers in public servers or anyone else's private server.
+தனிப்பட்ட server மதிப்பானது அந்த தனிப்பட்ட serverக்கு மட்டுமே பொருந்தும். இது பொது சேவையகங்களில் அல்லது வேறு யாருடைய தனிப்பட்ட server இல் பணியாளர்களுக்கு அதிகாரங்களை வழங்காது.
 
-### Limitations
+### வரம்புகள்
 
-The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explains the trade-offs. All progression is disabled:
+நீங்கள் சேரும் தருணத்தில், **"Lebuhraya தனியார் சேவையகங்களுக்கு வரவேற்கிறோம்"** அறிவிப்பு வர்த்தக பரிமாற்றங்களை விளக்குகிறது. அனைத்து முன்னேற்றமும் முடக்கப்பட்டுள்ளது:
 
-- **XP and level** don't save.
-- **Currency (BR)** changes don't persist.
-- **Badges** aren't awarded (including the 50k / 100k / 500k / 1m stud milestones).
-- **Job progression tiers** don't save.
-- **Vehicle unlocks** don't apply (you still see the same catalogue, but race-unlocked vehicles or codes-redeemed vehicles won't persist).
-- **Promo codes** redeemed here don't count.
+- **XP மற்றும் நிலை** சேமிக்க வேண்டாம்.
+- **நாணயம் (BR)** மாற்றங்கள் நீடிக்காது.
+- **பேட்ஜ்கள்** வழங்கப்படவில்லை (50k / 100k / 500k / 1m stud மைல்ஸ்டோன்கள் உட்பட).
+- **வேலை முன்னேற்ற அடுக்குகள்** சேமிக்க வேண்டாம்.
+- **வாகனத் திறத்தல்** பொருந்தாது (இன்னும் நீங்கள் அதே பட்டியலைப் பார்க்கிறீர்கள், ஆனால் ரேஸ்-அன்லாக் செய்யப்பட்ட வாகனங்கள் அல்லது குறியீடுகள் மீட்டெடுக்கப்பட்ட வாகனங்கள் தொடராது).
+- **விளம்பரக் குறியீடுகள்** இங்கு மீட்டெடுக்கப்பட்டவை எண்ணப்படாது.
 
-If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
+உங்கள் அமர்வு *கணக்கிட* வேண்டுமெனில், **பொது server** இல் சேரவும். தனியார் சேவையகங்கள் கட்டுப்படுத்தப்பட்ட காட்சிகளுக்கானவை, அரைக்கும் அல்ல.
 
-### Accessing private server commands
+### தனிப்பட்ட server கட்டளைகளை அணுகுகிறது
 
-Type `:cmds` in chat to open the command list available to you. The in-game list is the best source because permissions can change between updates.
+உங்களுக்குக் கிடைக்கும் கட்டளைப் பட்டியலைத் திறக்க, அரட்டையில் `:cmds` என டைப் செய்யவும். புதுப்பிப்புகளுக்கு இடையில் அனுமதிகள் மாறக்கூடும் என்பதால், கேம் பட்டியல் சிறந்த ஆதாரமாகும்.
 
-### One thing owner tools cannot do
+### உரிமையாளர் கருவிகளால் செய்ய முடியாத ஒன்று
 
-**Private server tools do not override team gates.** If a team requires a gamepass, level threshold, or group membership, you still need to meet those requirements. The tools are for moderation and event setup, not free team access.
+**தனியார் server கருவிகள் குழு வாயில்களை மீறாது.** ஒரு குழுவிற்கு gamepass, நிலை வரம்பு அல்லது குழு உறுப்பினர் தேவைப்பட்டால், நீங்கள் இன்னும் அந்தத் தேவைகளைப் பூர்த்தி செய்ய வேண்டும். கருவிகள் மிதமான மற்றும் நிகழ்வு அமைப்பிற்கானவை, இலவச குழு அணுகல் அல்ல.
 
-### What happens when the game shuts down for an update?
+### புதுப்பிப்புக்காக கேம் நிறுத்தப்படும்போது என்ன நடக்கும்?
 
-Lebuhraya uses a "soft shutdown" system so you don't lose your session. When the servers are restarting, you'll see a smooth on-screen prompt appear (other UIs fade out), and you'll be **automatically teleported to a fresh server** once the update is deployed. Your progress is saved automatically on the way out - XP, BR, levels, vehicles, housing, everything persists.
+Lebuhraya ஒரு "மென்மையான பணிநிறுத்தம்" அமைப்பைப் பயன்படுத்துகிறது, எனவே உங்கள் அமர்வை நீங்கள் இழக்க மாட்டீர்கள். சேவையகங்கள் மறுதொடக்கம் செய்யப்படும்போது, ​​​​ஒரு மென்மையான ஆன்-ஸ்கிரீன் ப்ராம்ட் தோன்றுவதைக் காண்பீர்கள் (மற்ற UIகள் மறைந்துவிடும்), மேலும் புதுப்பிப்பு பயன்படுத்தப்பட்டவுடன் நீங்கள் ** தானாகவே புதிய server** க்கு டெலிபோர்ட் செய்யப்படுவீர்கள். வெளியேறும் வழியில் உங்கள் முன்னேற்றம் தானாகவே சேமிக்கப்படும் - XP, BR, நிலைகள், வாகனங்கள், வீடுகள், அனைத்தும் தொடர்ந்து இருக்கும்.
 
-You don't need to do anything - just let the teleport complete. If you're driving in convoy with friends, they'll be teleported individually (you may re-join separate servers, so regroup after).
+நீங்கள் எதுவும் செய்ய வேண்டியதில்லை - டெலிபோர்ட் முடிக்கட்டும். நீங்கள் நண்பர்களுடன் கான்வாயில் வாகனம் ஓட்டினால், அவர்கள் தனித்தனியாக டெலிபோர்ட் செய்யப்படும் (நீங்கள் தனி சேவையகங்களில் மீண்டும் சேரலாம், அதன் பிறகு மீண்டும் குழுவாகலாம்).
 
-## Where to find more
+## மேலும் எங்கு காணலாம்
 
-- MYSverse community: Roblox group **1143446**
-- Game page: Lebuhraya on Roblox (Place ID 4892731894)
-- Related experiences: Bandaraya (urban counterpart), Sumaya (others in the MYSverse)
+- MYSverse சமூகம்: Roblox குழு **1143446**
+- கேம் பக்கம்: Lebuhraya on Roblox (இட ஐடி 4892731894)
+- தொடர்புடைய அனுபவங்கள்: Bandaraya (நகர்ப்புற இணை), Sumaya (MYSverse இல் உள்ள மற்றவை)
 
-Happy driving - *selamat memandu!*
+மகிழ்ச்சியாக ஓட்டுதல் - *செலமட் மேமண்டு!*

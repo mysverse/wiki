@@ -89,7 +89,7 @@ Kenderaan Bomba dibuka apabila tahap sektor anda meningkat.
 
 Setiap trak mempunyai kapasiti dan pengendalian yang berbeza. Atego ialah pemula yang lincah; Tanker ialah utiliti berat. LFRT bermaksud "Light Fire Rescue Tender", FRT bermaksud "Fire Rescue Tender".
 
-Lihat [Vehicles](/sumaya/vehicles) untuk cara memunculkannya.
+Lihat [Vehicles](/ms/sumaya/vehicles) untuk cara memunculkannya.
 
 ## Pangkat
 
@@ -124,7 +124,7 @@ Singkatan kurungan pangkat mengikut skim lencana Bomba dunia sebenar. Dari tahap
 
 ## Apa seterusnya?
 
-- [Kesihatan](/sumaya/kesihatan) jika anda ingin tahu tentang aspek perubatan.
-- [Polis](/sumaya/polis) untuk penguatkuasaan undang-undang.
-- [Vehicles](/sumaya/vehicles) untuk senarai penuh kenderaan Bomba.
-- [Progression](/sumaya/progression) untuk cara XP berfungsi merentas perkhidmatan.
+- [Kesihatan](/ms/sumaya/kesihatan) jika anda ingin tahu tentang aspek perubatan.
+- [Polis](/ms/sumaya/polis) untuk penguatkuasaan undang-undang.
+- [Vehicles](/ms/sumaya/vehicles) untuk senarai penuh kenderaan Bomba.
+- [Progres](/ms/sumaya/progression) untuk cara XP berfungsi merentas perkhidmatan.

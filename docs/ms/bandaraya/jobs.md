@@ -10,7 +10,7 @@ needs_review: true
 ---
 # Kerjaya
 
-Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan POLIS / BOMBA / KKM tiada di halaman ini - mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/bandaraya/emergency-services) untuk peranan tersebut.
+Cara paling pantas untuk memperoleh BR di Bandaraya. Kesemua ini boleh diakses oleh awam (dengan gamepass atau kumpulan seperti yang dinyatakan). Peranan POLIS / BOMBA / KKM tiada di halaman ini - mereka memperoleh prestij, bukan gaji. Lihat [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) untuk peranan tersebut.
 
 ## Ringkasan
 
@@ -29,7 +29,7 @@ Kerja pertama yang paling popular. Tiada gamepass diperlukan - tetapi anda perlu
 
 ### Aliran kerja
 
-1. **Mula kerja** di terminal POS (cari papan tanda POS - lihat [Peta](/bandaraya/locations)).
+1. **Mula kerja** di terminal POS (cari papan tanda POS - lihat [Peta](/ms/bandaraya/locations)).
 2. **Kutip bungkusan** dari **Postbox** berdekatan. Anda akan membawanya.
 3. **Proses** bungkusan yang dikutip di **Station**.
 4. **Hantar** bungkusan ke **Mailboxes** di sekitar bandar.
@@ -213,8 +213,8 @@ Dengan **gamepass HCC** BR setiap tindakan anda akan meningkat dalam kesemua ini
 
 ## Lihat juga
 
-- [Ekonomi](/bandaraya/economy) - rujukan penuh memperoleh/membelanjakan
-- [Gamepasses](/bandaraya/gamepasses) - Taxi Driver, HCC
-- [Pasukan](/bandaraya/teams) - akses pasukan pengangkutan
-- [Kenderaan](/bandaraya/vehicles) - spawn, bahan api, diler
-- [Tablet](/bandaraya/tablet) - aplikasi MyTow dan Vehicle Management
+- [Ekonomi](/ms/bandaraya/economy) - rujukan penuh memperoleh/membelanjakan
+- [Gamepasses](/ms/bandaraya/gamepasses) - Taxi Driver, HCC
+- [Pasukan](/ms/bandaraya/teams) - akses pasukan pengangkutan
+- [Kenderaan](/ms/bandaraya/vehicles) - spawn, bahan api, diler
+- [Tablet](/ms/bandaraya/tablet) - aplikasi MyTow dan Vehicle Management

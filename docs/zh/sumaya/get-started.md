@@ -97,7 +97,7 @@ Sumaya 使用标准 Roblox 移动。在 PC 上:
 
 ### 3. 生成一辆车
 
-走到任何 **vehicle spawner kiosk**(在城里寻找散布的提示)。选择一辆车,租或买,然后开走。免费起始车是 **Perosatu Axia** 和 **Protan Wira**;其余标准民用目录需要 Ringgit 来租或买。
+走到任何 **车辆生成器 kiosk**(在城里寻找散布的提示)。选择一辆车,租或买,然后开走。免费起始车是 **Perosatu Axia** 和 **Protan Wira**;其余标准民用目录需要 Ringgit 来租或买。
 
 查看 [车辆](/zh/sumaya/vehicles) 了解完整列表以及生成器如何工作。
 

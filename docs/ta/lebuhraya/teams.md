@@ -8,157 +8,155 @@ needs_review: true
 ---
 # அணிகள் & தொழில்கள்
 
-There are **18 teams** in Lebuhraya. Each one represents a different role in the game's Malaysian highway society - from delivery riders to firefighters. Joining a team unlocks job activities, team-specific uniforms, and sometimes specialised vehicles.
+Lebuhraya இல் **18 அணிகள்** உள்ளன. ஒவ்வொருவரும் விளையாட்டின் மலேசிய நெடுஞ்சாலை சமூகத்தில் வெவ்வேறு பாத்திரத்தை பிரதிநிதித்துவப்படுத்துகிறார்கள் - டெலிவரி ரைடர்கள் முதல் தீயணைப்பு வீரர்கள் வரை. ஒரு குழுவில் சேர்வதன் மூலம் வேலை நடவடிக்கைகள், குழு சார்ந்த சீருடைகள் மற்றும் சில நேரங்களில் சிறப்பு வாகனங்கள் திறக்கப்படும்.
 
-Your **career tier** sits on top of the team system. You can rank up from **Trainee** all the way to the top of the chain (like Senior Assistant Commissioner or Fire Commissioner) by earning branch-specific XP on the job.
+உங்கள் **தொழில் அடுக்கு** குழு அமைப்பின் மேல் அமர்ந்திருக்கிறது. பணியிடத்தில் கிளை-குறிப்பிட்ட XP ஐப் பெறுவதன் மூலம், **பயிற்சியாளர்** இலிருந்து சங்கிலியின் உச்சி வரை (மூத்த உதவி ஆணையர் அல்லது தீயணைப்பு ஆணையர் போன்றவை) தரவரிசைப்படுத்தலாம்.
 
-## How to join a team
+## ஒரு அணியில் சேருவது எப்படி
 
-Open the **main menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time, though some active roleplay situations, like an assigned 999 incident, will be cancelled when you swap.
+**முதன்மை மெனு** திறந்து **அணிகள்** தாவலுக்குச் செல்லவும். ஒவ்வொரு குழுவின் தேவைகள் மற்றும் விளக்கத்துடன் கூடிய பட்டியலைக் காண்பீர்கள். நீங்கள் சேர தகுதியுள்ள குழுவைக் கிளிக் செய்யவும். நீங்கள் எந்த நேரத்திலும் அணிகளை மாற்றலாம், இருப்பினும் சில செயலில் உள்ள ரோல்பிளே சூழ்நிலைகள், ஒதுக்கப்பட்ட 999 சம்பவம் போன்றவை, நீங்கள் மாற்றும்போது ரத்து செய்யப்படும்.
 
-### Reading the teams screen
+### அணிகள் திரையைப் படித்தல்
 
-The Teams tab uses a carousel:
+அணிகள் தாவல் ஒரு கொணர்வியைப் பயன்படுத்துகிறது:
 
-- The centred card is the team currently in focus.
-- Side cards preview nearby teams; click/tap or use arrows to move through the carousel.
-- A lock or dimmed card means you do not currently meet the requirement.
-- The lower info panel shows the full team name, description, current-team status, and join/confirm action.
-- Long team names are scaled to fit on one line, so `Malaysians`, `Waste Disposal`, and `Undercover Police` remain readable on small screens.
+- மையப்படுத்தப்பட்ட அட்டை என்பது தற்போது கவனம் செலுத்தும் குழுவாகும்.
+- பக்க அட்டைகள் அருகிலுள்ள அணிகளின் முன்னோட்டம்; கொணர்வி மூலம் நகர்த்த கிளிக் செய்யவும்/தட்டவும் அல்லது அம்புக்குறிகளைப் பயன்படுத்தவும்.
+- பூட்டு அல்லது மங்கலான அட்டை என்றால் நீங்கள் தற்போது தேவையை பூர்த்தி செய்யவில்லை.
+- கீழ் தகவல் குழு முழு குழு பெயர், விளக்கம், தற்போதைய-அணி நிலை மற்றும் செயலில் சேர/உறுதிப்படுத்துகிறது.
+- நீண்ட குழுப் பெயர்கள் ஒரு வரியில் பொருந்தும் வகையில் அளவிடப்படுகின்றன, எனவே `Malaysians`, `Waste Disposal` மற்றும் `Undercover Police` ஆகியவை சிறிய திரைகளில் படிக்கக்கூடியதாக இருக்கும்.
 
-If you are on a job team and try to open a civilian vehicle spawner, the game may warn that you cannot access that spawner while working. Switch back to **Visitors** or a non-job team if you want civilian spawner access.
+நீங்கள் ஒரு வேலைக் குழுவில் இருந்தால், சிவில் வாகனத்தை உருவாக்கும் கருவியைத் திறக்க முயற்சித்தால், வேலை செய்யும் போது அந்த ஸ்பானரை அணுக முடியாது என்று கேம் எச்சரிக்கலாம். சிவிலியன் ஸ்பானர் அணுகலை நீங்கள் விரும்பினால், **Visitors** அல்லது வேலையில்லாத குழுவிற்கு மாறவும்.
 
-## The 18 teams
+## 18 அணிகள்
 
-### Free for everyone
+### அனைவருக்கும் இலவசம்
 
-| Team | Description |
+| அணி | விளக்கம் |
 |---|---|
-| **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
-| **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone - a good entry point. |
+| **Visitors** | நீங்கள் சேரும்போது இயல்புநிலை அணி. பயணிகள் அல்லது சுற்றுலாப் பயணியாக ரோல்பிளேமிங் செய்வதற்கு சிறந்தது. |
+| **Bus Driver** | திட்டமிடப்பட்ட வழித்தடங்களில் மினிவேன்கள் மற்றும் பேருந்துகளை இயக்கவும். அனைவருக்கும் இலவசம் மற்றும் திறந்திருக்கும் - ஒரு நல்ல நுழைவு புள்ளி. |
 
-### Unlocked by MYSverse community membership
+### MYSverse சமூக உறுப்பினர் மூலம் திறக்கப்பட்டது
 
-| Team | How to unlock |
+| அணி | எப்படி திறப்பது |
 |---|---|
-| **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
+| **Malaysians** | MYSverse Malaysian Community Roblox குழுவில் (ID 1143446) 1வது அல்லது அதற்கு மேற்பட்ட இடத்தில் சேரவும். **Fishing** மற்றும் **Checkout** வேலை நடவடிக்கைகளுக்கான அணுகலைத் திறக்கும். |
 
-The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
+Malaysians குழு என்பது சமூக-பங்கு குழுவாகும், சாதாரண ஊதியம் பெறும் தொழில் பிரிவு அல்ல. Fishing மற்றும் Checkout ஆகியவை லெவல்-லாக் செய்யப்பட்ட வேலை ஏணிக்கு முன் கிடைக்கும் என்பதால் இது ஆரம்பத்தில் பயனுள்ளதாக இருக்கும்.
 
-### Unlocked by level
+### நிலை மூலம் திறக்கப்பட்டது
 
-| Team | Level | Role |
+| அணி | நிலை | பங்கு |
 |---|---|---|
-| **Food Delivery** | 10 | Use your motorcycle to deliver food orders from shops to customers. |
-| **Waste Disposal** | 25 | Collect rubbish from bins and deliver to incineration stations. |
-| **Post Office** | 50 | Deliver letters and parcels for Pos Nasional. |
-| **Logistics** | 75 | Freight trucking - haul cargo with a Rolvo FM or Sanica P-series. |
-| **Power Nasional** | 100 | National electric utility contractor work. |
-| **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
-| **Kesihatan** | 200 | The National Health Ministry - drive ambulances, treat patients, respond to 999 medical calls. |
-| **APJ** | 300 | Road Transport Agency - enforce driving and vehicle regulations. |
+| **Food Delivery** | 10 | கடைகளில் இருந்து வாடிக்கையாளர்களுக்கு உணவு ஆர்டர்களை வழங்க உங்கள் மோட்டார் சைக்கிளைப் பயன்படுத்தவும். |
+| **Waste Disposal** | 25 | குப்பைத்தொட்டிகளில் இருந்து குப்பைகளை சேகரித்து எரிக்கும் நிலையங்களுக்கு வழங்கவும். |
+| **Post Office** | 50 | Pos Nasionalக்கான கடிதங்கள் மற்றும் பார்சல்களை வழங்கவும். |
+| ** தளவாடங்கள்** | 75 | சரக்கு டிரக்கிங் - Rolvo FM அல்லது Sanica P-சீரிஸ் மூலம் சரக்குகளை எடுத்துச் செல்லுதல். |
+| **Power Nasional** | 100 | தேசிய மின்சார பயன்பாட்டு ஒப்பந்ததாரர் பணி. |
+| **Lumberjack** | 150 | கோடாரி மற்றும் இழுத்துச் செல்லும் மரக்கட்டைகளால் மரங்கள் வெட்டப்பட்டன. |
+| **Kesihatan** | 200 | தேசிய சுகாதார அமைச்சகம் - ஆம்புலன்ஸ்களை இயக்கவும், நோயாளிகளுக்கு சிகிச்சை செய்யவும், 999 மருத்துவ அழைப்புகளுக்கு பதிலளிக்கவும். |
+| **APJ** | 300 | சாலைப் போக்குவரத்து நிறுவனம் - ஓட்டுநர் மற்றும் வாகன விதிமுறைகளை அமல்படுத்துதல். |
 
-::: info
-The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
-:::
+> Waste Disposal, லாஜிஸ்டிக்ஸ் மற்றும் Lumberjack அணிகளை **Season 1 Season Pass** ஐ வாங்குவதன் மூலம் முன்பே திறக்கலாம். சில விளையாட்டு உரை இன்னும் பழைய நிலை மதிப்புகளைக் குறிப்பிடலாம்; மேலே உள்ள எண்கள் தற்போதைய விளையாட்டுத் தேவைகள்.
 
-### Unlocked by gamepass
+### gamepass ஆல் திறக்கப்பட்டது
 
-| Team | Role |
+| அணி | பங்கு |
 |---|---|
-| **Taxi Driver** | Drive passengers for fares. Unlocked by the Taxi Driver or Bandaraya gamepass. |
-| **KEMRonda** | Highway auxiliary police. Tow trucks, roadside assistance, placeable cones. |
-| **Bomba** | The Fire and Rescue Department. Fire trucks, spreaders, chainsaws, 999 fire response. |
-| **Polis Trafik** | Traffic police. Tasers, radar guns, placeable police cones and signs. |
-| **Undercover Police** | The same toolkit as Polis Trafik but on unmarked vehicles. |
+| **Taxi Driver** | கட்டணங்களுக்கு பயணிகளை ஓட்டுங்கள். Taxi Driver அல்லது Bandaraya gamepass மூலம் திறக்கப்பட்டது. |
+| **KEMRonda** | நெடுஞ்சாலை துணை போலீஸ். இழுவை டிரக்குகள், சாலையோர உதவி, வைக்கக்கூடிய கூம்புகள். |
+| **Bomba** | தீயணைப்பு மற்றும் மீட்புத் துறை. தீயணைப்பு வண்டிகள், விரிப்பான்கள், செயின்சாக்கள், 999 தீயணைப்பு. |
+| **Polis Trafik** | போக்குவரத்து போலீஸ். டேசர்கள், ரேடார் துப்பாக்கிகள், வைக்கக்கூடிய போலீஸ் கூம்புகள் மற்றும் அடையாளங்கள். |
+| **Undercover Police** ​​| Polis Trafik போன்ற அதே கருவித்தொகுப்பு ஆனால் குறிக்கப்படாத வாகனங்களில். |
 
-See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepasses.
+கேம்பாஸ்களை எவ்வாறு பெறுவது என்பதற்கு [பாஸ்கள் மற்றும் பூஸ்ட்கள்](/ta/lebuhraya/passes-and-boosts) ஐப் பார்க்கவும்.
 
-### System teams
+### கணினி அணிகள்
 
-| Team | Description |
+| அணி | விளக்கம் |
 |---|---|
-| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
-| **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
+| **டெவலப்பர்கள்** | MYSverse ஊழியர்களுக்கான உள் குழு. நேரடியாக இணைய முடியாது. |
+| **கைது** | Polis Trafik ஆல் ஒரு வீரர் கைது செய்யப்படும்போது தானாகவே ஒதுக்கப்படும். |
 
-## Career tiers and ranks
+## தொழில் நிலைகள் மற்றும் தரவரிசைகள்
 
-Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job - driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
+ஒவ்வொரு அணியும் (Visitors மற்றும் சிஸ்டம் அணிகள் தவிர) **20 வாழ்க்கை அடுக்குகள்** வரை இருக்கும். அந்தக் குழுவின் வேலையைச் செய்வதன் மூலம் நீங்கள் கிளை சார்ந்த XPஐப் பெறுவீர்கள் - டாக்ஸி மிஷன் ஓட்டுதல், 999 அழைப்புக்கு Bomba எனப் பதிலளித்தல், சரக்குகளை லாஜிஸ்டிக்ஸ் என வழங்குதல். உங்களிடம் போதுமான அளவு XP இருந்தால், நீங்கள் தரவரிசையை உயர்த்துவீர்கள்.
 
-Open **Main Menu -> More -> Career** to view your overall career status. Open **Main Menu -> More -> Jobs** to inspect branch tier progress and rewards.
+உங்கள் ஒட்டுமொத்த தொழில் நிலையைக் காண **Main Menu -> மேலும் -> தொழில்**ஐத் திறக்கவும். கிளை அடுக்கு முன்னேற்றம் மற்றும் வெகுமதிகளை ஆய்வு செய்ய **Main Menu -> மேலும் -> வேலைகள்** திறக்கவும்.
 
-### How tier XP scales
+### எப்படி அடுக்கு XP அளவுகள்
 
-The tier curve is:
+அடுக்கு வளைவு:
 
-- **Tier 1** requires 500 XP
-- Each subsequent tier requires **15% more XP** than the previous
-- **Tier 20** costs about **7,100 XP** on its own - and **around 51,000 cumulative XP** to reach from scratch
+- ** அடுக்கு 1** க்கு 500 XP தேவை
+- ஒவ்வொரு அடுத்தடுத்த அடுக்குக்கும் முந்தையதை விட **15% கூடுதல் XP** தேவைப்படுகிறது
+- **அடுக்கு 20**க்கு சொந்தமாக **7,100 XP** செலவாகும் - மற்றும் **சுமார் 51,000 ஒட்டுமொத்த XP** புதிதாக அடைய
 
-You can see your current tier and XP progress in **Main Menu -> More -> Career**.
+உங்கள் தற்போதைய அடுக்கு மற்றும் XP முன்னேற்றத்தை **Main Menu -> மேலும் -> தொழில்** இல் பார்க்கலாம்.
 
-### Rank titles
+### தரவரிசை தலைப்புகள்
 
-Ranks are named specific to each team. A few examples:
+ஒவ்வொரு அணிக்கும் குறிப்பிட்ட ரேங்க்கள் பெயரிடப்பட்டுள்ளன. சில உதாரணங்கள்:
 
-**KEMRonda / Polis Trafik / Undercover Police** (Polis agency):
-Constable → Lance Corporal → Corporal → Sergeant → Sergeant Major → Sub-Inspector → Inspector → Chief Inspector → Assistant Superintendent → Deputy Superintendent → Superintendent → Assistant Commissioner → **Senior Assistant Commissioner** (Tier 20)
+**KEMRonda / Polis Trafik / Undercover Police** (Polis நிறுவனம்):
+கான்ஸ்டபிள் → லான்ஸ் கார்போரல் → கார்ப்ரல் → சார்ஜென்ட் → சார்ஜென்ட் மேஜர் → சப்-இன்ஸ்பெக்டர் → இன்ஸ்பெக்டர் → தலைமை ஆய்வாளர் → உதவி கண்காணிப்பாளர் → துணை கண்காணிப்பாளர் → கண்காணிப்பாளர் → உதவி கமிஷனர் → **S 2*
 
 **Bomba**:
-Fire Officer → Senior Fire Officer II → Senior Fire Officer I → Leading Fire Officer → Deputy Fire Superintendent → Fire Superintendent → Assistant Fire Superintendent → Senior Assistant Fire Superintendent → Senior Fire Superintendent II → Senior Fire Superintendent I → Assistant Fire Commissioner → Senior Assistant Fire Commissioner → Deputy Fire Commissioner → **Fire Commissioner** (Tier 20)
+தீயணைப்பு அதிகாரி → மூத்த தீயணைப்பு அதிகாரி II → மூத்த தீயணைப்பு அதிகாரி I → முன்னணி தீயணைப்பு அதிகாரி → துணை தீயணைப்பு கண்காணிப்பாளர் → தீயணைப்பு கண்காணிப்பாளர் → உதவி தீயணைப்பு கண்காணிப்பாளர் → மூத்த துணை தீயணைப்பு கண்காணிப்பாளர் → மூத்த துணை தீயணைப்பு கண்காணிப்பாளர் II → மூத்த தீயணைப்பு துணை ஆணையர் → துணை தீயணைப்பு ஆணையர் → தீயணைப்பு ஆணையர் → **தீயணைப்பு ஆணையர்** (அடுக்கு 20)
 
-**Taxi Driver** (Pengangkutan agency):
-New Driver → Junior Driver → Driver → Experienced Driver → Junior Executive → Executive → Senior Executive → Towkay → **Yang di-Pandu Abang** (Tier 20)
+**Taxi Driver** (பெங்காங்குதான் நிறுவனம்):
+புதிய டிரைவர் → ஜூனியர் டிரைவர் → டிரைவர் → அனுபவம் வாய்ந்த டிரைவர் → ஜூனியர் எக்ஸிகியூட்டிவ் → எக்ஸிகியூட்டிவ் → மூத்த நிர்வாகி → டவ்கே → **யாங் டி-பாண்டு அபாங்** (அடுக்கு 20)
 
-**Lumberjack** (Sumber agency):
-Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipment Operator → Felling Foreman → Logging Boss → Forest Manager → **Lumber Lord** (Tier 20)
+**Lumberjack** (சம்பர் ஏஜென்சி):
+மரக்கன்று பணியாட்கள் → ஆக்ஸ் ஹேண்ட் → டிம்பர்ஜாக் → செயின்சா மாஸ்டர் → ஹெவி எக்யூப்மென்ட் ஆபரேட்டர் → ஃபெலிங் ஃபோர்மேன் → லாக்கிங் பாஸ் → வன மேலாளர் → **லம்பர் லார்ட்** (அடுக்கு 20)
 
-**Food Delivery** (Perkhidmatan agency):
-Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
+**Food Delivery** (Perkidmatan நிறுவனம்):
+பயிற்சி ரைடர் → ஜூனியர் ரைடர் → ரைடர் → மூத்த ரைடர் → குழு தலைவர் → பகுதி மேற்பார்வையாளர் → நகர மேற்பார்வையாளர் → மண்டல மேலாளர் → மூத்த மண்டல மேலாளர் → தேசிய மேலாளர் → இயக்க இயக்குனர் செயல்பாட்டு அதிகாரி** (அடுக்கு 20)
 
-### The six agencies
+### ஆறு ஏஜென்சிகள்
 
-Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
+அணிகள் ஆறு ஏஜென்சிகளாக பிரிக்கப்பட்டுள்ளன. இது முக்கியமானது, ஏனெனில் சில அடுக்கு வெகுமதிகள் (வாகனங்கள், அழகுசாதனப் பொருட்கள்) குழுவுடன் மட்டுமல்லாமல், ஏஜென்சியுடன் இணைக்கப்பட்டுள்ளன.
 
-| Agency | Teams |
+| ஏஜென்சி | அணிகள் |
 |---|---|
 | **Polis** | KEMRonda, Polis Trafik, Undercover Police |
-| **Kecemasan** (Emergency) | Bomba, Kesihatan |
-| **Pengangkutan** (Transport) | Bus Driver, Taxi Driver, Logistics |
-| **Perkhidmatan** (Services) | Food Delivery, Post Office, Waste Disposal |
-| **Sumber** (Resources) | Power Nasional, Lumberjack |
-| **Penguatkuasaan** (Enforcement) | APJ |
+| **கெசெமசன்** (அவசரநிலை) | Bomba, Kesihatan |
+| **பெங்காங்குதான்** (போக்குவரத்து) | Bus Driver, Taxi Driver, லாஜிஸ்டிக்ஸ் |
+| **பெர்கித்மதன்** (சேவைகள்) | Food Delivery, Post Office, Waste Disposal |
+| **சம்பர்** (வளங்கள்) | Power Nasional, Lumberjack |
+| **Penguatkuasaan** (அமலாக்கம்) | APJ |
 
-## Tier rewards
+## அடுக்கு வெகுமதிகள்
 
-Hitting a tier milestone can unlock:
+ஒரு அடுக்கு மைல்கல்லைத் தாக்கினால் திறக்கலாம்:
 
-- A **new rank title** shown on your character and in the leaderboard
-- **Career vehicles** - for example, higher-tier Bomba ranks unlock larger fire trucks; higher-tier Taxi Driver ranks unlock better taxi models
-- Occasional **cosmetic items** (uniforms, accessories)
+- ஒரு **புதிய ரேங்க் தலைப்பு** உங்கள் எழுத்து மற்றும் லீடர்போர்டில் காட்டப்பட்டுள்ளது
+- **தொழில் வாகனங்கள்** - எடுத்துக்காட்டாக, உயர்-அடுக்கு Bomba தரவரிசைகள் பெரிய தீயணைப்பு வண்டிகளைத் திறக்கும்; உயர் அடுக்கு Taxi Driver தரவரிசைகள் சிறந்த டாக்ஸி மாடல்களைத் திறக்கும்
+- அவ்வப்போது **ஒப்பனை பொருட்கள்** (சீருடைகள், பாகங்கள்)
 
-Career vehicles won't show in their matching team vehicle spawner until your tier is high enough.
+உங்கள் அடுக்கு போதுமான அளவு உயரும் வரை தொழில் வாகனங்கள் அவற்றின் பொருந்தக்கூடிய குழு வாகன ஸ்பானரில் காட்டப்படாது.
 
-### Why a vehicle is missing from the spawner
+### ஸ்பானரிடமிருந்து ஒரு வாகனம் ஏன் காணவில்லை
 
-If a vehicle exists in the wiki but does not appear in your spawner, check:
+விக்கியில் ஒரு வாகனம் இருந்தாலும், உங்கள் ஸ்பானரில் தோன்றவில்லை என்றால், சரிபார்க்கவும்:
 
-1. Are you on the correct team?
-2. Is the spawner type correct? Civilian, bike, premium, special, and team spawners show different lists.
-3. Do you meet the level requirement?
-4. Do you meet the career tier requirement?
-5. Is it a gamepass/team vehicle that requires ownership or a Team Access token?
+1. நீங்கள் சரியான அணியில் உள்ளீர்களா?
+2. ஸ்பானர் வகை சரியானதா? சிவிலியன், பைக், பிரீமியம், ஸ்பெஷல் மற்றும் டீம் ஸ்பானர்கள் வெவ்வேறு பட்டியல்களைக் காட்டுகின்றன.
+3. நிலை தேவையை நீங்கள் பூர்த்தி செய்கிறீர்களா?
+4. தொழில் நிலை தேவையை நீங்கள் பூர்த்தி செய்கிறீர்களா?
+5. இது ஒரு gamepass/குழு வாகனமா, அதற்கு உரிமை தேவையா அல்லது குழு அணுகல் டோக்கனா?
 
-## Uniforms and outfits
+## சீருடைகள் மற்றும் ஆடைகள்
 
-Each team has its own **uniform kit** - hats, vests, accessories specific to the role. You can put on your team uniform through the career customisation menu once you're on a team. Sample kits:
+ஒவ்வொரு அணிக்கும் அதன் சொந்த ** சீருடை கிட்** - தொப்பிகள், உள்ளாடைகள், பாத்திரத்திற்கு குறிப்பிட்ட பாகங்கள். நீங்கள் ஒரு அணியில் சேர்ந்தவுடன், தொழில் தனிப்பயனாக்குதல் மெனு மூலம் உங்கள் அணி சீருடையை அணியலாம். மாதிரி தொகுப்புகள்:
 
-- **KEMRonda**: Beret, PB Patch, Reflective Vest
-- **Polis Trafik**: Cap, Bike Jacket, Duty Belt, Reflective Coat
-- **Bomba**: Neckguard, Light, Respirator, Command Helmet
-- **Kesihatan**: Medical gear including Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
+- **KEMRonda**: பெரெட், பிபி பேட்ச், ரிஃப்ளெக்டிவ் வெஸ்ட்
+- **Polis Trafik**: தொப்பி, பைக் ஜாக்கெட், டூட்டி பெல்ட், பிரதிபலிப்பு கோட்
+- **Bomba**: நெக்கார்ட், லைட், ரெஸ்பிரேட்டர், கமாண்ட் ஹெல்மெட்
+- **Kesihatan**: ஸ்பிளிண்ட், முதலுதவி பெட்டி, கட்டு, Kesihatan கையேடு, பேஜர் உள்ளிட்ட மருத்துவ உபகரணங்கள்
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Jobs](/lebuhraya/jobs) - What each team actually does on a typical shift
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses and the Season Pass
+- [வேலைகள்](/ta/lebuhraya/jobs) - ஒவ்வொரு அணியும் ஒரு வழக்கமான மாற்றத்தில் உண்மையில் என்ன செய்கிறது
+- [பாஸ்கள் மற்றும் பூஸ்ட்கள்](/ta/lebuhraya/passes-and-boosts) - கேம்பாஸ்கள் மற்றும் Season Pass

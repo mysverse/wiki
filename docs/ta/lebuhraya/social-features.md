@@ -8,205 +8,203 @@ needs_review: true
 ---
 # சமூக அம்சங்கள்
 
-Lebuhraya has a few systems designed to make the game better when you play with others - the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
+Lebuhraya நீங்கள் மற்றவர்களுடன் விளையாடும்போது விளையாட்டை சிறப்பாகச் செய்ய வடிவமைக்கப்பட்ட சில அமைப்புகளைக் கொண்டுள்ளது - ஒன்றாக சம்பாதிப்பதற்கான **கான்வாய்** அமைப்பு, பிளேயர்-உந்துதல் ரோல்பிளேக்கான **999 அவசரகால** அமைப்பு, பயன்பாடுகள் மற்றும் தகவல்தொடர்புக்கான **Phone** மற்றும் **டோக்கன்கள்** தற்காலிக ஊக்கங்களுக்கு.
 
-## Convoy
+## கான்வாய்
 
-Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
+ஒன்றாக ஓட்டுங்கள், அதிகம் சம்பாதிக்கவும். ஒரு ஸ்டேக்கிங் XP பெருக்கியுடன் ஒருங்கிணைந்த நாடகத்திற்கு கான்வாய்கள் வெகுமதி அளிக்கின்றன.
 
-### Creating a convoy
+### ஒரு கான்வாய் உருவாக்குதல்
 
-1. Open the convoy menu (from the Main Menu or topbar).
-2. Select **Create convoy** - you become the leader.
-3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
+1. கான்வாய் மெனுவைத் திறக்கவும் (Main Menu அல்லது topbar இலிருந்து).
+2. ** கான்வாய் உருவாக்கு** என்பதைத் தேர்ந்தெடுக்கவும் - நீங்கள் தலைவராகுங்கள்.
+3. குறிப்பிட்ட வீரர்களை அழைக்கவும் அல்லது கான்வாயை பொதுவில் அமைக்கவும், இதன் மூலம் 500 studsக்குள் உள்ள மற்றவர்கள் சேரக் கோரலாம்.
 
-### Joining a convoy
+### ஒரு கான்வாய் இணைத்தல்
 
-- **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
-- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
+- **அழைப்பு மூலம்**: தலைவர் உங்களுக்கு ஒரு அழைப்பை அனுப்புகிறார்; 30 வினாடிகளுக்குள் ஏற்றுக்கொள்ளுங்கள் அல்லது அது காலாவதியாகிவிடும். நீங்களும் நிராகரிக்கலாம்.
+- **கோரிக்கையின்படி**: கான்வாய் மெனுவைத் திறந்து, 500 studsக்குள் உள்ள பொது கான்வாய்களைப் பார்த்து, சேரக் கோரவும். உங்கள் கோரிக்கை காலாவதியாகும் முன் அதை அங்கீகரிக்க லீடருக்கு 30 வினாடிகள் உள்ளன.
 
-Both sides of the handshake use the same 30-second timeout - if you miss it, just re-invite or re-request.
+ஹேண்ட்ஷேக்கின் இருபுறமும் ஒரே 30-வினாடி காலக்கெடுவைப் பயன்படுத்துகிறது - நீங்கள் அதைத் தவறவிட்டால், மீண்டும் அழைக்கவும் அல்லது மீண்டும் கோரவும்.
 
-### Convoy rules
+### கான்வாய் விதிகள்
 
-- **Maximum size**: 6 members
-- **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
-- **Leader**: Sets invite rules and can remove members
+- **அதிகபட்ச அளவு**: 6 உறுப்பினர்கள்
+- ** அருகாமை
+- **தலைவர்**: அழைப்பு விதிகளை அமைக்கிறது மற்றும் உறுப்பினர்களை நீக்க முடியும்
 
-### How the bonus stacks
+### போனஸ் எப்படி அடுக்கி வைக்கப்படுகிறது
 
-The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
+உங்கள் தற்போதைய XP பெருக்கி அடுக்கில் கான்வாய் போனஸ் சேர்க்கப்பட்டது (பார்க்க [பொருளாதாரம் மற்றும் XP](/ta/lebuhraya/economy#the-xp-multiplier-stack)).
 
-| Component | Value |
+| கூறு | மதிப்பு |
 |---|---|
-| Base convoy bonus | +15% |
-| Per additional member (after two) | +5% each |
-| Friend in the convoy | +10% |
-| Same-team member in the convoy | +10% |
-| Streak bonus (time convoying) | +2% per minute, capped at +10% |
-| **Maximum total convoy bonus** | **+50%** |
+| அடிப்படை கான்வாய் போனஸ் | +15% |
+| ஒரு கூடுதல் உறுப்பினருக்கு (இருவருக்குப் பிறகு) | +5% ஒவ்வொன்றும் |
+| கான்வாயில் நண்பன் | +10% |
+| கான்வாயில் ஒரே குழு உறுப்பினர் | +10% |
+| ஸ்ட்ரீக் போனஸ் (நேர கான்வாய்ங்) | நிமிடத்திற்கு +2%, +10% |
+| **அதிகபட்ச மொத்த கான்வாய் போனஸ்** | **+50%** |
 
-Passengers in a convoy vehicle get half the driver's bonus.
+கான்வாய் வாகனத்தில் பயணிப்பவர்களுக்கு ஓட்டுநரின் போனஸில் பாதி கிடைக்கும்.
 
-A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
+நன்கு உள்ளமைக்கப்பட்ட 6 பேர் கொண்ட கான்வாய் (நண்பர்கள், ஒரே அணி, 5+ நிமிடங்கள் ஒன்றாக ஓட்டுவது) தொடர்ந்து +50% தொப்பியைத் தாக்கும்.
 
-## 999 emergency system
+## 999 அவசரகால அமைப்பு
 
-Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
+Lebuhraya இன் அவசரகாலச் சேவைகள் வீரர்களால் இயக்கப்படுகின்றன. எந்த வீரரும் 999ஐ அழைக்கலாம்; அவசர-அணி வீரர்கள் பதிலளிக்கின்றனர்.
 
-### Calling 999
+### 999க்கு அழைப்பு
 
-1. Open your **Phone** (topbar icon).
-2. Tap the **999** app.
-3. Select the incident type:
- - **Car Crash**
- - **Injured Person**
-4. Your call is broadcast to all on-duty emergency responders.
+1. உங்கள் **Phone** (மேல் பட்டை ஐகான்) திறக்கவும்.
+2. **999** பயன்பாட்டைத் தட்டவும்.
+3. சம்பவ வகையைத் தேர்ந்தெடுக்கவும்:
+ - **கார் விபத்து**
+ - **காயமடைந்த நபர்**
+4. கடமையில் இருக்கும் அனைத்து அவசரகால பதிலளிப்பவர்களுக்கும் உங்கள் அழைப்பு ஒளிபரப்பப்படும்.
 
-Each active incident shows on responders' pagers with your location.
+செயலில் உள்ள ஒவ்வொரு சம்பவமும் உங்கள் இருப்பிடத்துடன் பதிலளிப்பவர்களின் பேஜர்களில் காண்பிக்கப்படும்.
 
-### Responding (emergency teams)
+### பதிலளிக்கும் (அவசர குழுக்கள்)
 
-If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
+நீங்கள் **Bomba**, **Polis Trafik**, **Undercover Police** அல்லது **Kesihatan** இல் இருந்தால்:
 
-1. Equip your **Pager** tool.
-2. View the active incidents panel.
-3. Tap to accept an incident - it becomes your assigned case.
-4. Drive to the location.
-5. Resolve the incident according to its type:
- - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
- - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
-6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
+1. உங்கள் **பேஜர்** கருவியை சித்தப்படுத்துங்கள்.
+2. செயலில் உள்ள சம்பவங்கள் பேனலைப் பார்க்கவும்.
+3. ஒரு சம்பவத்தை ஏற்க தட்டவும் - அது உங்களுக்கு ஒதுக்கப்பட்ட வழக்காக மாறும்.
+4. இருப்பிடத்திற்கு ஓட்டுங்கள்.
+5. சம்பவத்தை அதன் வகைக்கு ஏற்ப தீர்க்கவும்:
+ - **கார் விபத்து** - சிக்கிய டிரைவர்களை விடுவிக்க ஸ்ப்ரெட்டர்கள்/செயின்சாவைப் பயன்படுத்தவும் (Bomba), பேட்ச் காயங்கள் (Kesihatan), காட்சியை நிர்வகிக்க (Polis).
+ - **காயமடைந்த நபர்** - நிலைப்படுத்தி மருத்துவமனைக்கு கொண்டு செல்லவும் (Kesihatan).
+6. நீங்கள் காட்சிக்கு வந்து, குறைந்தபட்ச மறுமொழி சாளரம் (**30 வினாடிகள்**) கடந்துவிட்டால், வெகுமதிகளுக்கான சம்பவத்தைத் தீர்க்கவும்.
 
-### Limits
+### வரம்புகள்
 
-- Up to **10 active incidents** can exist at once.
-- The caller has a cooldown on repeated 999 calls.
-- If you change teams mid-incident, your assignment is cancelled.
+- ஒரே நேரத்தில் **10 செயலில் உள்ள சம்பவங்கள்** வரை இருக்கலாம்.
+- மீண்டும் மீண்டும் 999 அழைப்புகளில் அழைப்பவருக்கு கூல்டவுன் உள்ளது.
+- சம்பவத்தின் நடுவில் நீங்கள் அணிகளை மாற்றினால், உங்கள் பணி ரத்து செய்யப்படும்.
 
-## The phone
+## தொலைபேசி
 
-Every player has a phone accessible from the topbar.
+ஒவ்வொரு வீரருக்கும் டாப்பாரிலிருந்து அணுகக்கூடிய தொலைபேசி உள்ளது.
 
-### Built-in features
+### உள்ளமைந்த அம்சங்கள்
 
-- **999 Emergency**
-- **GPS navigation** - set a waypoint to any POI
-- **System clock** showing in-game time
+- **999 அவசர**
+- **GPS வழிசெலுத்தல்** - எந்த POIக்கும் ஒரு வழிப் புள்ளியை அமைக்கவும்
+- **கணினி கடிகாரம்** விளையாட்டின் நேரத்தைக் காட்டுகிறது
 
-### Apps
+### பயன்பாடுகள்
 
-- **Rafahia App v3.0** - The MYSverse community's unified social app (messaging, profiles, cross-experience features).
+- **Rafahia App v3.0** - MYSverse சமூகத்தின் ஒருங்கிணைந்த சமூக பயன்பாடு (செய்தி அனுப்புதல், சுயவிவரங்கள், குறுக்கு அனுபவ அம்சங்கள்).
 
-More phone apps may appear over time as the MYSverse platform adds features.
+MYSverse இயங்குதளம் அம்சங்களைச் சேர்ப்பதால், மேலும் தொலைபேசி பயன்பாடுகள் காலப்போக்கில் தோன்றக்கூடும்.
 
-### Phone tips
+### Phone குறிப்புகள்
 
-- Use the Phone when you need quick actions while staying in the world.
-- GPS waypoints are the safest way to reach a POI without staff-only fast travel.
-- If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
+- உலகில் இருக்கும் போது விரைவான செயல்கள் தேவைப்படும் போது Phone ஐப் பயன்படுத்தவும்.
+- ஊழியர்கள் மட்டும் வேகமாகப் பயணம் செய்யாமல் POIஐ அடைய ஜிபிஎஸ் வழிப் புள்ளிகள் பாதுகாப்பான வழியாகும்.
+- அவசரநிலை அல்லது ஜிபிஎஸ் திரை காலியாகத் தோன்றினால், மொபைலை மூடிவிட்டு, உங்கள் எழுத்து முழுமையாக ஏற்றப்பட்ட பிறகு மீண்டும் திறக்கவும்.
 
-## MyPod music player
+## MyPod மியூசிக் பிளேயர்
 
-**MyPod** is the topbar music player. It is not a vehicle spawner.
+**MyPod** டாப்பார் மியூசிக் பிளேயர். இது ஒரு வாகனத்தை உருவாக்குபவர் அல்ல.
 
-What MyPod does:
+MyPod என்ன செய்கிறது:
 
-- Shows a mini player bar while music is playing.
-- Opens into a full player with track list, album-art panel, progress scrubber, and volume slider.
-- Supports play/pause, previous/next, shuffle, repeat, and favourites.
-- Can auto-play a random track when you sit in a vehicle if **Auto-play** is enabled.
+- இசை இயங்கும் போது ஒரு மினி பிளேயர் பட்டியைக் காட்டுகிறது.
+- டிராக் லிஸ்ட், ஆல்பம்-ஆர்ட் பேனல், ப்ரோக்ரஸ் ஸ்க்ரப்பர் மற்றும் வால்யூம் ஸ்லைடருடன் முழு பிளேயராகத் திறக்கும்.
+- விளையாடுதல்/இடைநிறுத்தம், முந்தைய/அடுத்து, கலக்கல், மீண்டும் செய்தல் மற்றும் பிடித்தவை ஆகியவற்றை ஆதரிக்கிறது.
+**ஆட்டோ-பிளே** இயக்கப்பட்டிருந்தால், நீங்கள் வாகனத்தில் அமர்ந்திருக்கும்போது சீரற்ற டிராக்கை தானாக இயக்க முடியும்.
 
-What MyPod does **not** do:
+MyPod என்ன செய்கிறது **இல்லை**:
 
-- It does not spawn vehicles.
-- It does not despawn vehicles.
-- It does not replace the physical vehicle spawner pads/markers around the map.
+- இது வாகனங்களை உருவாக்காது.
+- இது வாகனங்களை இறக்காது.
+- இது வரைபடத்தைச் சுற்றியுள்ள உடல் வாகன ஸ்பானர் பேட்கள்/மார்க்கர்களை மாற்றாது.
 
-## The tablet
+## மாத்திரை
 
-A secondary device available from the topbar. Think of it as your "career HUD" - bigger screen, more data than the phone.
+மேல் பட்டியில் இருந்து கிடைக்கும் இரண்டாம் நிலை சாதனம். உங்கள் "தொழில் HUD" - பெரிய திரை, ஃபோனை விட அதிக டேட்டா என்று நினைத்துக்கொள்ளுங்கள்.
 
-### Apps
+### பயன்பாடுகள்
 
-- **Vehicle** - View nearby vehicle registration and driving licence information for roleplay scenes. Full licence details are limited to relevant enforcement teams.
-- **Staff tools** - Moderation tools may appear for authorised MYSverse staff.
+- **வாகனம்** - ரோல்பிளே காட்சிகளுக்கு அருகிலுள்ள வாகனப் பதிவு மற்றும் ஓட்டுநர் உரிமத் தகவலைப் பார்க்கவும். முழு உரிம விவரங்களும் தொடர்புடைய அமலாக்க குழுக்களுக்கு மட்டுமே.
+- **பணியாளர் கருவிகள்** - அங்கீகரிக்கப்பட்ட MYSverse ஊழியர்களுக்கு மிதமான கருவிகள் தோன்றலாம்.
 
-## Report system
+## அறிக்கை அமைப்பு
 
-Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
+நீங்கள் MYSverse குழுவிற்கு கருத்து, பிழை அறிக்கைகள் அல்லது பிளேயர் அறிக்கைகளை அனுப்ப வேண்டியிருக்கும் போது, விளையாட்டில் **அறிக்கை** அமைப்பைப் பயன்படுத்தவும்.
 
-### What to include
+### என்ன சேர்க்க வேண்டும்
 
-Good reports are specific:
+நல்ல அறிக்கைகள் குறிப்பிட்டவை:
 
-- **What happened** - e.g. "Vehicle spawner opened but Spawn did nothing."
-- **Where** - town, shop, spawner, road, or approximate landmark.
-- **What you were doing** - team, vehicle, job, tool, menu.
-- **Whether it repeats** - once, every time, only on mobile, only in private server.
-- **Player names** if it is a player conduct issue.
+- **என்ன நடந்தது** - எ.கா. "வாகன ஸ்பானர் திறக்கப்பட்டது, ஆனால் ஸ்பான் எதுவும் செய்யவில்லை."
+- **எங்கே** - நகரம், கடை, ஸ்பானர், சாலை அல்லது தோராயமான மைல்கல்.
+- **நீங்கள் என்ன செய்து கொண்டிருந்தீர்கள்** - குழு, வாகனம், வேலை, கருவி, மெனு.
+- **அது மீண்டும் நிகழுமா** - ஒருமுறை, ஒவ்வொரு முறையும், மொபைலில் மட்டும், தனிப்பட்ட முறையில் மட்டும் server.
+- **வீரர்களின் பெயர்கள்** இது ஒரு வீரர் நடத்தை சிக்கலாக இருந்தால்.
 
-### When to use it
+### எப்போது பயன்படுத்த வேண்டும்
 
-Use Report for:
+அறிக்கையைப் பயன்படுத்தவும்:
 
-- broken menus, missing buttons, clipped text, or unreadable UI
-- vehicle spawn/fuel/repair problems
-- job tasks that cannot complete
-- map holes, stuck spots, or bad collisions
-- abusive player behaviour
-- feedback on balance, payouts, and roleplay tools
+- உடைந்த மெனுக்கள், விடுபட்ட பொத்தான்கள், கிளிப் செய்யப்பட்ட உரை அல்லது படிக்க முடியாதது UI
+- வாகன உற்பத்தி/எரிபொருள்/ பழுதுபார்க்கும் பிரச்சனைகள்
+- முடிக்க முடியாத வேலை பணிகள்
+- வரைபட துளைகள், சிக்கி புள்ளிகள், அல்லது மோசமான மோதல்கள்
+- தவறான வீரர் நடத்தை
+- இருப்பு, பணம் செலுத்துதல் மற்றும் ரோல்பிளே கருவிகள் பற்றிய கருத்து
 
-Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
+சாதாரண குழு பூட்டுகள், gamepass தேவைகள் அல்லது எரிபொருள்-பம்ப் பொருந்தாத எச்சரிக்கைகளுக்கு இதைப் பயன்படுத்த வேண்டாம்; அவை எதிர்பார்க்கப்படும் விளையாட்டு விதிகள்.
 
-## Identity card (IC)
+## அடையாள அட்டை (IC)
 
-Lebuhraya issues each player a **Malaysian-style identity card** in the Phone or Tablet app.
+Lebuhraya ஒவ்வொரு வீரருக்கும் Phone அல்லது Tablet பயன்பாட்டில் **மலேசிய பாணி அடையாள அட்டை** வழங்குகிறது.
 
-The format resembles a real Malaysian IC, using your Roblox account age and account number to make a consistent roleplay ID. Your IC is the same every time you play.
+இந்த வடிவம் உண்மையான மலேசியன் IC ஐ ஒத்திருக்கிறது, உங்கள் Roblox கணக்கு வயது மற்றும் கணக்கு எண்ணைப் பயன்படுத்தி நிலையான ரோல்பிளே ஐடியை உருவாக்கவும். நீங்கள் விளையாடும் ஒவ்வொரு முறையும் உங்கள் IC ஒரே மாதிரியாக இருக்கும்.
 
-Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
+சிறப்பு அடையாள அட்டைகள் (சட்ட அமலாக்கத்திற்கான Kad Polis, மருத்துவத்திற்கு KKM போன்றவை) உங்கள் குழுவின் அடிப்படையில் தானாகவே வழங்கப்படும். `/me show IC`ஐப் பயன்படுத்தவும் அல்லது ஒரு ரோல்பிளே NPCஐ வழங்கவும்.
 
-## Driving licence
+## ஓட்டுநர் உரிமம்
 
-Every player gets a **Driving Licence** as a tool in their backpack. The licence number is unique per player and stays consistent across sessions.
+ஒவ்வொரு வீரரும் தங்கள் பையில் ஒரு கருவியாக **ஓட்டுநர் உரிமத்தைப் பெறுகிறார்கள். ஒரு வீரருக்கு உரிம எண் தனிப்பட்டது மற்றும் அமர்வுகள் முழுவதும் சீராக இருக்கும்.
 
-**APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
+**APJ அதிகாரிகள்** ஒரு வீரரின் உரிமத்தை சில நிமிடங்களுக்கு இடைநீக்கம் செய்யலாம். இடைநிறுத்தப்பட்ட பிளேயர் ஒரு பேனரைப் பார்க்கிறார்: *"APJ: உங்கள் ஓட்டுநர் உரிமம் X நிமிடங்களுக்கு இடைநிறுத்தப்பட்டுள்ளது."* இடைநீக்கம் தானாகவே நீக்கப்படும் அல்லது APJ உறுப்பினரால் முன்கூட்டியே திரும்பப் பெறப்படலாம்.
 
-Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence - play along.
+இடைநிறுத்தப்பட்ட உரிமத்தை வைத்திருப்பது தொழில்நுட்ப ரீதியாக உங்களை வாகனம் ஓட்டுவதைத் தடுக்காது, ஆனால் இது ஒரு ரோல்பிளே விளைவு - சேர்ந்து விளையாடுங்கள்.
 
-## Tokens and boosts
+## டோக்கன்கள் மற்றும் ஊக்கங்கள்
 
-Some temporary advantages come from **tokens** - consumable boost items in your inventory.
+சில தற்காலிக நன்மைகள் **டோக்கன்கள்** - உங்கள் இருப்புப் பட்டியலில் உள்ள நுகர்வு ஊக்கப் பொருட்களிலிருந்து வருகின்றன.
 
-| Token | Effect |
+| டோக்கன் | விளைவு |
 |---|---|
-| **2× XP Boost** | Doubles your XP multiplier for a set duration |
-| **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
-| **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
+| **2× XP Boost** | ஒரு செட் காலத்திற்கு உங்கள் XP பெருக்கியை இரட்டிப்பாக்குகிறது |
+| **2× Season Pass பூஸ்ட்** | இரட்டையர் Season Pass XP முன்னேற்றம் (ஒரு சீசன் செயலில் இருக்கும் போது) |
+| **Team Access Pass** | gamepass ஐ சொந்தமாக்காமல் gamepass-கேட்டட் குழுவிற்கு தற்காலிக அணுகலை வழங்குகிறது |
 
-### How to get tokens
+### டோக்கன்களை எப்படி பெறுவது
 
-- Career tier rewards (ranking up in a branch)
-- Season Pass tier rewards
-- Promotional events
-- Sometimes bundled with gamepasses
-- Private server event setup by authorised server staff
+- தொழில் அடுக்கு வெகுமதிகள் (ஒரு கிளையில் தரவரிசை)
+- Season Pass அடுக்கு வெகுமதிகள்
+- விளம்பர நிகழ்வுகள்
+- சில நேரங்களில் கேம்பாஸ்களுடன் தொகுக்கப்பட்டுள்ளது
+- அங்கீகரிக்கப்பட்ட server ஊழியர்களால் தனிப்பட்ட server நிகழ்வு அமைப்பு
 
-### How to use tokens
+### டோக்கன்களை எவ்வாறு பயன்படுத்துவது
 
-Activate a token from your inventory (**Main Menu -> More -> Tokens**). The active token display appears automatically when at least one token is running, showing its name and countdown. Tokens can run in parallel.
+உங்கள் இருப்புப் பட்டியலில் இருந்து டோக்கனைச் செயல்படுத்தவும் (**Main Menu -> மேலும் -> டோக்கன்கள்**). குறைந்தபட்சம் ஒரு டோக்கன் இயங்கும் போது செயலில் உள்ள டோக்கன் காட்சி தானாகவே தோன்றும், அதன் பெயர் மற்றும் கவுண்ட்டவுனைக் காட்டுகிறது. டோக்கன்கள் இணையாக இயங்கலாம்.
 
-::: warning
-Tokens are **consumed on activation** - you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
-:::
+> டோக்கன்கள் **செயல்படுத்தும் போது பயன்படுத்தப்படும்** - டோக்கன் தொடங்கியவுடன் அதை இடைநிறுத்த முடியாது. நீங்கள் தொடர்ந்து சம்பாதிக்கும் அமர்வுகளுக்கு அவற்றைச் சேமிக்கவும்.
 
-## Chat and messaging
+## அரட்டை மற்றும் செய்தி அனுப்புதல்
 
-The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly - keep chat clean and respect MYSverse's community rules.
+நிலையான Roblox அரட்டை **/** (ஸ்லாஷ்) வழியாக கிடைக்கிறது. உங்கள் தற்போதைய குழுவுடன் மட்டுமே பேச விரும்பினால் குழு அரட்டை ஒரு விருப்பமாகும். ரோல்பிளே நட்பு - அரட்டையை சுத்தமாக வைத்திருங்கள் மற்றும் MYSverse இன் சமூக விதிகளை மதிக்கவும்.
 
-## Next steps
+## அடுத்த படிகள்
 
-- [Economy and XP](/lebuhraya/economy) - Where the convoy multiplier fits in
-- [Jobs](/lebuhraya/jobs) - Emergency-team job details
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses vs tokens
+- [பொருளாதாரம் மற்றும் XP](/ta/lebuhraya/economy) - கான்வாய் பெருக்கி பொருந்தும் இடத்தில்
+- [வேலைகள்](/ta/lebuhraya/jobs) - அவசர-குழு வேலை விவரங்கள்
+- [பாஸ்கள் மற்றும் பூஸ்ட்கள்](/ta/lebuhraya/passes-and-boosts) - கேம்பாஸ்கள் vs டோக்கன்கள்

@@ -15,7 +15,7 @@ Bandaraya beroperasi dengan **BR (Bandar Ringgit)**. Anda memperolehinya dengan 
 ## TL;DR
 
 - Mata wang utama ialah **BR** - dompet "tunai" anda.
-- Dompet kedua, **kad CAG**, hanya bernilai simpanan untuk **bas, MRT, dan tol**. Lihat [Pergerakan](/bandaraya/getting-around). Anda tidak boleh mengeluarkan wang tunai dari CAG.
+- Dompet kedua, **kad CAG**, hanya bernilai simpanan untuk **bas, MRT, dan tol**. Lihat [Pergerakan](/ms/bandaraya/getting-around). Anda tidak boleh mengeluarkan wang tunai dari CAG.
 - Peroleh BR melalui pekerjaan (POS, Teksi, Tunda, Bas), tindak balas polis/kecemasan, atau dengan membeli BR menggunakan Robux.
 - Belanjakan BR di kedai, dealership, pintu TapNGo, pembukaan klem, dan saman.
 
@@ -36,12 +36,12 @@ Peraturan sehala: **anda tidak boleh menukar CAG kembali menjadi tunai.** Tambah
 
 | Sumber | Pasukan / keperluan | Pendapatan |
 | --- | --- | --- |
-| **Perkhidmatan Pos (POS)** | Mana-mana | **70 BR** pada Tahap 1, **260 BR** pada Tahap 20 (maksimum). Lihat [Pekerjaan](/bandaraya/jobs#postal-service-pos). |
-| **Pemandu Teksi** | Pasukan Taxi Services **atau** gamepass Taxi Driver (150 R$) | Setiap perjalanan yang selesai. Lihat [Pekerjaan](/bandaraya/jobs#taxi-driver). |
-| **Perkhidmatan Tunda** | Pasukan Towing Services | Yuran klem, kerja tunda. Lihat [Pekerjaan](/bandaraya/jobs#towing). |
+| **Perkhidmatan Pos (POS)** | Mana-mana | **70 BR** pada Tahap 1, **260 BR** pada Tahap 20 (maksimum). Lihat [Pekerjaan](/ms/bandaraya/jobs#postal-service-pos). |
+| **Pemandu Teksi** | Pasukan Taxi Services **atau** gamepass Taxi Driver (150 R$) | Setiap perjalanan yang selesai. Lihat [Pekerjaan](/ms/bandaraya/jobs#taxi-driver). |
+| **Perkhidmatan Tunda** | Pasukan Towing Services | Yuran klem, kerja tunda. Lihat [Pekerjaan](/ms/bandaraya/jobs#towing). |
 | **Pemanduan bas** | MyTransit / FirstGroup / Fermuda / Bus Services | Setiap laluan. Pemandu menaiki secara percuma. |
 | **Produk pembangun** | Mana-mana | Robux → BR. Lihat jadual di bawah. |
-| **Hadiah daripada pemain lain** | Mana-mana | Melalui aplikasi telefon **MyPay** dalam permainan. Lihat [Telefon](/bandaraya/phone#mypay--send-br-to-another-player). |
+| **Hadiah daripada pemain lain** | Mana-mana | Melalui aplikasi telefon **MyPay** dalam permainan. Lihat [Telefon](/ms/bandaraya/phone#mypay--send-br-to-another-player). |
 
 Gamepass HCC memberikan **rangsangan pendapatan** di atas pendapatan di atas.
 
@@ -73,7 +73,7 @@ Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 
 ### Dealership
 
-**Classic Car Dealer** menjual kereta awam: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, dan banyak lagi. Harga berbeza mengikut model. Lihat [Kenderaan](/bandaraya/vehicles#dealership).
+**Classic Car Dealer** menjual kereta awam: Proton, Perodua, Toyota, Honda, Ford Mustang, BMW, Mitsubishi, dan banyak lagi. Harga berbeza mengikut model. Lihat [Kenderaan](/ms/bandaraya/vehicles#dealership).
 
 - **Beli** - kekal. Disimpan ke akaun anda dan auto-simpan setiap 30 saat.
 - **Sewa** - kegunaan sementara.
@@ -89,7 +89,7 @@ Jalan dekat kedai, UI terbuka, pilih item, sahkan.
 | **Pembukaan klem** | **500 BR**. Berlaku selepas operator tunda mengklem kenderaan anda. |
 | **Saman** | Berubah-ubah - pegawai polis mengeluarkan saman di skrin dengan denda BR. |
 
-Lihat [Pergerakan](/bandaraya/getting-around) untuk harga transit.
+Lihat [Pergerakan](/ms/bandaraya/getting-around) untuk harga transit.
 
 ---
 
@@ -111,7 +111,7 @@ Ini adalah produk guna habis. Belilah apabila anda mahu melangkau kerja kasar un
 
 ## Gamepass (buka kunci satu kali)
 
-Lihat halaman khusus [Gamepasses](/bandaraya/gamepasses) untuk pemecahan penuh. Senarai ringkas:
+Lihat halaman khusus [Gamepasses](/ms/bandaraya/gamepasses) untuk pemecahan penuh. Senarai ringkas:
 
 | Gamepass | Robux | Apa yang anda dapat |
 | --- | --- | --- |
@@ -135,8 +135,8 @@ Gamepass kekal bersama anda merentasi sesi.
 
 ## Lihat juga
 
-- [Pekerjaan](/bandaraya/jobs) - memperoleh BR
-- [Gamepass](/bandaraya/gamepasses) - HCC, Firearms Licence, dll.
-- [Kenderaan](/bandaraya/vehicles) - dealership + minyak
-- [Pergerakan](/bandaraya/getting-around) - kad CAG, tambang transit
-- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) - saman
+- [Pekerjaan](/ms/bandaraya/jobs) - memperoleh BR
+- [Gamepass](/ms/bandaraya/gamepasses) - HCC, Firearms Licence, dll.
+- [Kenderaan](/ms/bandaraya/vehicles) - dealership + minyak
+- [Pergerakan](/ms/bandaraya/getting-around) - kad CAG, tambang transit
+- [Tangkapan & Undang-undang](/ms/bandaraya/arrest-and-law) - saman

@@ -69,7 +69,7 @@ Sumaya-வில் **இரு-நிலை XP அமைப்பு** உள�
 
 ### Quest-கள்
 
-12-quest discovery chain ஒவ்வொரு quest வெகுமதிகள் முழுவதும் **3,750 XP** செலுத்துகிறது, **கடைசி quest-இல் ஒரு முறை 2,000 XP finale போனஸ்** கூட. முழுமையாக முடிக்கப்பட்டது = **5,750 XP**. SR payout இதேபோல்: 2,900 சாதாரண + 1,500 finale = 4,400 Ringgit. [Quests](/sumaya/quests) பார்க்கவும்.
+12-quest discovery chain ஒவ்வொரு quest வெகுமதிகள் முழுவதும் **3,750 XP** செலுத்துகிறது, **கடைசி quest-இல் ஒரு முறை 2,000 XP finale போனஸ்** கூட. முழுமையாக முடிக்கப்பட்டது = **5,750 XP**. SR payout இதேபோல்: 2,900 சாதாரண + 1,500 finale = 4,400 Ringgit. [Quests](/ta/sumaya/quests) பார்க்கவும்.
 
 ## Kesihatan +15% XP பூஸ்ட்
 
@@ -242,6 +242,6 @@ Sector XP **பூஸ்ட் செய்யப்படவில்லை** -
 
 ## அடுத்து என்ன?
 
-- Ringgit இணையாக எவ்வாறு செயல்படுகிறது என்பதற்கு [Economy](/sumaya/economy).
-- 12-quest chain மற்றும் மைல்கற்களுக்கு [Quests](/sumaya/quests).
-- Sector-குறிப்பிட்ட grind குறிப்புகளுக்கு [Career overview](/sumaya/jobs) அல்லது [Emergency services overview](/sumaya/emergency-services).
+- Ringgit இணையாக எவ்வாறு செயல்படுகிறது என்பதற்கு [Economy](/ta/sumaya/economy).
+- 12-quest chain மற்றும் மைல்கற்களுக்கு [Quests](/ta/sumaya/quests).
+- Sector-குறிப்பிட்ட grind குறிப்புகளுக்கு [Career overview](/ta/sumaya/jobs) அல்லது [Emergency services overview](/ta/sumaya/emergency-services).

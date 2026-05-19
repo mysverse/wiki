@@ -120,7 +120,7 @@ needs_review: true
 | **TBI** | Traumatic Brain Injury - 最严重的伤害类型，需要卧床休息。 |
 | **Drop-off zone** | 劫车者交付被盗车辆出售的位置，或动物走私者交付其非法商品的位置。 |
 | **Nearby officer bonus** | 逮捕奖励的 50% 给予在逮捕官员 50 stud 范围内的任何 POLIS 玩家。 |
-| **Combat timer / "ENGAGED"** | 当 taser 击中或拘留成功时，对嫌疑人开启的 30 秒交战窗口。在它运行时，Reset 和主菜单 / team-switch 被锁定，死亡或离开游戏将路由到时长加倍的 **combat-evasion jail**。无论哪种情况，逮捕官员都保留功劳。参见[犯罪与法律](/sumaya/crime-and-law)。 |
+| **Combat timer / "ENGAGED"** | 当 taser 击中或拘留成功时，对嫌疑人开启的 30 秒交战窗口。在它运行时，Reset 和主菜单 / team-switch 被锁定，死亡或离开游戏将路由到时长加倍的 **combat-evasion jail**。无论哪种情况，逮捕官员都保留功劳。参见[犯罪与法律](/zh/sumaya/crime-and-law)。 |
 | **Reset cooldown / "Respawning..."** | 当你在战斗外按下 Reset 时运行的 12 秒可取消倒计时。干净地重新加载角色（无死亡，无掉落工具）。如果你被电击、逮捕或离开游戏，将自动取消。 |
 | **Citizen level** | 你的全局玩家等级，显示在右上角 Status 小工具上为 `Citizen <N>`。与 sector 等级不同（后者是按职业的）。 |
 | **Status widget** | 显示 Citizen 等级 + 活跃 sector 的两行右上 HUD 面板。通过点击顶栏上的 Status 图标隐藏。 |

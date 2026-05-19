@@ -8,205 +8,203 @@ needs_review: true
 ---
 # 社交功能
 
-Lebuhraya has a few systems designed to make the game better when you play with others - the **Convoy** system for earning together, the **999 Emergency** system for player-driven roleplay, the **Phone** for apps and communication, and **Tokens** for temporary boosts.
+Lebuhraya 有一些旨在让游戏在与他人一起玩时变得更好的系统 - 用于共同赚钱的 **Convoy** 系统、用于玩家驱动的角色扮演的 **999 紧急**系统、用于应用程序和通信的 **Phone** 以及用于临时提升的 **Tokens**。
 
-## Convoy
+## 车队
 
-Drive together, earn more. Convoys reward coordinated play with a stacking XP multiplier.
+一起开车，赚更多。车队通过堆叠 XP 乘数奖励协调游戏。
 
-### Creating a convoy
+### 创建车队
 
-1. Open the convoy menu (from the Main Menu or topbar).
-2. Select **Create convoy** - you become the leader.
-3. Either invite specific players or set the convoy to public so others within 500 studs can request to join.
+1. 打开车队菜单（从Main Menu或顶部栏）。
+2. 选择**创建车队** - 您将成为领导者。
+3. 邀请特定玩家或将车队设为公开，以便 500 studs 内的其他玩家可以请求加入。
 
-### Joining a convoy
+### 加入车队
 
-- **By invite**: The leader sends you an invitation; accept it within 30 seconds or it expires. You can also decline.
-- **By request**: Open the convoy menu, see public convoys within 500 studs, and request to join. The leader has 30 seconds to approve your request before it expires.
+- **通过邀请**：领导向您发送邀请；请在 30 秒内接受，否则过期。您也可以拒绝。
+- **根据请求**：打开车队菜单，查看500studs内的公共车队，并请求加入。领导者有 30 秒的时间来批准您的请求，然后该请求就会过期。
 
-Both sides of the handshake use the same 30-second timeout - if you miss it, just re-invite or re-request.
+握手双方都使用相同的 30 秒超时 - 如果错过了，只需重新邀请或重新请求即可。
 
-### Convoy rules
+### 车队规则
 
-- **Maximum size**: 6 members
-- **Proximity**: You must stay within **200 studs** of another convoy member for bonuses to apply
-- **Leader**: Sets invite rules and can remove members
+- **最大人数**：6 名成员
+- **邻近**：您必须与其他车队成员保持在 **200 studs** 范围内才能申请奖金
+- **领导者**：设置邀请规则并可以删除成员
 
-### How the bonus stacks
+### 奖金如何叠加
 
-The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
+车队奖励将添加到您现有的XP乘数堆栈中（请参阅[经济和XP](/zh/lebuhraya/economy#the-xp-multiplier-stack)）。
 
-| Component | Value |
+|组件|价值|
 |---|---|
-| Base convoy bonus | +15% |
-| Per additional member (after two) | +5% each |
-| Friend in the convoy | +10% |
-| Same-team member in the convoy | +10% |
-| Streak bonus (time convoying) | +2% per minute, capped at +10% |
-| **Maximum total convoy bonus** | **+50%** |
+|基础车队奖金 | +15% |
+|每增加一名成员（两名之后）|每个+5% |
+|车队里的朋友 | +10% |
+|车队中的同队成员| +10% |
+|连胜奖金（时间护航）|每分钟 +2%，上限为 +10% |
+| **最大总车队奖金** | **+50%** |
 
-Passengers in a convoy vehicle get half the driver's bonus.
+车队车辆中的乘客可获得司机奖金的一半。
 
-A well-configured 6-person convoy (friends, same-team, driving together for 5+ minutes) hits the +50% cap consistently.
+一个配置良好的 6 人车队（朋友，同一团队，一起驾驶 5 分钟以上）始终达到 +50% 上限。
 
-## 999 emergency system
+## 999急救系统
 
-Lebuhraya's emergency services are player-driven. Any player can call 999; emergency-team players respond.
+Lebuhraya 的紧急服务是由玩家驱动的。任何玩家都可以拨打999；应急小组成员做出反应。
 
-### Calling 999
+### 拨打 999
 
-1. Open your **Phone** (topbar icon).
-2. Tap the **999** app.
-3. Select the incident type:
- - **Car Crash**
- - **Injured Person**
-4. Your call is broadcast to all on-duty emergency responders.
+1. 打开您的**Phone**（顶栏图标）。
+2. 点击 **999** 应用程序。
+3. 选择事件类型：
+ - **车祸**
+ - **受伤人员**
+4. 您的呼叫将广播给所有值班紧急响应人员。
 
-Each active incident shows on responders' pagers with your location.
+每个活动事件都会在响应者的寻呼机上显示您的位置。
 
-### Responding (emergency teams)
+### 响应（应急小组）
 
-If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan**:
+如果您使用 **Bomba**、**Polis Trafik**、**Undercover Police** 或 **Kesihatan**：
 
-1. Equip your **Pager** tool.
-2. View the active incidents panel.
-3. Tap to accept an incident - it becomes your assigned case.
-4. Drive to the location.
-5. Resolve the incident according to its type:
- - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
- - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
-6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
+1. 装备您的 **Pager** 工具。
+2. 查看活动事件面板。
+3. 点击接受事件 - 它将成为您分配的案例。
+4. 开车前往地点。
+5. 根据事件类型解决事件：
+ - **车祸** - 使用吊具/电锯解救被困司机 (Bomba)、修补伤势 (Kesihatan)、管理现场 (Polis)。
+ - **伤者** - 稳定伤者并将其送往医院 (Kesihatan)。
+6. 一旦您到达现场并且最短响应窗口（**30 秒**）过去，解决事件即可获得奖励。
 
-### Limits
+### 限制
 
-- Up to **10 active incidents** can exist at once.
-- The caller has a cooldown on repeated 999 calls.
-- If you change teams mid-incident, your assignment is cancelled.
+- 一次最多可以存在 **10 个活动事件**。
+- 呼叫者重复拨打 999 电话有冷却时间。
+- 如果您在事件中途更换团队，您的任务将被取消。
 
-## The phone
+## 电话
 
-Every player has a phone accessible from the topbar.
+每个玩家都有一部可通过顶部栏访问的电话。
 
-### Built-in features
+### 内置功能
 
-- **999 Emergency**
-- **GPS navigation** - set a waypoint to any POI
-- **System clock** showing in-game time
+- **999紧急**
+- **GPS导航** - 设置任意POI的航路点
+- **系统时钟**显示游戏时间
 
-### Apps
+### 应用程序
 
-- **Rafahia App v3.0** - The MYSverse community's unified social app (messaging, profiles, cross-experience features).
+- **Rafahia App v3.0** - MYSverse 社区的统一社交应用程序（消息、个人资料、跨体验功能）。
 
-More phone apps may appear over time as the MYSverse platform adds features.
+随着 MYSverse 平台增加功能，更多的手机应用程序可能会随着时间的推移而出现。
 
-### Phone tips
+### Phone 提示
 
-- Use the Phone when you need quick actions while staying in the world.
-- GPS waypoints are the safest way to reach a POI without staff-only fast travel.
-- If an emergency or GPS screen appears blank, close the phone and reopen it after your character fully loads.
+- 当您在世界上需要快速行动时，请使用Phone。
+- GPS 航路点是到达POI 的最安全方式，无需工作人员快速旅行。
+- 如果紧急情况或 GPS 屏幕显示为空白，请关闭手机并在角色完全加载后重新打开。
 
-## MyPod music player
+## MyPod 音乐播放器
 
-**MyPod** is the topbar music player. It is not a vehicle spawner.
+**MyPod** 是顶栏音乐播放器。它不是车辆生成器。
 
-What MyPod does:
+MyPod 的作用：
 
-- Shows a mini player bar while music is playing.
-- Opens into a full player with track list, album-art panel, progress scrubber, and volume slider.
-- Supports play/pause, previous/next, shuffle, repeat, and favourites.
-- Can auto-play a random track when you sit in a vehicle if **Auto-play** is enabled.
+- 播放音乐时显示迷你播放器栏。
+- 打开一个完整的播放器，其中包含曲目列表、专辑封面面板、进度滑块和音量滑块。
+- 支持播放/暂停、上一首/下一首、随机播放、重复播放和收藏夹。
+- 如果启用了**自动播放**，则当您坐在车内时可以自动播放随机曲目。
 
-What MyPod does **not** do:
+MyPod **不**做什么：
 
-- It does not spawn vehicles.
-- It does not despawn vehicles.
-- It does not replace the physical vehicle spawner pads/markers around the map.
+- 它不会产生车辆。
+- 它不会使车辆消失。
+- 它不会取代地图周围的物理车辆生成器垫/标记。
 
-## The tablet
+## 平板电脑
 
-A secondary device available from the topbar. Think of it as your "career HUD" - bigger screen, more data than the phone.
+顶部栏中提供的辅助设备。将其视为您的“职业HUD”：比手机更大的屏幕、更多的数据。
 
-### Apps
+### 应用程序
 
-- **Vehicle** - View nearby vehicle registration and driving licence information for roleplay scenes. Full licence details are limited to relevant enforcement teams.
-- **Staff tools** - Moderation tools may appear for authorised MYSverse staff.
+- **车辆** - 查看附近的车辆登记和驾驶执照信息以进行角色扮演场景。完整的许可证详细信息仅限于相关执法团队。
+- **员工工具** - 可能会为授权的 MYSverse 员工显示审核工具。
 
-## Report system
+## 举报系统
 
-Use the in-game **Report** system when you need to send feedback, bug reports, or player reports to the MYSverse team.
+当您需要向 MYSverse 团队发送反馈、错误报告或玩家报告时，请使用游戏内 **报告** 系统。
 
-### What to include
+### 包含哪些内容
 
-Good reports are specific:
+好的报告是具体的：
 
-- **What happened** - e.g. "Vehicle spawner opened but Spawn did nothing."
-- **Where** - town, shop, spawner, road, or approximate landmark.
-- **What you were doing** - team, vehicle, job, tool, menu.
-- **Whether it repeats** - once, every time, only on mobile, only in private server.
-- **Player names** if it is a player conduct issue.
+- **发生了什么** - 例如“车辆生成器打开，但生成器什么也没做。”
+- **地点** - 城镇、商店、生成器、道路或近似地标。
+- **你在做什么** - 团队、车辆、工作、工具、菜单。
+- **是否重复** - 一次，每次，仅在移动设备上，仅在私下server。
+- **玩家姓名**（如果是玩家行为问题）。
 
-### When to use it
+### 何时使用它
 
-Use Report for:
+使用报告：
 
-- broken menus, missing buttons, clipped text, or unreadable UI
-- vehicle spawn/fuel/repair problems
-- job tasks that cannot complete
-- map holes, stuck spots, or bad collisions
-- abusive player behaviour
-- feedback on balance, payouts, and roleplay tools
+- 菜单损坏、按钮丢失、文本被剪裁或无法阅读 UI
+- 车辆产卵/燃料/维修问题
+- 无法完成的工作任务
+- 地图上的漏洞、卡点或严重碰撞
+- 玩家的辱骂行为
+- 关于余额、支出和角色扮演工具的反馈
 
-Do not use it for normal team locks, gamepass requirements, or fuel-pump mismatch warnings; those are expected game rules.
+请勿将其用于正常团队锁定、gamepass 要求或燃油泵不匹配警告；这些是预期的游戏规则。
 
-## Identity card (IC)
+## 身份证（IC）
 
-Lebuhraya issues each player a **Malaysian-style identity card** in the Phone or Tablet app.
+Lebuhraya在Phone或Tablet应用程序中向每位玩家发放**马来西亚式身份证**。
 
-The format resembles a real Malaysian IC, using your Roblox account age and account number to make a consistent roleplay ID. Your IC is the same every time you play.
+格式类似于真正的马来西亚IC，使用您的Roblox帐户年龄和帐号来制作一致的角色扮演ID。每次玩时，您的IC都是一样的。
 
-Specialised identity cards (Kad Polis for law enforcement, KKM for medical, etc.) are issued automatically based on your team. Use `/me show IC` or interact with a roleplay NPC to present it.
+专门的身份证（执法卡Polis，医疗卡KKM等）会根据您的团队自动发放。使用`/me show IC`或与角色扮演NPC互动来呈现它。
 
-## Driving licence
+## 驾驶执照
 
-Every player gets a **Driving Licence** as a tool in their backpack. The licence number is unique per player and stays consistent across sessions.
+每个玩家都会获得一张**驾驶执照**作为背包里的工具。每个玩家的许可证号都是唯一的，并且在各个会话中保持一致。
 
-**APJ officers** can suspend a player's licence for a number of minutes. A suspended player sees a banner: *"APJ: Your driver licence has been suspended for X minutes."* The suspension is lifted automatically, or can be revoked early by an APJ member.
+**APJ 官员**可以暂停球员的执照几分钟。被暂停的玩家会看到一条横幅：*“APJ：您的驾驶执照已被暂停 X 分钟。”* 暂停会自动解除，或者可以由 APJ 会员提前撤销。
 
-Having a suspended licence doesn't technically stop you from driving, but it's a roleplay consequence - play along.
+从技术上讲，吊销驾照并不能阻止你开车，但这是角色扮演的结果，请配合游玩。
 
-## Tokens and boosts
+## 代币和提升
 
-Some temporary advantages come from **tokens** - consumable boost items in your inventory.
+一些暂时的优势来自**代币** - 库存中的消耗性增强物品。
 
-| Token | Effect |
+|代币|效果|
 |---|---|
-| **2× XP Boost** | Doubles your XP multiplier for a set duration |
-| **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
-| **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |
+| **2× XP Boost** |在设定的时间内将您的 XP 乘数加倍 |
+| **2× Season Pass 提升** |双打Season PassXP进展（当赛季有效时）|
+| **Team Access Pass** |授予对 gamepass 门禁团队的临时访问权限，而无需拥有 gamepass |
 
-### How to get tokens
+### 如何获取代币
 
-- Career tier rewards (ranking up in a branch)
-- Season Pass tier rewards
-- Promotional events
-- Sometimes bundled with gamepasses
-- Private server event setup by authorised server staff
+- 职业等级奖励（在分支中排名上升）
+- Season Pass等级奖励
+- 促销活动
+- 有时与游戏通行证捆绑在一起
+- 由授权server工作人员安排私人server活动
 
-### How to use tokens
+### 如何使用代币
 
-Activate a token from your inventory (**Main Menu -> More -> Tokens**). The active token display appears automatically when at least one token is running, showing its name and countdown. Tokens can run in parallel.
+从您的库存中激活令牌（**Main Menu -> 更多 -> 令牌**）。当至少一个令牌正在运行时，活动令牌显示屏会自动出现，显示其名称和倒计时。令牌可以并行运行。
 
-::: warning
-Tokens are **consumed on activation** - you can't pause a token once it starts. Save them for sessions where you'll be continuously earning.
-:::
+> 令牌**在激活时消耗** - 令牌一旦启动就无法暂停。将它们保存到您将持续赚钱的会话中。
 
-## Chat and messaging
+## 聊天和消息传递
 
-The standard Roblox chat is available via **/** (slash). Team chat is an option if you want to talk only with your current team. Roleplay friendly - keep chat clean and respect MYSverse's community rules.
+标准的Roblox聊天可通过**/**（斜杠）进行。如果您只想与当前团队交谈，则可以选择团队聊天。角色扮演友好 - 保持聊天干净并尊重 MYSverse 的社区规则。
 
-## Next steps
+## 后续步骤
 
-- [Economy and XP](/lebuhraya/economy) - Where the convoy multiplier fits in
-- [Jobs](/lebuhraya/jobs) - Emergency-team job details
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses vs tokens
+- [经济和XP](/zh/lebuhraya/economy) - 车队乘数适合的位置
+- [工作](/zh/lebuhraya/jobs) - 紧急小组工作详情
+- [通行证和提升](/zh/lebuhraya/passes-and-boosts) - 游戏通行证与代币

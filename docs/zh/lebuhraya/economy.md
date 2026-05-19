@@ -8,97 +8,97 @@ needs_review: true
 ---
 # 经济与经验值
 
-Everything in Lebuhraya revolves around two numbers: your **Ringgit (BR)** and your **level**. This page explains how both work, where they come from, and how to earn faster.
+Lebuhraya 中的一切都围绕两个数字：您的 **Ringgit (BR)** 和您的 **等级**。本页介绍了两者的工作原理、来源以及如何更快地赚钱。
 
 ## Ringgit (BR)
 
-Lebuhraya tracks Ringgit, shown as **BR**, but most everyday costs are not charged yet. Your account starts with **1000 BR** and race rewards can add to it, but the current build is still mostly XP-driven. BR may not be visible in the normal player HUD yet.
+Lebuhraya曲目Ringgit，显示为**BR**，但大部分日常费用尚未收取。您的帐户从 **1000 BR** 开始，比赛奖励可以添加到其中，但当前的构建仍然主要由 XP 驱动。 BR 在普通播放器HUD 中可能还看不到。
 
-- **Shops are currently free.**
-- **Fuel pumps and tolls currently do not deduct BR.**
-- **Repair zones and housing furniture currently do not deduct BR.**
-- **Most jobs pay XP first.** Some screens may still mention money or salary, but treat those as job progress or future economy text unless the game clearly credits BR.
+- **商店目前免费。**
+- **燃油泵和通行费目前不扣除BR。**
+- **维修区和住房家具目前不扣除BR。**
+- **大多数工作首先支付XP。** 有些屏幕可能仍会提到金钱或薪水，但将其视为工作进度或未来经济文本，除非游戏明确注明BR。
 
-What this means for you: do not plan your session around budgeting BR yet. Pick jobs for their XP rate, pick vehicles for how they drive, and check the in-game menu when an update changes the economy.
+这对您意味着什么：暂时不要围绕预算BR 来计划您的会议。根据 XP 费率选择工作，根据驾驶方式选择车辆，并在更新改变经济时检查游戏内菜单。
 
-### What's tracked right now
+### 现在正在追踪什么
 
-- Starting balance: **1000 BR**.
-- Race rewards can grant BR.
-- Normal shops, fuel, tolls, repairs, and furniture are currently free.
+- 起始余额：**1000 BR**。
+- 比赛奖励可获得BR。
+- 普通商店、燃料、通行费、维修和家具目前都是免费的。
 
-### What may use BR later
+### 以后可能会用到BR
 
-The in-game economy is expected to expand over time. These areas may start charging or paying BR in future updates:
+游戏内经济预计将随着时间的推移而扩大。这些地区可能会在未来的更新中开始收费或支付BR：
 
-- Fuel payments at PETROMAS and Radtrol
-- Shop purchases
-- Food Delivery, Checkout, Lumberjack, Fishing, and Post Office payouts
-- Vehicle dealership purchases
-- Repair costs at repair zones
+- 在PETROMAS和Radtrol支付燃油费
+- 商店购买
+- Food Delivery、结帐、Lumberjack、Fishing 和 Post Office 付款
+- 经销店购买车辆
+- 维修区的维修费用
 
-## Levels and XP
+## 级别和 XP
 
-There are **500 levels**. Each level requires **1000 XP** to complete. The level cap is firm. You cannot level past 500, but XP still contributes to badges, challenges, and career tiers where those systems use it.
+有 **500 个级别**。每个级别需要 **1000 XP** 才能完成。等级上限是固定的。你无法升级到超过 500 级，但XP 仍然对badges、挑战以及这些系统使用它的职业等级做出贡献。
 
-### Earning XP
+### 收入XP
 
-There are two kinds of XP:
+XP有两种：
 
-**Driving XP (passive).** Every time you drive **1500 studs** in a driver seat, you earn **50 XP**. The counter only advances while you're in the seat and moving faster than a walk - stopped cars don't earn XP. This is the single biggest source of XP for most players, especially in early levels.
+**驾驶 XP（被动）。** 每次您驾驶 **1500 studs** 坐在驾驶座上，您就赚取 **50 XP**。计数器仅在您坐在座位上并且移动速度比步行快时才会前进 - 停下来的汽车不会赚取 XP。对于大多数玩家来说，这是 XP 的最大来源，尤其是在早期关卡中。
 
-**Job XP (active).** Each completed job action awards a chunk of XP.
+**作业XP（活跃）。** 每个完成的作业操作都会奖励一大块XP。
 
-| Job | XP reward |
+|工作 | XP奖励 |
 |---|---|
-| Food Delivery | **250 XP** per delivery |
-| Taxi | Varies - about **0.11 to 0.13 XP per stud** of the trip (a 4000-stud trip = 440 to 520 XP) |
-| Other jobs | See [Jobs](/lebuhraya/jobs) for per-job details |
+| Food Delivery | **每次交货 250 XP** |
+|出租车 |各不相同 - 每 stud** 行程大约 **0.11 至 0.13 XP（4000-stud 行程 = 440 至 520 XP）|
+|其他职位 |有关每个职位的详细信息，请参阅[职位](/zh/lebuhraya/jobs) |
 
-### The XP multiplier stack
+### XP 乘法器堆栈
 
-Multiple bonuses stack **additively** on top of your base ×1 multiplier. The final multiplier is applied to every XP award.
+多项奖金可**额外**叠加在您的基础 ×1 乘数之上。最终乘数适用于每个XP奖励。
 
-| Source | Bonus |
+|来源 |奖金 |
 |---|---|
-| Double XP weekend (periodic events) | Multiplier set to ×2 |
+| Double XP周末（定期活动）|乘数设置为 ×2 |
 | XP Boost gamepass | +50% |
-| Roblox Premium membership | +25% |
-| Injury system enabled | +15% |
-| Token XP Boost (consumable) | +100% |
-| Convoy bonus (up to) | +50% |
+| Roblox Premium 会员 | +25% |
+|伤害系统启用 | +15% |
+|代币XP Boost（消耗品）| +100% |
+|护航奖金（最高）| +50% |
 
-So a Premium player in a full convoy during a double-XP weekend, with an XP Boost token active, can reach well above ×3 multiplier. Stacking these is the fastest way to hit level 500.
+因此，在双XP周末期间，在完整车队中的Premium玩家，如果拥有活跃的XP Boost代币，可以达到远高于×3的乘数。堆叠这些是达到 500 级的最快方法。
 
-### Convoy bonus breakdown
+### 车队奖金明细
 
-Convoy bonuses stack in their own way:
+护航奖金以自己的方式叠加：
 
-- **Base bonus** for being in a convoy: +15%
-- **Per additional member** (beyond two): +5% each
-- **Friend in the convoy**: +10%
-- **Same team in the convoy**: +10%
-- **Streak bonus** (time spent in convoy): +2% per minute, up to +10%
+- 加入车队的**基本奖励**：+15%
+- **每增加一名成员**（超过两名）：每人 +5%
+- **车队中的朋友**：+10%
+- **车队中的同一团队**：+10%
+- **连胜奖励**（车队花费的时间）：每分钟 +2%，最高 +10%
 
-The total convoy multiplier is capped at **+50%**.
+总护航乘数上限为 **+50%**。
 
-## What resets and what saves
+## 什么会重置，什么会保存
 
-- **Live public game**: Level, XP, BR, vehicles, and housing are saved automatically when you leave.
-- **Test servers**: XP may reset to 0 when you join. This does not affect your live public progress.
-- **Private servers**: Progression is disabled for controlled roleplay and practice. Use public servers when you want progress to count.
+- **直播公开游戏**：当你离开时，等级、XP、BR、车辆和房屋都会自动保存。
+- **测试服务器**：当您加入时，XP可能会重置为0。这不会影响您的公开直播进度。
+- **私人服务器**：对于受控的角色扮演和练习，进程被禁用。当您想要计算进度时，请使用公共服务器。
 
-## Tips for levelling fast
+## 快速练级的技巧
 
-1. **Stay in the driver seat on long routes.** Long-distance driving is the single biggest source of passive XP.
-2. **Do Food Delivery starting at Level 10.** 250 XP per delivery is the best flat rate until higher tiers unlock.
-3. **Convoy with at least one friend on the same team.** Activates both the friend bonus (+10%) and the same-team bonus (+10%).
-4. **Subscribe to Roblox Premium.** +25% XP on everything you do.
-5. **Save XP Boost tokens for long sessions.** The +100% is duration-based, so use it during commitment blocks (a full evening of racing or delivery).
-6. **Weekend events** occasionally double XP for everyone. Watch for announcements.
+1. **在长途路线上留在驾驶员座位上。** 长途驾驶是被动XP的最大单一来源。
+2. **从 10 级开始执行 Food Delivery。** 每次交付 250 XP 是最佳统一费率，直到更高级别解锁。
+3. **与至少一名好友同队护航。** 同时激活好友加成 (+10%) 和同队加成 (+10%)。
+4. **订阅Roblox Premium。** +25% XP 你所做的一切。
+5. **为长时间会话保存 XP Boost 代币。** +100% 是基于持续时间的，因此在承诺块期间（一整晚的比赛或交付）使用它。
+6. **周末活动**偶尔会为每个人提供双倍XP。留意公告。
 
-## Next steps
+## 后续步骤
 
-- [Vehicles](/lebuhraya/vehicles) - Fuel pricing and ownership
-- [Jobs](/lebuhraya/jobs) - Per-job XP / BR breakdown
-- [Passes and boosts](/lebuhraya/passes-and-boosts) - How to get the XP Boost gamepass
+- [车辆](/zh/lebuhraya/vehicles) - 燃油定价和所有权
+- [工作](/zh/lebuhraya/jobs) - 每个工作XP / BR 细分
+- [通行证和提升](/zh/lebuhraya/passes-and-boosts) - 如何获得XP Boost gamepass

@@ -85,7 +85,7 @@ Lebuh raya menghubungkan ketiga-tiga wilayah. Perhentian penting:
 | Bahan api (Petrol) | PETROMAS NB atau SB, atau Radtrol |
 | Bahan api (Diesel) | Kompleks Petroliam dan Gas Radtrol, stesen PETROMAS |
 | Bahan api (Elektrik) | Radtrol di Bandar Seri Putra (pengecas elektrik) |
-| Makanan & snek | Mana-mana daripada 12 kedai - lihat [Kedai](/lebuhraya/shops) |
+| Makanan & snek | Mana-mana daripada 12 kedai - lihat [Kedai](/ms/lebuhraya/shops) |
 | Jerigen | Jerrycan Shop |
 | Bantuan polis | Mana-mana Balai Polis (Bandar Seri Putra, Kampung Merbang) |
 | Kebakaran / penyelamat | Mana-mana Balai Bomba (Bandar Seri Putra, Jersik) |
@@ -128,6 +128,6 @@ Perjalanan Pantas wujud dalam permainan tetapi terhad kepada **kakitangan MYSver
 
 ## Langkah seterusnya
 
-- [Kedai](/lebuhraya/shops) - Apa yang dijual di setiap kedai
-- [Kerja](/lebuhraya/jobs) - Bangunan mana yang tergolong dalam kerja mana
-- [Perumahan](/lebuhraya/housing) - Tuntut petak di Pangsapuri Seri Putra
+- [Kedai](/ms/lebuhraya/shops) - Apa yang dijual di setiap kedai
+- [Kerja](/ms/lebuhraya/jobs) - Bangunan mana yang tergolong dalam kerja mana
+- [Perumahan](/ms/lebuhraya/housing) - Tuntut petak di Pangsapuri Seri Putra

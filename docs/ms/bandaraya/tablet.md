@@ -12,7 +12,7 @@ needs_review: true
 
 **Tablet** dalam permainan ialah peranti pelbagai aplikasi yang memaparkan ciri tambahan untuk pasukan anda. Aplikasi dibuka berdasarkan warna pasukan anda - pegawai POLIS nampak MDT, operator tunda nampak MyTow, dan sebagainya.
 
-> **Tablet ≠ Telefon.** [Telefon](/bandaraya/phone) ialah permukaan aplikasi topbar universal (MyPay, e-hailing, CAG, 999, MyCar, dan lain-lain). Tablet pula ialah **alat** khas pasukan yang anda lengkapkan daripada backpack anda.
+> **Tablet ≠ Telefon.** [Telefon](/ms/bandaraya/phone) ialah permukaan aplikasi topbar universal (MyPay, e-hailing, CAG, 999, MyCar, dan lain-lain). Tablet pula ialah **alat** khas pasukan yang anda lengkapkan daripada backpack anda.
 
 ## TL;DR
 
@@ -132,7 +132,7 @@ Jika aplikasi yang anda jangkakan tiada di situ, semak pasukan anda.
 
 ## Lihat juga
 
-- [Perkhidmatan Kecemasan](/bandaraya/emergency-services) - peranan POLIS / BOMBA / KKM yang menggunakan tablet
-- [Tangkapan & Undang-undang](/bandaraya/arrest-and-law) - bagaimana BOLO / BG check berfungsi dalam tangkapan
-- [Pekerjaan](/bandaraya/jobs) - MyTow untuk operator tunda
-- [Kenderaan](/bandaraya/vehicles) - pendaftaran dan carian plat
+- [Perkhidmatan Kecemasan](/ms/bandaraya/emergency-services) - peranan POLIS / BOMBA / KKM yang menggunakan tablet
+- [Tangkapan & Undang-undang](/ms/bandaraya/arrest-and-law) - bagaimana BOLO / BG check berfungsi dalam tangkapan
+- [Pekerjaan](/ms/bandaraya/jobs) - MyTow untuk operator tunda
+- [Kenderaan](/ms/bandaraya/vehicles) - pendaftaran dan carian plat

@@ -121,6 +121,6 @@ Tier 1 是最便宜的入门选项。Tier 3 是高端选项。根据你想花多
 
 ## 接下来呢？
 
-- [经济](/sumaya/economy) 了解从哪里赚取购买房屋所需的 Ringgit。
-- [手机和 UI](/sumaya/phone) 了解 Residence 应用。
-- [提示与技巧](/sumaya/tips-and-tricks) 获取布置灵感。
+- [经济](/zh/sumaya/economy) 了解从哪里赚取购买房屋所需的 Ringgit。
+- [手机和 UI](/zh/sumaya/phone) 了解 Residence 应用。
+- [提示与技巧](/zh/sumaya/tips-and-tricks) 获取布置灵感。

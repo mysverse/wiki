@@ -8,7 +8,7 @@ needs_review: true
 ---
 # 工作
 
-在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。POLIS / BOMBA / KKM 等岗位不在此页 - 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/bandaraya/emergency-services)。
+在 Bandaraya 赚取 BR 的最快途径。以下全部都是平民可做的工作（如下注明,部分需要 gamepass 或加入 group)。POLIS / BOMBA / KKM 等岗位不在此页 - 那些岗位赚的是声望，不是薪水。那些请参考 [紧急服务](/zh/bandaraya/emergency-services)。
 
 ## 简要概览
 
@@ -27,7 +27,7 @@ needs_review: true
 
 ### 流程
 
-1. 在 POS 终端机前 **开工**（寻找 POS 标牌 - 见 [地图](/bandaraya/locations)）。
+1. 在 POS 终端机前 **开工**（寻找 POS 标牌 - 见 [地图](/zh/bandaraya/locations)）。
 2. 从附近的 **Postbox** **收取包裹**。你会随身携带。
 3. 把收取的包裹在 **Station** **处理**。
 4. **派送**到城市里的 **Mailboxes**。
@@ -211,8 +211,8 @@ POS 有 10 种专用车辆： **Toyota Hiace Pos Laju**（8 种变体）、 **To
 
 ## 另见
 
-- [经济](/bandaraya/economy) - 完整的赚钱/花钱参考
-- [Gamepasses](/bandaraya/gamepasses) - Taxi Driver、HCC
-- [队伍](/bandaraya/teams) - 交通队伍进入条件
-- [车辆](/bandaraya/vehicles) - spawn、燃油、车行
-- [Tablet](/bandaraya/tablet) - MyTow 和 Vehicle Management 应用
+- [经济](/zh/bandaraya/economy) - 完整的赚钱/花钱参考
+- [Gamepasses](/zh/bandaraya/gamepasses) - Taxi Driver、HCC
+- [队伍](/zh/bandaraya/teams) - 交通队伍进入条件
+- [车辆](/zh/bandaraya/vehicles) - spawn、燃油、车行
+- [Tablet](/zh/bandaraya/tablet) - MyTow 和 Vehicle Management 应用

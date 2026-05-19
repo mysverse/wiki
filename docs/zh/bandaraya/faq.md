@@ -16,13 +16,13 @@ Bandaraya 常见问题的快速解答。
 
 从**邮政服务 (POS)** 开始。它稳定可靠，对普通平民队伍开放。若预订充足，出租车可以赚得不少，而拖车和驾驶公共巴士则需要群组权限。
 
-参见 [职业](/bandaraya/jobs)。
+参见 [职业](/zh/bandaraya/jobs)。
 
 ### 如何成为警察？
 
 通过 MYSverse 社区渠道加入相关的 POLIS 群组，完成所需的申请或培训，然后在符合资格后从队伍菜单中选择 POLIS。
 
-参见 [队伍](/bandaraya/teams#emergency-services)。
+参见 [队伍](/zh/bandaraya/teams#emergency-services)。
 
 ### CAG 是什么？我需要它吗？
 
@@ -34,13 +34,13 @@ Bandaraya 常见问题的快速解答。
 - 收费站折扣：20%。
 - 月票：500 BR，有效期 30 天。
 
-参见 [出行方式](/bandaraya/getting-around)。
+参见 [出行方式](/zh/bandaraya/getting-around)。
 
 ### 为什么重置功能无效？
 
 在血量等于或低于 75 HP 时，重置功能被禁用，以防止 RTAA。请等待医疗救援或继续角色扮演。
 
-参见 [逮捕与法律](/bandaraya/arrest-and-law)。
+参见 [逮捕与法律](/zh/bandaraya/arrest-and-law)。
 
 ## 金钱与商店
 
@@ -48,7 +48,7 @@ Bandaraya 常见问题的快速解答。
 
 前往 **Classic Car Dealer**，选择一辆车，选择购买或租用，如有颜色选项请选择颜色。购买的车辆会保存到你的账户。
 
-参见 [车辆](/bandaraya/vehicles#dealership-classic-car-dealer)。
+参见 [车辆](/zh/bandaraya/vehicles#dealership-classic-car-dealer)。
 
 ### 如何获得枪支？
 
@@ -60,14 +60,14 @@ Bandaraya 常见问题的快速解答。
 
 枪支购买有冷却时间，请勿频繁点击商店。
 
-参见 [战斗与健康](/bandaraya/combat-and-health#weapons)。
+参见 [战斗与健康](/zh/bandaraya/combat-and-health#weapons)。
 
 ### 在哪里加油？
 
 - 汽油/柴油：**Jalan Pinang 的 Radtrol 加油站**。
 - 电动充电：**Community Retail**。
 
-参见 [车辆](/bandaraya/vehicles#fuel)。
+参见 [车辆](/zh/bandaraya/vehicles#fuel)。
 
 ### 我买了一辆车，但它消失了。它在哪里？
 
@@ -143,7 +143,7 @@ Bandaraya 常见问题的快速解答。
 
 ### 我不懂马来语。我会迷失吗？
 
-不会。[词汇表](/bandaraya/glossary) 解释了 POLIS、BOMBA、KKM、LTAA、RTAA、CAG 和 Saman 等常用术语。
+不会。[词汇表](/zh/bandaraya/glossary) 解释了 POLIS、BOMBA、KKM、LTAA、RTAA、CAG 和 Saman 等常用术语。
 
 ### 我的 Roblox 账户需要多少天？
 
@@ -151,8 +151,8 @@ Bandaraya 常见问题的快速解答。
 
 ## 另请参见
 
-- [欢迎](/bandaraya/get-started)
-- [入门指南](/bandaraya/get-started)
-- [词汇表](/bandaraya/glossary)
-- [规则](/bandaraya/rules)
+- [欢迎](/zh/bandaraya/get-started)
+- [入门指南](/zh/bandaraya/get-started)
+- [词汇表](/zh/bandaraya/glossary)
+- [规则](/zh/bandaraya/rules)
 - [README](/)

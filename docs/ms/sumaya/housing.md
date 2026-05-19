@@ -121,6 +121,6 @@ Rumah anda ialah ruang anda. Beberapa perkara untuk diketahui:
 
 ## Apa seterusnya?
 
-- [Ekonomi](/sumaya/economy) untuk tempat mendapatkan Ringgit bagi membeli rumah.
-- [Telefon dan UI](/sumaya/phone) untuk aplikasi Residence.
-- [Petua dan Tip](/sumaya/tips-and-tricks) untuk idea menghias.
+- [Ekonomi](/ms/sumaya/economy) untuk tempat mendapatkan Ringgit bagi membeli rumah.
+- [Telefon dan UI](/ms/sumaya/phone) untuk aplikasi Residence.
+- [Petua dan Tip](/ms/sumaya/tips-and-tricks) untuk idea menghias.

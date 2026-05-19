@@ -70,11 +70,11 @@ Bandaraya 里每一位玩家都携带一部**游戏内手机** - 顶栏上的一
 3. 从可用列表中选择司机。
 4. 等待他们接受,然后被接载。
 
-车费根据距离 × 公司费率计算(见 [工作 - 出租车司机](/bandaraya/jobs#how-the-fare-is-calculated))。
+车费根据距离 × 公司费率计算(见 [工作 - 出租车司机](/zh/bandaraya/jobs#how-the-fare-is-calculated))。
 
 ### CAG eWallet
 
-你的 Click And Go 交通卡仅供浏览的视图。余额、行程、月票、设计、累计统计。**购买按钮会直接跳转到最近的实体 kiosk** - 你无法直接从手机购买。见 [出行](/bandaraya/getting-around#the-cag-ewallet-phone-app)。
+你的 Click And Go 交通卡仅供浏览的视图。余额、行程、月票、设计、累计统计。**购买按钮会直接跳转到最近的实体 kiosk** - 你无法直接从手机购买。见 [出行](/zh/bandaraya/getting-around#the-cag-ewallet-phone-app)。
 
 ### 999 - 紧急报案
 
@@ -110,8 +110,8 @@ Bandaraya 里每一位玩家都携带一部**游戏内手机** - 顶栏上的一
 
 ## 另见
 
-- [平板](/bandaraya/tablet) - 团队限定工具,配备不同的应用(MDT、MyEmergency 等)
-- [出行](/bandaraya/getting-around) - CAG eWallet(手机上的)
-- [工作](/bandaraya/jobs) - e-hailing 为出租车司机角色预订行程
-- [经济](/bandaraya/economy) - BR 货币(MyPay 转账)
-- [紧急服务](/bandaraya/emergency-services) - 999 通话会转到执勤的 POLIS/BOMBA/KKM
+- [平板](/zh/bandaraya/tablet) - 团队限定工具,配备不同的应用(MDT、MyEmergency 等)
+- [出行](/zh/bandaraya/getting-around) - CAG eWallet(手机上的)
+- [工作](/zh/bandaraya/jobs) - e-hailing 为出租车司机角色预订行程
+- [经济](/zh/bandaraya/economy) - BR 货币(MyPay 转账)
+- [紧急服务](/zh/bandaraya/emergency-services) - 999 通话会转到执勤的 POLIS/BOMBA/KKM

@@ -52,7 +52,7 @@ needs_review: true
 ## கேம்பாஸ்கள் vs. developer products
 
 - **கேம்பாஸ்கள்** என்பவை ஒரு முறை, நிரந்தர திறப்புகள்.
-- **Developer products** ([பொருளாதாரம்](/bandaraya/economy#developer-products-buy-br-with-robux) ஐப் பார்க்கவும்) என்பவை உபயோகிக்கக்கூடிய BR டாப்-அப்கள்.
+- **Developer products** ([பொருளாதாரம்](/ta/bandaraya/economy#developer-products-buy-br-with-robux) ஐப் பார்க்கவும்) என்பவை உபயோகிக்கக்கூடிய BR டாப்-அப்கள்.
 
 நீங்கள் ஒரு குறிப்பிட்ட விலை உயர்ந்த காரை ஒரு முறை மட்டும் விரும்பினால், BR developer product மலிவானது. ஒவ்வொரு அமர்விலும் பலன் தரும் ஒரு சலுகையை நீங்கள் விரும்பினால், கேம்பாஸ் வாங்குங்கள்.
 
@@ -65,7 +65,7 @@ needs_review: true
 
 ## இதையும் பார்க்கவும்
 
-- [பொருளாதாரம்](/bandaraya/economy) - முழு BR பொருளாதாரம்
-- [அணிகள்](/bandaraya/teams#special-teams) - HCC மற்றும் Taxi Services அணி விவரங்கள்
-- [வேலைகள்](/bandaraya/jobs) - POS, Taxi, Tow
-- [போர் & சுகாதாரம்](/bandaraya/combat-and-health) - ஆயுதங்கள்
+- [பொருளாதாரம்](/ta/bandaraya/economy) - முழு BR பொருளாதாரம்
+- [அணிகள்](/ta/bandaraya/teams#special-teams) - HCC மற்றும் Taxi Services அணி விவரங்கள்
+- [வேலைகள்](/ta/bandaraya/jobs) - POS, Taxi, Tow
+- [போர் & சுகாதாரம்](/ta/bandaraya/combat-and-health) - ஆயுதங்கள்

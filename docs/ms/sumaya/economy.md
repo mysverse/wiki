@@ -17,7 +17,7 @@ Setiap pemain baharu bermula dengan:
 - **100 Ringgit** dalam **dompet**.
 - **1,000 Ringgit** dalam **bank**.
 
-Itu cukup untuk mengambil beberapa item kedai dan mula memandu kereta permulaan percuma (**Perosatu Axia** atau **Protan Wira**). Sewaan kereta awam berbayar bermula pada **1,250 SR**, jadi dompet permulaan anda sahaja tidak cukup untuk sewaan; rumah juga belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** - lihat [Perumahan](/sumaya/housing)).
+Itu cukup untuk mengambil beberapa item kedai dan mula memandu kereta permulaan percuma (**Perosatu Axia** atau **Protan Wira**). Sewaan kereta awam berbayar bermula pada **1,250 SR**, jadi dompet permulaan anda sahaja tidak cukup untuk sewaan; rumah juga belum mampu dimiliki pada permulaan (Tier 1 ialah **25,000 SR** - lihat [Perumahan](/ms/sumaya/housing)).
 
 ## Dompet lawan bank
 
@@ -106,7 +106,7 @@ Risiko lebih tinggi, ganjaran lebih tinggi. Ganjaran masuk ke bank anda.
 
 ### Daripada misi
 
-Rangkaian 12-misi membayar sejumlah **2,900 Ringgit** daripada ganjaran misi individu ditambah **bonus akhir 1,500 Ringgit**, untuk jumlah keseluruhan **4,400 Ringgit** ke bank anda jika anda menyelesaikan keseluruhan rangkaian. Lihat [Misi](/sumaya/quests).
+Rangkaian 12-misi membayar sejumlah **2,900 Ringgit** daripada ganjaran misi individu ditambah **bonus akhir 1,500 Ringgit**, untuk jumlah keseluruhan **4,400 Ringgit** ke bank anda jika anda menyelesaikan keseluruhan rangkaian. Lihat [Misi](/ms/sumaya/quests).
 
 ## Pendapatan terbesar (disusun)
 
@@ -136,7 +136,7 @@ Tempat kebanyakan wang anda akan dibelanjakan.
 - **Trawler memancing** - Tier 1 percuma, Tier 2 25,000, Tier 3 37,000.
 - **Kenderaan pasukan** - 6,500-20,000 Ringgit, dikawal oleh level sektor.
 
-Lihat [Kenderaan](/sumaya/vehicles).
+Lihat [Kenderaan](/ms/sumaya/vehicles).
 
 ### Perumahan
 
@@ -146,7 +146,7 @@ Lihat [Kenderaan](/sumaya/vehicles).
 - **Rumah Tier 3** (Modern Terrace, dua varian kosmetik): 35,000 Ringgit.
 - **Perabot**: harga berbeza-beza mengikut item.
 
-Lihat [Perumahan](/sumaya/housing).
+Lihat [Perumahan](/ms/sumaya/housing).
 
 ### Kedai
 
@@ -181,8 +181,8 @@ Ini berkumpul atas bayaran setiap tindakan. Rancang sesi anda untuk mencapai pen
 
 ## Apa seterusnya?
 
-- [Progres](/sumaya/progression) untuk cara XP dan Ringgit berinteraksi.
+- [Progres](/ms/sumaya/progression) untuk cara XP dan Ringgit berinteraksi.
 - [Kerja gig](/ms/sumaya/jobs-gig) untuk butiran bayaran tugasan pendek.
-- [Kenderaan](/sumaya/vehicles) untuk katalog harga.
-- [Perumahan](/sumaya/housing) untuk harga rumah.
-- [Jenayah dan Undang-undang](/sumaya/crime-and-law) untuk sisi jenayah ekonomi.
+- [Kenderaan](/ms/sumaya/vehicles) untuk katalog harga.
+- [Perumahan](/ms/sumaya/housing) untuk harga rumah.
+- [Jenayah dan Undang-undang](/ms/sumaya/crime-and-law) untuk sisi jenayah ekonomi.

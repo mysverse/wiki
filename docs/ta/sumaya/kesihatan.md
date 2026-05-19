@@ -114,7 +114,7 @@ TBI மிகவும் கடுமையான காயம். சிகி
 
 KKN என்பது Kementerian Kesihatan Nasional (National Ministry of Health) ஆகும். ஒவ்வொரு ஆம்புலன்சிலும் ஒரு siren மற்றும் பின்புற கார்கோ இடம் உள்ளது (Stretcher-க்காக).
 
-அவற்றை எவ்வாறு spawn செய்வது என்பதற்கு [Vehicles](/sumaya/vehicles)-ஐ பார்க்கவும்.
+அவற்றை எவ்வாறு spawn செய்வது என்பதற்கு [Vehicles](/ta/sumaya/vehicles)-ஐ பார்க்கவும்.
 
 ## அந்தஸ்துகள்
 
@@ -149,7 +149,7 @@ Level 81 முதல், நீங்கள் உச்சத்தில் �
 
 ## அடுத்து என்ன?
 
-- சட்ட அமலாக்க பக்கத்திற்கு [Polis](/sumaya/polis).
-- தீயணைப்பு வீரர் இணைக்கு [Bomba](/sumaya/bomba).
-- ஆம்புலன்ஸ் பட்டியலுக்கு [Vehicles](/sumaya/vehicles).
-- XP எவ்வாறு கூட்டுகிறது என்பதற்கு [Progression](/sumaya/progression).
+- சட்ட அமலாக்க பக்கத்திற்கு [Polis](/ta/sumaya/polis).
+- தீயணைப்பு வீரர் இணைக்கு [Bomba](/ta/sumaya/bomba).
+- ஆம்புலன்ஸ் பட்டியலுக்கு [Vehicles](/ta/sumaya/vehicles).
+- XP எவ்வாறு கூட்டுகிறது என்பதற்கு [முன்னேற்றம்](/ta/sumaya/progression).

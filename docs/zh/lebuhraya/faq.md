@@ -8,259 +8,259 @@ needs_review: true
 ---
 # 常见问题与技巧
 
-Common questions, quality-of-life tips, and the things experienced players wish they'd known earlier.
+常见问题、生活质量技巧以及经验丰富的玩家希望早点知道的事情。
 
-## Common questions
+## 常见问题
 
-### Why did my XP reset when I joined a test server?
+### 为什么我加入测试server后我的XP重置了？
 
-Test servers reset XP to 0 on purpose so new features can be tested safely. The warning message "XP will be reset to 0" is normal. Your **live public game progress is not affected**.
+测试服务器故意将XP重置为0，以便可以安全地测试新功能。警告信息“XP将被重置为0”是正常的。您的**实时公开游戏进度不受影响**。
 
-### I can't open the vehicle spawner. Why?
+### 我无法打开载具生成器。为什么？
 
-A few possibilities:
+几种可能性：
 
-- You may need to load in fully - wait a few seconds after joining.
-- A menu might be on top of it - close any open menus (Esc or Backspace).
-- You need to be near a physical vehicle spawner prompt in the world. The MyPod topbar icon is only a music player.
-- You may be on a job team and trying to use a civilian spawner. Switch to Visitors or use your team spawner.
-- You may be using a team-only spawner. Join the named team first.
-- If the issue persists, rejoin the server.
+- 您可能需要完全加载 - 加入后等待几秒钟。
+- 菜单可能位于其顶部 - 关闭所有打开的菜单（Esc 或 Backspace）。
+- 你需要靠近世界上的物理车辆生成器提示。 MyPod顶栏图标只是一个音乐播放器。
+- 您可能在一个工作团队中并尝试使用民用产卵器。切换到Visitors或使用你的团队生成器。
+- 您可能正在使用仅限团队使用的生成器。首先加入指定的团队。
+- 如果问题仍然存在，请重新加入server。
 
-### Is MyPod the vehicle spawner?
+### MyPod 是载具生成器吗？
 
-No. **MyPod** is the music player. It has playback controls, volume, shuffle/repeat, favourites, a track list, and an auto-play-in-vehicle option. Vehicles are spawned from physical spawner pads/markers in the world.
+号**MyPod** 是音乐播放器。它具有播放控件、音量、随机播放/重复播放、收藏夹、曲目列表和车内自动播放选项。车辆是从世界上的物理生成器垫/标记生成的。
 
-### The vehicle spawner opens, but my vehicle is locked or missing.
+### 车辆生成器打开，但我的车辆被锁定或丢失。
 
-Check the card and spawner type:
+检查卡牌和生成器类型：
 
-- **Level X** means your player level is too low.
-- **Tier X** means your career rank is too low on that branch.
-- **Vehicle locked** means you do not own the special/gamepass/code vehicle.
-- A missing vehicle usually means you are at the wrong spawner type: Basic, Bike, Premium, Special, or a team-specific spawner.
+- **等级X**表示您的玩家等级太低。
+- **X 级** 意味着您在该分支上的职业排名太低。
+- **车辆锁定**意味着您不拥有特殊/gamepass/代码车辆。
+- 缺少车辆通常意味着您处于错误的生成器类型：基本、自行车、Premium、特殊或特定于团队的生成器。
 
-See [Vehicles -> Spawner troubleshooting](/lebuhraya/vehicles#spawner-troubleshooting).
+请参阅[车辆 -> 生成器故障排除](/zh/lebuhraya/vehicles#spawner-troubleshooting)。
 
-### Where did career, tokens, credits, and races go?
+### 职业、代币、积分和比赛都去哪儿了？
 
-They are under **Main Menu -> More**. The top-level menu now shows **Home**, **Teams**, **Shop**, **Activity**, and **More**. Activity contains missions/challenges/season progress; More contains secondary panels such as Career, Jobs, Tokens, Credits, Races, and Help.
+它们位于 **Main Menu -> 更多**。顶级菜单现在显示**Home**、**团队**、**商店**、**活动**和**更多**。活动包含任务/挑战/赛季进度；更多包含辅助面板，例如职业、工作、代币、积分、种族和Help。
 
-### What's the fastest way to level up?
+### 升级最快的方法是什么？
 
-The best approach for fast levelling:
+快速练级的最佳方法：
 
-1. **Drive continuously in a driver seat.** Passive XP is 50 per 1500 studs.
-2. **Do jobs** - Food Delivery pays 250 XP per delivery once you're level 10.
-3. **Convoy with friends on the same team** - up to +50% bonus.
-4. **Activate a 2× XP token** before a long session.
-5. **Play during Double XP Weekend** if announced.
-6. **Subscribe to Roblox Premium** for a permanent +25%.
-7. **Buy the XP Boost gamepass** for a permanent +50%.
+1. **在驾驶座上连续驾驶。** Passive XP 为每 1500 studs 50。
+2. **做工作** - 一旦您达到 10 级，Food Delivery 每次送货将支付 250 XP。
+3. **与同一团队的朋友一起护航** - 高达 +50% 的奖金。
+4. **在长时间会话之前激活 2× XP 令牌**。
+5. **如果宣布的话，将在Double XP周末进行比赛**。
+6. **订阅Roblox Premium** 永久+25%。
+7. **购买XP Boostgamepass**永久+50%。
 
-Stacking all of these, you can hit levels 10–20× faster than a solo player driving alone.
+将所有这些叠加在一起，您达到关卡的速度比单独驾驶的玩家快 10-20 倍。
 
-### I want to be a police officer. How?
+### 我想成为一名警察。如何？
 
-Police teams require a gamepass:
+警察队需要gamepass：
 
-- **KEMRonda** - Highway auxiliary (traffic assistance, towing).
-- **Polis Trafik** - Traffic law enforcement.
-- **Undercover Police** - Plain-clothes enforcement.
+- **KEMRonda** - 公路辅助（交通援助、拖车）。
+- **Polis Trafik** - 交通执法。
+- **Undercover Police** - 便衣执法。
 
-Buy the gamepass for the team you want, then join from the Main Menu → Teams tab.
+为您想要的团队购买 gamepass，然后从 Main Menu → 团队选项卡加入。
 
-If you want to work in law enforcement without a gamepass, **APJ** (level 300) is a Road Transport Agency team, but it's a long way off.
+如果你想在没有gamepass的情况下从事执法工作，**APJ**（300级）是道路运输局团队，但还有很长的路要走。
 
-### How do I refuel my car?
+### 如何给我的车加油？
 
-1. Drive to a station - **PETROMAS** on the highway, **Radtrol** in Bandar Seri Putra.
-2. Pull up next to a pump that matches your fuel type (Petrol, Diesel, or Electric).
-3. An on-screen prompt appears - interact to pump / charge.
+1. 开车到车站-**PETROMAS**在高速公路上，**Radtrol**在Bandar Seri Putra。
+2. 将车停在与您的燃料类型（汽油、柴油或电动）相匹配的泵旁边。
+3. 屏幕上出现提示 - 交互进行泵送/充电。
 
-Fuel is **currently free** in this version of the game. The usual reference prices are Electric 1 BR, Petrol 2 BR, and Diesel 3 BR per litre, but refuelling does not currently deduct BR from your balance.
+在此版本的游戏中，燃料**目前是免费的**。通常的参考价格是每升电动 1 BR、汽油 2 BR 和柴油 3 BR，但加油目前不会从您的余额中扣除 BR。
 
-### My car ran out of fuel and I'm stranded. What now?
+### 我的车没油了，我被困住了。现在怎么办？
 
-You have three options:
+您有三个选择：
 
-1. **Buy a JerryCan** at the **Jerrycan Shop**, fill it at any station (match the fuel type), and pour it into your tank.
-2. **Spawn a replacement vehicle** from a physical vehicle spawner. You'll lose your current vehicle position but get a fresh tank.
-3. **Ask a KEMRonda player** for a tow - they can take you to the nearest station.
+1. **在**Jerrycan Shop**购买JerryCan**，在任意加油站加满（与燃油类型相匹配），然后倒入油箱中。
+2. **从物理车辆生成器中生成替换车辆**。您将失去当前的车辆位置，但会获得一个新的坦克。
+3. **向KEMRonda玩家**请求拖车 - 他们可以带你到最近的车站。
 
-### Where do I repair my car?
+### 我在哪里修理我的车？
 
-There are **10 repair zones** placed around the map. Drive your vehicle into one and a prompt will appear - confirm, stay parked, and health regenerates roughly 10% per 5 seconds until fully repaired. You can't repair if the zone is already being used by another player.
+地图周围有 **10 个修复区**。驾驶你的车辆进入其中，会出现一条提示 - 确认，保持停车，生命值每 5 秒恢复大约 10%，直到完全修复。如果该区域已被其他玩家使用，则无法修复。
 
-**Gravstone Workshop** in Bandar Seri Putra is a **customisation shop** (paint, body), not a repair shop - don't go there expecting a fix.
+Bandar Seri Putra 中的 **Gravstone Workshop** 是一家 **定制店**（油漆、车身），而不是修理店 - 不要去那里期待修理。
 
-### How does the 999 emergency system work?
+### 999 急救系统如何运作？
 
-Any player can call 999 from their Phone (topbar → 999 app). Emergency responders on duty (Bomba, Polis Trafik, Undercover Police, Kesihatan) see the incident on their **Pager** tool and can accept it.
+任何玩家都可以从他们的Phone（顶部栏 → 999 应用程序）拨打 999。值班紧急响应人员（Bomba、Polis Trafik、Undercover Police、Kesihatan）在其 **Pager** 工具上看到该事件并可以接受。
 
-- Incident types: **Car Crash**, **Injured Person**.
-- Minimum resolution time: **30 seconds** after accepting (prevents instant-resolve farming).
-- Up to 10 incidents can be open at once.
+- 事件类型：**车祸**、**受伤人员**。
+- 最短解决时间：接受后**30秒**（防止即时解决农业）。
+- 一次最多可以打开 10 个事件。
 
-See [Social Features → 999 Emergency](/lebuhraya/social-features#999-emergency-system) for the full flow.
+完整流程请参见【社交功能→999紧急】(/zh/lebuhraya/social-features#999-emergency-system)。
 
-### What's the injury system and why does it matter?
+### 伤害系统是什么？为什么它很重要？
 
-When a **Kesihatan (medic) player joins the server**, the injury system **automatically activates for everyone** - including you. This gives you a **+15% XP multiplier** for free on every XP award, stacking with Premium, convoy, token, and other boosts. When the last medic leaves, it turns off again.
+当**Kesihatan（医疗兵）玩家加入server**时，伤害系统**会自动为所有人激活** - 包括您。每获得 XP 奖励，您就可以免费获得 **+15% XP 乘数**，与 Premium、车队、代币和其他奖励叠加。当最后一名医生离开时，它会再次关闭。
 
-The trade-off: with injury system on, heavy crashes can inflict injuries on you that need medical treatment. Those injuries become the 999 incidents medics respond to - which is the whole loop working as designed.
+权衡：在伤害系统开启的情况下，严重的碰撞可能会对您造成需要治疗的伤害。这些伤害成为医务人员应对的 999 起事故，这是整个循环按设计进行的。
 
-**Tip**: if you see a medic in the server lobby, you're getting free extra XP. Drive careful and you'll rarely need treatment.
+**提示**：如果您在server大厅看到医生，您将获得额外的免费XP。小心驾驶，您很少需要治疗。
 
-### What is passive mode?
+### 什么是被动模式？
 
-Passive mode is a toggle that prevents tool-based interactions - weapons, tasers, bandages, and similar gear - in **both directions**:
+Passive 模式是一个开关，可防止基于工具的交互 - 武器、泰瑟枪、绷带和类似装备 - **双向**：
 
-- You can't use tools on other players.
-- Other players can't use tools on you.
+- 你不能对其他玩家使用工具。
+- 其他玩家无法对你使用工具。
 
-Turn it on from the Main Menu if you don't want to be pulled into combat or emergency roleplay. Turn it off when you're ready to participate. Note: standard driving and job actions aren't affected - passive only blocks weapons and medical tools.
+如果您不想陷入战斗或紧急角色扮演，请从 Main Menu 打开它。当您准备好参与时将其关闭。注意：标准驾驶和工作行为不受影响 - 被动仅阻止武器和医疗工具。
 
-### Can I own a house?
+### 我可以拥有房子吗？
 
-Yes. Visit **Pangsapuri Seri Putra** in Bandar Seri Putra, claim a plot, choose from four house templates (3 kampung styles + 1 modern terrace), and customise. See [Housing](/lebuhraya/housing).
+是的。访问Bandar Seri Putra的**Pangsapuri Seri Putra**，认领一块土地，从四种房屋模板中选择（3种甘榜风格+ 1个现代露台），然后进行定制。参见[住房](/zh/lebuhraya/housing)。
 
-### How do I fast travel?
+### 如何快速旅行？
 
-**Fast travel isn't available to regular players.** It's a staff-only tool used by MYSverse moderators and developers for event coordination. For everyone else, the GPS waypoint system (on your Phone) is how you get around - drive the whole distance and you'll earn XP while you go. The GPS shows a glowing beam that follows the road to your target.
+**普通玩家无法使用快速旅行。** 这是 MYSverse 版主和开发人员用于协调活动的仅限工作人员使用的工具。对于其他人来说，GPS 航路点系统（在您的 Phone 上）是您出行的方式 - 驾驶整个距离，您将在旅途中赚取 XP。 GPS 会显示一道发光光束，沿着道路到达您的目标。
 
-(If you ever see the fast travel menu appear, it means you have been granted staff access.)
+（如果您看到快速旅行菜单出现，则意味着您已被授予员工访问权限。）
 
-### I joined a convoy but I'm not getting the bonus.
+### 我加入了车队，但没有获得奖金。
 
-Check these:
+检查这些：
 
-- Are you within **200 studs** of another convoy member? The bonus only applies when you're close together.
-- Is the convoy actually active? Check the convoy panel - it shows your current multiplier.
-- Are you a **passenger**? Passengers get half the driver's bonus.
+- 您是否在另一车队成员的 **200 studs** 范围内？奖金仅适用于你们关系密切时。
+- 车队实际上活跃吗？检查车队面板 - 它显示您当前的乘数。
+- 你是**乘客**吗？乘客可获得司机奖金的一半。
 
-### What are tokens?
+### 什么是代币？
 
-Consumable items in your inventory that give temporary boosts - 2× XP, Season Pass XP doubler, or temporary team access. Activate from the inventory. See [Social Features → Tokens](/lebuhraya/social-features#tokens-and-boosts).
+库存中的消耗品可提供临时提升 - 2× XP、Season Pass XP 加倍，或临时团队访问权限。从库存中激活。请参阅[社交功能→代币](/zh/lebuhraya/social-features#tokens-and-boosts)。
 
-### How do I report a bug or player?
+### 如何报告错误或玩家？
 
-Open the in-game **Report** system and describe what happened, where it happened, what team/vehicle/tool/menu you were using, and whether it repeats. For player reports, include the player name and what they did. See [Social Features -> Report system](/lebuhraya/social-features#report-system).
+打开游戏中的**报告**系统并描述发生的事情、发生地点、您使用的团队/车辆/工具/菜单以及是否重复。对于玩家报告，请包括玩家姓名及其所做的事情。参见【社交功能->举报系统】(/zh/lebuhraya/social-features#report-system)。
 
-### Is there a single-player / private mode?
+### 有单人/私人模式吗？
 
-Yes - **private servers** are available (purchase from the Roblox experience page). See the dedicated **[Private servers](#private-servers)** section below for everything the owner gets, common use cases, and the limitations.
+是的 - **私人服务器**可用（从Roblox体验页面购买）。请参阅下面专用的 **[私人服务器](#private-servers)** 部分，了解所有者获得的所有内容、常见用例和限制。
 
-### Are there promo codes?
+### 有促销代码吗？
 
-Yes - open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
+是 - 打开 **Main Menu -> 商店** 并使用代码兑换字段。一些代码永久有效：
 
-| Code | Reward | Uses |
+|代码|奖励 |用途 |
 |---|---|---|
-| `experience` | 250 XP | Up to 5 times |
-| `unlimitedpowarr` | 1,000 XP | Unlimited |
-| `gokartracing` | Free Go-Kart (Special spawner) | Once |
-| `fd2r` | Free Handai Civic FD2R (Special spawner) | Once |
-| `renjer` | Free Renjer Loader 2012 (Special spawner) | Once |
-| `outlandish` | Free Masubi Outlander (Special spawner) | Once |
-| `MYS5KFOLLOWERS` | Free Intero Citie Bas Sekolah (Bus Driver spawner) | Once |
+| `experience` | 250 XP |最多 5 次 |
+| `unlimitedpowarr` | 1,000 XP |无限|
+| `gokartracing` |免费卡丁车（特殊生成器）|一次 |
+| `fd2r` |免费Handai CivicFD2R（特殊生成器）|一次 |
+| `renjer` |免费 Renjer Loader 2012（特殊生成器）|一次 |
+| `outlandish` |免费Masubi Outlander（特殊生成器）|一次 |
+| `MYS5KFOLLOWERS` |免费 Intero Citie Bas Sekolah (Bus Driver 刷怪笼) |一次 |
 
-Event codes (time-limited) occasionally appear for community events, conventions, and apology makegoods - watch MYSverse channels for them.
+事件代码（有时限）偶尔会出现在社区活动、大会和道歉补偿中 - 请观看 MYSverse 频道以获取它们。
 
-## Tips the wiki might not have mentioned
+## wiki 可能没有提到的提示
 
-### "Drive long" is always profitable
+### “长期驾驶”总是有利可图的
 
-Whatever you're doing, being in a DriveSeat paying attention to the road gives you free XP. Even while on your way to a job, you're earning.
+无论您在做什么，坐在 DriveSeat 上并注意路况都会给您带来自由的XP。即使在上班的路上，您也能赚钱。
 
-### Match your vehicle to the job
+### 将您的车辆与工作相匹配
 
-A Tayoti Hiace is a passenger van - don't take one to the Race Track. A Perosatu Myvi is fine for food delivery but useless for freight. Look at the vehicle category in [Vehicles](/lebuhraya/vehicles#vehicle-categories).
+Tayoti Hiace 是一辆客车 - 不要乘坐它去赛道。 Perosatu Myvi 适合送餐，但不适用于货运。查看[车辆](/zh/lebuhraya/vehicles#vehicle-categories)中的车辆类别。
 
-### The electric car advantage
+### 电动车的优势
 
-Electric vehicles are cheapest to run once fuel charges are enabled. Try Besla Y, MYD Atto III, Ionic I/V, or CITO Ami once you can.
+一旦启用燃油收费，电动汽车的运行成本将是最便宜的。如果可以的话，请尝试Besla Y、MYD Atto III、Ionic I/V 或CITO Ami。
 
-### Friend up before grinding
+### 刷之前加好友
 
-Recruit one or two friends on the same team. Start a convoy. Stick together within 200 studs. Your XP per hour roughly doubles versus solo play.
+在同一团队中招募一两个朋友。启动车队。在 200 studs 内粘在一起。与单人游戏相比，每小时 XP 大约翻倍。
 
-### Save tokens for anchored sessions
+### 保存锚定会话的令牌
 
-Don't pop a 2× XP token and then get distracted - the timer doesn't pause. Use them when you have an hour of uninterrupted play planned.
+不要弹出 2× XP 令牌然后分心 - 计时器不会暂停。当您计划一小时不间断的游戏时，请使用它们。
 
-### Watch for Double XP weekends
+### 关注Double XP周末
 
-Keep an eye on the MYSverse community channels. A Double XP Weekend is the highest-leverage time to use other boosts.
+密切关注 MYSverse 社区频道。 Double XP 周末是使用其他提升的最高杠杆时间。
 
-### If a shop doesn't show prices
+### 如果商店不显示价格
 
-Prices vary by shop and sometimes by item. Always check the in-game menu before buying, especially for expensive items like house furniture.
+价格因商店而异，有时也因商品而异。购买前请务必检查游戏菜单，尤其是对于家具等昂贵物品。
 
-### Respect the roleplay
+### 尊重角色扮演
 
-Lebuhraya is a roleplay game. Players taking their 999 medical shift seriously don't appreciate being rammed off the road; traffic police trying to catch speeders don't appreciate being taunted. Drive with respect; the social scene is half the fun.
+Lebuhraya是一款角色扮演游戏。认真对待 999 医疗轮班的球员不喜欢被冲出道路；试图抓超速者的交警不喜欢被嘲笑。尊重驾驶；社交场景是乐趣的一半。
 
-### Report bugs and feedback
+### 报告错误和反馈
 
-If you hit a bug or have suggestions, use the in-game **Report** system. It sends feedback directly to the MYSverse team.
+如果您遇到错误或有建议，请使用游戏内的**报告**系统。它将反馈直接发送给 MYSverse 团队。
 
-## Private servers
+## 私人服务器
 
-Private servers are Roblox's "VIP server" feature - you pay Robux to spin up a server instance that only you and people you invite can join. They're one of Lebuhraya's most powerful features once you know what they can do.
+私人服务器是Roblox的“VIP server”功能 - 您支付Robux来启动一个server实例，只有您和您邀请的人才能加入。一旦您了解了它们的功能，它们就是 Lebuhraya 最强大的功能之一。
 
-### Use cases
+### 用例
 
-**Dedicated roleplay communities.** Many MYSverse-adjacent groups (police academies, fire-and-rescue training camps, taxi companies, school RP servers) run their own private Lebuhraya servers as persistent hangout spaces. Because private servers are isolated, your group isn't interrupted by random drivers, and your scenes can run uninterrupted for hours.
+**专门的角色扮演社区。** 许多 MYSverse 相邻团体（警察学院、消防救援训练营、出租车公司、学校 RP 服务器）都运行自己的私人 Lebuhraya 服务器作为持久的聚会空间。由于专用服务器是隔离的，因此您的组不会被随机驱动程序中断，并且您的场景可以不间断地运行数小时。
 
-**Structured events.** Race nights, convoy meets, emergency training exercises, licence tests, and screenshot shoots all benefit from an empty map where the owner controls what happens.
+**结构化活动。** 比赛之夜、车队比赛、紧急训练演习、执照测试和屏幕截图都受益于一张空地图，所有者可以控制所发生的事情。
 
-**Practice without pressure.** Learning to drive the heavy trucks, getting better lap times at the race track, or rehearsing a 999 medic response with a friend - all much easier in a private server than in a busy public one.
+**毫无压力地练习。** 学习驾驶重型卡车、在赛道上获得更好的单圈时间，或者与朋友一起排练 999 医疗响应 - 所有这些在私人 server 中都比在繁忙的公共场所中容易得多。
 
-**Content creation.** Streamers and video creators use private servers to film without other players disrupting shots. You can freely pose vehicles, stage scenes, and reset without griefers.
+**内容创作。** 主播和视频创作者使用私人服务器进行拍摄，而不会受到其他玩家干扰。您可以自由地摆出车辆、舞台场景的姿势并重置，而无需担心。
 
-### What the server owner gets
+### server 所有者会得到什么
 
-When you join your own private server, you receive owner moderation tools for that server.
+当您加入自己的私人server时，您会收到该server的所有者审核工具。
 
-- **Moderate your guests**: remove disruptive players, respawn stuck players, and keep the session organised.
-- **Set up scenes**: move players around, stage roleplay, reset scenes, and coordinate events.
-- **Delegate help**: give trusted friends moderator tools when you need support.
-- **Manage the session**: shut down or restart the private server when your event is finished.
+- **管理你的客人**：移除干扰玩家，重生卡住的玩家，并保持会议井井有条。
+- **设置场景**：移动玩家、进行角色扮演、重置场景和协调事件。
+- **委托帮助**：当您需要支持时，为值得信赖的朋友提供主持人工具。
+- **管理会话**：活动结束后关闭或重新启动私人server。
 
-Private server moderation only applies to that private server. It does not grant staff powers in public servers or anyone else's private server.
+私人server审核仅适用于该私人server。它不授予员工公共服务器或其他任何人的私人server的权力。
 
-### Limitations
+### 限制
 
-The moment you join, a **"Welcome to Lebuhraya Private Servers"** notice explains the trade-offs. All progression is disabled:
+当您加入时，**“欢迎来到Lebuhraya私人服务器”**通知解释了权衡。所有进度均被禁用：
 
-- **XP and level** don't save.
-- **Currency (BR)** changes don't persist.
-- **Badges** aren't awarded (including the 50k / 100k / 500k / 1m stud milestones).
-- **Job progression tiers** don't save.
-- **Vehicle unlocks** don't apply (you still see the same catalogue, but race-unlocked vehicles or codes-redeemed vehicles won't persist).
-- **Promo codes** redeemed here don't count.
+- **XP和等级**不保存。
+- **货币 (BR)** 变化不会持续。
+- **徽章**不会被授予（包括 50k / 100k / 500k / 1m stud 里程碑）。
+- **工作进展等级**不保存。
+- **车辆解锁**不适用（您仍然会看到相同的目录，但比赛解锁的车辆或代码兑换的车辆不会持续存在）。
+- 此处兑换的**促销代码**不算在内。
 
-If you want your session to *count*, join a **public server**. Private servers are for controlled scenes, not grinding.
+如果您希望您的会议*有意义*，请加入**公共server**。私服是为了受控场景，不是为了磨练。
 
-### Accessing private server commands
+### 访问私有server命令
 
-Type `:cmds` in chat to open the command list available to you. The in-game list is the best source because permissions can change between updates.
+在聊天中输入 `:cmds` 打开可用的命令列表。游戏内列表是最好的来源，因为权限可能会在更新之间发生变化。
 
-### One thing owner tools cannot do
+### 所有者工具无法做的一件事
 
-**Private server tools do not override team gates.** If a team requires a gamepass, level threshold, or group membership, you still need to meet those requirements. The tools are for moderation and event setup, not free team access.
+**私有 server 工具不会覆盖团队门槛。** 如果团队需要 gamepass、级别阈值或组成员身份，您仍然需要满足这些要求。这些工具用于管理和活动设置，而不是免费的团队访问。
 
-### What happens when the game shuts down for an update?
+### 当游戏因更新而关闭时会发生什么？
 
-Lebuhraya uses a "soft shutdown" system so you don't lose your session. When the servers are restarting, you'll see a smooth on-screen prompt appear (other UIs fade out), and you'll be **automatically teleported to a fresh server** once the update is deployed. Your progress is saved automatically on the way out - XP, BR, levels, vehicles, housing, everything persists.
+Lebuhraya 使用“软关闭”系统，因此您不会丢失会话。当服务器重新启动时，您将看到平滑的屏幕提示出现（其他 UI 淡出），并且一旦部署更新，您将**自动传送到新的server**。你的进度会在退出时自动保存 - XP、BR、关卡、车辆、住房，一切都保留。
 
-You don't need to do anything - just let the teleport complete. If you're driving in convoy with friends, they'll be teleported individually (you may re-join separate servers, so regroup after).
+您无需执行任何操作 - 只需让传送完成即可。如果您与朋友一起车队驾驶，他们将被单独传送（您可以重新加入单独的服务器，因此之后重新组合）。
 
-## Where to find more
+## 哪里可以找到更多
 
-- MYSverse community: Roblox group **1143446**
-- Game page: Lebuhraya on Roblox (Place ID 4892731894)
-- Related experiences: Bandaraya (urban counterpart), Sumaya (others in the MYSverse)
+- MYSverse社区：Roblox群**1143446**
+- 游戏页面：Lebuhraya on Roblox（地点 ID 4892731894）
+- 相关经验：Bandaraya（城市对应）、Sumaya（MYSverse中的其他）
 
-Happy driving - *selamat memandu!*
+快乐驾驶 - *selamat memandu！*

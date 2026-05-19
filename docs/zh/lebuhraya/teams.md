@@ -8,157 +8,155 @@ needs_review: true
 ---
 # 队伍与职业
 
-There are **18 teams** in Lebuhraya. Each one represents a different role in the game's Malaysian highway society - from delivery riders to firefighters. Joining a team unlocks job activities, team-specific uniforms, and sometimes specialised vehicles.
+Lebuhraya共有**18支队伍**。每个人都代表了游戏中马来西亚高速公路社会的不同角色 - 从送货骑手到消防员。加入团队可以解锁工作活动、团队专用制服，有时还可以解锁专用车辆。
 
-Your **career tier** sits on top of the team system. You can rank up from **Trainee** all the way to the top of the chain (like Senior Assistant Commissioner or Fire Commissioner) by earning branch-specific XP on the job.
+您的**职业等级**位于团队系统之上。通过在工作中获得特定部门的XP，您可以从**实习生**一直晋升到链条的顶端（例如高级助理专员或消防专员）。
 
-## How to join a team
+## 如何加入团队
 
-Open the **main menu** and go to the **Teams** tab. You'll see a list with each team's requirements and description. Click a team you qualify for to join. You can switch teams at any time, though some active roleplay situations, like an assigned 999 incident, will be cancelled when you swap.
+打开**主菜单**并转到**团队**选项卡。您将看到包含每个团队的要求和描述的列表。单击您有资格加入的团队。您可以随时切换团队，但某些活跃的角色扮演场景（例如指定的 999 事件）在您切换时将被取消。
 
-### Reading the teams screen
+### 阅读团队屏幕
 
-The Teams tab uses a carousel:
+“团队”选项卡使用轮播：
 
-- The centred card is the team currently in focus.
-- Side cards preview nearby teams; click/tap or use arrows to move through the carousel.
-- A lock or dimmed card means you do not currently meet the requirement.
-- The lower info panel shows the full team name, description, current-team status, and join/confirm action.
-- Long team names are scaled to fit on one line, so `Malaysians`, `Waste Disposal`, and `Undercover Police` remain readable on small screens.
+- 居中的卡片是当前关注的团队。
+- 边卡预览附近的球队；单击/点击或使用箭头在轮播中移动。
+- 卡锁或变暗表示您当前不符合要求。
+- 下部信息面板显示完整的团队名称、描述、当前团队状态以及加入/确认操作。
+- 长团队名称会缩放以适合一行，因此`Malaysians`、`Waste Disposal`和`Undercover Police`在小屏幕上仍然可读。
 
-If you are on a job team and try to open a civilian vehicle spawner, the game may warn that you cannot access that spawner while working. Switch back to **Visitors** or a non-job team if you want civilian spawner access.
+如果您在工作团队中并尝试打开民用车辆生成器，游戏可能会警告您在工作时无法访问该生成器。如果您想使用平民生成器，请切换回 **Visitors** 或非工作团队。
 
-## The 18 teams
+## 18支球队
 
-### Free for everyone
+### 所有人免费
 
-| Team | Description |
+|团队|描述 |
 |---|---|
-| **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
-| **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone - a good entry point. |
+| **Visitors** |加入时的默认团队。非常适合扮演通勤者或游客的角色。 |
+| **Bus Driver** |按预定路线驾驶小型货车和公共汽车。免费并向所有人开放 - 一个很好的切入点。 |
 
-### Unlocked by MYSverse community membership
+### 由 MYSverse 社区会员解锁
 
-| Team | How to unlock |
+|团队|如何解锁 |
 |---|---|
-| **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
+| **Malaysians** |加入 MYSverse 马来西亚社区Roblox群组 (ID 1143446)，获得排名 1 或更高。解锁对 **Fishing** 和 **结账** 工作活动的访问权限。 |
 
-The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
+Malaysians团队是社区角色团队，而不是普通的付费职业分支。它在早期很有用，因为Fishing和结帐在锁定级别的工作阶梯之前可用。
 
-### Unlocked by level
+### 按级别解锁
 
-| Team | Level | Role |
+|团队|水平|角色 |
 |---|---|---|
-| **Food Delivery** | 10 | Use your motorcycle to deliver food orders from shops to customers. |
-| **Waste Disposal** | 25 | Collect rubbish from bins and deliver to incineration stations. |
-| **Post Office** | 50 | Deliver letters and parcels for Pos Nasional. |
-| **Logistics** | 75 | Freight trucking - haul cargo with a Rolvo FM or Sanica P-series. |
-| **Power Nasional** | 100 | National electric utility contractor work. |
-| **Lumberjack** | 150 | Fell trees with an axe and haul logs. |
-| **Kesihatan** | 200 | The National Health Ministry - drive ambulances, treat patients, respond to 999 medical calls. |
-| **APJ** | 300 | Road Transport Agency - enforce driving and vehicle regulations. |
+| **Food Delivery** | 10 | 10使用摩托车将订单从商店送到顾客手中。 |
+| **Waste Disposal** | 25 | 25从垃圾箱收集垃圾并运送到焚烧站。 |
+| **Post Office** | 50 | 50为Pos Nasional递送信件和包裹。 |
+| **物流** | 75 | 75货运 - 使用 Rolvo FM 或 Sanica P 系列运输货物。 |
+| **Power Nasional** | 100 | 100国家电力承包商工作。 |
+| **Lumberjack** | 150 | 150用斧头砍伐树木并拖运原木。 |
+| **Kesihatan** | 200 | 200国家卫生部 - 驾驶救护车、治疗病人、响应 999 医疗电话。 |
+| **APJ** | 300 | 300道路运输局 - 执行驾驶和车辆法规。 |
 
-::: info
-The Waste Disposal, Logistics, and Lumberjack teams can be unlocked earlier by purchasing the **Season 1 Season Pass**. Some in-game text may still reference the old level values; the numbers above are the current in-game requirements.
-:::
+> Waste Disposal、物流、Lumberjack队伍可通过购买**Season 1Season Pass**提前解锁。某些游戏内文本可能仍引用旧的级别值；上面的数字是当前游戏内的要求。
 
-### Unlocked by gamepass
+### 由gamepass解锁
 
-| Team | Role |
+|团队|角色 |
 |---|---|
-| **Taxi Driver** | Drive passengers for fares. Unlocked by the Taxi Driver or Bandaraya gamepass. |
-| **KEMRonda** | Highway auxiliary police. Tow trucks, roadside assistance, placeable cones. |
-| **Bomba** | The Fire and Rescue Department. Fire trucks, spreaders, chainsaws, 999 fire response. |
-| **Polis Trafik** | Traffic police. Tasers, radar guns, placeable police cones and signs. |
-| **Undercover Police** | The same toolkit as Polis Trafik but on unmarked vehicles. |
+| **Taxi Driver** |开车送乘客收取费用。由Taxi Driver或Bandarayagamepass解锁。 |
+| **KEMRonda** |公路辅警。拖车、路边援助、可放置的锥体。 |
+| **Bomba** |消防和救援部门。消防车、吊具、链锯、999 火灾响应。 |
+| **Polis Trafik** |交通警察。泰瑟枪、雷达枪、可放置的警锥和标志。 |
+| **Undercover Police** |与Polis Trafik相同的工具包，但用于未标记的车辆。 |
 
-See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepasses.
+游戏通行证的获取方法请参见[通行证与强化](/zh/lebuhraya/passes-and-boosts)。
 
-### System teams
+### 系统团队
 
-| Team | Description |
+|团队|描述 |
 |---|---|
-| **Developers** | Internal team for MYSverse staff. Not joinable directly. |
-| **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
+| **开发商** | MYSverse 员工的内部团队。不可直接加入。 |
+| **被捕** |当玩家被Polis Trafik逮捕时自动分配。 |
 
-## Career tiers and ranks
+## 职业等级和排名
 
-Each team (other than Visitors and system teams) has **up to 20 career tiers**. You earn branch-specific XP by doing that team's job - driving a taxi mission, responding to a 999 call as Bomba, delivering freight as Logistics. Once you have enough XP, you rank up.
+每个队伍（Visitors和系统队伍除外）**最多有20个职业等级**。您可以通过完成该团队的工作来赚取分公司特定的 XP - 驾驶出租车任务、以 Bomba 的身份响应 999 电话、以物流的身份运送货物。一旦你有足够的XP，你的排名就会上升。
 
-Open **Main Menu -> More -> Career** to view your overall career status. Open **Main Menu -> More -> Jobs** to inspect branch tier progress and rewards.
+打开 **Main Menu -> 更多 -> 职业** 查看您的整体职业状况。打开**Main Menu -> 更多 -> 职位**，查看分支等级进度和奖励。
 
-### How tier XP scales
+### XP 等级如何扩展
 
-The tier curve is:
+层级曲线为：
 
-- **Tier 1** requires 500 XP
-- Each subsequent tier requires **15% more XP** than the previous
-- **Tier 20** costs about **7,100 XP** on its own - and **around 51,000 cumulative XP** to reach from scratch
+- **第 1 级** 需要 500 XP
+- 每个后续等级比前一个等级需要 **15% 的 XP**
+- **第 20 级** 本身成本约为 **7,100 XP** - 从头开始达到 **约 51,000 累计 XP**
 
-You can see your current tier and XP progress in **Main Menu -> More -> Career**.
+您可以在 **Main Menu -> 更多 -> 职业** 中查看您当前的等级和 XP 进度。
 
-### Rank titles
+### 排名头衔
 
-Ranks are named specific to each team. A few examples:
+排名是根据每个团队具体命名的。举几个例子：
 
-**KEMRonda / Polis Trafik / Undercover Police** (Polis agency):
-Constable → Lance Corporal → Corporal → Sergeant → Sergeant Major → Sub-Inspector → Inspector → Chief Inspector → Assistant Superintendent → Deputy Superintendent → Superintendent → Assistant Commissioner → **Senior Assistant Commissioner** (Tier 20)
+**KEMRonda / Polis Trafik / Undercover Police** (Polis 代理):
+警员 → 准下士 → 下士 → 中士 → 军士长 → 副督察 → 督察 → 总督察 → 助理警司 → 副警司 → 警司 → 助理专员 → **高级助理专员**（第 20 级）
 
-**Bomba**:
-Fire Officer → Senior Fire Officer II → Senior Fire Officer I → Leading Fire Officer → Deputy Fire Superintendent → Fire Superintendent → Assistant Fire Superintendent → Senior Assistant Fire Superintendent → Senior Fire Superintendent II → Senior Fire Superintendent I → Assistant Fire Commissioner → Senior Assistant Fire Commissioner → Deputy Fire Commissioner → **Fire Commissioner** (Tier 20)
+**Bomba**：
+消防主任→二级高级消防主任→一级高级消防主任→首席消防主任→副消防总监→消防总监→助理消防总监→高级助理消防总监→高级二级消防总监→高级一级消防总监→助理消防专员→高级助理消防专员→副消防专员→**消防专员**（第20级）
 
-**Taxi Driver** (Pengangkutan agency):
-New Driver → Junior Driver → Driver → Experienced Driver → Junior Executive → Executive → Senior Executive → Towkay → **Yang di-Pandu Abang** (Tier 20)
+**Taxi Driver**（Pengangkutan 机构）：
+新司机 → 初级司机 → 司机 → 经验丰富的司机 → 初级行政人员 → 行政人员 → 高级行政人员 → Towkay → **Yang di-Pandu Abang** (Tier 20)
 
-**Lumberjack** (Sumber agency):
-Sapling Steward → Axe Hand → Timberjack → Chainsaw Master → Heavy Equipment Operator → Felling Foreman → Logging Boss → Forest Manager → **Lumber Lord** (Tier 20)
+**Lumberjack**（Sumber机构）：
+树苗管家 → 斧头手 → 伐木工人 → 电锯大师 → 重型设备操作员 → 伐木工头 → 伐木老板 → 森林管理员 → **木材领主**（20 级）
 
-**Food Delivery** (Perkhidmatan agency):
-Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Area Supervisor → City Supervisor → Regional Manager → Senior Regional Manager → National Manager → Director of Operations → Senior Director of Operations → **Chief Operations Officer** (Tier 20)
+**Food Delivery**（Perkhidmatan 机构）：
+见习骑手 → 初级骑手 → 骑手 → 高级骑手 → 队长 → 区域主管 → 城市主管 → 区域经理 → 高级区域经理 → 国家经理 → 运营总监 → 高级运营总监 → **首席运营官**（20 级）
 
-### The six agencies
+### 六大机构
 
-Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
+团队分为六个机构。这很重要，因为一些等级奖励（车辆、化妆品）与代理机构相关，而不仅仅是团队。
 
-| Agency | Teams |
+|代理|团队|
 |---|---|
-| **Polis** | KEMRonda, Polis Trafik, Undercover Police |
-| **Kecemasan** (Emergency) | Bomba, Kesihatan |
-| **Pengangkutan** (Transport) | Bus Driver, Taxi Driver, Logistics |
-| **Perkhidmatan** (Services) | Food Delivery, Post Office, Waste Disposal |
-| **Sumber** (Resources) | Power Nasional, Lumberjack |
-| **Penguatkuasaan** (Enforcement) | APJ |
+| **Polis** | KEMRonda、Polis Trafik、Undercover Police |
+| **Kecemasan**（紧急）| Bomba、Kesihatan |
+| **Pengangkutan**（交通）| Bus Driver、Taxi Driver、物流 |
+| **Perkhidmatan**（服务）| Food Delivery、Post Office、Waste Disposal |
+| **Sumber**（资源）| Power Nasional、Lumberjack |
+| **Penguatkuasaan**（执行）| APJ |
 
-## Tier rewards
+## 等级奖励
 
-Hitting a tier milestone can unlock:
+达到等级里程碑可以解锁：
 
-- A **new rank title** shown on your character and in the leaderboard
-- **Career vehicles** - for example, higher-tier Bomba ranks unlock larger fire trucks; higher-tier Taxi Driver ranks unlock better taxi models
-- Occasional **cosmetic items** (uniforms, accessories)
+- 您的角色和排行榜上显示**新的排名头衔**
+- **职业车辆** - 例如，更高级别的Bomba等级可解锁更大的消防车；更高级别的Taxi Driver等级可解锁更好的出租车型号
+- 偶尔的**化妆品**（制服、配饰）
 
-Career vehicles won't show in their matching team vehicle spawner until your tier is high enough.
+在您的等级足够高之前，职业车辆不会显示在其匹配的团队车辆生成器中。
 
-### Why a vehicle is missing from the spawner
+### 为什么生成器中缺少车辆
 
-If a vehicle exists in the wiki but does not appear in your spawner, check:
+如果 wiki 中存在车辆但未出现在您的生成器中，请检查：
 
-1. Are you on the correct team?
-2. Is the spawner type correct? Civilian, bike, premium, special, and team spawners show different lists.
-3. Do you meet the level requirement?
-4. Do you meet the career tier requirement?
-5. Is it a gamepass/team vehicle that requires ownership or a Team Access token?
+1. 你属于正确的团队吗？
+2. 生成器类型是否正确？民用、自行车、高级、特殊和团队生成器显示不同的列表。
+3.你符合等级要求吗？
+4. 您符合职业等级要求吗？
+5. 它是需要所有权或团队访问令牌的gamepass/团队车辆吗？
 
-## Uniforms and outfits
+## 制服和服装
 
-Each team has its own **uniform kit** - hats, vests, accessories specific to the role. You can put on your team uniform through the career customisation menu once you're on a team. Sample kits:
+每个团队都有自己的**制服套件** - 帽子、背心、特定于角色的配饰。加入团队后，您可以通过职业自定义菜单穿上团队制服。样品套件：
 
-- **KEMRonda**: Beret, PB Patch, Reflective Vest
-- **Polis Trafik**: Cap, Bike Jacket, Duty Belt, Reflective Coat
-- **Bomba**: Neckguard, Light, Respirator, Command Helmet
-- **Kesihatan**: Medical gear including Splint, First Aid Kit, Bandage, Kesihatan Booklet, Pager
+- **KEMRonda**：贝雷帽、PB 补丁、反光背心
+- **Polis Trafik**：帽子、自行车夹克、任务带、反光外套
+- **Bomba**：护颈、灯、呼吸器、指挥头盔
+- **Kesihatan**：医疗装备，包括夹板、急救箱、绷带、Kesihatan 小册子、寻呼机
 
-## Next steps
+## 后续步骤
 
-- [Jobs](/lebuhraya/jobs) - What each team actually does on a typical shift
-- [Passes and Boosts](/lebuhraya/passes-and-boosts) - Gamepasses and the Season Pass
+- [工作](/zh/lebuhraya/jobs) - 每个团队在典型轮班中实际做什么
+- [通行证和提升](/zh/lebuhraya/passes-and-boosts) - 游戏通行证和Season Pass

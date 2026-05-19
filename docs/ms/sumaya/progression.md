@@ -69,7 +69,7 @@ Berikut adalah berapa banyak XP yang diberikan oleh tindakan yang berbeza. Kedua
 
 ### Quest
 
-Rantaian penemuan 12-quest membayar **3,750 XP** merentasi ganjaran setiap quest, **tambah bonus penamat 2,000 XP sekali sahaja** pada quest terakhir. Diselesaikan sepenuhnya = **5,750 XP**. Pembayaran SR juga sama: 2,900 biasa + 1,500 penamat = 4,400 Ringgit. Lihat [Quests](/sumaya/quests).
+Rantaian penemuan 12-quest membayar **3,750 XP** merentasi ganjaran setiap quest, **tambah bonus penamat 2,000 XP sekali sahaja** pada quest terakhir. Diselesaikan sepenuhnya = **5,750 XP**. Pembayaran SR juga sama: 2,900 biasa + 1,500 penamat = 4,400 Ringgit. Lihat [Quests](/ms/sumaya/quests).
 
 ## Boost XP +15% Kesihatan
 
@@ -242,6 +242,6 @@ Jika anda mempunyai cukup XP untuk naik tahap beberapa kali dalam satu tindakan 
 
 ## Apa seterusnya?
 
-- [Economy](/sumaya/economy) untuk bagaimana Ringgit berfungsi secara selari.
-- [Quests](/sumaya/quests) untuk rantaian 12-quest dan pencapaian.
-- [Career overview](/sumaya/jobs) atau [Emergency services overview](/sumaya/emergency-services) untuk petua grind khusus sektor.
+- [Economy](/ms/sumaya/economy) untuk bagaimana Ringgit berfungsi secara selari.
+- [Quests](/ms/sumaya/quests) untuk rantaian 12-quest dan pencapaian.
+- [Career overview](/ms/sumaya/jobs) atau [Emergency services overview](/ms/sumaya/emergency-services) untuk petua grind khusus sektor.

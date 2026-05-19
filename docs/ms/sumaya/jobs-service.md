@@ -18,7 +18,7 @@ Sektor Perkhidmatan dibuka **apabila anda mencapai tahap 50 dalam sektor awam ya
 
 ## Bermula
 
-1. Capai tahap sektor 50 dalam [memancing](/sumaya/jobs-fishing) atau [kelapa sawit](/sumaya/jobs-palm-oil).
+1. Capai tahap sektor 50 dalam [memancing](/ms/sumaya/jobs-fishing) atau [kelapa sawit](/ms/sumaya/jobs-palm-oil).
 2. Buka aplikasi **Careers** pada telefon anda.
 3. Pilih **Service Sector**.
 4. Berjalan ke gerai Mamak atau kaunter Fast Food (aplikasi Careers akan menunjukkan jalan).
@@ -71,6 +71,6 @@ Buka aplikasi Careers dan hentikan syif anda. Pendapatan terkumpul semasa anda b
 
 ## Apa seterusnya?
 
-- [Memancing](/sumaya/jobs-fishing) jika anda mahukan alternatif yang lebih tenang.
-- [Kelapa sawit](/sumaya/jobs-palm-oil) untuk bayaran tindakan tunggal yang lebih tinggi.
-- [Progression](/sumaya/progression) untuk cara tahap sektor mempengaruhi ganjaran anda.
+- [Memancing](/ms/sumaya/jobs-fishing) jika anda mahukan alternatif yang lebih tenang.
+- [Kelapa sawit](/ms/sumaya/jobs-palm-oil) untuk bayaran tindakan tunggal yang lebih tinggi.
+- [Progres](/ms/sumaya/progression) untuk cara tahap sektor mempengaruhi ganjaran anda.
