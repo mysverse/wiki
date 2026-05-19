@@ -76,7 +76,7 @@ export const DESCRIPTIONS = {
   "/bandaraya/vehicles":           "Spawning, driving, fuel, and buying or renting vehicles in Bandaraya.",
   "/bandaraya/getting-around":     "Public transport in Bandaraya - MRT, LRT, monorail, buses, CAG card, e-hailing, and TapNGo tolls.",
   "/bandaraya/emergency-services": "POLIS, BOMBA, KKM, SJAM, RELA, MAF, and KPTD - the emergency and security services of Bandaraya.",
-  "/bandaraya/combat-and-health":  "Weapons, armor, injuries, and the medical system in Bandaraya.",
+  "/bandaraya/combat-and-health":  "Weapons, armour, injuries, and the medical system in Bandaraya.",
   "/bandaraya/arrest-and-law":     "How arrests work in Bandaraya - LTAA, RTAA, summons, jail time, and suspect rights.",
   "/bandaraya/phone":              "The in-game phone in Bandaraya - MyPay, e-hailing, 999, MyCar, MyTow, messages, and more apps.",
   "/bandaraya/tablet":             "The team-gated tablet tool in Bandaraya - MDT, MyEmergency, MyTow, KKM Logger, and other apps.",
