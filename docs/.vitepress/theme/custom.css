@@ -340,6 +340,67 @@ body {
   border-color: var(--game-accent);
 }
 
+.VPHomeHero {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 44px !important;
+}
+
+.VPHomeHero::before {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(110deg, rgb(45 49 143 / 8%), transparent 38%),
+    radial-gradient(circle at 82% 20%, rgb(233 54 68 / 10%), transparent 28rem);
+  content: "";
+}
+
+.VPHomeHero .container {
+  max-width: 1240px !important;
+}
+
+.VPHomeHero .main {
+  max-width: 650px !important;
+}
+
+.VPHomeHero .image-container {
+  min-height: 390px;
+  transform: none !important;
+}
+
+.VPHomeHero .VPButton {
+  border-radius: 999px;
+  min-height: 48px;
+  padding-inline: 20px;
+  font-weight: 760;
+  box-shadow: var(--mys-shadow-sm);
+}
+
+.VPHomeHero .VPButton.brand {
+  background: linear-gradient(135deg, var(--mys-red), #c52870);
+}
+
+.VPHome .vp-doc.container {
+  max-width: 1120px;
+  margin-top: 76px;
+  columns: 2;
+  column-gap: 56px;
+}
+
+.VPHome .vp-doc.container h2 {
+  break-after: avoid;
+  break-inside: avoid;
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 24px;
+  font-size: 1.25rem;
+}
+
+.VPHome .vp-doc.container p {
+  break-inside: avoid;
+  color: var(--vp-c-text-2);
+}
+
 :focus-visible {
   outline: 3px solid color-mix(in srgb, var(--game-accent) 42%, transparent);
   outline-offset: 3px;
@@ -357,6 +418,17 @@ body {
   .vp-doc h1 {
     max-width: none;
     font-size: clamp(2rem, 10vw, 2.75rem);
+  }
+
+  .VPHomeHero .image-container {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 640px) {
+  .VPHome .vp-doc.container {
+    margin-top: 48px;
+    columns: 1;
   }
 }
 

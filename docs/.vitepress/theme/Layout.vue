@@ -5,6 +5,9 @@ import { computed } from "vue";
 import { MotionConfig } from "motion-v";
 import AssistantWidget from "./AssistantWidget.vue";
 import DocContext from "./DocContext.vue";
+import HomeHeroInfo from "./HomeHeroInfo.vue";
+import HomeHeroVisual from "./HomeHeroVisual.vue";
+import HomePortal from "./HomePortal.vue";
 import NeedsReviewBanner from "./NeedsReviewBanner.vue";
 import { gameFromPath } from "./game";
 
@@ -22,6 +25,15 @@ const gameClass = computed(() => {
 <template>
   <MotionConfig reduced-motion="user">
     <Layout :class="gameClass">
+      <template #home-hero-info>
+        <HomeHeroInfo />
+      </template>
+      <template #home-hero-image>
+        <HomeHeroVisual />
+      </template>
+      <template #home-features-before>
+        <HomePortal />
+      </template>
       <template #doc-before>
         <DocContext />
         <NeedsReviewBanner v-if="needsReview" />

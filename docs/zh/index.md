@@ -16,18 +16,11 @@ hero:
     alt: MYSverse 维基标志
   actions:
     - theme: brand
-      text: 开始 Bandaraya 之旅
-      link: /zh/bandaraya/get-started
+      text: 探索游戏
+      link: '#explore-mysverse'
     - theme: alt
-      text: 开始 Lebuhraya 之旅
-      link: /zh/lebuhraya/get-started
-features:
-  - title: 沉浸式马来西亚体验
-    details: 走进真实再现马来西亚多元文化与社群魅力的虚拟世界。
-  - title: 活跃的角色扮演社群
-    details: 参与以马来西亚日常生活为灵感、由 MYSverse 政府机构和服务主办的互动角色扮演场景。
-  - title: 社群驱动开发
-    details: 与我们携手塑造体验、分享反馈，共同发展 MYSverse。
+      text: 从 Bandaraya 开始
+      link: /zh/bandaraya/get-started
 ---
 
 ## 什么是 MYSverse？

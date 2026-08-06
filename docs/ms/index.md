@@ -18,24 +18,11 @@ hero:
     alt: Logo wiki MYSverse
   actions:
     - theme: brand
+      text: Terokai permainan
+      link: '#explore-mysverse'
+    - theme: alt
       text: Mula dengan Bandaraya
       link: /ms/bandaraya/get-started
-    - theme: alt
-      text: Mula dengan Lebuhraya
-      link: /ms/lebuhraya/get-started
-features:
-  - title: Pengalaman Malaysia yang Mendalam
-    details: >-
-      Terjun ke dunia maya realistik yang menampilkan keaslian budaya dan
-      komuniti Malaysia yang bermakna.
-  - title: Komuniti Roleplay Aktif
-    details: >-
-      Sertai senario roleplay interaktif bersama agensi kerajaan dan
-      perkhidmatan MYSverse yang diilhami kehidupan harian di Malaysia.
-  - title: Pembangunan Dipacu Komuniti
-    details: >-
-      Bekerjasama dengan kami untuk membentuk pengalaman, berkongsi maklum
-      balas, dan membesarkan MYSverse bersama.
 ---
 
 ## Apakah itu MYSverse?

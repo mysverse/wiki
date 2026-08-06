@@ -13,21 +13,11 @@ hero:
     alt: MYSverse wiki logo
   actions:
     - theme: brand
-      text: "Get Started with Bandaraya"
-      link: /bandaraya/get-started
+      text: "Explore the games"
+      link: "#explore-mysverse"
     - theme: alt
-      text: "Get started with Lebuhraya"
-      link: /lebuhraya/get-started
-
-features:
-  - title: Immersive Malaysian Experiences
-    details: "Dive into realistic virtual worlds that capture the essence of Malaysia’s vibrant culture and communities."
-
-  - title: Active Roleplay Communities
-    details: "Join interactive roleplay scenarios with MYSverse government agencies and services inspired by daily life in Malaysia."
-
-  - title: Community-Driven Development
-    details: "Collaborate with us to shape experiences, share feedback, and grow the MYSverse together."
+      text: "Start with Bandaraya"
+      link: /bandaraya/get-started
 ---
 
 ## What is MYSverse?
