@@ -2,8 +2,8 @@
 title: 进度
 description: Sumaya 的 XP、等级、职级系统，以及最快晋升路径。
 lang: zh
-translated_from_hash: af93e7f3
-translated_on: '2026-05-19'
+translated_from_hash: 0b9aefb0
+translated_on: '2026-08-07'
 needs_review: true
 ---
 
@@ -11,6 +11,17 @@ needs_review: true
 # 进度
 
 Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**（用于全局等级）和**领域 XP**（用于你正在从事的特定职业或服务）。本页解释一切如何运作 - 何时升级、职级如何嵌入，以及哪些策略最有效。
+
+<ProgressionTrack>
+  <ProgressionLane eyebrow="持续生效" label="玩家等级" value="1-300" tone="player">你的共享等级会通过每项职业、服务和任务持续提升。</ProgressionLane>
+  <ProgressionLane eyebrow="当前职业" label="领域等级" value="1-100" tone="sector">每个领域都有独立的 XP、职级、服装与车辆解锁。</ProgressionLane>
+</ProgressionTrack>
+
+<WaypointSteps>
+  <WaypointStep number="1" title="前期，等级 1-10">跟随欢迎任务，尝试免费装备，并掌握一种稳定赚取 XP 的方法。</WaypointStep>
+  <WaypointStep number="2" title="中期，等级 10-50">重点发展一个领域，同时通过任务和其他职业持续提升玩家 XP。</WaypointStep>
+  <WaypointStep number="3" title="后期，等级 50+">以最适合你偏好角色的职级和昂贵车辆解锁为目标。</WaypointStep>
+</WaypointSteps>
 
 ## 双层等级
 

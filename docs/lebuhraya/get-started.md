@@ -7,6 +7,14 @@ description: "Your first 10 minutes in Lebuhraya - spawn a vehicle, earn BR, lev
 
 Welcome to Lebuhraya. This page walks you through your first session, from joining the server to earning your first XP and picking up your first job.
 
+<WaypointSteps>
+  <WaypointStep number="1" title="Spawn a vehicle">Find a green spawner and choose one of the free starter cars.</WaypointStep>
+  <WaypointStep number="2" title="Drive for XP">Keep moving to earn your first driving XP and learn the highway.</WaypointStep>
+  <WaypointStep number="3" title="Choose a first job">Use Bus Driver immediately or aim for Food Delivery at level 10.</WaypointStep>
+  <WaypointStep number="4" title="Join a convoy">Travel with friends to make the drive social and earn a larger XP bonus.</WaypointStep>
+  <WaypointStep number="5" title="Plan an unlock">Check the career ladder and choose the next team, vehicle, or home you want.</WaypointStep>
+</WaypointSteps>
+
 ## What is Lebuhraya?
 
 Lebuhraya is a driving roleplay experience set on a Malaysian highway. Drive cars, motorcycles, trucks, and buses between three main regions. Take jobs, from food delivery to firefighting, to earn XP and build your career. Buy a house, join a convoy with friends, or just cruise.

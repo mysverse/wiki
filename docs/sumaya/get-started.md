@@ -7,6 +7,14 @@ description: "Start playing Sumaya - main menu, team pick, controls, and the fir
 
 Your first few minutes in Sumaya. This page covers the main menu, team selection, controls, and the first things you should do once you're in the world.
 
+<WaypointSteps>
+  <WaypointStep number="1" title="Pick a team">Choose Visitors for an open start or try one of the emergency services.</WaypointStep>
+  <WaypointStep number="2" title="Open your phone">Use the phone as your hub for careers, quests, calls, and settings.</WaypointStep>
+  <WaypointStep number="3" title="Follow a quest">Open the Quest app and use its guidance marker to learn the town.</WaypointStep>
+  <WaypointStep number="4" title="Start a job">Try fishing, mamak work, palm oil, or a short gig for Ringgit and XP.</WaypointStep>
+  <WaypointStep number="5" title="Explore the town">Take a free starter car and visit the services, beach, shops, and landmarks.</WaypointStep>
+</WaypointSteps>
+
 ## The Main Menu
 
 When you join Sumaya, you'll see a main menu screen before you spawn. From here you pick a **team**, which decides what role you play - a regular civilian, a cop, a firefighter, or a paramedic. The team you pick affects the tools you start with and the jobs you can do.

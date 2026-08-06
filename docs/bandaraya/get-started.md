@@ -9,6 +9,14 @@ description: "Start your adventure in Bandaraya - navigate menus, earn Bandaraya
 
 The in-game currency is **BR (Bandar Ringgit)**. Prices in this wiki use BR unless they are labelled **R$** for Robux.
 
+<WaypointSteps>
+  <WaypointStep number="1" title="Pick a role">Start as Visitors or Malaysians, then move into a specialist team when you are ready.</WaypointStep>
+  <WaypointStep number="2" title="Spawn in KL">Open the map at your team spawn and find the nearest road or station.</WaypointStep>
+  <WaypointStep number="3" title="Earn BR">Try POS or another available job to build your first spending balance.</WaypointStep>
+  <WaypointStep number="4" title="Get around">Drive, take a bus, or use MRT and Monorail with CAG.</WaypointStep>
+  <WaypointStep number="5" title="Read the rules">Check the rules before joining law, emergency, or combat roleplay.</WaypointStep>
+</WaypointSteps>
+
 ## What you can do
 
 - **Pick a role.** Be a civilian, police officer, firefighter, medic, soldier, bus driver, taxi driver, postal worker, tow operator, or another specialist role.

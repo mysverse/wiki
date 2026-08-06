@@ -4,13 +4,21 @@ description: >-
   10 minit pertama anda di Lebuhraya - hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: e52aa1bb
-translated_on: '2026-05-19'
+translated_from_hash: 8de7448f
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # Mula
 
 Selamat datang ke Lebuhraya. Halaman ini membimbing anda melalui sesi pertama, daripada menyertai pelayan hingga mendapat XP pertama dan memilih kerja pertama anda.
+
+<WaypointSteps>
+  <WaypointStep number="1" title="Hasilkan kenderaan">Cari penjana hijau dan pilih salah satu kereta permulaan percuma.</WaypointStep>
+  <WaypointStep number="2" title="Pandu untuk XP">Terus bergerak untuk memperoleh XP pemanduan pertama dan mengenali lebuh raya.</WaypointStep>
+  <WaypointStep number="3" title="Pilih kerja pertama">Gunakan Bus Driver dengan segera atau sasarkan Food Delivery pada tahap 10.</WaypointStep>
+  <WaypointStep number="4" title="Sertai konvoi">Bergerak bersama rakan untuk menjadikan perjalanan lebih sosial dan mendapat bonus XP yang lebih besar.</WaypointStep>
+  <WaypointStep number="5" title="Rancang pembukaan kunci">Semak tangga kerjaya dan pilih pasukan, kenderaan, atau rumah seterusnya yang anda mahukan.</WaypointStep>
+</WaypointSteps>
 
 ## Apakah Lebuhraya?
 

@@ -2,13 +2,21 @@
 title: 入门
 description: 开始玩 Sumaya - 主菜单、队伍选择、操作以及你进城的头五分钟。
 lang: zh
-translated_from_hash: 1b3ce7d2
-translated_on: '2026-05-19'
+translated_from_hash: '32721786'
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # 入门
 
 你在 Sumaya 的头几分钟。本页涵盖主菜单、队伍选择、控制以及一旦你进入世界后应该做的第一件事。
+
+<WaypointSteps>
+  <WaypointStep number="1" title="选择队伍">选择 Visitors 自由开始，或尝试其中一项紧急服务。</WaypointStep>
+  <WaypointStep number="2" title="打开手机">使用手机管理职业、任务、通话与设置。</WaypointStep>
+  <WaypointStep number="3" title="跟随任务">打开 Quest 应用，并利用引导标记熟悉城镇。</WaypointStep>
+  <WaypointStep number="4" title="开始工作">尝试钓鱼、mamak 工作、油棕业或短期零工来赚取 Ringgit 和 XP。</WaypointStep>
+  <WaypointStep number="5" title="探索城镇">驾驶免费新手车，探访公共服务、海滩、商店与地标。</WaypointStep>
+</WaypointSteps>
 
 ## 主菜单
 

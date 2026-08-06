@@ -7,6 +7,17 @@ description: "XP, levels, ranks, and the fastest paths to climb in Sumaya."
 
 Sumaya has a **two-tier XP system**: every action you take earns **player XP** (towards your global level) and **sector XP** (towards the specific career or service you're doing). This page explains how it all works - what levels up when, how ranks fit in, and what strategies work best.
 
+<ProgressionTrack>
+  <ProgressionLane eyebrow="Always active" label="Player level" value="1-300" tone="player">Your shared level rises across every career, service, and quest.</ProgressionLane>
+  <ProgressionLane eyebrow="Current career" label="Sector level" value="1-100" tone="sector">Each sector has its own XP, ranks, clothing, and vehicle unlocks.</ProgressionLane>
+</ProgressionTrack>
+
+<WaypointSteps>
+  <WaypointStep number="1" title="Early game, levels 1-10">Follow the welcome quests, try free equipment, and learn one reliable way to earn XP.</WaypointStep>
+  <WaypointStep number="2" title="Mid game, levels 10-50">Build one main sector while using quests and other careers to keep player XP moving.</WaypointStep>
+  <WaypointStep number="3" title="Late game, level 50+">Target the ranks and expensive vehicle unlocks that matter most to your preferred role.</WaypointStep>
+</WaypointSteps>
+
 ## The two tiers
 
 ### Player level

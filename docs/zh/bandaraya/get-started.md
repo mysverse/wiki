@@ -2,8 +2,8 @@
 title: 开始体验 Bandaraya
 description: 在 Bandaraya 开始你的冒险 - 操作菜单、赚取 Bandar Ringgit（BR）、选择队伍并探索吉隆坡。
 lang: zh
-translated_from_hash: f4940a55
-translated_on: '2026-05-19'
+translated_from_hash: 9e7a5245
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # 开始体验 Bandaraya
@@ -11,6 +11,14 @@ needs_review: true
 **Bandaraya** 是 Roblox 上的一款马来西亚城市角色扮演体验,以吉隆坡为背景。你选择一个角色,出生进入城市,与其他玩家一起演绎日常或紧急服务的故事。
 
 游戏内货币是 **BR(Bandar Ringgit)**。本 wiki 中的价格均使用 BR,除非标注为 **R$** 表示 Robux。
+
+<WaypointSteps>
+  <WaypointStep number="1" title="选择角色">先从 Visitors 或 Malaysians 开始，准备好后再加入专业队伍。</WaypointStep>
+  <WaypointStep number="2" title="在吉隆坡出生">在队伍出生点打开地图，寻找最近的道路或车站。</WaypointStep>
+  <WaypointStep number="3" title="赚取 BR">尝试 POS 或其他可用工作，积累你的第一笔可用余额。</WaypointStep>
+  <WaypointStep number="4" title="四处通行">驾驶、乘搭巴士，或使用 CAG 搭乘 MRT 和 Monorail。</WaypointStep>
+  <WaypointStep number="5" title="阅读规则">参与执法、紧急服务或战斗角色扮演前，请先查看规则。</WaypointStep>
+</WaypointSteps>
 
 ## 你可以做什么
 

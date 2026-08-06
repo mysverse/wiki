@@ -4,13 +4,21 @@ description: >-
   Mula bermain Sumaya - menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: 1b3ce7d2
-translated_on: '2026-05-19'
+translated_from_hash: '32721786'
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # Mula
 
 Beberapa minit pertama anda di Sumaya. Halaman ini merangkumi menu utama, pemilihan pasukan, kawalan, dan perkara pertama yang patut anda lakukan apabila berada di dalam dunia.
+
+<WaypointSteps>
+  <WaypointStep number="1" title="Pilih pasukan">Pilih Visitors untuk permulaan terbuka atau cuba salah satu perkhidmatan kecemasan.</WaypointStep>
+  <WaypointStep number="2" title="Buka telefon anda">Gunakan telefon sebagai hab untuk kerjaya, misi, panggilan, dan tetapan.</WaypointStep>
+  <WaypointStep number="3" title="Ikuti misi">Buka aplikasi Quest dan gunakan penanda panduannya untuk mengenali bandar.</WaypointStep>
+  <WaypointStep number="4" title="Mulakan kerja">Cuba memancing, kerja mamak, kelapa sawit, atau kerja gig singkat untuk Ringgit dan XP.</WaypointStep>
+  <WaypointStep number="5" title="Terokai bandar">Ambil kereta permulaan percuma dan lawati perkhidmatan, pantai, kedai, dan mercu tanda.</WaypointStep>
+</WaypointSteps>
 
 ## Menu Utama
 

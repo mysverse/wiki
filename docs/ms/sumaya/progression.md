@@ -2,8 +2,8 @@
 title: Kemajuan
 description: 'XP, tahap, pangkat, dan jalan terpantas untuk naik di Sumaya.'
 lang: ms
-translated_from_hash: af93e7f3
-translated_on: '2026-05-19'
+translated_from_hash: 0b9aefb0
+translated_on: '2026-08-07'
 needs_review: true
 ---
 
@@ -11,6 +11,17 @@ needs_review: true
 # Kemajuan
 
 Sumaya mempunyai **sistem XP dua peringkat**: setiap tindakan yang anda lakukan memperoleh **XP pemain** (untuk tahap global anda) dan **XP sektor** (untuk kerjaya atau perkhidmatan tertentu yang anda lakukan). Halaman ini menerangkan bagaimana semuanya berfungsi - apa yang naik tahap pada bila masa, bagaimana pangkat sesuai, dan strategi mana yang paling berkesan.
+
+<ProgressionTrack>
+  <ProgressionLane eyebrow="Sentiasa aktif" label="Tahap pemain" value="1-300" tone="player">Tahap bersama anda meningkat merentasi setiap kerjaya, perkhidmatan, dan misi.</ProgressionLane>
+  <ProgressionLane eyebrow="Kerjaya semasa" label="Tahap sektor" value="1-100" tone="sector">Setiap sektor mempunyai XP, pangkat, pakaian, dan pembukaan kunci kenderaannya sendiri.</ProgressionLane>
+</ProgressionTrack>
+
+<WaypointSteps>
+  <WaypointStep number="1" title="Permainan awal, tahap 1-10">Ikuti misi alu-aluan, cuba peralatan percuma, dan pelajari satu cara yang boleh dipercayai untuk memperoleh XP.</WaypointStep>
+  <WaypointStep number="2" title="Permainan pertengahan, tahap 10-50">Bina satu sektor utama sambil menggunakan misi dan kerjaya lain untuk terus menggerakkan XP pemain.</WaypointStep>
+  <WaypointStep number="3" title="Permainan akhir, tahap 50+">Sasarkan pangkat dan pembukaan kunci kenderaan mahal yang paling penting untuk peranan pilihan anda.</WaypointStep>
+</WaypointSteps>
 
 ## Dua peringkat
 

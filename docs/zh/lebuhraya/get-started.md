@@ -2,13 +2,21 @@
 title: 入门
 description: 你在 Lebuhraya 的前 10 分钟 - 生成车辆、赚取 BR、升级，然后上高速。
 lang: zh
-translated_from_hash: e52aa1bb
-translated_on: '2026-05-19'
+translated_from_hash: 8de7448f
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # 入门
 
 欢迎来到Lebuhraya。本页面将引导您完成您的第一次课程，从加入 server 到获得第一个 XP 并找到第一份工作。
+
+<WaypointSteps>
+  <WaypointStep number="1" title="生成车辆">寻找绿色生成点，并选择一辆免费新手车。</WaypointStep>
+  <WaypointStep number="2" title="驾驶赚取 XP">持续行驶，获得第一笔驾驶 XP，并熟悉高速公路。</WaypointStep>
+  <WaypointStep number="3" title="选择第一份工作">立即使用 Bus Driver，或以等级 10 解锁 Food Delivery 为目标。</WaypointStep>
+  <WaypointStep number="4" title="加入车队">与朋友一起上路，让旅程更有社交乐趣并获得更高的 XP 加成。</WaypointStep>
+  <WaypointStep number="5" title="规划下一项解锁">查看职业阶梯，并选择你接下来想要的队伍、车辆或房屋。</WaypointStep>
+</WaypointSteps>
 
 ## 什么是Lebuhraya？
 

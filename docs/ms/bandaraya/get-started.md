@@ -4,8 +4,8 @@ description: >-
   Mulakan pengembaraan anda di Bandaraya - navigasi menu, peroleh Bandar Ringgit
   (BR), pilih pasukan, dan terokai Kuala Lumpur.
 lang: ms
-translated_from_hash: f4940a55
-translated_on: '2026-05-19'
+translated_from_hash: 9e7a5245
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # Mula dengan Bandaraya
@@ -13,6 +13,14 @@ needs_review: true
 **Bandaraya** ialah pengalaman main peranan bandar Malaysia di Roblox, yang berlatar belakangkan Kuala Lumpur. Anda memilih peranan, muncul di bandar, dan memainkan cerita harian atau perkhidmatan kecemasan dengan pemain lain.
 
 Mata wang dalam permainan ialah **BR (Bandar Ringgit)**. Harga dalam wiki ini menggunakan BR melainkan dilabelkan sebagai **R$** untuk Robux.
+
+<WaypointSteps>
+  <WaypointStep number="1" title="Pilih peranan">Mulakan sebagai Visitors atau Malaysians, kemudian sertai pasukan pakar apabila anda sudah bersedia.</WaypointStep>
+  <WaypointStep number="2" title="Muncul di KL">Buka peta di tempat muncul pasukan anda dan cari jalan atau stesen terdekat.</WaypointStep>
+  <WaypointStep number="3" title="Peroleh BR">Cuba POS atau kerja lain yang tersedia untuk membina baki perbelanjaan pertama anda.</WaypointStep>
+  <WaypointStep number="4" title="Bergerak ke mana-mana">Pandu, naik bas, atau gunakan MRT dan Monorel dengan CAG.</WaypointStep>
+  <WaypointStep number="5" title="Baca peraturan">Semak peraturan sebelum menyertai roleplay undang-undang, kecemasan, atau pertempuran.</WaypointStep>
+</WaypointSteps>
 
 ## Apa yang anda boleh buat
 
