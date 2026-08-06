@@ -2,13 +2,28 @@
 title: 地图与地点
 description: Bandaraya 各处的地标、建筑、街道、车站、医院和商店。
 lang: zh
-translated_from_hash: 17a2da3e
-translated_on: '2026-05-19'
+translated_from_hash: 1ba6d4a4
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # 地图与地点
 
 这是 Bandaraya 吉隆坡区域内地点的快速参考。需要找诊所、加油站，或分辨哪座塔是哪座时使用。
+
+## 城市亮点
+
+查看详细地点列表前，可利用这些地标辨认自己的位置。
+
+<WikiGallery :columns="2">
+  <WikiFigure src="/images/bandaraya/ipd-dang-wangi.png" alt="Bandaraya 的 IPD Dang Wangi POLIS 警察局" caption="IPD Dang Wangi" />
+  <WikiFigure src="/images/bandaraya/central-fire-station.png" alt="Bandaraya 中央 BOMBA 消防局" caption="中央 BOMBA 消防局" />
+  <WikiFigure src="/images/bandaraya/city-bus-terminal.png" alt="Bandaraya 城市巴士总站与站台" caption="Bandar Bus Terminal" />
+  <WikiFigure src="/images/bandaraya/mrt-1.png" alt="Bandaraya 的 MRT 服务" caption="MRT" />
+  <WikiFigure src="/images/bandaraya/klcc.png" alt="Bandaraya 的 KLCC 天际线" caption="KLCC" />
+  <WikiFigure src="/images/bandaraya/monorail.png" alt="穿过 Bandaraya 市中心的 Monorail" caption="Monorail" />
+  <WikiFigure src="/images/bandaraya/pavilion.png" alt="Bandaraya 的 Pavilion" caption="Pavilion" />
+  <WikiFigure src="/images/bandaraya/bus-stop.png" alt="Bandaraya 的路边巴士站" caption="巴士站" />
+</WikiGallery>
 
 ## 紧急服务
 

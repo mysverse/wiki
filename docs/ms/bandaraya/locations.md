@@ -4,13 +4,28 @@ description: >-
   Mercu tanda, bangunan, jalan, stesen, hospital, dan kedai di seluruh
   Bandaraya.
 lang: ms
-translated_from_hash: 17a2da3e
-translated_on: '2026-05-19'
+translated_from_hash: 1ba6d4a4
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # Peta & Lokasi
 
 Rujukan pantas untuk mencari tempat dalam bahagian Kuala Lumpur di Bandaraya. Gunakan ini apabila anda perlu mencari klinik, stesen minyak, atau mengenal pasti menara.
+
+## Sorotan bandar
+
+Gunakan mercu tanda ini untuk mengenali kedudukan anda sebelum melihat senarai lokasi terperinci.
+
+<WikiGallery :columns="2">
+  <WikiFigure src="/images/bandaraya/ipd-dang-wangi.png" alt="Balai POLIS IPD Dang Wangi di Bandaraya" caption="IPD Dang Wangi" />
+  <WikiFigure src="/images/bandaraya/central-fire-station.png" alt="Balai BOMBA pusat Bandaraya" caption="Balai BOMBA pusat" />
+  <WikiFigure src="/images/bandaraya/city-bus-terminal.png" alt="Terminal bas bandar dan platformnya di Bandaraya" caption="Bandar Bus Terminal" />
+  <WikiFigure src="/images/bandaraya/mrt-1.png" alt="Perkhidmatan MRT di Bandaraya" caption="MRT" />
+  <WikiFigure src="/images/bandaraya/klcc.png" alt="Pemandangan latar langit KLCC di Bandaraya" caption="KLCC" />
+  <WikiFigure src="/images/bandaraya/monorail.png" alt="Monorel melalui pusat Bandaraya" caption="Monorel" />
+  <WikiFigure src="/images/bandaraya/pavilion.png" alt="Pavilion di Bandaraya" caption="Pavilion" />
+  <WikiFigure src="/images/bandaraya/bus-stop.png" alt="Perhentian bas tepi jalan di Bandaraya" caption="Perhentian bas" />
+</WikiGallery>
 
 ## Perkhidmatan kecemasan
 

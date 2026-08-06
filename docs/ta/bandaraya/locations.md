@@ -4,13 +4,28 @@ description: >-
   Bandaraya முழுவதும் உள்ள சிறப்புத் தலங்கள், கட்டிடங்கள், தெருக்கள்,
   நிலையங்கள், மருத்துவமனைகள், மற்றும் கடைகள்.
 lang: ta
-translated_from_hash: 17a2da3e
-translated_on: '2026-05-19'
+translated_from_hash: 1ba6d4a4
+translated_on: '2026-08-07'
 needs_review: true
 ---
 # வரைபடம் & இடங்கள்
 
 Bandaraya-வின் Kuala Lumpur பகுதியில் எது எங்கே இருக்கிறது என்பதற்கான விரைவு reference. Clinic, fuel station, அல்லது எந்த tower எது என்பதைத் தேடும்போது இதைப் பயன்படுத்தவும்.
+
+## நகரச் சிறப்புகள்
+
+விரிவான இடப் பட்டியல்களுக்குச் செல்வதற்கு முன் உங்கள் இருப்பிடத்தை அறிய இந்த அடையாள இடங்களைப் பயன்படுத்துங்கள்.
+
+<WikiGallery :columns="2">
+  <WikiFigure src="/images/bandaraya/ipd-dang-wangi.png" alt="Bandaraya-வில் உள்ள IPD Dang Wangi POLIS நிலையம்" caption="IPD Dang Wangi" />
+  <WikiFigure src="/images/bandaraya/central-fire-station.png" alt="Bandaraya மத்திய BOMBA நிலையம்" caption="மத்திய BOMBA நிலையம்" />
+  <WikiFigure src="/images/bandaraya/city-bus-terminal.png" alt="Bandaraya நகரப் பேருந்து முனையமும் நடைமேடைகளும்" caption="Bandar Bus Terminal" />
+  <WikiFigure src="/images/bandaraya/mrt-1.png" alt="Bandaraya-வில் MRT சேவை" caption="MRT" />
+  <WikiFigure src="/images/bandaraya/klcc.png" alt="Bandaraya-வில் KLCC வானோட்டம்" caption="KLCC" />
+  <WikiFigure src="/images/bandaraya/monorail.png" alt="Bandaraya நகர மையத்தின் வழியாகச் செல்லும் Monorail" caption="Monorail" />
+  <WikiFigure src="/images/bandaraya/pavilion.png" alt="Bandaraya-வில் Pavilion" caption="Pavilion" />
+  <WikiFigure src="/images/bandaraya/bus-stop.png" alt="Bandaraya-வில் சாலையோரப் பேருந்து நிறுத்தம்" caption="பேருந்து நிறுத்தம்" />
+</WikiGallery>
 
 ## அவசர சேவைகள்
 

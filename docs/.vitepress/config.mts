@@ -48,6 +48,11 @@ export default defineConfig({
   ],
   lastUpdated: true,
   cleanUrls: true,
+  markdown: {
+    image: {
+      lazyLoading: true,
+    },
+  },
   themeConfig: {
     siteTitle: false,
     logo: {

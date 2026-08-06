@@ -6,6 +6,8 @@ import ProgressionLane from "./ProgressionLane.vue";
 import ProgressionTrack from "./ProgressionTrack.vue";
 import WaypointStep from "./WaypointStep.vue";
 import WaypointSteps from "./WaypointSteps.vue";
+import WikiFigure from "./WikiFigure.vue";
+import WikiGallery from "./WikiGallery.vue";
 import "./custom.css";
 
 export default {
@@ -16,5 +18,7 @@ export default {
     app.component("ProgressionTrack", ProgressionTrack);
     app.component("WaypointStep", WaypointStep);
     app.component("WaypointSteps", WaypointSteps);
+    app.component("WikiFigure", WikiFigure);
+    app.component("WikiGallery", WikiGallery);
   },
 };

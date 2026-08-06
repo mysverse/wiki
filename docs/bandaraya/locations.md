@@ -7,6 +7,21 @@ description: "Landmarks, buildings, streets, stations, hospitals, and shops acro
 
 Use this page to find major places in Bandaraya's Kuala Lumpur.
 
+## City highlights
+
+Use these landmarks to orient yourself before heading into the detailed location lists.
+
+<WikiGallery :columns="2">
+  <WikiFigure src="/images/bandaraya/ipd-dang-wangi.png" alt="IPD Dang Wangi police station in Bandaraya" caption="IPD Dang Wangi" />
+  <WikiFigure src="/images/bandaraya/central-fire-station.png" alt="Bandaraya central BOMBA station" caption="Central BOMBA station" />
+  <WikiFigure src="/images/bandaraya/city-bus-terminal.png" alt="Bandaraya city bus terminal and platforms" caption="Bandar Bus Terminal" />
+  <WikiFigure src="/images/bandaraya/mrt-1.png" alt="MRT service in Bandaraya" caption="MRT" />
+  <WikiFigure src="/images/bandaraya/klcc.png" alt="KLCC skyline in Bandaraya" caption="KLCC" />
+  <WikiFigure src="/images/bandaraya/monorail.png" alt="Monorail through central Bandaraya" caption="Monorail" />
+  <WikiFigure src="/images/bandaraya/pavilion.png" alt="Pavilion in Bandaraya" caption="Pavilion" />
+  <WikiFigure src="/images/bandaraya/bus-stop.png" alt="Roadside bus stop in Bandaraya" caption="Bus stop" />
+</WikiGallery>
+
 ## Emergency and public-service bases
 
 | Place | Purpose |
