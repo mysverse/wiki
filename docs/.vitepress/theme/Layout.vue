@@ -2,6 +2,7 @@
 import DefaultTheme from "vitepress/theme";
 import { useData } from "vitepress";
 import { computed } from "vue";
+import AssistantWidget from "./AssistantWidget.vue";
 
 const { Layout } = DefaultTheme;
 const { frontmatter, lang, site } = useData();
@@ -29,6 +30,7 @@ const message = computed(() => {
       </div>
     </template>
   </Layout>
+  <AssistantWidget />
 </template>
 
 <style scoped>
