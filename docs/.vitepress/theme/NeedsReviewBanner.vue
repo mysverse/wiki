@@ -29,12 +29,13 @@ const message = computed(() => {
   display: flex;
   align-items: flex-start;
   gap: 10px;
-  padding: 12px 16px;
+  padding: 14px 16px;
   margin: 0 0 24px;
-  border: 1px solid var(--vp-c-warning-2);
-  border-radius: 8px;
-  background: var(--vp-c-warning-soft);
-  color: var(--vp-c-warning-1);
+  border: 1px solid color-mix(in srgb, var(--vp-c-warning-1) 28%, transparent);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--vp-c-warning-soft) 80%, var(--vp-c-bg-elv));
+  color: var(--vp-c-text-1);
+  box-shadow: 0 10px 30px rgb(23 32 51 / 5%);
   font-size: 14px;
   line-height: 1.5;
 }

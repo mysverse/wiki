@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from "vue";
 import { useData, useRoute } from "vitepress";
+import { AnimatePresence, Motion } from "motion-v";
 
 type Locale = "en" | "ms" | "zh" | "ta";
 
@@ -104,22 +105,29 @@ watch(open, (isOpen) => {
 
 <template>
   <Teleport to="body">
-    <section
-      v-if="available && open"
-      class="mysverse-assistant-panel"
-      role="dialog"
-      aria-modal="true"
-      :aria-label="copy.title"
-    >
-      <iframe
-        ref="iframe"
-        :src="iframeUrl"
-        :title="copy.title"
-        class="mysverse-assistant-frame"
-        sandbox="allow-scripts allow-forms allow-same-origin allow-popups allow-popups-to-escape-sandbox"
-        @load="sendContext"
-      />
-    </section>
+    <AnimatePresence>
+      <Motion
+        v-if="available && open"
+        as="section"
+        class="mysverse-assistant-panel"
+        role="dialog"
+        aria-modal="true"
+        :aria-label="copy.title"
+        :initial="{ opacity: 0, y: 18, scale: 0.98 }"
+        :animate="{ opacity: 1, y: 0, scale: 1 }"
+        :exit="{ opacity: 0, y: 12, scale: 0.985 }"
+        :transition="{ duration: 0.22, ease: [0.22, 1, 0.36, 1] }"
+      >
+        <iframe
+          ref="iframe"
+          :src="iframeUrl"
+          :title="copy.title"
+          class="mysverse-assistant-frame"
+          sandbox="allow-scripts allow-forms allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+          @load="sendContext"
+        />
+      </Motion>
+    </AnimatePresence>
     <button
       v-if="available"
       ref="launcher"
@@ -144,10 +152,10 @@ watch(open, (isOpen) => {
   width: 400px;
   height: min(640px, calc(100vh - 112px));
   overflow: hidden;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 16px;
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 24%, var(--vp-c-divider));
+  border-radius: 22px;
   background: var(--vp-c-bg);
-  box-shadow: 0 24px 64px rgb(0 0 0 / 24%);
+  box-shadow: var(--mys-shadow-lg);
 }
 
 .mysverse-assistant-frame {
@@ -166,18 +174,21 @@ watch(open, (isOpen) => {
   align-items: center;
   gap: 8px;
   padding: 12px 20px;
-  border: 0;
+  border: 1px solid rgb(255 255 255 / 22%);
   border-radius: 999px;
-  background: var(--vp-c-brand-1);
+  background: linear-gradient(135deg, var(--vp-c-brand-1), var(--mys-blue));
   color: white;
-  box-shadow: 0 12px 32px rgb(0 0 0 / 22%);
+  box-shadow: 0 14px 38px rgb(23 32 51 / 24%);
   font-size: 14px;
   font-weight: 700;
   cursor: pointer;
+  transition: box-shadow 180ms ease, transform 180ms ease, filter 180ms ease;
 }
 
 .mysverse-assistant-launcher:hover {
-  background: var(--vp-c-brand-2);
+  filter: saturate(1.12) brightness(1.03);
+  box-shadow: 0 18px 44px rgb(23 32 51 / 30%);
+  transform: translateY(-2px);
 }
 
 .mysverse-assistant-launcher:focus-visible {
@@ -203,6 +214,10 @@ watch(open, (isOpen) => {
 @media (prefers-reduced-motion: reduce) {
   .mysverse-assistant-launcher {
     transition: none;
+  }
+
+  .mysverse-assistant-launcher:hover {
+    transform: none;
   }
 }
 </style>
