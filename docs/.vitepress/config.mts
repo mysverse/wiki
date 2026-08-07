@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { defineConfig, HeadConfig } from "vitepress";
 import {
   buildSidebar,
@@ -6,6 +8,27 @@ import {
   ZH_LABELS,
   TA_LABELS,
 } from "./sidebar";
+
+let socialManifest: Record<
+  string,
+  {
+    route: string;
+    image: string;
+    url: string;
+    ogLocale: string;
+    title: string;
+    description: string;
+  }
+> = {};
+
+const manifestPath = path.resolve(__dirname, ".generated/social-images.json");
+if (fs.existsSync(manifestPath)) {
+  try {
+    socialManifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+  } catch (e) {
+    // Ignore if not yet generated
+  }
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -21,31 +44,55 @@ export default defineConfig({
       pageData.frontmatter.description ||
       "Documenting MYSverse, one experience at a time";
 
+    let pageRecord = socialManifest[pageData.relativePath];
+    if (!pageRecord) {
+      if (pageData.relativePath === "404.md" && socialManifest["index.md"]) {
+        pageRecord = socialManifest["index.md"];
+      } else {
+        pageRecord = {
+          route: "/",
+          image: "/social/index.jpg",
+          url: "https://mys.wiki/social/index.jpg",
+          ogLocale: "en_MY",
+          title,
+          description,
+        };
+      }
+    }
+
+    const cleanRoute =
+      pageData.relativePath === "404.md"
+        ? "https://mys.wiki/404"
+        : `https://mys.wiki${pageRecord.route}`;
+
+    const imageUrl = pageRecord.url;
+    const ogLocale = pageRecord.ogLocale;
+    const imageAlt = `MYSverse Wiki — ${title}`;
+
     head.push(["meta", { property: "og:title", content: title }]);
     head.push(["meta", { property: "og:description", content: description }]);
+    head.push(["meta", { property: "og:url", content: cleanRoute }]);
+    head.push(["meta", { property: "og:type", content: "website" }]);
+    head.push(["meta", { property: "og:site_name", content: "MYSverse Wiki" }]);
+    head.push(["meta", { property: "og:locale", content: ogLocale }]);
+    head.push(["meta", { property: "og:image", content: imageUrl }]);
+    head.push(["meta", { property: "og:image:secure_url", content: imageUrl }]);
+    head.push(["meta", { property: "og:image:type", content: "image/jpeg" }]);
+    head.push(["meta", { property: "og:image:width", content: "1200" }]);
+    head.push(["meta", { property: "og:image:height", content: "630" }]);
+    head.push(["meta", { property: "og:image:alt", content: imageAlt }]);
+
+    head.push(["meta", { name: "twitter:card", content: "summary_large_image" }]);
     head.push(["meta", { name: "twitter:title", content: title }]);
     head.push(["meta", { name: "twitter:description", content: description }]);
+    head.push(["meta", { name: "twitter:image", content: imageUrl }]);
+    head.push(["meta", { name: "twitter:image:alt", content: imageAlt }]);
+
+    head.push(["link", { rel: "canonical", href: cleanRoute }]);
 
     return head;
   },
-  head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }],
-    [
-      "meta",
-      { property: "og:image", content: "https://mys.wiki/opengraph-image.png" },
-    ],
-    ["meta", { property: "og:url", content: "https://mys.wiki" }],
-    ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:site_name", content: "MYSverse Wiki" }],
-    ["meta", { name: "twitter:card", content: "summary_large_image" }],
-    [
-      "meta",
-      {
-        name: "twitter:image",
-        content: "https://mys.wiki/opengraph-image.png",
-      },
-    ],
-  ],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   lastUpdated: true,
   cleanUrls: true,
   markdown: {
