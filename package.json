@@ -1,20 +1,25 @@
 {
   "devDependencies": {
     "@fontsource-variable/public-sans": "^5.3.0",
+    "@fontsource/noto-sans-sc": "^5.1.0",
+    "@fontsource/noto-sans-tamil": "^5.1.0",
     "gray-matter": "^4.0.3",
     "markdownlint-cli2": "^0.23.2",
     "motion-v": "^2.3.0",
+    "sharp": "^0.33.5",
     "vitepress": "2.0.0-alpha.17"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "generate:social": "node scripts/generate-social-images.mjs",
+    "check:social": "node scripts/check-social-images.mjs",
+    "docs:dev": "pnpm run generate:social && vitepress dev docs",
+    "docs:build": "pnpm run generate:social && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "format": "pnpm run format:markdown",
     "format:markdown": "node scripts/format-markdown.mjs",
     "lint:markdown": "markdownlint-cli2 \"**/*.md\" \"#node_modules/**\" && node scripts/lint-markdown.mjs",
     "lint:style": "node scripts/lint-style.mjs",
     "check-translations": "node scripts/check-translations.mjs",
-    "verify": "pnpm run lint:style && pnpm run lint:markdown && node scripts/check-links.mjs && pnpm run check-translations && pnpm docs:build"
+    "verify": "pnpm run lint:style && pnpm run lint:markdown && node scripts/check-links.mjs && pnpm run check-translations && pnpm run generate:social && pnpm docs:build && pnpm run check:social"
   }
 }
