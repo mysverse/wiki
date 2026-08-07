@@ -38,6 +38,8 @@ scripts/
   lint-style.mjs                 British English/sentence-case/player-facing style lint
   lint-markdown.mjs              Heading/table/container/whitespace lint
   check-links.mjs                Internal link integrity check
+  generate-social-images.mjs     Build-time social preview card image generator
+  check-social-images.mjs        Social preview cards & HTML metadata validator
 TRANSLATIONS.md                  Translation policy (human-facing)
 STYLE.md                         Hard player-facing and English style rules
 AGENTS.md                        ← you are here
@@ -186,7 +188,9 @@ pnpm run lint:style                        # British English/sentence-case/playe
 node scripts/lint-markdown.mjs             # exit 0
 node scripts/check-links.mjs               # exit 0
 pnpm run check-translations                # Fresh N / Stale 0 / Missing 0
+pnpm run generate:social                   # generate social preview cards & manifest
 pnpm docs:build                            # "build complete in Ns."
+pnpm run check:social                      # validate generated cards & HTML meta tags
 ```
 
 If any of these fail, fix before reporting completion. Do not report "done" with a stale translation count or a failing build.
