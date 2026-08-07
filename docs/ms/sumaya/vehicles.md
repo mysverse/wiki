@@ -2,7 +2,7 @@
 title: Kenderaan
 description: 'Kereta, bot, ambulans, pelancar, dan penyesuaian di Sumaya.'
 lang: ms
-translated_from_hash: 873c7ea9
+translated_from_hash: "506e4673"
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -46,7 +46,7 @@ Ini dilancarkan tanpa kos sewa atau beli:
 ### Kereta awam standard berbayar
 
 | Kenderaan | Sewa | Beli |
-|---------|-----:|----:|
+| --------- | -----: | ----: |
 | Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
 | Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
 | Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
@@ -84,7 +84,7 @@ Kedai termasuk pakej kenderaan akan datang yang belum tersedia untuk pembelian. 
 Pakej Classic Car Pack dan Retro Vehicles ialah pas kenderaan boleh dibeli yang aktif pada masa ini.
 
 | Kenderaan | Sewa | Beli |
-|---------|-----:|----:|
+| --------- | -----: | ----: |
 | Protan Saga 1985 | Percuma | Percuma |
 | Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
@@ -95,7 +95,7 @@ Pakej Classic Car Pack dan Retro Vehicles ialah pas kenderaan boleh dibeli yang 
 Bot pukat tunda dilancarkan di pelancar bot nelayan di dermaga, dan hanya muncul jika anda berdaftar masuk ke **Sektor Memancing**. Lihat [Memancing](/ms/sumaya/jobs-fishing).
 
 | Bot pukat tunda | Harga |
-|---------|-------|
+| --------- | ------- |
 | Bot Pukat Tunda Tahap 1 | Percuma (selagi anda bekerja syif memancing) |
 | Bot Pukat Tunda Tahap 2 | 25,000 Ringgit |
 | Bot Pukat Tunda Tahap 3 | 37,000 Ringgit |
@@ -107,7 +107,7 @@ Tahap yang lebih tinggi membawa lebih banyak ikan.
 Tersedia hanya jika anda berada dalam pasukan POLIS. Diakses melalui campuran **tahap pemain** dan **tahap sektor** (sektor POLIS).
 
 | Kenderaan | Tahap pemain | Tahap sektor | Harga |
-|---------|--------------|--------------|-------|
+| --------- | -------------- | -------------- | ------- |
 | Protan Wira MPV Polis | 1 | 1 | Percuma |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
@@ -120,7 +120,7 @@ Wira ialah kereta peronda permulaan anda. Civic ialah tahap tertinggi.
 Tersedia hanya pada pasukan BOMBA. Diakses melalui tahap sektor Bomba.
 
 | Kenderaan | Tahap sektor | Harga |
-|---------|--------------|-------|
+| --------- | -------------- | ------- |
 | Merze Atego LFRT | 1 | Percuma |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -134,7 +134,7 @@ LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. P360 Tanker ialah ken
 Tersedia hanya pada pasukan Kesihatan. Diakses melalui tahap sektor Kesihatan.
 
 | Kenderaan | Tahap sektor | Harga |
-|---------|--------------|-------|
+| --------- | -------------- | ------- |
 | Tayoti Hiace KKN Ambulance | 1 | Percuma |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |

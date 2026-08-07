@@ -30,14 +30,14 @@ If you are on a job team and try to open a civilian vehicle spawner, the game ma
 ### Free for everyone
 
 | Team | Description |
-|---|---|
+| --- | --- |
 | **Visitors** | The default team when you join. Great for roleplaying as a commuter or tourist. |
 | **Bus Driver** | Drive minivans and buses on scheduled routes. Free and open to everyone - a good entry point. |
 
 ### Unlocked by MYSverse community membership
 
 | Team | How to unlock |
-|---|---|
+| --- | --- |
 | **Malaysians** | Join the MYSverse Malaysian Community Roblox group (ID 1143446) at rank 1 or higher. Unlocks access to **Fishing** and **Checkout** job activities. |
 
 The Malaysians team is the community-role team, not a normal paid career branch. It is useful early because Fishing and Checkout are available before the level-locked job ladder.
@@ -45,7 +45,7 @@ The Malaysians team is the community-role team, not a normal paid career branch.
 ### Unlocked by level
 
 | Team | Level | Role |
-|---|---|---|
+| --- | --- | --- |
 | **Food Delivery** | 10 | Use your motorcycle to deliver food orders from shops to customers. |
 | **Waste Disposal** | 25 | Collect rubbish from bins and deliver to incineration stations. |
 | **Post Office** | 50 | Deliver letters and parcels for Pos Nasional. |
@@ -60,7 +60,7 @@ The Malaysians team is the community-role team, not a normal paid career branch.
 ### Unlocked by gamepass
 
 | Team | Role |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Drive passengers for fares. Unlocked by the Taxi Driver or Bandaraya gamepass. |
 | **KEMRonda** | Highway auxiliary police. Tow trucks, roadside assistance, placeable cones. |
 | **Bomba** | The Fire and Rescue Department. Fire trucks, spreaders, chainsaws, 999 fire response. |
@@ -72,7 +72,7 @@ See [Passes and Boosts](/lebuhraya/passes-and-boosts) for how to obtain gamepass
 ### System teams
 
 | Team | Description |
-|---|---|
+| --- | --- |
 | **Developers** | Internal team for MYSverse staff. Not joinable directly. |
 | **Arrested** | Assigned automatically when a player is arrested by Polis Trafik. |
 
@@ -116,7 +116,7 @@ Trainee Rider → Junior Rider → Rider → Senior Rider → Team Leader → Ar
 Teams are grouped into six agencies. This matters because some tier rewards (vehicles, cosmetics) are tied to the agency, not just the team.
 
 | Agency | Teams |
-|---|---|
+| --- | --- |
 | **Polis** | KEMRonda, Polis Trafik, Undercover Police |
 | **Kecemasan** (Emergency) | Bomba, Kesihatan |
 | **Pengangkutan** (Transport) | Bus Driver, Taxi Driver, Logistics |

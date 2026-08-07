@@ -35,7 +35,7 @@ Both sides of the handshake use the same 30-second timeout - if you miss it, jus
 The convoy bonus is added to your existing XP multiplier stack (see [Economy and XP](/lebuhraya/economy#the-xp-multiplier-stack)).
 
 | Component | Value |
-|---|---|
+| --- | --- |
 | Base convoy bonus | +15% |
 | Per additional member (after two) | +5% each |
 | Friend in the convoy | +10% |
@@ -56,8 +56,8 @@ Lebuhraya's emergency services are player-driven. Any player can call 999; emerg
 1. Open your **Phone** (topbar icon).
 2. Tap the **999** app.
 3. Select the incident type:
- - **Car Crash**
- - **Injured Person**
+   - **Car Crash**
+   - **Injured Person**
 4. Your call is broadcast to all on-duty emergency responders.
 
 Each active incident shows on responders' pagers with your location.
@@ -71,8 +71,8 @@ If you're on **Bomba**, **Polis Trafik**, **Undercover Police**, or **Kesihatan*
 3. Tap to accept an incident - it becomes your assigned case.
 4. Drive to the location.
 5. Resolve the incident according to its type:
- - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
- - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
+   - **Car Crash** - Use spreaders/chainsaws to free trapped drivers (Bomba), patch injuries (Kesihatan), manage the scene (Polis).
+   - **Injured Person** - Stabilise and transport to the hospital (Kesihatan).
 6. Once you're on-scene and the minimum response window (**30 seconds**) has passed, resolve the incident for rewards.
 
 ### Limits
@@ -177,7 +177,7 @@ Having a suspended licence doesn't technically stop you from driving, but it's a
 Some temporary advantages come from **tokens** - consumable boost items in your inventory.
 
 | Token | Effect |
-|---|---|
+| --- | --- |
 | **2× XP Boost** | Doubles your XP multiplier for a set duration |
 | **2× Season Pass Boost** | Doubles Season Pass XP progression (when a season is active) |
 | **Team Access Pass** | Grants temporary access to a gamepass-gated team without owning the gamepass |

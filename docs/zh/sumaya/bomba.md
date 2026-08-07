@@ -2,7 +2,7 @@
 title: 消防
 description: 在 Sumaya 扮演 BOMBA - 消防车、消火栓与火灾响应。
 lang: zh
-translated_from_hash: 1dd820f0
+translated_from_hash: 71946b02
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -78,7 +78,7 @@ Hydrant 固定在地图各处。当前地图只有少数 hydrant，不足以覆�
 Bomba 车辆随你的部门等级提升而解锁。
 
 | 车辆 | 所需部门等级 | 价格 |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Merze Atego LFRT | 1 | 免费 |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -94,7 +94,7 @@ Bomba 车辆随你的部门等级提升而解锁。
 Bomba 有 13 个警衔,基于 MYSverse 真实的消防与救援部门(Bomba MYSverse)。你的头衔会随着部门等级上升而自动更新。
 
 | 等级 | 警衔 |
-|-------|------|
+| ------- | ------ |
 | 1 | Pegawai Bomba (PB) |
 | 6 | Pegawai Bomba Kanan (PBK) |
 | 11 | Pegawai Bomba Tinggi (PBT) |

@@ -31,6 +31,7 @@ Semua harga dalam **BR (Bandar Ringgit)**.
 ## Rangkaian
 
 ### MRT Laluan Kajang
+
 Tiga stesen; fast travel berjalan kaki antara mereka.
 
 - **Conlay**
@@ -38,6 +39,7 @@ Tiga stesen; fast travel berjalan kaki antara mereka.
 - **Ampang Park**
 
 ### Laluan KL Monorail
+
 Tiga lagi stesen di laluan berasingan.
 
 - **Bukit Bintang**
@@ -45,9 +47,11 @@ Tiga lagi stesen di laluan berasingan.
 - **Bukit Nanas**
 
 ### Bas
+
 Dikendalikan oleh beberapa operator di sekitar bandar - **MyTransit**, **FirstGroup**, dan **Fermuda**. Cari tempat duduk penumpang pada model bas bertag; tambang dicaj secara automatik apabila anda duduk.
 
 ### Lebuh raya
+
 Sesetengah laluan lebuh raya melalui **pintu tol TapNGo**. Kenderaan anda dicaj 15 BR setiap pintu, atau 12 BR jika anda memiliki kad CAG.
 
 ---

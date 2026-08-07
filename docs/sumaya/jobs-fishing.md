@@ -27,7 +27,7 @@ Equip the rod, aim at water within **80 studs**, and cast. There's roughly a **1
 Sumaya has **5 species** of fish you can catch with the rod:
 
 | Fish | XP | Ringgit |
-|------|-----|---------|
+| ------ | ----- | --------- |
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
 | Patin | 15 | 8 |
@@ -54,7 +54,7 @@ The numbers look small, but trawlers hold a lot of fish, and sector XP lets you 
 ### Trawler boats
 
 | Tier | Price | How to get |
-|------|-------|------------|
+| ------ | ------- | ------------ |
 | Tier 1 Trawler | Free while you're on a fishing shift | Spawn at any fishing-boat spawner |
 | Tier 2 Trawler | 25,000 Ringgit to buy | Earn and save up |
 | Tier 3 Trawler | 37,000 Ringgit to buy | For serious fishing enthusiasts |

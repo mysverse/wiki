@@ -165,6 +165,7 @@ needs_review: true
 **Orwell CCTV System** - KL 各处共有 **30 个摄像头** (已验证)，由 IPD Dang Wangi 内的 CCTV 桌控制。包含 PTZ (pan-tilt-zoom)、bullet cameras，以及 DME / HEROS 系列固定摄像头。
 
 覆盖范围包括受真实 KL 启发的地点：
+
 - **Menara Maxis pickup** 与 Jalan Lorong Kuda × Jalan Stonor
 - **Pavilion Bukit Bintang** 与 Jalan Bukit Bintang × Jalan Sultan Ismail
 - **Ampang Road / KLBT** (双向)

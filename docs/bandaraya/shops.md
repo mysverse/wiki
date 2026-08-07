@@ -12,7 +12,7 @@ Bandaraya has a rich in-game economy centred around the **Bandaraya Ringgit (BR)
 ### Jobs & income
 
 | Job | Team Required | Description |
-|---|---|---|
+| --- | --- | --- |
 | Pos Nasional | None (any team) | Deliver packages at the post office. Progress through ranks to unlock new delivery vehicles. |
 | Taxi Driver | Taxi (gamepass) | Transport players around the city for fare income. |
 | Team Salary | Agency teams | Periodic salary payments based on your active team (Police, Military, Bomba, etc.). |
@@ -31,7 +31,7 @@ NPC-operated shops are located throughout the city. Walk up to a shop's red butt
 Snacks and drinks at affordable prices - perfect for roleplay.
 
 | Item | Price (BR) |
-|---|---|
+| --- | --- |
 | Mineral Water | 2 |
 | Double Decker | 3 |
 | Super Ring | 3 |
@@ -55,7 +55,7 @@ A Malaysian-style tea and coffee shop with an ice cream machine and cosy seating
 Drinks served at Club Kunyet nightclub:
 
 | Drink | Price (BR) |
-|---|---|
+| --- | --- |
 | Hong's Green Tea | 20 |
 | Fruit Punch | 20 |
 | Inzun's Coffee | 25 |
@@ -75,7 +75,7 @@ A grocery store offering various food and household items.
 ### Toolkit Shop
 
 | Item | Price (BR) | Description |
-|---|---|---|
+| --- | --- | --- |
 | Toolkit | 100 | Repairs a disabled vehicle (2 uses). Click the button on the engine to fix. |
 | Jerrycan | 800 | Refuel a vehicle. |
 
@@ -100,7 +100,7 @@ You must own the **Firearms Licence** gamepass to purchase from the Gun Dealer.
 :::
 
 | Weapon | Price (BR) |
-|---|---|
+| --- | --- |
 | QSZ92 | 5,000 |
 | CZ-75 | 7,500 |
 | Colt M1911 | 8,500 |
@@ -123,7 +123,7 @@ A shady NPC who sells a hacking **Device** for BR 5,000. Use it for illicit acti
 Deposit your BR into a secure Vastrix bank account at ATM terminals located throughout the city:
 
 | Deposit Amount | Cost (BR) |
-|---|---|
+| --- | --- |
 | BR 1,000 | 1,000 |
 | BR 5,000 | 5,000 |
 | BR 10,000 | 10,000 |
@@ -136,7 +136,7 @@ Gamepasses are purchased with Robux through the main menu **Shop** tab and provi
 ### Key gamepasses
 
 | Gamepass | Description |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Access the Taxi team and earn fares by driving passengers. |
 | **Firearms Licence** | Purchase firearms from the Gun Dealer. |
 | **Boombox** | Play music for yourself and nearby players. |

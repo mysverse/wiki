@@ -2,7 +2,7 @@
 title: Ciri Sosial
 description: 'Convoy, Kecemasan 999, dan telefon dalam permainan di Lebuhraya.'
 lang: ms
-translated_from_hash: bf338368
+translated_from_hash: 499d3ad4
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -38,7 +38,7 @@ Kedua-dua pihak handshake menggunakan tamat masa 30 saat yang sama, jika anda te
 Bonus konvoi ditambah kepada tindanan pengganda XP sedia ada anda (lihat [Ekonomi dan XP](/ms/lebuhraya/economy#the-xp-multiplier-stack)).
 
 | Komponen | Nilai |
-|---|---|
+| --- | --- |
 | Bonus konvoi asas | +15% |
 | Setiap ahli tambahan (selepas dua) | +5% setiap satu |
 | Rakan dalam konvoi | +10% |
@@ -59,8 +59,8 @@ Perkhidmatan kecemasan Lebuhraya dipacu oleh pemain. Mana-mana pemain boleh mema
 1. Buka **Telefon** anda (ikon bar atas).
 2. Ketik aplikasi **999**.
 3. Pilih jenis insiden:
- - **Car Crash**
- - **Injured Person**
+   - **Car Crash**
+   - **Injured Person**
 4. Panggilan anda disiarkan kepada semua responden kecemasan yang bertugas.
 
 Setiap insiden aktif ditunjukkan pada pager responden bersama lokasi anda.
@@ -74,8 +74,8 @@ Jika anda berada dalam **Bomba**, **Polis Trafik**, **Undercover Police**, atau 
 3. Ketik untuk menerima insiden, ia menjadi kes yang ditugaskan kepada anda.
 4. Pandu ke lokasi.
 5. Selesaikan insiden mengikut jenisnya:
- - **Car Crash**: Gunakan spreader/chainsaw untuk membebaskan pemandu yang terperangkap (Bomba), tampal kecederaan (Kesihatan), urus tempat kejadian (Polis).
- - **Injured Person**: Stabilkan dan bawa ke hospital (Kesihatan).
+   - **Car Crash**: Gunakan spreader/chainsaw untuk membebaskan pemandu yang terperangkap (Bomba), tampal kecederaan (Kesihatan), urus tempat kejadian (Polis).
+   - **Injured Person**: Stabilkan dan bawa ke hospital (Kesihatan).
 6. Setelah anda berada di tempat kejadian dan tetingkap respons minimum (**30 saat**) telah berlalu, selesaikan insiden untuk ganjaran.
 
 ### Had
@@ -180,7 +180,7 @@ Memiliki lesen yang digantung secara teknikal tidak menghalang anda daripada mem
 Sesetengah kelebihan sementara datang daripada **token**, item boost yang boleh dimakan dalam inventori anda.
 
 | Token | Kesan |
-|---|---|
+| --- | --- |
 | **2× XP Boost** | Menggandakan pengganda XP anda untuk tempoh yang ditetapkan |
 | **2× Season Pass Boost** | Menggandakan kemajuan XP Season Pass (apabila musim aktif) |
 | **Team Access Pass** | Memberikan akses sementara kepada pasukan yang dikunci gamepass tanpa memiliki gamepass |

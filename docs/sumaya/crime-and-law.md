@@ -16,7 +16,7 @@ Every crime you commit adds **offence points**. The more points, the more **want
 ### Wanted star thresholds
 
 | Offence points | Wanted stars |
-|----------------|--------------|
+| ---------------- | -------------- |
 | 0-24 | None |
 | 25-59 | 1 star |
 | 60-119 | 2 stars |
@@ -35,11 +35,13 @@ If you manage to lay low (no new offences) for **5 minutes straight**, your want
 Steal someone else's parked vehicle.
 
 **What you need:**
+
 - A **Slim Jim** tool (free from the **Abang Samseng (Carjack)** NPC - find him on the map and hold the proximity prompt). The Slim Jim is **consumed** on use, so you'll need to go back for another one per carjack.
 - You can't be on a law-enforcement team.
 - You can't be in passive mode, arrested, or detained.
 
 **How it works:**
+
 1. Approach a parked, unoccupied vehicle with the Slim Jim equipped.
 2. Hold F (or the mobile equivalent) for **3 seconds** within 10 studs of the driver's seat.
 3. The vehicle is now stolen - yours to drive.
@@ -49,6 +51,7 @@ Steal someone else's parked vehicle.
 **Reward:** **500 to 1,200 Ringgit** (random, paid to your bank account).
 
 **Limits:**
+
 - Stolen vehicles auto-despawn after **5 minutes**. You'll get warnings at 60 seconds and 10 seconds remaining.
 - You can only have **one stolen vehicle at a time**.
 - After carjacking once, you're on a **5-minute personal cooldown** before you can carjack again.
@@ -62,9 +65,11 @@ Steal someone else's parked vehicle.
 Steal Ringgit directly from another player's wallet.
 
 **What you need:**
+
 - A **Pickpocket Knife** tool (free from the **Abang Samseng (Pickpocket)** NPC - hold the proximity prompt to "Take Pickpocket Knife", ~1.5 seconds).
 
 **How it works:**
+
 1. Equip the **Pickpocket Knife** tool.
 2. Get within **8 studs** of your target.
 3. Hold the action for **2 seconds** without being spotted.
@@ -73,6 +78,7 @@ Steal Ringgit directly from another player's wallet.
 **Reward:** **80 to 300 Ringgit** (random amount, from the victim's wallet).
 
 **Limits:**
+
 - Once you pickpocket someone, there's a **30-second cooldown** before you can pickpocket again.
 - The victim has a **60-second cooldown** where they can't be pickpocketed again.
 - There's a **180-second recovery window** where the victim may be able to report / reclaim.
@@ -94,6 +100,7 @@ NPC pickpocketing also costs offence points, but NPCs can't chase or report you,
 Smuggle illegal wildlife across Sumaya for a cash payout.
 
 **How it works:**
+
 1. Find the **criminal NPC** standing at the "criminal part" (rotates around the map every 3 minutes - look for the highlighted spawn).
 2. Accept the job through the prompt.
 3. An illegal animal tool is given to you.
@@ -103,7 +110,7 @@ Smuggle illegal wildlife across Sumaya for a cash payout.
 **Animals available:**
 
 | Animal | Payout (to bank) |
-|--------|------------------|
+| -------- | ------------------ |
 | Illegal Turtle Egg | 400 Ringgit |
 | Illegal Pangolin | 1,000 Ringgit |
 | Illegal Hornbill | 2,000 Ringgit |
@@ -111,6 +118,7 @@ Smuggle illegal wildlife across Sumaya for a cash payout.
 The animal you get is random.
 
 **Limits:**
+
 - 3-minute cooldown between jobs.
 - You need to get the animal to the destination - can't drop it or get arrested mid-way.
 
@@ -121,7 +129,7 @@ The animal you get is random.
 A few other actions add offence points even if they're not really "crime sprees":
 
 | Offence | Points | Passive lock |
-|---------|--------|--------------|
+| --------- | -------- | -------------- |
 | Vehicle crash (hitting another player or parked car) | 5 | 30 seconds |
 | Speeding inside a speed trap zone | 10 | 60 seconds |
 
@@ -143,7 +151,7 @@ If a POLIS player successfully uses handcuffs on you while you're wanted, you're
 ### Jail duration
 
 | Wanted stars at arrest | Jail time |
-|------------------------|-----------|
+| ------------------------ | ----------- |
 | 1 | 30 seconds |
 | 2 | 1 minute |
 | 3 | 2 minutes |
@@ -161,7 +169,7 @@ If a POLIS player successfully uses handcuffs on you while you're wanted, you're
 Instead of running from the cops, you can walk up to a **surrender prompt** (usually near police stations or public locations) and turn yourself in. This cuts your jail time roughly in half:
 
 | Stars | Jail time if surrendered | Passive lock after release |
-|-------|---------------------------|----------------------------|
+| ------- | --------------------------- | ---------------------------- |
 | 1 | 15 seconds | 1 minute |
 | 2 | 30 seconds | 2 minutes |
 | 3 | 1 minute | 4 minutes |
@@ -175,7 +183,7 @@ Passive lock means you can't toggle passive mode for that duration after release
 If you log out while wanted, you'll serve **more** jail time on your next session:
 
 | Stars | LTAA jail time |
-|-------|----------------|
+| ------- | ---------------- |
 | 1 | 45 seconds |
 | 2 | 90 seconds |
 | 3 | 150 seconds |
@@ -196,7 +204,7 @@ The moment a POLIS officer **tases** you or **detains** you, you enter a **30-se
 **Dying or leaving during this window** routes you to a **combat-evasion jail** that's *double* the regular LTAA duration - strictly worse than serving out a clean arrest:
 
 | Stars | Combat-evasion jail | (vs. regular LTAA) |
-|-------|---------------------|--------------------|
+| ------- | --------------------- | -------------------- |
 | 1 | 60 seconds | 45 s |
 | 2 | 2 minutes | 90 s |
 | 3 | 4 minutes | 150 s |

@@ -12,7 +12,7 @@ They are good when you want variety, a quick Ringgit burst, or a job that sends 
 ## Gig types
 
 | Gig | What you do | Base reward |
-|-----|-------------|-------------|
+| ----- | ------------- | ------------- |
 | E-Hailing | Pick up and drop off a passenger | 40 SR, 8 XP, possible 30% tip |
 | Pos Nasional | Deliver parcels | 35 SR and 7 XP per parcel, possible 10% tip |
 | Tow Truck | Recover or move a vehicle | 80 SR, 12 XP, possible 20% tip |

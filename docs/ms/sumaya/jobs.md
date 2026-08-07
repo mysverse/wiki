@@ -4,7 +4,7 @@ description: >-
   Tiga sektor kerjaya awam di Sumaya - memancing, perkhidmatan, dan kelapa
   sawit.
 lang: ms
-translated_from_hash: 73b13889
+translated_from_hash: 628ffec0
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -31,7 +31,7 @@ Sektor ialah kategori pekerjaan. Setiap sektor mempunyai:
 Terdapat tiga **sektor awam** utama:
 
 | Sektor | Tugas anda | Tahap maksimum | Syarat permulaan |
-|--------|-------------|-----------|-------------------|
+| -------- | ------------- | ----------- | ------------------- |
 | Memancing | Memancing dengan joran di jeti atau menjala dengan bot | 100 | Tiada |
 | Perkhidmatan (Mamak / Fast Food) | Menghidang makanan, mengambil pesanan | 100 | Capai tahap sektor 50 dalam memancing atau pertanian |
 | Pertanian (kelapa sawit) | Menuai tandan buah kelapa sawit | 100 | Tiada (tersedia serta-merta) |

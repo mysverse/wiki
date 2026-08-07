@@ -47,7 +47,7 @@ There are two kinds of XP:
 **Job XP (active).** Each completed job action awards a chunk of XP.
 
 | Job | XP reward |
-|---|---|
+| --- | --- |
 | Food Delivery | **250 XP** per delivery |
 | Taxi | Varies - about **0.11 to 0.13 XP per stud** of the trip (a 4000-stud trip = 440 to 520 XP) |
 | Other jobs | See [Jobs](/lebuhraya/jobs) for per-job details |
@@ -57,7 +57,7 @@ There are two kinds of XP:
 Multiple bonuses stack **additively** on top of your base ×1 multiplier. The final multiplier is applied to every XP award.
 
 | Source | Bonus |
-|---|---|
+| --- | --- |
 | Double XP weekend (periodic events) | Multiplier set to ×2 |
 | XP Boost gamepass | +50% |
 | Roblox Premium membership | +25% |

@@ -167,6 +167,7 @@ Menara KL yang mudah dikenali ini diwakili dengan tepat:
 **Orwell CCTV System** - **30 kamera** (disahkan) merentas KL, dikawal dari meja CCTV di dalam IPD Dang Wangi. Campuran PTZ (pan-tilt-zoom), bullet cameras, dan kamera tetap siri DME / HEROS.
 
 Liputan termasuk lokasi yang diinspirasikan oleh KL sebenar:
+
 - **Menara Maxis pickup** dan Jalan Lorong Kuda × Jalan Stonor
 - **Pavilion Bukit Bintang** dan Jalan Bukit Bintang × Jalan Sultan Ismail
 - **Ampang Road / KLBT** (kedua-dua arah)

@@ -2,7 +2,7 @@
 title: 医护
 description: 在 Sumaya 扮演 Kesihatan - 救护车、治疗与复苏。
 lang: zh
-translated_from_hash: bb22aefd
+translated_from_hash: 6e8075e7
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -38,7 +38,7 @@ Kesihatan 的核心玩法是治疗**伤势** - 玩家或 NPC 遭受的、无法�
 ### 伤势类型
 
 | 伤势 | 是什么 | 治疗 |
-|--------|------------|-----------|
+| -------- | ------------ | ----------- |
 | 轻微割伤 / 瘀伤 | 擦伤、小伤口 | Bandage |
 | Broken arm | 减慢手部动画，影响某些工具 | Splint |
 | Broken leg | 将走路速度降低至 30% | Splint |
@@ -91,7 +91,7 @@ TBI 是最严重的伤势。治疗需要病人**躺在医疗床上**约 **30 sec
 ## 奖励摘要
 
 | 行动 | XP | Ringgit |
-|--------|-----|---------|
+| -------- | ----- | --------- |
 | 急救诊断 | 15 | 0 |
 | Bandage 治疗 | 30 | 100 |
 | Splint 治疗 | 40 | 200 |
@@ -107,7 +107,7 @@ TBI 是最严重的伤势。治疗需要病人**躺在医疗床上**约 **30 sec
 Kesihatan 救护车随你的 sector 等级提升而解锁。
 
 | 车辆 | 所需 sector 等级 | 价格 |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Tayoti Hiace KKN Ambulance | 1 | 免费 |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
@@ -121,7 +121,7 @@ KKN 代表 Kementerian Kesihatan Nasional（National Ministry of Health）。每
 Kesihatan 有 13 个阶级，大致基于实际马来西亚医疗职位。当你的 sector 等级提升时，你的头衔会自动更新。
 
 | 等级 | 阶级 |
-|-------|------|
+| ------- | ------ |
 | 1 | Medical Trainee |
 | 6 | House Officer |
 | 11 | Nurse |

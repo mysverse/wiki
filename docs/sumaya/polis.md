@@ -12,7 +12,7 @@ description: "Playing POLIS in Sumaya - patrols, arrests, ranks, and equipment."
 Pick **POLIS** on the main menu. Your starting kit is 5 tools:
 
 | Tool | What it does |
-|------|--------------|
+| ------ | -------------- |
 | **Taser X26P** | Non-lethal takedown weapon with limited cartridges. Fire at suspects to incapacitate them for arrest. |
 | **Radar Gun** | Manual speed capture tool. See [Speed traps and radar](#speed-traps-and-radar). |
 | **Whistle** | Crowd / traffic signalling. |
@@ -28,7 +28,7 @@ Some traffic and crime-scene props are being prepared for future POLIS play. The
 Two future POLIS specialisations are listed as coming soon:
 
 | Specialisation | Current player-facing status |
-|---|---|
+| --- | --- |
 | **Traffic POLIS Role** | Coming soon. Planned around radar and road-control props. |
 | **Unmarked POLIS Role** | Coming soon. Planned around concealed identity and plate checks. |
 
@@ -41,7 +41,7 @@ Head to the police station for vehicles, or patrol the streets and watch for wan
 Civilians accumulate **offence points** whenever they commit crimes. Total offence points determine their **wanted star level**:
 
 | Points | Wanted stars |
-|--------|--------------|
+| -------- | -------------- |
 | 0-24 | None |
 | 25-59 | 1 star |
 | 60-119 | 2 stars |
@@ -54,7 +54,7 @@ Higher-star suspects are harder to arrest but pay more when you do.
 ### What gives offence points?
 
 | Crime | Points |
-|-------|--------|
+| ------- | -------- |
 | Vehicle crash (hitting someone) | 5 |
 | Speeding | 10 |
 | Pickpocket | 20 |
@@ -90,6 +90,7 @@ The basic flow:
 ### The detain phase
 
 Before final arrest, suspects enter a **detained** state. Once detained:
+
 - They follow you at a **4-stud offset**, clamped to within **20 studs maximum** (they can't wander off).
 - A **60-second detain timeout** kicks in - if you don't complete the arrest within 60 s, the detain releases automatically.
 - While detained, they can still try to **surrender** at a prompt to cut their own jail time in half.
@@ -101,7 +102,7 @@ Detain is useful when you want to walk a suspect to a specific location (police 
 Rewards scale by the suspect's star level at time of arrest:
 
 | Stars | XP | Ringgit (wallet) |
-|-------|-----|------------------|
+| ------- | ----- | ------------------ |
 | 1 | 50 | 150 |
 | 2 | 100 | 300 |
 | 3 | 175 | 500 |
@@ -121,7 +122,7 @@ Every **5 arrests** you make, you get a **+200 Ringgit** bonus on top of the arr
 When you arrest someone, they're sent to jail. Jail duration depends on their wanted stars at arrest time:
 
 | Stars | Jail time |
-|-------|-----------|
+| ------- | ----------- |
 | 1 | 30 seconds |
 | 2 | 1 minute |
 | 3 | 2 minutes |
@@ -139,7 +140,7 @@ While jailed:
 Criminals can choose to **surrender** at a designated prompt before getting caught. Surrender halves the jail time, and gets them out cleaner:
 
 | Stars | Surrender jail time | Passive lock after release |
-|-------|---------------------|----------------------------|
+| ------- | --------------------- | ---------------------------- |
 | 1 | 15 sec | 60 sec |
 | 2 | 30 sec | 2 min |
 | 3 | 1 min | 4 min |
@@ -153,7 +154,7 @@ Passive lock means they can't re-enable passive mode immediately after release -
 If a wanted player logs out mid-offence, they're hit with a **worse** jail time on return:
 
 | Stars | LTAA jail time |
-|-------|----------------|
+| ------- | ---------------- |
 | 1 | 45 sec |
 | 2 | 90 sec |
 | 3 | 150 sec |
@@ -203,7 +204,7 @@ Because zone limits sit at 60-80 studs/s and the radar only registers at 200+ st
 Polis vehicles unlock based on a mix of **player level** and **sector level**.
 
 | Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
+| --------- | -------------- | -------------- | ------- |
 | Protan Wira MPV Polis | 1 | 1 | Free |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
@@ -220,7 +221,7 @@ See [Vehicles](/sumaya/vehicles) for details.
 Polis has **16 ranks**, the most of any emergency service. Titles are based on real Polis MYSverse ranks (POLIS).
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Police Constable |
 | 6 | Lance Corporal (L/Cpl) |
 | 11 | Corporal (Cpl) |

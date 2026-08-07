@@ -2,7 +2,7 @@
 title: 紧急服务概览
 description: POLIS、BOMBA 与 Kesihatan - Sumaya 的紧急服务介绍。
 lang: zh
-translated_from_hash: 29d9af6e
+translated_from_hash: af07fb03
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -21,7 +21,7 @@ Sumaya 有三支紧急服务队伍:
 ## 紧急服务与平民工作有什么不同?
 
 | | 平民职业 | 紧急服务 |
-|---|------------------|---------------------|
+| --- | ------------------ | --------------------- |
 | 如何加入 | 手机上的 Careers 应用 | 主菜单队伍选择 |
 | 最高领域等级 | 100 (每个平民领域 - fishing、service、agro) | 100 |
 | 每次行动的 XP | 固定 (Service 每位顾客 6,Agro 每个水果 6,Trawl 每条鱼 2,Rod 每条鱼 15) - 无等级缩放 | 每次行动固定 (Bomba 每块 5,Kesihatan 每次治疗 15-40,Polis 50-400 按星级缩放) |

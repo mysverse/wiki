@@ -67,7 +67,7 @@ A future **Income / Job XP Booster** pass is visible in the Shop as a disabled *
 It does **not** boost player-level XP, quest rewards, crime payouts, ATM transfers, Sadaqa/donations, refunds, or house/vehicle/shop transactions.
 
 | Source | Ringgit |
-|--------|---------|
+| -------- | --------- |
 | Rod fishing (per species sold) | 8 SR to wallet |
 | Trawl fishing (per fish) | 0.5 SR, paid as end-of-shift paycheck |
 | Mamak (per customer) | 30 SR to bank, +180 every 10, -25 wrong-order |
@@ -93,7 +93,7 @@ It does **not** boost player-level XP, quest rewards, crime payouts, ATM transfe
 Higher risk, higher reward. Rewards go to your bank.
 
 | Crime | Ringgit |
-|-------|---------|
+| ------- | --------- |
 | Carjacking drop-off | 500 - 1,200 SR (random) to bank |
 | Pickpocket (player) | 80 - 300 SR to wallet (from victim) |
 | Pickpocket (NPC) | 50 - 200 SR per NPC |

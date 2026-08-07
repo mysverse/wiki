@@ -2,7 +2,7 @@
 title: Glosari
 description: Perkataan Malay dan istilah dalam permainan untuk pemain Sumaya.
 lang: ms
-translated_from_hash: c7de531d
+translated_from_hash: 22d680af
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,7 +17,7 @@ Senarai rujukan perkataan Malaysia (Melayu) dan istilah permainan khusus Sumaya.
 Perkataan ini berasal daripada kosa kata harian Malaysia/Melayu. Anda akan melihatnya di seluruh permainan.
 
 | Istilah | Maksud | Kegunaan dalam permainan |
-|------|---------|------------|
+| ------ | --------- | ------------ |
 | **Ringgit** | Mata wang Malaysia (dunia sebenar: MYR). | Mata wang dalam permainan Sumaya. Disingkatkan sebagai **SR** dalam UI (Sumaya Ringgit). |
 | **Bomba** | Pasukan bomba (daripada perkataan Melayu berasal Portugis). | Salah satu pasukan perkhidmatan kecemasan - ahli bomba. |
 | **Kesihatan** | Kesihatan / perubatan. | Pasukan perkhidmatan kecemasan perubatan / paramedik. |
@@ -47,7 +47,7 @@ Perkataan ini berasal daripada kosa kata harian Malaysia/Melayu. Anda akan melih
 Singkatan ini muncul dalam pangkat Bomba:
 
 | Singkatan | Maksud |
-|--------------|---------|
+| -------------- | --------- |
 | PB | Pegawai Bomba |
 | PBK | Pegawai Bomba Kanan |
 | PBT | Pegawai Bomba Tinggi |
@@ -64,7 +64,7 @@ Singkatan ini muncul dalam pangkat Bomba:
 Untuk Polis, singkatan adalah berdasarkan inisial pangkat MYSverse Police (POLIS):
 
 | Singkatan | Maksud |
-|--------------|---------|
+| -------------- | --------- |
 | L/Cpl | Lans Koperal |
 | Cpl | Koperal |
 | Sgt | Sarjan |
@@ -84,7 +84,7 @@ Untuk Polis, singkatan adalah berdasarkan inisial pangkat MYSverse Police (POLIS
 ## Istilah khusus permainan
 
 | Istilah | Definisi |
-|------|------------|
+| ------ | ------------ |
 | **SR** | Sumaya Ringgit - singkatan mata wang dalam permainan. Sama seperti "Ringgit". |
 | **Wallet** | Wang tunai anda yang boleh diakses serta-merta. Boleh dicuri melalui pickpocket. |
 | **Bank** | Simpanan selamat anda. Tidak boleh dicuri. Diakses melalui ATM. |
@@ -129,7 +129,7 @@ Untuk Polis, singkatan adalah berdasarkan inisial pangkat MYSverse Police (POLIS
 ## Singkatan yang biasa dilihat
 
 | Singkatan | Maksud |
-|--------|---------|
+| -------- | --------- |
 | SR | Sumaya Ringgit (mata wang) |
 | XP | Mata pengalaman |
 | POI | Tempat Menarik (Point of Interest, pada minimap) |

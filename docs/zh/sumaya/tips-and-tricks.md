@@ -2,7 +2,7 @@
 title: 小贴士
 description: Sumaya 的隐藏互动、移动端小窍门与高手建议。
 lang: zh
-translated_from_hash: "387ac7a5"
+translated_from_hash: "78c20f95"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -49,6 +49,7 @@ needs_review: true
 新玩家**默认以被动模式生成** -  - 你是无敌的,直到你刻意关闭它(或者拿起 Slim Jim / Pickpocket Knife,这会自动将你从被动模式中移除)。一旦关闭,它会保持关闭直到你再次切换。
 
 **你无法重新启用被动模式如果:**
+
 - 你正在持有犯罪工具(先丢掉它)。
 - 你目前被通缉(等待 5 分钟的衰减)。
 - 你是 POLIS 警官(警察永远不会被动 -  - 这是团队属性)。

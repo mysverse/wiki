@@ -21,7 +21,7 @@ Each card shows a title, a short description, and either a **Purchase** button o
 ### What's purchasable right now
 
 | Item | Type | What you get |
-|------|------|--------------|
+| ------ | ------ | -------------- |
 | **Retro Vehicles** | Gamepass | Unlocks the classic / retro car pack at the standard civilian dealer: **Protan Saga 1985** (free), **Merzda Miata** (12,000 SR), **Nisun S15 Silvia** (20,000 SR), **Joguar XJ308 R** (29,000 SR). Non-owners can see the cards locked behind a gamepass prompt. See [Vehicles](/sumaya/vehicles). |
 
 ### Coming soon
@@ -29,7 +29,7 @@ Each card shows a title, a short description, and either a **Purchase** button o
 These cards are visible in the shop now but the purchase button is disabled. They'll go live when the team finalises the gamepass / product IDs.
 
 | Item | Type | Planned effect |
-|------|------|----------------|
+| ------ | ------ | ---------------- |
 | **Income / Job XP Booster** | Gamepass | +25% job Ringgit and +25% job-sector XP on eligible careers and public-service work. Does **not** boost player-level XP, quest rewards, crime payouts, ATM transfers, donations/Sadaqa, refunds, or shop / vehicle / house purchases. See [Economy](/sumaya/economy) for the full eligibility list. |
 | **Car Radio / Boombox** | Gamepass | Curated in-car radio and a proximity boombox. Custom audio IDs stay disabled. |
 | **Premium EV Vehicles** | Gamepass | Adds the premium electric vehicle pack to the civilian dealer. |
@@ -73,7 +73,7 @@ Prices range from 1 to 5 SR per item.
 Sells refuel cans for fishing trawlers. Cars do not need refuelling.
 
 | Can | Refill | Price |
-|-----|--------|-------|
+| ----- | -------- | ------- |
 | Red | +25 fuel | 75 SR |
 | Green | +50 fuel | 100 SR |
 | Black | +75 fuel | 125 SR |

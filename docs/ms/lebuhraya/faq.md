@@ -2,7 +2,7 @@
 title: Soalan Lazim & Petua
 description: Soalan biasa dan kemenangan pantas untuk pemain Lebuhraya yang baharu.
 lang: ms
-translated_from_hash: 9a52e17a
+translated_from_hash: 562d400d
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -149,14 +149,14 @@ Buka sistem **Laporan** dalam permainan dan terangkan perkara yang berlaku, di m
 
 ### Adakah terdapat mod pemain tunggal / peribadi?
 
-Ya - **pelayan peribadi** tersedia (beli dari halaman pengalaman Roblox). Lihat bahagian **[Pelayan peribadi](#private-servers)** khusus di bawah untuk semua yang pemilik dapat, kes penggunaan biasa dan pengehadan.
+Ya - **pelayan peribadi** tersedia (beli dari halaman pengalaman Roblox). Lihat bahagian **[Pelayan peribadi](#pelayan-peribadi)** khusus di bawah untuk semua yang pemilik dapat, kes penggunaan biasa dan pengehadan.
 
 ### Adakah terdapat kod promosi?
 
 Ya - buka **Main Menu -> Beli** dan gunakan medan penebusan kod. Beberapa kod aktif secara kekal:
 
 | Kod | Ganjaran | Kegunaan |
-|---|---|---|
+| --- | --- | --- |
 | `experience` | 250 XP | Sehingga 5 kali |
 | `unlimitedpowarr` | 1,000 XP | tanpa had |
 | `gokartracing` | Percuma Go-Kart (Special spawner) | Sekali |
@@ -241,7 +241,7 @@ Sebaik sahaja anda menyertai, notis **"Selamat Datang ke Lebuhraya Pelayan Perib
 - **Buka kunci kenderaan** tidak digunakan (anda masih melihat katalog yang sama, tetapi kenderaan yang tidak dikunci perlumbaan atau kenderaan yang ditebus kod tidak akan berterusan).
 - **Kod promosi** yang ditebus di sini tidak dikira.
 
-Jika anda mahu sesi anda *mengira*, sertai ** awam server**. Pelayan peribadi adalah untuk adegan terkawal, bukan pengisaran.
+Jika anda mahu sesi anda *mengira*, sertai **awam server**. Pelayan peribadi adalah untuk adegan terkawal, bukan pengisaran.
 
 ### Mengakses perintah server peribadi
 

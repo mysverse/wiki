@@ -2,7 +2,7 @@
 title: 术语表
 description: Sumaya 玩家常用的马来语词汇与游戏术语。
 lang: zh
-translated_from_hash: c7de531d
+translated_from_hash: 22d680af
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,7 +17,7 @@ needs_review: true
 这些词汇来自日常的马来西亚/马来语词汇。你将在整个游戏中看到它们。
 
 | 术语 | 含义 | 游戏中的用法 |
-|------|---------|------------|
+| ------ | --------- | ------------ |
 | **Ringgit** | 马来西亚货币（现实世界：MYR）。 | Sumaya 的游戏内货币。在 UI 中缩写为 **SR**（Sumaya Ringgit）。 |
 | **Bomba** | 消防队（源自葡萄牙语的马来词）。 | 紧急服务团队之一 - 消防员。 |
 | **Kesihatan** | 健康 / 医疗。 | 医疗 / 护理人员紧急服务团队。 |
@@ -47,7 +47,7 @@ needs_review: true
 这些出现在 Bomba 等级中：
 
 | 缩写 | 含义 |
-|--------------|---------|
+| -------------- | --------- |
 | PB | Pegawai Bomba (消防员) |
 | PBK | Pegawai Bomba Kanan (高级消防员) |
 | PBT | Pegawai Bomba Tinggi (首席消防员) |
@@ -64,7 +64,7 @@ needs_review: true
 对于 Polis，缩写基于 MYSverse Police (POLIS) 的等级首字母：
 
 | 缩写 | 含义 |
-|--------------|---------|
+| -------------- | --------- |
 | L/Cpl | 一等下士 |
 | Cpl | 下士 |
 | Sgt | 中士 |
@@ -84,7 +84,7 @@ needs_review: true
 ## 游戏专属术语
 
 | 术语 | 定义 |
-|------|------------|
+| ------ | ------------ |
 | **SR** | Sumaya Ringgit - 游戏内货币的缩写。与 "Ringgit" 相同。 |
 | **Wallet** | 你可以立即使用的现金。可被扒手偷走。 |
 | **Bank** | 你的安全储蓄。无法被偷走。通过 ATM 访问。 |
@@ -129,7 +129,7 @@ needs_review: true
 ## 常见缩写
 
 | 缩写 | 含义 |
-|--------|---------|
+| -------- | --------- |
 | SR | Sumaya Ringgit（货币） |
 | XP | 经验点 |
 | POI | 兴趣点（minimap 上的 Point of Interest） |

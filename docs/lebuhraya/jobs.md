@@ -41,12 +41,14 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 **How to start**: Join the Taxi Driver team from the Main Menu. Toggle your **Duty** status to on from the TaxiGui on screen.
 
 **What you do**:
+
 1. When you're on duty, a pickup point is assigned - drive to the NPC waiting for a taxi.
 2. The NPC gets in your taxi. Drive to the marked dropoff point.
 3. The mission completes when you stop within range (about 50 studs) of the dropoff.
 4. A new mission is assigned immediately.
 
 **Rewards**:
+
 - **XP** scales with distance. Longer fares pay more.
 - BR fares are not a reliable live payout yet, so treat taxi work as an XP and career-progress job for now.
 
@@ -73,6 +75,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 **How to start**: Join the Logistics team. Head to a freight contract point (marked ProximityPrompts around the map) and take on a delivery.
 
 **What you do**:
+
 1. Find a freight contractor (ProximityPrompt). Accept a contract and a freight truck / trailer is assigned to you.
 2. Hitch the trailer to the hook point and drive the loaded truck to the delivery destination.
 3. Unhitch and complete the delivery.
@@ -92,6 +95,7 @@ Open **Main Menu -> Activity** to track missions/challenges, and **Main Menu -> 
 **How to start**: Join the Food Delivery team. A delivery is assigned to you automatically.
 
 **What you do**:
+
 1. Go to the shop shown on your waypoint (one of the [12 shops](/lebuhraya/shops)).
 2. Interact with the shop NPC to pick up the food order (your character will receive the food item as a tool).
 3. Drive to the customer's location on your waypoint.
@@ -128,6 +132,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 **How to start**: Join the Waste Disposal team. Read the **Waste Disposal Guide** tool in your inventory.
 
 **What you do**:
+
 1. Drive your rubbish truck to a trash bin. There are **114 bins** scattered across the map.
 2. Interact with the bin prompt to trigger the lifting animation. Rubbish accumulates on your truck.
 3. Once the truck is full, drive to one of the two **Stesen Insinerasi** (incineration stations - Bandar Seri Putra and Jersik).
@@ -150,6 +155,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 **How to start**: Join the Bomba team. Equip your **Pager** tool to receive emergency alerts. When a 999 call comes in (fire, crash), accept the incident.
 
 **What you do**:
+
 - **Firefighting**: Respond to fires, use hoses and fire extinguishers.
 - **Rescue**: Use spreaders and chainsaws to extract trapped drivers.
 - **Medical assist**: Bomba responds to car crashes alongside Kesihatan.
@@ -167,6 +173,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 **How to start**: Join the Kesihatan team. Equip your **Pager** tool. Accept 999 medical incidents.
 
 **What you do**:
+
 1. Respond to the incident location (within 12 studs to interact).
 2. **Assess** the patient's injuries - don't dawdle. Waiting longer than 60 seconds before assessing incurs a survival penalty.
 3. **Treat** the injuries in the correct order using your tools (Splint, First Aid Kit, Bandage). Wrong treatments reduce the patient's survival score by 3 per mistake.
@@ -177,7 +184,7 @@ Switching zones forces you to stop the current job, so pick a zone and stick wit
 **Injury types** include cuts, broken limbs, heavy bleeding, shock, unconscious patients, and fire-related injuries. Each one needs the right treatment sequence:
 
 | Injury | Treatment steps | Base XP |
-|---|---|---|
+| --- | --- | --- |
 | Minor Cuts & Bruises | Stabilise Bleeding → Apply Bandage | 50 |
 | Broken Arm / Broken Leg (left or right) | Apply Splint | 75 |
 | Traumatic Brain Injury | Stabilise Patient → Apply Bandage | 100 |
@@ -195,7 +202,7 @@ Treatment actions take **2–5 seconds** each to perform. Read the patient's dia
 **Full flow** and typical XP sources:
 
 | Step | XP |
-|---|---|
+| --- | --- |
 | Assessment | 25 |
 | Injury treatment (all correct) | 50–100 per injury |
 | Stabilisation bonus | +50 |
@@ -238,6 +245,7 @@ All police teams share the 999 emergency dispatch and can use the same enforceme
 **What you do**: Traffic law enforcement - use the **Radar Gun** to catch speeders, respond to 999 incidents, issue tickets.
 
 **Automatic offences**: The game can detect **running a red light** and **speeding**. Each detected offence:
+
 - Shows a red notification on the offending driver's screen
 - Can notify traffic officers for roleplay follow-up
 
@@ -296,6 +304,7 @@ Polis Trafik players can be notified of detected offences and respond.
 **How to start**: Join the Lumberjack team, equip your **Axe** tool, head to the lumberjack zone (near H Plantation in Jersik).
 
 **What you do**:
+
 1. Chop trees with the axe (you must be within 8–15 studs of the tree).
 2. Wood accumulates in your per-player storage.
 3. Sell wood at the shop for XP.
@@ -305,7 +314,7 @@ Polis Trafik players can be notified of detected offences and respond.
 **Storage capacity grows with your Lumberjack level**:
 
 | Player Level | Storage (kg) |
-|---|---|
+| --- | --- |
 | 1 | 10 |
 | 50 | ~40 |
 | 100 | ~79 |
@@ -325,6 +334,7 @@ Storage grows slowly at first and much faster at higher levels.
 **What you do**: Classes run on a **2-minute bell cycle** - the bell chimes as classes begin and end. While in a class, a quiz starts. Each question is timed - answer faster for a bigger bonus.
 
 **Scoring per correct answer**:
+
 - Base score: **10 points**
 - Time bonus: up to a full bonus if you answer within **2.5 seconds**; decays linearly to zero after that
 - **250 XP** per correct answer (multipliers apply)
@@ -342,6 +352,7 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 **How to start**: Equip a fishing rod and head to the **Fishing Port** (in the map's coastal area) or any water.
 
 **What you do**:
+
 1. Cast your rod.
 2. Wait for a bite.
 3. Shake the rod (follow on-screen prompts) to reel in.
@@ -350,7 +361,7 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 **What you can catch**: The current fish roster has 10 entries, weighted by rarity and paying different XP on sell:
 
 | Catch | Rarity | XP on sell |
-|---|---|---|
+| --- | --- | --- |
 | Torpedo Scad | Common | 8 |
 | Indian Mackerel | Common | 15 |
 | Pomfret | Uncommon | 22 |
@@ -373,6 +384,7 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 **How to start**: Walk into a cashier station at a food shop or the KeluargaMart.
 
 **What you do**:
+
 1. An NPC customer spawns at the counter. The customer's avatar is **randomly picked from your Roblox friends list** - so if your buddy plays Lebuhraya too, they might show up as your next customer. (Requires you to have at least one friend to play.)
 2. The customer requests 1–4 food items from the available menu.
 3. You have **15–20 seconds** to select the right items and complete the order.
@@ -391,13 +403,14 @@ These activities are available to anyone on the **Malaysians** team (join the MY
 **How to start**: Open the race menu from the topbar and select a track.
 
 **What you do**:
+
 - **Time Trial** - race alone against the clock. Set track records.
 - **PvP Lobby** - create or join a lobby, wait for players to load in, start the race.
 
 **How rewards are calculated**: Better placements, harder tracks, and personal bests pay more XP. Some races can also grant BR.
 
 | Placement in PvP | Reward expectation |
-|---|---|
+| --- | --- |
 | 1st | Best payout |
 | 2nd | Strong payout |
 | 3rd | Good payout |

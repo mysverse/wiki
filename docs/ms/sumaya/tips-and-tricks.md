@@ -2,7 +2,7 @@
 title: Petua & Helah
 description: 'Interaksi tersembunyi, kerenah mudah alih, dan petua pakar untuk Sumaya.'
 lang: ms
-translated_from_hash: "387ac7a5"
+translated_from_hash: "78c20f95"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -49,6 +49,7 @@ Sesetengah pembuat kopi ialah prop sebenar. Gunakan **Brew** dahulu, tunggu peri
 Pemain baru muncul **pasif secara lalai** - anda kebal sehingga anda sengaja mematikannya (atau mengambil Slim Jim / Pickpocket Knife, yang akan mengeluarkan anda dari mod pasif secara automatik). Mematikannya akan kekal mati sehingga anda menogolnya semula.
 
 **Anda tidak boleh mengaktifkan semula pasif jika:**
+
 - Anda memegang alat jenayah (jatuhkan dahulu).
 - Anda sedang dikehendaki (tunggu kemerosotan 5 minit).
 - Anda seorang pegawai POLIS (polis tidak pernah pasif - ia satu sifat pasukan).

@@ -43,7 +43,7 @@ These spawn without rent or buy cost:
 ### Paid standard civilian cars
 
 | Vehicle | Rent | Buy |
-|---------|-----:|----:|
+| --------- | -----: | ----: |
 | Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
 | Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
 | Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
@@ -81,7 +81,7 @@ The Shop now previews upcoming vehicle packs:
 These cards currently show **Coming Soon** unless a final Roblox pass ID has been assigned. Existing legacy owners still keep access where the old gates already existed, and the Classic/Retro pack remains the active purchasable vehicle pass.
 
 | Vehicle | Rent | Buy |
-|---------|-----:|----:|
+| --------- | -----: | ----: |
 | Protan Saga 1985 | Free | Free |
 | Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
@@ -92,7 +92,7 @@ These cards currently show **Coming Soon** unless a final Roblox pass ID has bee
 Trawlers spawn at fishing-boat spawners at docks, and only appear if you're clocked in to the **Fishing Sector**. See [Fishing](/sumaya/jobs-fishing).
 
 | Trawler | Price |
-|---------|-------|
+| --------- | ------- |
 | Tier 1 Trawler | Free (as long as you're on a fishing shift) |
 | Tier 2 Trawler | 25,000 Ringgit |
 | Tier 3 Trawler | 37,000 Ringgit |
@@ -104,7 +104,7 @@ Higher tiers carry more fish.
 Available only if you're on the POLIS team. Gated by a mix of **player level** and **sector level** (POLIS sector).
 
 | Vehicle | Player level | Sector level | Price |
-|---------|--------------|--------------|-------|
+| --------- | -------------- | -------------- | ------- |
 | Protan Wira MPV Polis | 1 | 1 | Free |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
@@ -117,7 +117,7 @@ The Wira is your starter patrol car. The Civic is the top-tier.
 Available only on the BOMBA team. Gated by Bomba sector level.
 
 | Vehicle | Sector level | Price |
-|---------|--------------|-------|
+| --------- | -------------- | ------- |
 | Merze Atego LFRT | 1 | Free |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -131,7 +131,7 @@ LFRT = Light Fire Rescue Tender. FRT = Fire Rescue Tender. The P360 Tanker is th
 Available only on the Kesihatan team. Gated by Kesihatan sector level.
 
 | Vehicle | Sector level | Price |
-|---------|--------------|-------|
+| --------- | -------------- | ------- |
 | Tayoti Hiace KKN Ambulance | 1 | Free |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |

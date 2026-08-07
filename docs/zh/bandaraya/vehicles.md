@@ -48,6 +48,7 @@ Bandaraya 使用 **A-Chassis** 物理引擎。控制:
 | 屏幕按钮 | 喇叭、警笛、灯光、车门、车窗 - 紧急车辆有很多 |
 
 ### 鼠标转向
+
 **F1** 是重点。开启鼠标转向后,你的鼠标位置控制车轮角度 - 比仅用键盘精细得多。大多数有经验的司机都会使用它。
 
 ### 驾驶提示
@@ -130,6 +131,7 @@ Bandaraya 使用 **A-Chassis** 物理引擎。控制:
 颜色套装示例 (Perodua Myvi):Granite Grey、Peppermint Green、Lava Red、Glittering Silver、Ivory White、Sunflower Yellow。
 
 ### HCC 车辆
+
 如果你拥有 **High Class Citizen gamepass**,经销店还提供豪华车辆(BMW i7、Volvo XC90、Mercedes C300)。
 
 ## 直升机

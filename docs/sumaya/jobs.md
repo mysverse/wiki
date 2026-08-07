@@ -26,7 +26,7 @@ A sector is a category of work. Each sector has:
 There are three main **civilian sectors**:
 
 | Sector | What you do | Max level | Start requirement |
-|--------|-------------|-----------|-------------------|
+| -------- | ------------- | ----------- | ------------------- |
 | Fishing | Rod on the pier or trawl on a boat | 100 | None |
 | Service (Mamak / Fast Food) | Serve food, take orders | 100 | Reach sector level 50 in fishing or agro |
 | Agriculture (palm oil) | Harvest palm fruit bunches | 100 | None (available immediately) |

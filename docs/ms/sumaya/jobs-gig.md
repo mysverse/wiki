@@ -3,7 +3,7 @@ title: Kerja Gig
 description: >-
   Kerja gig di Sumaya - tugasan awam pantas, minigame, bayaran, dan reset.
 lang: ms
-translated_from_hash: 5ba728b2
+translated_from_hash: 0a8818a8
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,7 +17,7 @@ Kerja ini sesuai apabila anda mahu variasi, ledakan Ringgit yang cepat, atau ker
 ## Jenis gig
 
 | Gig | Apa yang anda lakukan | Ganjaran asas |
-|-----|-------------|-------------|
+| ----- | ------------- | ------------- |
 | E-Hailing | Ambil dan turunkan penumpang | 40 SR, 8 XP, tip 30% mungkin |
 | Pos Nasional | Hantar bungkusan | 35 SR dan 7 XP setiap bungkusan, tip 10% mungkin |
 | Tow Truck | Pulihkan atau alihkan kenderaan | 80 SR, 12 XP, tip 20% mungkin |

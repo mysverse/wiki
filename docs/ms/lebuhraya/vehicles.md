@@ -4,7 +4,7 @@ description: >-
   Kesemua 127 model kenderaan di Lebuhraya - menghasilkan, bahan api,
   perlanggaran, dan penyesuaian.
 lang: ms
-translated_from_hash: 5467cc70
+translated_from_hash: 9db848b7
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -35,7 +35,7 @@ Selepas anda mengklik **Spawn**, sesetengah pemijah meminta anda memilih pad ter
 Pemijah fizikal yang berbeza menunjukkan kategori kenderaan yang berbeza:
 
 | Penternak | Kandungan biasa |
-|---|---|
+| --- | --- |
 | **Asas / Siv** | Starter dan kereta awam standard |
 | **Basikal** | Motosikal dan skuter |
 | **Premium / Prem** | Premium atau kereta awam peringkat lebih tinggi |
@@ -61,7 +61,7 @@ Anda mempunyai akses kepada **27 kenderaan** dari awal - cukup untuk mencari ses
 Harga kenderaan berskala longgar dengan paras. Panduan kasar:
 
 | Tahap | Julat harga biasa |
-|---|---|
+| --- | --- |
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
@@ -74,7 +74,7 @@ Kira-kira **28 kenderaan** dijual melalui pandangan **Dealership** dalam pemijah
 ### Maksud kad berkunci
 
 | Kunci teks | Maksudnya |
-|---|---|
+| --- | --- |
 | **Tahap X** | Capai tahap pemain itu dahulu |
 | **Tier X** | Kedudukan cabang kerjaya yang sepadan |
 | **Kenderaan dikunci** | Anda tidak memiliki kenderaan istimewa/gamepass/kod |
@@ -85,7 +85,7 @@ Kira-kira **28 kenderaan** dijual melalui pandangan **Dealership** dalam pemijah
 Kebanyakan armada itu diparodi daripada jenama Malaysia dan global sebenar. Jika anda tahu kereta sebenar, mungkin ada stand-in di sini.
 
 | Kategori | Contoh |
-|---|---|
+| --- | --- |
 | Kereta kompak | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
 | Sedan / saloon | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
 | SUV | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
@@ -107,7 +107,7 @@ Kebanyakan kenderaan khusus pasukan (Bomba, KKN, Polis) dibuka melalui kemajuan 
 Setiap kenderaan menggunakan satu daripada tiga jenis bahan api.
 
 | Bahan api | Harga seliter |
-|---|---|
+| --- | --- |
 | **Elektrik** | 1 BR |
 | **Petrol** | 2 BR |
 | **Diesel** | 3 BR |
@@ -223,7 +223,7 @@ Gunakan ELS hanya apabila bertindak balas kepada insiden. Pelayaran dengan lampu
 Enam kenderaan khusus mempunyai **panel tunda/win** - landskap mesra mudah alih HUD yang muncul apabila anda berinteraksi dengan panel kawalan di dalam kabin:
 
 | Kenderaan | Pasukan | Panel |
-|---|---|---|
+| --- | --- | --- |
 | iZu Tow Truck KEMRonda | KEMRonda | Kawalan Tow Boom |
 | Katil Tunda iZu KEMRonda | KEMRonda | Kawalan Katil Rata |
 | Tayoti Hilux KKN RRV | Kesihatan | Kawalan Win Penyelamat |
@@ -234,7 +234,7 @@ Enam kenderaan khusus mempunyai **panel tunda/win** - landskap mesra mudah alih 
 **Pintasan papan kekunci** (sebaik panel dibuka):
 
 | Kunci | Tindakan |
-|---|---|
+| --- | --- |
 | **1** | Togol mod Lampirkan untuk Win 1 (klik kenderaan/bahagian untuk menyasarkannya) |
 | **2** | Togol Mod Attach untuk Win 2 (katil rata/perusak dengan win kedua) |
 | **X** | Batalkan mod lampiran |

@@ -2,7 +2,7 @@
 title: 经济
 description: Ringgit（SR）介绍、钱包与银行账户的差异，以及在 Sumaya 的赚钱方式。
 lang: zh
-translated_from_hash: e153ddde
+translated_from_hash: 948d4d36
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -70,7 +70,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 它**不会**提升玩家等级 XP、任务奖励、犯罪收入、ATM 转账、Sadaqa/捐赠、退款，或房屋/车辆/商店交易。
 
 | 来源 | Ringgit |
-|--------|---------|
+| -------- | --------- |
 | 钓竿钓鱼（每种物种售出） | 8 SR 到钱包 |
 | 拖网捕鱼（每条鱼） | 0.5 SR，作为下班结算薪资支付 |
 | Mamak（每位顾客） | 30 SR 到银行，每 10 位 +180，错单 -25 |
@@ -96,7 +96,7 @@ ATM 散布在 Sumaya 各处（通常在商店和银行附近）。在 ATM，你�
 风险更高，回报更高。奖励进入你的银行。
 
 | 犯罪 | Ringgit |
-|-------|---------|
+| ------- | --------- |
 | Carjacking 交付 | 500 - 1,200 SR（随机）到银行 |
 | Pickpocket（玩家） | 80 - 300 SR 到钱包（来自受害者） |
 | Pickpocket（NPC） | 每个 NPC 50 - 200 SR |

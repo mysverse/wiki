@@ -14,6 +14,7 @@ Lebuhraya is set on a stretch of Malaysian highway with three main regions conne
 The largest settlement - your main hub for jobs, services, and commerce. If you're new, you'll spend most of your first hours here.
 
 **Key buildings**:
+
 - **Balai Polis Bandar Seri Putra** - Police station
 - **Balai Bomba Bandar Seri Putra** - Fire station
 - **Klinik Kesihatan Bandar Seri Putra** - Health clinic / hospital
@@ -31,6 +32,7 @@ The largest settlement - your main hub for jobs, services, and commerce. If you'
 A secondary town with industrial zones and the racetrack.
 
 **Key buildings**:
+
 - **Balai Bomba Jersik** - Fire station
 - **Pos Nasional Jersik** - Post office (start of Post Office job)
 - **Plaza Tol Jersik** - Toll plaza
@@ -46,6 +48,7 @@ A secondary town with industrial zones and the racetrack.
 A quieter rural village.
 
 **Key buildings**:
+
 - **Balai Polis Kampung Merbang** - Police station
 - **Masjid Kampung Merbang** - Mosque
 - Highway rest stops nearby (see below)
@@ -55,6 +58,7 @@ A quieter rural village.
 A plaza / neighbourhood zone.
 
 **Key buildings**:
+
 - **Plaza Tol Putra Mahkota** - Second major toll plaza
 - **Taman Mahkota** - Housing / residential zone
 
@@ -78,7 +82,7 @@ The highway connects all three regions. Notable stops:
 ## Where to go when you need…
 
 | What you need | Where to go |
-|---|---|
+| --- | --- |
 | Fuel (Petrol) | PETROMAS NB or SB, or Radtrol |
 | Fuel (Diesel) | Kompleks Petroliam dan Gas Radtrol, PETROMAS stations |
 | Fuel (Electric) | Radtrol in Bandar Seri Putra (electric chargers) |

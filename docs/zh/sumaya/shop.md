@@ -2,7 +2,7 @@
 title: 商店与游戏通行证
 description: Sumaya 的游戏通行证、Robux 现金包、世界内商店、食物摊、船用油罐和工具。
 lang: zh
-translated_from_hash: 1ec63681
+translated_from_hash: def7b00f
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -25,7 +25,7 @@ Sumaya 有两种不同的“商店”。本页同时介绍两者：
 ### 现在可以购买的内容
 
 | 物品 | 类型 | 你会获得什么 |
-|------|------|--------------|
+| ------ | ------ | -------------- |
 | **Retro Vehicles** | Gamepass | 在标准平民车商解锁经典 / 复古车包：**Protan Saga 1985**（免费）、**Merzda Miata**（12,000 SR）、**Nisun S15 Silvia**（20,000 SR）、**Joguar XJ308 R**（29,000 SR）。未拥有者可以看到被 gamepass 提示锁住的卡片。参见 [车辆](/zh/sumaya/vehicles)。 |
 
 ### 即将推出
@@ -33,7 +33,7 @@ Sumaya 有两种不同的“商店”。本页同时介绍两者：
 这些卡片现在会显示在商店中，但购买按钮已停用。团队完成 gamepass / 商品 ID 后，它们会正式上线。
 
 | 物品 | 类型 | 计划效果 |
-|------|------|----------------|
+| ------ | ------ | ---------------- |
 | **Income / Job XP Booster** | Gamepass | 对符合条件的职业和公共服务工作给予 +25% 工作 Ringgit 和 +25% 工作行业 XP。**不会**提升玩家等级 XP、任务奖励、犯罪报酬、ATM 转账、捐赠/Sadaqa、退款，或商店 / 车辆 / 房屋购买。完整适用列表请参见 [经济](/zh/sumaya/economy)。 |
 | **Car Radio / Boombox** | Gamepass | 精选车载电台和近距离 boombox。自定义音频 ID 仍保持停用。 |
 | **Premium EV Vehicles** | Gamepass | 向平民车商加入高级电动车包。 |
@@ -77,7 +77,7 @@ Sumaya 有两种不同的“商店”。本页同时介绍两者：
 出售钓鱼拖网船的补给油罐。汽车不需要加油。
 
 | 油罐 | 补充量 | 价格 |
-|-----|--------|-------|
+| ----- | -------- | ------- |
 | 红色 | +25 燃料 | 75 SR |
 | 绿色 | +50 燃料 | 100 SR |
 | 黑色 | +75 燃料 | 125 SR |

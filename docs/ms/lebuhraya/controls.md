@@ -4,7 +4,7 @@ description: >-
   Setiap kawalan di Lebuhraya - papan kekunci, pad permainan, mudah alih, dan
   input VR.
 lang: ms
-translated_from_hash: fe31e8f7
+translated_from_hash: 4de53eb1
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,7 +17,7 @@ Lebuhraya menyokong papan kekunci, pad permainan, skrin sentuh, dan VR. Permaina
 Berdiri dalam lingkungan **6 stud** dari tempat duduk pemandu atau penumpang.
 
 | Platform | Butang |
-|---|---|
+| --- | --- |
 | Papan kekunci | **F** |
 | Pad permainan | **X** (butang muka pengawal) |
 | Skrin sentuh | Ketik butang **Pandu** / **Duduk** pada skrin |
@@ -34,7 +34,7 @@ Tempat duduk pemandu biasanya dikunci kepada pemilik kenderaan. Jika anda cuba d
 Kebanyakan kenderaan menggunakan kawalan memandu lalai ini:
 
 | Tindakan | Papan kekunci | Pad permainan |
-|---|---|---|
+| --- | --- | --- |
 | Pecutan | **W** | Picu kanan (RT) |
 | Brek / Undur | **S** | Picu kiri (LT) |
 | Belok kiri | **A** | Kayu kawalan kiri |
@@ -52,7 +52,7 @@ Kawalan pencahayaan kenderaan berbeza antara sistem casis lama dan baharu dalam 
 Kawalan Roblox standard.
 
 | Tindakan | Papan kekunci | Pad permainan | Mudah alih |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Bergerak | **W / A / S / D** | Kayu kawalan kiri | D-pad pada skrin |
 | Lompat | **Ruang** | A | Butang lompat |
 | Lari | (shift-untuk-lari diaktifkan dalam permainan) | Klik kayu kawalan kiri | Togol lari |
@@ -61,7 +61,7 @@ Kawalan Roblox standard.
 ## Antara muka
 
 | Tindakan | Papan kekunci / tetikus | Mudah alih / sentuh | Pad permainan |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Sembang | **/** (garis miring ke hadapan) | Ketik ikon sembang | Pintasan sembang Roblox |
 | Menu utama | Ikon bar atas | Ikon bar atas | Navigasi bar atas, kemudian pilih |
 | Telefon | Ikon bar atas | Ikon bar atas | Navigasi bar atas, kemudian pilih |
@@ -87,12 +87,12 @@ Buka menu utama untuk mengakses:
 - **Kedai** - pembelian dalam permainan (arahan gamepass, token)
 - **Aktiviti** - misi, cabaran, dan kemajuan Season Pass
 - **Lain-lain** - grid kad untuk:
- - **Kerjaya** - pangkat kerjaya dan kemajuan agensi anda
- - **Kerja** - bar peringkat dan ganjaran per cawangan
- - **Token** - token / peningkatan aktif dan tersimpan anda
- - **Kredit** - pasukan pembangunan dan penyumbang
- - **Lumba** - menu perlumbaan percubaan masa dan PvP
- - **Bantuan** - tutorial apabila tersedia
+- **Kerjaya** - pangkat kerjaya dan kemajuan agensi anda
+- **Kerja** - bar peringkat dan ganjaran per cawangan
+- **Token** - token / peningkatan aktif dan tersimpan anda
+- **Kredit** - pasukan pembangunan dan penyumbang
+- **Lumba** - menu perlumbaan percubaan masa dan PvP
+- **Bantuan** - tutorial apabila tersedia
 
 Kerjaya, Kerja, Token, Kredit, Lumba, dan Bantuan dikumpulkan di bawah **Lain-lain**.
 

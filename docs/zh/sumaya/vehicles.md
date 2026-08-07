@@ -2,7 +2,7 @@
 title: 车辆
 description: Sumaya 的汽车、船只、救护车、生成器与个性化定制。
 lang: zh
-translated_from_hash: 873c7ea9
+translated_from_hash: "506e4673"
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -45,8 +45,8 @@ Sumaya拥有丰富的车辆目录：民用车、Classic Car Pack汽车、拖网�
 
 ### 付费标准民用车
 
-|车辆 |出租|购买|
-|---------|-----:|----:|
+| 车辆 | 出租 | 购买 |
+| --------- | -----: | ----: |
 | Protan Wira Aeroback | 1,250 Ringgit | 5,000 Ringgit |
 | Protan Putra | 1,250 Ringgit | 5,000 Ringgit |
 | Perosatu Bezza | 1,750 Ringgit | 7,000 Ringgit |
@@ -83,9 +83,9 @@ Sumaya拥有丰富的车辆目录：民用车、Classic Car Pack汽车、拖网�
 
 这些卡目前显示**即将推出**，除非已分配最终的 Roblox 通行证 ID。现有的旧车主仍然可以进入旧大门已经存在的地方，并且经典/复古包仍然是有效的可购买车辆通行证。
 
-|车辆 |出租|购买|
-|---------|-----:|----:|
-| Protan Saga 1985 |免费|免费|
+| 车辆 | 出租 | 购买 |
+| --------- | -----: | ----: |
+| Protan Saga 1985 | 免费 | 免费 |
 | Merzda Miata | 2,400 Ringgit | 12,000 Ringgit |
 | Nisun S15 Silvia | 2,400 Ringgit | 20,000 Ringgit |
 | Joguar XJ308 R | 2,400 Ringgit | 29,000 Ringgit |
@@ -94,9 +94,9 @@ Sumaya拥有丰富的车辆目录：民用车、Classic Car Pack汽车、拖网�
 
 拖网渔船在码头的渔船产卵池中生成，只有在您打卡到 **Fishing Sector** 时才会出现。参见[Fishing](/zh/sumaya/jobs-fishing)。
 
-|拖网渔船|价格|
-|--------|--------|
-| Tier 1 Trawler |免费（只要您在钓鱼）|
+| 拖网渔船 | 价格 |
+| -------- | -------- |
+| Tier 1 Trawler | 免费（只要您在钓鱼） |
 | Tier 2 Trawler | 25,000 Ringgit |
 | Tier 3 Trawler | 37,000 Ringgit |
 
@@ -106,9 +106,9 @@ Sumaya拥有丰富的车辆目录：民用车、Classic Car Pack汽车、拖网�
 
 仅当您属于 POLIS 团队时才可用。由**玩家等级**和**部门等级**（POLIS部门）混合控制。
 
-|车辆 |玩家等级|部门层面|价格|
-|--------|--------------|--------------|--------|
-| Protan Wira MPV Polis | 1 | 1 |免费|
+| 车辆 | 玩家等级 | 部门层面 | 价格 |
+| -------- | -------------- | -------------- | -------- |
+| Protan Wira MPV Polis | 1 | 1 | 免费 |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
 | Handai Civic MPV Polis | 1 | 55 | 15,000 Ringgit |
@@ -119,12 +119,12 @@ Wira 是您的入门巡逻车。思域是顶级的。
 
 仅适用于BOMBA团队。由Bomba扇区级别控制。
 
-|车辆 |部门层面|价格|
-|--------|--------------|--------|
-| Merze Atego LFRT | 1 |免费|
+| 车辆 | 部门层面 | 价格 |
+| -------- | -------------- | -------- |
+| Merze Atego LFRT | 1 | 免费 |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
-| Tayoti Hiace (Bomba) | 40| 12,000 Ringgit |
-| Sanica P310 FRT | 40| 13,000 Ringgit |
+| Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
+| Sanica P310 FRT | 40 | 13,000 Ringgit |
 | Sanica P360 Tanker | 65 | 20,000 Ringgit |
 
 LFRT = 轻型消防救援车。 FRT = 消防救援车。 P360 油罐车是重型实用顶级 Bomba 车辆，自带供水系统。
@@ -133,9 +133,9 @@ LFRT = 轻型消防救援车。 FRT = 消防救援车。 P360 油罐车是重型
 
 仅适用于Kesihatan团队。由Kesihatan扇区级别控制。
 
-|车辆 |部门层面|价格|
-|--------|--------------|--------|
-| Tayoti Hiace KKN Ambulance | 1 |免费|
+| 车辆 | 部门层面 | 价格 |
+| -------- | -------------- | -------- |
+| Tayoti Hiace KKN Ambulance | 1 | 免费 |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
 

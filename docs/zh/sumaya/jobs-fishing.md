@@ -2,7 +2,7 @@
 title: 捕鱼
 description: Sumaya 的捕鱼 - 钓点、鱼种、价格和职业晋升。
 lang: zh
-translated_from_hash: "f5a12209"
+translated_from_hash: "8d42a999"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -30,7 +30,7 @@ needs_review: true
 Sumaya 有**5 种**鱼可以用鱼竿钓到:
 
 | 鱼 | XP | Ringgit |
-|------|-----|---------|
+| ------ | ----- | --------- |
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
 | Patin | 15 | 8 |
@@ -57,7 +57,7 @@ XP 和 Ringgit 奖励会在你于码头**出售**鱼时发放。
 ### 拖网渔船
 
 | 级别 | 价格 | 如何取得 |
-|------|-------|------------|
+| ------ | ------- | ------------ |
 | Tier 1 Trawler | 捕鱼班期间免费 | 在任何捕鱼船生成器生成 |
 | Tier 2 Trawler | 25,000 Ringgit 购买 | 赚钱存下 |
 | Tier 3 Trawler | 37,000 Ringgit 购买 | 给认真的捕鱼爱好者 |

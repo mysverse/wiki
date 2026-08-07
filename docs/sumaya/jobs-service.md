@@ -35,7 +35,7 @@ The pace is steady - customers arrive regularly, and each completed order pays X
 Payments go into your **bank account** (not wallet) under "Mamak Sdn. Bhd." or the equivalent Fast Food paycheck when you clock out or complete customers.
 
 | Venue | Per customer (Ringgit) | Bonus every 10 customers | Wrong-order penalty |
-|-------|------------------------|--------------------------|---------------------|
+| ------- | ------------------------ | -------------------------- | --------------------- |
 | Mamak | 30 | +180 | -25 |
 | Fast Food | 25 | +150 | -20 |
 

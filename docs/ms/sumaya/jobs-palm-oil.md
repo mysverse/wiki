@@ -2,7 +2,7 @@
 title: Kelapa Sawit (Pertanian)
 description: Kerja kelapa sawit dan pertanian di Sumaya.
 lang: ms
-translated_from_hash: f582401a
+translated_from_hash: 37e8716d
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -35,7 +35,7 @@ Setiap Buah yang anda masukkan ke dalam baldi membayar kadar tetap **20 Ringgit 
 Sektor Agro menyediakan **empat tahap** sabit dan baldi pinggang. Tahap yang lebih tinggi memerlukan SR di hadapan tetapi membayar balik melalui pemotongan yang lebih pantas dan masa penuaian yang lebih panjang sebelum anda perlu memunggah:
 
 | Tahap | Masa pegang sabit | Kapasiti baldi | Tahap sektor | Harga sabit | Harga baldi |
-|------|-----------------|-----------------|--------------|--------------|--------------|
+| ------ | ----------------- | ----------------- | -------------- | -------------- | -------------- |
 | 1 | 12 s | 10 Buah | 1 | Percuma | Percuma |
 | 2 | 10 s | 30 Buah | 20 | 4,000 SR | 2,000 SR |
 | 3 | 7 s | 60 Buah | 40 | 5,000 SR | 2,500 SR |

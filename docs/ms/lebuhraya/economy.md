@@ -4,7 +4,7 @@ description: >-
   Ringgit (BR), tahap 1-500, pendaraban XP, dan cara terpantas untuk memperoleh
   di Lebuhraya.
 lang: ms
-translated_from_hash: 28f3fdd2
+translated_from_hash: 99c21693
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -52,7 +52,7 @@ Terdapat dua jenis XP:
 **Pekerjaan XP (aktif).** Setiap tindakan kerja yang lengkap memberikan sebahagian daripada XP.
 
 | Kerja | XP ganjaran |
-|---|---|
+| --- | --- |
 | Food Delivery | **250 XP** setiap penghantaran |
 | Teksi | Berbeza - kira-kira **0.11 hingga 0.13 XP setiap stud** perjalanan (perjalanan 4000-stud = 440 hingga 520 XP) |
 | Pekerjaan lain | Lihat [Pekerjaan](/ms/lebuhraya/jobs) untuk butiran setiap kerja |
@@ -62,7 +62,7 @@ Terdapat dua jenis XP:
 Berbilang bonus disusun **sebagai tambahan** di atas pengganda asas ×1 anda. Pengganda terakhir digunakan untuk setiap anugerah XP.
 
 | Sumber | Bonus |
-|---|---|
+| --- | --- |
 | Double XP hujung minggu (acara berkala) | Pengganda ditetapkan kepada ×2 |
 | XP Boost gamepass | +50% |
 | Roblox Premium keahlian | +25% |

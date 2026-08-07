@@ -2,7 +2,7 @@
 title: Bandaraya 的商店与经济
 description: 商店、NPC 摊贩、游戏通行证以及 Bandar Ringgit（BR）经济体系的完整指南。
 lang: zh
-translated_from_hash: "207f40e4"
+translated_from_hash: "3f50d08a"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -16,7 +16,7 @@ Bandaraya 拥有丰富的游戏内经济系统，以 **Bandaraya Ringgit (BR)** 
 ### 工作与收入
 
 | 工作 | 所需队伍 | 简介 |
-|---|---|---|
+| --- | --- | --- |
 | Pos Nasional | 无（任何队伍） | 在邮局配送包裹。通过晋升解锁新的配送车辆。 |
 | Taxi Driver | Taxi（需要 gamepass） | 在城市中载送玩家以赚取车费收入。 |
 | 队伍薪资 | 机构队伍 | 根据您当前队伍（Police、Military、Bomba 等）定期发放薪资。 |
@@ -35,7 +35,7 @@ NPC 经营的商店遍布全城。走到商店的红色按钮前即可浏览和�
 价格实惠的零食和饮品 -  - 非常适合角色扮演。
 
 | 物品 | 价格 (BR) |
-|---|---|
+| --- | --- |
 | Mineral Water | 2 |
 | Double Decker | 3 |
 | Super Ring | 3 |
@@ -59,7 +59,7 @@ NPC 经营的商店遍布全城。走到商店的红色按钮前即可浏览和�
 Club Kunyet 夜总会供应的饮品：
 
 | 饮品 | 价格 (BR) |
-|---|---|
+| --- | --- |
 | Hong's Green Tea | 20 |
 | Fruit Punch | 20 |
 | Inzun's Coffee | 25 |
@@ -79,7 +79,7 @@ Club Kunyet 夜总会供应的饮品：
 ### 工具箱商店
 
 | 物品 | 价格 (BR) | 简介 |
-|---|---|---|
+| --- | --- | --- |
 | Toolkit | 100 | 修理故障车辆（2 次使用）。点击引擎上的按钮即可修复。 |
 | Jerrycan | 800 | 为车辆加油。 |
 
@@ -104,7 +104,7 @@ Club Kunyet 夜总会供应的饮品：
 :::
 
 | 武器 | 价格 (BR) |
-|---|---|
+| --- | --- |
 | QSZ92 | 5,000 |
 | CZ-75 | 7,500 |
 | Colt M1911 | 8,500 |
@@ -127,7 +127,7 @@ Club Kunyet 夜总会供应的饮品：
 在遍布全城的 ATM 终端将 BR 存入安全的 Vastrix 银行账户：
 
 | 存款金额 | 费用 (BR) |
-|---|---|
+| --- | --- |
 | BR 1,000 | 1,000 |
 | BR 5,000 | 5,000 |
 | BR 10,000 | 10,000 |
@@ -140,7 +140,7 @@ Gamepass 通过主菜单的**商店**选项卡使用 Robux 购买，提供永久
 ### 主要 Gamepass
 
 | Gamepass | 简介 |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | 加入 Taxi 队伍，通过载送乘客赚取车费。 |
 | **Firearms Licence** | 从枪械商人处购买枪械。 |
 | **Boombox** | 为自己和附近的玩家播放音乐。 |

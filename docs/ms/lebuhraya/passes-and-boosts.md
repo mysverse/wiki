@@ -2,7 +2,7 @@
 title: Pas & Peningkatan
 description: 'Gamepass, peningkatan XP, dan faedah Premium di Lebuhraya.'
 lang: ms
-translated_from_hash: 6bd490d6
+translated_from_hash: 24549fbf
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -15,7 +15,7 @@ Halaman ini membulatkan cara anda boleh mempercepatkan kemajuan Lebuhraya anda: 
 Lima pasukan dikunci di belakang laluan permainan. Membeli pas memberi anda akses kekal kepada pasukan itu daripada Main Menu.
 
 | Pasukan | Apa yang ia berikan kepada anda |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Sertai pasukan Taxi Driver, dapatkan tambang dengan memandu NPC penumpang. Varian kenderaan teksi dibuka melalui peringkat kerjaya. |
 | **Bandaraya** | Pas bundle - termasuk akses Taxi Driver dan banyak lagi. |
 | **KEMRonda** | Akses polis bantuan lebuh raya. Trak tunda, alat bantuan tepi jalan. |
@@ -174,7 +174,7 @@ Buka kunci aktif disimpan setiap pemain - anda menyimpan semua yang anda peroleh
 Empat anugerah automatik Roblox badges sebenar apabila anda melepasi pencapaian perbatuan:
 
 | Jarak dipandu | Lencana |
-|---|---|
+| --- | --- |
 | 50,000 studs | Lencana 50k |
 | 100,000 studs | Lencana 100k |
 | 500,000 studs | Lencana 500k |
@@ -189,7 +189,7 @@ Pencapaian kemenangan perlumbaan seperti 1, 10, 50 dan 100 kemenangan juga dijej
 Jika anda ingin melangkau tahap pengisaran, Lebuhraya menawarkan empat pembelian **Robux sekali**. Ini memberikan peningkatan tahap rata serta-merta - berguna jika anda mengejar pasukan berpagar tahap tertentu (katakan, Kesihatan pada Tahap 200).
 
 | Produk | Kesan |
-|---|---|
+| --- | --- |
 | +1 Tahap | 1 tahap, apa sahaja yang anda perlukan untuk melepasi ambang |
 | +10 Tahap | 10 peringkat |
 | +25 Tahap | 25 peringkat |

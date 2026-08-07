@@ -12,7 +12,7 @@ Lebuhraya supports keyboard, gamepad, touch, and VR. The game auto-detects your 
 Stand within about **6 studs** of a driver or passenger seat.
 
 | Platform | Button |
-|---|---|
+| --- | --- |
 | Keyboard | **F** |
 | Gamepad | **X** (controller face button) |
 | Touch | Tap the **Drive** / **Sit** button on screen |
@@ -29,7 +29,7 @@ Driver seats are usually locked to the vehicle's owner. If you try to sit in som
 Most vehicles use these default driving controls:
 
 | Action | Keyboard | Gamepad |
-|---|---|---|
+| --- | --- | --- |
 | Accelerate | **W** | Right trigger (RT) |
 | Brake / Reverse | **S** | Left trigger (LT) |
 | Steer left | **A** | Left stick |
@@ -45,7 +45,7 @@ Most vehicles use these default driving controls:
 Standard Roblox controls.
 
 | Action | Keyboard | Gamepad | Mobile |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Move | **W / A / S / D** | Left stick | On-screen d-pad |
 | Jump | **Space** | A | Jump button |
 | Sprint | (shift-to-run enabled in-game) | Left stick click | Sprint toggle |
@@ -54,7 +54,7 @@ Standard Roblox controls.
 ## Interface
 
 | Action | Keyboard / mouse | Mobile / touch | Gamepad |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Chat | **/** (forward slash) | Tap chat icon | Roblox chat shortcut |
 | Main menu | Topbar icon | Topbar icon | Navigate topbar, then select |
 | Phone | Topbar icon | Topbar icon | Navigate topbar, then select |
@@ -80,12 +80,12 @@ Open the main menu to access:
 - **Shop** - in-game purchases (gamepass prompts, tokens)
 - **Activity** - missions, challenges, and season pass progress
 - **More** - a card grid for:
- - **Career** - your career ranks and agency progress
- - **Jobs** - per-branch tier bars and rewards
- - **Tokens** - your active and stored tokens / boosts
- - **Credits** - development team and contributors
- - **Races** - time trial and PvP race menu
- - **Help** - tutorials when available
+- **Career** - your career ranks and agency progress
+- **Jobs** - per-branch tier bars and rewards
+- **Tokens** - your active and stored tokens / boosts
+- **Credits** - development team and contributors
+- **Races** - time trial and PvP race menu
+- **Help** - tutorials when available
 
 Career, Jobs, Tokens, Credits, Races, and Help are grouped under **More**.
 

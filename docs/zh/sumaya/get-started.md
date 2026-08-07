@@ -2,7 +2,7 @@
 title: 入门
 description: 开始玩 Sumaya - 主菜单、队伍选择、操作以及你进城的头五分钟。
 lang: zh
-translated_from_hash: '32721786'
+translated_from_hash: '326a2e5c'
 translated_on: '2026-08-07'
 needs_review: true
 ---
@@ -46,7 +46,7 @@ Main Menu 有一个 **Shop** 标签，你可以在那里购买 Robux gamepass �
 有五个队伍。其中三个(POLIS、BOMBA、Kesihatan)是有特定职责的紧急服务。另外两个(Visitors 和 Malaysians)让你扮演普通人。
 
 | 队伍 | 他们做什么 | 任何人都能加入吗? |
-|------|--------------|------------------|
+| ------ | -------------- | ------------------ |
 | Visitors | 普通市民,默认选项 | 是 |
 | Malaysians | 普通市民,已验证群组成员的装饰队伍 | 只有 MYSverse 群组 3 级以上成员 |
 | POLIS | 警察:逮捕罪犯、巡逻、执行限速 | 是 |
@@ -71,7 +71,7 @@ Main Menu 有一个 **Shop** 标签，你可以在那里购买 Robux gamepass �
 Sumaya 使用标准 Roblox 移动。在 PC 上:
 
 | 动作 | 按键 |
-|--------|-----|
+| -------- | ----- |
 | 移动 | W, A, S, D |
 | 冲刺 | Left Shift(按住) |
 | 跳跃 | Space |
@@ -142,7 +142,7 @@ Sumaya 使用标准 Roblox 移动。在 PC 上:
 每个玩家出生时背包里有五件工具:
 
 | 工具 | 它做什么 |
-|------|--------------|
+| ------ | -------------- |
 | **Phone** | 打开手机界面(应用、任务、MDT、999 通话、设置等)。游戏中使用最多的工具。 |
 | **Wallet** | 持有你的现金。装备它在另一个玩家附近以提供 **Sadaqa** 捐赠,或将其掉在地上用于角色扮演。查看 [经济](/zh/sumaya/economy)。 |
 | **Torchlight** | 带方向光束的手持手电筒。在夜间、黑暗内部或角色扮演场景中很有用。 |

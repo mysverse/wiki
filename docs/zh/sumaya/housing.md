@@ -2,7 +2,7 @@
 title: 房屋
 description: Sumaya 的地块、户型模板、等级、家具以及出售房屋说明。
 lang: zh
-translated_from_hash: eeea69f5
+translated_from_hash: 922d3224
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -35,7 +35,7 @@ Sumaya 目前有 **63 claimable plots**，每块地在认领前都可以从世�
 ### 房屋模板
 
 | 模板 | 等级 | 价格 |
-|----------|------|-------|
+| ---------- | ------ | ------- |
 | Small Bornean | Tier 1 | 25,000 Ringgit |
 | Spacious Bornean | Tier 2 | 29,000 Ringgit |
 | Compact Bornean | Tier 2 | 32,000 Ringgit |
@@ -47,7 +47,7 @@ Compact Bornean 比 Spacious Bornean **slightly more expensive**（虽然更小�
 
 Tier 1 是最便宜的入门选项。Tier 3 是高端选项。根据你想花多少钱和喜欢什么美学来选择。
 
-你选择的房屋模板决定了你的地块从外观看起来如何。之后你可以通过出售并重新购买切换到不同的模板（你将获得 70% 退款 - 见下文 [出售](#selling)）。
+你选择的房屋模板决定了你的地块从外观看起来如何。之后你可以通过出售并重新购买切换到不同的模板（你将获得 70% 退款 - 见下文 [出售](#出售)）。
 
 ## 家具
 

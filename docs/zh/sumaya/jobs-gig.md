@@ -2,7 +2,7 @@
 title: 零工
 description: Sumaya 的零工 - 快速平民任务、小游戏、报酬和重置。
 lang: zh
-translated_from_hash: 5ba728b2
+translated_from_hash: 0a8818a8
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -16,7 +16,7 @@ needs_review: true
 ## Gig 类型
 
 | Gig | 你做什么 | 基础奖励 |
-|-----|-------------|-------------|
+| ----- | ------------- | ------------- |
 | E-Hailing | 接送乘客 | 40 SR、8 XP，可能有 30% 小费 |
 | Pos Nasional | 派送包裹 | 每个包裹 35 SR 和 7 XP，可能有 10% 小费 |
 | Tow Truck | 回收或移动车辆 | 80 SR、12 XP，可能有 20% 小费 |

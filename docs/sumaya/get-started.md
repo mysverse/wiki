@@ -43,7 +43,7 @@ The Main Menu has a **Shop** tab where you can buy Robux gamepasses and one-time
 There are five teams. Three of them (POLIS, BOMBA, Kesihatan) are emergency services with specific duties. The other two (Visitors and Malaysians) let you play as a regular person.
 
 | Team | What they do | Anyone can join? |
-|------|--------------|------------------|
+| ------ | -------------- | ------------------ |
 | Visitors | Regular civilian, default option | Yes |
 | Malaysians | Regular civilian, cosmetic team for verified group members | Only MYSverse group members at Rank 3+ |
 | POLIS | Police: arrest criminals, patrol, enforce speed limits | Yes |
@@ -68,7 +68,7 @@ That's enough for a few shop items and basic expenses, but not for a paid car re
 Sumaya uses standard Roblox movement. On PC:
 
 | Action | Key |
-|--------|-----|
+| -------- | ----- |
 | Move | W, A, S, D |
 | Sprint | Left Shift (hold) |
 | Jump | Space |
@@ -139,7 +139,7 @@ Sprint toggles off automatically when you enter a vehicle seat.
 Every player spawns with five tools in their satchel:
 
 | Tool | What it does |
-|------|--------------|
+| ------ | -------------- |
 | **Phone** | Opens the phone UI (apps, quests, MDT, 999 calls, settings, etc.). The most-used tool in the game. |
 | **Wallet** | Holds your immediate cash. Equip it near another player to offer a **Sadaqa** donation, or drop it on the ground for roleplay flavour. See [Economy](/sumaya/economy). |
 | **Torchlight** | A handheld torch with a directional beam. Useful at night, in dark interiors, or for roleplay scenes. |

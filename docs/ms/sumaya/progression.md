@@ -2,7 +2,7 @@
 title: Kemajuan
 description: 'XP, tahap, pangkat, dan jalan terpantas untuk naik di Sumaya.'
 lang: ms
-translated_from_hash: 0b9aefb0
+translated_from_hash: 20c51b3e
 translated_on: '2026-08-07'
 needs_review: true
 ---
@@ -53,7 +53,7 @@ Berikut adalah berapa banyak XP yang diberikan oleh tindakan yang berbeza. Kedua
 ### Kerjaya awam
 
 | Tindakan | XP (skala dengan tahap) |
-|--------|------------------------|
+| -------- | ------------------------ |
 | Memancing dengan joran (per ikan dijual, 5 spesies) | 15 XP kepada pemain sahaja - TIDAK memajukan sektor fishing |
 | Pukat tunda (per ikan ditarik) | 2 XP kepada pemain dan sektor fishing |
 | Selesaikan pesanan mamak / makanan segera | Tetap **6 XP** setiap pelanggan + **bonus 10 XP akhir syif** jika minimum disajikan. Tiada skala tahap. |
@@ -63,7 +63,7 @@ Berikut adalah berapa banyak XP yang diberikan oleh tindakan yang berbeza. Kedua
 ### Perkhidmatan kecemasan
 
 | Tindakan | XP |
-|--------|-----|
+| -------- | ----- |
 | Bomba: padamkan 1 blok api | 5 XP |
 | Bomba: EMS lain berdekatan | 10 XP (kepada pembantu bukan Bomba) |
 | Kesihatan: diagnosis bantuan kecemasan | 15 XP |
@@ -110,7 +110,7 @@ Setiap sektor perkhidmatan awam mempunyai **pangkat** - gelaran yang dikemas kin
 ### Pangkat Bomba (13 jumlah)
 
 | Tahap | Pangkat |
-|-------|------|
+| ------- | ------ |
 | 1 | Pegawai Bomba (PB) |
 | 6 | Pegawai Bomba Kanan (PBK) |
 | 11 | Pegawai Bomba Tinggi (PBT) |
@@ -128,7 +128,7 @@ Setiap sektor perkhidmatan awam mempunyai **pangkat** - gelaran yang dikemas kin
 ### Pangkat Kesihatan (13 jumlah)
 
 | Tahap | Pangkat |
-|-------|------|
+| ------- | ------ |
 | 1 | Pelatih Perubatan |
 | 6 | Pegawai Rumah |
 | 11 | Jururawat |
@@ -146,7 +146,7 @@ Setiap sektor perkhidmatan awam mempunyai **pangkat** - gelaran yang dikemas kin
 ### Pangkat Polis (16 jumlah)
 
 | Tahap | Pangkat |
-|-------|------|
+| ------- | ------ |
 | 1 | Konstabel Polis |
 | 6 | Lans Koperal (L/Cpl) |
 | 11 | Koperal (Cpl) |
@@ -173,7 +173,7 @@ Beberapa perkara dibuka kunci apabila anda mencapai tahap atau tahap sektor tert
 ### Sekatan tahap pemain
 
 | Tahap | Buka kunci |
-|-------|--------|
+| ------- | -------- |
 | 1 | Permulaan permainan - kerja awam, kenderaan lalai, Tier 1 Trawler |
 | 2 | Selesaikan quest `q_levelup` (ganjaran 300 XP, 200 SR) |
 | 5 | Selesaikan quest `q_rising_star` (500 XP, 400 SR) |
@@ -183,7 +183,7 @@ Beberapa perkara dibuka kunci apabila anda mencapai tahap atau tahap sektor tert
 ### Sekatan tahap sektor (Bomba)
 
 | Tahap sektor | Buka kunci |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Merze Atego LFRT (percuma) |
 | 20 | Sanica 94D LFRT (9,000 Ringgit) |
 | 40 | Tayoti Hiace Bomba (12,000 Ringgit), Sanica P310 FRT (13,000 Ringgit) |
@@ -192,7 +192,7 @@ Beberapa perkara dibuka kunci apabila anda mencapai tahap atau tahap sektor tert
 ### Sekatan tahap sektor (Polis)
 
 | Tahap sektor | Buka kunci |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Protan Wira MPV Polis (percuma) |
 | 35 | Handai City MPV Polis (12,000 Ringgit) |
 | 55 | Handai Civic MPV Polis (15,000 Ringgit) |
@@ -200,7 +200,7 @@ Beberapa perkara dibuka kunci apabila anda mencapai tahap atau tahap sektor tert
 ### Sekatan tahap sektor (Kesihatan)
 
 | Tahap sektor | Buka kunci |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Tayoti Hiace KKN Ambulance (percuma) |
 | 20 | Tayoti Hilux KKN Ambulance (8,000 Ringgit) |
 | 45 | Handai City KKN Ambulance (12,000 Ringgit) |
@@ -208,7 +208,7 @@ Beberapa perkara dibuka kunci apabila anda mencapai tahap atau tahap sektor tert
 ### Sekatan sektor awam
 
 | Acara | Syarat |
-|-------|-----------|
+| ------- | ----------- |
 | Buka kunci Sektor Service (Mamak / Makanan Segera) | Capai tahap 50 dalam Fishing atau Agro |
 | Akses Tier 2 / Tier 3 Trawlers | Miliki Ringgit yang cukup untuk membelinya |
 

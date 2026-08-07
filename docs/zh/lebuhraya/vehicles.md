@@ -2,7 +2,7 @@
 title: 车辆
 description: Lebuhraya 全部 127 款车型 - 生成、燃料、撞车机制和个性化定制。
 lang: zh
-translated_from_hash: 5467cc70
+translated_from_hash: 9db848b7
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -32,13 +32,13 @@ Lebuhraya 拥有 **127 个存储的车辆模型**，其中 **116 个目前列在
 
 不同的物理生成器显示不同的车辆类别：
 
-|产卵者 |典型内容 |
-|---|---|
-| **基础/文明** |入门级和标准型民用车|
-| **自行车** |摩托车和踏板车|
+| 产卵者 | 典型内容 |
+| --- | --- |
+| **基础/文明** | 入门级和标准型民用车 |
+| **自行车** | 摩托车和踏板车 |
 | **Premium / Prem** | Premium及以上级别民用车 |
-| **特别** |代码/活动/特种车辆|
-| **团队生成器** |您当前团队的车辆，例如出租车、Bomba、KKN、警察、物流 |
+| **特别** | 代码/活动/特种车辆 |
+| **团队生成器** | 您当前团队的车辆，例如出租车、Bomba、KKN、警察、物流 |
 
 如果您在工作团队中，平民产卵者可能会阻止访问并发出警告。切换到Visitors或适当的团队/生成器类型。
 
@@ -58,12 +58,12 @@ Lebuhraya 拥有 **127 个存储的车辆模型**，其中 **116 个目前列在
 
 车辆价格与水平的关系松散。粗略指南：
 
-|水平|典型价格范围 |
-|---|---|
+| 水平 | 典型价格范围 |
+| --- | --- |
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
-| L125–150+ | BR 17,000 – 25,000（高级/超级跑车领域）|
+| L125–150+ | BR 17,000 – 25,000（高级/超级跑车领域） |
 
 一些仅限团队使用的车辆没有公开价格，因为它们会随着您在正确的职业分支中排名而解锁。 **在 116 辆刷怪者列表中的车辆中，大约有 55 辆**是职业锁定的。
 
@@ -71,32 +71,32 @@ Lebuhraya 拥有 **127 个存储的车辆模型**，其中 **116 个目前列在
 
 ### 锁定卡的含义
 
-|锁定文字|意义|
-|---|---|
-| **X级** |首先达到该玩家等级 |
-| **X 级** |提升匹配职业分支 |
-| **车辆已锁** |您没有特殊/gamepass/代码车辆 |
-|列表中缺失 |错误的生成器类型、错误的团队、隐藏的车辆或未满足要求 |
+| 锁定文字 | 意义 |
+| --- | --- |
+| **X级** | 首先达到该玩家等级 |
+| **X 级** | 提升匹配职业分支 |
+| **车辆已锁** | 您没有特殊/gamepass/代码车辆 |
+| 列表中缺失 | 错误的生成器类型、错误的团队、隐藏的车辆或未满足要求 |
 
 ## 车辆类别
 
 大部分车队都是对真正的马来西亚和全球品牌的模仿。如果你认识一辆真正的汽车，这里可能有一个替身。
 
-|类别 |示例 |
-|---|---|
-|紧凑型汽车| Protan Saga、Perosatu Myvi、Perosatu Bezza、Protan 角色、Perosatu Alza Plus |
-|轿车/轿车| Protan Preve、Protan Inspira、Protan S70、Tayoti 凯美瑞、Merze C300 |
+| 类别 | 示例 |
+| --- | --- |
+| 紧凑型汽车 | Protan Saga、Perosatu Myvi、Perosatu Bezza、Protan 角色、Perosatu Alza Plus |
+| 轿车/轿车 | Protan Preve、Protan Inspira、Protan S70、Tayoti 凯美瑞、Merze C300 |
 | SUV | Protan X50、Protan X70、Tayoti Hilux、Masubi 欧蓝德、MZ CX-5、Rolvo XC40/XC90 |
-|性能/运动 | NSN GT-R、NSN R34 Skyline、Tayoti Supra Mk.5、Masubi Lancer Evo X、Felari 458 Italia、Lampugini Hulakan、Bagaini Chiron |
-|摩托车 | Handai EX5、Handai CBR1000RR、卡崎 1400GTR、BMY R1200RT、Vespi |
-|客车/MPV | Tayoti Hiace 变体、Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Vellfire |
-|卡车/货物| Rolvo FM、Rolvo FM 底盘、Rolvo FM 滚装车、Sanica P310、Sanica P360 |
-|出租车 | Perosatu Bezza 出租车、Protan Saga 出租车、Protan Waja 出租车、Protan Preve 出租车 |
-|紧急情况 - Bomba | Masubi Triton 紧急/实用、Merze Atego LFRT、Sanica P310 FRT、Sanica P360 Tanker、Sanica 94D LFRT、Tayoti Hiace MTV EMRS |
-|紧急 - 医疗 | Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV |
-|警察 | Handai Civic Polis/HPV Polis 变种、Masubi Lancer HPV Polis、NSN 等Polis Escort、Kasaki Ninja Polis、BMY M5 CS Polis 变种 |
-|拖车/车间| iZu Tow Truck KEMRonda、iZu 拖车床KEMRonda、Renjer 装载机 2012 |
-|电动| Besla Y、MYD 阿托 III、Ionic I、Ionic V、CITO 阿米 |
+| 性能/运动 | NSN GT-R、NSN R34 Skyline、Tayoti Supra Mk.5、Masubi Lancer Evo X、Felari 458 Italia、Lampugini Hulakan、Bagaini Chiron |
+| 摩托车 | Handai EX5、Handai CBR1000RR、卡崎 1400GTR、BMY R1200RT、Vespi |
+| 客车/MPV | Tayoti Hiace 变体、Intero Citie、TKL_K230UB、TKL_Harimau Evo、Tayoti Vellfire |
+| 卡车/货物 | Rolvo FM、Rolvo FM 底盘、Rolvo FM 滚装车、Sanica P310、Sanica P360 |
+| 出租车 | Perosatu Bezza 出租车、Protan Saga 出租车、Protan Waja 出租车、Protan Preve 出租车 |
+| 紧急情况 - Bomba | Masubi Triton 紧急/实用、Merze Atego LFRT、Sanica P310 FRT、Sanica P360 Tanker、Sanica 94D LFRT、Tayoti Hiace MTV EMRS |
+| 紧急 - 医疗 | Tayoti Hiace KKN Ambulance、Handai City KKN RRV、Tayoti Hilux KKN RRV |
+| 警察 | Handai Civic Polis/HPV Polis 变种、Masubi Lancer HPV Polis、NSN 等Polis Escort、Kasaki Ninja Polis、BMY M5 CS Polis 变种 |
+| 拖车/车间 | iZu Tow Truck KEMRonda、iZu 拖车床KEMRonda、Renjer 装载机 2012 |
+| 电动 | Besla Y、MYD 阿托 III、Ionic I、Ionic V、CITO 阿米 |
 
 大多数团队专用车辆（Bomba、KKN、警察）可通过您的职业发展或团队gamepass 来解锁。
 
@@ -104,8 +104,8 @@ Lebuhraya 拥有 **127 个存储的车辆模型**，其中 **116 个目前列在
 
 每辆车都使用三种燃料之一。
 
-|燃料 |每升价格|
-|---|---|
+| 燃料 | 每升价格 |
+| --- | --- |
 | **电动** | 1 BR |
 | **汽油** | 2 BR |
 | **柴油** | 3 BR |
@@ -194,7 +194,7 @@ Bandar Seri Putra中的**Gravstone Workshop**是游戏的绘画和视觉定制�
 
 - **Bandar Seri Putra** 生成器问题 **雪兰莪板块** - `B%` 前缀（例如 BJH 1234）。
 - **Kampung Merbang** 和 **Jersik** 生成器问题 **森美兰板块** - `N%` 前缀。
-- 每次生成时，沿着高速公路中间（区域之间）的生成器都会在 B 和 N** 之间随机选择 **50/50。
+- 每次生成时，沿着高速公路中间（区域之间）的生成器都会在 B 和 N**之间随机选择**50/50。
 
 因此，您刚刚在休息站道路上生成的汽车可能这次是 B 牌，下一次是 N 牌 - 这是马来西亚玩家立即注意到的一个小细节。
 
@@ -220,26 +220,26 @@ Bandar Seri Putra中的**Gravstone Workshop**是游戏的绘画和视觉定制�
 
 六辆专用车辆有一个**牵引/绞车面板** - 当您与机舱内的控制面板交互时，会出现适合移动设备的景观HUD：
 
-|车辆 |团队|面板|
-|---|---|---|
-| iZu Tow Truck KEMRonda | KEMRonda |拖臂控制|
-| iZu 拖床KEMRonda | KEMRonda |平板控制|
-| Tayoti Hilux KKN RRV | Kesihatan |救援绞车控制|
-| Merze Atego LFRT Bomba | Bomba |梯子绞车控制|
-| Sanica P310 FRT Bomba | Bomba |梯子绞车控制|
-| Sanica 94D LFRT Bomba | Bomba |梯子绞车控制|
+| 车辆 | 团队 | 面板 |
+| --- | --- | --- |
+| iZu Tow Truck KEMRonda | KEMRonda | 拖臂控制 |
+| iZu 拖床KEMRonda | KEMRonda | 平板控制 |
+| Tayoti Hilux KKN RRV | Kesihatan | 救援绞车控制 |
+| Merze Atego LFRT Bomba | Bomba | 梯子绞车控制 |
+| Sanica P310 FRT Bomba | Bomba | 梯子绞车控制 |
+| Sanica 94D LFRT Bomba | Bomba | 梯子绞车控制 |
 
 **键盘快捷键**（面板打开后）：
 
-|关键|行动|
-|---|---|
-| **1** |切换绞车 1 的连接模式（单击车辆/零件以将其定位）|
-| **2** |切换绞车 2 的连接模式（带有第二个绞车的平板车/清障车）|
-| **X** |取消附加模式 |
-| **Z** |焊接（将附加车辆熔合到您的车辆上）|
-| **V** |释放/拆焊|
-| **[** |下层床/坡道|
-| **]** |升高床/坡道|
+| 关键 | 行动 |
+| --- | --- |
+| **1** | 切换绞车 1 的连接模式（单击车辆/零件以将其定位） |
+| **2** | 切换绞车 2 的连接模式（带有第二个绞车的平板车/清障车） |
+| **X** | 取消附加模式 |
+| **Z** | 焊接（将附加车辆熔合到您的车辆上） |
+| **V** | 释放/拆焊 |
+| **[** | 下层床/坡道 |
+| **]** | 升高床/坡道 |
 
 **访问规则**：如果您拥有车辆或属于匹配团队，则可以使用面板：KEMRonda、Bomba 或 Kesihatan。否则游戏会显示访问警告。
 

@@ -2,7 +2,7 @@
 title: Memancing
 description: 'Memancing di Sumaya - tempat, jenis ikan, harga, dan kemajuan.'
 lang: ms
-translated_from_hash: "f5a12209"
+translated_from_hash: "8d42a999"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -30,7 +30,7 @@ Lengkapkan joran, bidik ke air dalam lingkungan **80 stud**, dan lontar. Terdapa
 Sumaya mempunyai **5 spesies** ikan yang boleh anda tangkap dengan joran:
 
 | Ikan | XP | Ringgit |
-|------|-----|---------|
+| ------ | ----- | --------- |
 | Baung | 15 | 8 |
 | Empurau | 15 | 8 |
 | Patin | 15 | 8 |
@@ -57,7 +57,7 @@ Angka itu nampak kecil, tetapi pukat boleh memuatkan banyak ikan, dan XP sektor 
 ### Bot pukat
 
 | Tier | Harga | Cara mendapatkan |
-|------|-------|------------|
+| ------ | ------- | ------------ |
 | Tier 1 Trawler | Percuma ketika anda bertugas memancing | Jana di mana-mana penjana bot memancing |
 | Tier 2 Trawler | 25,000 Ringgit untuk beli | Kerja dan simpan duit |
 | Tier 3 Trawler | 37,000 Ringgit untuk beli | Untuk peminat memancing yang serius |

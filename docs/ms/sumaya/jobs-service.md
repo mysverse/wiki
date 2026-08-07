@@ -2,7 +2,7 @@
 title: Sektor Perkhidmatan (Mamak & Makanan Segera)
 description: Kerjaya mamak dan makanan segera di Sumaya.
 lang: ms
-translated_from_hash: acc7e8e7
+translated_from_hash: 4a727cd4
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -40,7 +40,7 @@ Rentaknya stabil - Pelanggan datang dengan kerap, dan setiap Pesanan yang siap m
 Pembayaran masuk ke dalam **akaun bank** anda (bukan dompet) di bawah "Mamak Sdn. Bhd." atau gaji Fast Food yang setara apabila anda clock out atau selesai melayan Pelanggan.
 
 | Venue | Setiap Pelanggan (Ringgit) | Bonus setiap 10 Pelanggan | Denda Pesanan salah |
-|-------|------------------------|--------------------------|---------------------|
+| ------- | ------------------------ | -------------------------- | --------------------- |
 | Mamak | 30 | +180 | -25 |
 | Fast Food | 25 | +150 | -20 |
 

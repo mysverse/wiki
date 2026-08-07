@@ -167,6 +167,7 @@ Bandaraya-வின் Kuala Lumpur பகுதியில் எது எங
 **Orwell CCTV System** - KL முழுவதும் **30 cameras** (verified), IPD Dang Wangi உள்ள CCTV desk-இல் இருந்து கட்டுப்படுத்தப்படும். PTZ (pan-tilt-zoom), bullet cameras, மற்றும் DME / HEROS-series fixed cameras கலவை.
 
 Coverage உண்மையான KL-இனால் ஈர்க்கப்பட்ட இடங்களை உள்ளடக்கும்:
+
 - **Menara Maxis pickup** மற்றும் Jalan Lorong Kuda × Jalan Stonor
 - **Pavilion Bukit Bintang** மற்றும் Jalan Bukit Bintang × Jalan Sultan Ismail
 - **Ampang Road / KLBT** (இரு திசைகளும்)

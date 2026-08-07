@@ -4,7 +4,7 @@ description: >-
   Setiap kerja di Lebuhraya - disusun mengikut agensi (Pengangkutan dan banyak
   lagi) dengan kadar gaji.
 lang: ms
-translated_from_hash: '48569759'
+translated_from_hash: 'ad6200d2'
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -46,12 +46,14 @@ Buka **Main Menu -> Aktiviti** untuk menjejaki misi/cabaran, dan **Main Menu -> 
 **Bagaimana untuk bermula**: Sertai pasukan Taxi Driver daripada Main Menu. Togol status **Tugas** anda kepada hidup dari TaxiGui pada skrin.
 
 **Apa yang anda lakukan**:
+
 1. Apabila anda sedang bertugas, tempat pengambilan ditetapkan - pandu ke NPC menunggu teksi.
 2. NPC masuk ke dalam teksi anda. Pandu ke titik penurunan yang ditanda.
 3. Misi selesai apabila anda berhenti dalam jarak (kira-kira 50 studs) daripada penurunan.
 4. Misi baru diberikan serta-merta.
 
 **Ganjaran**:
+
 - **XP** penimbang dengan jarak. Tambang yang lebih lama membayar lebih.
 - Tambang BR bukanlah pembayaran langsung yang boleh dipercayai, jadi anggap kerja teksi sebagai pekerjaan XP dan kemajuan kerjaya buat masa ini.
 
@@ -78,6 +80,7 @@ Buka **Main Menu -> Aktiviti** untuk menjejaki misi/cabaran, dan **Main Menu -> 
 **Bagaimana untuk bermula**: Sertai pasukan Logistik. Pergi ke tempat kontrak pengangkutan (ditandakan ProximityPrompts di sekitar peta) dan lakukan penghantaran.
 
 **Apa yang anda lakukan**:
+
 1. Cari kontraktor pengangkutan (ProximityPrompt). Terima kontrak dan trak / treler pengangkutan diberikan kepada anda.
 2. Tambat treler ke mata cangkuk dan pandu trak yang dimuatkan ke destinasi penghantaran.
 3. Tanggalkan dan selesaikan penghantaran.
@@ -97,6 +100,7 @@ Buka **Main Menu -> Aktiviti** untuk menjejaki misi/cabaran, dan **Main Menu -> 
 **Bagaimana untuk bermula**: Sertai pasukan Food Delivery. Penghantaran diberikan kepada anda secara automatik.
 
 **Apa yang anda lakukan**:
+
 1. Pergi ke kedai yang ditunjukkan di titik laluan anda (salah satu daripada [12 kedai](/ms/lebuhraya/shops)).
 2. Berinteraksi dengan kedai NPC untuk mengambil pesanan makanan (watak anda akan menerima item makanan sebagai alat).
 3. Pandu ke lokasi pelanggan di titik laluan anda.
@@ -133,6 +137,7 @@ Menukar zon memaksa anda untuk menghentikan kerja semasa, jadi pilih zon dan kek
 **Bagaimana untuk bermula**: Sertai pasukan Waste Disposal. Baca alat **Waste Disposal Panduan** dalam inventori anda.
 
 **Apa yang anda lakukan**:
+
 1. Pandu lori sampah anda ke tong sampah. Terdapat **114 tong** yang bertaburan di seluruh peta.
 2. Berinteraksi dengan gesaan bin untuk mencetuskan animasi mengangkat. Sampah terkumpul di atas trak anda.
 3. Setelah trak penuh, pandu ke salah satu daripada dua **Stesen Insinerasi** (stesen pembakaran - Bandar Seri Putra dan Jersik).
@@ -155,6 +160,7 @@ Menukar zon memaksa anda untuk menghentikan kerja semasa, jadi pilih zon dan kek
 **Bagaimana untuk bermula**: Sertai pasukan Bomba. Lengkapkan alat **Pager** anda untuk menerima makluman kecemasan. Apabila panggilan 999 masuk (kebakaran, kemalangan), terima kejadian itu.
 
 **Apa yang anda lakukan**:
+
 - **Memadam kebakaran**: Bertindak balas terhadap kebakaran, gunakan hos dan alat pemadam api.
 - **Rescue**: Gunakan penyebar dan gergaji rantai untuk mengeluarkan pemandu yang terperangkap.
 - **Bantuan perubatan**: Bomba bertindak balas kepada kemalangan kereta bersama Kesihatan.
@@ -172,6 +178,7 @@ Menukar zon memaksa anda untuk menghentikan kerja semasa, jadi pilih zon dan kek
 **Bagaimana untuk bermula**: Sertai pasukan Kesihatan. Lengkapkan alat **Pager** anda. Terima 999 insiden perubatan.
 
 **Apa yang anda lakukan**:
+
 1. Bertindak balas kepada lokasi kejadian (dalam 12 studs untuk berinteraksi).
 2. **Menilai** kecederaan pesakit - jangan berlengah. Menunggu lebih lama daripada 60 saat sebelum menilai akan dikenakan penalti kelangsungan hidup.
 3. **Rawat** kecederaan mengikut urutan yang betul menggunakan alatan anda (Splint, First Aid Kit, Bandage). Rawatan yang salah mengurangkan skor survival pesakit sebanyak 3 setiap kesilapan.
@@ -182,7 +189,7 @@ Menukar zon memaksa anda untuk menghentikan kerja semasa, jadi pilih zon dan kek
 **Jenis kecederaan** termasuk luka, patah anggota badan, pendarahan berat, renjatan, pesakit tidak sedarkan diri dan kecederaan berkaitan kebakaran. Setiap satu memerlukan urutan rawatan yang betul:
 
 | Kecederaan | Langkah rawatan | Pangkalan XP |
-|---|---|---|
+| --- | --- | --- |
 | Luka & Lebam Kecil | Stabilkan Pendarahan → Sapukan Pembalut | 50 |
 | Patah Tangan / Patah Kaki (kiri atau kanan) | Sapukan Splint | 75 |
 | Kecederaan Otak Traumatik | Stabilkan Pesakit → Sapukan Pembalut | 100 |
@@ -200,7 +207,7 @@ Tindakan rawatan mengambil masa **2–5 saat** setiap satu untuk dilakukan. Baca
 **Aliran penuh** dan sumber XP biasa:
 
 | Langkah | XP |
-|---|---|
+| --- | --- |
 | Penilaian | 25 |
 | Rawatan kecederaan (semua betul) | 50–100 setiap kecederaan |
 | Bonus penstabilan | +50 |
@@ -243,6 +250,7 @@ Semua pasukan polis berkongsi penghantaran kecemasan 999 dan boleh menggunakan a
 **Apa yang anda lakukan**: Penguatkuasaan undang-undang trafik - gunakan **Radar Gun** untuk menangkap pemandu laju, bertindak balas terhadap 999 insiden, mengeluarkan tiket.
 
 **Kesalahan automatik**: Permainan ini boleh mengesan **melanggar lampu merah** dan **meluncur laju**. Setiap kesalahan yang dikesan:
+
 - Menunjukkan pemberitahuan merah pada skrin pemandu yang menyinggung perasaan
 - Boleh memberitahu pegawai trafik untuk tindakan susulan
 
@@ -301,6 +309,7 @@ Polis Trafik pemain boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 **Bagaimana untuk bermula**: Sertai pasukan Lumberjack, lengkapkan alat **Kapak** anda, pergi ke zon penebang kayu (berhampiran H Plantation di Jersik).
 
 **Apa yang anda lakukan**:
+
 1. Tebang pokok dengan kapak (anda mesti berada dalam lingkungan 8–15 studs pokok).
 2. Kayu terkumpul dalam storan setiap pemain anda.
 3. Jual kayu di kedai dengan harga XP.
@@ -310,7 +319,7 @@ Polis Trafik pemain boleh dimaklumkan tentang kesalahan yang dikesan dan bertind
 **Kapasiti storan bertambah dengan tahap Lumberjack anda**:
 
 | Tahap Pemain | Penyimpanan (kg) |
-|---|---|
+| --- | --- |
 | 1 | 10 |
 | 50 | ~40 |
 | 100 | ~79 |
@@ -330,6 +339,7 @@ Storan tumbuh perlahan pada mulanya dan lebih cepat pada tahap yang lebih tinggi
 **Apa yang anda lakukan**: Kelas berjalan pada **kitaran loceng 2 minit** - loceng berbunyi semasa kelas bermula dan berakhir. Semasa di dalam kelas, kuiz bermula. Setiap soalan ditetapkan masa - jawab lebih cepat untuk bonus yang lebih besar.
 
 **Pemarkahan setiap jawapan yang betul**:
+
 - Skor asas: **10 mata**
 - Bonus masa: sehingga bonus penuh jika anda menjawab dalam masa **2.5 saat**; mereput secara linear kepada sifar selepas itu
 - **250 XP** setiap jawapan yang betul (penggandaan dikenakan)
@@ -347,6 +357,7 @@ Aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians** (sertai 
 **Bagaimana untuk bermula**: Lengkapkan pancing dan pergi ke **Fishing Pelabuhan** (di kawasan pantai peta) atau mana-mana air.
 
 **Apa yang anda lakukan**:
+
 1. Lemparkan joran anda.
 2. Tunggu suap.
 3. Goncangkan rod (ikut gesaan pada skrin) untuk berguling.
@@ -355,7 +366,7 @@ Aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians** (sertai 
 **Apa yang anda boleh tangkap**: Senarai ikan semasa mempunyai 10 penyertaan, ditimbang mengikut kelangkaan dan membayar berbeza XP pada jualan:
 
 | Tangkap | Jarang | XP dijual |
-|---|---|---|
+| --- | --- | --- |
 | Torpedo Scad | Biasa | 8 |
 | Tenggiri India | Biasa | 15 |
 | Bawal | Jarang | 22 |
@@ -378,6 +389,7 @@ Aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians** (sertai 
 **Bagaimana untuk bermula**: Berjalan ke stesen juruwang di kedai makanan atau KeluargaMart.
 
 **Apa yang anda lakukan**:
+
 1. Seorang pelanggan NPC bertelur di kaunter. Avatar pelanggan **dipilih secara rawak daripada Roblox senarai rakan anda** - jadi jika rakan anda bermain Lebuhraya juga, mereka mungkin muncul sebagai pelanggan anda yang seterusnya. (Memerlukan anda mempunyai sekurang-kurangnya seorang rakan untuk bermain.)
 2. Pelanggan meminta 1–4 item makanan daripada menu yang tersedia.
 3. Anda mempunyai **15–20 saat** untuk memilih item yang betul dan melengkapkan pesanan.
@@ -396,13 +408,14 @@ Aktiviti ini tersedia untuk sesiapa sahaja dalam pasukan **Malaysians** (sertai 
 **Cara bermula**: Buka menu perlumbaan dari bar atas dan pilih trek.
 
 **Apa yang anda lakukan**:
+
 - **Percubaan Masa** - berlumba sendirian melawan masa. Tetapkan rekod prestasi.
 - **Lobi PvP** - buat atau sertai lobi, tunggu pemain memuat masuk, mulakan perlumbaan.
 
 **Cara ganjaran dikira**: Peletakan yang lebih baik, trek yang lebih sukar dan yang terbaik peribadi membayar lebih XP. Sesetengah kaum juga boleh memberikan BR.
 
 | Penempatan dalam PvP | Jangkaan ganjaran |
-|---|---|
+| --- | --- |
 | pertama | Pembayaran terbaik |
 | ke-2 | Pembayaran yang kukuh |
 | ke-3 | Pembayaran yang baik |

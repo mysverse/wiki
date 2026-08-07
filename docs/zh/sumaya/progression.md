@@ -2,7 +2,7 @@
 title: 进度
 description: Sumaya 的 XP、等级、职级系统，以及最快晋升路径。
 lang: zh
-translated_from_hash: 0b9aefb0
+translated_from_hash: 20c51b3e
 translated_on: '2026-08-07'
 needs_review: true
 ---
@@ -53,7 +53,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 平民职业
 
 | 动作 | XP（随等级缩放） |
-|--------|------------------------|
+| -------- | ------------------------ |
 | 钓竿钓鱼（每条售出的鱼，5 个物种） | 15 XP 仅给玩家 - 不会推进 fishing 领域 |
 | 拖网捕鱼（每条拉起的鱼） | 2 XP 给玩家和 fishing 领域 |
 | 完成 mamak / 快餐订单 | 每位顾客固定 **6 XP** + 如果达到最低服务量则 **10 XP 班次结束奖励**。没有等级缩放。 |
@@ -63,7 +63,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 紧急服务
 
 | 动作 | XP |
-|--------|-----|
+| -------- | ----- |
 | Bomba：扑灭 1 个火焰块 | 5 XP |
 | Bomba：附近其他 EMS | 10 XP（给非 Bomba 协助者） |
 | Kesihatan：急救诊断 | 15 XP |
@@ -110,7 +110,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### Bomba 职级（共 13 个）
 
 | 等级 | 职级 |
-|-------|------|
+| ------- | ------ |
 | 1 | Pegawai Bomba (PB) |
 | 6 | Pegawai Bomba Kanan (PBK) |
 | 11 | Pegawai Bomba Tinggi (PBT) |
@@ -128,7 +128,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### Kesihatan 职级（共 13 个）
 
 | 等级 | 职级 |
-|-------|------|
+| ------- | ------ |
 | 1 | 医疗实习生 |
 | 6 | 住院医师 |
 | 11 | 护士 |
@@ -146,7 +146,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### Polis 职级（共 16 个）
 
 | 等级 | 职级 |
-|-------|------|
+| ------- | ------ |
 | 1 | 警员 |
 | 6 | 一等警长 (L/Cpl) |
 | 11 | 警长 (Cpl) |
@@ -173,7 +173,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 玩家等级门控
 
 | 等级 | 解锁 |
-|-------|--------|
+| ------- | -------- |
 | 1 | 游戏开始 - 平民工作、默认车辆、Tier 1 Trawler |
 | 2 | 完成 `q_levelup` 任务（奖励 300 XP，200 SR） |
 | 5 | 完成 `q_rising_star` 任务（500 XP，400 SR） |
@@ -183,7 +183,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 领域等级门控（Bomba）
 
 | 领域等级 | 解锁 |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Merze Atego LFRT（免费） |
 | 20 | Sanica 94D LFRT（9,000 Ringgit） |
 | 40 | Tayoti Hiace Bomba（12,000 Ringgit），Sanica P310 FRT（13,000 Ringgit） |
@@ -192,7 +192,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 领域等级门控（Polis）
 
 | 领域等级 | 解锁 |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Protan Wira MPV Polis（免费） |
 | 35 | Handai City MPV Polis（12,000 Ringgit） |
 | 55 | Handai Civic MPV Polis（15,000 Ringgit） |
@@ -200,7 +200,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 领域等级门控（Kesihatan）
 
 | 领域等级 | 解锁 |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Tayoti Hiace KKN Ambulance（免费） |
 | 20 | Tayoti Hilux KKN Ambulance（8,000 Ringgit） |
 | 45 | Handai City KKN Ambulance（12,000 Ringgit） |
@@ -208,7 +208,7 @@ Sumaya 拥有**双层 XP 系统**：你的每个动作都会获得**玩家 XP**�
 ### 平民领域门控
 
 | 事件 | 条件 |
-|-------|-----------|
+| ------- | ----------- |
 | 解锁 Service 领域（Mamak / 快餐） | 在 Fishing 或 Agro 中达到等级 50 |
 | 访问 Tier 2 / Tier 3 Trawlers | 拥有足够的 Ringgit 购买它们 |
 

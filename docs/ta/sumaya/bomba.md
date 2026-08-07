@@ -4,7 +4,7 @@ description: >-
   Sumaya-வில் BOMBA விளையாடுதல் - தீயணைப்பு வாகனங்கள், ஹைட்ரண்டுகள், மற்றும் தீ
   சம்பவங்கள்.
 lang: ta
-translated_from_hash: 1dd820f0
+translated_from_hash: 71946b02
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -80,7 +80,7 @@ Fire block அணைக்கப்படும்போது நீங்க�
 உங்கள் sector level உயரும்போது Bomba வாகனங்கள் திறக்கப்படுகின்றன.
 
 | வாகனம் | தேவையான Sector level | விலை |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Merze Atego LFRT | 1 | இலவசம் |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -96,7 +96,7 @@ Fire block அணைக்கப்படும்போது நீங்க�
 Bomba-வில் 13 தரங்கள் உள்ளன, இது MYSverse-இன் உண்மையான Fire and Rescue Department-ஐ (Bomba MYSverse) அடிப்படையாகக் கொண்டது. உங்கள் sector level உயரும்போது உங்கள் title தானாகவே update ஆகிறது.
 
 | Level | தரம் |
-|-------|------|
+| ------- | ------ |
 | 1 | Pegawai Bomba (PB) |
 | 6 | Pegawai Bomba Kanan (PBK) |
 | 11 | Pegawai Bomba Tinggi (PBT) |

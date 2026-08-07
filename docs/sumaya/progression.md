@@ -48,7 +48,7 @@ Here's how much XP different actions give. Both player XP and sector XP, unless 
 ### Civilian careers
 
 | Action | XP (scales with level) |
-|--------|------------------------|
+| -------- | ------------------------ |
 | Rod fishing (per sold fish, 5 species) | 15 XP to player only - does NOT advance fishing sector |
 | Trawl fishing (per pulled fish) | 2 XP to both player and fishing sector |
 | Complete a mamak / fast food order | Flat **6 XP** per customer + **10 XP shift-end bonus** if minimum served. No level scaling. |
@@ -58,7 +58,7 @@ Here's how much XP different actions give. Both player XP and sector XP, unless 
 ### Emergency services
 
 | Action | XP |
-|--------|-----|
+| -------- | ----- |
 | Bomba: extinguish 1 fire block | 5 XP |
 | Bomba: other EMS nearby | 10 XP (to non-Bomba helpers) |
 | Kesihatan: first aid diagnosis | 15 XP |
@@ -105,7 +105,7 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 ### Bomba ranks (13 total)
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Fire Officer (PB) |
 | 6 | Senior Fire Officer (PBK) |
 | 11 | Leading Fire Officer (PBT) |
@@ -123,7 +123,7 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 ### Kesihatan ranks (13 total)
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Medical Trainee |
 | 6 | House Officer |
 | 11 | Nurse |
@@ -141,7 +141,7 @@ Each public-service sector has **ranks** - titles that auto-update based on your
 ### Polis ranks (16 total)
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Police Constable |
 | 6 | Lance Corporal (L/Cpl) |
 | 11 | Corporal (Cpl) |
@@ -168,7 +168,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 ### Player level gates
 
 | Level | Unlock |
-|-------|--------|
+| ------- | -------- |
 | 1 | Game start - civilian jobs, default vehicles, Tier 1 Trawler |
 | 2 | Completes the early level-up quest (rewards 300 XP, 200 SR) |
 | 5 | Completes the rising star quest (500 XP, 400 SR) |
@@ -178,7 +178,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 ### Sector level gates (Bomba)
 
 | Sector level | Unlock |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Merze Atego LFRT (free) |
 | 20 | Sanica 94D LFRT (9,000 Ringgit) |
 | 40 | Tayoti Hiace Bomba (12,000 Ringgit), Sanica P310 FRT (13,000 Ringgit) |
@@ -187,7 +187,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 ### Sector level gates (POLIS)
 
 | Sector level | Unlock |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Protan Wira MPV Polis (free) |
 | 35 | Handai City MPV Polis (12,000 Ringgit) |
 | 55 | Handai Civic MPV Polis (15,000 Ringgit) |
@@ -195,7 +195,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 ### Sector level gates (Kesihatan)
 
 | Sector level | Unlock |
-|--------------|--------|
+| -------------- | -------- |
 | 1 | Tayoti Hiace KKN Ambulance (free) |
 | 20 | Tayoti Hilux KKN Ambulance (8,000 Ringgit) |
 | 45 | Handai City KKN Ambulance (12,000 Ringgit) |
@@ -203,7 +203,7 @@ Some things unlock as you hit specific levels or sector levels. Most of these ar
 ### Civilian sector gates
 
 | Event | Condition |
-|-------|-----------|
+| ------- | ----------- |
 | Unlock Service Sector (Mamak / Fast Food) | Reach level 50 in Fishing or Agro |
 | Access Tier 2 / Tier 3 Trawlers | Own enough Ringgit to buy them |
 

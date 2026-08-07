@@ -30,7 +30,7 @@ Each fruit you drop into the bucket pays a flat **20 Ringgit and 6 XP** (player 
 The agricultural sector ships **four tiers** of sickle and waist bucket. Higher tiers cost SR up front but pay you back through faster cuts and longer harvest runs before you have to drop off:
 
 | Tier | Sickle hold time | Bucket capacity | Sector level | Sickle price | Bucket price |
-|------|-----------------|-----------------|--------------|--------------|--------------|
+| ------ | ----------------- | ----------------- | -------------- | -------------- | -------------- |
 | 1 | 12 s | 10 fruits | 1 | Free | Free |
 | 2 | 10 s | 30 fruits | 20 | 4,000 SR | 2,000 SR |
 | 3 | 7 s | 60 fruits | 40 | 5,000 SR | 2,500 SR |

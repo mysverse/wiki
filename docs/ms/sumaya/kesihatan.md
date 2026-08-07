@@ -4,7 +4,7 @@ description: >-
   Bermain sebagai Kesihatan di Sumaya - ambulans, rawatan, dan menghidupkan
   semula.
 lang: ms
-translated_from_hash: bb22aefd
+translated_from_hash: 6e8075e7
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -40,7 +40,7 @@ Pelayan menyahaktifkan sistem kecederaan sebaik sahaja pemain Kesihatan terakhir
 ### Jenis kecederaan
 
 | Kecederaan | Apa itu | Rawatan |
-|--------|------------|-----------|
+| -------- | ------------ | ----------- |
 | Luka kecil / lebam | Calar, luka kecil | Bandage |
 | Broken arm | Memperlahankan animasi tangan, menjejaskan alat tertentu | Splint |
 | Broken leg | Mengurangkan kelajuan berjalan kepada 30% | Splint |
@@ -93,7 +93,7 @@ Hospital mempunyai beberapa katil perubatan, ditambah mesin X-Ray, mesin MRI, da
 ## Ringkasan ganjaran
 
 | Tindakan | XP | Ringgit |
-|--------|-----|---------|
+| -------- | ----- | --------- |
 | Diagnosis pertolongan cemas | 15 | 0 |
 | Penyembuhan Bandage | 30 | 100 |
 | Penyembuhan Splint | 40 | 200 |
@@ -109,7 +109,7 @@ Tambahan:
 Ambulans Kesihatan dibuka apabila tahap sektor anda meningkat.
 
 | Kenderaan | Tahap sektor diperlukan | Harga |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Tayoti Hiace KKN Ambulance | 1 | Percuma |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
@@ -123,7 +123,7 @@ Lihat [Vehicles](/ms/sumaya/vehicles) untuk cara spawn mereka.
 Kesihatan mempunyai 13 pangkat, secara longgar berdasarkan jawatan penjagaan kesihatan Malaysia sebenar. Tajuk anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
 | Tahap | Pangkat |
-|-------|------|
+| ------- | ------ |
 | 1 | Medical Trainee |
 | 6 | House Officer |
 | 11 | Nurse |

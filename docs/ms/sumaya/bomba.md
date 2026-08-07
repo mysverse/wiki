@@ -4,7 +4,7 @@ description: >-
   Bermain sebagai BOMBA di Sumaya - jentera bomba, hidran, dan insiden
   kebakaran.
 lang: ms
-translated_from_hash: 1dd820f0
+translated_from_hash: 71946b02
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -80,7 +80,7 @@ Ganjaran hanya dikira apabila anda berada dalam **512 studs** dari blok api sema
 Kenderaan Bomba dibuka apabila tahap sektor anda meningkat.
 
 | Kenderaan | Tahap sektor diperlukan | Harga |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Merze Atego LFRT | 1 | Percuma |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -96,7 +96,7 @@ Lihat [Vehicles](/ms/sumaya/vehicles) untuk cara memunculkannya.
 Bomba mempunyai 13 pangkat, berdasarkan Bomba MYSverse sebenar MYSverse (Bomba MYSverse). Tajuk anda dikemas kini secara automatik apabila tahap sektor anda meningkat.
 
 | Tahap | Pangkat |
-|-------|------|
+| ------- | ------ |
 | 1 | Pegawai Bomba (PB) |
 | 6 | Pegawai Bomba Kanan (PBK) |
 | 11 | Pegawai Bomba Tinggi (PBT) |

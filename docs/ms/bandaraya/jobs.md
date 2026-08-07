@@ -54,6 +54,7 @@ Formula: gaji ialah `60 + (Tahap × 10)` BR.
 Anda akan mencapai had maksimum pada Tahap 20 dengan 260 BR/penghantaran. Itulah had tertinggi.
 
 Setiap penghantaran memberi **25 XP**, jadi:
+
 - Tahap 1 → 2 memerlukan **4 penghantaran** (100 XP)
 - Tahap 10 → 11 memerlukan **40 penghantaran**
 - Tahap 19 → 20 memerlukan **76 penghantaran**

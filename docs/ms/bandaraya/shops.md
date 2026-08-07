@@ -4,7 +4,7 @@ description: >-
   Panduan lengkap kedai, vendor NPC, gamepass, dan sistem ekonomi Bandar Ringgit
   (BR).
 lang: ms
-translated_from_hash: "207f40e4"
+translated_from_hash: "3f50d08a"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -18,7 +18,7 @@ Bandaraya mempunyai ekonomi dalam permainan yang kaya berpusat pada mata wang **
 ### Pekerjaan & Pendapatan
 
 | Pekerjaan | Pasukan Diperlukan | Penerangan |
-|---|---|---|
+| --- | --- | --- |
 | Pos Nasional | Tiada (mana-mana pasukan) | Hantar bungkusan di pejabat pos. Naik pangkat untuk membuka kenderaan penghantaran baru. |
 | Taxi Driver | Taxi (gamepass) | Bawa pemain ke seluruh bandar untuk pendapatan tambang. |
 | Team Salary | Pasukan agensi | Bayaran gaji berkala berdasarkan pasukan aktif anda (Police, Military, Bomba, dll.). |
@@ -37,7 +37,7 @@ Kedai yang dikendalikan NPC terletak di seluruh bandar. Pergi ke butang merah ke
 Snek dan minuman pada harga yang berpatutan - sesuai untuk roleplay.
 
 | Barangan | Harga (BR) |
-|---|---|
+| --- | --- |
 | Mineral Water | 2 |
 | Double Decker | 3 |
 | Super Ring | 3 |
@@ -61,7 +61,7 @@ Kedai teh dan kopi bergaya Malaysia dengan mesin aiskrim dan tempat duduk yang s
 Minuman yang disajikan di kelab malam Club Kunyet:
 
 | Minuman | Harga (BR) |
-|---|---|
+| --- | --- |
 | Hong's Green Tea | 20 |
 | Fruit Punch | 20 |
 | Inzun's Coffee | 25 |
@@ -81,7 +81,7 @@ Kedai runcit yang menawarkan pelbagai barangan makanan dan keperluan harian.
 ### Kedai Toolkit
 
 | Barangan | Harga (BR) | Penerangan |
-|---|---|---|
+| --- | --- | --- |
 | Toolkit | 100 | Membaiki kenderaan yang rosak (2 kegunaan). Klik butang pada enjin untuk membaiki. |
 | Jerrycan | 800 | Mengisi minyak kenderaan. |
 
@@ -106,7 +106,7 @@ Anda mesti memiliki gamepass **Firearms Licence** untuk membeli daripada Gun Dea
 :::
 
 | Senjata | Harga (BR) |
-|---|---|
+| --- | --- |
 | QSZ92 | 5,000 |
 | CZ-75 | 7,500 |
 | Colt M1911 | 8,500 |
@@ -129,7 +129,7 @@ NPC yang mencurigakan yang menjual **Device** penggodaman pada harga BR 5,000. G
 Deposit BR anda ke dalam akaun bank Vastrix yang selamat di terminal ATM yang terletak di seluruh bandar:
 
 | Jumlah Deposit | Kos (BR) |
-|---|---|
+| --- | --- |
 | BR 1,000 | 1,000 |
 | BR 5,000 | 5,000 |
 | BR 10,000 | 10,000 |
@@ -142,7 +142,7 @@ Gamepass dibeli dengan Robux melalui tab **Kedai** di menu utama dan memberikan 
 ### Gamepass Utama
 
 | Gamepass | Penerangan |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Akses pasukan Taxi dan peroleh tambang dengan membawa penumpang. |
 | **Firearms Licence** | Beli senjata api daripada Gun Dealer. |
 | **Boombox** | Mainkan muzik untuk diri sendiri dan pemain berdekatan. |

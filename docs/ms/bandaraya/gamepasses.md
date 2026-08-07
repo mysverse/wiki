@@ -35,18 +35,23 @@ Gamepass ialah pembelian Robux sekali sahaja yang membuka kunci sesuatu ciri, pa
 ## Yang mana patut dibeli dahulu
 
 ### "Saya nak santai dan memandu"
+
 **Car Radio.** 100 R$ memberi anda muzik di mana-mana. Paling murah dan paling berguna secara menyeluruh.
 
 ### "Saya nak cari duit"
+
 **Taxi Driver** (150 R$) - akses kerja serta-merta, tanpa leceh. Pasangkan dengan Car Radio untuk suasana maksimum.
 
 ### "Saya nak roleplay dengan senjata"
+
 **Firearms Licence** (1,250 R$). Satu-satunya cara awam untuk memiliki senjata - **melainkan** anda berada dalam pasukan yang dikeluarkan senjata (POLIS, KPTD, MAF, Moderation, Developers, Yang di-Pertuan Persekutuan). Ambil perhatian bahawa kedai mempunyai **cooldown 5 minit** antara setiap pembelian.
 
 ### "Saya nak min-max"
+
 **High Class Citizen** (3,000 R$). Tambahan pendapatan yang akan membayar balik dirinya jika anda bermain dengan kerap. Disertakan dengan kenderaan mewah dan akses pasukan eksklusif. Jika anda hanya bermain sambil lewa, langkau sahaja - Robux itu lebih baik dibelanjakan pada developer products BR.
 
 ### "Saya nak main banyak-banyak"
+
 HCC dahulu, kemudian Taxi Driver untuk pendapatan sampingan tambahan, kemudian Car Radio untuk suasana. Firearms Licence hanya jika roleplay pertempuran minat anda.
 
 ## Gamepass vs. developer products

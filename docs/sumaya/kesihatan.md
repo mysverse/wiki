@@ -33,7 +33,7 @@ The server deactivates the injury system the moment the last Kesihatan player le
 ### Injury types
 
 | Injury | What it is | Treatment |
-|--------|------------|-----------|
+| -------- | ------------ | ----------- |
 | Minor cuts / bruises | Scrapes, small wounds | Bandage |
 | Broken arm | Slows down hand animations, affects certain tools | Splint |
 | Broken leg | Reduces walk speed to 30% | Splint |
@@ -86,7 +86,7 @@ The hospital has multiple medical beds, plus an X-Ray machine, an MRI machine, a
 ## Rewards summary
 
 | Action | XP | Ringgit |
-|--------|-----|---------|
+| -------- | ----- | --------- |
 | First aid diagnosis | 15 | 0 |
 | Bandage heal | 30 | 100 |
 | Splint heal | 40 | 200 |
@@ -102,7 +102,7 @@ Plus:
 Kesihatan ambulances unlock as your sector level rises.
 
 | Vehicle | Sector level required | Price |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Tayoti Hiace KKN Ambulance | 1 | Free |
 | Tayoti Hilux KKN Ambulance | 20 | 8,000 Ringgit |
 | Handai City KKN Ambulance | 45 | 12,000 Ringgit |
@@ -116,7 +116,7 @@ See [Vehicles](/sumaya/vehicles) for how to spawn them.
 Kesihatan has 13 ranks, loosely based on real Malaysian healthcare positions. Your title updates automatically as your sector level rises.
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Medical Trainee |
 | 6 | House Officer |
 | 11 | Nurse |

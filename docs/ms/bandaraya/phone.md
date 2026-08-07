@@ -55,6 +55,7 @@ Pemindahan BR rakan ke rakan. Seperti pemindahan segera dalam dunia MYSverse.
 Penerima akan mendapat pemberitahuan pada telefon mereka sendiri dengan butang **Accept / Deny**. Jika mereka menerima, BR akan berpindah. Jika ditolak atau diabaikan, tiada apa yang berlaku.
 
 **Baki** ditunjukkan pada skrin hantar supaya anda tahu berapa yang boleh dibelanjakan. Pemindahan memerlukan:
+
 - Kedua-dua pemain berada **dalam server yang sama** (anda tidak boleh hantar merentasi server)
 - Kedua-dua pemain tidak berada dalam **senarai sekatan penipuan** (jarang berlaku - hanya jika admin telah menandakan akaun)
 - Anda benar-benar memiliki BR tersebut - debit disemak sebelum kredit

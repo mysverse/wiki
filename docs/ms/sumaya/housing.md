@@ -2,7 +2,7 @@
 title: Perumahan
 description: 'Plot, templat, tahap, perabot, dan menjual rumah di Sumaya.'
 lang: ms
-translated_from_hash: eeea69f5
+translated_from_hash: 922d3224
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -35,7 +35,7 @@ Di dalam Real Estate Office, anda akan memilih daripada empat templat. Setiap sa
 ### Templat rumah
 
 | Templat | Tahap | Kos |
-|----------|------|-------|
+| ---------- | ------ | ------- |
 | Small Bornean | Tier 1 | 25,000 Ringgit |
 | Spacious Bornean | Tier 2 | 29,000 Ringgit |
 | Compact Bornean | Tier 2 | 32,000 Ringgit |
@@ -47,7 +47,7 @@ Rumah **Bornean** ialah rumah tradisional bergaya kampung Malaysia - kayu, berti
 
 Tier 1 ialah pilihan permulaan paling murah. Tier 3 ialah premium. Pilih berdasarkan jumlah yang anda mahu belanjakan dan estetika yang anda suka.
 
-Templat rumah yang anda pilih menentukan rupa luar plot anda. Anda boleh menukar kepada templat berbeza kemudian dengan menjual dan membeli semula (anda akan menerima 70% balik - lihat [Menjual](#selling) di bawah).
+Templat rumah yang anda pilih menentukan rupa luar plot anda. Anda boleh menukar kepada templat berbeza kemudian dengan menjual dan membeli semula (anda akan menerima 70% balik - lihat [Menjual](#menjual) di bawah).
 
 ## Perabot
 

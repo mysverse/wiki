@@ -4,7 +4,7 @@ description: >-
   Gamepass, pek tunai Robux, kedai dunia, gerai makanan, tong minyak bot, dan
   alat di Sumaya.
 lang: ms
-translated_from_hash: 1ec63681
+translated_from_hash: def7b00f
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -27,7 +27,7 @@ Setiap kad menunjukkan tajuk, penerangan ringkas, dan sama ada butang **Purchase
 ### Apa yang boleh dibeli sekarang
 
 | Item | Jenis | Apa yang anda dapat |
-|------|------|--------------|
+| ------ | ------ | -------------- |
 | **Retro Vehicles** | Gamepass | Membuka pek kereta klasik / retro di pengedar awam standard: **Protan Saga 1985** (percuma), **Merzda Miata** (12,000 SR), **Nisun S15 Silvia** (20,000 SR), **Joguar XJ308 R** (29,000 SR). Pemain yang tidak memilikinya boleh melihat kad terkunci di belakang prompt gamepass. Lihat [Kenderaan](/ms/sumaya/vehicles). |
 
 ### Akan datang
@@ -35,7 +35,7 @@ Setiap kad menunjukkan tajuk, penerangan ringkas, dan sama ada butang **Purchase
 Kad ini kelihatan di kedai sekarang tetapi butang pembelian dilumpuhkan. Ia akan dilancarkan apabila pasukan memuktamadkan gamepass / ID produk.
 
 | Item | Jenis | Kesan dirancang |
-|------|------|----------------|
+| ------ | ------ | ---------------- |
 | **Income / Job XP Booster** | Gamepass | +25% Ringgit kerja dan +25% XP sektor kerja untuk kerjaya dan kerja perkhidmatan awam yang layak. **Tidak** meningkatkan XP tahap pemain, ganjaran quest, bayaran jenayah, pindahan ATM, derma/Sadaqa, bayaran balik, atau pembelian kedai / kenderaan / rumah. Lihat [Ekonomi](/ms/sumaya/economy) untuk senarai kelayakan penuh. |
 | **Car Radio / Boombox** | Gamepass | Radio dalam kereta yang dikurasi dan boombox jarak dekat. ID audio tersuai kekal dilumpuhkan. |
 | **Premium EV Vehicles** | Gamepass | Menambah pek kenderaan elektrik premium ke pengedar awam. |
@@ -79,7 +79,7 @@ Harga antara 1 hingga 5 SR setiap item.
 Menjual tong isi semula untuk bot tunda memancing. Kereta tidak memerlukan pengisian minyak.
 
 | Tong | Isi semula | Harga |
-|-----|--------|-------|
+| ----- | -------- | ------- |
 | Merah | +25 minyak | 75 SR |
 | Hijau | +50 minyak | 100 SR |
 | Hitam | +75 minyak | 125 SR |

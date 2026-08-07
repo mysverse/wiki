@@ -2,7 +2,7 @@
 title: Ekonomi
 description: 'Ringgit (SR), mekanik dompet lawan bank, dan cara memperoleh di Sumaya.'
 lang: ms
-translated_from_hash: e153ddde
+translated_from_hash: 948d4d36
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -70,7 +70,7 @@ Pas **Income / Job XP Booster** akan datang kelihatan dalam Shop sebagai kad **C
 Ia **tidak** meningkatkan XP level pemain, ganjaran quest, bayaran jenayah, pemindahan ATM, Sadaqa/derma, bayaran balik, atau transaksi rumah/kenderaan/kedai.
 
 | Sumber | Ringgit |
-|--------|---------|
+| -------- | --------- |
 | Memancing dengan joran (setiap spesies dijual) | 8 SR ke dompet |
 | Memancing pukat (setiap ikan) | 0.5 SR, dibayar sebagai gaji penghujung syif |
 | Mamak (setiap pelanggan) | 30 SR ke bank, +180 setiap 10, -25 pesanan salah |
@@ -96,7 +96,7 @@ Ia **tidak** meningkatkan XP level pemain, ganjaran quest, bayaran jenayah, pemi
 Risiko lebih tinggi, ganjaran lebih tinggi. Ganjaran masuk ke bank anda.
 
 | Jenayah | Ringgit |
-|-------|---------|
+| ------- | --------- |
 | Penghantaran carjacking | 500 - 1,200 SR (rawak) ke bank |
 | Pickpocket (pemain) | 80 - 300 SR ke dompet (daripada mangsa) |
 | Pickpocket (NPC) | 50 - 200 SR setiap NPC |

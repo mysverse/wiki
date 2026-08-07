@@ -2,7 +2,7 @@
 title: 世界与地图
 description: Bandar Seri Putra、Jersik、Kampung Merbang 以及 Lebuhraya 的 29 个关键地点。
 lang: zh
-translated_from_hash: 7ec05c89
+translated_from_hash: 129f4243
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,6 +17,7 @@ Lebuhraya位于马来西亚高速公路的一段路段上，三个主要区域�
 最大的定居点 - 您的就业、服务和商业的主要中心。如果您是新手，您将在这里度过最初的大部分时间。
 
 **主要建筑物**：
+
 - **Balai Polis Bandar Seri Putra** - 警察局
 - **Balai Bomba Bandar Seri Putra** - 消防局
 - **Klinik Kesihatan Bandar Seri Putra** - 诊所/医院
@@ -34,6 +35,7 @@ Lebuhraya位于马来西亚高速公路的一段路段上，三个主要区域�
 拥有工业区和赛马场的二级城镇。
 
 **主要建筑物**：
+
 - **Balai Bomba Jersik** - 消防局
 - **Pos Nasional Jersik** - 邮局（Post Office 工作开始）
 - **Plaza Tol Jersik** - 收费广场
@@ -49,6 +51,7 @@ Lebuhraya位于马来西亚高速公路的一段路段上，三个主要区域�
 比较安静的乡村。
 
 **主要建筑物**：
+
 - **Balai Polis Kampung Merbang** - 警察局
 - **清真寺Kampung Merbang** - 清真寺
 - 附近的高速公路休息站（见下文）
@@ -58,6 +61,7 @@ Lebuhraya位于马来西亚高速公路的一段路段上，三个主要区域�
 广场/邻里区域。
 
 **主要建筑物**：
+
 - **Plaza Tol Putra Mahkota** - 第二大收费广场
 - **Taman Mahkota** - 住房/住宅区
 
@@ -80,24 +84,24 @@ Lebuhraya位于马来西亚高速公路的一段路段上，三个主要区域�
 
 ## 当你需要时去哪里......
 
-|您需要什么 |去哪里|
-|---|---|
-|燃料（汽油）| PETROMAS NB 或 SB，或 Radtrol |
-|燃料（柴油）| Kompleks Petroliam dan Gas Radtrol、PETROMAS 站 |
-|燃油（电动）| Bandar Seri Putra（充电器）中的Radtrol |
-|食品和零食 | 12 家商店中的任何一个 - 请参阅[商店](/zh/lebuhraya/shops) |
-|一个油桶 |油罐店 |
-|警方求助|任何巴莱Polis（Bandar Seri Putra，Kampung Merbang）|
-|消防/救援 |任何巴莱Bomba（Bandar Seri Putra，杰西克）|
-|医疗| Klinik Kesihatan Bandar Seri Putra |
-|车辆维修|地图周围 10 个维修区中的任意一个 |
-|车辆喷漆/车身工程| Gravstone Workshop（需要创意工坊gamepass）|
-|发布您的邮件 | Pos Nasional 杰西克 |
-|启动巴士路线 |德波巴斯 Bandar Seri Putra |
-|比赛| Jersik Race Track |
-|鱼 | Fishing 港口 |
-|祈祷|清真寺Kampung Merbang 或清真寺Bandar Seri Putra |
-|出去玩 | RnR 休息站或 Dus Doffee |
+| 您需要什么 | 去哪里 |
+| --- | --- |
+| 燃料（汽油） | PETROMAS NB 或 SB，或 Radtrol |
+| 燃料（柴油） | Kompleks Petroliam dan Gas Radtrol、PETROMAS 站 |
+| 燃油（电动） | Bandar Seri Putra（充电器）中的Radtrol |
+| 食品和零食 | 12 家商店中的任何一个 - 请参阅[商店](/zh/lebuhraya/shops) |
+| 一个油桶 | 油罐店 |
+| 警方求助 | 任何巴莱Polis（Bandar Seri Putra，Kampung Merbang） |
+| 消防/救援 | 任何巴莱Bomba（Bandar Seri Putra，杰西克） |
+| 医疗 | Klinik Kesihatan Bandar Seri Putra |
+| 车辆维修 | 地图周围 10 个维修区中的任意一个 |
+| 车辆喷漆/车身工程 | Gravstone Workshop（需要创意工坊gamepass） |
+| 发布您的邮件 | Pos Nasional 杰西克 |
+| 启动巴士路线 | 德波巴斯 Bandar Seri Putra |
+| 比赛 | Jersik Race Track |
+| 鱼 | Fishing 港口 |
+| 祈祷 | 清真寺Kampung Merbang 或清真寺Bandar Seri Putra |
+| 出去玩 | RnR 休息站或 Dus Doffee |
 
 ## 天气和时间
 

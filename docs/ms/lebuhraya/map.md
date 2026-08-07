@@ -2,7 +2,7 @@
 title: Dunia & Peta
 description: 'Bandar Seri Putra, Jersik, Kampung Merbang, dan 29 lokasi utama di Lebuhraya.'
 lang: ms
-translated_from_hash: 7ec05c89
+translated_from_hash: 129f4243
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -17,6 +17,7 @@ Lebuhraya berlatar belakangkan sebahagian lebuh raya Malaysia dengan tiga wilaya
 Penempatan terbesar - hab utama anda untuk kerja, perkhidmatan, dan perdagangan. Jika anda baru, anda akan menghabiskan sebahagian besar masa awal di sini.
 
 **Bangunan utama**:
+
 - **Balai Polis Bandar Seri Putra** - Balai polis
 - **Balai Bomba Bandar Seri Putra** - Balai bomba
 - **Klinik Kesihatan Bandar Seri Putra** - Klinik kesihatan / hospital
@@ -34,6 +35,7 @@ Penempatan terbesar - hab utama anda untuk kerja, perkhidmatan, dan perdagangan.
 Sebuah bandar kedua dengan zon perindustrian dan litar lumba.
 
 **Bangunan utama**:
+
 - **Balai Bomba Jersik** - Balai bomba
 - **Pos Nasional Jersik** - Pejabat pos (permulaan kerja Pejabat Pos)
 - **Plaza Tol Jersik** - Plaza tol
@@ -49,6 +51,7 @@ Sebuah bandar kedua dengan zon perindustrian dan litar lumba.
 Sebuah kampung luar bandar yang lebih tenang.
 
 **Bangunan utama**:
+
 - **Balai Polis Kampung Merbang** - Balai polis
 - **Masjid Kampung Merbang** - Masjid
 - Tempat rehat lebuh raya berdekatan (lihat di bawah)
@@ -58,6 +61,7 @@ Sebuah kampung luar bandar yang lebih tenang.
 Zon plaza / kejiranan.
 
 **Bangunan utama**:
+
 - **Plaza Tol Putra Mahkota** - Plaza tol utama kedua
 - **Taman Mahkota** - Zon perumahan / kediaman
 
@@ -81,7 +85,7 @@ Lebuh raya menghubungkan ketiga-tiga wilayah. Perhentian penting:
 ## Ke mana perlu pergi apabila anda memerlukan…
 
 | Keperluan anda | Ke mana pergi |
-|---|---|
+| --- | --- |
 | Bahan api (Petrol) | PETROMAS NB atau SB, atau Radtrol |
 | Bahan api (Diesel) | Kompleks Petroliam dan Gas Radtrol, stesen PETROMAS |
 | Bahan api (Elektrik) | Radtrol di Bandar Seri Putra (pengecas elektrik) |

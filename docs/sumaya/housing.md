@@ -32,7 +32,7 @@ Inside the Real Estate Office, you'll pick from the four templates. Each has a t
 ### House templates
 
 | Template | Tier | Price |
-|----------|------|-------|
+| ---------- | ------ | ------- |
 | Small Bornean | Tier 1 | 25,000 Ringgit |
 | Spacious Bornean | Tier 2 | 29,000 Ringgit |
 | Compact Bornean | Tier 2 | 32,000 Ringgit |

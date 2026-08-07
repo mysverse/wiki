@@ -2,7 +2,7 @@
 title: Gambaran Perkhidmatan Kecemasan
 description: 'POLIS, BOMBA, dan Kesihatan - perkhidmatan kecemasan di Sumaya.'
 lang: ms
-translated_from_hash: 29d9af6e
+translated_from_hash: af07fb03
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -21,7 +21,7 @@ Memilih salah satu pasukan ini meletakkan anda dalam keadaan **Bertugas** sebaik
 ## Apakah yang membezakan perkhidmatan kecemasan daripada pekerjaan awam?
 
 | | Kerjaya awam | Perkhidmatan kecemasan |
-|---|------------------|---------------------|
+| --- | ------------------ | --------------------- |
 | Cara menyertai | Aplikasi Careers di telefon | Pilihan pasukan di menu utama |
 | Tahap sektor maksimum | 100 (setiap sektor awam - fishing, service, agro) | 100 |
 | XP setiap tindakan | Tetap (Service 6/pelanggan, Agro 6/buah, Trawl 2/ikan, Rod 15/ikan) - tiada penskalaan tahap | Tetap setiap tindakan (Bomba 5/blok, Kesihatan 15-40/rawatan, Polis 50-400 berskala bintang) |

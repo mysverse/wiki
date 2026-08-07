@@ -44,6 +44,7 @@ Some coffee makers are real props. Use **Brew** first, wait for the pot to fill,
 New players spawn **passive by default** - you're invulnerable until you deliberately turn it off (or pick up a Slim Jim / Pickpocket Knife, which auto-drops you out of passive). Flipping it off stays off until you toggle back.
 
 **You can't re-enable passive if:**
+
 - You're holding a crime tool (drop it first).
 - You're currently wanted (wait for the 5-minute decay).
 - You're a POLIS officer (cops are never passive - it's a team property).

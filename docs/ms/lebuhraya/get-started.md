@@ -4,7 +4,7 @@ description: >-
   10 minit pertama anda di Lebuhraya - hasilkan kenderaan, peroleh BR, naik
   taraf, dan pandu di lebuh raya.
 lang: ms
-translated_from_hash: 8de7448f
+translated_from_hash: 9bc0a9ad
 translated_on: '2026-08-07'
 needs_review: true
 ---
@@ -43,7 +43,7 @@ Perhatikan skrin anda:
 Buka **menu utama** awal-awal. Ia adalah pusat bagi hampir semua perkara:
 
 | Tab | Kegunaannya |
-|---|---|
+| --- | --- |
 | **Home** | Profil, pengumuman, tindakan main/spawn pantas |
 | **Teams** | Sertai pasukan atau semak syarat buka kunci |
 | **Shop** | Gamepass, produk, token, dan kod promo |
@@ -82,7 +82,7 @@ Anda boleh terus menyertai **Visitors** dan **Bus Driver**. Kebanyakan kerja lai
 Berikut adalah perkembangan awal percuma:
 
 | Buka kunci | Pasukan / Ciri |
-|---|---|
+| --- | --- |
 | Mula | Bus Driver, Visitors |
 | Ahli kumpulan (1143446) | Pasukan Malaysians (Fishing, Checkout) |
 | Tingkat 10 | Food Delivery |

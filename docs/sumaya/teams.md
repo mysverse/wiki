@@ -10,7 +10,7 @@ Sumaya has **five teams**. Your team decides your role in the world - civilian, 
 ## The five teams
 
 | Team | Colour | Role | Open to everyone? |
-|------|--------|------|-------------------|
+| ------ | -------- | ------ | ------------------- |
 | Visitors | Green | Default civilian | Yes |
 | Malaysians | Orange | Civilian with group flair | Only MYSverse group members, Rank 3+ |
 | POLIS | Blue | Law enforcement | Yes |

@@ -2,7 +2,7 @@
 title: 队伍与职业
 description: Lebuhraya 全部 18 支队伍及 20 级职级体系。
 lang: zh
-translated_from_hash: 141942bf
+translated_from_hash: 8c54bbf4
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -32,23 +32,23 @@ Lebuhraya共有**18支队伍**。每个人都代表了游戏中马来西亚高�
 
 ### 所有人免费
 
-|团队|描述 |
-|---|---|
-| **Visitors** |加入时的默认团队。非常适合扮演通勤者或游客的角色。 |
-| **Bus Driver** |按预定路线驾驶小型货车和公共汽车。免费并向所有人开放 - 一个很好的切入点。 |
+| 团队 | 描述 |
+| --- | --- |
+| **Visitors** | 加入时的默认团队。非常适合扮演通勤者或游客的角色。 |
+| **Bus Driver** | 按预定路线驾驶小型货车和公共汽车。免费并向所有人开放 - 一个很好的切入点。 |
 
 ### 由 MYSverse 社区会员解锁
 
-|团队|如何解锁 |
-|---|---|
-| **Malaysians** |加入 MYSverse 马来西亚社区Roblox群组 (ID 1143446)，获得排名 1 或更高。解锁对 **Fishing** 和 **结账** 工作活动的访问权限。 |
+| 团队 | 如何解锁 |
+| --- | --- |
+| **Malaysians** | 加入 MYSverse 马来西亚社区Roblox群组 (ID 1143446)，获得排名 1 或更高。解锁对 **Fishing** 和 **结账** 工作活动的访问权限。 |
 
 Malaysians团队是社区角色团队，而不是普通的付费职业分支。它在早期很有用，因为Fishing和结帐在锁定级别的工作阶梯之前可用。
 
 ### 按级别解锁
 
-|团队|水平|角色 |
-|---|---|---|
+| 团队 | 水平 | 角色 |
+| --- | --- | --- |
 | **Food Delivery** | 10 | 10使用摩托车将订单从商店送到顾客手中。 |
 | **Waste Disposal** | 25 | 25从垃圾箱收集垃圾并运送到焚烧站。 |
 | **Post Office** | 50 | 50为Pos Nasional递送信件和包裹。 |
@@ -62,22 +62,22 @@ Malaysians团队是社区角色团队，而不是普通的付费职业分支。�
 
 ### 由gamepass解锁
 
-|团队|角色 |
-|---|---|
-| **Taxi Driver** |开车送乘客收取费用。由Taxi Driver或Bandarayagamepass解锁。 |
-| **KEMRonda** |公路辅警。拖车、路边援助、可放置的锥体。 |
-| **Bomba** |消防和救援部门。消防车、吊具、链锯、999 火灾响应。 |
-| **Polis Trafik** |交通警察。泰瑟枪、雷达枪、可放置的警锥和标志。 |
-| **Undercover Police** |与Polis Trafik相同的工具包，但用于未标记的车辆。 |
+| 团队 | 角色 |
+| --- | --- |
+| **Taxi Driver** | 开车送乘客收取费用。由Taxi Driver或Bandarayagamepass解锁。 |
+| **KEMRonda** | 公路辅警。拖车、路边援助、可放置的锥体。 |
+| **Bomba** | 消防和救援部门。消防车、吊具、链锯、999 火灾响应。 |
+| **Polis Trafik** | 交通警察。泰瑟枪、雷达枪、可放置的警锥和标志。 |
+| **Undercover Police** | 与Polis Trafik相同的工具包，但用于未标记的车辆。 |
 
 游戏通行证的获取方法请参见[通行证与强化](/zh/lebuhraya/passes-and-boosts)。
 
 ### 系统团队
 
-|团队|描述 |
-|---|---|
+| 团队 | 描述 |
+| --- | --- |
 | **开发商** | MYSverse 员工的内部团队。不可直接加入。 |
-| **被捕** |当玩家被Polis Trafik逮捕时自动分配。 |
+| **被捕** | 当玩家被Polis Trafik逮捕时自动分配。 |
 
 ## 职业等级和排名
 
@@ -118,14 +118,14 @@ Malaysians团队是社区角色团队，而不是普通的付费职业分支。�
 
 团队分为六个机构。这很重要，因为一些等级奖励（车辆、化妆品）与代理机构相关，而不仅仅是团队。
 
-|代理|团队|
-|---|---|
+| 代理 | 团队 |
+| --- | --- |
 | **Polis** | KEMRonda、Polis Trafik、Undercover Police |
-| **Kecemasan**（紧急）| Bomba、Kesihatan |
-| **Pengangkutan**（交通）| Bus Driver、Taxi Driver、物流 |
-| **Perkhidmatan**（服务）| Food Delivery、Post Office、Waste Disposal |
-| **Sumber**（资源）| Power Nasional、Lumberjack |
-| **Penguatkuasaan**（执行）| APJ |
+| **Kecemasan**（紧急） | Bomba、Kesihatan |
+| **Pengangkutan**（交通） | Bus Driver、Taxi Driver、物流 |
+| **Perkhidmatan**（服务） | Food Delivery、Post Office、Waste Disposal |
+| **Sumber**（资源） | Power Nasional、Lumberjack |
+| **Penguatkuasaan**（执行） | APJ |
 
 ## 等级奖励
 
@@ -144,8 +144,8 @@ Malaysians团队是社区角色团队，而不是普通的付费职业分支。�
 1. 你属于正确的团队吗？
 2. 生成器类型是否正确？民用、自行车、高级、特殊和团队生成器显示不同的列表。
 3.你符合等级要求吗？
-4. 您符合职业等级要求吗？
-5. 它是需要所有权或团队访问令牌的gamepass/团队车辆吗？
+3. 您符合职业等级要求吗？
+4. 它是需要所有权或团队访问令牌的gamepass/团队车辆吗？
 
 ## 制服和服装
 

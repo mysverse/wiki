@@ -73,7 +73,7 @@ Rewards only count when you're within **512 studs** of the fire block when it's 
 Bomba vehicles unlock as your sector level rises.
 
 | Vehicle | Sector level required | Price |
-|---------|----------------------|-------|
+| --------- | ---------------------- | ------- |
 | Merze Atego LFRT | 1 | Free |
 | Sanica 94D LFRT | 20 | 9,000 Ringgit |
 | Tayoti Hiace (Bomba) | 40 | 12,000 Ringgit |
@@ -89,7 +89,7 @@ See [Vehicles](/sumaya/vehicles) for how to spawn them.
 Bomba has 13 ranks, based on the real Bomba MYSverse (Bomba MYSverse). Your title updates automatically as your sector level rises.
 
 | Level | Rank |
-|-------|------|
+| ------- | ------ |
 | 1 | Fire Officer (PB) |
 | 6 | Senior Fire Officer (PBK) |
 | 11 | Leading Fire Officer (PBT) |

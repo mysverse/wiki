@@ -4,7 +4,7 @@ description: >-
   Mula bermain Sumaya - menu utama, pemilihan pasukan, kawalan, dan lima minit
   pertama di bandar.
 lang: ms
-translated_from_hash: '32721786'
+translated_from_hash: '326a2e5c'
 translated_on: '2026-08-07'
 needs_review: true
 ---
@@ -48,7 +48,7 @@ Main Menu mempunyai tab **Shop** di mana anda boleh membeli gamepass Robux dan p
 Terdapat lima pasukan. Tiga daripadanya (POLIS, BOMBA, Kesihatan) ialah perkhidmatan kecemasan dengan tugas khusus. Dua lagi (Visitors dan Malaysians) membolehkan anda bermain sebagai orang biasa.
 
 | Pasukan | Apa yang mereka lakukan | Boleh sertai semua? |
-|------|--------------|------------------|
+| ------ | -------------- | ------------------ |
 | Visitors | Orang awam biasa, pilihan lalai | Ya |
 | Malaysians | Orang awam biasa, pasukan kosmetik untuk ahli kumpulan yang disahkan | Hanya ahli kumpulan MYSverse pada Pangkat 3+ |
 | POLIS | Polis: tangkap penjenayah, ronda, kuatkuasakan had laju | Ya |
@@ -73,7 +73,7 @@ Itu cukup untuk beberapa item kedai dan perbelanjaan asas, tetapi tidak untuk se
 Sumaya menggunakan pergerakan standard Roblox. Pada PC:
 
 | Tindakan | Kekunci |
-|--------|-----|
+| -------- | ----- |
 | Bergerak | W, A, S, D |
 | Berlari | Left Shift (tahan) |
 | Lompat | Space |
@@ -144,7 +144,7 @@ Berlari dimatikan secara automatik apabila anda memasuki tempat duduk kenderaan.
 Setiap pemain muncul dengan lima alat dalam beg sandang mereka:
 
 | Alat | Apa yang ia lakukan |
-|------|--------------|
+| ------ | -------------- |
 | **Phone** | Membuka UI telefon (aplikasi, quest, MDT, panggilan 999, tetapan, dll.). Alat yang paling banyak digunakan dalam permainan. |
 | **Wallet** | Memegang wang segera anda. Lengkapkan ia berhampiran pemain lain untuk menawarkan derma **Sadaqa**, atau jatuhkan ia di tanah untuk perisa main peranan. Lihat [Ekonomi](/ms/sumaya/economy). |
 | **Torchlight** | Lampu suluh tangan dengan rasuk berarah. Berguna pada waktu malam, di pedalaman gelap, atau untuk adegan main peranan. |

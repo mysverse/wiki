@@ -38,7 +38,7 @@ Look around the screen:
 Open the **main menu** early. It is the hub for almost everything:
 
 | Tab | Use it for |
-|---|---|
+| --- | --- |
 | **Home** | Profile, announcements, quick play/spawn actions |
 | **Teams** | Join a team or inspect unlock requirements |
 | **Shop** | Gamepasses, products, tokens, and promo codes |
@@ -77,7 +77,7 @@ You can join **Visitors** and **Bus Driver** immediately. Most other jobs unlock
 Here's the free-and-early progression:
 
 | Unlock | Team / Feature |
-|---|---|
+| --- | --- |
 | Start | Bus Driver, Visitors |
 | Group member (1143446) | Malaysians team (Fishing, Checkout) |
 | Level 10 | Food Delivery |

@@ -2,7 +2,7 @@
 title: 服务业（Mamak 与快餐）
 description: Sumaya 的 mamak 与快餐服务业职业介绍。
 lang: zh
-translated_from_hash: acc7e8e7
+translated_from_hash: 4a727cd4
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -40,7 +40,7 @@ needs_review: true
 当你 clock out 或完成顾客订单时,款项会汇入你的**银行帐户**（而非钱包），名目为 "Mamak Sdn. Bhd." 或对应的 Fast Food 薪资。
 
 | Venue | 每位顾客（Ringgit） | 每 10 位顾客奖金 | 错误订单罚款 |
-|-------|------------------------|--------------------------|---------------------|
+| ------- | ------------------------ | -------------------------- | --------------------- |
 | Mamak | 30 | +180 | -25 |
 | Fast Food | 25 | +150 | -20 |
 

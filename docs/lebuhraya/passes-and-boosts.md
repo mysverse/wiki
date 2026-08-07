@@ -12,7 +12,7 @@ This page rounds up the ways you can accelerate your Lebuhraya progress: gamepas
 Five teams are locked behind gamepasses. Buying the pass gives you permanent access to that team from the Main Menu.
 
 | Team | What it gives you |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Join the Taxi Driver team, earn fares by driving NPC passengers. Taxi vehicle variants unlock via career tiers. |
 | **Bandaraya** | Bundle pass - includes Taxi Driver access and more. |
 | **KEMRonda** | Highway auxiliary police access. Tow trucks, roadside assistance tools. |
@@ -171,7 +171,7 @@ Active unlocks are saved per-player - you keep everything you earn across sessio
 Four real Roblox badges auto-award when you pass mileage milestones:
 
 | Distance driven | Badge |
-|---|---|
+| --- | --- |
 | 50,000 studs | 50k Badge |
 | 100,000 studs | 100k Badge |
 | 500,000 studs | 500k Badge |
@@ -186,7 +186,7 @@ Race-win milestones such as 1, 10, 50, and 100 wins are also tracked for future 
 If you want to skip grinding levels, Lebuhraya offers four one-time **Robux purchases**. These grant flat level bumps instantly - useful if you're chasing a specific level-gated team (say, Kesihatan at Level 200).
 
 | Product | Effect |
-|---|---|
+| --- | --- |
 | +1 Level | 1 level, whatever you need to cross a threshold |
 | +10 Levels | 10 levels |
 | +25 Levels | 25 levels |

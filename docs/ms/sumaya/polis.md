@@ -2,7 +2,7 @@
 title: Polis
 description: 'Bermain sebagai POLIS di Sumaya - rondaan, tangkapan, pangkat, dan peralatan.'
 lang: ms
-translated_from_hash: b383c68f
+translated_from_hash: 5f517444
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -15,9 +15,9 @@ needs_review: true
 Pilih **POLIS** pada menu utama. Kit permulaan anda ialah 5 alatan:
 
 | Alat | Apa yang dilakukannya |
-|------|--------------|
+| ------ | -------------- |
 | **Taser X26P** | Senjata alih keluar yang tidak boleh membawa maut dengan kartrij terhad. Tembak suspek untuk melumpuhkan mereka untuk ditangkap. |
-| **Radar Gun** | Alat tangkapan kelajuan manual. Lihat [Perangkap kelajuan dan radar](#speed-traps-and-radar). |
+| **Radar Gun** | Alat tangkapan kelajuan manual. Lihat [Perangkap kelajuan dan radar](#perangkap-kelajuan-dan-radar). |
 | **Wisel** | Isyarat orang ramai / lalu lintas. |
 | **Gari** | Alat penangkapan sebenar - gunakan pada suspek yang dikehendaki apabila anda cukup dekat. |
 | **Pencari Plat** | Cari mana-mana plat kenderaan untuk melihat pemilik berdaftar dan sama ada ia ditandai sebagai dicuri. |
@@ -31,7 +31,7 @@ Beberapa alat peraga lalu lintas dan tempat kejadian jenayah sedang disediakan u
 Dua pengkhususan POLIS akan datang disenaraikan akan datang tidak lama lagi:
 
 | Pengkhususan | Status semasa menghadap pemain |
-|---|---|
+| --- | --- |
 | **Traffic POLIS Role** | Akan datang. Dirancang di sekitar radar dan alat kawalan jalan raya. |
 | **Unmarked POLIS Role** | Akan datang. Dirancang sekitar identiti tersembunyi dan pemeriksaan plat. |
 
@@ -44,7 +44,7 @@ Pergi ke balai polis untuk mendapatkan kenderaan, atau rondaan di jalan raya dan
 Orang awam mengumpul **mata kesalahan** setiap kali mereka melakukan jenayah. Jumlah mata kesalahan menentukan **tahap bintang yang dikehendaki** mereka:
 
 | Mata | Bintang dikehendaki |
-|--------|--------------|
+| -------- | -------------- |
 | 0-24 | Tiada |
 | 25-59 | 1 bintang |
 | 60-119 | 2 bintang |
@@ -57,7 +57,7 @@ Suspek bertaraf tinggi lebih sukar untuk ditangkap tetapi membayar lebih apabila
 ### Apa yang memberikan mata kesalahan?
 
 | Jenayah | Mata |
-|-------|--------|
+| ------- | -------- |
 | Kemalangan kenderaan (terlanggar seseorang) | 5 |
 | Memandu laju | 10 |
 | Pencopet | 20 |
@@ -93,6 +93,7 @@ Aliran asas:
 ### Fasa penahanan
 
 Sebelum penahanan terakhir, suspek memasuki negeri **ditahan**. Setelah ditahan:
+
 - Mereka mengikuti anda pada **4-stud offset**, diapit ke dalam **20 studs maksimum** (mereka tidak boleh merayau).
 - **Tamat masa penahanan 60 saat** bermula - jika anda tidak menyelesaikan penahanan dalam masa 60 saat, penahanan dilepaskan secara automatik.
 - Semasa ditahan, mereka masih boleh cuba **menyerah diri** dengan segera untuk memotong separuh masa penjara mereka sendiri.
@@ -104,7 +105,7 @@ Tahan berguna apabila anda ingin membawa suspek ke lokasi tertentu (balai polis,
 Skala ganjaran mengikut tahap bintang suspek semasa ditangkap:
 
 | Bintang | XP | Ringgit (dompet) |
-|-------|-----|------------------|
+| ------- | ----- | ------------------ |
 | 1 | 50 | 150 |
 | 2 | 100 | 300 |
 | 3 | 175 | 500 |
@@ -124,7 +125,7 @@ Setiap **5 tangkapan** yang anda buat, anda mendapat bonus **+200 Ringgit** seba
 Apabila anda menangkap seseorang, mereka akan dihantar ke penjara. Tempoh penjara bergantung pada bintang yang dikehendaki mereka pada masa penangkapan:
 
 | Bintang | masa penjara |
-|-------|-----------|
+| ------- | ----------- |
 | 1 | 30 saat |
 | 2 | 1 minit |
 | 3 | 2 minit |
@@ -142,7 +143,7 @@ Semasa dipenjarakan:
 Penjenayah boleh memilih untuk **menyerah** pada gesaan yang ditetapkan sebelum ditangkap. Menyerah mengurangkan separuh masa penjara, dan membuat mereka keluar dengan lebih bersih:
 
 | Bintang | Serah masa penjara | Passive kunci selepas dilepaskan |
-|-------|----------------------|----------------------------|
+| ------- | ---------------------- | ---------------------------- |
 | 1 | 15 saat | 60 saat |
 | 2 | 30 saat | 2 min |
 | 3 | 1 min | 4 min |
@@ -156,7 +157,7 @@ Kunci Passive bermakna mereka tidak boleh mendayakan semula mod pasif serta-mert
 Jika pemain yang dikehendaki log keluar pada pertengahan kesalahan, mereka akan dikenakan hukuman penjara **lebih teruk** apabila kembali:
 
 | Bintang | LTAA masa penjara |
-|-------|----------------|
+| ------- | ---------------- |
 | 1 | 45 saat |
 | 2 | 90 saat |
 | 3 | 150 saat |
@@ -206,7 +207,7 @@ Oleh kerana had zon berada pada 60-80 studs/s dan radar hanya mencatatkan pada 2
 Polis kenderaan dibuka berdasarkan gabungan **tahap pemain** dan **tahap sektor**.
 
 | Kenderaan | Tahap pemain | Peringkat sektor | Harga |
-|---------|--------------|--------------|-------|
+| --------- | -------------- | -------------- | ------- |
 | Protan Wira MPV Polis | 1 | 1 | Percuma |
 | Protan Waja MPV Polis | 15 | - | 6,500 Ringgit |
 | Handai City MPV Polis | 1 | 35 | 12,000 Ringgit |
@@ -223,7 +224,7 @@ Lihat [Kenderaan](/ms/sumaya/vehicles) untuk butiran.
 Polis mempunyai **16 pangkat**, paling banyak daripada mana-mana perkhidmatan kecemasan. Tajuk adalah berdasarkan kedudukan Polis MYSverse sebenar (POLIS).
 
 | Tahap | Kedudukan |
-|-------|------|
+| ------- | ------ |
 | 1 | Polis Konstabel |
 | 6 | Lans Koperal (L/Kpl) |
 | 11 | Koperal (Kpl) |

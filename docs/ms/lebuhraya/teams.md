@@ -2,7 +2,7 @@
 title: Pasukan & Kerjaya
 description: Kesemua 18 pasukan di Lebuhraya dan sistem pangkat 20 peringkat.
 lang: ms
-translated_from_hash: 141942bf
+translated_from_hash: 8c54bbf4
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -33,14 +33,14 @@ Jika anda berada dalam pasukan kerja dan cuba membuka pemijah kenderaan awam, pe
 ### Percuma untuk semua orang
 
 | Pasukan | Penerangan |
-|---|---|
+| --- | --- |
 | **Visitors** | Pasukan lalai apabila anda menyertai. Bagus untuk main peranan sebagai komuter atau pelancong. |
 | **Bus Driver** | Memandu van mini dan bas pada laluan yang dijadualkan. Percuma dan terbuka kepada semua orang - pintu masuk yang bagus. |
 
 ### Dibuka kunci oleh keahlian komuniti MYSverse
 
 | Pasukan | Bagaimana untuk membuka kunci |
-|---|---|
+| --- | --- |
 | **Malaysians** | Sertai kumpulan MYSverse Malaysian Community Roblox (ID 1143446) pada kedudukan 1 atau lebih tinggi. Membuka kunci akses kepada **Fishing** dan aktiviti kerja **Checkout**. |
 
 Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya bergaji biasa. Ia berguna lebih awal kerana Fishing dan Checkout tersedia sebelum tangga kerja terkunci tahap.
@@ -48,7 +48,7 @@ Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya bergaji 
 ### Dibuka kunci mengikut tahap
 
 | Pasukan | Tahap | Peranan |
-|---|---|---|
+| --- | --- | --- |
 | **Food Delivery** | 10 | Gunakan motosikal anda untuk menghantar pesanan makanan dari kedai kepada pelanggan. |
 | **Waste Disposal** | 25 | Kumpul sampah dari tong sampah dan hantar ke stesen pembakaran. |
 | **Post Office** | 50 | Hantar surat dan bungkusan untuk Pos Nasional. |
@@ -63,19 +63,19 @@ Pasukan Malaysians ialah pasukan peranan komuniti, bukan cabang kerjaya bergaji 
 ### Dibuka oleh gamepass
 
 | Pasukan | Peranan |
-|---|---|
+| --- | --- |
 | **Taxi Driver** | Pandu penumpang untuk tambang. Dibuka kunci oleh Taxi Driver atau Bandaraya gamepass. |
 | **KEMRonda** | Polis bantuan lebuh raya. Trak tunda, bantuan tepi jalan, kon boleh letak. |
 | **Bomba** | Jabatan Bomba dan Penyelamat. Trak bomba, penyebar, gergaji, 999 tindak balas kebakaran. |
 | **Polis Trafik** | Polis trafik. Taser, senapang radar, kon dan tanda polis boleh diletakkan. |
-| **Undercover Police** ​​| Kit alat yang sama seperti Polis Trafik tetapi pada kenderaan tidak bertanda. |
+| **Undercover Police** ​​ | Kit alat yang sama seperti Polis Trafik tetapi pada kenderaan tidak bertanda. |
 
 Lihat [Passes dan Boosts](/ms/lebuhraya/passes-and-boosts) untuk cara mendapatkan laluan permainan.
 
 ### Pasukan sistem
 
 | Pasukan | Penerangan |
-|---|---|
+| --- | --- |
 | **Pembangun** | Pasukan dalaman untuk kakitangan MYSverse. Tidak boleh disambung langsung. |
 | **Ditangkap** | Ditugaskan secara automatik apabila pemain ditangkap oleh Polis Trafik. |
 
@@ -119,7 +119,7 @@ Penunggang Pelatih → Penunggang Muda → Penunggang → Penunggang Kanan → K
 Pasukan dikumpulkan kepada enam agensi. Ini penting kerana beberapa ganjaran peringkat (kenderaan, kosmetik) terikat dengan agensi, bukan hanya pasukan.
 
 | Agensi | Pasukan |
-|---|---|
+| --- | --- |
 | **Polis** | KEMRonda, Polis Trafik, Undercover Police |
 | **Kecemasan** (Kecemasan) | Bomba, Kesihatan |
 | **Pengangkutan** (Pengangkutan) | Bus Driver, Taxi Driver, Logistik |

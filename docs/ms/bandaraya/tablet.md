@@ -42,7 +42,9 @@ Topbar mendapat ikon yang terikat dengan tablet - ketik ikon itu untuk togol buk
 Terminal maklumat polis. UI autentik polis dengan jenama Polis, tab mendatar, medan data monospace.
 
 #### BG Check
+
 Semak mana-mana pemain:
+
 - Pasukan dan pangkat
 - Status BOLO aktif
 - Rekod tangkapan terakhir
@@ -51,10 +53,13 @@ Semak mana-mana pemain:
 Berguna untuk membuat keputusan sama ada mahu memberhentikan seseorang.
 
 #### Senarai BOLO
+
 Lihat semua BOLO aktif (amaran Be On the LookOut) secara masa nyata. BOLO akan dibatalkan secara automatik apabila suspek ditangkap.
 
 #### Tambah BOLO
+
 Letakkan pemain dalam BOLO dengan sebab:
+
 - Semua pegawai bertugas akan dimaklumkan dengan lencana, bunyi, dan amaran toast.
 - Disiarkan kepada seluruh pasukan POLIS secara masa nyata.
 
@@ -67,6 +72,7 @@ Aplikasi koordinasi perkhidmatan kecemasan - untuk pasukan kecemasan (POLIS, BOM
 ### Vehicle Management
 
 Aplikasi kenderaan serbaguna - sesiapa yang ada tablet boleh guna untuk kegunaan asas. Ciri-ciri termasuk:
+
 - **Carian plat** - cari maklumat pendaftaran kenderaan
 - **Pengurusan pendaftaran** - daftar kenderaan yang anda miliki
 - **Penjejakan spawn** - lihat kenderaan yang telah anda spawn
@@ -74,6 +80,7 @@ Aplikasi kenderaan serbaguna - sesiapa yang ada tablet boleh guna untuk kegunaan
 ### MyTow
 
 Aplikasi operator tunda:
+
 - Lihat tundaan aktif
 - Mohon kerja tunda
 - Urus klem dari jauh (buka klem daripada tablet, tanpa perlu berjalan balik)
@@ -81,6 +88,7 @@ Aplikasi operator tunda:
 ### KKM Logger
 
 Aplikasi kementerian kesihatan:
+
 - Log tindakan perubatan
 - Jejaki rawatan pesakit
 - Laporan insiden untuk audit perubatan

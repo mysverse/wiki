@@ -16,7 +16,7 @@ Picking one of these teams puts you **on duty** as soon as you spawn. Unlike civ
 ## What makes emergency services different from civilian jobs?
 
 | | Civilian careers | Emergency services |
-|---|------------------|---------------------|
+| --- | ------------------ | --------------------- |
 | How to join | Careers app on phone | Main menu team pick |
 | Max sector level | 100 (every civilian sector - fishing, service, agro) | 100 |
 | XP per action | Flat (Service 6/customer, Agro 6/fruit, Trawl 2/fish, Rod 15/fish) - no level scaling | Flat per action (Bomba 5/block, Kesihatan 15-40/treatment, Polis 50-400 star-scaled) |

@@ -2,7 +2,7 @@
 title: Pasukan
 description: 'Lima pasukan Sumaya - Visitors, Malaysians, POLIS, BOMBA, dan Kesihatan.'
 lang: ms
-translated_from_hash: "90624e43"
+translated_from_hash: "ad698327"
 translated_on: 2026-05-18
 needs_review: true
 ---
@@ -46,7 +46,7 @@ Sertai POLIS untuk berkhidmat sebagai penguatkuasa undang-undang dan mengekalkan
 **Alat yang disediakan:**
 
 | Alat | Penerangan |
-|------|------------|
+| ------ | ------------ |
 | **Taser X26P** | Senjata tidak maut untuk menundukkan suspek |
 | **Radar Gun** | Pantau kelajuan kenderaan dan pasang perangkap kelajuan |
 | **Wisel** | Memberi amaran kepada orang awam dan pegawai lain |
@@ -77,7 +77,7 @@ Sertai BOMBA untuk bertindak balas terhadap insiden kebakaran dan melindungi ban
 **Alat yang disediakan:**
 
 | Alat | Penerangan |
-|------|------------|
+| ------ | ------------ |
 | **Alat Pemadam Api** | Pemadam mudah alih untuk memadamkan api kecil |
 
 **Sistem Hos Kebakaran:**
@@ -113,7 +113,7 @@ Sertai Kesihatan untuk menyediakan rawatan perubatan dan bertindak balas terhada
 **Alat yang disediakan:**
 
 | Alat | Penerangan |
-|------|------------|
+| ------ | ------------ |
 | **Kit Pertolongan Cemas** | Mendiagnosis kecederaan pesakit di lapangan |
 | **Pembalut** | Merawat luka terbuka dan luka koyak |
 | **Splint** | Menstabilkan patah tulang |

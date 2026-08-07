@@ -153,7 +153,7 @@ Yes - **private servers** are available (purchase from the Roblox experience pag
 Yes - open **Main Menu -> Shop** and use the code redemption field. A few codes are permanently active:
 
 | Code | Reward | Uses |
-|---|---|---|
+| --- | --- | --- |
 | `experience` | 250 XP | Up to 5 times |
 | `unlimitedpowarr` | 1,000 XP | Unlimited |
 | `gokartracing` | Free Go-Kart (Special spawner) | Once |

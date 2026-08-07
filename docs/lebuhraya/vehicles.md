@@ -30,7 +30,7 @@ After you click **Spawn**, some spawners ask you to choose an open pad and paint
 Different physical spawners show different vehicle categories:
 
 | Spawner | Typical contents |
-|---|---|
+| --- | --- |
 | **Basic / Civ** | Starter and standard civilian cars |
 | **Bike** | Motorcycles and scooters |
 | **Premium / Prem** | Premium or higher-level civilian cars |
@@ -56,7 +56,7 @@ You have access to **27 vehicles** from the start - enough to find something you
 Vehicle prices scale loosely with level. Rough guide:
 
 | Level | Typical price range |
-|---|---|
+| --- | --- |
 | L1–10 | BR 1,050 – 8,000 |
 | L20–40 | BR 10,000 – 22,400 |
 | L50–100 | BR 15,000 – 20,000 |
@@ -69,7 +69,7 @@ About **28 vehicles** are sold through the **Dealership** view in the vehicle sp
 ### Locked-card meanings
 
 | Lock text | Meaning |
-|---|---|
+| --- | --- |
 | **Level X** | Reach that player level first |
 | **Tier X** | Rank up the matching career branch |
 | **Vehicle locked** | You do not own the special/gamepass/code vehicle |
@@ -80,7 +80,7 @@ About **28 vehicles** are sold through the **Dealership** view in the vehicle sp
 Most of the fleet is loosely parodied from real Malaysian and global brands. If you know a real car, there's probably a stand-in here.
 
 | Category | Examples |
-|---|---|
+| --- | --- |
 | Compact cars | Protan Saga, Perosatu Myvi, Perosatu Bezza, Protan Persona, Perosatu Alza Plus |
 | Sedans / saloons | Protan Preve, Protan Inspira, Protan S70, Tayoti Camry, Merze C300 |
 | SUVs | Protan X50, Protan X70, Tayoti Hilux, Masubi Outlander, MZ CX-5, Rolvo XC40/XC90 |
@@ -102,7 +102,7 @@ Most team-specific vehicles (Bomba, KKN, Police) are unlocked through your caree
 Every vehicle runs on one of three fuel types.
 
 | Fuel | Price per litre |
-|---|---|
+| --- | --- |
 | **Electric** | 1 BR |
 | **Petrol** | 2 BR |
 | **Diesel** | 3 BR |
@@ -218,7 +218,7 @@ Use ELS only when responding to an incident. Cruising with lights on is a commun
 Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscape HUD that appears when you interact with the control panel inside the cabin:
 
 | Vehicle | Team | Panel |
-|---|---|---|
+| --- | --- | --- |
 | iZu Tow Truck KEMRonda | KEMRonda | Tow Boom Controls |
 | iZu Tow Bed KEMRonda | KEMRonda | Flatbed Controls |
 | Tayoti Hilux KKN RRV | Kesihatan | Rescue Winch Controls |
@@ -229,7 +229,7 @@ Six specialised vehicles have a **tow/winch panel** - a mobile-friendly landscap
 **Keyboard shortcuts** (once the panel is open):
 
 | Key | Action |
-|---|---|
+| --- | --- |
 | **1** | Toggle Attach mode for Winch 1 (click a vehicle/part to target it) |
 | **2** | Toggle Attach mode for Winch 2 (flatbeds/wreckers with a second winch) |
 | **X** | Cancel attach mode |

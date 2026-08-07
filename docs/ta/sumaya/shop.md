@@ -4,7 +4,7 @@ description: >-
   Sumaya-வில் கேம்பாஸ்கள், Robux பணத் தொகுப்புகள், உலகுக்குள் கடைகள், உணவு
   கடைகள், படகு எரிபொருள் கேன்கள், மற்றும் கருவிகள்.
 lang: ta
-translated_from_hash: 1ec63681
+translated_from_hash: def7b00f
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -27,7 +27,7 @@ Main Menu-வை திறக்கவும் (சேரும் திரை
 ### இப்போது வாங்கக்கூடியவை
 
 | Item | வகை | நீங்கள் பெறுவது |
-|------|------|--------------|
+| ------ | ------ | -------------- |
 | **Retro Vehicles** | Gamepass | நிலையான civilian dealer-இல் classic / retro car pack-ஐ திறக்கும்: **Protan Saga 1985** (இலவசம்), **Merzda Miata** (12,000 SR), **Nisun S15 Silvia** (20,000 SR), **Joguar XJ308 R** (29,000 SR). உரிமையாளர்கள் அல்லாதவர்கள் gamepass prompt பின்னால் பூட்டப்பட்ட cards-ஐ பார்க்கலாம். [வாகனங்கள்](/ta/sumaya/vehicles) பார்க்கவும். |
 
 ### விரைவில் வரும்
@@ -35,7 +35,7 @@ Main Menu-வை திறக்கவும் (சேரும் திரை
 இந்த cards இப்போது shop-இல் தெரியும், ஆனால் purchase button முடக்கப்பட்டுள்ளது. அணி gamepass / product IDs-ஐ முடித்தவுடன் அவை live ஆகும்.
 
 | Item | வகை | திட்டமிடப்பட்ட விளைவு |
-|------|------|----------------|
+| ------ | ------ | ---------------- |
 | **Income / Job XP Booster** | Gamepass | தகுதி உள்ள careers மற்றும் public-service work-க்கு +25% job Ringgit மற்றும் +25% job-sector XP. Player-level XP, quest rewards, crime payouts, ATM transfers, donations/Sadaqa, refunds, அல்லது shop / vehicle / house purchases-ஐ **boost செய்யாது**. முழு eligibility list-க்கு [பொருளாதாரம்](/ta/sumaya/economy) பார்க்கவும். |
 | **Car Radio / Boombox** | Gamepass | தேர்ந்தெடுக்கப்பட்ட in-car radio மற்றும் அருகிலுள்ள boombox. Custom audio IDs முடக்கப்பட்டே இருக்கும். |
 | **Premium EV Vehicles** | Gamepass | civilian dealer-க்கு premium electric vehicle pack சேர்க்கிறது. |
@@ -79,7 +79,7 @@ In-game gamepass / cash purchases Roblox-இன் சாதாரண Marketplac
 Fishing trawlers-க்கு refuel cans விற்கிறது. Cars-க்கு refuelling தேவையில்லை.
 
 | Can | Refill | விலை |
-|-----|--------|-------|
+| ----- | -------- | ------- |
 | Red | +25 fuel | 75 SR |
 | Green | +50 fuel | 100 SR |
 | Black | +75 fuel | 125 SR |

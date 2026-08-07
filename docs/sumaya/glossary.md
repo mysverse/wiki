@@ -12,7 +12,7 @@ A reference list of Malaysian (Malay) words and Sumaya-specific game terms.
 These come from everyday Malaysian/Malay vocabulary. You'll see them throughout the game.
 
 | Term | Meaning | Game usage |
-|------|---------|------------|
+| ------ | --------- | ------------ |
 | **Ringgit** | The Malaysian currency (real-world: MYR). | Sumaya's in-game currency. Abbreviated **SR** in the UI (Sumaya Ringgit). |
 | **Bomba** | Fire brigade (from the Portuguese-origin Malay). | One of the emergency-service teams - firefighters. |
 | **Kesihatan** | Health / medical. | The medical / paramedic emergency-service team. |
@@ -42,7 +42,7 @@ These come from everyday Malaysian/Malay vocabulary. You'll see them throughout 
 These appear in Bomba ranks:
 
 | Abbreviation | Meaning |
-|--------------|---------|
+| -------------- | --------- |
 | PB | Pegawai Bomba (Fire Officer) |
 | PBK | Pegawai Bomba Kanan (Senior Fire Officer) |
 | PBT | Pegawai Bomba Tinggi (Leading Fire Officer) |
@@ -59,7 +59,7 @@ These appear in Bomba ranks:
 For Polis, the abbreviations are based on Polis MYSverse (POLIS) rank initials:
 
 | Abbreviation | Meaning |
-|--------------|---------|
+| -------------- | --------- |
 | L/Cpl | Lance Corporal |
 | Cpl | Corporal |
 | Sgt | Sergeant |
@@ -79,7 +79,7 @@ For Polis, the abbreviations are based on Polis MYSverse (POLIS) rank initials:
 ## Game-specific terms
 
 | Term | Definition |
-|------|------------|
+| ------ | ------------ |
 | **SR** | Sumaya Ringgit - the in-game currency abbreviation. Same as "Ringgit". |
 | **Wallet** | Your immediately-accessible cash. Can be stolen via pickpocket. |
 | **Bank** | Your secure savings. Cannot be pickpocketed. Accessed via ATM. |
@@ -124,7 +124,7 @@ For Polis, the abbreviations are based on Polis MYSverse (POLIS) rank initials:
 ## Abbreviations commonly seen
 
 | Abbrev | Meaning |
-|--------|---------|
+| -------- | --------- |
 | SR | Sumaya Ringgit (currency) |
 | XP | Experience points |
 | POI | Point of Interest (on minimap) |

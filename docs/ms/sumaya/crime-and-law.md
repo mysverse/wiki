@@ -2,7 +2,7 @@
 title: Jenayah & Undang-Undang
 description: 'Rompakan kereta, mencopet, bintang dicari, dan penjara di Sumaya.'
 lang: ms
-translated_from_hash: 509ffbad
+translated_from_hash: f8704298
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -19,7 +19,7 @@ Setiap jenayah yang anda lakukan akan menambah **mata kesalahan**. Lebih banyak 
 ### Ambang Bintang Dikehendaki
 
 | Mata kesalahan | Bintang Dikehendaki |
-|----------------|---------------------|
+| ---------------- | --------------------- |
 | 0-24 | Tiada |
 | 25-59 | 1 bintang |
 | 60-119 | 2 bintang |
@@ -38,11 +38,13 @@ Jika anda berjaya bersembunyi (tiada kesalahan baharu) selama **5 minit berturut
 Curi kenderaan parkir orang lain.
 
 **Apa yang anda perlukan:**
+
 - Alat **Slim Jim** (percuma daripada NPC **Abang Samseng (Carjack)**, cari dia di peta dan tahan prompt jarak dekat). Slim Jim **digunakan habis** sekali pakai, jadi anda perlu kembali untuk mendapatkan satu lagi setiap kali rompakan.
 - Anda tidak boleh berada dalam pasukan penguatkuasa undang-undang.
 - Anda tidak boleh berada dalam mod pasif, ditangkap, atau ditahan.
 
 **Cara ia berfungsi:**
+
 1. Hampiri kenderaan yang diparkir dan tidak diduduki dengan Slim Jim disandang.
 2. Tahan F (atau setara mudah alih) selama **3 saat** dalam jarak 10 stud dari kerusi pemandu.
 3. Kenderaan kini dicuri, ia milik anda untuk dipandu.
@@ -52,6 +54,7 @@ Curi kenderaan parkir orang lain.
 **Ganjaran:** **500 hingga 1,200 Ringgit** (rawak, dibayar ke akaun bank anda).
 
 **Had:**
+
 - Kenderaan curian akan hilang secara automatik selepas **5 minit**. Anda akan menerima amaran pada 60 saat dan 10 saat sebelum tamat.
 - Anda hanya boleh memiliki **satu kenderaan curian pada satu masa**.
 - Selepas merompak kereta sekali, anda dikenakan **5 minit waktu rehat peribadi** sebelum boleh merompak kereta lagi.
@@ -65,9 +68,11 @@ Curi kenderaan parkir orang lain.
 Curi Ringgit terus daripada dompet pemain lain.
 
 **Apa yang anda perlukan:**
+
 - Alat **Pickpocket Knife** (percuma daripada NPC **Abang Samseng (Pickpocket)**, tahan prompt jarak dekat untuk "Take Pickpocket Knife", kira-kira 1.5 saat).
 
 **Cara ia berfungsi:**
+
 1. Sandang alat **Pickpocket Knife**.
 2. Berada dalam jarak **8 stud** daripada sasaran anda.
 3. Tahan tindakan selama **2 saat** tanpa dikesan.
@@ -76,6 +81,7 @@ Curi Ringgit terus daripada dompet pemain lain.
 **Ganjaran:** **80 hingga 300 Ringgit** (jumlah rawak, daripada dompet mangsa).
 
 **Had:**
+
 - Setelah anda mencopet seseorang, terdapat **waktu rehat 30 saat** sebelum anda boleh mencopet lagi.
 - Mangsa mempunyai **waktu rehat 60 saat** di mana mereka tidak boleh dicopet semula.
 - Terdapat **tetingkap pemulihan 180 saat** di mana mangsa mungkin boleh melaporkan / menuntut semula.
@@ -97,6 +103,7 @@ Mencopet NPC juga mengambil mata kesalahan, tetapi NPC tidak boleh mengejar atau
 Seludupkan haiwan liar tidak sah merentasi Sumaya untuk bayaran tunai.
 
 **Cara ia berfungsi:**
+
 1. Cari **NPC jenayah** yang berdiri di "criminal part" (berpusing di sekitar peta setiap 3 minit, cari spawn yang diserlahkan).
 2. Terima kerja melalui prompt.
 3. Alat haiwan tidak sah akan diberikan kepada anda.
@@ -106,7 +113,7 @@ Seludupkan haiwan liar tidak sah merentasi Sumaya untuk bayaran tunai.
 **Haiwan yang tersedia:**
 
 | Haiwan | Bayaran (ke bank) |
-|--------|-------------------|
+| -------- | ------------------- |
 | Illegal Turtle Egg | 400 Ringgit |
 | Illegal Pangolin | 1,000 Ringgit |
 | Illegal Hornbill | 2,000 Ringgit |
@@ -114,6 +121,7 @@ Seludupkan haiwan liar tidak sah merentasi Sumaya untuk bayaran tunai.
 Haiwan yang anda dapat adalah rawak.
 
 **Had:**
+
 - Waktu rehat 3 minit antara kerja.
 - Anda perlu membawa haiwan ke destinasi, tidak boleh dijatuhkan atau ditangkap di pertengahan jalan.
 
@@ -124,7 +132,7 @@ Haiwan yang anda dapat adalah rawak.
 Beberapa tindakan lain juga menambah mata kesalahan walaupun ia bukannya betul-betul "kerakusan jenayah":
 
 | Kesalahan | Mata | Kunci pasif |
-|-----------|------|-------------|
+| ----------- | ------ | ------------- |
 | Kemalangan kenderaan (melanggar pemain lain atau kereta parkir) | 5 | 30 saat |
 | Memandu laju dalam zon perangkap kelajuan | 10 | 60 saat |
 
@@ -146,7 +154,7 @@ Jika seorang pemain POLIS berjaya menggunakan gari pada anda semasa anda Dikehen
 ### Tempoh penjara
 
 | Bintang Dikehendaki semasa tangkapan | Masa penjara |
-|--------------------------------------|--------------|
+| -------------------------------------- | -------------- |
 | 1 | 30 saat |
 | 2 | 1 minit |
 | 3 | 2 minit |
@@ -164,7 +172,7 @@ Jika seorang pemain POLIS berjaya menggunakan gari pada anda semasa anda Dikehen
 Daripada lari daripada polis, anda boleh berjalan ke **prompt Menyerah Diri** (biasanya berdekatan balai polis atau lokasi awam) dan menyerahkan diri. Ini mengurangkan masa penjara anda kira-kira separuh:
 
 | Bintang | Masa penjara jika menyerah diri | Kunci pasif selepas dibebaskan |
-|---------|----------------------------------|--------------------------------|
+| --------- | ---------------------------------- | -------------------------------- |
 | 1 | 15 saat | 1 minit |
 | 2 | 30 saat | 2 minit |
 | 3 | 1 minit | 4 minit |
@@ -178,7 +186,7 @@ Kunci pasif bermakna anda tidak boleh menogolkan mod pasif untuk tempoh tersebut
 Jika anda log keluar semasa Dikehendaki, anda akan menjalani **lebih banyak** masa penjara pada sesi seterusnya:
 
 | Bintang | Masa penjara LTAA |
-|---------|-------------------|
+| --------- | ------------------- |
 | 1 | 45 saat |
 | 2 | 90 saat |
 | 3 | 150 saat |
@@ -199,7 +207,7 @@ Pada saat seorang pegawai POLIS **menggunakan taser** pada anda atau **menahan**
 **Mati atau keluar semasa tetingkap ini** akan menghantar anda ke **penjara mengelak pertempuran** yang *dua kali ganda* daripada tempoh LTAA biasa, jelas lebih teruk daripada menjalani tangkapan bersih:
 
 | Bintang | Penjara mengelak pertempuran | (berbanding LTAA biasa) |
-|---------|------------------------------|-------------------------|
+| --------- | ------------------------------ | ------------------------- |
 | 1 | 60 saat | 45 s |
 | 2 | 2 minit | 90 s |
 | 3 | 4 minit | 150 s |

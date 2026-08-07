@@ -2,7 +2,7 @@
 title: 常见问题与技巧
 description: Lebuhraya 新玩家的常见问题与快速上手技巧。
 lang: zh
-translated_from_hash: 9a52e17a
+translated_from_hash: 562d400d
 translated_on: '2026-05-19'
 needs_review: true
 ---
@@ -149,21 +149,21 @@ Passive 模式是一个开关，可防止基于工具的交互 - 武器、泰瑟
 
 ### 有单人/私人模式吗？
 
-是的 - **私人服务器**可用（从Roblox体验页面购买）。请参阅下面专用的 **[私人服务器](#private-servers)** 部分，了解所有者获得的所有内容、常见用例和限制。
+是的 - **私人服务器**可用（从Roblox体验页面购买）。请参阅下面专用的 **[私人服务器](#私人服务器)** 部分，了解所有者获得的所有内容、常见用例和限制。
 
 ### 有促销代码吗？
 
 是 - 打开 **Main Menu -> 商店** 并使用代码兑换字段。一些代码永久有效：
 
-|代码|奖励 |用途 |
-|---|---|---|
-| `experience` | 250 XP |最多 5 次 |
-| `unlimitedpowarr` | 1,000 XP |无限|
-| `gokartracing` |免费卡丁车（特殊生成器）|一次 |
-| `fd2r` |免费Handai CivicFD2R（特殊生成器）|一次 |
-| `renjer` |免费 Renjer Loader 2012（特殊生成器）|一次 |
-| `outlandish` |免费Masubi Outlander（特殊生成器）|一次 |
-| `MYS5KFOLLOWERS` |免费 Intero Citie Bas Sekolah (Bus Driver 刷怪笼) |一次 |
+| 代码 | 奖励 | 用途 |
+| --- | --- | --- |
+| `experience` | 250 XP | 最多 5 次 |
+| `unlimitedpowarr` | 1,000 XP | 无限 |
+| `gokartracing` | 免费卡丁车（特殊生成器） | 一次 |
+| `fd2r` | 免费Handai CivicFD2R（特殊生成器） | 一次 |
+| `renjer` | 免费 Renjer Loader 2012（特殊生成器） | 一次 |
+| `outlandish` | 免费Masubi Outlander（特殊生成器） | 一次 |
+| `MYS5KFOLLOWERS` | 免费 Intero Citie Bas Sekolah (Bus Driver 刷怪笼) | 一次 |
 
 事件代码（有时限）偶尔会出现在社区活动、大会和道歉补偿中 - 请观看 MYSverse 频道以获取它们。
 

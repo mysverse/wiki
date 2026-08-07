@@ -50,6 +50,7 @@ Bandaraya menggunakan enjin fizik **A-Chassis**. Kawalan:
 | Butang pada skrin | Hon, siren, lampu, pintu, tingkap - kenderaan kecemasan mempunyai banyak |
 
 ### Stereng tetikus
+
 **F1** adalah yang penting. Dengan stereng tetikus dihidupkan, kedudukan tetikus anda mengawal sudut roda - jauh lebih halus daripada papan kekunci sahaja. Kebanyakan pemandu berpengalaman menggunakannya.
 
 ### Tip untuk memandu
@@ -132,6 +133,7 @@ Pameran untuk orang awam. Berjalan dekat, pilih model, konfigurasi, bayar.
 Contoh set warna (Perodua Myvi): Granite Grey, Peppermint Green, Lava Red, Glittering Silver, Ivory White, Sunflower Yellow.
 
 ### Kenderaan HCC
+
 Jika anda memiliki **gamepass High Class Citizen**, kenderaan mewah (BMW i7, Volvo XC90, Mercedes C300) juga tersedia di pameran.
 
 ## Helikopter
