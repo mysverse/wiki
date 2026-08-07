@@ -17,9 +17,10 @@
   },
   "scripts": {
     "generate:social": "node scripts/generate-social-images.mjs",
+    "generate:knowledge": "node scripts/generate-knowledge-base.mjs",
     "check:social": "node scripts/check-social-images.mjs",
-    "docs:dev": "pnpm run generate:social && vitepress dev docs",
-    "docs:build": "pnpm run generate:social && vitepress build docs",
+    "docs:dev": "pnpm run generate:knowledge && pnpm run generate:social && vitepress dev docs",
+    "docs:build": "pnpm run generate:knowledge && pnpm run generate:social && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "format": "pnpm run format:markdown",
     "format:markdown": "node scripts/format-markdown.mjs",
