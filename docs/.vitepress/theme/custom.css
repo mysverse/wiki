@@ -124,7 +124,8 @@ body {
     var(--vp-c-bg);
 }
 
-.VPNav {
+.VPNavBar {
+  -webkit-backdrop-filter: blur(18px) saturate(130%);
   backdrop-filter: blur(18px) saturate(130%);
 }
 
@@ -183,11 +184,13 @@ body {
   transform: scaleX(1);
 }
 
-.VPNavBarSearchButton {
-  border: 1px solid var(--vp-c-divider) !important;
-  border-radius: 999px !important;
-  background: var(--vp-c-bg-elv) !important;
-  box-shadow: var(--mys-shadow-sm);
+@media (min-width: 768px) {
+  .VPNavBarSearchButton {
+    border: 1px solid var(--vp-c-divider) !important;
+    border-radius: 999px !important;
+    background: var(--vp-c-bg-elv) !important;
+    box-shadow: var(--mys-shadow-sm);
+  }
 }
 
 .VPSidebar {
