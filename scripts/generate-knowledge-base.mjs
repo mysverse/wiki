@@ -23,6 +23,51 @@ async function getMarkdownFiles(dir) {
   return results;
 }
 
+function deriveSystemTags(text) {
+  const lower = text.toLowerCase();
+  const tags = new Set();
+
+  if (/script|code|api|logic|datastore|remote|event|command|mdt|tablet|phone/i.test(lower)) {
+    tags.add("scripting");
+  }
+  if (/build|model|map|location|building|shop|house|housing|zone|spawn/i.test(lower)) {
+    tags.add("building");
+  }
+  if (/ui|gui|hud|screen|interface|menu|dialog/i.test(lower)) {
+    tags.add("ui");
+  }
+  if (/economy|money|price|pay|cost|sell|buy|market|tax|salary|ringgit/i.test(lower)) {
+    tags.add("economy");
+  }
+  if (/police|pdrm|polis|bomba|fire|health|kesihatan|hospital|emergency|els/i.test(lower)) {
+    tags.add("emergency");
+  }
+  if (/job|career|gig|fishing|palm|palm oil|service|work/i.test(lower)) {
+    tags.add("jobs");
+  }
+  if (/car|vehicle|drive|transit|mrt|lrt|ktm|bus|fuel/i.test(lower)) {
+    tags.add("vehicles");
+  }
+
+  return Array.from(tags);
+}
+
+function summarizeText(rawText) {
+  const clean = rawText
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/!\[.*?\]\(.*?\)/g, "")
+    .replace(/\[(.*?)\]\(.*?\)/g, "$1")
+    .replace(/[#\*_`>~]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!clean) return "";
+  const sentences = clean.split(/(?<=[.!?])\s+/).filter((s) => s.length > 10);
+  if (sentences.length === 0) return clean.slice(0, 180);
+  const selected = sentences.slice(0, 2).join(" ");
+  return selected.length > 200 ? `${selected.slice(0, 197)}...` : selected;
+}
+
 function extractSections(markdownBody) {
   const lines = markdownBody.split("\n");
   const sections = [];
@@ -33,9 +78,12 @@ function extractSections(markdownBody) {
     const match = line.match(/^#{2,3}\s+(.+)$/);
     if (match) {
       if (currentLines.length > 0) {
+        const bodyText = currentLines.join("\n").trim();
         sections.push({
           heading: currentHeading,
-          content: currentLines.join("\n").trim(),
+          summary: summarizeText(bodyText),
+          content: bodyText.slice(0, 2000), // bounded
+          systemTags: deriveSystemTags(`${currentHeading} ${bodyText}`),
         });
       }
       currentHeading = match[1].replace(/[\`\*\_]/g, "").trim();
@@ -46,9 +94,12 @@ function extractSections(markdownBody) {
   }
 
   if (currentLines.length > 0) {
+    const bodyText = currentLines.join("\n").trim();
     sections.push({
       heading: currentHeading,
-      content: currentLines.join("\n").trim(),
+      summary: summarizeText(bodyText),
+      content: bodyText.slice(0, 2000),
+      systemTags: deriveSystemTags(`${currentHeading} ${bodyText}`),
     });
   }
 
@@ -61,7 +112,7 @@ function extractTags(title, content) {
     .replace(/[^a-z0-9\s_-]/g, " ")
     .split(/\s+/)
     .filter((w) => w.length > 3);
-  return Array.from(new Set(words)).slice(0, 30);
+  return Array.from(new Set(words)).slice(0, 25);
 }
 
 async function buildKnowledgeBase() {
@@ -76,7 +127,7 @@ async function buildKnowledgeBase() {
     const segments = relativePath.split(path.sep);
 
     const locale = localeNames.has(segments[0]) ? segments.shift() : "en";
-    if (locale !== "en") continue; // English is the single source of truth knowledge base
+    if (locale !== "en") continue;
 
     const slug = segments.join("/").replace(/\.md$/, "").replace(/\/index$/, "");
     const game = ["bandaraya", "lebuhraya", "sumaya", "faq"].includes(segments[0])
@@ -93,6 +144,8 @@ async function buildKnowledgeBase() {
     const description = String(parsed.data.description || "").trim();
     const canonicalUrl = `https://mys.wiki/${slug ? `${slug}` : ""}`;
     const sections = extractSections(parsed.content);
+    const summary = summarizeText(parsed.content);
+    const systemTags = deriveSystemTags(`${title} ${description} ${parsed.content}`);
     const tags = extractTags(title, parsed.content);
 
     articles.push({
@@ -100,15 +153,16 @@ async function buildKnowledgeBase() {
       game,
       title,
       description,
+      summary,
       canonicalUrl,
+      systemTags,
       sections,
-      content: parsed.content.slice(0, 10000), // bounded sample
       tags,
     });
   }
 
   const payload = {
-    version: "1.0",
+    version: "2.0",
     generatedAt: new Date().toISOString(),
     totalArticles: articles.length,
     articles,
@@ -117,7 +171,7 @@ async function buildKnowledgeBase() {
   await mkdir(publicRoot, { recursive: true });
   const outputPath = path.join(publicRoot, "knowledge-base.json");
   await writeFile(outputPath, JSON.stringify(payload, null, 2), "utf8");
-  console.log(`Generated knowledge-base.json with ${articles.length} articles at ${outputPath}`);
+  console.log(`Generated dense knowledge-base.json (v2.0) with ${articles.length} articles at ${outputPath}`);
 }
 
 buildKnowledgeBase().catch((err) => {
