@@ -10,7 +10,7 @@ For human-facing translation policy, see [`TRANSLATIONS.md`](./TRANSLATIONS.md).
 
 ## Repo layout
 
-```
+```text
 docs/
   index.md                       EN root home (layout: home, hero block)
   bandaraya/*.md                 EN pages for Bandaraya
@@ -47,7 +47,7 @@ AGENTS.md                        ← you are here
 
 The three source repos live alongside this one and change frequently. Re-sync from these whenever asked to "check for drift" or "update the wikis":
 
-```
+```text
 C:/Users/yan3321/rblx/bandaraya/wiki/
 C:/Users/yan3321/rblx/lebuhraya/wiki/
 C:/Users/yan3321/rblx/sumaya/wiki/
@@ -161,6 +161,17 @@ pnpm docs:build                      # full VitePress build - must finish withou
 
 ## Verification gates (must all pass before declaring done)
 
+Format all Markdown before running the gates:
+
+```bash
+pnpm format
+```
+
+This applies markdownlint's safe fixes across the repository. When formatting
+changes an English page body, the formatter also refreshes hash stamps for
+translations that were fresh before the change. It leaves already-stale
+translations stale.
+
 Run the full gate as a single command:
 
 ```bash
@@ -187,6 +198,7 @@ If any of these fail, fix before reporting completion. Do not report "done" with
 **Translate:** prose, headings, table cells, list items, frontmatter `title`/`description`, image `alt` text, custom-container titles.
 
 **Preserve verbatim:**
+
 - Link URLs (`[label](/path)` - translate the label, never the path)
 - Image paths
 - Code blocks and inline code
@@ -197,11 +209,13 @@ If any of these fail, fix before reporting completion. Do not report "done" with
 - Malay loanwords (keep as-is in all locales): mamak, kampung, Jom, Jelajah, Belum, Semua, Ditemui, Baca Maklumat, Sadaqa, Abang Samseng, Pasaram, Nelayan, Sdn. Bhd., Jalan, Lorong, Daerah, Ringgit, Bomba, Polis, Kesihatan
 
 **Locale conventions:**
+
 - `ms` - natural Malaysian Bahasa Melayu. Reuse: Pasukan (Teams), Kenderaan (Vehicles), Telefon (Phone), Ekonomi (Economy), Kerjaya (Jobs/Careers), Perumahan (Housing), Mula (Get started), Soalan Lazim (FAQ).
 - `zh` - Malaysian-style Simplified Mandarin. Reuse: 城市 (Bandaraya context), 高速公路 (Lebuhraya context), 队伍 (Teams), 车辆 (Vehicles), 手机 (Phone), 经济 (Economy), 职业 (Jobs), 房屋 (Housing), 入门 (Get started), 任务 (Quests).
 - `ta` - modern Malaysian Tamil. Reuse: நகரம் (Bandaraya context), நெடுஞ்சாலை (Lebuhraya context), அணிகள் (Teams), வாகனங்கள் (Vehicles), தொலைபேசி (Phone), பொருளாதாரம் (Economy), வேலைகள் (Jobs), வீட்டுவசதி (Housing), தொடங்கு (Get started), பணிகள் (Quests). Transliterate brand names where natural.
 
 **Mechanics:**
+
 - One source sentence → one target sentence. No editorial additions, no translator notes.
 - The first H1 in the body MUST match the translated `title` in frontmatter.
 - Markdown structure (table syntax, blank lines, list markers, fences) stays identical.

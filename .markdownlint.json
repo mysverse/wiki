@@ -1,8 +1,23 @@
 {
+    "MD013": false,
+    "MD024": false,
+    "MD025": {
+        "front_matter_title": ""
+    },
+    "MD026": false,
     "MD033": {
         "allowed_elements": [
             "video",
-            "iframe"
+            "iframe",
+            "WaypointSteps",
+            "WaypointStep",
+            "WikiGallery",
+            "WikiFigure",
+            "ProgressionTrack",
+            "ProgressionLane"
         ]
+    },
+    "MD060": {
+        "style": "compact"
     }
 }
