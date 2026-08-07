@@ -52,8 +52,8 @@ const initial = computed(() =>
   margin-bottom: 18px;
   color: var(--vp-c-text-2);
   font-size: 12px;
-  font-weight: 780;
-  letter-spacing: 0.09em;
+  font-weight: 650;
+  letter-spacing: 0.11em;
   text-transform: uppercase;
 }
 
@@ -68,10 +68,10 @@ h1 {
   display: flex;
   flex-direction: column;
   margin: 0;
-  letter-spacing: -0.055em;
-  line-height: 0.98;
+  letter-spacing: -0.032em;
+  line-height: 1.02;
   font-size: clamp(3rem, 7vw, 5.25rem);
-  font-weight: 850;
+  font-weight: 740;
 }
 
 .home-hero-name {
@@ -82,12 +82,13 @@ h1 {
 }
 
 .home-hero-text {
-  max-width: 12ch;
-  margin-top: 12px;
+  max-width: 13ch;
+  margin-top: 16px;
   color: var(--vp-c-text-1);
   font-size: 0.55em;
-  letter-spacing: -0.04em;
-  line-height: 1.08;
+  font-weight: 680;
+  letter-spacing: -0.018em;
+  line-height: 1.14;
 }
 
 p {

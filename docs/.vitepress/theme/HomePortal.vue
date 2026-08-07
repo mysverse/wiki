@@ -172,18 +172,18 @@ function initialFor(index: number) {
   grid-column: 1 / -1;
   color: var(--mys-red);
   font-size: 12px;
-  font-weight: 800;
-  letter-spacing: 0.1em;
+  font-weight: 650;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
 .portal-heading h2 {
   margin: 0;
   max-width: 15ch;
-  letter-spacing: -0.045em;
-  line-height: 1.04;
+  letter-spacing: -0.024em;
+  line-height: 1.1;
   font-size: clamp(2.1rem, 4vw, 3.5rem);
-  font-weight: 830;
+  font-weight: 720;
 }
 
 .portal-heading p {
@@ -246,7 +246,7 @@ function initialFor(index: number) {
   z-index: 1;
   color: white;
   font-size: 18px;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .portal-card-body {

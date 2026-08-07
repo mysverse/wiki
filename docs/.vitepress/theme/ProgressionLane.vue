@@ -49,8 +49,8 @@ const shouldReduceMotion = useReducedMotion();
 .lane-eyebrow {
   color: var(--lane-accent);
   font-size: 10px;
-  font-weight: 820;
-  letter-spacing: 0.1em;
+  font-weight: 650;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 

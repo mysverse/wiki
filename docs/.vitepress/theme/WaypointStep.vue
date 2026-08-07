@@ -60,7 +60,8 @@ h3 {
   margin: 0 0 7px;
   color: var(--vp-c-text-1);
   font-size: 14px;
-  font-weight: 780;
+  font-weight: 650;
+  letter-spacing: 0.005em;
   line-height: 1.35;
 }
 
