@@ -36,7 +36,7 @@ const delay = computed(() => {
   border: 1px solid var(--vp-c-divider);
   border-radius: 16px;
   padding: 15px;
-  background: color-mix(in srgb, var(--vp-c-bg-elv) 92%, var(--game-accent-soft));
+  background: color-mix(in srgb, var(--vp-c-bg-elv) 94%, var(--game-accent) 6%);
   box-shadow: 0 10px 30px rgb(23 32 51 / 5%);
 }
 

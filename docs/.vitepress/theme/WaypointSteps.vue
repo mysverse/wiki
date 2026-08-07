@@ -18,6 +18,7 @@
   top: 25px;
   right: 7%;
   left: 7%;
+  z-index: 0;
   height: 2px;
   background: repeating-linear-gradient(
     90deg,
@@ -28,6 +29,7 @@
 
 .waypoint-grid {
   position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 12px;
