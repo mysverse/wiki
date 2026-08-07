@@ -448,6 +448,15 @@ body {
     --vp-nav-height: 64px;
   }
 
+  .VPHomeHero {
+    margin-top: 0 !important;
+    padding-top: clamp(28px, 6vw, 56px) !important;
+  }
+
+  .VPHomeHero .image {
+    margin: 0 0 clamp(28px, 5vw, 44px) !important;
+  }
+
   .VPNavBarTitle .logo {
     max-width: 154px;
   }
